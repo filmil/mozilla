@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2005-07-05 22:48\n"
-"PO-Revision-Date: 2006-11-15 20:53+0100\n"
+"PO-Revision-Date: 2006-11-15 23:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -142,7 +142,7 @@ msgstr "&Неповезан рад"
 
 #: synchronizeOfflineCmd.label synchronizeOfflineCmd.accesskey
 msgid "Download/&Sync Now..."
-msgstr "Преузми и синхронизуј одмах..."
+msgstr "Преузми и &синхронизуј одмах..."
 
 #: settingsOfflineCmd.label settingsOfflineCmd.accesskey
 msgid "Offlin&e Settings"
@@ -380,7 +380,7 @@ msgstr "Да"
 
 #: radioAutoDownload.accesskey
 msgid "e"
-msgstr "а"
+msgstr ""
 
 #: radioNotDownload radioNotSend
 msgid ""
@@ -390,7 +390,7 @@ msgstr "Не"
 
 #: radioNotDownload.accesskey
 msgid "o"
-msgstr "е"
+msgstr ""
 
 #: radioAskDownload radioAskUnsent
 msgid ""
@@ -400,7 +400,7 @@ msgstr "Питај ме"
 
 #: radioAskDownload.accesskey
 msgid "k"
-msgstr "ј"
+msgstr ""
 
 #: Diskspace
 msgid "Disk Space"
@@ -19950,15 +19950,15 @@ msgstr "Лични речник"
 
 #: wordEditField.label wordEditField.accessKey
 msgid "&New word:"
-msgstr "Н"
+msgstr "&Нова реч:"
 
 #: DictionaryList.label DictionaryList.accessKey
 msgid "&Words in dictionary:"
-msgstr "Р"
+msgstr "&Речи у речнику:"
 
 #: ReplaceButton.label ReplaceButton.accessKey
 msgid "&Replace"
-msgstr "З"
+msgstr "&Замени"
 
 #: Insert
 msgid "Insert"
@@ -20115,18 +20115,14 @@ msgstr "пре оверавања документа"
 msgid ""
 "_: SaveFilePrompt\n"
 "Save changes to \"%title%\" %reason%?"
-msgstr ""
-"_: SaveFilePrompt\n"
-"Да ли треба сачувати измене „%title%“ %reason%?"
+msgstr "Да ли треба сачувати измене „%title%“ %reason%?"
 
 # LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
 #: PublishPrompt SaveFilePrompt
 msgid ""
 "_: PublishPrompt\n"
 "Save changes to \"%title%\" %reason%?"
-msgstr ""
-"_: PublishPrompt\n"
-"Да ли треба салувати измене „%title%“ %reason%?"
+msgstr "Да ли треба салувати измене „%title%“ %reason%?"
 
 #: SaveFileFailed
 msgid "Saving file failed!"
@@ -20751,7 +20747,7 @@ msgstr "Тачкаст:"
 
 #: startingNumber.label startingNumber.accessKey
 msgid "&Start at:"
-msgstr "П"
+msgstr "&Почни на:"
 
 #: bulletList.value
 msgid "Bullet (Unnumbered) List"
@@ -20771,11 +20767,11 @@ msgstr "При промени врсте списка:"
 
 #: changeEntireListRadio.label changeEntireListRadio.accessKey
 msgid "&Change entire list"
-msgstr "П"
+msgstr "&Промени цео списак"
 
 #: changeSelectedRadio.label changeSelectedRadio.accessKey
 msgid "Change just selected &items"
-msgstr "И"
+msgstr "Промени само &изабране ставке"
 
 # 
 # - The contents of this file are subject to the Netscape Public
@@ -20866,7 +20862,7 @@ msgstr "Поставке слике"
 #: locationEditField.label locationEditField.accessKey
 #: leftRightEditField.accessKey
 msgid "Image &Location:"
-msgstr "М"
+msgstr "&Место слике:"
 
 #: locationEditField.tooltip
 msgid "Type the image's filename or location"
@@ -20874,7 +20870,7 @@ msgstr "Унесите име датотеке са сликом или мест
 
 #: title.label title.accessKey topBottomEditField.accessKey
 msgid "&Tooltip:"
-msgstr "О"
+msgstr "&Облачић:"
 
 #: title.tooltip
 msgid "The html 'title' attribute that displays as a tooltip"
@@ -20882,7 +20878,7 @@ msgstr "ХТМЛ атрибут 'title' који се приказује у об
 
 #: altText.label altText.accessKey actualSizeRadio.accessKey
 msgid "&Alternate text:"
-msgstr "Т"
+msgstr "&Алтернативни текст:"
 
 #: altTextEditField.tooltip
 msgid "Type text to display in place of the image"
@@ -20890,7 +20886,7 @@ msgstr "Унесите текст који ће бити приказан уме
 
 #: noAltText.label noAltText.accessKey
 msgid "&Don't use alternate text"
-msgstr "Н"
+msgstr "&Не користи алтернативни текст"
 
 #: previewBox.label
 msgid "Image Preview"
@@ -20908,7 +20904,7 @@ msgstr "Стварна величина:"
 
 #: actualSizeRadio.label actualSizeRadio.accessKey altText.accessKey
 msgid "&Actual Size"
-msgstr "Стварна величина"
+msgstr "&Стварна величина"
 
 #: actualSizeRadio.tooltip
 msgid "Revert to the image's actual size"
@@ -20916,7 +20912,7 @@ msgstr "Врати полазну величину слике"
 
 #: customSizeRadio.label customSizeRadio.accessKey
 msgid "Custom &Size"
-msgstr "П"
+msgstr "&Произвољна величина"
 
 #: customSizeRadio.tooltip
 msgid "Change the image's size as displayed in the page"
@@ -20924,15 +20920,15 @@ msgstr "Промени величину слике која се приказу�
 
 #: heightEditField.label heightEditField.accessKey
 msgid "Hei&ght:"
-msgstr "В"
+msgstr "&Висина"
 
 #: widthEditField.label widthEditField.accessKey
 msgid "&Width:"
-msgstr "Ш"
+msgstr "&Ширина"
 
 #: constrainCheckbox.label constrainCheckbox.accessKey
 msgid "&Constrain"
-msgstr "О"
+msgstr "&Ограничи"
 
 #: constrainCheckbox.tooltip
 msgid "Maintain the image's aspect ratio"
@@ -20984,22 +20980,22 @@ msgstr "Унесите величину оквира слике"
 #: leftRightEditField.label leftRightEditField.accessKey
 #: locationEditField.accessKey
 msgid "&Left and Right:"
-msgstr "Лево и десно:"
+msgstr "&Лево и десно:"
 
 #: topBottomEditField.label topBottomEditField.accessKey title.accessKey
 msgid "&Top and Bottom:"
-msgstr "Врх и дно:"
+msgstr "&Врх и дно:"
 
 #: borderEditField.label borderEditField.accessKey
 #: showImageLinkBorder.accessKey
 msgid "Solid &Border:"
-msgstr "И"
+msgstr "Попуњена &ивица:"
 
 # These controls are in the Link Box
 #: showImageLinkBorder.label showImageLinkBorder.accessKey
 #: borderEditField.accessKey
 msgid "Show &border around linked image"
-msgstr "Прикажи оквир око увезане слике"
+msgstr "Прикажи &оквир око увезане слике"
 
 # These controls may be added some day; currently not used
 #: makePageBackgroundCheckbox.label
@@ -21174,15 +21170,15 @@ msgstr "Убаци табелу"
 
 #: numRowsEditField.label numRowsEditField.accessKey
 msgid "&Rows:"
-msgstr "Р"
+msgstr "&Редови"
 
 #: numColumnsEditField.label numColumnsEditField.accessKey
 msgid "&Columns:"
-msgstr "К"
+msgstr "&Колоне:"
 
 #: borderEditField.label borderEditField.accessKey
 msgid "&Border:"
-msgstr "О"
+msgstr "&Оквир:"
 
 #: borderEditField.tooltip
 msgid "Type a number for the table's border, or type zero (0) for no border"
@@ -21401,11 +21397,11 @@ msgstr "Десно"
 
 #: threeDShading.label threeDShading.accessKey
 msgid "3-D &Shading"
-msgstr "е"
+msgstr "3D &сенчење"
 
 #: saveSettings.label saveSettings.accessKey
 msgid "Use as &Default"
-msgstr "и"
+msgstr "Кор&исти као подразумевано"
 
 #: saveSettings.tooltip
 msgid "Save these settings to use when inserting new horizontal lines"
@@ -21443,7 +21439,7 @@ msgstr "Боје страна"
 
 #: defaultColorsRadio.label defaultColorsRadio.accessKey
 msgid "Reader's default colors (&Don't set colors in page)"
-msgstr "П"
+msgstr "&Подразумеване боје у читачу (не постављај боје на страници)"
 
 #: defaultColorsRadio.tooltip
 msgid "Use the color settings from the viewer (reader's) browser only"
@@ -21451,7 +21447,7 @@ msgstr "Користи искључиво подешавања из корисн
 
 #: customColorsRadio.label customColorsRadio.accessKey
 msgid "Use &custom colors:"
-msgstr "Б"
+msgstr "Користи произвољне &боје:"
 
 #: customColorsRadio.tooltip
 msgid "These color settings override the viewer's browser settings"
@@ -21459,19 +21455,19 @@ msgstr "Ова подешавања имају предност над кори�
 
 #: normalText.label normalText.accessKey
 msgid "&Normal text"
-msgstr "О"
+msgstr "Н&ормалан текст"
 
 #: linkText.label linkText.accessKey
 msgid "&Link text"
-msgstr "В"
+msgstr "Текст &везе"
 
 #: activeLinkText.label activeLinkText.accessKey
 msgid "&Active link text"
-msgstr "А"
+msgstr "Текст &активне везе"
 
 #: visitedLinkText.label visitedLinkText.accessKey
 msgid "&Visited link text"
-msgstr "П"
+msgstr "Текст &посећене везе"
 
 #: colon.character
 msgid ":"
@@ -21479,7 +21475,7 @@ msgstr ":"
 
 #: backgroundImage.label backgroundImage.accessKey
 msgid "Background I&mage:"
-msgstr "с"
+msgstr "Позадинска &слика:"
 
 #: backgroundImage.tooltip
 msgid "Use an image file as the background for your page"
@@ -21517,7 +21513,7 @@ msgstr "&Слово:"
 
 #: character.label character.accessKey
 msgid "&Character:"
-msgstr "&Карактер:"
+msgstr "&Знак:"
 
 #: accentUpper.label
 msgid "Accent Uppercase"
@@ -21798,7 +21794,7 @@ msgstr ""
 # 
 #: lastPickedColor.label lastPickedColor.accessKey
 msgid "&Last-picked color"
-msgstr "Л"
+msgstr "&Последња изабрана боја"
 
 #: setColor1.label
 msgid "Click on a color or"
@@ -21806,7 +21802,7 @@ msgstr "Изаберите боју или"
 
 #: setColor2.label setColor2.accessKey
 msgid "enter an &HTML color string"
-msgstr "Х"
+msgstr "Унесите &ХТМЛ ознаку за боју"
 
 #: setColorExample.label
 msgid "(e.g.: &quot;#0000ff&quot; or &quot;blue&quot;):"
@@ -21814,7 +21810,7 @@ msgstr "(нпр.: &quot;#0000ff&quot; или &quot;blue&quot;):"
 
 #: default.label default.accessKey
 msgid "&Default"
-msgstr "П"
+msgstr "&Подразумевано"
 
 #: palette.label
 msgid "Palette:"
@@ -21830,15 +21826,15 @@ msgstr "Све веб боје"
 
 #: background.label background.accessKey
 msgid "&Background for:"
-msgstr "О"
+msgstr "П&озадина за:"
 
 #: table.label table.accessKey
 msgid "&Table"
-msgstr "Т"
+msgstr "&Табела"
 
 #: cell.label cell.accessKey
 msgid "&Cell(s)"
-msgstr "Ћ"
+msgstr "&Ћелија"
 
 #: filemenu.accesskey editfind.accesskey editfind.keybinding
 #: formattingtb.accesskey formatfontmenu.accesskey localfontmenu.accesskey
@@ -21848,7 +21844,7 @@ msgstr "Ћ"
 msgid ""
 "_: filemenu.accesskey\n"
 "f"
-msgstr "Д"
+msgstr ""
 
 #: newBlankPageCmd.label
 msgid "Composer Page"
@@ -21859,7 +21855,7 @@ msgstr "Уредник страна"
 msgid ""
 "_: newBlankPage.accesskey\n"
 "P"
-msgstr "Н"
+msgstr ""
 
 #: openFileCmd.label
 msgid "Open File..."
@@ -21870,14 +21866,14 @@ msgstr "Отвори датотеку..."
 msgid ""
 "_: fileopen.accesskey\n"
 "o"
-msgstr "О"
+msgstr ""
 
 #: fileopen.keybinding fileopen.accesskey inserthline.accesskey
 #: tablecolumn.accesskey
 msgid ""
 "_: fileopen.keybinding\n"
 "o"
-msgstr "о"
+msgstr ""
 
 #: openremoteCmd.label
 msgid "Open Web Location..."
@@ -21891,7 +21887,7 @@ msgstr "Отвори ел. место..."
 msgid ""
 "_: fileopenremote.accesskey\n"
 "l"
-msgstr "У"
+msgstr ""
 
 # Tools menu
 #: fileopenremote.keybinding fileopenremote.accesskey editpastelink.accesskey
@@ -21901,7 +21897,7 @@ msgstr "У"
 msgid ""
 "_: fileopenremote.keybinding\n"
 "l"
-msgstr "у"
+msgstr ""
 
 #: fileRecentMenu.label
 msgid "Recent Pages"
@@ -21913,7 +21909,7 @@ msgstr "Скорашње стране"
 msgid ""
 "_: filerecentmenu.accesskey\n"
 "r"
-msgstr "с"
+msgstr ""
 
 #: filerevert.accesskey fileprintpreview.accesskey
 #: editpastequotation.keybinding editfindprev.accesskey validate.accesskey
@@ -21921,7 +21917,7 @@ msgstr "с"
 msgid ""
 "_: filerevert.accesskey\n"
 "v"
-msgstr "в"
+msgstr ""
 
 #: filesave.accesskey filesave.keybinding editcheckspelling.accesskey
 #: viewpagesource.accesskey size-small.accesskey formatstylemenu.accesskey
@@ -21929,7 +21925,7 @@ msgstr "в"
 msgid ""
 "_: filesave.accesskey\n"
 "s"
-msgstr "С"
+msgstr ""
 
 #: filesave.keybinding filesave.accesskey editcheckspelling.accesskey
 #: viewpagesource.accesskey size-small.accesskey formatstylemenu.accesskey
@@ -21937,13 +21933,13 @@ msgstr "С"
 msgid ""
 "_: filesave.keybinding\n"
 "s"
-msgstr "с"
+msgstr ""
 
 #: filesaveas.accesskey insertanchor.accesskey
 msgid ""
 "_: filesaveas.accesskey\n"
 "A"
-msgstr "К"
+msgstr ""
 
 #: publishcmd.accesskey insertbreak.accesskey stylebold.accesskey
 #: stylebold.keybinding paragraphblockquote.accesskey listbullet.accesskey
@@ -21951,7 +21947,7 @@ msgstr "К"
 msgid ""
 "_: publishcmd.accesskey\n"
 "b"
-msgstr "О"
+msgstr ""
 
 #: publishAsCmd.label
 msgid "Publish As..."
@@ -21961,7 +21957,7 @@ msgstr "Објави као..."
 msgid ""
 "_: publishas.accesskey\n"
 "h"
-msgstr "к"
+msgstr ""
 
 #: exportToTextCmd.label
 msgid "Export to Text..."
@@ -21971,7 +21967,7 @@ msgstr "Запиши као текст..."
 msgid ""
 "_: fileexporttotext.accesskey\n"
 "T"
-msgstr "Т"
+msgstr ""
 
 #: saveAsChangeEncodingCmd.label
 msgid "Save And Change Character Encoding"
@@ -21981,7 +21977,7 @@ msgstr "Запиши и промени скуп знакова"
 msgid ""
 "_: filesaveandchangeencoding.accesskey\n"
 "E"
-msgstr "З"
+msgstr ""
 
 #: previewCmd.label
 msgid "Browse Page"
@@ -21991,7 +21987,7 @@ msgstr "Прегледај страну"
 msgid ""
 "_: filepreview.accesskey\n"
 "w"
-msgstr "р"
+msgstr ""
 
 #: sendPageCmd.label
 msgid "Send Page..."
@@ -22002,7 +21998,7 @@ msgstr "Пошаљи страну..."
 msgid ""
 "_: sendPage.accesskey\n"
 "d"
-msgstr "ш"
+msgstr ""
 
 #: printSetupCmd.label
 msgid "Page Setup..."
@@ -22013,7 +22009,7 @@ msgstr "Подеси страну..."
 msgid ""
 "_: fileprintsetup.accesskey\n"
 "u"
-msgstr "т"
+msgstr ""
 
 #: fileprintpreview.accesskey filerevert.accesskey
 #: editpastequotation.keybinding editfindprev.accesskey validate.accesskey
@@ -22021,7 +22017,7 @@ msgstr "т"
 msgid ""
 "_: fileprintpreview.accesskey\n"
 "v"
-msgstr "г"
+msgstr ""
 
 #: printCmd.label printButtonCmd.label
 msgid ""
@@ -22040,14 +22036,14 @@ msgstr "Штампај..."
 msgid ""
 "_: fileprint.accesskey\n"
 "p"
-msgstr "м"
+msgstr ""
 
 #: fileprint.keybinding fileprint.accesskey viewparagraphmarks.accesskey
 #: paste.accesskey stylesuperscript.accesskey toolplaineditor.accesskey
 msgid ""
 "_: fileprint.keybinding\n"
 "p"
-msgstr "Ш"
+msgstr ""
 
 #: fileclose.accesskey pasteColumns.accesskey compositiontb.accesskey
 #: copy.accesskey fontcourier.accesskey formatfontcolor.accesskey
@@ -22055,7 +22051,7 @@ msgstr "Ш"
 msgid ""
 "_: fileclose.accesskey\n"
 "c"
-msgstr "з"
+msgstr ""
 
 #: fileclose.keybinding filepreview.accesskey
 msgid ""
@@ -22067,19 +22063,19 @@ msgstr "З"
 msgid ""
 "_: fileexit.accesskey\n"
 "q"
-msgstr "к"
+msgstr ""
 
 #: fileexit.keybinding fileexit.accesskey editpastequotation.accesskey
 msgid ""
 "_: fileexit.keybinding\n"
 "q"
-msgstr "К"
+msgstr ""
 
 #: editmenu.accesskey insertinputtag.accesskey size-xx-large.accesskey
 msgid ""
 "_: editmenu.accesskey\n"
 "e"
-msgstr "У"
+msgstr ""
 
 #: pasteNoFormatting.label pasteNoFormatting.accesskey
 msgid "Paste With&out Formatting"
@@ -22097,7 +22093,7 @@ msgstr "О&бјава поставки за ел.место..."
 msgid ""
 "_: pasteHTML.accesskey\n"
 "h"
-msgstr "Х"
+msgstr ""
 
 #: pasteTextCmd.label NormalAbbr.label
 msgid ""
@@ -22111,7 +22107,7 @@ msgstr "Текст"
 msgid ""
 "_: pasteText.accesskey\n"
 "t"
-msgstr "т"
+msgstr ""
 
 #: pasteImageCmd.label imageToolbarCmd.label
 msgid ""
@@ -22125,7 +22121,7 @@ msgstr "Слика"
 msgid ""
 "_: pasteImage.accesskey\n"
 "i"
-msgstr "с"
+msgstr ""
 
 #: pasteRowsCmd.label
 msgid "Rows"

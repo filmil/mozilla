@@ -4,7 +4,7 @@
 #  Програми за претварање Мозилиних датотека у ПО датотеке и обратно
 MOZ2PO:=moz2po
 PO2MOZ:=po2moz
-
+MSGMERGE:=msgmerge
 #  Брисање датотека
 RM:=rm -f
 RMDIR:=rm -fr
@@ -33,8 +33,4 @@ cleanpot:
 # УБР, чак и ако покренете није страшно јер чувамо и старе верзије
 # превода, али не треба правити посао без посла.
 initpo:
-	@echo "Initializing the translation directory"
-	@if [ -a po/sr-RS ]; then \
-		$(RMDIR) po/sr-RS; \
-	fi
-	$(MOZ2PO) -i source/sr-RS -o po/sr-RS
+	. scripts/initpo.sh
