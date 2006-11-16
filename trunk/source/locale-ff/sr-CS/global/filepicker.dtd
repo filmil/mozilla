@@ -1,0 +1,16 @@
+<!ENTITY lookInMenuList.label "Погледај у:">
+<!ENTITY lookInMenuList.accesskey "L">
+<!ENTITY textInput.label "Назив датотеке:">
+<!ENTITY textInput.accesskey "n">
+<!ENTITY filterMenuList.label "Тип датотека:">
+<!ENTITY filterMenuList.accesskey "t">
+<!ENTITY name.label "Име">
+<!ENTITY size.label "Величина">
+<!ENTITY lastModified.label "Последња измена">
+<!ENTITY permissions.label "Права">
+<!ENTITY showHiddenFiles.label "Приказ сакривених датотека и директоријума">
+<!ENTITY showHiddenFiles.accesskey "S">
+<!ENTITY noPermissionError.label "Немате дозволу неопходну за приступ овом директоријуму.">
+<!ENTITY folderUp.tooltiptext "Пређи на виши ниво">
+<!ENTITY folderHome.tooltiptext "Пређи на почетак">
+<!ENTITY folderNew.tooltiptext "Направи нови директоријум">

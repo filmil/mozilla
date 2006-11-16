@@ -1,0 +1,21 @@
+<!-- extracted from printdialog.xul -->
+<!ENTITY printButton.label "Print">
+<!ENTITY printDialog.title "Штампа">
+<!ENTITY fpDialog.title "Сачувај датотеку">
+<!ENTITY fileCheck.label "Штампај у датотеку">
+<!ENTITY propertiesButton.label "Својства...">
+<!ENTITY descText.label "Опис штампача:">
+<!ENTITY printer.label "Штампач">
+<!ENTITY printerInput.label "Назив штампача:">
+<!ENTITY printrangeGroup.label "Опсег штампе">
+<!ENTITY allpagesRadio.label "Све стране">
+<!ENTITY rangeRadio.label "Страница">
+<!ENTITY frompageInput.label "од">
+<!ENTITY topageInput.label "до">
+<!ENTITY selectionRadio.label "Изабрани део">
+<!ENTITY copies.label "Копије">
+<!ENTITY numCopies.label "Број копија:">
+<!ENTITY printframeGroup.label "Штампа фрејмова">
+<!ENTITY aslaidoutRadio.label "Као што је на екрану">
+<!ENTITY selectedframeRadio.label "Изабраног фрејма">
+<!ENTITY eachframesepRadio.label "Посебно сваки фрејм">
