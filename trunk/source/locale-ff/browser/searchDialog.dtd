@@ -1,0 +1,11 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY searchCaption.label          "Web Search">
+<!ENTITY searchButton.label           "Search">
+<!ENTITY searchFor.label              "Search For:">
+<!ENTITY searchFor.accesskey          "S">
+<!ENTITY searchWith.label             "Search With:">
+<!ENTITY searchWith.accesskey         "W">
+<!ENTITY searchInNewTab.label         "Open search results in a new tab">
+<!ENTITY searchInNewTab.accesskey     "O">
+<!ENTITY searchDialog.style           "width: 30em;">
