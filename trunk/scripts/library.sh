@@ -15,3 +15,9 @@ find_matching() {
 num_params () {
     echo $#
 }
+
+make_nonexistent_dir () {
+    DIR=`dirname $1`
+    echo "Making dir: " $DIR
+    mkdir -p $DIR
+}

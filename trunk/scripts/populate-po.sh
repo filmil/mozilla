@@ -8,11 +8,9 @@
 # У оба случајева се користи и Громоптицин речник. 
 
 DICT=dictionary/thunderbird.po
-
 SOURCE_DIR=source/sr-RS
 TRANS_DIR=source/locale-ff
-
-DEST_DIR=po/sr-RS
+DEST_DIR=po/source/
 
 . scripts/library.sh
 
@@ -23,18 +21,12 @@ fi
 
 TMPFILE=`mktemp /tmp/populate-po-XXXXXX`
 
-make_nonexistent_dir () {
-    DIR=`dirname $1`
-    echo "Making dir: " $DIR
-    mkdir -p $DIR
-}
-
-for f in `find $SOURCE_DIR ! -name '*.css' ! -name '*.dic' ! -name '*.rdf' ! -wholename '*.svn*' -type f -name '*'`; do
+for f in `find $SOURCE_DIR ! -name '*.txt' ! -name '*.xml' ! -name '*.js' ! -name '*.mk' ! -name '*.aff' ! -name '*.diff' ! -name '*.css' ! -name '*.dic' ! -name '*.rdf' ! -wholename '*.svn*' -type f -name '*'`; do
     MATCH=`find_matching $TRANS_DIR $f`
     NUMPARA=`num_params $MATCH`
     
     case $NUMPARA in
-	0) echo "Copying $f to $DEST_DIR/$f.po"
+	0) echo "Copying $f to po/$f.po"
 	    moz2po -o $TMPFILE -i $f
 	    make_nonexistent_dir po/$f.po
 	    msgmerge --compendium=$DICT $TMPFILE $TMPFILE > po/$f.po
@@ -48,10 +40,5 @@ for f in `find $SOURCE_DIR ! -name '*.css' ! -name '*.dic' ! -name '*.rdf' ! -wh
     esac
 done
 
-CMDLINE="find $SOURCE_DIR -name '*.rdf' -o -name '*.dic' -o -name '*.css' -o -name '*.js'"
-for g in `$CMDLINE`; do
-    echo "Blank copying resource: $g" 
-    cp $g $SRC_DIR/$g
-done
 
 rm $TMPFILE
