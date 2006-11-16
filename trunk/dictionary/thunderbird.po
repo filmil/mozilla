@@ -72,7 +72,7 @@ msgstr "&Затвори"
 
 #: closeCmd.key
 msgid "W"
-msgstr "З"
+msgstr ""
 
 #: quitApplicationCmd.label quitApplicationCmd.accesskey
 msgid "&Quit"
@@ -80,7 +80,7 @@ msgstr "&Крај"
 
 #: quitApplicationCmd.key
 msgid "Q"
-msgstr "К"
+msgstr ""
 
 #: redoCmd.label redoCmd.accesskey
 msgid "&Redo"
@@ -88,15 +88,15 @@ msgstr "&Понови"
 
 #: radioAutoSend.accesskey
 msgid "Y"
-msgstr "Д"
+msgstr ""
 
 #: findTypeTextCmd.key
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #: findTypeLinksCmd.key
 msgid "'"
-msgstr "'"
+msgstr ""
 
 #: accel.emacs_conflict
 msgid "accel,shift"
@@ -122,11 +122,11 @@ msgstr "Обнови"
 
 #: undoCmd.key
 msgid "Z"
-msgstr "О"
+msgstr ""
 
 #: accesskey-help
 msgid "H"
-msgstr "П"
+msgstr ""
 
 #: accel.emacs_conflict
 msgid "accel"
@@ -320,7 +320,7 @@ msgstr "Запамти претходно стање везе"
 
 #: radioRememberPrevState.accesskey
 msgid "R"
-msgstr "З"
+msgstr ""
 
 #: radioAskMe
 msgid "Ask me for online state at startup"
@@ -328,7 +328,7 @@ msgstr "Питај ме за стање везе при покретању"
 
 #: radioAskMe.accesskey
 msgid "A"
-msgstr "П"
+msgstr ""
 
 #: radioAlwaysOnline
 msgid "Always start up online"
@@ -336,7 +336,7 @@ msgstr "Увек ради на вези"
 
 #: radioAlwaysOnline.accesskey
 msgid "l"
-msgstr "У"
+msgstr ""
 
 #: textGoingOnline
 msgid "Send unsent messages when going online?"
@@ -356,7 +356,7 @@ msgstr "Не"
 
 #: radioNotSend.accesskey
 msgid "N"
-msgstr "Н"
+msgstr ""
 
 #: radioAskUnsent radioAskDownload
 msgid ""
@@ -366,7 +366,7 @@ msgstr "Питај ме"
 
 #: radioAskUnsent.accesskey
 msgid "s"
-msgstr "т"
+msgstr ""
 
 #: textGoingOffline
 msgid "Download messages for offline use when going offline?"
@@ -434,7 +434,7 @@ msgstr "&Уредник страна"
 
 #: newBlankPageCmd.key
 msgid "n"
-msgstr "н"
+msgstr ""
 
 #: newPageFromTemplateCmd.label newPageFromTemplateCmd.accesskey
 msgid "Page Using &Template"
@@ -464,7 +464,7 @@ msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr "с"
+msgstr ""
 
 #: copyCmd.label copyCmd.accesskey
 msgid "&Copy"
@@ -472,7 +472,7 @@ msgstr "Умн&ожи"
 
 #: copyCmd.key
 msgid "C"
-msgstr "У"
+msgstr ""
 
 #: pasteCmd.label pasteCmd.accesskey
 msgid "&Paste"
@@ -480,7 +480,7 @@ msgstr "У&баци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr "Н"
+msgstr ""
 
 #: deleteCmd.label deleteCmd.accesskey
 msgid "&Delete"
@@ -488,7 +488,7 @@ msgstr "&Обриши"
 
 #: deleteCmd.key
 msgid "D"
-msgstr "б"
+msgstr ""
 
 #: selectAllCmd.label selectAllCmd.accesskey
 msgid "Select &All"
@@ -1571,7 +1571,7 @@ msgstr "Не шаљи никад"
 
 #: newMessageCmd.key
 msgid "M"
-msgstr "П"
+msgstr ""
 
 #: newMessageCmd.label newMessageCmd.accesskey
 msgid "&Message"
@@ -3568,7 +3568,7 @@ msgstr "П&ретражи поруке"
 
 #: searchMailCmd.key
 msgid "f"
-msgstr "f"
+msgstr ""
 
 #: javaScriptConsoleCmd.label javaScriptConsoleCmd.accesskey
 msgid "Java&Script Console"
@@ -4458,13 +4458,13 @@ msgstr "Додај..."
 
 #: AddHtmlDomain.accesskey
 msgid "a"
-msgstr "д"
+msgstr ""
 
 #: AddPlainText.accesskey add.htmldomain.accesskey add.plaintext.accesskey
 msgid ""
 "_: AddPlainText.accesskey\n"
 "d"
-msgstr "т"
+msgstr ""
 
 #: DeleteButton.label
 msgid "Delete"
@@ -4472,7 +4472,7 @@ msgstr "Уклони"
 
 #: DeletePlainText.accesskey
 msgid "t"
-msgstr "к"
+msgstr ""
 
 #: add.htmltitle
 msgid "Add HTML Domain Name"
@@ -4486,7 +4486,7 @@ msgstr "Име домена за HTML:"
 msgid ""
 "_: add.htmldomain.accesskey\n"
 "d"
-msgstr "м"
+msgstr ""
 
 #: add.plaintexttitle
 msgid "Add Plain Text Domain Name"
@@ -4500,7 +4500,7 @@ msgstr "Име домена за обичан текст:"
 msgid ""
 "_: add.plaintext.accesskey\n"
 "d"
-msgstr "б"
+msgstr ""
 
 # LOCALIZATION NOTE: do not translate @string@
 #: domainnameError.title
@@ -4550,7 +4550,7 @@ msgstr "&Сачувај"
 msgid ""
 "_: saveCmd.key\n"
 "S"
-msgstr "С"
+msgstr ""
 
 #: saveAsCmd.label saveAsCmd.accesskey
 msgid "Save &As"
@@ -4576,7 +4576,7 @@ msgstr "&Шаљи одмах"
 msgid ""
 "_: sendCmd.keycode\n"
 "VK_RETURN"
-msgstr "VK_RETURN"
+msgstr ""
 
 #: sendLaterCmd.label sendLaterCmd.accesskey
 msgid "Send &Later"
@@ -4586,7 +4586,7 @@ msgstr "Ша&љи касније"
 msgid ""
 "_: sendLaterCmd.keycode\n"
 "VK_RETURN"
-msgstr "VK_RETURN"
+msgstr ""
 
 #: printCmd.label printCmd.accesskey
 msgid "&Print..."
@@ -4594,7 +4594,7 @@ msgstr "&Штампа"
 
 #: printCmd.key
 msgid "P"
-msgstr "Ш"
+msgstr ""
 
 # Message Pane Context Menu
 #: undoCmd.label undoCmd.accesskey undo.label undo.accesskey
@@ -4650,13 +4650,13 @@ msgstr "На&ђи поново"
 msgid ""
 "_: findAgainCmd.key\n"
 "G"
-msgstr "ђ"
+msgstr ""
 
 #: findAgainCmd.key2 findPrevCmd.key2
 msgid ""
 "_: findAgainCmd.key2\n"
 "VK_F3"
-msgstr "VK_F3"
+msgstr ""
 
 #: findPrevCmd.label findPrevCmd.accesskey
 msgid "Find Pre&vious"
@@ -4666,13 +4666,13 @@ msgstr "Нађи прет&ходно"
 msgid ""
 "_: findPrevCmd.key\n"
 "G"
-msgstr "х"
+msgstr ""
 
 #: findPrevCmd.key2 findAgainCmd.key2
 msgid ""
 "_: findPrevCmd.key2\n"
 "VK_F3"
-msgstr "VK_F3"
+msgstr ""
 
 #: showComposeToolbarCmd.label showComposeToolbarCmd.accesskey
 msgid "Mail T&oolbar"
@@ -4706,11 +4706,11 @@ msgstr "&Правописар..."
 
 #: checkSpellingCmd.key
 msgid "K"
-msgstr "П"
+msgstr ""
 
 #: checkSpellingCmd.key2
 msgid "VK_F7"
-msgstr "VK_F7"
+msgstr ""
 
 #: quoteCmd.label quoteCmd.accesskey
 msgid "&Quote Message"
@@ -4793,7 +4793,7 @@ msgstr "Подешавање &налога..."
 msgid ""
 "_: accountManagerCmdUnix.accesskey\n"
 "S"
-msgstr "н"
+msgstr ""
 
 #: minimizeWindow.label
 msgid "Minimize"
@@ -4817,7 +4817,7 @@ msgstr "&Помоћ за &brandShortName;"
 
 #: hintsAndTipsMac.commandkey
 msgid "?"
-msgstr "?"
+msgstr ""
 
 #: quoteButton.label
 msgid "Quote"
@@ -4904,15 +4904,15 @@ msgstr "&Прилози:"
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
 #: formatToolbar.boldChar
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #: formatToolbar.italicChar
 msgid "I"
-msgstr "I"
+msgstr ""
 
 #: formatToolbar.underlineChar
 msgid "U"
-msgstr "U"
+msgstr ""
 
 #: SmileButton.tooltip
 msgid "Insert a smiley face"
@@ -6457,7 +6457,7 @@ msgstr "&Преузми нове поруке"
 msgid ""
 "_: getNewMsgCmd.key\n"
 "t"
-msgstr "т"
+msgstr ""
 
 #: getNewMsgForCmd.label getNewMsgForCmd.accesskey
 msgid "Get Ne&w Messages for"
@@ -6471,7 +6471,7 @@ msgstr "Преузми све нове поруке"
 msgid ""
 "_: getAllNewMsgCmd.key\n"
 "t"
-msgstr "т"
+msgstr ""
 
 #: getNextNMsgCmd.label getNextNMsgCmd.accesskey
 msgid "Ge&t Next 500 News Messages"
@@ -6498,7 +6498,7 @@ msgstr "Пре&именуј директоријум..."
 
 #: renameFolder.key
 msgid "VK_F2"
-msgstr "VK_F2"
+msgstr ""
 
 #: compactFolders.label
 msgid "Compact Folders"
@@ -6508,7 +6508,7 @@ msgstr "Сажми директоријуме"
 msgid ""
 "_: compactFolder.accesskey\n"
 "F"
-msgstr "С"
+msgstr ""
 
 #: emptyTrashCmd.label emptyTrashCmd.accesskey folderContextEmptyTrash.label
 #: folderContextEmptyTrash.accesskey
@@ -6531,7 +6531,7 @@ msgstr "&Штампа..."
 msgid ""
 "_: printCmd.key\n"
 "p"
-msgstr "ш"
+msgstr ""
 
 #: printPreviewCmd.label printPreviewCmd.accesskey
 msgid "Print Pre&view"
@@ -6539,7 +6539,7 @@ msgstr "Преглед шта&мпе"
 
 #: printPreviewCmd.key
 msgid "v"
-msgstr "м"
+msgstr ""
 
 # Edit Menu
 #: deleteMsgCmd.label deleteMsgCmd.accesskey
@@ -6753,7 +6753,7 @@ msgstr "&Груписано по реду"
 
 #: groupBySortCmd.key
 msgid "G"
-msgstr "Г"
+msgstr ""
 
 #: msgsMenu.label msgsMenu.accesskey
 msgid "&Messages"
@@ -6801,7 +6801,7 @@ msgstr "Рашири &све нити"
 
 #: expandAllThreadsCmd.key
 msgid "*"
-msgstr "*"
+msgstr ""
 
 #: collapseAllThreadsCmd.label collapseAllThreadsCmd.accesskey
 msgid "&Collapse All Threads"
@@ -6809,7 +6809,7 @@ msgstr "С&купи све нити"
 
 #: collapseAllThreadsCmd.key
 msgid "\\"
-msgstr "\\"
+msgstr ""
 
 #: unreadMsgsCmd.label unreadMsgsCmd.accesskey viewUnread.label
 #: viewUnread.accesskey
@@ -6893,7 +6893,7 @@ msgstr "-"
 msgid ""
 "_: textZoomResetCmd.commandkey\n"
 "0"
-msgstr "0"
+msgstr ""
 
 #: textZoomResetCmd.label textZoomResetCmd.accesskey headersNormalCmd.label
 #: headersNormalCmd.accesskey
@@ -6912,7 +6912,7 @@ msgstr "Извор &поруке"
 
 #: pageSourceCmd.key
 msgid "u"
-msgstr "п"
+msgstr ""
 
 # Search Menu
 #: searchMenu.label searchMenu.accesskey
@@ -6931,19 +6931,19 @@ msgstr "На&ђи у овој поруци..."
 msgid ""
 "_: findCmd.key\n"
 "f"
-msgstr "ђ"
+msgstr ""
 
 #: findAgainCmd.key findPrevCmd.key
 msgid ""
 "_: findAgainCmd.key\n"
 "g"
-msgstr "в"
+msgstr ""
 
 #: findPrevCmd.key findAgainCmd.key
 msgid ""
 "_: findPrevCmd.key\n"
 "g"
-msgstr "х"
+msgstr ""
 
 # Go Menu
 #: goMenu.label goMenu.accesskey
@@ -6965,7 +6965,7 @@ msgstr "&Порука"
 msgid ""
 "_: nextMsgCmd.key\n"
 "f"
-msgstr "с"
+msgstr ""
 
 #: nextUnreadMsgCmd.label nextUnreadMsgCmd.accesskey prevUnreadMsgCmd.label
 #: prevUnreadMsgCmd.accesskey
@@ -6994,7 +6994,7 @@ msgstr "Н"
 msgid ""
 "_: nextUnreadThreadCmd.key\n"
 "t"
-msgstr "н"
+msgstr ""
 
 #: prevMenu.label prevMenu.accesskey
 msgid "&Previous"
@@ -7009,7 +7009,7 @@ msgstr "&Порука"
 
 #: previousMsgCmd.key
 msgid "b"
-msgstr "п"
+msgstr ""
 
 #: prevUnreadMsgCmd.label prevUnreadMsgCmd.accesskey nextUnreadMsgCmd.label
 #: nextUnreadMsgCmd.accesskey
@@ -7022,7 +7022,7 @@ msgstr "&Непрочитана"
 msgid ""
 "_: previousUnreadMsgCmd.key\n"
 "p"
-msgstr "ч"
+msgstr ""
 
 #: prevFlaggedMsgCmd.label
 msgid "Flagged Message"
@@ -7069,7 +7069,7 @@ msgstr "&Одговор"
 msgid ""
 "_: replyMsgCmd.key\n"
 "r"
-msgstr "о"
+msgstr ""
 
 #: replySenderCmd.label replySenderCmd.accesskey contextReplySender.label
 #: contextReplySender.accesskey
@@ -7093,7 +7093,7 @@ msgstr "Одговор с&вима"
 msgid ""
 "_: replyToAllMsgCmd.key\n"
 "r"
-msgstr "в"
+msgstr ""
 
 #: forwardMsgCmd.label forwardMsgCmd.accesskey contextForward.label
 #: contextForward.accesskey
@@ -7135,7 +7135,7 @@ msgstr "&Занемари нит"
 msgid ""
 "_: killThreadMenu.key\n"
 "k"
-msgstr "з"
+msgstr ""
 
 #: watchThreadMenu.label watchThreadMenu.accesskey
 msgid "&Watch Thread"
@@ -7143,7 +7143,7 @@ msgstr "По&сматрај нит"
 
 #: watchThreadMenu.key
 msgid "w"
-msgstr "с"
+msgstr ""
 
 #: fileHereMenu.label fileHereMenu.accesskey
 msgid "&File Here"
@@ -7164,57 +7164,57 @@ msgstr "&Ознака"
 msgid ""
 "_: labelCmd0.accesskey\n"
 "0"
-msgstr "0"
+msgstr ""
 
 #: labelCmd0.key textZoomResetCmd.commandkey labelCmd0.accesskey
 msgid ""
 "_: labelCmd0.key\n"
 "0"
-msgstr "0"
+msgstr ""
 
 #: labelCmd1.label labelCmd1.accesskey
 msgid "&1"
-msgstr "&1"
+msgstr ""
 
 #: labelCmd1.key messengerCmd.commandkey
 msgid ""
 "_: labelCmd1.key\n"
 "1"
-msgstr "1"
+msgstr ""
 
 #: labelCmd2.label labelCmd2.accesskey
 msgid "&2"
-msgstr "&2"
+msgstr ""
 
 #: labelCmd2.key addressBookCmd.commandkey
 msgid ""
 "_: labelCmd2.key\n"
 "2"
-msgstr "2"
+msgstr ""
 
 #: labelCmd3.label labelCmd3.accesskey
 msgid "&3"
-msgstr "&3"
+msgstr ""
 
 #: labelCmd3.key
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #: labelCmd4.label labelCmd4.accesskey
 msgid "&4"
-msgstr "&4"
+msgstr ""
 
 #: labelCmd4.key
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: labelCmd5.label labelCmd5.accesskey
 msgid "&5"
-msgstr "&5"
+msgstr ""
 
 #: labelCmd5.key
 msgid "5"
-msgstr "5"
+msgstr ""
 
 #: markMenu.label markMenu.accesskey
 msgid "Mar&k"
@@ -7229,7 +7229,7 @@ msgstr "&Као прочитано"
 msgid ""
 "_: markAsReadCmd.key\n"
 "m"
-msgstr "к"
+msgstr ""
 
 #: markAsUnreadCmd.label markAsUnreadCmd.accesskey
 msgid "As &Unread"
@@ -7243,7 +7243,7 @@ msgstr "&Нит као прочитану"
 msgid ""
 "_: markThreadAsReadCmd.key\n"
 "r"
-msgstr "н"
+msgstr ""
 
 #: markReadByDateCmd.label markReadByDateCmd.accesskey
 msgid "As Read by &Date..."
@@ -7253,7 +7253,7 @@ msgstr "Као прочитано по &датуму..."
 msgid ""
 "_: markReadByDateCmd.key\n"
 "c"
-msgstr "д"
+msgstr ""
 
 #: markAllReadCmd.label markAllReadCmd.accesskey
 msgid "&All Read"
@@ -7263,7 +7263,7 @@ msgstr "&Све као прочитано"
 msgid ""
 "_: markAllReadCmd.key\n"
 "c"
-msgstr "С"
+msgstr ""
 
 #: markFlaggedCmd.label markFlaggedCmd.accesskey sortByFlagCmd.label
 #: sortByFlagCmd.accesskey
@@ -7280,7 +7280,7 @@ msgstr "Као &отпад"
 msgid ""
 "_: markAsJunkCmd.key\n"
 "j"
-msgstr "о"
+msgstr ""
 
 #: markAsNotJunkCmd.label markAsNotJunkCmd.accesskey
 msgid "As &Not Junk"
@@ -7290,7 +7290,7 @@ msgstr "Није &отпад"
 msgid ""
 "_: markAsNotJunkCmd.key\n"
 "j"
-msgstr "о"
+msgstr ""
 
 #: recalculateJunkScoreCmd.label recalculateJunkScoreCmd.accesskey
 msgid "Run Junk Mail &Controls"
@@ -7321,19 +7321,19 @@ msgstr "Промени тему"
 msgid ""
 "_: messengerCmd.commandkey\n"
 "1"
-msgstr "1"
+msgstr ""
 
 #: addressBookCmd.commandkey labelCmd2.key
 msgid ""
 "_: addressBookCmd.commandkey\n"
 "2"
-msgstr "2"
+msgstr ""
 
 #: searchMailCmd.key findCmd.key nextMsgCmd.key
 msgid ""
 "_: searchMailCmd.key\n"
 "f"
-msgstr "т"
+msgstr ""
 
 #: searchAddressesCmd.label searchAddressesCmd.accesskey
 msgid "&Search Addresses..."
@@ -7765,7 +7765,7 @@ msgstr "Прикажи слике"
 msgid ""
 "_: quickSearchCmd.key\n"
 "k"
-msgstr "б"
+msgstr ""
 
 # Message Header Context Menu
 #: AddToAddressBook.label AddToAddressBook.accesskey
@@ -7806,7 +7806,7 @@ msgstr " Укупно:"
 msgid ""
 "_: minimizeWindow.key\n"
 "m"
-msgstr "а"
+msgstr ""
 
 #: window.title
 msgid "Message Filters"
@@ -10074,7 +10074,7 @@ msgstr "S"
 msgid ""
 "_: accesskeyForSearchButton\n"
 "S"
-msgstr "S"
+msgstr ""
 
 # searchTermOverlay stuff
 #: orSearchText
@@ -11909,7 +11909,7 @@ msgstr "Особине..."
 
 #: propertiesCmd.key
 msgid "i"
-msgstr "i"
+msgstr ""
 
 #: showAbToolbarCmd.label showAbToolbarCmd.accesskey
 msgid "Address B&ook Toolbar"
@@ -14679,11 +14679,11 @@ msgstr "Осо&бине"
 
 #: cmd.close2.commandKey
 msgid "j"
-msgstr "j"
+msgstr ""
 
 #: cmd.close2Unix.commandKey
 msgid "y"
-msgstr "y"
+msgstr ""
 
 #: cmd.cleanUp.label cmd.cleanUp.accesskey
 msgid "Cle&an Up"
@@ -15146,7 +15146,7 @@ msgstr "Провери сада"
 msgid ""
 "_: mismatchCheckNowAccesskey\n"
 "C"
-msgstr "с"
+msgstr ""
 
 #: mismatchDontCheck
 msgid "Don't Check"
@@ -15164,7 +15164,7 @@ msgstr "Следећи >"
 msgid ""
 "_: cancelButtonTextAccesskey\n"
 "C"
-msgstr "О"
+msgstr ""
 
 # FIXME This might have to change
 #: app.update.url
@@ -15413,11 +15413,11 @@ msgstr "од: "
 
 #: CertDumpPK9Email
 msgid "E"
-msgstr "E"
+msgstr ""
 
 #: CertDumpAVALocality
 msgid "L"
-msgstr "L"
+msgstr ""
 
 #: found.criticalUpdates.label
 msgid "The following Critical Updates are available for &brandShortName;:"
@@ -22057,7 +22057,7 @@ msgstr ""
 msgid ""
 "_: fileclose.keybinding\n"
 "w"
-msgstr "З"
+msgstr ""
 
 #: fileexit.accesskey fileexit.keybinding editpastequotation.accesskey
 msgid ""
@@ -22133,7 +22133,7 @@ msgstr "Редови"
 msgid ""
 "_: pasteRows.accesskey\n"
 "r"
-msgstr "р"
+msgstr ""
 
 #: pasteColumnsCmd.label
 msgid "Columns"
@@ -22145,7 +22145,7 @@ msgstr "Колоне"
 msgid ""
 "_: pasteColumns.accesskey\n"
 "c"
-msgstr "к"
+msgstr ""
 
 # LOCALIZATION NOTE: Text for menu item is in editor.properties
 # Set to: "Table" or "Nested Table" depending on context
@@ -22157,7 +22157,7 @@ msgstr "к"
 msgid ""
 "_: pasteTable.accesskey\n"
 "a"
-msgstr "т"
+msgstr ""
 
 #: pasteLinkCmd.label linkToolbarCmd.label
 msgid ""
@@ -22173,7 +22173,7 @@ msgstr "Веза"
 msgid ""
 "_: editpastelink.accesskey\n"
 "l"
-msgstr "в"
+msgstr ""
 
 #: pasteAsQuotationCmd.label
 msgid "Paste As Quotation"
@@ -22183,7 +22183,7 @@ msgstr "Убаци као цитат"
 msgid ""
 "_: editpastequotation.accesskey\n"
 "q"
-msgstr "ц"
+msgstr ""
 
 #: editpastequotation.keybinding filerevert.accesskey
 #: fileprintpreview.accesskey editfindprev.accesskey validate.accesskey
@@ -22191,7 +22191,7 @@ msgstr "ц"
 msgid ""
 "_: editpastequotation.keybinding\n"
 "v"
-msgstr "Ц"
+msgstr ""
 
 #: editStripQuotesCmd.label
 msgid "Strip Quotes"
@@ -22212,7 +22212,7 @@ msgstr "Нађи и замени..."
 msgid ""
 "_: editfind.accesskey\n"
 "f"
-msgstr "з"
+msgstr ""
 
 #: editfind.keybinding filemenu.accesskey editfind.accesskey
 #: formattingtb.accesskey formatfontmenu.accesskey localfontmenu.accesskey
@@ -22221,7 +22221,7 @@ msgstr "з"
 msgid ""
 "_: editfind.keybinding\n"
 "f"
-msgstr "З"
+msgstr ""
 
 #: editfind.keybinding2
 msgid "VK_F19"
@@ -22236,20 +22236,20 @@ msgstr "Нађи поново"
 msgid ""
 "_: editfindnext.accesskey\n"
 "g"
-msgstr "п"
+msgstr ""
 
 #: editfindnext.keybinding editfindnext.accesskey editfindprev.keybinding
 #: increasefontsize.accesskey pageproperties.accesskey
 msgid ""
 "_: editfindnext.keybinding\n"
 "g"
-msgstr "п"
+msgstr ""
 
 #: editfindnext.keybinding2 editfindprev.keybinding2
 msgid ""
 "_: editfindnext.keybinding2\n"
 "VK_F3"
-msgstr "VK_F3"
+msgstr ""
 
 #: findPrevCmd.label
 msgid "Find Previous"
@@ -22268,13 +22268,13 @@ msgstr "т"
 msgid ""
 "_: editfindprev.keybinding\n"
 "g"
-msgstr "т"
+msgstr ""
 
 #: editfindprev.keybinding2 editfindnext.keybinding2
 msgid ""
 "_: editfindprev.keybinding2\n"
 "VK_F3"
-msgstr "VK_F3"
+msgstr ""
 
 #: validateCmd.label
 msgid "Validate HTML"
@@ -22286,7 +22286,7 @@ msgstr "Провери HTML"
 msgid ""
 "_: validate.accesskey\n"
 "v"
-msgstr "р"
+msgstr ""
 
 #: checkLinksCmd.label
 msgid "Check Links"
@@ -22298,14 +22298,14 @@ msgstr "Провери везе"
 msgid ""
 "_: editcheckspelling.accesskey\n"
 "s"
-msgstr "п"
+msgstr ""
 
 #: editcheckspelling.keybinding insertbreakall.accesskey createlink.accesskey
 #: stylestrikethru.accesskey formatremovelinks.keybinding
 msgid ""
 "_: editcheckspelling.keybinding\n"
 "k"
-msgstr "п"
+msgstr ""
 
 # View menu items
 #: viewToolbarsMenu.label viewToolbarsMenu.accesskey
@@ -22337,7 +22337,7 @@ msgstr "Трака за форматирање"
 msgid ""
 "_: formattingtb.accesskey\n"
 "f"
-msgstr "ф"
+msgstr ""
 
 #: editmodeToolbarCmd.label
 msgid "Edit Mode Toolbar"
@@ -22347,7 +22347,7 @@ msgstr "Трака за начин уређивања"
 msgid ""
 "_: editmodetb.accesskey\n"
 "E"
-msgstr "к"
+msgstr ""
 
 #: viewPageSource.label
 msgid "Page Source"
@@ -22359,7 +22359,7 @@ msgstr "Изворни кôд"
 msgid ""
 "_: viewpagesource.accesskey\n"
 "s"
-msgstr "и"
+msgstr ""
 
 #: viewParagraphMarks.label
 msgid "Paragraph Marks"
@@ -22370,7 +22370,7 @@ msgstr "Ознаке за пасус"
 msgid ""
 "_: viewparagraphmarks.accesskey\n"
 "p"
-msgstr "о"
+msgstr ""
 
 # Insert menu items
 # Insert SubMenu
@@ -22386,7 +22386,7 @@ msgstr "Убаци"
 msgid ""
 "_: insertmenu.accesskey\n"
 "i"
-msgstr "у"
+msgstr ""
 
 #: insertLinkCmd.label
 msgid "Link..."
@@ -22400,7 +22400,7 @@ msgstr "Повежи..."
 msgid ""
 "_: insertlink.accesskey\n"
 "l"
-msgstr "в"
+msgstr ""
 
 # Tools menu
 #: insertlink.keybinding fileopenremote.accesskey fileopenremote.keybinding
@@ -22410,7 +22410,7 @@ msgstr "в"
 msgid ""
 "_: insertlink.keybinding\n"
 "l"
-msgstr "в"
+msgstr ""
 
 #: insertAnchorCmd.label
 msgid "Named Anchor..."
@@ -22420,7 +22420,7 @@ msgstr "Именовано сидро..."
 msgid ""
 "_: insertanchor.accesskey\n"
 "A"
-msgstr "с"
+msgstr ""
 
 #: insertImageCmd.label
 msgid "Image..."
@@ -22432,7 +22432,7 @@ msgstr "Слика..."
 msgid ""
 "_: insertimage.accesskey\n"
 "i"
-msgstr "л"
+msgstr ""
 
 #: insertImageMapCmd.label
 msgid "Image Map..."
@@ -22443,7 +22443,7 @@ msgstr "Мапа за слику..."
 msgid ""
 "_: inserthline.accesskey\n"
 "o"
-msgstr "д"
+msgstr ""
 
 #: insertTableCmd.label
 msgid "Table..."
@@ -22455,13 +22455,13 @@ msgstr "Табела..."
 msgid ""
 "_: inserttable.accesskey\n"
 "t"
-msgstr "б"
+msgstr ""
 
 #: insertformmenu.accesskey insertfieldset.accesskey
 msgid ""
 "_: insertformmenu.accesskey\n"
 "F"
-msgstr "ф"
+msgstr ""
 
 #: insertHTMLCmd.label insertHTMLCmd.accesskey
 msgid "&HTML..."
@@ -22481,7 +22481,7 @@ msgstr "Прелом линије"
 msgid ""
 "_: insertbreak.accesskey\n"
 "b"
-msgstr "п"
+msgstr ""
 
 #: insertBreakAllCmd.label
 msgid "Break Below Image(s)"
@@ -22492,7 +22492,7 @@ msgstr "Прелом испод слика"
 msgid ""
 "_: insertbreakall.accesskey\n"
 "k"
-msgstr "р"
+msgstr ""
 
 # Insert form menu items
 #: insertFormCmd.label
@@ -22503,7 +22503,7 @@ msgstr "Уреди формулар..."
 msgid ""
 "_: insertform.accesskey\n"
 "D"
-msgstr "У"
+msgstr ""
 
 #: insertInputTagCmd.label
 msgid "Form Field..."
@@ -22513,7 +22513,7 @@ msgstr "Поље у формулару..."
 msgid ""
 "_: insertinputtag.accesskey\n"
 "e"
-msgstr "П"
+msgstr ""
 
 #: insertInputImageCmd.label
 msgid "Form Image..."
@@ -22523,7 +22523,7 @@ msgstr "Слика у формулару"
 msgid ""
 "_: insertinputimage.accesskey\n"
 "I"
-msgstr "л"
+msgstr ""
 
 #: insertTextAreaCmd.label
 msgid "Text Area..."
@@ -22533,7 +22533,7 @@ msgstr "Унос текста..."
 msgid ""
 "_: inserttextarea.accesskey\n"
 "T"
-msgstr "т"
+msgstr ""
 
 #: insertSelectCmd.label
 msgid "Selection List..."
@@ -22543,7 +22543,7 @@ msgstr "Листа са изборима..."
 msgid ""
 "_: insertselect.accesskey\n"
 "S"
-msgstr "и"
+msgstr ""
 
 #: insertButtonCmd.label
 msgid "Define Button..."
@@ -22554,7 +22554,7 @@ msgstr "Направи дугме..."
 msgid ""
 "_: insertbutton.accesskey\n"
 "B"
-msgstr "д"
+msgstr ""
 
 #: insertLabelCmd.label
 msgid "Define Label"
@@ -22568,7 +22568,7 @@ msgstr "Направи скуп поља..."
 msgid ""
 "_: insertfieldset.accesskey\n"
 "F"
-msgstr "в"
+msgstr ""
 
 #: insertIsIndexCmd.label
 msgid "Index Search"
@@ -22578,7 +22578,7 @@ msgstr "Индексна претрага"
 msgid ""
 "_: insertisindex.accesskey\n"
 "x"
-msgstr "и"
+msgstr ""
 
 # Used just in context popup.
 #: createLinkCmd.label
@@ -22590,7 +22590,7 @@ msgstr "Направи везу..."
 msgid ""
 "_: createlink.accesskey\n"
 "k"
-msgstr "у"
+msgstr ""
 
 #: editLinkCmd.label
 msgid "Edit Link in New Composer"
@@ -22602,7 +22602,7 @@ msgstr "Уреди везу у Уреднику"
 msgid ""
 "_: editlink.accesskey\n"
 "i"
-msgstr "к"
+msgstr ""
 
 # (Toplevel Edit menu uses utilityOverlay)
 #: undoCmd.label
@@ -22614,7 +22614,7 @@ msgstr "Опозови"
 msgid ""
 "_: undo.accesskey\n"
 "u"
-msgstr "п"
+msgstr ""
 
 #: redo.accesskey filerecentmenu.accesskey pasteRows.accesskey
 #: decreasefontsize.accesskey alignright.accesskey tablerow.accesskey
@@ -22622,7 +22622,7 @@ msgstr "п"
 msgid ""
 "_: redo.accesskey\n"
 "r"
-msgstr "п"
+msgstr ""
 
 #: cut.accesskey pasteText.accesskey inserttable.accesskey
 #: formatfontfixed.keybinding fonttimes.accesskey listterm.accesskey
@@ -22630,7 +22630,7 @@ msgstr "п"
 msgid ""
 "_: cut.accesskey\n"
 "t"
-msgstr "с"
+msgstr ""
 
 #: copy.accesskey fileclose.accesskey pasteColumns.accesskey
 #: compositiontb.accesskey fontcourier.accesskey formatfontcolor.accesskey
@@ -22638,7 +22638,7 @@ msgstr "с"
 msgid ""
 "_: copy.accesskey\n"
 "c"
-msgstr "У"
+msgstr ""
 
 #: paste.accesskey fileprint.accesskey fileprint.keybinding
 #: viewparagraphmarks.accesskey stylesuperscript.accesskey
@@ -22646,7 +22646,7 @@ msgstr "У"
 msgid ""
 "_: paste.accesskey\n"
 "p"
-msgstr "б"
+msgstr ""
 
 # Delete SubMenu
 #: deleteCmd.label tableDeleteMenu.label
@@ -22660,7 +22660,7 @@ msgstr "Обриши"
 msgid ""
 "_: delete.accesskey\n"
 "d"
-msgstr "о"
+msgstr ""
 
 # Tools menu
 #: clear.accesskey fileopenremote.accesskey fileopenremote.keybinding
@@ -22670,7 +22670,7 @@ msgstr "о"
 msgid ""
 "_: clear.accesskey\n"
 "l"
-msgstr "ч"
+msgstr ""
 
 #: selectAllCmd.label
 msgid "Select All"
@@ -22686,7 +22686,7 @@ msgstr "Изабери све"
 msgid ""
 "_: selectall.accesskey\n"
 "a"
-msgstr "с"
+msgstr ""
 
 # Font Face SubMenu
 #: FontFaceSelect.tooltip
@@ -22704,7 +22704,7 @@ msgstr "Писмо"
 msgid ""
 "_: formatfontmenu.accesskey\n"
 "f"
-msgstr "п"
+msgstr ""
 
 #: fontVarWidth.label
 msgid "Variable Width"
@@ -22716,7 +22716,7 @@ msgstr "Променљива ширина"
 msgid ""
 "_: fontvarwidth.accesskey\n"
 "v"
-msgstr "п"
+msgstr ""
 
 #: fontFixedWidth.label
 msgid "Fixed Width"
@@ -22726,14 +22726,14 @@ msgstr "Фиксна ширина"
 msgid ""
 "_: fontfixedwidth.accesskey\n"
 "x"
-msgstr "ф"
+msgstr ""
 
 #: formatfontfixed.keybinding pasteText.accesskey inserttable.accesskey
 #: cut.accesskey fonttimes.accesskey listterm.accesskey tabletable.accesskey
 msgid ""
 "_: formatfontfixed.keybinding\n"
 "t"
-msgstr "ф"
+msgstr ""
 
 #: fontHelveticaFont.label
 msgid "Helvetica, Arial"
@@ -22747,7 +22747,7 @@ msgstr "Хелветика, Аријал"
 msgid ""
 "_: fonthelvetica.accesskey\n"
 "l"
-msgstr "Х"
+msgstr ""
 
 #: fontTimes.label
 msgid "Times"
@@ -22758,7 +22758,7 @@ msgstr "Тајмс"
 msgid ""
 "_: fonttimes.accesskey\n"
 "t"
-msgstr "Т"
+msgstr ""
 
 #: fontCourier.label
 msgid "Courier"
@@ -22770,7 +22770,7 @@ msgstr "Куријер"
 msgid ""
 "_: fontcourier.accesskey\n"
 "c"
-msgstr "к"
+msgstr ""
 
 #: localfontfaceMenu.label
 msgid "Local Fonts"
@@ -22783,7 +22783,7 @@ msgstr "Локална писма"
 msgid ""
 "_: localfontmenu.accesskey\n"
 "f"
-msgstr "л"
+msgstr ""
 
 # Font Size SubMenu
 #: FontSizeSelect.tooltip
@@ -22796,7 +22796,7 @@ msgstr "Избор величине слова"
 msgid ""
 "_: decreasefontsize.accesskey\n"
 "r"
-msgstr "м"
+msgstr ""
 
 #: decreaseFontSize.keybinding decreaseindentkb
 msgid ""
@@ -22813,7 +22813,7 @@ msgstr "Већа"
 msgid ""
 "_: increasefontsize.accesskey\n"
 "g"
-msgstr "в"
+msgstr ""
 
 # + is above this key on many keyboards
 #: increaseFontSize.keybinding2 increaseindentkb
@@ -22826,7 +22826,7 @@ msgstr ""
 
 #: formatsizemenu.accesskey
 msgid "z"
-msgstr "л"
+msgstr ""
 
 #: size-xx-smallCmd.label
 msgid "xx-small"
@@ -22842,7 +22842,7 @@ msgstr "малецка"
 msgid ""
 "_: size-xx-small.accesskey\n"
 "a"
-msgstr "ц"
+msgstr ""
 
 #: size-x-smallCmd.label
 msgid "x-small"
@@ -22852,7 +22852,7 @@ msgstr "врло мала"
 msgid ""
 "_: size-x-small.accesskey\n"
 "m"
-msgstr "л"
+msgstr ""
 
 #: size-smallCmd.label
 msgid "small"
@@ -22875,7 +22875,7 @@ msgstr "средња"
 msgid ""
 "_: size-medium.accesskey\n"
 "d"
-msgstr "с"
+msgstr ""
 
 #: size-largeCmd.label
 msgid "large"
@@ -22899,7 +22899,7 @@ msgstr "овећа"
 msgid ""
 "_: size-x-large.accesskey\n"
 "x"
-msgstr "е"
+msgstr ""
 
 #: size-xx-largeCmd.label
 msgid "xx-large"
@@ -22909,7 +22909,7 @@ msgstr "огромна"
 msgid ""
 "_: size-xx-large.accesskey\n"
 "e"
-msgstr "г"
+msgstr ""
 
 # Font Style SubMenu
 #: fontStyleMenu.label
@@ -22922,7 +22922,7 @@ msgstr "Стил текста"
 msgid ""
 "_: formatstylemenu.accesskey\n"
 "s"
-msgstr "и"
+msgstr ""
 
 #: styleBoldCmd.label boldToolbarCmd.tooltip
 msgid ""
@@ -22936,7 +22936,7 @@ msgstr "Полуцрно"
 msgid ""
 "_: stylebold.accesskey\n"
 "b"
-msgstr "п"
+msgstr ""
 
 #: stylebold.keybinding publishcmd.accesskey insertbreak.accesskey
 #: stylebold.accesskey paragraphblockquote.accesskey listbullet.accesskey
@@ -22944,7 +22944,7 @@ msgstr "п"
 msgid ""
 "_: stylebold.keybinding\n"
 "b"
-msgstr "п"
+msgstr ""
 
 #: styleItalicCmd.label italicToolbarCmd.tooltip
 msgid ""
@@ -22956,7 +22956,7 @@ msgstr "Искошено"
 msgid ""
 "_: styleitalic.accesskey\n"
 "I"
-msgstr "к"
+msgstr ""
 
 #: styleitalic.keybinding pasteImage.accesskey insertmenu.accesskey
 #: insertimage.accesskey editlink.accesskey increaseindent.accesskey
@@ -22964,7 +22964,7 @@ msgstr "к"
 msgid ""
 "_: styleitalic.keybinding\n"
 "i"
-msgstr "к"
+msgstr ""
 
 #: styleUnderlineCmd.label underlineToolbarCmd.tooltip
 msgid ""
@@ -22977,14 +22977,14 @@ msgstr "Подвучено"
 msgid ""
 "_: styleunderline.accesskey\n"
 "u"
-msgstr "п"
+msgstr ""
 
 #: styleunderline.keybinding fileprintsetup.accesskey undo.accesskey
 #: styleunderline.accesskey colorsandbackground.accesskey
 msgid ""
 "_: styleunderline.keybinding\n"
 "u"
-msgstr "п"
+msgstr ""
 
 #: styleStrikeThruCmd.label
 msgid "Strikethrough"
@@ -22995,7 +22995,7 @@ msgstr "Прецртано"
 msgid ""
 "_: stylestrikethru.accesskey\n"
 "k"
-msgstr "п"
+msgstr ""
 
 #: styleSuperscriptCmd.label
 msgid "Superscript"
@@ -23006,7 +23006,7 @@ msgstr "Горњи индекс"
 msgid ""
 "_: stylesuperscript.accesskey\n"
 "p"
-msgstr "г"
+msgstr ""
 
 #: styleSubscriptCmd.label
 msgid "Subscript"
@@ -23016,7 +23016,7 @@ msgstr "Доњи индекс"
 msgid ""
 "_: stylesubscript.accesskey\n"
 "S"
-msgstr "д"
+msgstr ""
 
 #: styleNonbreakingCmd.label
 msgid "Nonbreaking"
@@ -23026,7 +23026,7 @@ msgstr "Без прелома"
 msgid ""
 "_: stylenonbreaking.accesskey\n"
 "N"
-msgstr "б"
+msgstr ""
 
 #: styleEm.label styleEm.accesskey
 msgid "&Emphasis"
@@ -23070,7 +23070,7 @@ msgstr "Боја текста..."
 msgid ""
 "_: formatfontcolor.accesskey\n"
 "c"
-msgstr "б"
+msgstr ""
 
 #: tableOrCellColor.label tableOrCellColor.accesskey
 msgid "Table or Cell &Background Color..."
@@ -23080,14 +23080,14 @@ msgstr "&Боја позадине за табелу или ћелију..."
 msgid ""
 "_: formatremovestyles.keybinding\n"
 "y"
-msgstr "у"
+msgstr ""
 
 #: formatremovelinks.keybinding editcheckspelling.keybinding
 #: insertbreakall.accesskey createlink.accesskey stylestrikethru.accesskey
 msgid ""
 "_: formatremovelinks.keybinding\n"
 "k"
-msgstr "л"
+msgstr ""
 
 #: formatRemoveNamedAnchors.label formatRemoveNamedAnchors.accesskey
 msgid "&Remove Named Anchors"
@@ -23103,15 +23103,15 @@ msgstr "&Уклони именована сидра"
 msgid ""
 "_: formatremovenamedanchors.keybinding\n"
 "a"
-msgstr "д"
+msgstr ""
 
 #: formatindent.keybinding
 msgid "]"
-msgstr "]"
+msgstr ""
 
 #: formatoutdent.keybinding
 msgid "["
-msgstr "["
+msgstr ""
 
 #: paragraphMenu.label paragraphParagraphCmd.label
 msgid ""
@@ -23124,7 +23124,7 @@ msgstr "Пасус"
 msgid ""
 "_: formatparagraphmenu.accesskey\n"
 "P"
-msgstr "с"
+msgstr ""
 
 #: paragraphParagraphCmd.label paragraphMenu.label
 msgid ""
@@ -23137,7 +23137,7 @@ msgstr "Пасус"
 msgid ""
 "_: paragraphparagraph.accesskey\n"
 "P"
-msgstr "П"
+msgstr ""
 
 #: heading1Cmd.label
 msgid "Heading 1"
@@ -23165,7 +23165,7 @@ msgstr "Наслов 6"
 
 #: heading6.accesskey
 msgid "6"
-msgstr "6"
+msgstr ""
 
 # LOCALIZATION NOTE: Text for menu item is in editor.properties
 # Set to: "Table" or "Nested Table" depending on context
@@ -23177,7 +23177,7 @@ msgstr "6"
 msgid ""
 "_: paragraphaddress.accesskey\n"
 "a"
-msgstr "а"
+msgstr ""
 
 #: paragraphPreformatCmd.label
 msgid "Preformat"
@@ -23190,7 +23190,7 @@ msgstr "Преформат"
 msgid ""
 "_: paragraphpreformat.accesskey\n"
 "f"
-msgstr "ф"
+msgstr ""
 
 #: paragraphBlockquoteCmd.label
 msgid "Blockquote"
@@ -23202,7 +23202,7 @@ msgstr "Блок цитат"
 msgid ""
 "_: paragraphblockquote.accesskey\n"
 "b"
-msgstr "б"
+msgstr ""
 
 # Tools menu
 #: formatlistmenu.accesskey fileopenremote.accesskey fileopenremote.keybinding
@@ -23212,13 +23212,13 @@ msgstr "б"
 msgid ""
 "_: formatlistmenu.accesskey\n"
 "l"
-msgstr "с"
+msgstr ""
 
 #: none.accesskey stylenonbreaking.accesskey
 msgid ""
 "_: none.accesskey\n"
 "N"
-msgstr "н"
+msgstr ""
 
 #: listBulletCmd.label
 msgid "Bulleted"
@@ -23230,7 +23230,7 @@ msgstr "Тачкасти списак"
 msgid ""
 "_: listbullet.accesskey\n"
 "b"
-msgstr "т"
+msgstr ""
 
 #: listNumberedCmd.label
 msgid "Numbered"
@@ -23240,7 +23240,7 @@ msgstr "Набројани списак"
 msgid ""
 "_: listnumbered.accesskey\n"
 "m"
-msgstr "н"
+msgstr ""
 
 #: listTermCmd.label
 msgid "Term"
@@ -23251,7 +23251,7 @@ msgstr "Термин"
 msgid ""
 "_: listterm.accesskey\n"
 "t"
-msgstr "т"
+msgstr ""
 
 #: listDefinitionCmd.label
 msgid "Definition"
@@ -23262,7 +23262,7 @@ msgstr "Дефиниција"
 msgid ""
 "_: listdefinition.accesskey\n"
 "d"
-msgstr "д"
+msgstr ""
 
 #: listProps.label
 msgid "List Properties..."
@@ -23276,7 +23276,7 @@ msgstr "Списак особина..."
 msgid ""
 "_: listprops.accesskey\n"
 "l"
-msgstr "о"
+msgstr ""
 
 #: ParagraphSelect.tooltip
 msgid "Choose a paragraph format"
@@ -23291,7 +23291,7 @@ msgstr "Тело текста"
 msgid ""
 "_: bodytext.accesskey\n"
 "T"
-msgstr "л"
+msgstr ""
 
 # isn't used in menu now, but may be added in future
 #: advancedPropertiesCmd.label
@@ -23304,7 +23304,7 @@ msgstr "Напредне поставке"
 msgid ""
 "_: advancedproperties.accesskey\n"
 "v"
-msgstr "р"
+msgstr ""
 
 #: NormalAbbr.label pasteTextCmd.label
 msgid ""
@@ -23317,7 +23317,7 @@ msgstr "Текст"
 msgid ""
 "_: ParagraphAbbr.label\n"
 "P"
-msgstr "P"
+msgstr ""
 
 #: Heading1Abbr.label
 msgid "H1"
@@ -23364,7 +23364,7 @@ msgstr "Примени стил"
 msgid ""
 "_: formatstylesheetmenu.accesskey\n"
 "y"
-msgstr "р"
+msgstr ""
 
 # Align menu items
 #: alignMenu.label
@@ -23381,7 +23381,7 @@ msgstr "Уравнај"
 msgid ""
 "_: formatalignmenu.accesskey\n"
 "a"
-msgstr "в"
+msgstr ""
 
 # Tools menu
 #: alignleft.accesskey fileopenremote.accesskey fileopenremote.keybinding
@@ -23391,7 +23391,7 @@ msgstr "в"
 msgid ""
 "_: alignleft.accesskey\n"
 "l"
-msgstr "л"
+msgstr ""
 
 #: alignLeft.tooltip
 msgid "Align Left"
@@ -23403,7 +23403,7 @@ msgstr "Уравнај лево"
 msgid ""
 "_: aligncenter.accesskey\n"
 "c"
-msgstr "ц"
+msgstr ""
 
 #: alignCenter.tooltip
 msgid "Align Center"
@@ -23415,7 +23415,7 @@ msgstr "Центрирај"
 msgid ""
 "_: alignright.accesskey\n"
 "r"
-msgstr "д"
+msgstr ""
 
 #: alignRight.tooltip
 msgid "Align Right"
@@ -23430,7 +23430,7 @@ msgstr "Уравнај десно"
 msgid ""
 "_: alignjustify.accesskey\n"
 "j"
-msgstr "ј"
+msgstr ""
 
 #: alignJustify.tooltip
 msgid "Align Justified"
@@ -23459,7 +23459,7 @@ msgstr "Повећај табулацију"
 msgid ""
 "_: increaseindent.accesskey\n"
 "i"
-msgstr "п"
+msgstr ""
 
 # + is above this key on many keyboards
 #: increaseindentkb increaseFontSize.keybinding2
@@ -23478,7 +23478,7 @@ msgstr "Смањи табулацију"
 msgid ""
 "_: decreaseindent.accesskey\n"
 "D"
-msgstr "с"
+msgstr ""
 
 #: decreaseindentkb decreaseFontSize.keybinding
 msgid ""
@@ -23501,7 +23501,7 @@ msgstr "Наслов и поставке за страну..."
 msgid ""
 "_: pageproperties.accesskey\n"
 "g"
-msgstr "п"
+msgstr ""
 
 #: colorsAndBackground.label
 msgid "Page Colors and Background..."
@@ -23512,7 +23512,7 @@ msgstr "Боје и позадина стране..."
 msgid ""
 "_: colorsandbackground.accesskey\n"
 "u"
-msgstr "б"
+msgstr ""
 
 # Table Menu
 #: tableMenu.label tableTable.label tableToolbarCmd.label
@@ -23527,7 +23527,7 @@ msgstr "Табела"
 msgid ""
 "_: tablemenu.accesskey\n"
 "b"
-msgstr "т"
+msgstr ""
 
 # Select Submenu
 #: tableSelectMenu.label
@@ -23540,7 +23540,7 @@ msgstr "Избор"
 msgid ""
 "_: tableselectmenu.accesskey\n"
 "s"
-msgstr "и"
+msgstr ""
 
 #: tableSelectMenu2.label
 msgid "Table Select"
@@ -23568,7 +23568,7 @@ msgstr "Убаци"
 msgid ""
 "_: tableinsertmenu.accesskey\n"
 "i"
-msgstr "у"
+msgstr ""
 
 # Table Menu
 #: tableTable.label tableMenu.label tableToolbarCmd.label
@@ -23583,7 +23583,7 @@ msgstr "Табела"
 msgid ""
 "_: tabletable.accesskey\n"
 "t"
-msgstr "т"
+msgstr ""
 
 #: tableRows.label
 msgid "Row(s)"
@@ -23595,7 +23595,7 @@ msgstr "Колона(е)"
 msgid ""
 "_: tablerow.accesskey\n"
 "r"
-msgstr "р"
+msgstr ""
 
 #: tableRowAbove.label
 msgid "Row Above"
@@ -23612,7 +23612,7 @@ msgstr "Ред испод"
 msgid ""
 "_: tablerowbelow.accesskey\n"
 "b"
-msgstr "и"
+msgstr ""
 
 #: tableColumns.label
 msgid "Column(s)"
@@ -23623,7 +23623,7 @@ msgstr "Колона(е)"
 msgid ""
 "_: tablecolumn.accesskey\n"
 "o"
-msgstr "к"
+msgstr ""
 
 #: tableColumnBefore.label
 msgid "Column Before"
@@ -23644,7 +23644,7 @@ msgstr "Колона после"
 msgid ""
 "_: tablecolumnafter.accesskey\n"
 "a"
-msgstr "п"
+msgstr ""
 
 #: tableCells.label
 msgid "Cell(s)"
@@ -23656,7 +23656,7 @@ msgstr "Ћелија(е)"
 msgid ""
 "_: tablecell.accesskey\n"
 "c"
-msgstr "ћ"
+msgstr ""
 
 #: tableCellContents.label
 msgid "Cell Contents"
@@ -23680,7 +23680,7 @@ msgstr "Ћелија испред"
 msgid ""
 "_: tableallcells.accesskey\n"
 "a"
-msgstr "в"
+msgstr ""
 
 # uses tablecell.accesskey
 #: tableCellAfter.label
@@ -23694,7 +23694,7 @@ msgstr "Ћелија изнад"
 msgid ""
 "_: tablecellafter.accesskey\n"
 "f"
-msgstr "о"
+msgstr ""
 
 # Delete SubMenu
 #: tableDeleteMenu.label deleteCmd.label
@@ -23707,7 +23707,7 @@ msgstr "Обриши"
 msgid ""
 "_: tabledeletemenu.accesskey\n"
 "D"
-msgstr "р"
+msgstr ""
 
 #: tableFix.label
 msgid "Fix Table Layout"
@@ -23720,7 +23720,7 @@ msgstr "Задржи изглед табеле"
 msgid ""
 "_: tablefix.accesskey\n"
 "f"
-msgstr "г"
+msgstr ""
 
 # text for "Join Cells" is in editor.properties
 # ("JoinSelectedCells" and "JoinCellToRight")
@@ -23731,7 +23731,7 @@ msgstr "г"
 msgid ""
 "_: tableJoinCells.label\n"
 "j"
-msgstr "с"
+msgstr ""
 
 # text for "Join Cells" is in editor.properties
 # ("JoinSelectedCells" and "JoinCellToRight")
@@ -23742,7 +23742,7 @@ msgstr "с"
 msgid ""
 "_: tablejoincells.accesskey\n"
 "j"
-msgstr "с"
+msgstr ""
 
 #: tableSplitCell.label
 msgid "Split Cell"
@@ -23754,7 +23754,7 @@ msgstr "Подели ћелију"
 msgid ""
 "_: tablesplitcell.accesskey\n"
 "c"
-msgstr "п"
+msgstr ""
 
 #: convertToTable.label
 msgid "Create Table from Selection"
@@ -23766,7 +23766,7 @@ msgstr "Направи табелу од избора"
 msgid ""
 "_: converttotable.accesskey\n"
 "r"
-msgstr "в"
+msgstr ""
 
 #: tableProperties.label tableProperties.accesskey
 msgid "Table Pr&operties..."
@@ -23780,7 +23780,7 @@ msgstr "&Поставке за табелу..."
 msgid ""
 "_: toolsmenu.accesskey\n"
 "l"
-msgstr "а"
+msgstr ""
 
 #: toolbrowser.accesskey publishcmd.accesskey insertbreak.accesskey
 #: stylebold.accesskey stylebold.keybinding paragraphblockquote.accesskey
@@ -23788,14 +23788,14 @@ msgstr "а"
 msgid ""
 "_: toolbrowser.accesskey\n"
 "b"
-msgstr "л"
+msgstr ""
 
 #: toolplaineditor.accesskey fileprint.accesskey fileprint.keybinding
 #: viewparagraphmarks.accesskey paste.accesskey stylesuperscript.accesskey
 msgid ""
 "_: toolplaineditor.accesskey\n"
 "p"
-msgstr "у"
+msgstr ""
 
 #: toolsetfocus.accesskey filemenu.accesskey editfind.accesskey
 #: editfind.keybinding formattingtb.accesskey formatfontmenu.accesskey
@@ -23804,7 +23804,7 @@ msgstr "у"
 msgid ""
 "_: toolsetfocus.accesskey\n"
 "f"
-msgstr "ф"
+msgstr ""
 
 # Debug menu items
 #: debugMenu.label
@@ -24077,13 +24077,13 @@ msgstr "Уравнај текст по обе маргине"
 msgid ""
 "_: formatToolbar.boldChar\n"
 "B"
-msgstr "п"
+msgstr ""
 
 #: formatToolbar.italicChar insertinputimage.accesskey styleitalic.accesskey
 msgid ""
 "_: formatToolbar.italicChar\n"
 "I"
-msgstr "к"
+msgstr ""
 
 # Used with color pickers in Format toolbar and Format Menu
 #: colorPicker.default.label colorPicker.default.accesskey
@@ -24176,7 +24176,7 @@ msgstr "Особине именованог сидра"
 #: anchorNameEditField.label anchorNameEditField.accessKey
 #, fuzzy
 msgid "Anchor &Name:"
-msgstr "И"
+msgstr ""
 
 #: nameInput.tooltip
 msgid "Enter a unique name for this named anchor (target)"
@@ -25114,7 +25114,7 @@ msgstr "Десила се непозната грешка (стаза %S)"
 
 #: findAgainCmd.key2
 msgid "VK_F3"
-msgstr "VK_F3"
+msgstr ""
 
 #: typeError
 msgid "Error:"
