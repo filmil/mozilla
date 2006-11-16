@@ -16,28 +16,41 @@ DEST_DIR=po/sr-RS
 
 . scripts/library.sh
 
-if [ -a $DEST_DIR ] ;
+if [ -a $DEST_DIR ] ; then
     echo "Dir $DEST_DIR does not exist. Making it."
     mkdir $DEST_DIR
 fi
 
 TMPFILE=`mktemp /tmp/populate-po-XXXXXX`
 
-for f in `find $SOURCE_DIR ! -wholename '*.svn*' -type f -name '*'`; do
+make_nonexistent_dir () {
+    DIR=`dirname $1`
+    echo "Making dir: " $DIR
+    mkdir -p $DIR
+}
+
+for f in `find $SOURCE_DIR ! -name '*.css' ! -name '*.dic' ! -name '*.rdf' ! -wholename '*.svn*' -type f -name '*'`; do
     MATCH=`find_matching $TRANS_DIR $f`
     NUMPARA=`num_params $MATCH`
     
     case $NUMPARA in
 	0) echo "Copying $f to $DEST_DIR/$f.po"
 	    moz2po -o $TMPFILE -i $f
-	    msgmerge --compendium=$DICT $TMPFILE $TMPFILE > $DEST_DIR/$f.po
+	    make_nonexistent_dir po/$f.po
+	    msgmerge --compendium=$DICT $TMPFILE $TMPFILE > po/$f.po
 	    ;;
-	1) echo "Merging $f with: $TRANS_DIR/$MATCH"
-	    moz2po -o $TMPFILE -t $SRC_DIR/$f -i $TRANS_DIR/$MATCH
-	    msgmerge --compendium=$DICT $TMPFILE $TMPFILE > $DEST_DIR/$f.po
+	1) echo "Merging $f with: $MATCH"
+	    moz2po -o $TMPFILE -t $f -i $MATCH
+	    make_nonexistent_dir po/$f.po
+	    msgmerge --compendium=$DICT $TMPFILE $TMPFILE > po/$f.po
 	    ;;
 	2) echo "Skipping: $f"
     esac
+done
+
+for g in `find $SOURCE_DIR -name '*.rdf' -name '*.dic' -name '*.css'`; do
+    echo "Blank copying resource: $g" 
+    cp $g $SRC_DIR/$g
 done
 
 rm $TMPFILE

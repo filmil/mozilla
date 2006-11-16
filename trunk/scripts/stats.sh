@@ -1,5 +1,6 @@
 #!/bin/bash
 
 for a in `find po -name '*.po'`; do
-    msgfmt -v -c $a
+    OUTPUT=`msgfmt --statistics  -o /dev/null $a`
+    echo "$a: $OUTPUT"
 done
