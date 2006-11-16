@@ -1,0 +1,59 @@
+<!ENTITY updateWizard.title "Унапређење програма">
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+<!ENTITY checking.title "Проналажење унапређења">
+<!ENTITY checking.label "&brandShortName; тражи унапређења...">
+<!ENTITY cancel.label "Одустани">
+<!ENTITY cancel.accesskey "О">
+<!ENTITY noupdatesfound.title "Унапређења нису пронађена">
+<!ENTITY noupdatesfound.intro "Нема доступних нових унапређења. &brandShortName; ће проверавати
+с времена на време постојање нових унапређења.">
+<!ENTITY updatesfound.title "Доступна унапређења">
+<!ENTITY moreDetails.label "Више детаља &#0187;">
+<!ENTITY moreDetails.accesskey "В">
+<!ENTITY clickHere.label "Прегледај податке у унапређењу">
+<!ENTITY incompatible.warning "Ово унапређење ће проузроковати престанак рада
+неких проширења и/или тема док и њих не унапредите.">
+<!ENTITY listIncompatible.label "Прикажи листу">
+<!ENTITY listIncompatible.accesskey "л">
+<!ENTITY later.label "Касније">
+<!ENTITY later.accesskey "К">
+<!ENTITY download.label "Преузми и постави сад &#0187;">
+<!ENTITY download.accesskey "П">
+<!ENTITY upgrade.evangelism "Препоручљиво да унапредите &brandShortName; што пре.">
+<!ENTITY license.title "Договор о лиценци">
+<!ENTITY license.intro "За постављање унапређења потребно да прихватите уговор о лиценцирању.
+Молим пажљиво га прочитајте:">
+<!ENTITY license.instructions "Ако се слажете са условима споразума, кликните на Слажем се доле за наставак постављања унапређења.">
+<!ENTITY downloading.title "Преузимам унапређења">
+<!ENTITY downloading.intro "Преузимам унапређење...">
+<!ENTITY connecting.label "Повезујем се на сервер унапређења...">
+<!ENTITY verificationFailedText.label "&brandShortName; није у могућности да провери интегритет
+унапређења које проверава, па сад преузима цео пакет.">
+<!ENTITY details.link "Детаљи">
+<!ENTITY pause.label "Пауза">
+<!ENTITY pause.accesskey "П">
+<!ENTITY close.label "Затвори">
+<!ENTITY close.accesskey "З">
+<!ENTITY error.label "Постоје проблеми приликом провере, преузимања и постављања овог унапређења.
+&brandShortName; не може бити унапређен због:">
+<!ENTITY errorManual.label "Можете унапредити &brandShortName; ручно тако што посетите ову страну и преузмете најновију верзију:">
+<!ENTITY errorpatching.title "Унапређење није успело">
+<!ENTITY errorpatching.intro "Критична унапређења не могу бити постављена
+&brandShortName; ће покушати поново преузимање.">
+<!ENTITY finished.title "Унапређење је преузето">
+<!ENTITY finished.intro "Унапређење је успешно преузето и проверено. Морате поново покренути
+&brandShortName; како би унапређења могла бити постављена.">
+<!ENTITY finishedBackground.title "Унапређење је спремно за постављање">
+<!ENTITY finishedBackground.intro "&brandShortName; је управо успешно завршио преузимање важних унапређења
+сада је потребно поновно покретање како би унапређење било постављено.">
+<!ENTITY finishedBackground.name "Унапређење:">
+<!ENTITY finishedBackground.instruction1 "Кликните Поново покрени &brandShortName; сад за затварање свих прозора &brandShortName; и постављање унапређења.">
+<!ENTITY finishedBackground.instruction2 "Кликните Касније за наставак без поновног покретања. Унапређење биће постављњено
+када следећи пут покренете &brandShortName;.">
+<!ENTITY installed.title "Унапређење је постављено">
+<!ENTITY installed.intro "Унапређење је успешно постављено.">
+<!ENTITY whatsnew.label "Прочитај нешто више о новостима...">
+<!ENTITY update.details.label "Детаљи">
+<!ENTITY update.installedOn.label "Постављен на:">
+<!ENTITY update.status.label "Статус:">
