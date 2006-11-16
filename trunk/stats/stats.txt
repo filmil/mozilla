@@ -1,15 +1,15 @@
-0 преведених порука, 1 непреведена порука.
+1 преведена порука.
 po/sr-RS/toolkit/defines.inc.po: 
-13 преведених порука, 1 непреведена порука.
+14 преведених порука.
 po/sr-RS/toolkit/chrome/passwordmgr/passwordmgr.properties.po: 
-8 преведених порука, 2 непреведене поруке.
+10 преведених порука.
 po/sr-RS/toolkit/chrome/passwordmgr/passwordManager.dtd.po: 
-3 преведене поруке, 2 непреведене поруке.
+5 преведених порука.
 po/sr-RS/toolkit/chrome/global-region/region.properties.po: 
 1 преведена порука.
 po/sr-RS/toolkit/chrome/global-region/region.dtd.po: 
-po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po:168: не почиње и „msgid“ и „msgstr“ са „\n“
-po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po:177: не почиње и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po:167: не почиње и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po:176: не почиње и „msgid“ и „msgstr“ са „\n“
 msgfmt: нађох 2 кобне грешке
 po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po: 
 23 преведене поруке, 8 нејасних порука, 47 непреведених порука.

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-17 00:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +17,7 @@ msgstr ""
 #: aboutWindowTitle
 #: aboutAddon
 msgid "About %S"
-msgstr "О %S"
+msgstr "О програму %S"
 
 #: aboutWindowCloseButton
 msgid "Close"
@@ -26,7 +25,7 @@ msgstr "Затвори"
 
 #: aboutWindowVersionString
 msgid "version %S"
-msgstr "верзија %S"
+msgstr "издање %S"
 
 #: updatingMsg
 msgid "Looking for updates..."
@@ -34,28 +33,28 @@ msgstr ""
 
 #: updateCompatibilityMsg
 msgid "A compatibility update has been applied."
-msgstr ""
+msgstr "Примењена је доградња за усаглашавање."
 
 #: updateNoUpdateMsg
 #: noUpdatesMsg
 msgid "No updates were found."
-msgstr ""
+msgstr "Није пронађена ниједна доградња"
 
 #: updateErrorMessage
 msgid "An error occurred while trying to find updates for %S."
-msgstr "Пронађена је грешка приликом проналаска унапређења за %S."
+msgstr "Пронађена је грешка приликом проналаска доградње за %S."
 
 #: updateDisabledMessage
 msgid "Updates are disabled for %S."
-msgstr "Унапређење је онемогућено за %S."
+msgstr "Доградња је искључена за %S."
 
 #: updateAppManagedMessage
 msgid "Updates to %S are performed when %S is updated."
-msgstr "Унапређење %S зависи од унапређења %S."
+msgstr "Доградња за %S се примењује када догради %S."
 
 #: updateReadOnlyMessage
 msgid "Update not supported (install location is read only)."
-msgstr "Унапређење није подржано (локација за постављање може се само читати)."
+msgstr "Доградња није подржана (место за постављање може се само читати)."
 
 #: updateNotManagedMessage
 msgid "Update not supported (install location is not managed by %S)."
@@ -103,7 +102,7 @@ msgstr "Откажи"
 
 #: restartButton
 msgid "Restart %S"
-msgstr ""
+msgstr "Поново покрени %S"
 
 #: laterButton
 #: updatesAvailableCancel
@@ -112,7 +111,7 @@ msgstr "Касније"
 
 #: moreInfoText
 msgid "More information"
-msgstr ""
+msgstr "Више података"
 
 #: uninstallTitle
 msgid "Uninstall %S"
@@ -124,11 +123,11 @@ msgstr ""
 
 #: uninstallQueryMessage
 msgid "Do you want to uninstall %S?"
-msgstr "Желите ли да поставите %S?"
+msgstr "Желите ли да уклоните %S?"
 
 #: disableTitle
 msgid "Disable %S"
-msgstr ""
+msgstr "Искључи %S"
 
 #: disableWarningDependMessage
 msgid "If you disable %S, the following items that require this extension will also be disabled:"
