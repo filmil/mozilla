@@ -26,4 +26,3 @@ source/sr-RS/browser/chrome/browser/preferences/preferences.dtd source/locale-ff
 source/sr-RS/browser/chrome/browser/preferences/preferences.properties  source/locale-ff/browser/preferences/preferences.properties
 source/sr-RS/browser/chrome/browser/preferences/sanitize.dtd source/locale-ff/browser/sanitize.dtd source/locale-ff/browser/preferences/sanitize.dtd
 source/sr-RS/browser/chrome/branding/brand.dtd source/locale-ff/branding/brand.dtd
-source/sr-RS/editor/ui/chrome/region/region.properties source/locale-ff/sr-CS/global-region/region.properties source/locale-ff/browser-region/region.properties

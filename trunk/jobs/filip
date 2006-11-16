@@ -1,1 +1,8 @@
+po/sr-RS
+po/sr-RS/toolkit
+po/sr-RS/toolkit/defines.inc.po
+po/sr-RS/toolkit/chrome
+po/sr-RS/toolkit/chrome/passwordmgr
+po/sr-RS/toolkit/chrome/passwordmgr/passwordmgr.properties.po
+po/sr-RS/toolkit/chrome/passwordmgr/passwordManager.dtd.po
 

@@ -1,5 +1,7 @@
 2006-11-16  Filip Miletic  <filmil@gmail.com>
 
+	* ZADACI.utf8.txt: Refresh.
+
 	* scripts/blind-copy.sh (CMDLINE): Added script to blind copy files.
 	Some additional refactoring.
 
