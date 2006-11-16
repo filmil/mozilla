@@ -10,7 +10,7 @@ RM:=rm -f
 RMDIR:=rm -fr
 
 #
-.PHONY: clean pot cleanpot
+.PHONY: clean pot cleanpot stats stats initpo match populate
 
 # Чишћење генерисаних датотека
 clean:
@@ -34,3 +34,15 @@ cleanpot:
 # превода, али не треба правити посао без посла.
 initpo:
 	. scripts/initpo.sh
+
+# Проналази изворне датотеке које одговарају полазној по имену
+match:
+	. scripts/match-files.sh
+
+
+populate:
+	. scripts/populate-po.sh
+
+stats:
+	. scripts/stats.sh &> stats/stats.txt
+
