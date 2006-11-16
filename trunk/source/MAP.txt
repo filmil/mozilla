@@ -1,6 +1,0 @@
-$FF/ -- локалитет из фајерфоксовог превода ::= source/locale-ff
-$LOC/ -- локалитет из мозилиног цвса ::= source/sr-RS
-
-$FF/branding -> $LOC/browser/chrome/branding
-$FF/browser -> $LOC/browser/chrome/browser
-$FF/browser-region -> $LOC/browser/chrome/browser-region
