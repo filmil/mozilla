@@ -1,0 +1,6 @@
+<!ENTITY caption.label "Блокирање искачућих прозора">
+<!ENTITY intro.label "Блокирано је искакање следећих страница:">
+<!ENTITY done.label "Крај">
+<!ENTITY done.accesskey "D">
+<!ENTITY unblock.label "Разблокирај сајт">
+<!ENTITY unblock.accesskey "U">

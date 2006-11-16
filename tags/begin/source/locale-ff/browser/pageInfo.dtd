@@ -1,0 +1,78 @@
+<!--
+-->
+<!ENTITY preface "Подаци за:">
+<!ENTITY title "Подаци о страни">
+<!ENTITY description "Подаци о текућој страни">
+<!ENTITY pageInfoWindow.width "450">
+<!ENTITY pageInfoWindow.height "500">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Умножи">
+<!ENTITY copy.accesskey "У">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Изабери све">
+<!ENTITY selectall.accesskey "с">
+<!ENTITY closeWindow.key "Н">
+<!ENTITY generalTab "Опште">
+<!ENTITY generalAccesskey "О">
+<!ENTITY generalTitle "Заглавље:">
+<!ENTITY generalURL "Адреса:">
+<!ENTITY generalMode "Тип приказа:">
+<!ENTITY generalType "Тип:">
+<!ENTITY generalSize "Величина:">
+<!ENTITY generalReferrer "Референтни URL:">
+<!ENTITY generalSource "Извор кеша:">
+<!ENTITY generalSent "Слање:">
+<!ENTITY generalModified "Последња измена:">
+<!ENTITY generalExpires "Рок трајања:">
+<!ENTITY generalEncoding "Кодирање:">
+<!ENTITY generalMeta "Подаци о META таговима:">
+<!ENTITY generalMetaName "Име">
+<!ENTITY generalMetaContent "Садржај">
+<!ENTITY formsTab "Формулари">
+<!ENTITY formsAccesskey "Ф">
+<!ENTITY formAction "Акција формулара">
+<!ENTITY formMethod "Метод">
+<!ENTITY formName "Име">
+<!ENTITY formNo "Број">
+<!ENTITY formEncoding "Кодирање:">
+<!ENTITY formTarget "Циљни објекат:">
+<!ENTITY formFields "Поља:">
+<!ENTITY formLabel "Наслов">
+<!ENTITY formFName "Име поља">
+<!ENTITY formType "Тип">
+<!ENTITY formCValue "Текућа вредност">
+<!ENTITY linksTab "Везе">
+<!ENTITY linksAccesskey "В">
+<!ENTITY linkNo "Број">
+<!ENTITY linkName "Име">
+<!ENTITY linkAddress "Адреса">
+<!ENTITY linkType "Тип">
+<!ENTITY linkTarget "Циљни објекат">
+<!ENTITY linkAccessKey "Тастер за брз приступ">
+<!ENTITY mediaTab "Мултимедија">
+<!ENTITY mediaAccesskey "М">
+<!ENTITY mediaHeader "Слике на страни">
+<!ENTITY mediaURL "Адреса">
+<!ENTITY mediaBase "Основна адреса">
+<!ENTITY mediaAlt "Заменљиви текст:">
+<!ENTITY mediaAltHeader "Алтернативни текст">
+<!ENTITY mediaNo "Број">
+<!ENTITY mediaName "Име">
+<!ENTITY mediaAddress "Адреса">
+<!ENTITY mediaType "Тип">
+<!ENTITY mediaCount "Укупно">
+<!ENTITY mediaPlugin "Модул:">
+<!ENTITY mediaCharset "Кодирање:">
+<!ENTITY mediaDimensions "Произвољне димензије:">
+<!ENTITY mediaPhysDimensions "Стварне димензије:">
+<!ENTITY mediaEncryption "Шифровање:">
+<!ENTITY mediaTitle "Заглавље:">
+<!ENTITY mediaLongdesc "Дуги опис:">
+<!ENTITY mediaSaveAs "Сачувај као...">
+<!ENTITY mediaSaveAs.accesskey "С">
+<!ENTITY mediaPreview "Преглед медија садржаја:">
+<!ENTITY framesTab "Фрејмови">
+<!ENTITY framesTab.accesskey "Ф">
+<!ENTITY frameName "Име">
+<!ENTITY frameAddress "Адреса">
+<!ENTITY frameType "Тип">

@@ -1,0 +1,113 @@
+# extracted from source/sr-RS/browser/chrome/browser/metaData.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: no-properties.label
+msgid "No properties set."
+msgstr "Без подешавања."
+
+#: caption.label
+msgid "Element Properties"
+msgstr "Својства елемента"
+
+#: image-sec.label
+msgid "Image Properties"
+msgstr "Својства слике"
+
+#: image-url.label
+msgid "Location:"
+msgstr "Адреса:"
+
+#: image-desc.label
+msgid "Description:"
+msgstr "Опис:"
+
+#: image-alt.label
+msgid "Alternate text:"
+msgstr "Заменљиви текст:"
+
+#: image-width.label
+msgid "Width:"
+msgstr "Ширина:"
+
+#: image-height.label
+msgid "Height:"
+msgstr "Висина:"
+
+#: image-filesize.label
+msgid "Size of File:"
+msgstr "Величина датотеке:"
+
+#: insdel-sec.label
+msgid "Insert/Delete Properties"
+msgstr "Својства уметања/брисања"
+
+#: insdel-cite.label
+#: quote-cite.label
+msgid "Info:"
+msgstr "Подаци:"
+
+#: insdel-date.label
+msgid "Date:"
+msgstr "Датум:"
+
+#: link-sec.label
+msgid "Link Properties"
+msgstr "Својства везе"
+
+#: link-url.label
+msgid "Address:"
+msgstr "Адреса:"
+
+#: link-target.label
+msgid "Will open in:"
+msgstr "Отвори помоћу:"
+
+#: link-type.label
+msgid "Target type:"
+msgstr "Тип циљног објекта:"
+
+#: link-lang.label
+msgid "Target language:"
+msgstr "Циљни јазик:"
+
+#: link-rel.label
+msgid "Relation:"
+msgstr "Однос:"
+
+#: link-rev.label
+msgid "Reversed relation:"
+msgstr "Обрнути однос:"
+
+#: misc-sec.label
+msgid "Miscellaneous Properties"
+msgstr "Разна својства"
+
+#: misc-lang.label
+msgid "Text language:"
+msgstr "Језик текста:"
+
+#: misc-title.label
+msgid "Title:"
+msgstr "Заглавље:"
+
+#: misc-tblsummary.label
+msgid "Table summary:"
+msgstr "Табеларни преглед:"
+
+#: quote-sec.label
+msgid "Quote Properties"
+msgstr "Својства цитата"

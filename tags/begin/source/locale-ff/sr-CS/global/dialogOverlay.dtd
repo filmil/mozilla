@@ -1,0 +1,6 @@
+<!-- -*- Mode: HTML -*-
+-->
+<!-- OK Cancel Buttons -->
+<!ENTITY okButton.label "У реду">
+<!ENTITY cancelButton.label "Одустани">
+<!ENTITY helpButton.label "Помоћ">

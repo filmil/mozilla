@@ -1,0 +1,67 @@
+# extracted from source/sr-RS/mail/chrome/messenger/offline.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# Download Messages Prompt
+#: downloadMessagesWindowTitle1
+msgid "Download Messages"
+msgstr ""
+
+#: downloadMessagesLabel1
+msgid "Do you want to download messages for offline use before going offline?"
+msgstr ""
+
+#: downloadMessagesCheckboxLabel1
+msgid "Always ask me when I go offline"
+msgstr "Увек ме питај када прекидам везу"
+
+# Send Messages Prompt
+# Send Messages Offline Prompt
+#: sendMessagesWindowTitle1
+#: sendMessagesOfflineWindowTitle1
+msgid "Unsent Messages"
+msgstr "Непослато"
+
+#: sendMessagesLabel1
+msgid "Do you want to send the messages in your Unsent Messages folder?"
+msgstr ""
+
+#: sendMessagesCheckboxLabel1
+msgid "Always ask me when I go online"
+msgstr "Увек ме питај када успостављам везу"
+
+# GetMessages While Offline Prompt 
+#
+# GetMessages Offline Prompt
+#: getMessagesOfflineWindowTitle1
+msgid "Get Messages"
+msgstr "Преузимање порука"
+
+#: getMessagesOfflineLabel1
+msgid "You are currently offline. Do you want to go online to get new messages?"
+msgstr ""
+
+#: sendMessagesOfflineLabel
+msgid "You are currently offline. Do you want to go online to send unsent messages?"
+msgstr ""
+
+#: offlineTooltip
+msgid "You are currently offline."
+msgstr ""
+
+#: onlineTooltip
+msgid "You are currently online."
+msgstr ""

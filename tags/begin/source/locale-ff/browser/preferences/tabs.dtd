@@ -1,0 +1,22 @@
+<!ENTITY tabsTab.label "Језичци">
+<!ENTITY openExternalLinksIn.label "Отвори везе из других програма у:">
+<!ENTITY newWindow.label "у новом прозору">
+<!ENTITY newWindow.accesskey "п">
+<!ENTITY newTabInRecentWindow.label "у новом језичку последњег прозора">
+<!ENTITY newTabInRecentWindow.accesskey "ј">
+<!ENTITY recentWindowOrTab.label "у последњем језичку/прозору">
+<!ENTITY recentWindowOrTab.accesskey "п">
+<!ENTITY forceNewWindowLinks.label "Приморај везе да отварају нови прозор у:">
+<!ENTITY forceNewWindowLinks.accesskey "П">
+<!ENTITY sameTabOrWindow.label "у истом језичку/прозору">
+<!ENTITY sameTabOrWindow.accesskey "и">
+<!ENTITY newTab.label "нови језичак">
+<!ENTITY newTab.accesskey "н">
+<!ENTITY hideTabBar.label "Сакри језичке ако је отворена само једна старана">
+<!ENTITY hideTabBar.accesskey "С">
+<!ENTITY loadInBackground.label "Пређи на нове језичке отворене од веза">
+<!ENTITY loadInBackground.accesskey "е">
+<!ENTITY loadBookmarksInBackground.label "Пређи на нове језичке отворене из листе омиљено или историјата">
+<!ENTITY loadBookmarksInBackground.accesskey "ј">
+<!ENTITY warnOnClose.label "Обавести о затварању више језичака">
+<!ENTITY warnOnClose.accesskey "в">

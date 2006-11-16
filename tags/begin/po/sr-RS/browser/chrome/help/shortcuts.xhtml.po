@@ -1,0 +1,1520 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+
+#: None:1
+#: None:2
+msgid "&brandFullName; Keyboard Shortcuts"
+msgstr ""
+
+#: None:3
+#, fuzzy
+msgid "This is a list of the most common keyboard shortcuts in &brandFullName;.  <span class=\"unix\">If you have enabled Emacs-style text editing shortcuts  in GNOME, they will also work in &brandShortName;.  When an Emacs text  editing shortcut conflicts with the default shortcuts (as occurs with  &accelKey;+<kbd>K</kbd>), the Emacs shortcut will take preference if  focus is inside a textbox (which would include the location bar and search  bar).  In such cases you should use the alternate keyboard shortcut  if one is listed below.</span>"
+msgstr ""
+
+#: None:4
+msgid "Command"
+msgstr ""
+
+#: None:5
+#, fuzzy
+msgid "Shortcut"
+msgstr "&brandShortName;"
+
+#: None:6
+#, fuzzy
+msgid "Navigation"
+msgstr ""
+
+#: None:7
+#, fuzzy
+msgid "Back"
+msgstr ""
+
+#: None:8
+#, fuzzy
+msgid "<span class=\"win\">          &altKey;+<kbd>Left Arrow</kbd><br/>          <kbd>Backspace</kbd>        </span>        <span class=\"unix\">          &altKey;+<kbd>Left Arrow</kbd><br/>          &accelKey;+<kbd>[</kbd>        </span>        <span class=\"mac\">          &accelKey;+<kbd>[</kbd><br/>          &accelKey;+<kbd>Left Arrow</kbd><br/>          <kbd>Delete</kbd>        </span>"
+msgstr ""
+
+#: None:9
+#, fuzzy
+msgid "Forward"
+msgstr "Назад"
+
+#: None:10
+#, fuzzy
+msgid "<span class=\"win\">          &altKey;+<kbd>Right Arrow</kbd><br/>          &shiftKey;+<kbd>Backspace</kbd>        </span>        <span class=\"unix\">          &altKey;+<kbd>Right Arrow</kbd><br/>          &accelKey;+<kbd>]</kbd>        </span>        <span class=\"mac\">          &accelKey;+<kbd>]</kbd><br/>          &accelKey;+<kbd>Right Arrow</kbd><br/>          &shiftKey;+<kbd>Delete</kbd>        </span>"
+msgstr ""
+
+#: None:11
+#, fuzzy
+msgid "Home"
+msgstr ""
+
+#: None:12
+#, fuzzy
+msgid "&altKey;+<kbd>Home</kbd>"
+msgstr ""
+
+#: None:13
+#, fuzzy
+msgid "Open File"
+msgstr "Проследи"
+
+#: None:14
+#, fuzzy
+msgid "&accelKey;+<kbd>O</kbd>"
+msgstr ""
+
+#: None:15
+#, fuzzy
+msgid "Reload"
+msgstr ""
+
+#: None:16
+#, fuzzy
+msgid "<kbd>F5<br/></kbd>        &accelKey;+<kbd>R</kbd>"
+msgstr ""
+
+#: None:17
+#, fuzzy
+msgid "Reload (override cache)"
+msgstr "Кућа"
+
+#: None:18
+#: None:19
+#, fuzzy
+msgid "<span class=\"noMac\">&accelKey;+<kbd>F5</kbd><br/></span>        &accelKey;+&shiftKey;+<kbd>R</kbd>"
+msgstr ""
+
+#: None:19
+#: None:18
+#, fuzzy
+msgid "Stop"
+msgstr ""
+
+#: None:20
+#, fuzzy
+msgid "<span class=\"mac\">&accelKey;+<kbd>.</kbd><br/></span>        <kbd>Esc</kbd>"
+msgstr ""
+
+#: None:21
+#, fuzzy
+msgid "Current Page"
+msgstr "Отвори датотеку"
+
+#: None:22
+#: None:23
+#: None:24
+#, fuzzy
+msgid "Go to Bottom of Page"
+msgstr ""
+
+#: None:23
+#: None:22
+#: None:24
+#, fuzzy
+msgid "<kbd>End</kbd>"
+msgstr ""
+
+#: None:24
+#: None:22
+#: None:23
+#, fuzzy
+msgid "Go to Top of Page"
+msgstr ""
+
+#: None:25
+#, fuzzy
+msgid "<kbd>Home</kbd>"
+msgstr ""
+
+#: None:26
+#, fuzzy
+msgid "Move to Next Frame"
+msgstr ""
+
+#: None:27
+#: None:28
+#, fuzzy
+msgid "<kbd>F6</kbd>"
+msgstr ""
+
+#: None:28
+#: None:27
+#, fuzzy
+msgid "Move to Previous Frame"
+msgstr ""
+
+#: None:29
+#, fuzzy
+msgid "&shiftKey;+<kbd>F6</kbd>"
+msgstr ""
+
+#: None:30
+#, fuzzy
+msgid "Page Info"
+msgstr ""
+
+#: None:31
+#: None:55
+#: None:192
+#, fuzzy
+msgid "&accelKey;+<kbd>I</kbd>"
+msgstr ""
+
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "Page Source"
+msgstr ""
+
+#: None:33
+#, fuzzy
+msgid "&accelKey;+<kbd>U</kbd>"
+msgstr "Стани"
+
+#: None:34
+#, fuzzy
+msgid "Print"
+msgstr ""
+
+#: None:35
+#: None:36
+#, fuzzy
+msgid "&accelKey;+<kbd>P</kbd>"
+msgstr ""
+
+#: None:36
+#: None:35
+#, fuzzy
+msgid "Save Page As"
+msgstr ""
+
+#: None:37
+#, fuzzy
+msgid "&accelKey;+<kbd>S</kbd>"
+msgstr ""
+
+#: None:38
+#, fuzzy
+msgid "Text Size: Decrease"
+msgstr ""
+
+#: None:39
+#: None:40
+#: None:41
+#, fuzzy
+msgid "&accelKey;+<kbd>-</kbd>"
+msgstr ""
+
+#: None:40
+#: None:39
+#: None:41
+#, fuzzy
+msgid "Text Size: Increase"
+msgstr ""
+
+#: None:41
+#: None:39
+#: None:40
+#, fuzzy
+msgid "&accelKey;+<kbd>+</kbd>"
+msgstr ""
+
+#: None:42
+#, fuzzy
+msgid "Text Size: Restore"
+msgstr ""
+
+#: None:43
+#: None:44
+#: None:45
+#, fuzzy
+msgid "&accelKey;+<kbd>0</kbd>"
+msgstr ""
+
+#: None:44
+#: None:43
+#: None:45
+#, fuzzy
+msgid "Editing"
+msgstr ""
+
+#: None:45
+#: None:43
+#: None:44
+#, fuzzy
+msgid "Copy"
+msgstr ""
+
+#: None:46
+#, fuzzy
+msgid "&accelKey;+<kbd>C</kbd>"
+msgstr ""
+
+#: None:47
+#, fuzzy
+msgid "Cut"
+msgstr ""
+
+#: None:48
+#: None:32
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "&accelKey;+<kbd>X</kbd>"
+msgstr ""
+
+#: None:49
+#: None:32
+#: None:48
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "Delete"
+msgstr ""
+
+#: None:50
+#, fuzzy
+msgid "<kbd>Delete</kbd>"
+msgstr ""
+
+#: None:51
+#, fuzzy
+msgid "Paste"
+msgstr ""
+
+#: None:52
+#: None:32
+#: None:48
+#: None:49
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "&accelKey;+<kbd>V</kbd>"
+msgstr ""
+
+#: None:53
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "Redo"
+msgstr ""
+
+#: None:54
+#, fuzzy
+msgid "<span class=\"win\">&accelKey;+<kbd>Y</kbd></span>        <span class=\"noWin\">&accelKey;+&shiftKey;+<kbd>Z</kbd></span>"
+msgstr ""
+
+#: None:55
+#: None:192
+#, fuzzy
+msgid "Select All"
+msgstr ""
+
+#: None:56
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "&accelKey;+<kbd>A</kbd>"
+msgstr ""
+
+#: None:57
+#, fuzzy
+msgid "Undo"
+msgstr ""
+
+#: None:58
+#, fuzzy
+msgid "&accelKey;+<kbd>Z</kbd>"
+msgstr "Изворни кôд"
+
+#: None:59
+#, fuzzy
+msgid "Search"
+msgstr ""
+
+#: None:60
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "Find"
+msgstr ""
+
+#: None:61
+#, fuzzy
+msgid "&accelKey;+<kbd>F</kbd>"
+msgstr ""
+
+#: None:62
+#, fuzzy
+msgid "Find Again"
+msgstr "Штампај"
+
+#: None:63
+#: None:64
+#: None:65
+#, fuzzy
+msgid "<kbd>F3</kbd><br/>        &accelKey;+<kbd>G</kbd>"
+msgstr ""
+
+#: None:64
+#: None:63
+#: None:65
+#, fuzzy
+msgid "Find As You Type Link"
+msgstr ""
+
+#: None:65
+#: None:63
+#: None:64
+#, fuzzy
+msgid "<kbd>'</kbd>"
+msgstr ""
+
+#: None:66
+#, fuzzy
+msgid "Find As You Type Text"
+msgstr "Сачувај страну као"
+
+#: None:67
+#: None:69
+#, fuzzy
+msgid "<kbd>/</kbd>"
+msgstr ""
+
+#: None:68
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "Find Previous"
+msgstr ""
+
+#: None:69
+#: None:67
+#, fuzzy
+msgid "&shiftKey;+<kbd>F3</kbd>"
+msgstr ""
+
+#: None:70
+#, fuzzy
+msgid "Web Search"
+msgstr ""
+
+#: None:71
+#: None:133
+#, fuzzy
+msgid "&accelKey;+<kbd>K</kbd>        <span class=\"win\"><br/>&accelKey;+<kbd>E</kbd></span>        <span class=\"unix\"><br/>&accelKey;+<kbd>J</kbd></span>"
+msgstr ""
+
+#: None:72
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:136
+#, fuzzy
+msgid "Windows &amp; Tabs"
+msgstr ""
+
+#: None:73
+#: None:137
+#, fuzzy
+msgid "Close Tab"
+msgstr "Затвори језичак"
+
+#: None:74
+#: None:138
+#, fuzzy
+msgid "&accelKey;+<kbd>W</kbd>        <span class=\"noMac\"><br/>&ctrlKey;+<kbd>F4</kbd></span>"
+msgstr ""
+
+#: None:75
+#: None:141
+#, fuzzy
+msgid "Close Window"
+msgstr ""
+
+#: None:76
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:142
+#, fuzzy
+msgid "&accelKey;+&shiftKey;+<kbd>W</kbd>        <span class=\"noMac\"><br/>&altKey;+<kbd>F4</kbd></span>"
+msgstr ""
+
+#: None:77
+#: None:145
+#, fuzzy
+msgid "Move Tab Left (when tab is focused)"
+msgstr ""
+
+#: None:78
+#: None:146
+#, fuzzy
+msgid "&accelKey;+<kbd>Left Arrow</kbd><br/>          &accelKey;+<kbd>Up Arrow</kbd>"
+msgstr ""
+
+#: None:79
+#: None:149
+#, fuzzy
+msgid "Move Tab Right (when tab is focused)"
+msgstr ""
+
+#: None:80
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:150
+#, fuzzy
+msgid "&accelKey;+<kbd>Right Arrow</kbd><br/>          &accelKey;+<kbd>Down Arrow</kbd>"
+msgstr ""
+
+#: None:81
+#: None:153
+#, fuzzy
+msgid "Move Tab to Beginning (when tab is focused)"
+msgstr ""
+
+#: None:82
+#: None:154
+#, fuzzy
+msgid "&accelKey;+<kbd>Home</kbd>"
+msgstr ""
+
+#: None:83
+#: None:157
+#, fuzzy
+msgid "Move Tab to End (when tab is focused)"
+msgstr ""
+
+#: None:84
+#: None:85
+#: None:86
+#: None:158
+#, fuzzy
+msgid "&accelKey;+<kbd>End</kbd>"
+msgstr ""
+
+#: None:85
+#: None:84
+#: None:86
+#: None:161
+#, fuzzy
+msgid "New Tab"
+msgstr ""
+
+#: None:86
+#: None:84
+#: None:85
+#: None:162
+#: None:189
+#, fuzzy
+msgid "&accelKey;+<kbd>T</kbd>"
+msgstr ""
+
+#: None:87
+#: None:165
+#, fuzzy
+msgid "New Window"
+msgstr ""
+
+#: None:88
+#: None:89
+#: None:90
+#: None:166
+#: None:167
+#, fuzzy
+msgid "&accelKey;+<kbd>N</kbd>"
+msgstr ""
+
+#: None:89
+#: None:88
+#: None:90
+#: None:169
+#, fuzzy
+msgid "Next Tab"
+msgstr ""
+
+#: None:90
+#: None:88
+#: None:89
+#, fuzzy
+msgid "&ctrlKey;+<kbd>Tab</kbd><br/>        <span class=\"mac\">&accelKey;+&altKey;+Right Arrow<br/></span>        &ctrlKey;+<kbd>Page Down</kbd>"
+msgstr ""
+
+#: None:91
+#: None:173
+#, fuzzy
+msgid "Open Address in New Tab"
+msgstr ""
+
+#: None:92
+#: None:93
+#: None:94
+#: None:174
+#, fuzzy
+msgid "&altKey;+&enterKey;"
+msgstr ""
+
+#: None:93
+#: None:92
+#: None:94
+#: None:177
+#, fuzzy
+msgid "Previous Tab"
+msgstr ""
+
+#: None:94
+#: None:92
+#: None:93
+#, fuzzy
+msgid "&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>        <span class=\"mac\">&accelKey;+&altKey;+Left Arrow<br/></span>        &ctrlKey;+<kbd>Page Up</kbd>"
+msgstr ""
+
+#: None:95
+#, fuzzy
+msgid "Restore Recently Closed Tab"
+msgstr "Налепи"
+
+#: None:96
+#: None:97
+#: None:98
+#, fuzzy
+msgid "&accelKey;+&shiftKey;+<kbd>T</kbd>"
+msgstr ""
+
+#: None:97
+#: None:96
+#: None:98
+#, fuzzy
+msgid "Select Tab (1 to 8)"
+msgstr ""
+
+#: None:98
+#: None:96
+#: None:97
+#, fuzzy
+msgid "<span class=\"noUnix\">&accelKey;</span><span        class=\"unix\">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)"
+msgstr ""
+
+#: None:99
+#, fuzzy
+msgid "Select Last Tab"
+msgstr "Обнови"
+
+#: None:100
+#, fuzzy
+msgid "<span class=\"noUnix\">&accelKey;</span><span        class=\"unix\">&altKey;</span>+<kbd>9</kbd>"
+msgstr ""
+
+#: None:101
+#: None:185
+#, fuzzy
+msgid "Tools"
+msgstr ""
+
+#: None:102
+#, fuzzy
+msgid "Bookmark All Tabs"
+msgstr ""
+
+#: None:103
+#, fuzzy
+msgid "&accelKey;+&shiftKey;+<kbd>D</kbd>"
+msgstr "Изабери све"
+
+#: None:104
+#: None:105
+#: None:106
+#, fuzzy
+msgid "Bookmark This Page"
+msgstr ""
+
+#: None:105
+#: None:104
+#: None:106
+#: None:187
+#: None:188
+#, fuzzy
+msgid "&accelKey;+<kbd>D</kbd>"
+msgstr ""
+
+#: None:106
+#: None:104
+#: None:105
+#: None:190
+#, fuzzy
+msgid "Bookmarks"
+msgstr ""
+
+# (Toplevel Edit menu uses utilityOverlay)
+#: None:107
+#: None:191
+#, fuzzy
+msgid "&accelKey;+<kbd>B</kbd>        <span class=\"win\"><br/>&accelKey;+<kbd>I</kbd></span>"
+msgstr ""
+
+#: None:108
+#: None:109
+#: None:110
+#: None:194
+#, fuzzy
+msgid "Caret Browsing"
+msgstr "Читање са курсором"
+
+#: None:109
+#: None:108
+#: None:110
+#: None:195
+#, fuzzy
+msgid "<kbd>F7</kbd>"
+msgstr ""
+
+#: None:110
+#: None:108
+#: None:109
+#: None:198
+#, fuzzy
+msgid "Downloads"
+msgstr "Преузимања"
+
+#: None:111
+#: None:199
+#, fuzzy
+msgid "<span class=\"noUnix\">&accelKey;+<kbd>J</kbd></span>        <span class=\"unix\">&accelKey;+<kbd>Y</kbd></span>"
+msgstr ""
+
+#: None:112
+#: None:202
+#, fuzzy
+msgid "History"
+msgstr ""
+
+#: None:113
+#: None:114
+#: None:115
+#: None:203
+#, fuzzy
+msgid "<span class=\"noMac\">&accelKey;+<kbd>H</kbd></span>        <span class=\"mac\">&accelKey;+&shiftKey;+<kbd>H</kbd></span>"
+msgstr ""
+
+#: None:114
+#: None:113
+#: None:115
+#, fuzzy
+msgid "Clear Private Data"
+msgstr ""
+
+#: None:115
+#: None:113
+#: None:114
+#: None:207
+#, fuzzy
+msgid "&accelKey;+&shiftKey;+<kbd>Del</kbd>"
+msgstr ""
+
+#: None:116
+#: None:210
+#, fuzzy
+msgid "Miscellaneous"
+msgstr ""
+
+#: None:117
+#: None:211
+#, fuzzy
+msgid "Complete .com Address"
+msgstr ""
+
+#: None:118
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:122
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:212
+#: None:213
+#, fuzzy
+msgid "&accelKey;+&enterKey;"
+msgstr ""
+
+#: None:119
+#: None:215
+#, fuzzy
+msgid "Complete .net Address"
+msgstr ""
+
+#: None:120
+#: None:176
+#: None:216
+#, fuzzy
+msgid "&shiftKey;+&enterKey;"
+msgstr ""
+
+#: None:121
+#: None:219
+#, fuzzy
+msgid "Complete .org Address"
+msgstr ""
+
+#: None:122
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:126
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:220
+#, fuzzy
+msgid "&accelKey;+&shiftKey;+&enterKey;"
+msgstr ""
+
+#: None:123
+#: None:223
+#, fuzzy
+msgid "Delete Selected Autocomplete Entry"
+msgstr ""
+
+#: None:124
+#, fuzzy
+msgid "<span class=\"noMac\"><kbd>Del</kbd></span>        <span class=\"mac\">&shiftKey;+<kbd>Del</kbd></span>"
+msgstr ""
+
+#: None:125
+#: None:227
+#, fuzzy
+msgid "Full Screen"
+msgstr ""
+
+#: None:126
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:127
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:228
+#: None:229
+#: None:230
+#, fuzzy
+msgid "<kbd>F11</kbd>"
+msgstr ""
+
+#: None:127
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:130
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#: None:235
+#, fuzzy
+msgid "Select Location Bar"
+msgstr ""
+
+#: None:128
+#: None:236
+#, fuzzy
+msgid "<span class=\"noMac\">&altKey;+<kbd>D</kbd><br/></span>        <kbd>F6</kbd><br />        &accelKey;+<kbd>L</kbd>"
+msgstr ""
+
+#: None:129
+#: None:131
+#, fuzzy
+msgid "Select or Manage Search Engines<br/>        (when Search Bar is focused)"
+msgstr ""
+
+#: None:130
+#: None:32
+#: None:48
+#: None:49
+#: None:52
+#: None:53
+#: None:56
+#: None:60
+#: None:68
+#: None:72
+#: None:76
+#: None:80
+#: None:118
+#: None:122
+#: None:126
+#: None:127
+#: None:139
+#: None:147
+#: None:148
+#: None:151
+#: None:152
+#: None:155
+#: None:156
+#: None:159
+#: None:160
+#: None:163
+#: None:171
+#: None:175
+#: None:179
+#: None:183
+#: None:184
+#: None:196
+#: None:197
+#: None:200
+#: None:208
+#: None:209
+#: None:217
+#: None:218
+#: None:221
+#: None:222
+#: None:226
+#: None:233
+#: None:241
+#: None:242
+#: None:245
+#: None:246
+#, fuzzy
+msgid "&altKey;+<kbd>Up Arrow</kbd><br/>        &altKey;+<kbd>Down Arrow</kbd><span class=\"noMac\"><br/>        <kbd>F4</kbd></span>"
+msgstr ""
+
+#: None:131
+#: None:129
+#, fuzzy
+msgid "<em>26 July 2006</em>"
+msgstr ""
+
+#: None:132
+#, fuzzy
+msgid "Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project."
+msgstr ""
