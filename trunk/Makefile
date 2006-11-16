@@ -4,6 +4,7 @@
 #  Програми за претварање Мозилиних датотека у ПО датотеке и обратно
 MOZ2PO:=moz2po
 PO2MOZ:=po2moz
+POMERGE:=pomerge
 MSGMERGE:=msgmerge
 #  Брисање датотека
 RM:=rm -f
@@ -16,9 +17,16 @@ RMDIR:=rm -fr
 clean:
 	$(RM) *~
 
+
 # Прављење образаца за пренос
 pot: cleanpot
 	$(MOZ2PO) -i source/sr-RS --pot -o pot/sr-RS
+
+cleanpo: 
+	$(MOZ2PO) -i source/sr-RS  -o po/sr-RS
+
+mergepop:
+	$(POMERGE) -t pot/sr-RS -i po/source/sr-RS -o po/sr-RS
 
 # Чишћење директоријума са обрасцима (ПОТ)
 cleanpot:
@@ -40,9 +48,22 @@ match:
 	. scripts/match-files.sh
 
 
+# Прави први списак датотека, са убаченим преводима
 populate:
 	. scripts/populate-po.sh
+	. scripts/process-double.sh
+	. scripts/process-copyonly.sh
+	. scripts/blind-copy.sh
 
+# Рачуна статистике датотека и уписује у статс.тхт
 stats:
 	. scripts/stats.sh &> stats/stats.txt
+
+check:
+	@echo Files in pot/
+	@find pot/sr-RS ! -wholename '*\.svn*' | wc -l
+	@echo Files in po/source/
+	@find po/source ! -wholename '*\.svn*' | wc -l
+	@echo Files in po/sr-RS/
+	@find po/sr-RS ! -wholename '*\.svn*' | wc -l
 
