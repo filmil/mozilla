@@ -1,0 +1,196 @@
+# extracted from source/sr-RS/mail/chrome/messenger/preferences/display.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: itemFormatting.label
+msgid "Formatting"
+msgstr ""
+
+#: itemTags.label
+msgid "Tags"
+msgstr ""
+
+#: itemFonts.label
+#: fontsCaption.label
+msgid "Fonts"
+msgstr "Писма"
+
+#: textBegin.label
+msgid "Quoted plain text appearance"
+msgstr "Изглед обичног цитираног текста"
+
+#: style.label
+#: style.accesskey
+msgid "St&yle:"
+msgstr ""
+
+#: regularStyle.label
+#: regularSize.label
+msgid "Regular"
+msgstr ""
+
+#: bold.label
+msgid "Bold"
+msgstr "Подебљано"
+
+#: italic.label
+msgid "Italic"
+msgstr "Искошено"
+
+#: boldItalic.label
+msgid "Bold Italic"
+msgstr "Подебљано и искошено"
+
+#: size.label
+#: size.accesskey
+msgid "&Size:"
+msgstr "&Величина:"
+
+#: bigger.label
+msgid "Bigger"
+msgstr "Већа"
+
+#: smaller.label
+msgid "Smaller"
+msgstr "Мања"
+
+#: color.label
+#: color.accesskey
+msgid "&Color:"
+msgstr "&Боја:"
+
+#: displayWidth.label
+msgid "Plain Text Messages"
+msgstr "Обичне текстуалне поруке"
+
+#: plainText.label
+msgid "Use the following font:"
+msgstr "Користи следеће писмо:"
+
+#: displayText.label
+msgid "When displaying quoted plain text messages:"
+msgstr "При приказивању цитираних обичних текстуалних порука:"
+
+#: viewingPlainText.label
+msgid "When displaying plain text messages:"
+msgstr "При приказивању порука у обичном тексту:"
+
+#: fixedWidth.label
+#: fixedWidth.accesskey
+msgid "Fi&xed width font"
+msgstr ""
+
+#: variableWidth.label
+#: variableWidth.accesskey
+msgid "&Variable width font"
+msgstr "Писмо &променљиве величине"
+
+#: readingMessagesHeader.label
+msgid "For incoming messages"
+msgstr "За долазеће поруке"
+
+#: messageWrapping.label
+msgid "Message Wrapping"
+msgstr "Прелом поруке"
+
+#: wrapInMsg.label
+#: wrapInMsg.accesskey
+msgid "&Wrap text to fit window width"
+msgstr "&Преломи поруку на ширину прозора"
+
+# LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)
+#: convertEmoticons.label
+#: convertEmoticons.accesskey
+msgid "&Display emoticons as graphics"
+msgstr "&Прикажи смешке као сличице"
+
+#: htmlColors.label
+msgid "HTML Messages"
+msgstr "HTML поруке"
+
+#: overrideSender.label
+#: overrideSender.accesskey
+msgid "Whe&n displaying HTML messages, use the following:"
+msgstr ""
+
+#: textColor.label
+#: textColor.accesskey
+msgid "&Text Color:"
+msgstr "&Боја текста:"
+
+#: backgroundColor.label
+#: backgroundColor.accesskey
+msgid "&Background Color:"
+msgstr "Бо&ја позадине:"
+
+# labels
+#: displayTagsText.label
+msgid "Tags can be used to categorize and prioritize your messages."
+msgstr ""
+
+#: addTagButton.label
+#: addTagButton.accesskey
+msgid "&Add"
+msgstr "&Додај"
+
+#: editTagButton.label
+#: editTagButton.accesskey
+msgid "&Edit"
+msgstr "&Уреди"
+
+#: removeTagButton.label
+#: removeTagButton.accesskey
+msgid "De&lete"
+msgstr ""
+
+# Fonts
+#: fontsDescription.label
+msgid "Configure the fonts used by &brandShortName;"
+msgstr ""
+
+#: fontOptions.label
+#: fontOptions.accesskey
+msgid "&Fonts..."
+msgstr ""
+
+# Language settings
+#: sendDefaultCharset.label
+#: sendDefaultCharset.accesskey
+msgid "O&utgoing Mail:"
+msgstr "&Одлазећа пошта:"
+
+#: languagesTitle.label
+msgid "Character encodings"
+msgstr "Скупови знакова"
+
+#: composingDescription.label
+msgid "Set the default character encodings for sending and receiving mail"
+msgstr "Поставите подразумевани скуп знакова за долазећу и одлазећу пошту"
+
+#: viewDefaultCharsetList.label
+#: viewDefaultCharsetList.accesskey
+msgid "&Incoming Mail:"
+msgstr "&Долазећа пошта:"
+
+#: forceCharsetOverride.label
+#: forceCharsetOverride.accesskey
+msgid "A&pply the default character encoding to all incoming messages"
+msgstr ""
+
+#: replyInDefaultCharset.label
+#: replyInDefaultCharset.accesskey
+msgid "Use t&he default character encoding in replies"
+msgstr ""

@@ -1,0 +1,818 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+
+#: None:1
+#: None:2
+msgid "&brandFullName; Menu Reference"
+msgstr ""
+
+#: None:3
+msgid "This menu reference describes each menu item in the main    &brandFullName; window."
+msgstr ""
+
+#: None:4
+msgid "In this section:    <ul>"
+msgstr ""
+
+#: None:5
+msgid "<a href=\"#firefox\">&brandShortName;</a>"
+msgstr ""
+
+#: None:6
+msgid "<a href=\"#file\">File</a>"
+msgstr ""
+
+#: None:7
+msgid "<a href=\"#edit\">Edit</a>"
+msgstr ""
+
+#: None:8
+msgid "<a href=\"#view\">View</a>"
+msgstr ""
+
+#: None:9
+#, fuzzy
+msgid "<a href=\"#go\">History</a>"
+msgstr ""
+
+#: None:10
+msgid "<a href=\"#bookmarks\">Bookmarks</a>"
+msgstr ""
+
+#: None:11
+msgid "<a href=\"#tools\">Tools</a>"
+msgstr ""
+
+#: None:12
+msgid "<a href=\"#window\">Window</a>"
+msgstr ""
+
+#: None:13
+msgid "<a href=\"#help\">Help</a>"
+msgstr ""
+
+#: None:14
+msgid ""
+"_: None:14\n"
+""
+msgstr ""
+
+#: None:15
+msgid "&brandShortName;"
+msgstr "&brandShortName;"
+
+#: None:16
+#: None:176
+#: None:173
+#, fuzzy
+msgid "About &brandFullName;"
+msgstr ""
+
+#: None:17
+#: None:177
+#: None:174
+msgid "Displays a dialog box with information about &brandShortName;, including      the current version and a brief list of credits."
+msgstr ""
+
+#: None:18
+msgid "Preferences..."
+msgstr ""
+
+#: None:19
+msgid "Displays the <a href=\"prefs.xhtml\">&pref.pluralCaps; window</a>,      where you can change many &pref.plural; in &brandShortName;."
+msgstr ""
+
+#: None:20
+msgid "Quit &brandShortName;"
+msgstr ""
+
+#: None:21
+#, fuzzy
+msgid "Closes all &brandShortName; windows, cancels any active downloads, and exits      &brandShortName; completely. If you happen to select this menu item with      more than one tab or window open, &brandShortName; will ask you to confirm      your choice to prevent accidental exits. You can switch off this warning      by deselecting the <em>Warn me when closing multiple tabs</em> checkbox in      the <em>Tabs</em> panel of &pref.menuPath;. &brandShortName; will also      warn you if you are currently downloading any files."
+msgstr ""
+
+#: None:22
+msgid "File"
+msgstr "Датотека"
+
+#: None:23
+msgid "New Window"
+msgstr ""
+
+#: None:24
+msgid "Opens a new &brandShortName; window."
+msgstr ""
+
+#: None:25
+msgid "New Tab"
+msgstr ""
+
+#: None:26
+msgid "Opens a new browser tab in the current &brandShortName; window."
+msgstr ""
+
+#: None:27
+msgid "Open Location..."
+msgstr ""
+
+#: None:28
+msgid "Focuses on the &brandShortName; URL bar so you can type in a new location to    visit."
+msgstr ""
+
+#: None:29
+msgid "Open File..."
+msgstr "Отвори датотеку..."
+
+#: None:30
+msgid "Displays an Open File dialog where you can select a file from your    local disks or network. You can view many file types in &brandShortName;,    including HTML/XML files, image files, text files and more."
+msgstr ""
+
+#: None:31
+msgid "Close (Window)"
+msgstr ""
+
+#: None:32
+msgid "Closes the current window."
+msgstr ""
+
+#: None:33
+msgid "Close Tab"
+msgstr "Затвори језичак"
+
+#: None:34
+msgid "Closes the current tab and selects the rightmost tab. This menu item is    visible only if more than one browser tab is currently open."
+msgstr ""
+
+#: None:35
+msgid "Save Page As..."
+msgstr ""
+
+#: None:36
+msgid "Saves the page you are currently browsing. You can choose to save the    whole page (complete with graphics), just the current HTML page, or the    page text only."
+msgstr ""
+
+#: None:37
+msgid "Send Link..."
+msgstr ""
+
+#: None:38
+msgid "Opens an email composition window using your computer's default email program    so you can send a message with a link to the current page."
+msgstr ""
+
+#: None:39
+msgid "Page Setup..."
+msgstr "Подеси страну..."
+
+#: None:40
+msgid "Displays a Page Setup dialog where you can specify printing settings such as    margins, headers and footers, and page orientation."
+msgstr ""
+
+#: None:41
+msgid ""
+"_: None:41\n"
+""
+msgstr ""
+
+#: None:42
+msgid "Print Preview"
+msgstr "Преглед пре штампе"
+
+#: None:43
+msgid "Displays a preview of how the current document will appear when printed. It      reflects the settings in the Page Setup dialog and the page author's      intentions."
+msgstr ""
+
+#: None:44
+msgid "Print..."
+msgstr ""
+
+#: None:45
+msgid "Displays the Print dialog, where you can specify the number of printed copies,    etc. Click <em>OK</em> to print the page."
+msgstr ""
+
+#: None:46
+msgid "Import..."
+msgstr ""
+
+#: None:47
+msgid "Opens the Import Wizard dialog, which allows you to import &pref.plural;, bookmarks,    history, passwords and other data from browsers like Microsoft Internet    Explorer, Netscape, Mozilla or Opera."
+msgstr ""
+
+#   LOCALIZATION NOTE :
+#   do not localize "\n".  use "\n" to make the text fit nicely in the dialog.
+#
+# Download Messages Prompt
+#: None:48
+msgid "Work Offline"
+msgstr "Неповезан рад"
+
+#: None:49
+msgid "Toggles between online and offline mode. Offline mode allows you to view    web pages you've previously visited without being connected to the    Internet."
+msgstr ""
+
+#: None:50
+msgid ""
+"_: None:50\n"
+""
+msgstr ""
+
+#: None:51
+msgid "<span class=\"win\">Exit</span>    <span class=\"noWin\">Quit</span>"
+msgstr ""
+
+#: None:52
+#, fuzzy
+msgid "Closes all &brandShortName; windows, cancels any active downloads, and exits    &brandShortName; completely. If you happen to select this menu item with    more than one tab or window open, &brandShortName; will ask you to confirm    your choice to prevent accidental exits. You can switch off this warning    by deselecting the <em>Warn me when closing multiple tabs</em> checkbox in    the <em>Tabs</em> panel of &pref.menuPath;. &brandShortName; will also    warn you if you are currently downloading any files."
+msgstr ""
+
+#: None:53
+msgid "Edit"
+msgstr "Измени"
+
+# (Toplevel Edit menu uses utilityOverlay)
+#: None:54
+msgid "Undo"
+msgstr "Опозови"
+
+#: None:55
+msgid "Undoes the last action in a text field. If you later decide you don't want to    undo an action, use the Redo command."
+msgstr ""
+
+#: None:56
+msgid "Redo"
+msgstr "Обнови"
+
+#: None:57
+msgid "Redoes the last Undo command."
+msgstr ""
+
+#: None:58
+msgid "Cut"
+msgstr "Исеци"
+
+#: None:59
+msgid "Cuts the selected text from a text field and stores it in the clipboard. Paste    the text elsewhere by using the Paste command."
+msgstr ""
+
+#: None:60
+msgid "Copy"
+msgstr "Умножи"
+
+#: None:61
+msgid "Copies the selected text to the clipboard. Paste the text in a text field by    using the Paste command."
+msgstr ""
+
+#: None:62
+msgid "Paste"
+msgstr "Налепи"
+
+#: None:63
+msgid "Pastes text stored in the clipboard into a text field."
+msgstr ""
+
+#: None:64
+msgid "Delete"
+msgstr "Уклони"
+
+#: None:65
+msgid "Deletes the selected text from a text field."
+msgstr ""
+
+#: None:66
+msgid "Select All"
+msgstr "Изабери све"
+
+#: None:67
+msgid "Selects all text and other items on the page."
+msgstr ""
+
+#: None:68
+msgid "Find in This Page..."
+msgstr ""
+
+#: None:69
+msgid "Displays the Find Toolbar at the bottom of the browser window.  Enter the    text you wish to find in the toolbar, and as you type &brandShortName; will    automatically find and select the first occurrence of the entered text on    the page.  Click <em>Find Next</em> or <em>Find Previous</em> to find the    text at other locations in the page, and click <em>Highlight</em> to    highlight all occurrences of the text on the page."
+msgstr ""
+
+#: None:70
+msgid "Find Again"
+msgstr "Нађи поново"
+
+#: None:71
+msgid "Searches for the next occurrence of the text specified when using the  <em>Find in This Page...</em> command."
+msgstr ""
+
+#: None:72
+#: None:151
+#: None:150
+#: None:73
+#, fuzzy
+msgid ""
+"_: None:152\n"
+"&pref.pluralCaps;"
+msgstr ""
+
+#: None:73
+#: None:152
+#: None:151
+#, fuzzy
+msgid ""
+"_: None:152\n"
+"Displays the <a href=\"prefs.xhtml\">&pref.pluralCaps; window</a>,    where you can change many &pref.plural; in &brandShortName;."
+msgstr ""
+
+#: None:74
+msgid "View"
+msgstr "Преглед"
+
+#: None:75
+msgid "Toolbars"
+msgstr ""
+
+#: None:76
+msgid "Navigation Toolbar"
+msgstr ""
+
+#: None:77
+msgid "Toggles the visibility of the navigation toolbar, which usually contains      standard navigation buttons (Back, Forward, Stop, etc.)."
+msgstr ""
+
+#: None:78
+msgid "Bookmarks Toolbar"
+msgstr ""
+
+#: None:79
+msgid "Toggles the visibility of the bookmarks toolbar, which contains bookmarks      to various sites."
+msgstr ""
+
+#: None:80
+msgid "Customize..."
+msgstr "Подеси..."
+
+#: None:81
+msgid "Displays the toolbar customization dialog.  You can drag and drop toolbar      buttons to or from the toolbars here. You can also <span      class=\"noMac\">right-click</span><span class=\"mac\">press &ctrlKey;,      click</span> on the navigation toolbar and select <em>Customize...</em>      to show this dialog."
+msgstr ""
+
+#: None:82
+msgid "Status Bar"
+msgstr ""
+
+#: None:83
+msgid "Toggles the visibility of the status bar, located at the bottom of the window.    The status bar displays useful information about the page but may not be    needed by everyone."
+msgstr ""
+
+#: None:84
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: None:85
+msgid "The Sidebar can display your bookmarks or the browsing history.  You can    always close the Sidebar by clicking on the X in the upper-right    corner."
+msgstr ""
+
+#: None:86
+#: None:128
+#: None:125
+#, fuzzy
+msgid "Bookmarks"
+msgstr ""
+
+#: None:87
+msgid "Displays the Bookmarks Sidebar, which keeps your bookmarks visible all      the time. This can be very useful if you use bookmarks often."
+msgstr ""
+
+#: None:88
+#: None:116
+#: None:123
+#, fuzzy
+msgid "History"
+msgstr ""
+
+#: None:89
+msgid "Displays the History Sidebar, which keeps track of the sites you have      visited. To change how many days a site should be remembered, select      &pref.menuPath; and select the <em>Privacy</em> panel."
+msgstr ""
+
+#: None:90
+msgid "Stop"
+msgstr "Стани"
+
+#: None:91
+msgid "Stops loading of the current page you're browsing. This is the same as    clicking on the <em>Stop</em> button on the toolbar."
+msgstr ""
+
+#: None:92
+msgid "Reload"
+msgstr ""
+
+#: None:93
+msgid "Gets the most up-to-date version of the current page.  This is the same    as clicking the <em>Reload</em> button on the toolbar."
+msgstr ""
+
+#: None:94
+msgid "Text Size"
+msgstr ""
+
+#: None:95
+msgid "If the text on a web page is too small or too large, you can change it to    a more comfortable size."
+msgstr ""
+
+#: None:96
+msgid "Increase"
+msgstr ""
+
+#: None:97
+msgid "Displays the text on the web page one size larger. You can also do this      with the mouse (see <a href=\"mouse_shortcuts.xhtml\">Mouse Shortcuts</a>      for instructions)."
+msgstr ""
+
+#: None:98
+msgid "Decrease"
+msgstr ""
+
+#: None:99
+msgid "Displays the text on the web page one size smaller. You can also do this      with the mouse (see <a href=\"mouse_shortcuts.xhtml\">Mouse Shortcuts</a>      for instructions)."
+msgstr ""
+
+#: None:100
+msgid "Normal"
+msgstr "Нормалан"
+
+#: None:101
+msgid "Displays the text on the web page at its normal size."
+msgstr ""
+
+#: None:102
+msgid "Page Style"
+msgstr ""
+
+#: None:103
+msgid "Allows you to select a style for the current web page. By default,    &quot;Basic Page Style&quot; is selected unless the author specifies a    different default."
+msgstr ""
+
+#: None:104
+msgid "No Style"
+msgstr ""
+
+#: None:105
+msgid "Removes style formatting from the page."
+msgstr ""
+
+#: None:106
+msgid "Basic Page Style"
+msgstr ""
+
+#: None:107
+msgid "Displays the page with a general style specified by the author."
+msgstr ""
+
+#: None:108
+msgid "If the author has specified additional page styles, &brandShortName;     will list them here for you to select."
+msgstr ""
+
+#: None:109
+msgid "Character Encoding"
+msgstr "Кодирање знакова"
+
+#: None:110
+msgid "Allows you to manually change the character encoding on a web page.    &brandShortName; usually does this automatically."
+msgstr ""
+
+#: None:111
+msgid "Page Source"
+msgstr "Изворни кôд"
+
+#: None:112
+msgid "Displays the source code for the current document."
+msgstr ""
+
+#: None:113
+#, fuzzy
+msgid ""
+"_: None:113\n"
+""
+msgstr ""
+
+#: None:114
+#, fuzzy
+msgid "Full Screen"
+msgstr ""
+
+#: None:115
+#, fuzzy
+msgid "Displays the window in full screen. If you have the navigation toolbar      hidden, you can always restore the window anyway by pressing      <kbd>F11</kbd>."
+msgstr ""
+
+#: None:117
+#, fuzzy
+msgid "The History menu contains a list of the most recently visited web sites and    closed tabs."
+msgstr "Назад"
+
+#: None:118
+#, fuzzy
+msgid "Back"
+msgstr ""
+
+#: None:119
+#, fuzzy
+msgid "Navigates back one page in history. This is the same as clicking on the    <em>Back</em> button on the toolbar."
+msgstr "Проследи"
+
+#: None:120
+#, fuzzy
+msgid "Forward"
+msgstr ""
+
+#: None:121
+#, fuzzy
+msgid "Navigates forward one page in history. This is the same as clicking on    the <em>Forward</em> button on the toolbar."
+msgstr "Кућа"
+
+#: None:122
+#, fuzzy
+msgid "Home"
+msgstr ""
+
+#: None:123
+#: None:88
+#, fuzzy
+msgid "Displays your home page. This is the same as clicking on the    <em>Home</em> button on the navigation toolbar. To change the home page,    select &pref.menuPath; and open the <em>Main</em> panel.  You    can specify to use a blank page, the current page (or tab group), a    bookmark, or a manually entered address."
+msgstr ""
+
+#: None:124
+#, fuzzy
+msgid "Recently Closed Tabs"
+msgstr ""
+
+#: None:125
+#: None:86
+#, fuzzy
+msgid "Allows you to restore a tab you closed recently in the current window by    selecting it from the list. See the <a href=    \"tabbed_browsing.xhtml#closing_tabs\">Closing and Restoring Tabs</a> topic    for more information."
+msgstr ""
+
+#: None:126
+#, fuzzy
+msgid "Show in Sidebar"
+msgstr ""
+
+#: None:127
+#, fuzzy
+msgid "Displays the History Sidebar, which keeps track of the sites you have    visited. To change how many days a site should be remembered, select    &pref.menuPath; and select the <em>Privacy</em> panel."
+msgstr ""
+
+#: None:129
+#, fuzzy
+msgid "This menu contains all your stored bookmarks."
+msgstr ""
+
+#: None:130
+#, fuzzy
+msgid "Bookmark This Page..."
+msgstr ""
+
+#: None:131
+#, fuzzy
+msgid "Adds the current page to your bookmarks. A dialog will be displayed,    allowing you to choose a title for the bookmark and specify where you    want it to be stored."
+msgstr ""
+
+#: None:132
+#, fuzzy
+msgid "Subscribe to This Page..."
+msgstr ""
+
+#: None:133
+#, fuzzy
+msgid "Shows a preview of the <a href=\"glossary.xhtml#feed\">feed</a> offered by    the current site. From the preview page, you can subscribe to the feed using    a <a href=\"glossary.xhtml#live_bookmark\">Live Bookmark</a>, a feed reader    on your computer, or a web service. If you have chosen to always subscribe    using a Live Bookmark or a feed reader in the <em>Feeds</em> panel of    &pref.menuPath;, the preview page will be skipped."
+msgstr ""
+
+# # @name IMAP_PFC_READ_MAIL
+# # @loc None
+#: None:134
+#, fuzzy
+msgid "Bookmark All Tabs..."
+msgstr "Читање поште"
+
+#: None:135
+#, fuzzy
+msgid "Adds all the tabs in the current window to a new bookmark folder. A dialog    will be displayed, allowing you to choose the name of the folder and specify    where you want it to be stored."
+msgstr ""
+
+#: None:136
+#, fuzzy
+msgid "Organize Bookmarks..."
+msgstr ""
+
+#: None:137
+#, fuzzy
+msgid "Displays the Bookmarks Manager, a window where you can modify your    bookmarks. You can sort, rename and change the properties for your    bookmarks as well as add, remove, and move them."
+msgstr ""
+
+#: None:138
+#, fuzzy
+msgid "Tools"
+msgstr "Преузимања"
+
+#: None:139
+#, fuzzy
+msgid "Web Search"
+msgstr ""
+
+#: None:140
+#, fuzzy
+msgid "Highlights the Web Search box. You can then type in the terms you    wish to find on the Web."
+msgstr "Проширења"
+
+#: None:141
+#, fuzzy
+msgid "Downloads"
+msgstr ""
+
+#: None:142
+#, fuzzy
+msgid "Opens the Download Manager, where you can see the current, as well as    finished downloads."
+msgstr "Теме"
+
+#: None:143
+#, fuzzy
+msgid "Add-ons"
+msgstr ""
+
+#
+#: None:144
+#, fuzzy
+msgid "Opens the Add-ons manager, where you can view, install, configure, update,    and uninstall your extensions and themes. For more information, see the    <a href=\"customization.xhtml#add_ons\">Add-ons</a> help topic."
+msgstr "Јаваскрипт конзола"
+
+#: None:145
+#, fuzzy
+msgid "Error Console"
+msgstr ""
+
+#: None:146
+#, fuzzy
+msgid "Opens the Error Console, which tracks problems with JavaScript code.    JavaScript is a scripting language commonly used to construct web pages.    Programmers use JavaScript to make web pages more interactive; JavaScript    is often used to dynamically validate forms and select buttons."
+msgstr ""
+
+#: None:147
+#, fuzzy
+msgid "Page Info"
+msgstr ""
+
+#: None:148
+#, fuzzy
+msgid "Displays extensive information about the current web page, such as the    document type, encoding, size, and security information.  The dialog also    displays lists of the media and links used on the page."
+msgstr ""
+
+#: None:149
+#, fuzzy
+msgid "Clear Private Data..."
+msgstr ""
+
+#: None:150
+#: None:72
+#, fuzzy
+msgid "Clears the items which are selected in the Clear Private Data dialog in    the <em>Privacy</em> panel of &pref.menuPath;.    Displays a confirmation dialog by default."
+msgstr ""
+
+#: None:153
+#, fuzzy
+msgid ""
+"_: None:153\n"
+""
+msgstr "Прозор"
+
+#: None:154
+#, fuzzy
+msgid "Window"
+msgstr "Умањи"
+
+#: None:155
+#, fuzzy
+msgid "Minimize"
+msgstr ""
+
+#: None:156
+#, fuzzy
+msgid "Minimizes the current window."
+msgstr "Увећан"
+
+#: None:157
+#, fuzzy
+msgid "Zoom"
+msgstr ""
+
+#: None:158
+#, fuzzy
+msgid "Enlarges or restores the current window."
+msgstr ""
+
+#: None:159
+#, fuzzy
+msgid "(Open Windows)"
+msgstr ""
+
+#: None:160
+#, fuzzy
+msgid "Displays all the open windows by their title."
+msgstr "Помоћ"
+
+#: None:161
+#, fuzzy
+msgid "Help"
+msgstr ""
+
+#: None:162
+#, fuzzy
+msgid "<span class=\"noMac\">Help Contents</span>    <span class=\"mac\">&brandShortName; Help</span>"
+msgstr ""
+
+#: None:163
+#, fuzzy
+msgid ""
+"_: None:163\n"
+"Opens the &brandShortName; Help window, which contains useful information    that can help you browse the web."
+msgstr ""
+
+#: None:164
+#, fuzzy
+msgid ""
+"_: None:164\n"
+""
+msgstr ""
+
+#: None:165
+#, fuzzy
+msgid "For Internet Explorer Users"
+msgstr ""
+
+#: None:166
+#, fuzzy
+msgid "Opens this Help window displaying information that can      help Internet Explorer users transition to &brandShortName;."
+msgstr ""
+
+#: None:167
+#, fuzzy
+msgid "Release Notes"
+msgstr ""
+
+#: None:168
+#, fuzzy
+msgid "Provides information about installing, uninstalling and configuring    &brandShortName;, as well as other important information and late-breaking    notices. Requires an active Internet connection."
+msgstr ""
+
+#: None:169
+#, fuzzy
+msgid "Report Broken Web Site..."
+msgstr ""
+
+#: None:170
+#, fuzzy
+msgid "Allows you to report web sites that do not work correctly in    &brandShortName; to the &brandShortName; developers."
+msgstr ""
+
+#: None:171
+#, fuzzy
+msgid "Report Web Forgery..."
+msgstr ""
+
+#: None:172
+#, fuzzy
+msgid ""
+"_: None:172\n"
+"Allows you to report what you believe are forged or \"phishing\" sites.      Phishing Protection in &brandShortName; is powered by Google, and the     information you submit will be sent to Google and used to improve this     feature. Your report will be anonymous in accordance with Google's     privacy policy. This feature requires an active Internet connection."
+msgstr ""
+
+#: None:173
+#: None:16
+#, fuzzy
+msgid "Check for Updates..."
+msgstr ""
+
+#: None:174
+#: None:17
+#, fuzzy
+msgid "Displays a dialog which checks for updates to &brandShortName; and asks    you whether you want to download updates if any are available. After an    update has been downloaded, the dialog asks you to restart &brandShortName;    so that the update can be installed. Note that the name of this menu item    will change when an update is being downloaded or is ready to be installed."
+msgstr ""
+
+#: None:175
+#, fuzzy
+msgid ""
+"_: None:175\n"
+""
+msgstr ""
+
+#: None:178
+msgid "<em>12 September 2006</em>"
+msgstr ""
+
+#: None:179
+msgid "Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project."
+msgstr ""

@@ -1,0 +1,38 @@
+# extracted from source/sr-RS/mail/chrome/messenger/aboutDialog.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: aboutDialog.title
+msgid "About &brandFullName;"
+msgstr "О &brandFullName;"
+
+#: credits
+msgid "Credits"
+msgstr "Заслуге"
+
+#: aboutLink
+msgid "&lt; About &brandFullName;"
+msgstr "&lt; О &brandFullName;"
+
+#: aboutVersion
+msgid "version"
+msgstr "верзија"
+
+#: copyrightText
+msgid "&#169;1998-2006 Contributors. All Rights Reserved. Mozilla Thunderbird and the "
+"Thunderbird logos are trademarks of the Mozilla Foundation.  All rights "
+"reserved."
+msgstr "© 1998-2004 Заједница. Сва права загарантована. Firefox и Firefox логотипови су тржишна марка Mozilla фондације. Сва права су загарантована. Неке тржишне марке коришћене под лиценцом Charlton Company."

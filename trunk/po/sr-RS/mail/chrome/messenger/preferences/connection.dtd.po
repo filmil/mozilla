@@ -1,0 +1,137 @@
+# extracted from source/sr-RS/mail/chrome/messenger/preferences/connection.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: connectionsDialog.title
+msgid "Connection Settings"
+msgstr "Параметри повезивања"
+
+#: window.width
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"37em"
+msgstr "40em"
+
+#: proxyTitle.label
+msgid "Configure Proxies to Access the Internet"
+msgstr "Избор прокси сервера за приступ Интернету"
+
+#: directTypeRadio.label
+#: directTypeRadio.accesskey
+msgid "&Direct connection to the Internet"
+msgstr "&Директна веза са Интернетом"
+
+#: WPADTypeRadio.label
+#: WPADTypeRadio.accesskey
+msgid "Auto-detect proxy settings for this net&work"
+msgstr "Са&мостално препознај подешавање проксија за ову мрежу"
+
+#: manualTypeRadio.label
+#: manualTypeRadio.accesskey
+msgid "&Manual proxy configuration:"
+msgstr "&Ручни избор прокси сервера"
+
+#: autoTypeRadio.label
+#: autoTypeRadio.accesskey
+msgid "&Automatic proxy configuration URL:"
+msgstr "&Адреса за аутоматски избор проксија:"
+
+#: configAutoconfigText.label
+#: configAutoconfigText.accesskey
+msgid "Configuration location (&URL):"
+msgstr "Адреса конфигурације (&URL):"
+
+#: reload.label
+#: reload.accesskey
+msgid "Re&load"
+msgstr "О&бнови"
+
+#: ftp.label
+#: ftp.accesskey
+msgid "&FTP Proxy:"
+msgstr "&FTP-прокси:"
+
+#: gopher.label
+#: gopher.accesskey
+msgid "&Gopher Proxy:"
+msgstr "&Gopher-прокси"
+
+#: http.label
+#: http.accesskey
+msgid "&HTTP Proxy:"
+msgstr "HTTP-про&кси:"
+
+#: ssl.label
+#: ssl.accesskey
+msgid "&SSL Proxy:"
+msgstr "&SSL-прокси:"
+
+#: socks.label
+#: socks.accesskey
+msgid "SO&CKS Host:"
+msgstr "Домен SO&CKS:"
+
+#: socks4.label
+#: socks4.accesskey
+msgid "SOC&KS v4"
+msgstr "SOCKS &4"
+
+#: socks5.label
+#: socks5.accesskey
+msgid "SOCKS &v5"
+msgstr "SOCKS &5"
+
+#: port.label
+msgid "Port:"
+msgstr "Порт:"
+
+#: HTTPport.accesskey
+msgid "p"
+msgstr "P"
+
+#: SSLport.accesskey
+msgid "o"
+msgstr "т"
+
+#: FTPport.accesskey
+msgid "r"
+msgstr "п"
+
+# No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window
+#: gopherPort.accesskey
+msgid ""
+"_: gopherPort.accesskey\n"
+""
+msgstr ""
+
+#: SOCKSport.accesskey
+msgid "t"
+msgstr "р"
+
+#: noproxy.label
+#: noproxy.accesskey
+msgid "&No Proxy for:"
+msgstr "&Не користи прокси за:"
+
+#: noproxyExplain.label
+msgid "Example: .mozilla.org, .net.nz, 192.168.1.0/24"
+msgstr "Пример: .mozilla.org, .localhost, .yu, 192.168.1.0/24"
+
+#: shareproxy.label
+#: shareproxy.accesskey
+msgid "Use this pro&xy server for all protocols"
+msgstr "&Користи исти прокси за све протоколе"

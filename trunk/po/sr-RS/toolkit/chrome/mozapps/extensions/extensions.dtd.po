@@ -1,0 +1,389 @@
+# extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: addons.title
+msgid "Add-ons"
+msgstr ""
+
+# Default window size for the addon manager in pixels
+#: em.width
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"520"
+msgstr ""
+
+#: em.height
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"380"
+msgstr ""
+
+#: cmd.info.commandKey
+msgid "i"
+msgstr "i"
+
+#: cmd.options.commandKey
+msgid ","
+msgstr ","
+
+#: cmd.close.commandKey
+msgid "w"
+msgstr "w"
+
+# View labels
+#: extensions.label
+msgid "Extensions"
+msgstr "Проширења"
+
+#: themes.label
+msgid "Themes"
+msgstr "Теме"
+
+#: locales.label
+msgid "Languages"
+msgstr ""
+
+#: plugins.label
+msgid "Plugins"
+msgstr ""
+
+#: update.label
+msgid "Updates"
+msgstr ""
+
+#: install.label
+msgid "Installation"
+msgstr ""
+
+# Command Bar items
+#: cmd.checkUpdatesAll.label
+#: cmd.checkUpdatesAll.accesskey
+#: cmd.checkUpdate.accesskey
+#, fuzzy
+msgid "&Find Updates"
+msgstr "F"
+
+#: cmd.checkUpdatesAllAddon.tooltip
+msgid "Finds Updates to your Add-ons"
+msgstr ""
+
+#: cmd.checkUpdatesAllTheme.tooltip
+msgid "Finds Updates to your Themes"
+msgstr ""
+
+#: cmd.installLocalFile.label
+msgid "Install..."
+msgstr ""
+
+#: cmd.installFile.accesskey
+#: cmd.installUpdatesAll.accesskey
+#: cmd.installUpdate.accesskey
+msgid "I"
+msgstr "I"
+
+#: cmd.installFileAddon.tooltip
+msgid "Install an Add-on"
+msgstr ""
+
+#: cmd.installFileTheme.tooltip
+msgid "Install a Theme"
+msgstr "Постави тему"
+
+#: cmd.installUpdatesAll.label
+#: cmd.installUpdatesAll.accesskey
+#: cmd.installFile.accesskey
+#: cmd.installUpdate.accesskey
+#, fuzzy
+msgid "&Install Updates"
+msgstr ""
+
+#: cmd.installUpdatesAll.tooltip
+msgid "Installs the selected updates"
+msgstr ""
+
+#: cmd.restartApp.label
+#: cmd.restartApp.accesskey
+#, fuzzy
+msgid "&Restart &brandShortName;"
+msgstr "З"
+
+#: cmd.restartApp.tooltip
+msgid "Restarts &brandShortName; to finish the installation"
+msgstr ""
+
+#: cmd.skip.label
+#: cmd.skip.accesskey
+#, fuzzy
+msgid "&Skip"
+msgstr "з"
+
+#: cmd.skip.tooltip
+msgid "Skip these updates"
+msgstr ""
+
+#: cmd.continue.label
+#: cmd.continue.accesskey
+#: cmd.cancelUninstall.accesskey
+#: cancel.accesskey
+#, fuzzy
+msgid "&Continue"
+msgstr "У"
+
+#: cmd.continue.tooltip
+msgid "Continue loading &brandShortName;"
+msgstr ""
+
+#: cmd.enableAll.label
+#: cmd.enableAll.accesskey
+#, fuzzy
+msgid "Enable &All"
+msgstr "д"
+
+#: cmd.enableAll.tooltip
+msgid "Enable all displayed Add-ons"
+msgstr ""
+
+#: cmd.disableAll.label
+#: cmd.disableAll.accesskey
+#, fuzzy
+msgid "Di&sable All"
+msgstr "т"
+
+#: cmd.disableAll.tooltip
+msgid "Disable all displayed Add-ons"
+msgstr ""
+
+# Displayed in the selected Add-on's richlistitem and context menu
+#: cmd.useTheme.label
+#: cmd.useTheme.accesskey
+msgid "Use &Theme"
+msgstr "Корис&ти тему"
+
+#: cmd.useTheme.tooltip
+msgid "Changes &brandShortName;'s Theme"
+msgstr "Мења у тему &brandShortName; "
+
+#: cmd.options.label
+#: cmd.options.accesskey
+msgid "&Options"
+msgstr "&Опције"
+
+#: cmd.options.tooltip
+msgid "Set Options for the selected Extension"
+msgstr "Постави опције за изабрано проширење"
+
+#: cmd.optionsUnix.label
+#: cmd.optionsUnix.accesskey
+msgid "P&references"
+msgstr "&Подешавања"
+
+#: cmd.optionsUnix.tooltip
+msgid "Edit Preferences for the selected Extension"
+msgstr "Измена подешавања ваших преоширења"
+
+#: cmd.enable.label
+#: cmd.enable.accesskey
+msgid "&Enable"
+msgstr "О&могући"
+
+#: cmd.enable.tooltip
+msgid "Enable this Add-on when &brandShortName; is restarted"
+msgstr ""
+
+#: cmd.disable.label
+#: cmd.disable.accesskey
+msgid "&Disable"
+msgstr "О&немогући"
+
+#: cmd.disable.tooltip
+msgid "Disable this Add-on when &brandShortName; is restarted"
+msgstr ""
+
+#: cmd.uninstall.label
+msgid "Uninstall"
+msgstr "Удаљи"
+
+#: cmd.uninstall2.accesskey
+msgid "U"
+msgstr "U"
+
+#: cmd.uninstall2.tooltip
+msgid "Uninstall this Add-on when &brandShortName; is restarted"
+msgstr ""
+
+#: cmd.cancelUninstall.label
+#: cmd.cancelUninstall.accesskey
+#: cmd.continue.accesskey
+#: cancel.accesskey
+#, fuzzy
+msgid "&Cancel Uninstall"
+msgstr ""
+
+#: cmd.cancelUninstall.tooltip
+msgid "Cancel the uninstall of this Add-on"
+msgstr ""
+
+#: cmd.installUpdate.label
+#: cmd.installUpdate.accesskey
+#: cmd.installFile.accesskey
+#: cmd.installUpdatesAll.accesskey
+#, fuzzy
+msgid "&Install Update"
+msgstr ""
+
+#: cmd.installUpdate.tooltip
+msgid "Install an update for this Add-on"
+msgstr ""
+
+# The selected add-on's cancel action button label
+#: cancel.label
+#: cancel.accesskey
+#: cmd.continue.accesskey
+#: cmd.cancelUninstall.accesskey
+#, fuzzy
+msgid "&Cancel"
+msgstr "Откажи"
+
+# Only displayed in the selected Add-on's context menu
+#: cmd.homepage.label
+#: cmd.homepage.accesskey
+msgid "Visit &Home Page"
+msgstr "По&сети страну пројекта"
+
+#: cmd.about2.label
+msgid "About this Add-on"
+msgstr ""
+
+#: cmd.about.accesskey
+msgid "A"
+msgstr "О"
+
+#: cmd.checkUpdate.label
+#: cmd.checkUpdate.accesskey
+#: cmd.checkUpdatesAll.accesskey
+#, fuzzy
+msgid "&Find Update"
+msgstr ""
+
+#: cmd.includeUpdate.label
+#: cmd.includeUpdate.accesskey
+#: includeUpdate.accesskey
+#, fuzzy
+msgid "I&nclude Update"
+msgstr "н"
+
+#: includeUpdate.label
+#: includeUpdate.accesskey
+#: cmd.includeUpdate.accesskey
+#, fuzzy
+msgid "I&nclude this update"
+msgstr ""
+
+#: includeUpdate.tooltip
+msgid "Include this Add-on when installing the updates"
+msgstr ""
+
+# Status Messsages
+#: needsDependencies.label
+msgid "Requires additional items."
+msgstr ""
+
+#: blocklisted.label
+msgid "Disabled for your protection."
+msgstr ""
+
+#: toBeDisabled.label
+msgid "This add-on will be disabled when &brandShortName; is restarted."
+msgstr ""
+
+#: toBeEnabled.label
+msgid "This add-on will be enabled when &brandShortName; is restarted."
+msgstr ""
+
+#: toBeInstalled.label
+msgid "This add-on will be installed when &brandShortName; is restarted."
+msgstr ""
+
+#: toBeUninstalled.label
+msgid "This add-on will be uninstalled when &brandShortName; is restarted."
+msgstr ""
+
+#: toBeUpgraded.label
+msgid "This add-on will be upgraded when &brandShortName; is restarted."
+msgstr ""
+
+#: getExtensions.label
+msgid "Get Extensions"
+msgstr ""
+
+#: getExtensions.tooltip
+msgid "Get Extensions from addons.mozilla.org"
+msgstr ""
+
+#: getThemes.label
+msgid "Get Themes"
+msgstr ""
+
+#: getThemes.tooltip
+msgid "Get Themes from addons.mozilla.org"
+msgstr ""
+
+#: previewNoThemeSelected.label
+msgid "No Theme Selected"
+msgstr "Тема није изабрана"
+
+#: previewNoPreviewImage.label
+msgid "This Theme does not have a Preview Image"
+msgstr "Изабрана тема не садржи умањени изглед"
+
+#: moreInfo.label
+msgid "More Information"
+msgstr ""
+
+#: closeMessage.tooltip
+msgid "Close this message"
+msgstr ""
+
+#: updateSuccess.label
+msgid "Update completed successfully."
+msgstr ""
+
+#: installSuccess.label
+msgid "Install completed successfully."
+msgstr ""
+
+#: installSuccessRestart.label
+msgid "Restart to complete the installation."
+msgstr ""
+
+#: installWaiting.label
+msgid "Waiting..."
+msgstr "Чекамо..."
+
+#: installIncompatibleUpdate.label
+msgid "Checking compatibility..."
+msgstr ""
+
+#: installFinishing.label
+msgid "Installing..."
+msgstr "Инсталирам..."
+
+#: installFailure.label
+msgid "Install failed."
+msgstr ""
