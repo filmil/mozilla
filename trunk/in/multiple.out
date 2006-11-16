@@ -1,0 +1,35 @@
+source/sr-RS/toolkit/chrome/global-region/region.properties source/locale-ff/sr-CS/global-region/region.properties
+source/sr-RS/toolkit/chrome/mozapps/extensions/update.dtd source/locale-ff/sr-CS/mozapps/extensions/update.dtd
+source/sr-RS/toolkit/chrome/mozapps/downloads/downloads.dtd source/locale-ff/sr-CS/mozapps/downloads/downloads.dtd
+source/sr-RS/toolkit/chrome/mozapps/update/history.dtd source/locale-ff/sr-CS/mozapps/update/history.dtd source/locale-ff/browser/history/history.dtd
+source/sr-RS/toolkit/chrome/mozapps/preferences/preferences.properties source/locale-ff/sr-CS/mozapps/preferences/preferences.properties source/locale-ff/browser/preferences/preferences.properties
+source/sr-RS/toolkit/chrome/mozapps/plugins/plugins.properties source/locale-ff/sr-CS/mozapps/plugins/plugins.properties source/locale-ff/sr-CS/global/plugins.properties
+source/sr-RS/toolkit/chrome/global-platform/unix/intl.properties source/locale-ff/sr-CS/global-platform/unix/intl.properties source/locale-ff/sr-CS/global-platform/mac/intl.properties source/locale-ff/sr-CS/global-platform/win/intl.properties source/locale-ff/sr-CS/global/intl.properties
+source/sr-RS/toolkit/chrome/global-platform/unix/platformKeys.properties source/locale-ff/sr-CS/global-platform/unix/platformKeys.properties source/locale-ff/sr-CS/global-platform/mac/platformKeys.properties source/locale-ff/sr-CS/global-platform/win/platformKeys.properties
+source/sr-RS/toolkit/chrome/global-platform/mac/intl.properties source/locale-ff/sr-CS/global-platform/unix/intl.properties source/locale-ff/sr-CS/global-platform/mac/intl.properties source/locale-ff/sr-CS/global-platform/win/intl.properties source/locale-ff/sr-CS/global/intl.properties
+source/sr-RS/toolkit/chrome/global-platform/mac/platformKeys.properties source/locale-ff/sr-CS/global-platform/unix/platformKeys.properties source/locale-ff/sr-CS/global-platform/mac/platformKeys.properties source/locale-ff/sr-CS/global-platform/win/platformKeys.properties
+source/sr-RS/toolkit/chrome/global-platform/win/intl.properties source/locale-ff/sr-CS/global-platform/unix/intl.properties source/locale-ff/sr-CS/global-platform/mac/intl.properties source/locale-ff/sr-CS/global-platform/win/intl.properties source/locale-ff/sr-CS/global/intl.properties
+source/sr-RS/toolkit/chrome/global-platform/win/platformKeys.properties source/locale-ff/sr-CS/global-platform/unix/platformKeys.properties source/locale-ff/sr-CS/global-platform/mac/platformKeys.properties source/locale-ff/sr-CS/global-platform/win/platformKeys.properties
+source/sr-RS/toolkit/chrome/global/preferences.dtd source/locale-ff/sr-CS/global/preferences.dtd source/locale-ff/browser/preferences/preferences.dtd
+source/sr-RS/toolkit/chrome/global/intl.properties source/locale-ff/sr-CS/global-platform/unix/intl.properties source/locale-ff/sr-CS/global-platform/mac/intl.properties source/locale-ff/sr-CS/global-platform/win/intl.properties source/locale-ff/sr-CS/global/intl.properties
+source/sr-RS/other-licenses/branding/thunderbird/brand.dtd source/locale-ff/sr-CS/global/brand.dtd source/locale-ff/branding/brand.dtd
+source/sr-RS/other-licenses/branding/firefox/brand.dtd source/locale-ff/sr-CS/global/brand.dtd source/locale-ff/branding/brand.dtd
+source/sr-RS/mail/chrome/messenger/preferences/downloads.dtd source/locale-ff/sr-CS/mozapps/downloads/downloads.dtd source/locale-ff/browser/preferences/downloads.dtd
+source/sr-RS/mail/chrome/messenger/preferences/preferences.dtd source/locale-ff/sr-CS/global/preferences.dtd source/locale-ff/browser/preferences/preferences.dtd
+source/sr-RS/mail/chrome/messenger/preferences/preferences.properties source/locale-ff/sr-CS/mozapps/preferences/preferences.properties source/locale-ff/browser/preferences/preferences.properties
+source/sr-RS/mail/chrome/messenger-region/region.properties source/locale-ff/sr-CS/global-region/region.properties source/locale-ff/browser-region/region.properties
+source/sr-RS/mail/chrome/branding/brand.dtd source/locale-ff/sr-CS/global/brand.dtd source/locale-ff/branding/brand.dtd
+source/sr-RS/security/manager/chrome/pipnss/security.properties source/locale-ff/sr-CS/pipnss/security.properties source/locale-ff/sr-CS/global/webservices/security.properties
+source/sr-RS/dom/chrome/accessibility/unix/accessible.properties source/locale-ff/sr-CS/global-platform/unix/accessible.properties source/locale-ff/sr-CS/global-platform/mac/accessible.properties source/locale-ff/sr-CS/global-platform/win/accessible.properties
+source/sr-RS/dom/chrome/accessibility/mac/accessible.properties source/locale-ff/sr-CS/global-platform/unix/accessible.properties source/locale-ff/sr-CS/global-platform/mac/accessible.properties source/locale-ff/sr-CS/global-platform/win/accessible.properties
+source/sr-RS/dom/chrome/accessibility/win/accessible.properties source/locale-ff/sr-CS/global-platform/unix/accessible.properties source/locale-ff/sr-CS/global-platform/mac/accessible.properties source/locale-ff/sr-CS/global-platform/win/accessible.properties
+source/sr-RS/dom/chrome/plugins.properties source/locale-ff/sr-CS/mozapps/plugins/plugins.properties source/locale-ff/sr-CS/global/plugins.properties
+source/sr-RS/dom/chrome/webservices/security.properties source/locale-ff/sr-CS/pipnss/security.properties source/locale-ff/sr-CS/global/webservices/security.properties
+source/sr-RS/browser/chrome/browser-region/region.properties source/locale-ff/sr-CS/global-region/region.properties source/locale-ff/browser-region/region.properties
+source/sr-RS/browser/chrome/browser/sanitize.dtd source/locale-ff/browser/sanitize.dtd source/locale-ff/browser/preferences/sanitize.dtd
+source/sr-RS/browser/chrome/browser/history/history.dtd source/locale-ff/sr-CS/mozapps/update/history.dtd source/locale-ff/browser/history/history.dtd
+source/sr-RS/browser/chrome/browser/preferences/preferences.dtd source/locale-ff/sr-CS/global/preferences.dtd source/locale-ff/browser/preferences/preferences.dtd
+source/sr-RS/browser/chrome/browser/preferences/preferences.properties source/locale-ff/sr-CS/mozapps/preferences/preferences.properties source/locale-ff/browser/preferences/preferences.properties
+source/sr-RS/browser/chrome/browser/preferences/sanitize.dtd source/locale-ff/browser/sanitize.dtd source/locale-ff/browser/preferences/sanitize.dtd
+source/sr-RS/browser/chrome/branding/brand.dtd source/locale-ff/sr-CS/global/brand.dtd source/locale-ff/branding/brand.dtd
+source/sr-RS/editor/ui/chrome/region/region.properties source/locale-ff/sr-CS/global-region/region.properties source/locale-ff/browser-region/region.properties
