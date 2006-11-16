@@ -48,7 +48,8 @@ for f in `find $SOURCE_DIR ! -name '*.css' ! -name '*.dic' ! -name '*.rdf' ! -wh
     esac
 done
 
-for g in `find $SOURCE_DIR -name '*.rdf' -name '*.dic' -name '*.css'`; do
+CMDLINE="find $SOURCE_DIR -name '*.rdf' -o -name '*.dic' -o -name '*.css' -o -name '*.js'"
+for g in `$CMDLINE`; do
     echo "Blank copying resource: $g" 
     cp $g $SRC_DIR/$g
 done
