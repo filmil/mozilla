@@ -1,14 +1,3 @@
-po/sr-RS/toolkit/chrome/global-region
-po/sr-RS/toolkit/chrome/global-region/region.properties.po
-po/sr-RS/toolkit/chrome/global-region/region.dtd.po
-po/sr-RS/toolkit/chrome/global-region/builtinURLs.rdf
-po/sr-RS/toolkit/chrome/mozapps
-po/sr-RS/toolkit/chrome/mozapps/extensions
-po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po
-po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd.po
-po/sr-RS/toolkit/chrome/mozapps/extensions/update.properties.po
-po/sr-RS/toolkit/chrome/mozapps/extensions/update.dtd.po
-po/sr-RS/toolkit/chrome/mozapps/extensions/about.dtd.po
 po/sr-RS/toolkit/chrome/mozapps/downloads
 po/sr-RS/toolkit/chrome/mozapps/downloads/unknownContentType.properties.po
 po/sr-RS/toolkit/chrome/mozapps/downloads/downloadProperties.dtd.po
