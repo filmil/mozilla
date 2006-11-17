@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2006-11-17 00:56+0100\n"
+"PO-Revision-Date: 2006-11-17 01:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -170,7 +170,12 @@ msgid ""
 "Globally Available Extensions:\n"
 "==============================\n"
 "\n"
-msgstr "Опште доступна проширења: =============================="
+msgstr ""
+"\n"
+"\n"
+"Опште доступна проширења: \n"
+"==============================\n"
+"\n"
 
 #: globalItemListThemes
 msgid ""
@@ -179,19 +184,25 @@ msgid ""
 "Globally Available Themes:\n"
 "==========================\n"
 "\n"
-msgstr "Опште доступне теме: =========================="
+msgstr ""
+"\n"
+"\n"
+"Опште доступне теме: \n"
+"==========================\n"
+"\n"
+"\n"
 
 #: statusFormatKBKB
 msgid "#1 of #2 KB"
-msgstr "#1 из #2 Кб"
+msgstr "#1 од #2 KB"
 
 #: statusFormatKBMB
 msgid "#1 KB of #2 MB"
-msgstr "#1 Кб из #2 Мб"
+msgstr "#1 Кб од #2 MB"
 
 #: statusFormatMBMB
 msgid "#1 of #2 MB"
-msgstr "#1 из #2 Мб"
+msgstr "#1 из #2 MB"
 
 #: disabledObsoleteTitle
 msgid "Old Extensions"
@@ -207,7 +218,7 @@ msgstr "Пакет са више проширења"
 
 #: type-4
 msgid "Theme"
-msgstr "Теме"
+msgstr "Тема"
 
 #: type-2
 msgid "Extension"
@@ -215,7 +226,7 @@ msgstr "Проширење"
 
 #: incompatibleTitle
 msgid "Incompatible %S"
-msgstr "Неодговарајуће проширење"
+msgstr "Проширење не одговара: %S"
 
 #: incompatibleMsg
 msgid "%S %S could not be installed because it is not compatible with %S %S. (%S %S will only work with %S versions from %S to %S)"
