@@ -11,7 +11,9 @@ RM:=rm -f
 RMDIR:=rm -fr
 
 #
-.PHONY: clean pot cleanpot stats stats initpo match populate
+.PHONY: all clean pot cleanpot stats stats initpo match populate
+
+all: stats
 
 # Чишћење генерисаних датотека
 clean:

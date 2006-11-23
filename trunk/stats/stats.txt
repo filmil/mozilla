@@ -14,9 +14,9 @@ po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po:
 po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd.po: 
 16 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/extensions/update.properties.po: 
-7 преведених порука, 3 нејасне поруке, 23 непреведене поруке.
+33 преведене поруке.
 po/sr-RS/toolkit/chrome/mozapps/extensions/update.dtd.po: 
-3 преведене поруке, 2 непреведене поруке.
+5 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/extensions/about.dtd.po: 
 10 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/downloads/unknownContentType.properties.po: 

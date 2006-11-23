@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/downloads/unknownContentType.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 21:20+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,11 +55,11 @@ msgstr ""
 #
 #: intro.label
 msgid "You have chosen to open"
-msgstr "Покушавате отворити датотеку"
+msgstr "Изабрали сте да отворите"
 
 #: from.label
 msgid "from:"
-msgstr "из"
+msgstr "из:"
 
 #: actionQuestion.label
 msgid "What should &brandShortName; do with this file?"
@@ -91,7 +90,7 @@ msgstr "Параметри могу бити измењени у одељку &q
 
 #: settingsChangeMac.label
 msgid "Settings can be changed in the Content section of &brandShortName;, Preferences."
-msgstr "Параметри могу бити измењени у одељку Преузимања у подешавањима &brandShortName;,."
+msgstr "Параметри могу бити измењени у одељку „Преузимања‟ у поставкама за програм &brandShortName;."
 
 #: settingsChangeUnix.label
 msgid "Settings can be changed in the Content section of Edit, Preferences."
@@ -99,7 +98,7 @@ msgstr "Параметри се могу променити у одељку Пр
 
 #: whichIsA.label
 msgid "which is a:"
-msgstr "који је:"
+msgstr "врста:"
 
 #: chooseHandlerMac.label
 #: chooseHandlerMac.accesskey
@@ -113,4 +112,4 @@ msgstr "&Претражи..."
 
 #: unknownPromptText.label
 msgid "Would you like to save this file?"
-msgstr ""
+msgstr "Да ли желите да сачувате ову датотеку?"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/downloads/downloadProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 21:19+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "Почетак:"
 
 #: dateEnded.label
 msgid "Finished:"
-msgstr "Завршетак:"
+msgstr "Крај:"
 
 #: window.title
 msgid "Properties"
@@ -33,7 +32,7 @@ msgstr "Извор:"
 
 #: path.label
 msgid "To:"
-msgstr "Локална путања:"
+msgstr "У:"
 
 #: acceptButton.label
 msgid "Close"

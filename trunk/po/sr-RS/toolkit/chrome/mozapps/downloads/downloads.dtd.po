@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/downloads/downloads.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 21:21+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +74,7 @@ msgstr "&Прикажи"
 
 #: cmd.show.labelMac
 msgid "Show in Finder"
-msgstr ""
+msgstr "Прикажи у претраживачу"
 
 #: cmd.show.accesskeyMac
 msgid "F"
@@ -116,11 +115,11 @@ msgstr "w"
 
 #: cmd.close2.commandKey
 msgid "j"
-msgstr "w"
+msgstr "j"
 
 #: cmd.close2Unix.commandKey
 msgid "y"
-msgstr "w"
+msgstr "y"
 
 #: cmd.cleanUp.label
 #: cmd.cleanUp.accesskey
