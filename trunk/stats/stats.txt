@@ -8,13 +8,13 @@ po/sr-RS/toolkit/chrome/passwordmgr/passwordManager.dtd.po:
 po/sr-RS/toolkit/chrome/global-region/region.properties.po: 
 1 преведена порука.
 po/sr-RS/toolkit/chrome/global-region/region.dtd.po: 
-81 преведена порука, 26 непреведених порука.
+107 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties.po: 
-23 преведене поруке, 8 нејасних порука, 47 непреведених порука.
+78 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd.po: 
-12 преведених порука, 1 нејасна порука, 3 непреведене поруке.
+16 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/extensions/update.properties.po: 
-3 преведене поруке, 3 нејасне поруке, 27 непреведених порука.
+7 преведених порука, 3 нејасне поруке, 23 непреведене поруке.
 po/sr-RS/toolkit/chrome/mozapps/extensions/update.dtd.po: 
 3 преведене поруке, 2 непреведене поруке.
 po/sr-RS/toolkit/chrome/mozapps/extensions/about.dtd.po: 
@@ -64,8 +64,6 @@ po/sr-RS/toolkit/chrome/mozapps/plugins/plugins.dtd.po:
 po/sr-RS/toolkit/chrome/mozapps/help/help.dtd.po: 
 1 преведена порука.
 po/sr-RS/toolkit/chrome/mozapps/help/help.properties.po: 
-0 преведених порука, 15 непреведених порука.
-po/sr-RS/toolkit/chrome/mozapps/help/welcome.xhtml.po: 
 14 преведених порука.
 po/sr-RS/toolkit/chrome/cookie/cookieAcceptDialog.properties.po: 
 13 преведених порука.
@@ -740,38 +738,6 @@ po/sr-RS/browser/chrome/browser/openLocation.properties.po:
 po/sr-RS/browser/chrome/branding/brand.properties.po: 
 1 преведена порука, 1 нејасна порука.
 po/sr-RS/browser/chrome/branding/brand.dtd.po: 
-0 преведених порука, 15 нејасних порука, 116 непреведених порука.
-po/sr-RS/browser/chrome/help/shortcuts.xhtml.po: 
-3 преведене поруке, 85 непреведених порука.
-po/sr-RS/browser/chrome/help/glossary.xhtml.po: 
-23 преведене поруке, 12 нејасних порука, 137 непреведених порука.
-po/sr-RS/browser/chrome/help/menu_reference.xhtml.po: 
-1 преведена порука, 38 непреведених порука.
-po/sr-RS/browser/chrome/help/forieusers.xhtml.po: 
-0 преведених порука, 7 непреведених порука.
-po/sr-RS/browser/chrome/help/firefox_welcome.xhtml.po: 
-0 преведених порука, 3 нејасне поруке, 170 непреведених порука.
-po/sr-RS/browser/chrome/help/prefs.xhtml.po: 
-0 преведених порука, 192 непреведене поруке.
-po/sr-RS/browser/chrome/help/using_firebird.xhtml.po: 
-1 преведена порука, 25 непреведених порука.
-po/sr-RS/browser/chrome/help/download_manager.xhtml.po: 
-0 преведених порука, 2 нејасне поруке, 48 непреведених порука.
-po/sr-RS/browser/chrome/help/customization.xhtml.po: 
-0 преведених порука, 1 нејасна порука, 46 непреведених порука.
-po/sr-RS/browser/chrome/help/cookies.xhtml.po: 
-0 преведених порука, 4 нејасне поруке, 27 непреведених порука.
-po/sr-RS/browser/chrome/help/mouse_shortcuts.xhtml.po: 
-11 преведених порука.
-po/sr-RS/browser/chrome/help/platformStrings.dtd.po: 
-0 преведених порука, 37 непреведених порука.
-po/sr-RS/browser/chrome/help/tabbed_browsing.xhtml.po: 
-0 преведених порука, 68 непреведених порука.
-po/sr-RS/browser/chrome/help/accessibility.xhtml.po: 
-0 преведених порука, 27 непреведених порука.
-po/sr-RS/browser/chrome/help/popup.xhtml.po: 
-0 преведених порука, 17 непреведених порука.
-po/sr-RS/browser/profile/bookmarks.html.po: 
 7 преведених порука, 137 непреведених порука.
 po/sr-RS/browser/installer/installer.inc.po: 
 0 преведених порука, 37 непреведених порука.
