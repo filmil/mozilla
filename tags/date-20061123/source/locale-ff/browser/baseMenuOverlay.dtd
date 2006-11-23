@@ -1,0 +1,31 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Умањи прозор">
+<!ENTITY bringAllToFront.label "Пребаци све у први план">
+<!ENTITY zoomWindow.label "Приближи/удаљи">
+<!ENTITY windowMenu.label "Прозор">
+<!ENTITY helpMenu.label "Помоћ">
+<!ENTITY helpMenu.accesskey "П">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Помоћ">
+<!ENTITY helpMenuWin.accesskey "П">
+<!ENTITY aboutCmd.label "О &brandFullName;">
+<!ENTITY aboutCmd.accesskey "О">
+<!ENTITY helpContents.label "Садржај помоћи">
+<!ENTITY helpContents.accesskey "С">
+<!ENTITY helpContentsMac.label "&brandShortName; Помоћ">
+<!ENTITY helpForIEUsers.label "За кориснике Internet Explorer-а">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac2.commandkey "/">
+<!ENTITY openHelpMac2.modifiers "accel,shift">
+<!ENTITY openHelpMac2.frontendCommandkey "?">
+<!ENTITY openHelpMac2.frontendModifiers "accel">
+<!ENTITY helpReleaseNotes.label "О овом издању">
+<!ENTITY helpReleaseNotes.accesskey "и">
+<!ENTITY updateCmd.label "Провери унапређења...">
+<!ENTITY updateCmd.accesskey "у">

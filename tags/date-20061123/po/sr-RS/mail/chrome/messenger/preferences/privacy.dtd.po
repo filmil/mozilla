@@ -1,0 +1,190 @@
+# extracted from source/sr-RS/mail/chrome/messenger/preferences/privacy.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: itemGeneral.label
+msgid "General"
+msgstr "Опште"
+
+#: itemJunk.label
+msgid "Junk"
+msgstr "Отпад"
+
+#: itemPhishing.label
+msgid "E-mail Scams"
+msgstr ""
+
+#: itemPasswords.label
+msgid "Passwords"
+msgstr "Лозинке"
+
+#: itemAntiVirus.label
+msgid "Anti-Virus"
+msgstr ""
+
+#: itemSecurity.label
+msgid "Security"
+msgstr "Безбедност"
+
+# Format Toolbar, imported from editorAppShell.xul
+# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
+#: disableImageInMailNews.label
+#: disableImageInMailNews.accesskey
+#, fuzzy
+msgid "&Block loading of remote images in mail messages"
+msgstr "B"
+
+#: allowRemoteImagesForFriends.label
+#: allowRemoteImagesForFriends.accesskey
+#, fuzzy
+msgid "&Allow remote images if the sender is in my:"
+msgstr "П"
+
+#: enbJsCheckMailNews.label
+#: enbJsCheckMailNews.accesskey
+#, fuzzy
+msgid "Block &JavaScript in mail messages"
+msgstr ""
+
+# Junk Mail Controls
+#: junkMail.intro
+msgid "Set your default junk mail settings. Account specific junk mail settings can be configured in Account Settings."
+msgstr ""
+
+#: manualMark.label
+msgid "When I mark messages as junk:"
+msgstr ""
+
+#: manualMarkModeMove.label
+msgid "Move them to the account's &quot;Junk&quot; folder"
+msgstr ""
+
+#: markAsReadOnSpam.label
+msgid "Mark messages determined to be Junk as read"
+msgstr ""
+
+#: markAsReadOnSpam.acesskey
+msgid "k"
+msgstr ""
+
+#: manualMarkModeDelete.label
+msgid "Delete them"
+msgstr "Обриши је"
+
+#: enableJunkLogging.label
+#: enableJunkLogging.accesskey
+#, fuzzy
+msgid "Enable junk filter lo&gging"
+msgstr ""
+
+# access key definitions
+#: openJunkLog.label
+#: openJunkLog.accesskey
+#, fuzzy
+msgid "S&how log"
+msgstr "С"
+
+#: resetTrainingData.label
+#: resetTrainingData.accesskey
+#, fuzzy
+msgid "Reset Training &Data"
+msgstr "б"
+
+# Phishing Detector
+#: phishingDetector.intro
+msgid "&brandShortName; can analyze messages for possible email scams by looking for common techniques used to deceive you."
+msgstr ""
+
+#: enablePhishingDetector.label
+#: enablePhishingDetector.accesskey
+#, fuzzy
+msgid "&Check mail messages for email scams"
+msgstr "У"
+
+# Passwords
+#: savedPasswords.intro
+msgid "&brandShortName; can remember password information for all of your accounts so you do not need to re-enter your login details."
+msgstr "&brandShortName; може памтити податке везане за пријаву на веб страну, тако да их касније не морате поново уносити."
+
+#: encryptEnabled.label
+#: encryptEnabled.accesskey
+#, fuzzy
+msgid "U&se a master password to encrypt stored passwords"
+msgstr "т"
+
+#: masterPassword.intro
+msgid "When set, the Master Password protects all your passwords - but you must enter it once per session."
+msgstr "Када је постављена главна лозинка чува веше лозинке, али морате је уносити једном по сесији."
+
+#: setMasterPassword.label
+#: setMasterPassword.accesskey
+msgid "&Master Password"
+msgstr "&Главна лозинка"
+
+#: removeMasterPassword.label
+#: removeMasterPassword.accesskey
+msgid "&Remove Master Password..."
+msgstr "Уклони &главну лозинку..."
+
+#: viewPasswords.label
+#: viewPasswords.accesskey
+msgid "&View Saved Passwords"
+msgstr "&Преглед сачуваних лозинки"
+
+# Security
+# Certs
+#: certificates.label
+msgid "Certificates"
+msgstr "Сертификати"
+
+#: certificatesInfo.label
+msgid "Manage certificates, revocation lists, certificate verification and security devices."
+msgstr ""
+
+#: viewCertificates.label
+#: viewCertificates.accesskey
+#, fuzzy
+msgid "V&iew Certificates"
+msgstr "i"
+
+#: viewCRLs.label
+#: viewCRLs.accesskey
+#, fuzzy
+msgid "R&evocation Lists"
+msgstr ""
+
+#: viewOCSP.label
+#: viewOCSP.accesskey
+#, fuzzy
+msgid "Veri&fication"
+msgstr "f"
+
+#: viewSecurityDevices.label
+#: viewSecurityDevices.accesskey
+#, fuzzy
+msgid "Sec&urity Devices"
+msgstr "п"
+
+# Anti Virus
+#: antiVirus.intro
+msgid "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally."
+msgstr ""
+
+#: antiVirus.label
+#: antiVirus.accesskey
+#, fuzzy
+msgid "A&llow anti-virus clients to quarantine individual incoming messages"
+msgstr "У"

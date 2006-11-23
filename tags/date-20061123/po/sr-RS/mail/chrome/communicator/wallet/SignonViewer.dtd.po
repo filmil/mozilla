@@ -1,0 +1,76 @@
+# extracted from source/sr-RS/mail/chrome/communicator/wallet/SignonViewer.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: windowtitle.label
+msgid "Password Manager"
+msgstr "Управник лозинки"
+
+#: windowalttitle.label
+msgid "Form Manager: Sites"
+msgstr "Управник формулара: Ел. места"
+
+#: tab.signonsstored.label
+msgid "Passwords Saved"
+msgstr "Сачуване лозинке"
+
+#: tab.signonsnotstored.label
+msgid "Passwords Never Saved"
+msgstr "Лозинке које се не чувају"
+
+#: tab.nopreview.label
+msgid "Forms Never Previewed"
+msgstr "Формулари који се не прегледају"
+
+#: tab.nocapture.label
+msgid "Forms Never Saved"
+msgstr "Формулари који се не снимају"
+
+#: spiel.signonsstored.label
+msgid "Password Manager has saved login information for the following sites:"
+msgstr "Управљач лозинки чува податке о следећим ел. местима:"
+
+#: spiel.signonsnotstored.label
+msgid "Password Manager will never save login information for the following sites:"
+msgstr "Управљач лозинки неће памтити податке о следећим ел. местима:"
+
+#: spiel.nopreview.label
+msgid "Form Manager will never preview forms from the following sites before pre-filling them for you:"
+msgstr "Управљач формуларима неће давати формуларе на преглед са следећих ел. места пре него што их испуни за Вас:"
+
+#: spiel.nocapture.label
+msgid "Form Manager will never ask to save forms from the following sites:"
+msgstr "Управљач формуларима никада неће питати да ли да чува формуларе са следећих ел. места:"
+
+#: treehead.site.label
+msgid "Site"
+msgstr "Ел. место"
+
+#: treehead.username.label
+msgid "Username"
+msgstr "Корисничко име"
+
+#: treehead.password.label
+msgid "Password"
+msgstr "Лозинка"
+
+#: remove.label
+msgid "Remove"
+msgstr "Уклони"
+
+#: removeall.label
+msgid "Remove All"
+msgstr "Уклони све"

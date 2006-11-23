@@ -1,0 +1,25 @@
+<!ENTITY newBookmark.title "Додај у омиљено">
+<!ENTITY newbookmark.label "&brandShortName; додај ову страницу у омиљено.">
+<!ENTITY name.label "Назив:">
+<!ENTITY name.accesskey "N">
+<!ENTITY keyword.label "Кључна реч:">
+<!ENTITY keyword.accesskey "K">
+<!ENTITY url.label "Адреса:">
+<!ENTITY url.accesskey "L">
+<!ENTITY button.createin.label "Направи у &gt;&gt;">
+<!ENTITY button.createin.accesskey "C">
+<!ENTITY button.createin2.label "Направи у &lt;&lt;">
+<!ENTITY createin.label "Направи у:">
+<!ENTITY createin.accesskey "C">
+<!ENTITY moveto.label "Премести у:">
+<!ENTITY moveto.accesskey "M">
+<!ENTITY button.newfolder.label "Нови каталог...">
+<!ENTITY button.newfolder.accesskey "к">
+<!ENTITY alwayscreateinfolder.label "Не показуј више овај дијалог">
+<!ENTITY alwayscreateinfolder.accesskey "a">
+<!ENTITY dontshowmessage.tooltip "Када је ова опција изабрана нове омиљене страна називаће се стварним називом удаљене стране.">
+<!ENTITY selectFolder.label "Избор каталога">
+<!ENTITY expanderDown.tooltip "Прикажи садржај свих каталога">
+<!ENTITY expanderUp.tooltip "Сакри">
+<!ENTITY acceptButton.label "Додај">
+<!ENTITY bookmarksToolbar.label "Линија омиљених страна">

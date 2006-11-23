@@ -1,0 +1,8 @@
+<!ENTITY incompatible.title "Неодговарајуће ставке">
+<!ENTITY incompatible.intro "Следеће ставке нису прилагођене &brandShortName;
+тако да ће бити онемогућене по постављању:">
+<!ENTITY incompatible.update "&brandShortName; ће са времена на време тражити одоварајућа унапређења.">
+<!ENTITY incompatible.suffix "&brandShortName; унапређење садржи безбедносне исправке.
+Због опште безбедности препоручиво је извршити унапређење &brandShortName;-а,
+чак и ако одређена проширења и теме престану са радом.">
+<!ENTITY closebutton.label "Затвори">

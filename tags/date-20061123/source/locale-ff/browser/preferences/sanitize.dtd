@@ -1,0 +1,23 @@
+<!ENTITY sanitizeDialog.title "Избришите приватне податке">
+<!ENTITY window.width "30em">
+<!ENTITY items.label "Приватни податци">
+<!ENTITY sanitizeItems.label "Изаберите ставке за брисање:">
+<!ENTITY itemHistory.label "Историјат сурфовања">
+<!ENTITY itemHistory.accesskey "И">
+<!ENTITY itemFormData.label "Сачувани садржаји формулара">
+<!ENTITY itemFormData.accesskey "ф">
+<!ENTITY itemPasswords.label "Сачуване лозинке">
+<!ENTITY itemPasswords.accesskey "л">
+<!ENTITY itemCookies.label "Колачићи">
+<!ENTITY itemCookies.accesskey "К">
+<!ENTITY itemCache.label "Кеш">
+<!ENTITY itemCache.accesskey "К">
+<!ENTITY itemDownloads.label "Историјат преузимања">
+<!ENTITY itemDownloads.accesskey "п">
+<!ENTITY itemSessions.label "Регистроване сесије">
+<!ENTITY itemSessions.accesskey "с">
+<!ENTITY settings.label "Подешавања">
+<!ENTITY sanitizeOnShutDown.label "Избриши приватне податке по затварању &brandShortName;-а">
+<!ENTITY sanitizeOnShutDown.accesskey "e">
+<!ENTITY promptOnSanitize.label "Питај ме пре брисања приватних података">
+<!ENTITY promptOnSanitize.accesskey "т">

@@ -1,0 +1,6 @@
+<!ENTITY header.label "Кратко заглавље">
+<!ENTITY message.label "Пример неког текста.">
+<!ENTITY editfield0.label "Име корисника:">
+<!ENTITY editfield1.label "Лозинка:">
+<!ENTITY editfield2.label "Потврди лозинку:">
+<!ENTITY checkbox.label "Штиклирај">

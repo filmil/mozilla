@@ -1,0 +1,246 @@
+# extracted from source/sr-RS/mail/chrome/messenger/preferences/advanced.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: itemGeneral.label
+msgid "General"
+msgstr "Опште"
+
+#: itemUpdate.label
+msgid "Update"
+msgstr ""
+
+#: itemOffline.label
+msgid "Offline &amp; Disk Space"
+msgstr "Неповезан рад и простор на диску"
+
+# General Settings
+#: showCondensedAddresses.label
+#: showCondensedAddresses.accesskey
+#, fuzzy
+msgid "Show only dis&play name for people in my address book"
+msgstr "p"
+
+# "xxx seconds before marking a message as read", using a number and
+# (markAsReadEnd.label).
+#: markAsRead.label
+#: markAsRead.accesskey
+#: modeAutoAddonWarn.accesskey
+#, fuzzy
+msgid ""
+"_: This will concatenate with\n"
+"&Wait"
+msgstr "З"
+
+#: markAsReadEnd.label
+#: markAsReadEnd.accesskey
+#, fuzzy
+msgid "secon&ds before marking a message as read"
+msgstr "d"
+
+#: showFolderColumns.label
+#: showFolderColumns.accesskey
+#, fuzzy
+msgid "Show expanded columns in the &folder pane"
+msgstr "f"
+
+#: rememberLastMsg.label
+#: rememberLastMsg.accesskey
+#, fuzzy
+msgid "Remem&ber the last selected message"
+msgstr "п"
+
+#: reuseExp.label
+msgid "Open new messages in:"
+msgstr "Отвори нове поруке у:"
+
+#: reuseExpRadio0.label
+#: reuseExpRadio0.accesskey
+#, fuzzy
+msgid "A new message w&indow"
+msgstr "i"
+
+#
+# LOCALIZATION NOTE "RemoveTextStylesAccesskey" is used for both
+#  menu items: "RemoveTextStyles" and "StopTextStyles"
+#: reuseExpRadio1.label
+#: reuseExpRadio1.accesskey
+#, fuzzy
+msgid "An e&xisting message window"
+msgstr "у"
+
+#: connectionTimeout.label
+#: connectionTimeout.accesskey
+#, fuzzy
+msgid "&Connection timeout: "
+msgstr "У"
+
+#: connectionSeconds.label
+msgid "seconds"
+msgstr ""
+
+#: configEditDesc.label
+msgid "Advanced Configuration"
+msgstr ""
+
+#: configEdit.label
+#: configEdit.accesskey
+#, fuzzy
+msgid "Confi&g Editor..."
+msgstr ""
+
+# Update
+#: autoCheck.label
+msgid "Automatically check for updates to:"
+msgstr "Самостално проверавај унапређења за:"
+
+#: enableAppUpdate.label
+msgid "&brandShortName;"
+msgstr "&brandShortName;"
+
+#: enableAppUpdate.accesskey
+msgid "h"
+msgstr "F"
+
+#: enableAddonsUpdate.label
+#: enableAddonsUpdate.accesskey
+#, fuzzy
+msgid "Ins&talled Add-ons"
+msgstr "к"
+
+#: checkNow.label
+msgid "Check Now..."
+msgstr "Провери..."
+
+#: whenUpdatesFound.label
+msgid "When updates to &brandShortName; are found,"
+msgstr "Када је пронађено унапређење за &brandShortName;,"
+
+#: modeAskMe.label
+#: modeAskMe.accesskey
+msgid "As&k me what I want to do"
+msgstr "&Питај ме шта да радим"
+
+#: modeAutomatic.label
+#: modeAutomatic.accesskey
+msgid "Auto&matically download and install the update"
+msgstr "Самостално &преузми и постави унапређење"
+
+#: modeAutoAddonWarn.label
+#: modeAutoAddonWarn.accesskey
+#: markAsRead.accesskey
+#, fuzzy
+msgid "&Warn me if this will disable any of my add-ons"
+msgstr ""
+
+#: showUpdates.label
+#: showUpdates.accesskey
+msgid "Show &Update History"
+msgstr "Прикажи историјат &унапређења"
+
+# Offline and Disk Space
+#: offline.label
+msgid "Offline"
+msgstr "Неповезан рад"
+
+#: textStartUp
+msgid "When starting up:"
+msgstr "При покретању:"
+
+#: radioRememberPrevState
+msgid "Remember previous online state"
+msgstr "Запамти претходно стање везе"
+
+#: radioRememberPrevState.accesskey
+msgid "R"
+msgstr "З"
+
+#: radioAskMe
+msgid "Ask me for online state at startup"
+msgstr "Питај ме за стање везе при покретању"
+
+#: radioAskMe.accesskey
+msgid "u"
+msgstr "п"
+
+#: radioAlwaysOnline
+msgid "Always start up online"
+msgstr "Увек ради на вези"
+
+#: radioAlwaysOnline.accesskey
+msgid "l"
+msgstr "У"
+
+#: textGoingOnline
+msgid "Send unsent messages when going online?"
+msgstr "Слање непослатих порука при повезивању?"
+
+#: radioAutoSend
+#: radioAutoDownload
+msgid "Yes"
+msgstr "Да"
+
+#: radioAutoSend.accesskey
+msgid "Y"
+msgstr "Д"
+
+#: radioNotSend
+#: radioNotDownload
+msgid "No"
+msgstr "Не"
+
+#: radioNotSend.accesskey
+msgid "N"
+msgstr "Н"
+
+#: radioAskUnsent
+#: radioAskDownload
+msgid "Ask me"
+msgstr "Питај ме"
+
+#: radioAskUnsent.accesskey
+msgid "s"
+msgstr "т"
+
+#: textGoingOffline
+msgid "Download messages for offline use when going offline?"
+msgstr "Преузми поруке за локалну употребу при прекидању везе?"
+
+#: radioAutoDownload.accesskey
+msgid "e"
+msgstr ""
+
+#: radioNotDownload.accesskey
+msgid "o"
+msgstr ""
+
+#: radioAskDownload.accesskey
+msgid "a"
+msgstr "д"
+
+#: Diskspace
+msgid "Disk Space"
+msgstr "Простор на диску"
+
+#: offlineCompact.label
+#: offlineCompact.accesskey
+#, fuzzy
+msgid "Compact folders when it will sa&ve over"
+msgstr "м"
+
+#: kb.label
+msgid "KB"
+msgstr "KB"
