@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/update.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 20:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,9 +20,8 @@ msgstr "Провери сад"
 
 #: mismatchCheckNowAccesskey
 #: cancelButtonTextAccesskey
-#, fuzzy
 msgid "C"
-msgstr "С"
+msgstr "C"
 
 #: mismatchDontCheck
 msgid "Don't Check"
@@ -31,7 +29,7 @@ msgstr "Не проверавај"
 
 #: mismatchDontCheckAccesskey
 msgid "D"
-msgstr "Н"
+msgstr "D"
 
 #: installButtonText
 msgid "Install Now"
@@ -39,7 +37,7 @@ msgstr "Постави сад"
 
 #: installButtonTextAccesskey
 msgid "I"
-msgstr "п"
+msgstr "I"
 
 #: nextButtonText
 msgid "Next >"
@@ -47,7 +45,7 @@ msgstr "Следеће >"
 
 #: nextButtonTextAccesskey
 msgid "N"
-msgstr "С"
+msgstr "N"
 
 #: cancelButtonText
 msgid "Cancel"
@@ -55,15 +53,15 @@ msgstr "Одустани"
 
 #: statusPrefix
 msgid "Finished checking %S"
-msgstr ""
+msgstr "Крај провере за %S"
 
 #: downloadingPrefix
 msgid "Downloading: %S"
-msgstr "Преузимам: %S"
+msgstr "Преузимање: %S"
 
 #: installingPrefix
 msgid "Installing: %S"
-msgstr "Постављам: %S"
+msgstr "Постављање: %S"
 
 #: closeButton
 msgid "Close"
@@ -71,11 +69,11 @@ msgstr "Затвори"
 
 #: installErrors
 msgid "%S was unable to install updates for the following add-ons:"
-msgstr ""
+msgstr "Програм %S није могао да постави доградње за наредне додатке:"
 
 #: checkingErrors
 msgid "%S was unable to check for updates for the following add-ons:"
-msgstr ""
+msgstr "Програм %S није могао да провери да ли постоје доградње за наредне додатке:"
 
 #: installErrorItemFormat
 msgid "%S (%S)"

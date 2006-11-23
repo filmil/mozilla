@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/update.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 20:16+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,13 +20,13 @@ msgstr "&brandShortName; унапређења"
 
 #: offline.title
 msgid "&brandShortName; is working offline"
-msgstr ""
+msgstr "Програм &brandShortName; ради ван мреже"
 
 #: offline.description
 msgid "&brandShortName; needs to go online in order to see if updates "
 "are available for your add-ons to make them compatible with this "
 "version."
-msgstr ""
+msgstr "Програм &brandShortName; мора да се повеже са мрежом како би проверио да ли постоје доградње за ваше додатке, како би биле у складу са овим издањем програма."
 
 #: offline.toggleOffline.label
 #: offline.toggleOffline.accesskey
@@ -37,7 +36,7 @@ msgstr "Г"
 
 #: mismatch.win.title
 msgid "Incompatible Add-ons"
-msgstr ""
+msgstr "Неусклађени додаци"
 
 #: mismatch.top.label
 msgid "The following add-ons are not compatible with this version of "
@@ -156,11 +155,11 @@ msgstr ""
 # general strings used by several of the finish pages
 #: clickFinish.label
 msgid "Click Finish to continue starting &brandShortName;."
-msgstr "Кликните на „Задршетак“ како би сте наставили покретањем &brandShortName;."
+msgstr "Кликните на „Завршетак“ како бисте наставили покретање програма &brandShortName;."
 
 #: enableChecking.label
 msgid "Allow &brandShortName; to check for updates."
-msgstr ""
+msgstr "Дозволи програму &brandShortName; да проверава доградње."
 
 #: details.label
 #: details.accesskey

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 20:12+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: addons.title
 msgid "Add-ons"
-msgstr ""
+msgstr "Додаци"
 
 # Default window size for the addon manager in pixels
 #: em.width
@@ -25,14 +24,14 @@ msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "520"
-msgstr ""
+msgstr "520"
 
 #: em.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "380"
-msgstr ""
+msgstr "380"
 
 #: cmd.info.commandKey
 msgid "i"
@@ -57,39 +56,38 @@ msgstr "Теме"
 
 #: locales.label
 msgid "Languages"
-msgstr ""
+msgstr "Језици"
 
 #: plugins.label
 msgid "Plugins"
-msgstr ""
+msgstr "Додаци"
 
 #: update.label
 msgid "Updates"
-msgstr ""
+msgstr "Доградње"
 
 #: install.label
 msgid "Installation"
-msgstr ""
+msgstr "Постављање"
 
 # Command Bar items
 #: cmd.checkUpdatesAll.label
 #: cmd.checkUpdatesAll.accesskey
 #: cmd.checkUpdate.accesskey
-#, fuzzy
 msgid "&Find Updates"
-msgstr "F"
+msgstr "&Нађи доградње"
 
 #: cmd.checkUpdatesAllAddon.tooltip
 msgid "Finds Updates to your Add-ons"
-msgstr ""
+msgstr "Тражење доградњи за Ваше додатке"
 
 #: cmd.checkUpdatesAllTheme.tooltip
 msgid "Finds Updates to your Themes"
-msgstr ""
+msgstr "Тражење доградњи за Ваше теме"
 
 #: cmd.installLocalFile.label
 msgid "Install..."
-msgstr ""
+msgstr "Постави..."
 
 #: cmd.installFile.accesskey
 #: cmd.installUpdatesAll.accesskey
@@ -99,7 +97,7 @@ msgstr "I"
 
 #: cmd.installFileAddon.tooltip
 msgid "Install an Add-on"
-msgstr ""
+msgstr "Постави додатак"
 
 #: cmd.installFileTheme.tooltip
 msgid "Install a Theme"
@@ -109,65 +107,59 @@ msgstr "Постави тему"
 #: cmd.installUpdatesAll.accesskey
 #: cmd.installFile.accesskey
 #: cmd.installUpdate.accesskey
-#, fuzzy
 msgid "&Install Updates"
-msgstr ""
+msgstr "Постави &доградње"
 
 #: cmd.installUpdatesAll.tooltip
 msgid "Installs the selected updates"
-msgstr ""
+msgstr "Поставља изабране доградње"
 
 #: cmd.restartApp.label
 #: cmd.restartApp.accesskey
-#, fuzzy
 msgid "&Restart &brandShortName;"
-msgstr "З"
+msgstr "&Поново покрени програм &brandShortName;"
 
 #: cmd.restartApp.tooltip
 msgid "Restarts &brandShortName; to finish the installation"
-msgstr ""
+msgstr "Поново покреће програм &brandShortName; ради довршења постављања"
 
 #: cmd.skip.label
 #: cmd.skip.accesskey
-#, fuzzy
 msgid "&Skip"
-msgstr "з"
+msgstr "Прес&кочи"
 
 #: cmd.skip.tooltip
 msgid "Skip these updates"
-msgstr ""
+msgstr "Прескочи ове доградње"
 
 #: cmd.continue.label
 #: cmd.continue.accesskey
 #: cmd.cancelUninstall.accesskey
 #: cancel.accesskey
-#, fuzzy
 msgid "&Continue"
-msgstr "У"
+msgstr "Наста&ви"
 
 #: cmd.continue.tooltip
 msgid "Continue loading &brandShortName;"
-msgstr ""
+msgstr "Настави са учитавањем програма &brandShortName;"
 
 #: cmd.enableAll.label
 #: cmd.enableAll.accesskey
-#, fuzzy
 msgid "Enable &All"
-msgstr "д"
+msgstr "Укључи &све"
 
 #: cmd.enableAll.tooltip
 msgid "Enable all displayed Add-ons"
-msgstr ""
+msgstr "Укључи све приказане додатке"
 
 #: cmd.disableAll.label
 #: cmd.disableAll.accesskey
-#, fuzzy
 msgid "Di&sable All"
-msgstr "т"
+msgstr "Искључи св&е"
 
 #: cmd.disableAll.tooltip
 msgid "Disable all displayed Add-ons"
-msgstr ""
+msgstr "Искључи све приказане додатке"
 
 # Displayed in the selected Add-on's richlistitem and context menu
 #: cmd.useTheme.label
@@ -204,7 +196,7 @@ msgstr "О&могући"
 
 #: cmd.enable.tooltip
 msgid "Enable this Add-on when &brandShortName; is restarted"
-msgstr ""
+msgstr "Укључи ове додатке када се програм &brandShortName; поново покрене"
 
 #: cmd.disable.label
 #: cmd.disable.accesskey
@@ -213,11 +205,11 @@ msgstr "О&немогући"
 
 #: cmd.disable.tooltip
 msgid "Disable this Add-on when &brandShortName; is restarted"
-msgstr ""
+msgstr "Искључи овај додатак када се програм &brandShortName; поново покрене"
 
 #: cmd.uninstall.label
 msgid "Uninstall"
-msgstr "Удаљи"
+msgstr "Уклони"
 
 #: cmd.uninstall2.accesskey
 msgid "U"
@@ -225,40 +217,37 @@ msgstr "U"
 
 #: cmd.uninstall2.tooltip
 msgid "Uninstall this Add-on when &brandShortName; is restarted"
-msgstr ""
+msgstr "Уклони овај додатак када се програм &brandShortName; поново покрене"
 
 #: cmd.cancelUninstall.label
 #: cmd.cancelUninstall.accesskey
 #: cmd.continue.accesskey
 #: cancel.accesskey
-#, fuzzy
 msgid "&Cancel Uninstall"
-msgstr ""
+msgstr "Пониш&ти уклањање"
 
 #: cmd.cancelUninstall.tooltip
 msgid "Cancel the uninstall of this Add-on"
-msgstr ""
+msgstr "Поништи уклањање овог додатка"
 
 #: cmd.installUpdate.label
 #: cmd.installUpdate.accesskey
 #: cmd.installFile.accesskey
 #: cmd.installUpdatesAll.accesskey
-#, fuzzy
 msgid "&Install Update"
-msgstr ""
+msgstr "&Постави доградњу"
 
 #: cmd.installUpdate.tooltip
 msgid "Install an update for this Add-on"
-msgstr ""
+msgstr "Постави доградњу за овај додатак"
 
 # The selected add-on's cancel action button label
 #: cancel.label
 #: cancel.accesskey
 #: cmd.continue.accesskey
 #: cmd.cancelUninstall.accesskey
-#, fuzzy
 msgid "&Cancel"
-msgstr "Откажи"
+msgstr "Отка&жи"
 
 # Only displayed in the selected Add-on's context menu
 #: cmd.homepage.label
@@ -268,81 +257,78 @@ msgstr "По&сети страну пројекта"
 
 #: cmd.about2.label
 msgid "About this Add-on"
-msgstr ""
+msgstr "О овом додатку"
 
 #: cmd.about.accesskey
 msgid "A"
-msgstr "О"
+msgstr "A"
 
 #: cmd.checkUpdate.label
 #: cmd.checkUpdate.accesskey
 #: cmd.checkUpdatesAll.accesskey
-#, fuzzy
 msgid "&Find Update"
-msgstr ""
+msgstr "&Нађи доградњу"
 
 #: cmd.includeUpdate.label
 #: cmd.includeUpdate.accesskey
 #: includeUpdate.accesskey
-#, fuzzy
 msgid "I&nclude Update"
-msgstr "н"
+msgstr "У&кључи доградњу"
 
 #: includeUpdate.label
 #: includeUpdate.accesskey
 #: cmd.includeUpdate.accesskey
-#, fuzzy
 msgid "I&nclude this update"
-msgstr ""
+msgstr "&Укључи ову доградњу"
 
 #: includeUpdate.tooltip
 msgid "Include this Add-on when installing the updates"
-msgstr ""
+msgstr "Укључи овај додатак при постављању доградњи"
 
 # Status Messsages
 #: needsDependencies.label
 msgid "Requires additional items."
-msgstr ""
+msgstr "Захтева додатне ставке."
 
 #: blocklisted.label
 msgid "Disabled for your protection."
-msgstr ""
+msgstr "Искључено ради Ваше безбедности."
 
 #: toBeDisabled.label
 msgid "This add-on will be disabled when &brandShortName; is restarted."
-msgstr ""
+msgstr "Овај додатак ће бити искључен када се програм &brandShortName; поново покрене."
 
 #: toBeEnabled.label
 msgid "This add-on will be enabled when &brandShortName; is restarted."
-msgstr ""
+msgstr "Овај додатак ће бити укључен када се програм &brandShortName; поново покрене."
 
 #: toBeInstalled.label
 msgid "This add-on will be installed when &brandShortName; is restarted."
-msgstr ""
+msgstr "Овај додатак ће бити постављен када се програм &brandShortName; поново покрене."
 
 #: toBeUninstalled.label
 msgid "This add-on will be uninstalled when &brandShortName; is restarted."
-msgstr ""
+msgstr "Овај додатак ће бити уклоњен када се програм &brandShortName; поново покрене."
 
 #: toBeUpgraded.label
 msgid "This add-on will be upgraded when &brandShortName; is restarted."
-msgstr ""
+msgstr "Овај додатак ће бити дограђен када се програм &brandShortName; поново покрене."
 
 #: getExtensions.label
 msgid "Get Extensions"
-msgstr ""
+msgstr "Набавка проширења"
 
 #: getExtensions.tooltip
 msgid "Get Extensions from addons.mozilla.org"
-msgstr ""
+msgstr "Набавите проширења са адресе addons.mozilla.org"
 
 #: getThemes.label
 msgid "Get Themes"
-msgstr ""
+msgstr "Набавка тема"
 
 #: getThemes.tooltip
 msgid "Get Themes from addons.mozilla.org"
-msgstr ""
+msgstr "Набавите теме са адресе addons.mozilla.org"
 
 #: previewNoThemeSelected.label
 msgid "No Theme Selected"
@@ -354,31 +340,31 @@ msgstr "Изабрана тема не садржи умањени изглед"
 
 #: moreInfo.label
 msgid "More Information"
-msgstr ""
+msgstr "Више података"
 
 #: closeMessage.tooltip
 msgid "Close this message"
-msgstr ""
+msgstr "Затвори ову поруку"
 
 #: updateSuccess.label
 msgid "Update completed successfully."
-msgstr ""
+msgstr "Доградња је успешно окончана."
 
 #: installSuccess.label
 msgid "Install completed successfully."
-msgstr ""
+msgstr "Постављање је успешно окончано."
 
 #: installSuccessRestart.label
 msgid "Restart to complete the installation."
-msgstr ""
+msgstr "Покрените поново програм да бисте довршили доградњу."
 
 #: installWaiting.label
 msgid "Waiting..."
-msgstr "Чекамо..."
+msgstr "Мало стрпљења..."
 
 #: installIncompatibleUpdate.label
 msgid "Checking compatibility..."
-msgstr ""
+msgstr "Провера сагласности..."
 
 #: installFinishing.label
 msgid "Installing..."
@@ -386,4 +372,4 @@ msgstr "Инсталирам..."
 
 #: installFailure.label
 msgid "Install failed."
-msgstr ""
+msgstr "Постављање није успело."

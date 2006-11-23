@@ -40,31 +40,31 @@
          xmlns:NC="http://home.netscape.com/NC-rdf#">
 
   <RDF:Description about='urn:clienturl:toolbar:mynetscape'>
-    <NC:title>My Netscape</NC:title>
+    <NC:title>Мој Нетскејп</NC:title>
     <NC:content>http://my.netscape.com/</NC:content>
   </RDF:Description>
 
   <RDF:Description about='urn:clienturl:toolbar:home'>
-    <NC:title>Home</NC:title>
+    <NC:title>Дом</NC:title>
     <NC:content>http://home.netscape.com/</NC:content>
   </RDF:Description>
 
   <RDF:Description about='urn:clienturl:toolbar:relnotes'>
-    <NC:title>Release Notes</NC:title>
+    <NC:title>Белешке о издању</NC:title>
     <NC:content>http://www.mozilla.org/releases/</NC:content>
   </RDF:Description>
 
   <!-- View Menu -->
 
   <RDF:Description about='urn:clienturl:viewmenu:intlwebcontent'>
-    <NC:title>International Languages and Web Content</NC:title>
+    <NC:title>Међународни језици и мрежни садржај</NC:title>
     <NC:content>http://www.mozilla.org/projects/l10n/mlp_status.html#contrib</NC:content>
   </RDF:Description>
 
   <!-- Composer -->
 
   <RDF:Description about='urn:clienturl:composer:spellcheckers'>
-    <NC:title>Spellcheckers</NC:title>
+    <NC:title>Провера правописа</NC:title>
     <NC:content>http://www.mozilla.org/products/thunderbird/dictionaries.html</NC:content>
   </RDF:Description>
 
