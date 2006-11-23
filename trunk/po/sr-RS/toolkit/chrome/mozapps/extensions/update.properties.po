@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2006-11-23 20:14+0100\n"
+"PO-Revision-Date: 2006-11-23 21:12+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr "Крај провере за %S"
 
 #: downloadingPrefix
 msgid "Downloading: %S"
-msgstr "Преузимање: %S"
+msgstr "Пријем: %S"
 
 #: installingPrefix
 msgid "Installing: %S"
