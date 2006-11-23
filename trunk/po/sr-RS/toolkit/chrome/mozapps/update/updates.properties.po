@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/update/updates.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 22:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,53 +24,53 @@ msgstr "%S (%S)"
 
 #: updateType_major
 msgid "New Version"
-msgstr "New Version"
+msgstr "Ново издање"
 
 #: updateType_minor
 msgid "Security Update"
-msgstr "Security Update"
+msgstr "Безбедносна доградња"
 
 #: introType_minor
 msgid "An important Security Update for %S is available:"
-msgstr "An important Security Update for %S is available:"
+msgstr "Доступна је важна безбедносна доградња за програм %S:"
 
 #: introType_major
 msgid "A new version of %S is available:"
-msgstr "A new version of %S is available:"
+msgstr "Доступно је ново издање за програм %S:"
 
 #: introType_minor_app
 msgid "An update for %S is available:"
-msgstr ""
+msgstr "Доступна је доградња за програм %S:"
 
 #: introType_major_app_and_version
 msgid "You can download and install %S %S now!"
-msgstr ""
+msgstr "Можете одмах да преузмете и поставите: %S %S!"
 
 #: verificationError
 msgid "%S could not confirm the integrity of the update package."
-msgstr "%S не може да потврди веродостојност пакета за унапређење."
+msgstr "Програм %S не може да потврди веродостојност пакета са доградњама."
 
 #: errorsPageHeader
 msgid "Update Failed"
-msgstr "Неуспешно унапређење"
+msgstr "Доградња није успела"
 
 #: IAgree
 msgid "I Agree"
-msgstr ""
+msgstr "Слажем се"
 
 #: IAgree.accesskey
 msgid "A"
-msgstr "П"
+msgstr "A"
 
 #: IDoNotAgree
 msgid "I Disagree"
-msgstr ""
+msgstr "Не слажем се"
 
 #: IDoNotAgree.accesskey
 #: downloadButton.accesskey
 #: downloadButton_minor.accesskey
 msgid "D"
-msgstr "б"
+msgstr "D"
 
 #: license404Error
 msgid "The license file could not be found. Please contact the distributor."
@@ -79,27 +78,27 @@ msgstr "Лиценцу је немогуће пронаћи. Молим обав
 
 #: downloadingLicense
 msgid "Downloading license text..."
-msgstr "Преузимам текст лиценце..."
+msgstr "Пријем текста лиценце..."
 
 #: licenseContentNotFound
 msgid "The license file for this version could not be found. Please visit the %S homepage for more information."
-msgstr ""
+msgstr "Датотека са лиценцом за ово издање није нађена.  Молимо да посетите мрежну страну за програм %S за више података."
 
 #: updateMoreInfoContentNotFound
 msgid "Additional details about this version could not be found. Please visit the %S homepage for more information."
-msgstr ""
+msgstr "Додатни детаљи о овом издању нису пронађени. Молимо да посетите мрежну страну за програм %S за више података."
 
 #: licenseContentDownloading
 msgid "Getting license for %S %S..."
-msgstr ""
+msgstr "Пријем лиценце: %S %S..."
 
 #: updateMoreInfoContentDownloading
 msgid "Getting more details about %S %S..."
-msgstr ""
+msgstr "Пријем детаља: %S %S..."
 
 #: statusSucceededFormat
 msgid "Installed on: %S"
-msgstr "Постављам у: %S"
+msgstr "Постављено у: %S"
 
 #: statusFailed
 msgid "Install Failed"
@@ -115,35 +114,35 @@ msgstr "Настави"
 
 #: hideButton
 msgid "Hide"
-msgstr ""
+msgstr "Сакриј"
 
 #: hideButton.accesskey
 msgid "H"
-msgstr "П"
+msgstr "H"
 
 #: updatesfound_minor.title
 msgid "Update Available"
-msgstr ""
+msgstr "Доступна је доградња"
 
 #: updatesfound_major.title
 msgid "New Version Available"
-msgstr ""
+msgstr "Доступно је ново издање"
 
 #: progressFormatKBKB
 msgid "#1 of #2 KB"
-msgstr "#1 од #2 КБ"
+msgstr "#1 од #2 KB"
 
 #: progressFormatKBMB
 msgid "#1 KB of #2 MB"
-msgstr "#1 КБ од #2 МБ"
+msgstr "#1 KB од #2 MB"
 
 #: progressFormatMBMB
 msgid "#1 of #2 MB"
-msgstr "#1 од #2 МБ"
+msgstr "#1 од #2 MB"
 
 #: progressFormatUnknownKB
 msgid "#1 KB"
-msgstr "#1 КБ"
+msgstr "#1 KB"
 
 #: progressFormatUnknownMB
 msgid "#1 MB"
@@ -151,11 +150,11 @@ msgstr "#1 МБ"
 
 #: pausedStatus
 msgid "%S downloaded so far"
-msgstr "засад је преузето %S"
+msgstr "засад је примљено: %S"
 
 #: remain
 msgid "remain"
-msgstr "преостало"
+msgstr "преостаје"
 
 #: unknownFilesize
 msgid "unknown file size"
@@ -163,11 +162,11 @@ msgstr "непозната величина датотеке"
 
 #: rateFormatKBSec
 msgid "#1 KB/sec"
-msgstr "#1 КБ/сек"
+msgstr "#1 KB/s"
 
 #: rateFormatMBSec
 msgid "#1 MB/sec"
-msgstr "#1 МБ/сек"
+msgstr "#1 MB/s"
 
 #: longTimeFormat
 msgid "#1:#2:#3"
@@ -192,32 +191,32 @@ msgstr "; #1 #2"
 
 #: downloadingPrefix
 msgid "Downloading %S..."
-msgstr "Преузимам %S..."
+msgstr "Пријем: %S..."
 
 #: pausedName
 msgid "Paused downloading %S"
-msgstr "Паузирано преузимање %S"
+msgstr "Паузиран пријем %S"
 
 #: restartButton
 msgid "Restart %S Now"
-msgstr "Поново покрени %S"
+msgstr "Поново покрени програм %S"
 
 #: restartButton.accesskey
 msgid "R"
-msgstr "З"
+msgstr "R"
 
 #: downloadButton
 #: downloadButton_minor
 msgid "Download & Install Now »"
-msgstr ""
+msgstr "Преузми и постави одмах »"
 
 #: downloadButton_major
 msgid "Get the new version »"
-msgstr ""
+msgstr "Набави ново издање »"
 
 #: downloadButton_major.accesskey
 msgid "G"
-msgstr "Г"
+msgstr "G"
 
 #: laterButton
 msgid "Later"
@@ -225,24 +224,24 @@ msgstr "Касније"
 
 #: laterButton.accesskey
 msgid "a"
-msgstr "д"
+msgstr "a"
 
 #: neverButton
 msgid "Never"
-msgstr ""
+msgstr "Никада"
 
 #: neverButton.accesskey
 msgid "N"
-msgstr "Н"
+msgstr "N"
 
 #: restartLaterTitle
 #: resumePausedAfterCloseTitle
 msgid "Software Update"
-msgstr "Унапређење"
+msgstr "Доградња"
 
 #: restartLaterMsg
 msgid "The update will be installed the next time %S starts."
-msgstr ""
+msgstr "Доградња че бити постављена при следећем покретању програма %S."
 
 #: resumePausedAfterCloseMessage
 msgid "You have paused downloading this update. Do you want %S to download the update in the background while you continue to browse?"
@@ -250,7 +249,7 @@ msgstr "Паузирали сте преузимање овог унапређе
 
 #: updateReadyToInstallHeader
 msgid "%S Ready to Install"
-msgstr "%S је спремно за постављање"
+msgstr "Постављање је спремно за програм %S"
 
 #: checker_error-200
 msgid "AUS: Update XML File Malformed (200)"
@@ -322,12 +321,12 @@ msgstr "Унапређење није могло бити постављено"
 
 #: installPending
 msgid "Install Pending"
-msgstr ""
+msgstr "Постављање је на чекању"
 
 #: updaterIOErrorTitle
 msgid "Software Update Failed"
-msgstr "Software Update Failed"
+msgstr "Доградња програма није успела"
 
 #: updaterIOErrorText
 msgid "One or more files could not be updated. Please make sure all other applications are closed and that you have permission to modify files, and then restart %S to try again."
-msgstr "One or more files could not be updated. Please make sure all other applications are closed and that you have permission to modify files, and then restart %S to try again."
+msgstr "Једна или више датотека нису могле да буду дограђене. Молимо да проверите да су сви остали програми затворени и да имате дозволу да мењате датотеке. Затим поново покрените програм %S и пробајте поново."

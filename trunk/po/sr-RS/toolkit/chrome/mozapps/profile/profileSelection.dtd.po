@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/profile/profileSelection.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 22:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -65,11 +64,11 @@ msgstr "Назив профила:"
 
 #: start.label
 msgid "Start &brandShortName;"
-msgstr "Покретање &brandShortName;"
+msgstr "Покретање програма &brandShortName;"
 
 #: exit.label
 msgid "Exit"
-msgstr "Изађи"
+msgstr "Крај рада"
 
 #: availprofiles.label
 msgid "Available Profiles"
@@ -78,22 +77,22 @@ msgstr "Доступни профили"
 #: newButton.label
 #: newButton.accesskey
 msgid "&Create Profile..."
-msgstr "Створи профил..."
+msgstr "&Створи профил..."
 
 #: renameButton.label
 #: renameButton.accesskey
 msgid "&Rename Profile..."
-msgstr "Преименуј профил..."
+msgstr "&Преименуј профил..."
 
 #: deleteButton.label
 #: deleteButton.accesskey
 msgid "&Delete Profile..."
-msgstr "Удаљи профил..."
+msgstr "&Уклони профил..."
 
 # manager entities
 #: pmDescription.label
 msgid "&brandShortName; stores information about your settings, preferences, and other user items in your user profile."
-msgstr "&brandShortName; чува податке о Вашим подешавањима и друге ствари у Вашем профилу."
+msgstr "Програм &brandShortName; чува податке о Вашим подешавањима, поставкама и другим стварима у Вашем профилу."
 
 #: offlineState.label
 #: offlineState.accesskey
@@ -103,4 +102,4 @@ msgstr "Ради &ван мреже"
 #: autoSelect.label
 #: autoSelect.accesskey
 msgid "Don't a&sk at startup"
-msgstr "Не питај при следећем преузимању"
+msgstr "Не питај при &следећем покретању"

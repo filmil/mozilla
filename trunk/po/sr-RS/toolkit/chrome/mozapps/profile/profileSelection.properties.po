@@ -1,12 +1,11 @@
 # LOCALIZATION NOTE: Do not translate <html:br/> 
 # extracted from source/sr-RS/toolkit/chrome/mozapps/profile/profileSelection.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-11-23 22:33+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,15 +29,15 @@ msgstr "%S је већ покренут, али не одговара. Стар�
 
 #: restartMessageNoUnlockerMac
 msgid "A copy of %S is already open. Only one copy of %S can be open at a time."
-msgstr ""
+msgstr "Примерак програма %S већ је покренут. Само један примерак програма %S може да буде покренут у исто време."
 
 #: restartMessageUnlockerMac
 msgid "A copy of %S is already open. The running copy of %S will quit in order to open this one."
-msgstr ""
+msgstr "Примерак програма %S је већ покренут. Покренути примерак програма %S ће бити затворен како би се отворио нови примерак."
 
 #: profileTooltip
 msgid "Profile: '%S' - Path: '%S'"
-msgstr "Профил: '%S' - Путања: '%S'"
+msgstr "Профил: „%S‟ - Путања: „%S‟"
 
 #: pleaseSelectTitle
 msgid "Select Profile"
@@ -57,9 +56,10 @@ msgid ""
 "%S cannot use the profile \"%S\" because it is in use.\n"
 "\n"
 "To continue, close the running instance of %S or choose a different profile."
-msgstr "%S не може да користи профил \"%S\" зато што је у употреби.\n"
+msgstr ""
+"Програм „%S‟ не може да користи профил „%S„ зато што се тај профил већ користи.\n"
 "\n"
-"За наставак, затворите покренути процес %S или изаберите други профил."
+"За наставак, затворите покренути примерак програма „%S‟ или изаберите други профил."
 
 #: renameProfileTitle
 msgid "Rename Profile"
@@ -67,7 +67,7 @@ msgstr "Преименовање профила"
 
 #: renameProfilePrompt
 msgid "Rename the profile \"%S\" to:"
-msgstr "Преименуј профил \"%S\" у:"
+msgstr "Преименуј профил „%S‟ у:"
 
 #: profileNameInvalidTitle
 msgid "Invalid profile name"
@@ -75,7 +75,7 @@ msgstr "Недозвољен назив профила"
 
 #: profileNameInvalid
 msgid "The profile name \"%S\" is not allowed."
-msgstr "Име профила \"%S\" није дозвољено."
+msgstr "Име профила „%S‟ није дозвољено."
 
 #: chooseFolder
 msgid "Choose Profile Folder"
@@ -87,28 +87,29 @@ msgstr "Име профила мора бити наведено"
 
 #: invalidChar
 msgid "The character \"%S\" is not allowed in profile names. Please choose a different name."
-msgstr "Знак \"%S\" не може бити део имена профила. Молим, изаберите друго име."
+msgstr "Знак „%S‟ не може бити део имена профила. Молимо да изаберете друго име."
 
 #: deleteTitle
 msgid "Delete Profile"
-msgstr "Избриши профил"
+msgstr "Уклони профил"
 
 #: deleteProfile
 msgid ""
 "Deleting a profile will remove the profile from the list of available profiles and cannot be undone.\n"
 "You may also choose to delete the profile data files, including your saved mail, settings, and certificates. This option will delete the folder \"%S\" and cannot be undone.\n"
 "Would you like to delete the profile data files?"
-msgstr "Брисање профила ће га уклонити са листе доступних профила и не може бити поништено.\n"
-"Такође можете изабрати брисање датотечне податке о профилу, са сачуваном ел. поштом, подешавањима и сертификатима. Ова опција ће избрисати директоријум \"%S\" и не може бити поништена.\n"
-"Да ли желите да избришете датотечне податке о профилу?"
+msgstr ""
+"Брисање профила ће га уклонити са листе доступних профила и не може бити поништено.\n"
+"Такође можете изабрати брисање датотечне податке о профилу, са сачуваном ел. поштом, подешавањима и сертификатима. Ова опција ће избрисати директоријум „%S‟ и не може бити поништена.\n"
+"Да ли желите да избришете и датотеке из профила?"
 
 #: deleteFiles
 msgid "Delete Files"
-msgstr "Удаљи датотеке"
+msgstr "Уклони датотеке"
 
 #: dontDeleteFiles
 msgid "Don't Delete Files"
-msgstr "Не удаљуј датотеке"
+msgstr "Не уклањај датотеке"
 
 #: profileCreationFailed
 msgid "Profile couldn't be created. Probably the chosen folder isn't writable."
@@ -132,4 +133,4 @@ msgstr "Кликните на Крај за стварање новог проф
 
 #: profileFinishTextMac
 msgid "Click Done to create this new profile."
-msgstr ""
+msgstr "Притисните „Заврши‟ да бисте направили овај нови профил."
