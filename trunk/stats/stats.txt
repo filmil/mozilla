@@ -22,19 +22,19 @@ po/sr-RS/toolkit/chrome/mozapps/extensions/about.dtd.po:
 po/sr-RS/toolkit/chrome/mozapps/downloads/unknownContentType.properties.po: 
 7 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/downloads/downloadProperties.dtd.po: 
-13 преведених порука, 1 непреведена порука.
+14 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/downloads/unknownContentType.dtd.po: 
-28 преведених порука, 1 непреведена порука.
+29 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/downloads/downloads.dtd.po: 
 41 преведена порука.
 po/sr-RS/toolkit/chrome/mozapps/downloads/downloads.properties.po: 
-12 преведених порука, 1 непреведена порука.
+13 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/profile/createProfileWizard.dtd.po: 
 11 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/profile/profileSelection.dtd.po: 
-24 преведене поруке, 3 непреведене поруке.
+27 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/profile/profileSelection.properties.po: 
-62 преведене поруке, 16 непреведених порука.
+78 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/update/updates.properties.po: 
 2 преведене поруке.
 po/sr-RS/toolkit/chrome/mozapps/update/errors.dtd.po: 
@@ -42,7 +42,7 @@ po/sr-RS/toolkit/chrome/mozapps/update/errors.dtd.po:
 po/sr-RS/toolkit/chrome/mozapps/update/incompatible.dtd.po: 
 9 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/update/history.dtd.po: 
-38 преведених порука, 9 непреведених порука.
+47 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/update/updates.dtd.po: 
 4 преведене поруке.
 po/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po: 
