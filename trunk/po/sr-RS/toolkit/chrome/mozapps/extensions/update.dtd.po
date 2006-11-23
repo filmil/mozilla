@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2006-11-23 20:16+0100\n"
+"PO-Revision-Date: 2006-11-23 21:11+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,9 +30,8 @@ msgstr "Програм &brandShortName; мора да се повеже са м�
 
 #: offline.toggleOffline.label
 #: offline.toggleOffline.accesskey
-#, fuzzy
 msgid "&Go online now."
-msgstr "Г"
+msgstr "&Повежи се."
 
 #: mismatch.win.title
 msgid "Incompatible Add-ons"
@@ -41,116 +40,115 @@ msgstr "Неусклађени додаци"
 #: mismatch.top.label
 msgid "The following add-ons are not compatible with this version of "
 "&brandShortName; and have been disabled:"
-msgstr ""
+msgstr "Наведени додаци нису у складу са овим издањем програма &brandShortName; и зато су искључени:"
 
 #: mismatch.bottom.label
 msgid "&brandShortName; can check if there are compatible versions "
 "of these add-ons available."
-msgstr ""
+msgstr "Програм &brandShortName; може да провери да ли су доступна усклађена издања ових додатака."
 
 #: checking.wizard.title
 msgid "Checking for Compatible Add-ons"
-msgstr ""
+msgstr "Провера усклађених додатака"
 
 #: checking.top.label
 msgid "Checking your incompatible add-ons for updates..."
-msgstr ""
+msgstr "Провера Ваших неусклађених додатака на доградње..."
 
 #: checking.status
 #: versioninfo.waiting
 msgid "This may take a few minutes..."
-msgstr "Ово може потрајати пар минута..."
+msgstr "Ово може да потраје до неколико минута..."
 
 #: found.wizard.title
 msgid "Found Compatible Add-ons"
-msgstr ""
+msgstr "Пронађени су усклађени додаци"
 
 #: found.top.label
 msgid "Select the add-ons you would like to install:"
-msgstr ""
+msgstr "Изаберите додатке које желите да поставите:"
 
 #: found.disabledXPinstall.label
 msgid "These updates can't be installed because software installation is currently "
 "disabled. You can change this setting below."
-msgstr ""
+msgstr "Ове доградње не могу бити постављене јер је постављање софтвера тренутно искључено. То можете да промените помоћу подешавања испод."
 
 #: found.enableXPInstall.label
 #: found.enableXPInstall.accesskey
-#, fuzzy
 msgid "&Allow web sites to install software"
-msgstr "П"
+msgstr "&Дозволи ел. местима да постављају софтвер"
 
 #: installing.wizard.title
 msgid "Installing Compatible Add-ons"
-msgstr ""
+msgstr "Постављање усклађених додатака"
 
 #: installing.top.label
 msgid "Downloading and installing updates to your add-ons..."
-msgstr ""
+msgstr "Пријем и постављање доградњи за Ваше додатке..."
 
 #: noupdates.wizard.title
 msgid "No Compatible Add-ons Found"
-msgstr ""
+msgstr "Усклађени додаци нису пронађени"
 
 #: noupdates.intro.desc
 msgid "&brandShortName; was unable to find updates to your "
 "incompatible add-ons."
-msgstr ""
+msgstr "Програм &brandShortName; није могао да пронађе доградње за Ваше неусклађене додатке."
 
 #: noupdates.error.desc
 msgid "Some problems were encountered when trying to find updates."
-msgstr ""
+msgstr "Дошло је до грешака при тражењу доградњи."
 
 #: noupdates.checkEnabled.desc
 msgid "&brandShortName; will check periodically and inform you "
 "when compatible updates for these add-ons are found."
-msgstr ""
+msgstr "Програм &brandShortName; ће периодично да проверава и обавештава Вас када пронађе усклађене доградње."
 
 #: finished.wizard.title
 msgid "Compatible Add-ons Installed"
-msgstr ""
+msgstr "Усклађени додаци су постављени"
 
 #: finished.top.label
 msgid "&brandShortName; has installed the updates to your add-ons."
-msgstr ""
+msgstr "Прогарм &brandShortName; је поставио доградње за Ваше додатке."
 
 #: finished.checkDisabled.desc
 msgid "&brandShortName; can check periodically and inform you "
 "when updates for add-ons are found."
-msgstr ""
+msgstr "Програм &brandShortName; може периодично да проверава и обавештава Вас када пронађе доградње за Ваше додатке."
 
 #: finished.checkEnabled.desc
 msgid "&brandShortName; will check periodically and inform you "
 "when updates for add-ons are found."
-msgstr ""
+msgstr "Програм &brandShortName; ће периодично да проверава и обавештава Вас када пронађе доградње за Ваше додатке."
 
 #: adminDisabled.wizard.title
 msgid "Unable to Check for Updates"
-msgstr ""
+msgstr "Није могуће проверити доградње"
 
 #: adminDisabled.warning.label
 msgid "It is not possible to check for updates to incompatible add-ons "
 "because software installation for &brandShortName; has been disabled. "
 "Please contact your System Administrator for assistance."
-msgstr ""
+msgstr "Није могуће проверити доградње за неусклађене додатке јер је постављање софтвера искључено у програму &brandShortName;. Молимо да се обратите администратору Вашег система за савет."
 
 #: versioninfo.wizard.title
 msgid "Checking Compatibility of Add-ons"
-msgstr ""
+msgstr "Провера усклађености додатака"
 
 #: versioninfo.top.label
 msgid "Checking your add-ons for compatibility with this "
 "version of &brandShortName;."
-msgstr ""
+msgstr "Провера додатака на усклађеност са овим издањем програма &brandShortName;."
 
 #: installerrors.wizard.title
 msgid "Problems Installing Updates"
-msgstr ""
+msgstr "Проблеми при постављању доградњи"
 
 #: installerrors.intro.label
 msgid "&brandShortName; encountered problems when updating "
 "some of your add-ons."
-msgstr ""
+msgstr "Програм &brandShortName; је наишао на проблеме при доградњи неких од Ваших додатака."
 
 # general strings used by several of the finish pages
 #: clickFinish.label
@@ -163,6 +161,5 @@ msgstr "Дозволи програму &brandShortName; да проверава
 
 #: details.label
 #: details.accesskey
-#, fuzzy
 msgid "&Details..."
-msgstr "б"
+msgstr "&Детаљи..."
