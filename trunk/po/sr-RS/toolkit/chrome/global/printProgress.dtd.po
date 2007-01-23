@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/printProgress.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:51+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +17,11 @@ msgstr ""
 # LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog
 #: printWindow.title
 msgid "Printing"
-msgstr "Штампа"
+msgstr "Штампање"
 
 #: title
 msgid "Title:"
-msgstr "Заглавље:"
+msgstr "Наслов:"
 
 #: progress
 msgid "Progress:"
@@ -30,15 +29,15 @@ msgstr "Напредак:"
 
 #: preparing
 msgid "Preparing..."
-msgstr "Припремам..."
+msgstr "Припрема..."
 
 #: printComplete
 msgid "Printing is Completed."
-msgstr "Штампа је завршена"
+msgstr "Одштампано."
 
 #: dialogCancel.label
 msgid "Cancel"
-msgstr "Одустани"
+msgstr "Откажи"
 
 #: dialogClose.label
 msgid "Close"

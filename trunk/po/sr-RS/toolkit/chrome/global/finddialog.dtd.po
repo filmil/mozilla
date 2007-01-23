@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/finddialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,12 +21,12 @@ msgstr "Пронађи на овој страни"
 
 #: findDialogFrame.title
 msgid "Find in This Frame"
-msgstr "Нађи у овом фрејму"
+msgstr "Нађи у овом оквиру"
 
 #: findField.label
 #: findField.accesskey
 msgid "Fi&nd what:"
-msgstr "&Пронађи текст:"
+msgstr "&Пронађи:"
 
 #: caseSensitiveCheckbox.label
 #: caseSensitiveCheckbox.accesskey
@@ -37,25 +36,25 @@ msgstr "Разликуј &величину слова"
 #: wrapCheckbox.label
 #: wrapCheckbox.accesskey
 msgid "&Wrap"
-msgstr "П&реломи редове"
+msgstr "П&релом редова"
 
 #: backwardsCheckbox.label
 #: backwardsCheckbox.accesskey
 msgid "Search &backwards"
-msgstr "Претрага у &обрнутом сверу"
+msgstr "Тражи &уназад"
 
 #: findField.tooltip
 msgid "Type one or more words to search for"
-msgstr "Наведите једну или више речи"
+msgstr "Унесите једну или више речи за тражење"
 
 #: findButton.label
 #: findButton.accesskey
 msgid "&Find Next"
-msgstr "&Пронађи"
+msgstr "Нађи &следеће"
 
 #: cancelButton.label
 msgid "Cancel"
-msgstr "Одустани"
+msgstr "Откажи"
 
 #: closeButton.label
 msgid "Close"
@@ -64,12 +63,12 @@ msgstr "Затвори"
 #: up.label
 #: up.accesskey
 msgid "&Up"
-msgstr "На &горе"
+msgstr "На&горе"
 
 #: down.label
 #: down.accesskey
 msgid "&Down"
-msgstr "На &доле"
+msgstr "На&доле"
 
 #: direction.label
 msgid "Direction"

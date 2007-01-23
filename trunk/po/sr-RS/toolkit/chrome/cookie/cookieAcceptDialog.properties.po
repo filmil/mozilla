@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/cookie/cookieAcceptDialog.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:41+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: hostColon
 msgid "Host:"
-msgstr "Домен:"
+msgstr "Рачунар:"
 
 #: domainColon
 msgid "Domain:"
@@ -25,11 +24,11 @@ msgstr "Домен:"
 
 #: forSecureOnly
 msgid "Encrypted connections only"
-msgstr "Само безбедна повезивања"
+msgstr "Само шифроване везе"
 
 #: forAnyConnection
 msgid "Any type of connection"
-msgstr "За сваки начин повезивања"
+msgstr "Било која врста везе"
 
 #: atEndOfSession
 msgid "at end of session"
@@ -41,7 +40,7 @@ msgstr "Прикажи детаље"
 
 #: hideDetails
 msgid "Hide Details"
-msgstr "Сакри детаље"
+msgstr "Сакриј детаље"
 
 #: detailsAccessKey
 msgid "T"
@@ -60,7 +59,9 @@ msgstr "Сајт %S покушава сачувати други колачић.
 msgid ""
 "The site %S wants to set another cookie.\n"
 "You already have %S cookies from this site."
-msgstr "Сајт %S тражи дозволу да сачува још један колачић. Код Вас се већ чува %S колачић(а) са овог сајта."
+msgstr ""
+"Сајт %S тражи дозволу да сачува још један колачић. \n"
+"Код Вас се већ чува %S колачић(а) са овог сајта."
 
 #: permissionToModifyCookie
 msgid "The site %S wants to modify an existing cookie."

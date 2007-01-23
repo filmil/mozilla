@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/filepicker.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +26,7 @@ msgstr "*"
 
 #: htmlTitle
 msgid "HTML Files"
-msgstr "HTML-датотеке"
+msgstr "HTML датотеке"
 
 #: htmlFilter
 msgid "*.html; *.htm; *.shtml; *.xhtml"
@@ -35,7 +34,7 @@ msgstr "*.html; *.htm; *.shtml; *.xhtml"
 
 #: textTitle
 msgid "Text Files"
-msgstr "Веб страна: само текст"
+msgstr "Текстуалне датотеке"
 
 #: textFilter
 msgid "*.txt; *.text"
@@ -51,7 +50,7 @@ msgstr "*.png; *.gif; *.jpeg; *.jpg"
 
 #: xmlTitle
 msgid "XML Files"
-msgstr "XML-датотеке"
+msgstr "XML датотеке"
 
 #: xmlFilter
 msgid "*.xml"
@@ -59,7 +58,7 @@ msgstr "*.xml"
 
 #: xulTitle
 msgid "XUL Files"
-msgstr "XUL-датотеке"
+msgstr "XUL датотеке"
 
 #: xulFilter
 msgid "*.xul"
@@ -67,23 +66,24 @@ msgstr "*.xul"
 
 #: appsTitle
 msgid "Applications"
-msgstr "Прилог"
+msgstr "Програми"
 
 #: dirTextInputLabel
 #: promptNewDirMessage
-#, fuzzy
 msgid "Directory name:"
-msgstr "Назив директоријума"
+msgstr "Име директоријума:"
 
 #: confirmTitle
 msgid "Confirm"
-msgstr "Потврда"
+msgstr "Потврди"
 
 #: confirmFileReplacing
 msgid ""
 "%S already exists.\n"
 "Do you want to replace it?"
-msgstr "%S већ постоји. Да га заменим?"
+msgstr ""
+"%S већ постоји. \n"
+"Да га заменим?"
 
 #: openButtonLabel
 msgid "Open"
@@ -108,7 +108,7 @@ msgstr "Грешка при отварању %S"
 
 #: errorOpenFileDoesntExistMessage
 msgid "File %S doesn't exist"
-msgstr "датотека %S не постоји"
+msgstr "Датотека %S не постоји"
 
 #: errorDirDoesntExistTitle
 msgid "Error accessing %S"
@@ -128,7 +128,7 @@ msgstr "Не могу да прочитам датотеку %S"
 
 #: errorSavingFileTitle
 msgid "Error saving %S"
-msgstr "Грешка при сачувавању %S"
+msgstr "Грешка при чувању %S"
 
 #: saveParentIsFileMessage
 msgid "%S is a file, can't save %S"
@@ -153,7 +153,7 @@ msgstr "Грешка при стварању %S"
 
 #: errorNewDirDoesExistMessage
 msgid "A file named %S already exists, directory cannot be created."
-msgstr "Датотека са именом %S већ постији, директоријум не може бити направљен."
+msgstr "Датотека са именом %S већ постоји, директоријум не може бити направљен."
 
 #: errorCreateNewDirMessage
 msgid "Directory %S could not be created"

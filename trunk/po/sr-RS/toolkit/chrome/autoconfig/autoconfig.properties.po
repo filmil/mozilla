@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/autoconfig/autoconfig.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:44+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,14 +24,15 @@ msgstr "Неуспешно учитавање фајла са подешавањ
 
 #: autoConfigTitle
 msgid "AutoConfig Alert"
-msgstr "AutoConfig упозорење"
+msgstr "Упозорење аутоматског подешавања"
 
 #: autoConfigMsg
 msgid ""
 "Netscape.cfg/AutoConfig failed. Please contact your system administrator. \n"
 " Error: %S failed:"
-msgstr "Netscape.cfg/AutoConfig није у реду. Молим обавестите администратора система.\n"
-" Error: %S није у реду:"
+msgstr ""
+"Netscape.cfg/AutoConfig није у реду. Молим обавестите администратора система.\n"
+" Грешка: %S није у реду:"
 
 #: emailPromptTitle
 msgid "Email Address"
@@ -40,4 +40,4 @@ msgstr "Адреса ел. поште"
 
 #: emailPromptMsg
 msgid "Enter your email address"
-msgstr "Унесите адресу Ваше ел. поште"
+msgstr "Унесите Вашу ел. адресу"

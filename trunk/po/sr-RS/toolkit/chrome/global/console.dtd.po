@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/console.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,11 +52,11 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: errorConsole.title
 msgid "Error Console"
-msgstr ""
+msgstr "Конзола са грешкама"
 
 #: errFile.label
 msgid "Source File:"
-msgstr "Извор:"
+msgstr "Изворна датотека:"
 
 #: errLine.label
 msgid "Line:"
@@ -65,7 +64,7 @@ msgstr "Ред:"
 
 #: errColumn.label
 msgid "Column:"
-msgstr "Символ:"
+msgstr "Колона:"
 
 #: all.label
 #: all.accesskey
@@ -94,7 +93,7 @@ msgstr "&Очисти"
 
 #: evaluate.label
 msgid "Evaluate"
-msgstr "Анализирај"
+msgstr "Израчунај"
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -108,12 +107,12 @@ msgstr "C"
 #: sortFirst.label
 #: sortFirst.accesskey
 msgid "&First > Last Sort Order"
-msgstr "Со&ртирање по растућем редоследу"
+msgstr "У&реди по растућем редоследу"
 
 #: sortLast.label
 #: sortLast.accesskey
 msgid "&Last > First Sort Order"
-msgstr "С&ортирање по опадајућем редоследу"
+msgstr "&Уреди по опадајућем редоследу"
 
 #: closeCmd.commandkey
 msgid "w"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/cookie/cookieAcceptDialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:43+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "О овом колачићу"
 
 #: props.name.label
 msgid "Name:"
-msgstr "Назив:"
+msgstr "Име:"
 
 #: props.value.label
 msgid "Content:"
@@ -33,7 +32,7 @@ msgstr "Домен:"
 
 #: props.path.label
 msgid "Path:"
-msgstr "Путања:"
+msgstr "Стаза:"
 
 #: props.secure.label
 msgid "Send For:"
@@ -45,28 +44,28 @@ msgstr "Рок трајања:"
 
 #: props.policy.label
 msgid "Policy:"
-msgstr "Политика:"
+msgstr "Полиса:"
 
 #: button.allow.label
 #: button.allow.accesskey
 msgid "&Allow"
-msgstr "Дозволи"
+msgstr "&Дозволи"
 
 #: button.session.label
 #: button.session.accesskey
 msgid "Allow for &Session"
-msgstr "Омогући за сесију"
+msgstr "Дозволи за &сесију"
 
 #: button.deny.label
 #: button.deny.accesskey
 msgid "&Deny"
-msgstr "Забрани"
+msgstr "&Забрани"
 
 #: dialog.title
 msgid "Confirm setting cookie"
-msgstr "Потврда"
+msgstr "Потврда поставке за колачић"
 
 #: dialog.remember.label
 #: dialog.remember.accesskey
 msgid "&Use my choice for all cookies from this site"
-msgstr "Користи за све колачиће са овог сајта"
+msgstr "&Користи овај избор за све колачиће са овог сајта"

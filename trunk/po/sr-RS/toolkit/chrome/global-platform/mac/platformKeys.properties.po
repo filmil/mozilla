@@ -2,13 +2,12 @@
 #this file defines the on screen display names for the various modifier keys
 #these are used in XP menus to show keyboard shortcuts
 # extracted from source/sr-RS/toolkit/chrome/global-platform/mac/platformKeys.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,25 +21,25 @@ msgstr ""
 # the shift key - open up arrow symbol
 #: VK_SHIFT
 msgid "⇧"
-msgstr "\\u0005"
+msgstr "⇧"
 
 #the command key - clover leaf symbol
 # the command key - clover leaf symbol
 #: VK_META
 msgid "⌘"
-msgstr "\\u0011"
+msgstr "⌘"
 
 #the option/alt key - splitting tracks symbol
 # the option/alt key - splitting tracks symbol
 #: VK_ALT
 msgid "⌥"
-msgstr "\\u0007"
+msgstr "⌥"
 
 #the control key. hat symbol
 # the control key. hat symbol
 #: VK_CONTROL
 msgid "⌃"
-msgstr "\\u0006"
+msgstr "⌃"
 
 #the separator character used between modifiers (none on Mac OS)
 # the separator character used between modifiers (none on Mac OS)
