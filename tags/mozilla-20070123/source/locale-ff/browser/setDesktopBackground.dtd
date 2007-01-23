@@ -1,0 +1,9 @@
+<!ENTITY position.label "Позиција:">
+<!ENTITY tile.label "Заглавље">
+<!ENTITY center.label "Централно">
+<!ENTITY stretch.label "Испуни екран">
+<!ENTITY preview.label "Преглед">
+<!ENTITY color.label "Боја:">
+<!ENTITY setDesktopBackground.title "Поставка позадине радне површине">
+<!ENTITY openDesktopPrefs.label "Подешавање радне површине">
+<!ENTITY closeWindow.key "w">

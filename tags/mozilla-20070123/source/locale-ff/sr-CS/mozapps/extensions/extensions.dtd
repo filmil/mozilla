@@ -1,0 +1,55 @@
+<!ENTITY extensions.title "Проширења">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- Command Bar items -->
+<!ENTITY cmd.uninstall.label "Удаљи">
+<!ENTITY cmd.uninstall.tooltip "Удаљити изабрано проширење">
+<!ENTITY cmd.uninstall.accesskey "У">
+<!ENTITY cmd.update.label "Пронађи унапређења">
+<!ENTITY cmd.update.accesskey "у">
+<!ENTITY cmd.update.tooltip "Пронађи унапређења за Ваша проширења">
+<!ENTITY cmd.useTheme.label "Користи тему">
+<!ENTITY cmd.useTheme.accesskey "т">
+<!ENTITY cmd.useTheme.tooltip "Мења у тему &brandShortName; ">
+<!-- the following command bar items are used by thunderbird only -->
+<!ENTITY cmd.install.label "Постави">
+<!ENTITY cmd.install.tooltip "Постави додатак">
+<!ENTITY cmd.install.accesskey "П">
+<!-- Context Menu Options: Extension -->
+<!ENTITY cmd.options.label "Опције">
+<!ENTITY cmd.options.accesskey "О">
+<!ENTITY cmd.options.tooltip "Постави опције за изабрано проширење">
+<!ENTITY cmd.optionsUnix.label "Подешавања">
+<!ENTITY cmd.optionsUnix.accesskey "П">
+<!ENTITY cmd.optionsUnix.tooltip "Измена подешавања ваших преоширења">
+<!ENTITY cmd.homepage.label "Посети страну пројекта">
+<!ENTITY cmd.homepage.accesskey "с">
+<!ENTITY cmd.about.label "О овом проширењу">
+<!ENTITY cmd.about.accesskey "О">
+<!ENTITY cmd.updateAddon.label "Пронађи унапређења">
+<!ENTITY cmd.updateAddon.accesskey "П">
+<!ENTITY cmd.enable.label "Омогући">
+<!ENTITY cmd.enable.accesskey "м">
+<!ENTITY cmd.disable.label "Онемогући">
+<!ENTITY cmd.disable.accesskey "н">
+<!ENTITY cmd.moveToTop.label "Премести на почетак">
+<!ENTITY cmd.moveToTop.accesskey "п">
+<!ENTITY cmd.moveUp.label "На горе">
+<!ENTITY cmd.moveUp.accesskey "г">
+<!ENTITY cmd.moveDn.label "На доле">
+<!ENTITY cmd.moveDn.accesskey "д">
+<!ENTITY cmd.showFolder.label "Прикажи садржај">
+<!ENTITY cmd.showFolder.accesskey "с">
+<!-- Extension Items -->
+<!ENTITY options.tooltip "Опције">
+<!ENTITY optionsUnix.tooltip "Подешавања">
+<!ENTITY about.tooltip "О додатку">
+<!ENTITY homepage.tooltip "Почетна страна">
+<!ENTITY installNow.label "Обнови сад">
+<!ENTITY getMoreExtensions.label "Преузми проширења">
+<!ENTITY getMoreExtensions.tooltip "Преузима проширења са update.mozilla.org">
+<!ENTITY getMoreThemes.label "Преузми још тема">
+<!ENTITY getMoreThemes.tooltip "Преузми тему са update.mozilla.org">
+<!ENTITY previewNoThemeSelected.label "Тема није изабрана">
+<!ENTITY previewNoPreviewImage.label "Изабрана тема не садржи умањени изглед">

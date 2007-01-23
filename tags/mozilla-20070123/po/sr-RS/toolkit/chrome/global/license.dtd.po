@@ -1,0 +1,86 @@
+# extracted from source/sr-RS/toolkit/chrome/global/license.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: license.part0
+msgid "is copyright"
+msgstr "је"
+
+#: license.part1
+msgid "by its"
+msgstr "помоћу"
+
+#: license.contrib
+#: about.copy.linkTitle
+msgid "contributors"
+msgstr "допринос"
+
+#: license.part2
+msgid "according to terms set out in the"
+msgstr "судећи по условима подешеним у"
+
+#: license.part3
+msgid "document. All Rights Reserved."
+msgstr ". Сва права су загарантована."
+
+#: about.version
+msgid "version"
+msgstr "издање"
+
+#: about.copy.beforeLink
+msgid "Copyright &copy; 1998-2006 by"
+msgstr ""
+
+#: about.copy.afterLink
+msgid "to the Mozilla Project."
+msgstr ""
+
+#: about.license.beforeLink
+#: about.relnotes.beforeLink
+msgid "Read the"
+msgstr ""
+
+#: about.license.linkTitle
+msgid "licensing information"
+msgstr ""
+
+#: about.license.afterLink
+msgid "for this product."
+msgstr ""
+
+#: about.relnotes.linkTitle
+msgid "release notes"
+msgstr ""
+
+#: about.relnotes.afterLink
+msgid "for this version."
+msgstr ""
+
+#: about.buildconfig.beforeLink
+msgid "See the"
+msgstr ""
+
+#: about.buildconfig.linkTitle
+msgid "build configuration"
+msgstr ""
+
+#: about.buildconfig.afterLink
+msgid "used for this version."
+msgstr ""
+
+#: about.buildIdentifier
+msgid "Build identifier: "
+msgstr ""

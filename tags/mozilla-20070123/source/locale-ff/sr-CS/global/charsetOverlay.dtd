@@ -1,0 +1,21 @@
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label "Кодирање">
+<!ENTITY charsetMenu.accesskey "К">
+<!ENTITY charsetMenuAutodet.label "Самопрепознавање">
+<!ENTITY charsetMenuAutodet.accesskey "С">
+<!ENTITY charsetMenuMore.label "Остала кодирања">
+<!ENTITY charsetMenuMore.accesskey "О">
+<!ENTITY charsetMenuMore1.label "Западноевропски">
+<!ENTITY charsetMenuMore1.accesskey "З">
+<!ENTITY charsetMenuMore2.label "Источноевропски">
+<!ENTITY charsetMenuMore2.accesskey "И">
+<!ENTITY charsetMenuMore3.label "Источноазијски">
+<!ENTITY charsetMenuMore3.accesskey "а">
+<!ENTITY charsetMenuMore4.label "Југоисточно и југозападно азијски">
+<!ENTITY charsetMenuMore4.accesskey "Ј">
+<!ENTITY charsetMenuMore5.label "Северноисточни">
+<!ENTITY charsetMenuMore5.accesskey "С">
+<!ENTITY charsetMenuUnicode.label "Уникод">
+<!ENTITY charsetMenuUnicode.accesskey "У">
+<!ENTITY charsetCustomize.label "Подеси...">
+<!ENTITY charsetCustomize.accesskey "д">

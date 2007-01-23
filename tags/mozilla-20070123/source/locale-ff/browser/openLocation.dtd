@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+<!ENTITY enter.label "Унесите Интернет адрсу (URL) или укажите датотеку на диску, који желите отворити:">
+<!ENTITY chooseFile.label "Изаберите датотеку...">
+<!ENTITY newWindow.label "Нови прозор">
+<!ENTITY newTab.label "Нови језичак">
+<!ENTITY topWindow.label "У овом прозору Навигатора">
+<!ENTITY caption.label "Отварање веб адресе">
+<!ENTITY openWhere.label "Отвори у:">
+<!ENTITY example.label "Пример: &vendorURL;">
+<!ENTITY openBtn.label "Отвори">

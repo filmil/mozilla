@@ -1,0 +1,180 @@
+# extracted from source/sr-RS/toolkit/chrome/global/filepicker.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# LOCALIZATION NOTE FILE
+# --do not localize the extensions, only the titles
+#: allTitle
+msgid "All Files"
+msgstr "Све датотеке"
+
+#: allFilter
+msgid "*"
+msgstr "*"
+
+#: htmlTitle
+msgid "HTML Files"
+msgstr "HTML-датотеке"
+
+#: htmlFilter
+msgid "*.html; *.htm; *.shtml; *.xhtml"
+msgstr "*.html; *.htm; *.shtml; *.xhtml"
+
+#: textTitle
+msgid "Text Files"
+msgstr "Веб страна: само текст"
+
+#: textFilter
+msgid "*.txt; *.text"
+msgstr "*.txt; *.text"
+
+#: imageTitle
+msgid "Image Files"
+msgstr "Слике"
+
+#: imageFilter
+msgid "*.jpg; *.jpeg; *.gif; *.png; *.bmp; *.xbm; *.ico"
+msgstr "*.png; *.gif; *.jpeg; *.jpg"
+
+#: xmlTitle
+msgid "XML Files"
+msgstr "XML-датотеке"
+
+#: xmlFilter
+msgid "*.xml"
+msgstr "*.xml"
+
+#: xulTitle
+msgid "XUL Files"
+msgstr "XUL-датотеке"
+
+#: xulFilter
+msgid "*.xul"
+msgstr "*.xul"
+
+#: appsTitle
+msgid "Applications"
+msgstr "Прилог"
+
+#: dirTextInputLabel
+#: promptNewDirMessage
+#, fuzzy
+msgid "Directory name:"
+msgstr "Назив директоријума"
+
+#: confirmTitle
+msgid "Confirm"
+msgstr "Потврда"
+
+#: confirmFileReplacing
+msgid ""
+"%S already exists.\n"
+"Do you want to replace it?"
+msgstr "%S већ постоји. Да га заменим?"
+
+#: openButtonLabel
+msgid "Open"
+msgstr "Отвори"
+
+#: saveButtonLabel
+msgid "Save"
+msgstr "Сачувај"
+
+#: selectFolderButtonLabel
+msgid "Select"
+msgstr "Изабери"
+
+#: noButtonLabel
+msgid "No"
+msgstr "Не"
+
+#: errorOpenFileDoesntExistTitle
+#: errorOpeningFileTitle
+msgid "Error opening %S"
+msgstr "Грешка при отварању %S"
+
+#: errorOpenFileDoesntExistMessage
+msgid "File %S doesn't exist"
+msgstr "датотека %S не постоји"
+
+#: errorDirDoesntExistTitle
+msgid "Error accessing %S"
+msgstr "Грешка у приступу %S"
+
+#: errorDirDoesntExistMessage
+msgid "Directory %S doesn't exist"
+msgstr "Директоријум %S не постоји"
+
+#: errorDirNotReadableMessage
+msgid "Directory %S is not readable or does not exist."
+msgstr "Директоријум %S није читљив или не постоји."
+
+#: openWithoutPermissionMessage_file
+msgid "File %S is not readable"
+msgstr "Не могу да прочитам датотеку %S"
+
+#: errorSavingFileTitle
+msgid "Error saving %S"
+msgstr "Грешка при сачувавању %S"
+
+#: saveParentIsFileMessage
+msgid "%S is a file, can't save %S"
+msgstr "%S је датотека, не могу да сачувам %S"
+
+#: saveParentDoesntExistMessage
+msgid "Path %S doesn't exist, can't save %S"
+msgstr "Путања %S не постоји, не могу да сачувам %S"
+
+#: saveWithoutPermissionMessage_file
+msgid "File %S is not writable."
+msgstr "Датотека %S је недоступна за упис."
+
+#: saveWithoutPermissionMessage_dir
+msgid "Cannot create file. Directory %S is not writable."
+msgstr "Не могу да направим датотеку. Директоријум %S је недоступан за упис."
+
+#: errorNewDirDoesExistTitle
+#: errorCreateNewDirTitle
+msgid "Error creating %S"
+msgstr "Грешка при стварању %S"
+
+#: errorNewDirDoesExistMessage
+msgid "A file named %S already exists, directory cannot be created."
+msgstr "Датотека са именом %S већ постији, директоријум не може бити направљен."
+
+#: errorCreateNewDirMessage
+msgid "Directory %S could not be created"
+msgstr "Директоријум %S не може бити направљен"
+
+#: errorCreateNewDirIsFileMessage
+msgid "Directory cannot be created, %S is a file"
+msgstr "Директоријум не може бити направљен, %S - датотека"
+
+#: errorCreateNewDirPermissionMessage
+msgid "Directory cannot be created, %S not writable"
+msgstr "Није могуће направити директоријум јер је забрањено писање у %S"
+
+#: promptNewDirTitle
+msgid "Create new directory"
+msgstr "Направи нови директоријум"
+
+#: errorPathProblemTitle
+msgid "Unknown Error"
+msgstr "Непозната грешка"
+
+#: errorPathProblemMessage
+msgid "An unknown error occured (path %S)"
+msgstr "Појавила се непозната грешка (путања %S)"

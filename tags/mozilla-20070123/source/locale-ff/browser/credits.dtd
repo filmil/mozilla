@@ -1,0 +1,26 @@
+<!ENTITY brandMotto "Истражи поново Интернет">
+<!ENTITY credit.leads "Вође пројекта">
+<!ENTITY credit.core "Развој језгра">
+<!ENTITY credit.gecko "Gecko окружење">
+<!ENTITY credit.thanks "Посебна захвалност">
+<!-- localization credits look like this: -->
+<!--
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+<!ENTITY credit.visuals "Координатор дизајна окружења">
+<!ENTITY credit.theme "Дизајн теме">
+<!ENTITY credit.brand "Марка">
+<!ENTITY credit.web "Веб дизајн">
+<!ENTITY credit.update "Mozilla унапређење">
+<!ENTITY credit.qalead "Шеф провере квалитета">
+<!ENTITY credit.qa "Провера квалитета">
+<!ENTITY credit.build "Издање">
+<!ENTITY credit.infra "Подршка инфраструктуре">
+<!ENTITY credit.support "Подршка">
+<!ENTITY credit.manage "Менаџери пројекта">
+<!ENTITY credit.marketleads "Шеф маркетинга">
+<!ENTITY credit.market "Маркетинг">
+<!ENTITY credit.creators "Направио">
+<!ENTITY credit.memory "Оснивач">
+<!ENTITY credit.poweredByGecko "Подржан од Gecko&trade;">

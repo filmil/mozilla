@@ -1,0 +1,30 @@
+<!ENTITY lHeader "Веб могућности">
+<!ENTITY enbJavaCheck.label "Омогући Java-у">
+<!ENTITY enbJavaCheck.accesskey "J">
+<!ENTITY enableJavaScript.label "Омогући JavaScript">
+<!ENTITY enableJavaScript.accesskey "S">
+<!ENTITY advancedJS.label "Напредно...">
+<!ENTITY advancedJS.accesskey "Н">
+<!ENTITY enableImages.label "Учитавај слике">
+<!ENTITY enableImages.accesskey "с">
+<!ENTITY forOriginatingSiteOnly.label "само са основне веб стране">
+<!ENTITY forOriginatingSiteOnly.accesskey "о">
+<!ENTITY popupReject.label "Блокирај искачуће прозоре">
+<!ENTITY popupReject.accesskey "Б">
+<!ENTITY enableXPInstallWarning.label "Warn me when web sites try to install extensions or themes">
+<!ENTITY enableXPInstallWarning.accesskey "a">
+<!ENTITY allowedSitesPopup.label "Веб стране са дозволом">
+<!ENTITY allowedSitesPopup.accesskey "с">
+<!ENTITY exceptionsSoftware.label "Изузетци">
+<!ENTITY exceptionsSoftware.accesskey "з">
+<!ENTITY exceptions.label "Изузетци">
+<!ENTITY exceptions.accesskey "И">
+<!ENTITY fonts.caption "Фонтови и боје">
+<!ENTITY advancedFonts.label "Напредно...">
+<!ENTITY advancedFonts.accesskey "п">
+<!ENTITY colors.label "Боје...">
+<!ENTITY colors.accesskey "Б">
+<!ENTITY defaultFontSize.label "Величина:">
+<!ENTITY defaultFontSize.accesskey "ч">
+<!ENTITY defaultFont.label "Текући фонт:">
+<!ENTITY defaultFont.accesskey "ф">

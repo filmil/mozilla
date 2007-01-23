@@ -1,0 +1,11 @@
+<!ENTITY dialog.title "Прилагоди линију алатки">
+<!ENTITY instructions.description "Како би додали елеменат на панел алата, пренесите га на изабрану локацију.">
+<!ENTITY show.label "Прикажи:">
+<!ENTITY iconsAndText.label "Иконице и текст">
+<!ENTITY icons.label "Иконице">
+<!ENTITY text.label "Текст">
+<!ENTITY useSmallIcons.label "Мале иконице">
+<!ENTITY restoreDefaultSet.label "Поврати">
+<!ENTITY addNewToolbar.label "Додај панел алата">
+<!ENTITY saveChanges.label "Крај">
+<!ENTITY undoChanges.label "Опозови измене">

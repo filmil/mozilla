@@ -1,0 +1,58 @@
+<!ENTITY generalTab.label "Опште">
+<!ENTITY accessibility.label "Додатне могућности">
+<!ENTITY moveSystemCaret.label "Дозволи да текст буде изабран помоћу тастатуре">
+<!ENTITY moveSystemCaret.accesskey "б">
+<!ENTITY useTypeAheadFind.label "Започни претрагу по почетку куцања">
+<!ENTITY useTypeAheadFind.accesskey "п">
+<!ENTITY browsing.label "Преглед сајтова">
+<!ENTITY enableAutoImageResizing.label "Умањи велике слике да стану на величину прозора">
+<!ENTITY enableAutoImageResizing.accesskey "м">
+<!ENTITY useAutoScrolling.label "Користи самоклизање">
+<!ENTITY useAutoScrolling.accesskey "К">
+<!ENTITY useSmoothScrolling.label "Користи глатко клизање">
+<!ENTITY useSmoothScrolling.accesskey "г">
+<!ENTITY updateTab.label "Унапређења">
+<!ENTITY autoCheck.label "Самостално проверавај унапређења за:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableExtensionUpdate.label "Постављена проширења и теме">
+<!ENTITY enableExtensionUpdate.accesskey "р">
+<!ENTITY enableSearchUpdate.label "Механизме претраге">
+<!ENTITY enableSearchUpdate.accesskey "М">
+<!ENTITY checkNow.label "Провери...">
+<!ENTITY appCheckNow.accesskey "в">
+<!ENTITY whenUpdatesFound.label "Када је пронађено унапређење за &brandShortName;,">
+<!ENTITY modeAskMe.label "Питај ме шта да радим">
+<!ENTITY modeAskMe.accesskey "П">
+<!ENTITY modeAutomatic.label "Самостално преузми и постави унапређење">
+<!ENTITY modeAutomatic.accesskey "п">
+<!ENTITY modeAutoWarn.label "Опомени ме ако ће то да онемогући проширења или теме">
+<!ENTITY modeAutoWarn.accesskey "О">
+<!ENTITY showUpdates.label "Прикажи историјат унапређења">
+<!ENTITY showUpdates.accesskey "у">
+<!ENTITY securityTab.label "Безбедност">
+<!ENTITY protocols.label "Протоколи">
+<!ENTITY useSSL2.label "Користи SSL 2.0">
+<!ENTITY useSSL2.accesskey "2">
+<!ENTITY useSSL3.label "Користи SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Користи TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Сертификати">
+<!ENTITY certselect.description "Кад веб страна затражи сертификат:">
+<!ENTITY certselect.auto "Изабери самостално">
+<!ENTITY certselect.auto.accesskey "б">
+<!ENTITY certselect.ask "Сваки пут ме питај">
+<!ENTITY certselect.ask.accesskey "п">
+<!ENTITY viewCertificates.label "Преглед сертификата">
+<!ENTITY viewCertificates.accesskey "с">
+<!ENTITY viewCRLs.label "Листа опозива">
+<!ENTITY viewCRLs.accesskey "о">
+<!ENTITY viewOCSP.label "Провера">
+<!ENTITY viewOCSP.accesskey "П">
+<!ENTITY viewSecurityDevices.label "Безбедносни уређаји">
+<!ENTITY viewSecurityDevices.accesskey "у">
+<!ENTITY languages.caption "Језици">
+<!ENTITY languagesInfo.label "Изабери језик у коме је приказана веб страна.">
+<!ENTITY showLanguages.label "Измена језика...">
+<!ENTITY showLanguages.accesskey "ј">
