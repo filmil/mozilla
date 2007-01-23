@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-12 20:29+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,11 +20,11 @@ msgstr "Непотписано"
 
 #: itemWarnIntroMultiple
 msgid "You have asked to install the following %S items:"
-msgstr ""
+msgstr "Тражили сте постављање више ставки (укупно: %S)"
 
 #: itemWarnIntroSingle
 msgid "You have asked to install the following item:"
-msgstr ""
+msgstr "Тражили сте постављање ове ставке:"
 
 #: installButtonDisabledLabel
 msgid "Install (%S)"
@@ -37,7 +36,7 @@ msgstr "Постави сад"
 
 #: installComplete
 msgid "Software Installation is complete. You will have to restart %S for changes to take effect."
-msgstr "Постављање проширења је завршено. Поново покрените %S , како би измене биле видне."
+msgstr "Постављање проширења је завршено. Поново покрените %S , како би измене постале видљиве."
 
 #: installCompleteTitle
 msgid "Installation Complete"

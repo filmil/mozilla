@@ -1,12 +1,11 @@
 #### Change Action
 # extracted from source/sr-RS/toolkit/chrome/mozapps/preferences/preferences.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-12 20:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +23,11 @@ msgstr "Ништа није изабрано"
 # ### Master Password
 #: password_not_set
 msgid "(not set)"
-msgstr "(није постављено)"
+msgstr "(без поставке)"
 
 #: failed_pw_change
 msgid "Unable to change Master Password."
-msgstr "Немогу да изменим главну лозинку."
+msgstr "Не могу да изменим главну лозинку."
 
 #: incorrect_pw
 msgid "You did not enter the correct current Master Password. Please try again."

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-12 18:57+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +17,13 @@ msgstr ""
 # extracted from institems.xul
 #: dialog.title
 msgid "Software Installation"
-msgstr "Поставка програмске подршке"
+msgstr "Поставка програма"
 
 #: warningText2.label
 msgid "Malicious software can damage your computer or violate your privacy."
-msgstr "Програми могу садржати вирусе, који могу повредити податке на Вашем рачунару."
+msgstr ""
+"Злонамерни програми могу садржати вирусе, који могу оштетити податке\n"
+"на Вашем рачунару или нарушити Вашу приватност."
 
 #: warningText3.label
 msgid "You should only install software from sources that you trust."

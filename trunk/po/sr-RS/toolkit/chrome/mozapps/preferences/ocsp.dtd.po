@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/preferences/ocsp.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-12 20:32+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +27,7 @@ msgstr "Потврда"
 
 #: validation.ocsp.description
 msgid "&brandShortName; can use Online Certificate Status Protocol (OCSP) to verify certificates. Set &brandShortName; to use OCSP as follows:"
-msgstr "&brandShortName; може да користи Online Certificate Status Protocol (OCSP) за проверу сертификата. Дозволите &brandShortName;-у да користи OCSP на следећи начин:"
+msgstr "&brandShortName; може да користи Online Certificate Status Protocol (OCSP) за проверу сертификата. Дозволите програму &brandShortName; да користи OCSP на следећи начин:"
 
 #: disableOCSP.label
 msgid "Do not use OCSP for certificate validation"
@@ -45,7 +44,7 @@ msgstr "Користите OCSP за проверу свих сертифика�
 #: serviceURL.label
 #: serviceURL.accesskey
 msgid "&Service URL:"
-msgstr "Адре&са сервиса:"
+msgstr "&УРЛ сервиса:"
 
 #: signingCA.label
 #: signingCA.accesskey
