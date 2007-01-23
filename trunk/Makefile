@@ -2,7 +2,7 @@
 
 include Makefile.inc
 
-.PHONY: all clean pot cleanpot stats stats initpo match populate
+.PHONY: all clean pot cleanpot stats  initpo match populate
 
 all: stats
 
@@ -39,23 +39,23 @@ cleanpot:
 # УБР, чак и ако покренете није страшно јер чувамо и старе верзије
 # превода, али не треба правити посао без посла.
 initpo:
-	. scripts/initpo.sh
+	. $(SCRIPTS_DIR)/initpo.sh
 
 # Проналази изворне датотеке које одговарају полазној по имену
 match:
-	. scripts/match-files.sh
+	. $(SCRIPTS_DIR)/match-files.sh
 
 
 # Прави први списак датотека, са убаченим преводима
 populate:
-	. scripts/populate-po.sh
-	. scripts/process-double.sh
-	. scripts/process-copyonly.sh
-	. scripts/blind-copy.sh
+	. $(SCRIPTS_DIR)/populate-po.sh
+	. $(SCRIPTS_DIR)/process-double.sh
+	. $(SCRIPTS_DIR)/process-copyonly.sh
+	. $(SCRIPTS_DIR)/blind-copy.sh
 
 # Рачуна статистике датотека и уписује у статс.тхт
 stats:
-	. scripts/stats.sh &> stats/stats.txt
+	. $(SCRIPTS_DIR)/stats.sh &> $(STATS_DIR)/stats.txt
 
 check:
 	@echo Files in pot/
