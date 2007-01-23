@@ -9,7 +9,7 @@ MSGMERGE:=msgmerge
 #  Брисање датотека
 RM:=rm -f
 RMDIR:=rm -fr
-
+MKDIR:=mkdir
 #
 .PHONY: all clean pot cleanpot stats stats initpo match populate
 
@@ -18,7 +18,12 @@ all: stats
 # Чишћење генерисаних датотека
 clean:
 	$(RM) *~
+	$(RM) -r output
 
+# Прављење превода од образаца и ПО датотека
+trans:
+	$(MKDIR) -p output
+	$(PO2MOZ) -i po/sr-RS -o output/sr-RS -t source/sr-RS
 
 # Прављење образаца за пренос
 pot: cleanpot

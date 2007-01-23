@@ -46,7 +46,7 @@ po/sr-RS/toolkit/chrome/mozapps/update/history.dtd.po:
 po/sr-RS/toolkit/chrome/mozapps/update/updates.dtd.po: 
 4 преведене поруке.
 po/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po: 
-6 преведених порука, 2 непреведене поруке.
+8 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.properties.po: 
 9 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/preferences/changemp.dtd.po: 
