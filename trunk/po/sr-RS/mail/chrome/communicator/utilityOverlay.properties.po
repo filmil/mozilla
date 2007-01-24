@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/communicator/utilityOverlay.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-25 00:36+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,11 +24,11 @@ msgstr "Тренутно сте на вези (уз ручно подешено�
 
 #: onlineTooltip2
 msgid "You are online (proxy: auto URL). Click the icon to go offline."
-msgstr ""
+msgstr "Тренутно сте на вези (заступник: преко УРЛа). Притисните сличицу да бисте прекинули везу."
 
 #: onlineTooltip4
 msgid "You are online (proxy: auto discover). Click the icon to go offline."
-msgstr ""
+msgstr "Тренутно сте на вези (заступник: аутоматски). Притисните сличицу да бисте се искључили."
 
 #: offlineTooltip
 msgid "You are offline. Click the icon to go online."

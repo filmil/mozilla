@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/other-licenses/branding/firefox/brand.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-25 00:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +35,7 @@ msgstr "1"
 
 #: homePageSingleStartMain
 msgid "Firefox Start, a fast search page with search results by Google"
-msgstr ""
+msgstr "Покрени Firefox, брза страна са претрагом резултата коју је обезбедио Google"
 
 #expand homePageSingleStartMainURL=http://en-us.start.mozilla.com/firefox?client=firefox-a&rls=__MOZ_DISTRIBUTION_ID_UNQUOTED__:__AB_CD__:official
 # expand homePageSingleStartMainURL=http://en-us.start.mozilla.com/firefox?client=firefox-a&rls=__MOZ_DISTRIBUTION_ID_UNQUOTED__:__AB_CD__:official
@@ -84,12 +83,12 @@ msgstr ""
 
 #: homePageImport
 msgid "Import your home page from %S"
-msgstr ""
+msgstr "Увезите Вашу домаћу страну %S"
 
 #: homePageMigrationPageTitle
 msgid "Home Page Selection"
-msgstr ""
+msgstr "Избор домаће стране"
 
 #: homePageMigrationDescription
 msgid "Please select the home page you wish to use:"
-msgstr ""
+msgstr "Молимо изаберите домаћу страну коју желите да користите:"

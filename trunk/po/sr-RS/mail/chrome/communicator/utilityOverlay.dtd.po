@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/communicator/utilityOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-25 00:31+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +38,7 @@ msgstr "&Опозови"
 
 #: undoCmd.key
 msgid "Z"
-msgstr "О"
+msgstr ""
 
 #: redoCmd.label
 #: redoCmd.accesskey
@@ -48,7 +47,7 @@ msgstr "&Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr "Д"
+msgstr ""
 
 #: cutCmd.label
 #: cutCmd.accesskey
@@ -57,7 +56,7 @@ msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr "с"
+msgstr ""
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -66,7 +65,7 @@ msgstr "Умн&ожи"
 
 #: copyCmd.key
 msgid "C"
-msgstr "У"
+msgstr ""
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
@@ -75,7 +74,7 @@ msgstr "У&баци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr "Н"
+msgstr ""
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
@@ -84,7 +83,7 @@ msgstr "&Обриши"
 
 #: deleteCmd.key
 msgid "D"
-msgstr "б"
+msgstr ""
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
@@ -162,7 +161,7 @@ msgstr "&Затвори"
 
 #: closeCmd.key
 msgid "W"
-msgstr "З"
+msgstr "W"
 
 #: quitApplicationCmd.label
 #: quitApplicationCmd.accesskey
@@ -171,7 +170,7 @@ msgstr "&Крај"
 
 #: quitApplicationCmd.key
 msgid "Q"
-msgstr "К"
+msgstr "Q"
 
 #: quitApplicationCmdUnix.label
 #: quitApplicationCmdUnix.accesskey

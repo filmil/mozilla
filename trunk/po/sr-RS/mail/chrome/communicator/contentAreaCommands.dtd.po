@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-25 00:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -169,43 +168,43 @@ msgstr "Забележи овај &оквир"
 
 #: savePageAsCmd.label
 msgid "Save Page As..."
-msgstr ""
+msgstr "Сачувај страну као..."
 
 #: savePageCmd.label
 #: savePageCmd.accesskey
 msgid "S&ave Page"
-msgstr ""
+msgstr "&Сачувај страну"
 
 #: savePageCmd.commandkey
 msgid "s"
-msgstr "т"
+msgstr ""
 
 #: saveFrameAsCmd.label
 msgid "Save Frame As..."
-msgstr ""
+msgstr "Сачувај оквир као..."
 
 #: saveFrameCmd.label
 #: saveFrameCmd.accesskey
 msgid "Save Fra&me"
-msgstr ""
+msgstr "Сачувај &оквир"
 
 #: saveLinkAsCmd.label
 msgid "Save Link Target As..."
-msgstr ""
+msgstr "Сачувај одредиште везе као..."
 
 #: saveLinkCmd.label
 #: saveLinkCmd.accesskey
 msgid "Save Link Ta&rget"
-msgstr ""
+msgstr "Сачувај о&дредиште везе"
 
 #: saveImageAsCmd.label
 msgid "Save Image As..."
-msgstr ""
+msgstr "Сачувај слику као..."
 
 #: saveImageCmd.label
 #: saveImageCmd.accesskey
 msgid "Sa&ve Image"
-msgstr ""
+msgstr "Сачу&вај слику"
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -274,33 +273,33 @@ msgstr "З"
 #: bidiSwitchPageDirectionItem.label
 #: bidiSwitchPageDirectionItem.accesskey
 msgid "Switch Pa&ge Direction"
-msgstr ""
+msgstr "Промени &смер стране"
 
 #: bidiSwitchTextDirectionItem.label
 #: bidiSwitchTextDirectionItem.accesskey
 msgid "S&witch Text Direction"
-msgstr ""
+msgstr "Промени смер &текста"
 
 #: spellAddToDictionary.label
 #: spellAddToDictionary.accesskey
 msgid "Add &to dictionary"
-msgstr ""
+msgstr "&Додај у речник"
 
 #: spellEnable.label
 #: spellEnable.accesskey
 msgid "&Spell check this field"
-msgstr ""
+msgstr "&Провери правопис на овом пољу"
 
 #: spellNoSuggestions.label
 msgid "(No spelling suggestions)"
-msgstr ""
+msgstr "(нема предлога)"
 
 #: spellDictionaries.label
 #: spellDictionaries.accesskey
 msgid "&Languages"
-msgstr ""
+msgstr "&Језици"
 
 #: spellAddDictionaries.label
 #: spellAddDictionaries.accesskey
 msgid "&Download more dictionaries..."
-msgstr ""
+msgstr "&Преузмите још речника..."
