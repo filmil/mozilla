@@ -84,13 +84,13 @@ po/sr-RS/toolkit/chrome/global-platform/win/intl.properties.po:
 po/sr-RS/toolkit/chrome/global-platform/win/platformKeys.properties.po: 
 10 преведених порука.
 po/sr-RS/toolkit/chrome/global/accept2locale.properties.po: 
-16 преведених порука, 1 непреведена порука.
+17 преведених порука.
 po/sr-RS/toolkit/chrome/global/console.dtd.po: 
 8 преведених порука.
 po/sr-RS/toolkit/chrome/global/printProgress.dtd.po: 
 13 преведених порука.
 po/sr-RS/toolkit/chrome/global/finddialog.dtd.po: 
-38 преведених порука, 1 нејасна порука.
+39 преведених порука.
 po/sr-RS/toolkit/chrome/global/filepicker.properties.po: 
 20 преведених порука.
 po/sr-RS/toolkit/chrome/global/editMenuOverlay.dtd.po: 
@@ -104,7 +104,7 @@ po/sr-RS/toolkit/chrome/global/printdialog.dtd.po:
 po/sr-RS/toolkit/chrome/global/contentAreaCommands.properties.po: 
 9 преведених порука.
 po/sr-RS/toolkit/chrome/global/config.properties.po: 
-12 преведених порука, 2 непреведене поруке.
+14 преведених порука.
 po/sr-RS/toolkit/chrome/global/tabbrowser.properties.po: 
 17 преведених порука.
 po/sr-RS/toolkit/chrome/global/nsHelperAppDlg.dtd.po: 
@@ -198,15 +198,15 @@ po/sr-RS/extensions/reporter/chrome/reportResults.dtd.po:
 po/sr-RS/extensions/reporter/chrome/reporterOverlay.dtd.po: 
 0 преведених порука, 3 непреведене поруке.
 po/sr-RS/extensions/reporter/chrome/about.dtd.po: 
-2 преведене поруке, 1 нејасна порука.
+1 преведена порука, 2 непреведене поруке.
 po/sr-RS/other-licenses/branding/thunderbird/brand.properties.po: 
-2 преведене поруке, 1 непреведена порука.
+1 преведена порука, 2 непреведене поруке.
 po/sr-RS/other-licenses/branding/thunderbird/brand.dtd.po: 
 4 преведене поруке, 11 непреведених порука.
 po/sr-RS/other-licenses/branding/firefox/brand.properties.po: 
 3 преведене поруке.
 po/sr-RS/other-licenses/branding/firefox/brand.dtd.po: 
-0 преведених порука, 2 непреведене поруке.
+1 преведена порука, 1 непреведена порука.
 po/sr-RS/mail/defines.inc.po: 
 1 преведена порука, 1 непреведена порука.
 po/sr-RS/mail/updater/updater.ini.po: 
@@ -492,7 +492,7 @@ po/sr-RS/mail/chrome/global-platform/win/nsWindowsHooks.properties.po:
 po/sr-RS/mail/chrome/messenger-region/region.properties.po: 
 2 преведене поруке, 1 нејасна порука.
 po/sr-RS/mail/chrome/branding/brand.properties.po: 
-1 преведена порука, 2 непреведене поруке.
+3 преведене поруке.
 po/sr-RS/mail/chrome/branding/brand.dtd.po: 
 10 преведених порука.
 po/sr-RS/mail/chrome/global/charset.dtd.po: 
@@ -601,7 +601,7 @@ msgfmt: нађох 1 кобну грешку
 po/sr-RS/dom/chrome/appstrings.properties.po: 
 28 преведених порука.
 po/sr-RS/dom/chrome/xslt/xslt.properties.po: 
-0 преведених порука, 2 непреведене поруке.
+2 преведене поруке.
 po/sr-RS/browser/defines.inc.po: 
 1 преведена порука, 1 непреведена порука.
 po/sr-RS/browser/updater/updater.ini.po: 

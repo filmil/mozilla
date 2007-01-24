@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/console.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 00:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +28,7 @@ msgstr "Изузетак:"
 
 #: errFile
 msgid "Source File: %S"
-msgstr "Извор: %S"
+msgstr "Изворна датотека: %S"
 
 #: errLine
 msgid "Line: %S"
@@ -37,7 +36,7 @@ msgstr "Ред: %S"
 
 #: errLineCol
 msgid "Line: %S, Column: %S"
-msgstr "Ред %S, знак %S"
+msgstr "Ред: %S, колона: %S"
 
 #: errCode
 msgid "Source Code:"

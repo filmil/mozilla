@@ -35,13 +35,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/toolkit/chrome/global/config.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 00:08+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,11 +53,11 @@ msgstr ""
 # Lock column values
 #: default
 msgid "default"
-msgstr "Подразумевано"
+msgstr "изворно"
 
 #: user
 msgid "user set"
-msgstr "поставио корисник"
+msgstr "промењено"
 
 #: locked
 msgid "locked"
@@ -67,15 +66,15 @@ msgstr "закључано"
 # Type column values
 #: string
 msgid "string"
-msgstr "Стринг"
+msgstr "текст"
 
 #: int
 msgid "integer"
-msgstr "Цео број"
+msgstr "цео број"
 
 #: bool
 msgid "boolean"
-msgstr "Логички"
+msgstr "булов (Boolean)"
 
 # Preference prompts
 # %S is replaced by one of the type column values above
@@ -85,7 +84,7 @@ msgstr "Нова вредност (%S)"
 
 #: new_prompt
 msgid "Enter the preference name"
-msgstr "Унесите име подешавања"
+msgstr "Унесите име поставке"
 
 #: modify_title
 msgid "Enter %S value"

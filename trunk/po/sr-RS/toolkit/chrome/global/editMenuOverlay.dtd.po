@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/editMenuOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-23 23:58+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +17,7 @@ msgstr ""
 #: editMenu.label
 #: editMenu.accesskey
 msgid "&Edit"
-msgstr "&Уређење"
+msgstr "&Уреди"
 
 #: undoCmd.label
 #: undoCmd.accesskey
@@ -59,7 +58,7 @@ msgstr "c"
 #: pasteCmd.label
 #: pasteCmd.accesskey
 msgid "&Paste"
-msgstr "У&баци"
+msgstr "На&лепи"
 
 #: pasteCmd.key
 msgid "V"
@@ -68,7 +67,7 @@ msgstr "v"
 #: deleteCmd.label
 #: deleteCmd.accesskey
 msgid "&Delete"
-msgstr "&Обриши"
+msgstr "&Уклони"
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
@@ -82,7 +81,7 @@ msgstr "a"
 #: findCmd.label
 #: findCmd.accesskey
 msgid "&Find"
-msgstr "&Пронађи"
+msgstr "&Нађи"
 
 #: findCmd.key
 msgid "F"
@@ -91,7 +90,7 @@ msgstr "f"
 #: findAgainCmd.label
 #: findAgainCmd.accesskey
 msgid "Find A&gain"
-msgstr "Тражи &поново"
+msgstr "Нађи о&пет"
 
 #: findAgainCmd.key
 msgid "G"
@@ -104,4 +103,4 @@ msgstr "VK_F3"
 #: findPreviousCmd.label
 #: findPreviousCmd.accesskey
 msgid "Find Pre&vious"
-msgstr "&Пронађи претходно"
+msgstr "Н&ађи претходно"

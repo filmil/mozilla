@@ -9,6 +9,7 @@ MSGMERGE:=msgmerge
 RM:=rm -f
 RMDIR:=rm -fr
 MKDIR:=mkdir
+CD:=cd
 
 
 # # Directory configuration

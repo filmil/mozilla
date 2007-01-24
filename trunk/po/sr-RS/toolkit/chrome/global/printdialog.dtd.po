@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/printdialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 00:03+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +19,7 @@ msgstr ""
 #: printDialog.title
 #, fuzzy
 msgid "Print"
-msgstr "Print"
+msgstr "Штампање"
 
 #: fpDialog.title
 msgid "Save File"
@@ -44,7 +43,7 @@ msgstr "Штампач"
 
 #: printerInput.label
 msgid "Printer Name:"
-msgstr "Назив штампача:"
+msgstr "Име штампача:"
 
 #: printrangeGroup.label
 msgid "Print Range"
@@ -56,7 +55,7 @@ msgstr "Све стране"
 
 #: rangeRadio.label
 msgid "Pages"
-msgstr "Страница"
+msgstr "Стране"
 
 #: frompageInput.label
 msgid "from"
@@ -80,16 +79,16 @@ msgstr "Број копија:"
 
 #: printframeGroup.label
 msgid "Print Frames"
-msgstr "Штампа фрејмова"
+msgstr "Штампање оквира"
 
 #: aslaidoutRadio.label
 msgid "As laid out on the screen"
-msgstr "Као што је на екрану"
+msgstr "Као на екрану"
 
 #: selectedframeRadio.label
 msgid "The selected frame"
-msgstr "Изабраног фрејма"
+msgstr "Само изабран оквир"
 
 #: eachframesepRadio.label
 msgid "Each frame separately"
-msgstr "Посебно сваки фрејм"
+msgstr "Сваки оквир за себе"

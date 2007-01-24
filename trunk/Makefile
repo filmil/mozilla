@@ -9,12 +9,16 @@ all: stats
 # Чишћење генерисаних датотека
 clean:
 	$(RM) *~
-	$(RM) -r $(OUTPUT_DIR)
+	$(RM) -fr $(OUTPUT_DIR) sr-RS.zip
 
 # Прављење превода од образаца и ПО датотека
 trans:
 	$(MKDIR) -p $(OUTPUT_DIR)
 	$(PO2MOZ) -i $(PO_TRANSLATIONS) -o $(OUTPUT_DIR_FINAL) -t $(SOURCE_DIR)
+
+zip: trans
+	$(CD) $(OUTPUT_DIR)
+	$(ZIP) ../sr-RS.zip $(OUTPUT_DIR_FINAL)
 
 # Прављење образаца за пренос
 pot: cleanpot

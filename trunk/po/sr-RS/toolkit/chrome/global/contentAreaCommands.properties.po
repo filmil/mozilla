@@ -1,12 +1,11 @@
 # context menu strings
 # extracted from source/sr-RS/toolkit/chrome/global/contentAreaCommands.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 00:06+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +17,7 @@ msgstr ""
 
 #: searchText
 msgid "Web Search for \"%S\""
-msgstr "Претражи веб за \"%S\""
+msgstr "Претрага мреже за: „%S‟"
 
 #: SavePageTitle
 msgid "Save Web Page"
@@ -59,20 +58,20 @@ msgstr "Веб страна, само XML"
 #    This is the name of the folder that is created parallel to a HTML file
 #: filesFolder
 msgid "%S_files"
-msgstr "%S_датотеке"
+msgstr "%S_подаци"
 
 #: saveLinkErrorMsg
 msgid "The link could not be saved.  The web page might have been removed or had its name changed."
-msgstr "Везу је немогуће сачувати. Вероватно је веб страна уклоњена или јој је промењено име."
+msgstr "Везу је немогуће сачувати.  Страна је можда уклоњена или јој је промењено име."
 
 #: saveLinkErrorTitle
 msgid "Save Link"
-msgstr "Сачувавање везе"
+msgstr "Чување везе"
 
 #: unknownDescriptionFilesFilter
 msgid "%S File"
-msgstr "%S датотека"
+msgstr "Датотека: %S"
 
 #: unknownDescriptionFilesPluralFilter
 msgid "%S Files"
-msgstr "%S датотеке"
+msgstr "Датотеке: %S"

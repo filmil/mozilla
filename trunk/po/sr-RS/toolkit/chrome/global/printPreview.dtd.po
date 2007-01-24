@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/printPreview.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 00:02+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -64,16 +63,16 @@ msgstr "По&деси страницу..."
 #: page.label
 #: page.accesskey
 msgid "P&age:"
-msgstr "С&трана"
+msgstr "С&трана:"
 
 #: of.label
 msgid "of"
-msgstr "из"
+msgstr "од"
 
 #: scale.label
 #: scale.accesskey
 msgid "&Scale:"
-msgstr "&Размера"
+msgstr "&Размера:"
 
 #: percent.label
 msgid "&#037;"
@@ -144,11 +143,11 @@ msgstr "200&#037;"
 
 #: Custom.label
 msgid "Custom..."
-msgstr "Унесите своје..."
+msgstr "Произвољна..."
 
 #: ShrinkToFit.label
 msgid "Shrink To Fit"
-msgstr "Саби на страну"
+msgstr "Уклопи на страну"
 
 #: customPrompt.title
 msgid "Custom Scale..."
@@ -164,7 +163,7 @@ msgstr "Последња страна"
 
 #: rightarrow.tooltip
 msgid "Next page"
-msgstr "Следећа страна"
+msgstr "Наредна страна"
 
 #: leftarrow.tooltip
 msgid "Previous page"
