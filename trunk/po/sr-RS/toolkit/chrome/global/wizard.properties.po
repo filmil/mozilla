@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/wizard.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +16,15 @@ msgstr ""
 
 #: default-first-title
 msgid "Welcome to the %S"
-msgstr "Добро дошли у %S"
+msgstr "Добро дошли у програм %S"
 
 #: default-last-title
 msgid "Completing the %S"
-msgstr "Крај рада %S"
+msgstr "Крај рада у програму %S"
 
 #: default-first-title-mac
 msgid "Introduction"
-msgstr "Почетак"
+msgstr "Увод"
 
 #: default-last-title-mac
 msgid "Conclusion"

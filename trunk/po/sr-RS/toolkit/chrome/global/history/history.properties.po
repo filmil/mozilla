@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/history/history.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: deleteHost
 msgid "Delete all from %S"
-msgstr "Удаљи све из %S"
+msgstr "Уклони све из %S"
 
 #: deleteDomain
 msgid "Delete entire domain %S"
@@ -25,7 +24,7 @@ msgstr "Уклони цео домен %S"
 
 #: deleteHostNoSelection
 msgid "Delete host"
-msgstr "Удаљи домен"
+msgstr "Уклони рачунар"
 
 #: deleteDomainNoSelection
 msgid "Delete domain"
@@ -37,7 +36,7 @@ msgstr "Данас"
 
 #: finduri-AgeInDays-is-1
 msgid "Yesterday"
-msgstr "Ноћас"
+msgstr "Јуче"
 
 #: finduri-AgeInDays-is
 msgid "%S days ago"
@@ -45,12 +44,12 @@ msgstr "Пре %S дана"
 
 #: finduri-AgeInDays-isgreater
 msgid "Older than %S days"
-msgstr "Старије од %S дана"
+msgstr "Старије од оволико дана: %S"
 
 #: finduri-Hostname-is-
 msgid "(no host)"
-msgstr "(без хоста)"
+msgstr "(без имена рачунара)"
 
 #: load-js-data-url-error
 msgid "For security reasons, javascript or data urls cannot be loaded from the history window or sidebar."
-msgstr "Из безбедоносних разлога javascript или адреса са подацима не може бити учитана из историјата или бочног панела."
+msgstr "Из безбедносних разлога javascript или адреса са подацима не може бити учитана из историјата или бочног панела."

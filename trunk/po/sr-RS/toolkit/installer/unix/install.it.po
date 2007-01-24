@@ -1,12 +1,11 @@
 # converted from pseudo-properties .it file
 # extracted from 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 23:41+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +21,7 @@ msgstr ""
 #------------------------------------------------------------------------------
 #: NEXT
 msgid "Next >"
-msgstr "Следећи >"
+msgstr "Напред >"
 
 #: BACK
 msgid "< Back"
@@ -35,11 +34,11 @@ msgstr "Откажи"
 
 #: ACCEPT
 msgid "Accept"
-msgstr ""
+msgstr "Прихвати"
 
 #: DECLINE
 msgid "Decline"
-msgstr ""
+msgstr "Одбиј"
 
 #: INSTALL
 msgid "Install"
@@ -47,31 +46,31 @@ msgstr "Постави"
 
 #: PAUSE
 msgid "Pause"
-msgstr ""
+msgstr "Паузирај"
 
 #: RESUME
 msgid "Resume"
-msgstr ""
+msgstr "Настави"
 
 #: DEFAULT_TITLE
 msgid "Mozilla Installer"
-msgstr ""
+msgstr "Мозилин инсталатер"
 
 #: DEST_DIR
 msgid "Destination Directory"
-msgstr ""
+msgstr "Одредишни директоријум"
 
 #: BROWSE
 msgid "Change..."
-msgstr ""
+msgstr "Промени..."
 
 #: SELECT_DIR
 msgid "Select a directory"
-msgstr ""
+msgstr "Изаберите директоријум"
 
 #: DOESNT_EXIST
 msgid "Directory %s doesn't exist.  Create it?"
-msgstr ""
+msgstr "Директоријум %s не постоиј.  Да га направим?"
 
 #: YES_LABEL
 msgid "Yes"
@@ -87,15 +86,15 @@ msgstr "У реду"
 
 #: DELETE_LABEL
 msgid "Delete Directory"
-msgstr ""
+msgstr "Уклони директоријум"
 
 #: ERROR
 msgid "Error [%d]: %s"
-msgstr ""
+msgstr "Грешка [%d]: %s"
 
 #: FATAL_ERROR
 msgid "Fatal error [%d]: %s"
-msgstr ""
+msgstr "Кобна грешка [%d]: %s"
 
 # Description
 # # @name MIME_MHTML_DESCRIPTION
@@ -106,59 +105,59 @@ msgstr "Опис"
 
 #: WILL_INSTALL
 msgid "Setup will install the following components:"
-msgstr ""
+msgstr "Инсталатер ће поставити наредне компоненте:"
 
 #: TO_LOCATION
 msgid "to the following location:"
-msgstr ""
+msgstr "на ову локацију:"
 
 #: PREPARING
 msgid "Preparing %s..."
-msgstr ""
+msgstr "Припрема: %s..."
 
 #: EXTRACTING
 msgid "Extracting %s..."
-msgstr ""
+msgstr "Распакивање: %s..."
 
 #: INSTALLING_XPI
 msgid "Installing %s..."
-msgstr ""
+msgstr "Инсталација: %s..."
 
 #: PROCESSING_FILE
 msgid "Processing file %d of %d..."
-msgstr ""
+msgstr "Обрада датотеке бр. %d од %d..."
 
 #: NO_PERMS
 msgid "Choose another directory because you do not have permission to install to: %s"
-msgstr ""
+msgstr "Молимо да изаберете други директоријум пошто вам није дозвољено да инсталирате у: %s"
 
 #: DL_SETTINGS
 msgid "Download Settings"
-msgstr ""
+msgstr "Подешавања пријема"
 
 #: SAVE_MODULES
 msgid "Save installer modules upon download"
-msgstr ""
+msgstr "Чување модула инсталатера после пријема"
 
 #: PROXY_SETTINGS
 msgid "Proxy Settings..."
-msgstr ""
+msgstr "Подешавања заступника (proxy)..."
 
 #: PS_LABEL0
 msgid "Proxy Host [required]:"
-msgstr ""
+msgstr "Рачунар [обавезно]:"
 
 #: PS_LABEL1
 msgid "Proxy Port [required]:"
-msgstr ""
+msgstr "Порт [обавезно]:"
 
 #: PS_LABEL2
 msgid "Proxy Username [optional]:"
-msgstr ""
+msgstr "Корисничко име [опционо]:"
 
 #: PS_LABEL3
 msgid "Proxy Password [optional]:"
-msgstr ""
+msgstr "Лозинка [опциона]:"
 
 #: ERROR_TITLE
 msgid "Error!"
@@ -166,31 +165,31 @@ msgstr "Грешка!"
 
 #: DS_AVAIL
 msgid "Disk Space Available = %ld KB"
-msgstr ""
+msgstr "Доступно места на диску: %ld KB"
 
 #: DS_REQD
 msgid "Disk Space Required = %ld KB"
-msgstr ""
+msgstr "Потребно места на диску = %ld KB"
 
 #: NO_DISK_SPACE
 msgid "Please select a directory on a disk with enough space to install or free some disk space on the selected disk."
-msgstr ""
+msgstr "Молимо да изаберете директоријум на диску који има довољно слободног простора, или да на изабраном диску ослободите место."
 
 #: CXN_DROPPED
 msgid "A network connection failure occured.  Please check your network connection and press the 'Resume' button.  Alternatively, press the 'Cancel' button to quit the installer."
-msgstr ""
+msgstr "Дошло је до грешке приликом повезивања на мрежу.  Молимо да проверите мрежну везу и да притисните дугме „Настави‟.  У супротном, притисак на „Откажи‟ прекида инсталацију."
 
 #: CRC_CHECK
 msgid "Some files failed to download correctly. Retrying."
-msgstr ""
+msgstr "Неке датотеке нису исправно преузете.  Нови пријем."
 
 #: CRC_FAILED
 msgid "Installation has failed due to multiple CRC failures."
-msgstr ""
+msgstr "Инсталација није успела услед вишеструких грешака парности (CRC)."
 
 #: DOWNLOADING
 msgid "Downloading:"
-msgstr ""
+msgstr "Пријем:"
 
 #: FROM
 msgid "From:"
@@ -208,11 +207,11 @@ msgstr "Статус:"
 
 #: DL_STATUS_STR
 msgid "%d KB  of  %d KB (at %d KB/sec)"
-msgstr ""
+msgstr "%d KB  од  %d KB ( %d KB/s)"
 
 #: USAGE_MSG
 msgid "Usage: %s [options]%s\t[options] can be any of the following combination:%s\t\t-h:\t\tThis help.%s\t\t-ma:\t\tRun setup in Auto mode: show progress UI,%s\t\t\t\tbut assume defaults without user intervention.%s\t\t-ms:\t\tRun setup in Silent mode: show no UI and have%s\t\t\t\tno user intervention.%s\t\t-ira:\t\tIgnore the [RunAppX] sections%s"
-msgstr ""
+msgstr "Употреба: %s [опције]%s\t[опције] могу бити било која комбинација од:%s\t\t-h:\t\tОва помоћ.%s\t\t-ma:\t\tПокретање у аутоматском начину рада: приказ мерача напретка,%s\t\t\t\tали све остало је без корисникове интервенције.%s\t\t-ms:\t\tПокретање у тихом моду: без сучеља%s\t\t\t\tи корисникове интервенцицје.%s\t\t-ira:\t\tЗанемаривање одељака [RunAppX] %s"
 
 # # @name IMAP_UNKNOWN_USER
 # # @loc None
@@ -231,108 +230,108 @@ msgstr "Нема више меморије"
 
 #: -602
 msgid "Invalid param"
-msgstr ""
+msgstr "Неисправан параметар"
 
 #: -603
 msgid "Invalid member variable"
-msgstr ""
+msgstr "Неисправна променљива члан"
 
 #: -604
 msgid "Invalid pointer"
-msgstr ""
+msgstr "Неисправан показивач"
 
 #: -605
 msgid "Parse key has no value"
-msgstr ""
+msgstr "Кључ нема вредност"
 
 #: -606
 msgid "Failed to read readme"
-msgstr ""
+msgstr "Није прочитана датотека са текстом (readme)"
 
 #: -607
 msgid "Failed to read license"
-msgstr ""
+msgstr "Није прочитана лиценца"
 
 #: -608
 msgid "Out of bounds in Component/Setup Type list"
-msgstr ""
+msgstr "Ван граница у списку компонената или врсте подешења"
 
 #: -609
 msgid "Mismatched ref counts"
-msgstr ""
+msgstr "Неисправан број референци"
 
 #: -610
 msgid "No components in the INI file"
-msgstr ""
+msgstr "Нема компонената у INI датотеци"
 
 #: -611
 msgid "No setup types in the INI file"
-msgstr ""
+msgstr "Нема подешених типова у INI датотеци"
 
 #: -612
 msgid "URL at this index already exists"
-msgstr ""
+msgstr "УРЛ на овом индексу већ постоји"
 
 #: -613
 msgid "Couldn't create the directory"
-msgstr ""
+msgstr "Директоријум није могао да буде креиран"
 
 #: -614
 msgid "FTP URL malformed"
-msgstr ""
+msgstr "Неисправан URL за FTP"
 
 #: -615
 msgid "Download failed"
-msgstr ""
+msgstr "Пријем није успео"
 
 #: -616
 msgid "Extraction of XPCOM failed"
-msgstr ""
+msgstr "Извлачење није успело за XPCOM"
 
 #: -617
 msgid "Failed to fork a process"
-msgstr ""
+msgstr "Није успело рачвање процеса (fork)"
 
 #: -618
 msgid "Couldn't open xpistub library"
-msgstr ""
+msgstr "Није могуће отворити библиотеку xpistub"
 
 #: -619
 msgid "Couldn't get symbol in library"
-msgstr ""
+msgstr "Није могуће добавити симбол из библиотеке"
 
 #: -620
 msgid "A xpistub call failed"
-msgstr ""
+msgstr "Позив за xpistub није успео"
 
 #: -621
 msgid "An Installer module %s (.xpi) failed to install"
-msgstr ""
+msgstr "Инсталатеров модул %s (.xpi) није инсталиран"
 
 #: -622
 msgid "Copy of an installer module (.xpi) failed"
-msgstr ""
+msgstr "Није успело умножавање инсталатеровог модула (.xpi)"
 
 #: -623
 msgid "Destination directory doesn't exist"
-msgstr ""
+msgstr "Одредишни директоријум не постоји"
 
 #: -624
 msgid "Can't make destination directory.  Please try another directory."
-msgstr ""
+msgstr "Није могуће направити одредишни директоријум.  Молимо да пробате други директоријум."
 
 #: -625
 msgid "A previous installation exists."
-msgstr ""
+msgstr "Већ постоји претходна инсталација."
 
 #: -626
 msgid "Insufficient permission"
-msgstr ""
+msgstr "Недовољна овлашћења"
 
 #: -627
 msgid "Insufficient disk space"
-msgstr ""
+msgstr "Нема довољно места на диску"
 
 #: -628
 msgid "Multiple CRC Failure"
-msgstr ""
+msgstr "Вишеструке грешкек парности (CRC)"

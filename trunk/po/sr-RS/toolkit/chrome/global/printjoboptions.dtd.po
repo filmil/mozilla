@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/printjoboptions.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,15 +29,15 @@ msgstr "Режим:"
 
 #: resolutionInput.label
 msgid "Resolution/Quality:"
-msgstr "Режолуција/квалитет:"
+msgstr "Резолуција/квалитет:"
 
 #: cmdInput.label
 msgid "Print Command:"
-msgstr "Команда штампе:"
+msgstr "Команда за штампање:"
 
 #: jobTitleInput.label
 msgid "Job Title:"
-msgstr "Нажив посла:"
+msgstr "Назив посла:"
 
 #: colorGroup.label
 msgid "Color:"
@@ -46,15 +45,15 @@ msgstr "Боја:"
 
 #: grayRadio.label
 msgid "GrayScale"
-msgstr "У сивим тоновима"
+msgstr "Црно-бело"
 
 #: colorRadio.label
 msgid "Color"
-msgstr "Боја"
+msgstr "У боји"
 
 #: colorspaceInput.label
 msgid "Colorspace:"
-msgstr "Спектар боја"
+msgstr "Простор боја:"
 
 #: fontsGroup.label
 msgid "Fonts:"
@@ -62,24 +61,24 @@ msgstr "Фонтови:"
 
 #: downloadFonts.label
 msgid "Download fonts to printer?"
-msgstr "Да пошаљем фонтове на штампач?"
+msgstr "Пренос фонтова на штампач?"
 
 #: edgeMarginInput.label
 msgid "Gap from edge of paper to Margin"
-msgstr "Ширина поља (и инчима)"
+msgstr "Размак од ивице папира до маргине"
 
 #: topInput.label
 msgid "Top:"
-msgstr "Горња:"
+msgstr "Горњи:"
 
 #: bottomInput.label
 msgid "Bottom:"
-msgstr "Доња:"
+msgstr "Доњи:"
 
 #: leftInput.label
 msgid "Left:"
-msgstr "Лева:"
+msgstr "Леви:"
 
 #: rightInput.label
 msgid "Right:"
-msgstr "Десна:"
+msgstr "Десни:"

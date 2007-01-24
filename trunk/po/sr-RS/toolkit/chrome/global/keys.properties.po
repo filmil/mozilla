@@ -7,13 +7,12 @@
 #
 # For more information please see bugzilla bug 90888.
 # extracted from source/sr-RS/toolkit/chrome/global/keys.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -129,11 +128,11 @@ msgstr "Десно"
 
 #: VK_PAGE_UP
 msgid "Page Up"
-msgstr "Page Up"
+msgstr ""
 
 #: VK_PAGE_DOWN
 msgid "Page Down"
-msgstr "Page Down"
+msgstr ""
 
 # LOCALIZATION NOTE : BLOCK end GLYPHS
 # Enter, backspace, and Tab might have both glyphs and text
@@ -145,38 +144,38 @@ msgstr "Page Down"
 # LOCALIZATION NOTE : BLOCK maybe GLYPHS
 #: VK_ENTER
 msgid "Enter"
-msgstr "Enter"
+msgstr ""
 
 #: VK_RETURN
 msgid "Return"
-msgstr "Return"
+msgstr ""
 
 #: VK_TAB
 msgid "Tab"
-msgstr "Tab"
+msgstr ""
 
 #: VK_BACK
 msgid "Backspace"
-msgstr "Backspace"
+msgstr ""
 
 #: VK_DELETE
 msgid "Del"
-msgstr "Del"
+msgstr ""
 
 # LOCALIZATION NOTE : BLOCK end maybe GLYPHS
 # LOCALIZATION NOTE : BLOCK typing state keys
 #: VK_HOME
 msgid "Home"
-msgstr "Почетак"
+msgstr ""
 
 #: VK_END
 msgid "End"
-msgstr "End"
+msgstr ""
 
 #: VK_ESCAPE
 msgid "Esc"
-msgstr "Esc"
+msgstr ""
 
 #: VK_INSERT
 msgid "Ins"
-msgstr "Ins"
+msgstr ""

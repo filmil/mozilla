@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/printPageSetup.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:36+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +17,7 @@ msgstr ""
 # extracted from printjoboptions.xul
 #: printSetup.title
 msgid "Page Setup"
-msgstr "Параметри стране"
+msgstr "Подешавања стране"
 
 #: basic.tab
 msgid "Format &amp; Options"
@@ -50,7 +49,7 @@ msgstr "&#037;"
 
 #: shrinkToFit.label
 msgid "Shrink To Fit Page Width"
-msgstr "Саби на страну"
+msgstr "Уклопи на страну"
 
 #: optionsGroup.label
 msgid "Options"
@@ -86,23 +85,21 @@ msgstr "Доња:"
 
 #: marginLeft.label
 #: hfLeft.label
-#, fuzzy
 msgid "Left:"
 msgstr "Лево:"
 
 #: marginRight.label
 #: hfRight.label
-#, fuzzy
 msgid "Right:"
 msgstr "Десно:"
 
 #: headerFooter.label
 msgid "Headers &amp; Footers"
-msgstr "Заглавља &amp; Подножја"
+msgstr "Заглавља и фусноте"
 
 #: hfCenter.label
 msgid "Center:"
-msgstr "По центру:"
+msgstr "Централно"
 
 #: headerLeft.tip
 msgid "Left header"
@@ -110,7 +107,7 @@ msgstr "Лево заглавље"
 
 #: headerCenter.tip
 msgid "Center header"
-msgstr "Централно заглавље"
+msgstr "Средње заглавље"
 
 #: headerRight.tip
 msgid "Right header"
@@ -118,11 +115,11 @@ msgstr "Десно заглавље"
 
 #: footerLeft.tip
 msgid "Left footer"
-msgstr "Лево подножје"
+msgstr "Лева фуснота"
 
 #: footerCenter.tip
 msgid "Center footer"
-msgstr "Центар подножја"
+msgstr "Средња фуснота"
 
 #: footerRight.tip
 msgid "Right footer"
@@ -154,7 +151,7 @@ msgstr "&amp;D"
 
 #: hfPage
 msgid "Page #"
-msgstr "Страница #"
+msgstr "Страна #"
 
 #: hfPage.code
 msgid "[&amp;P]"
@@ -162,7 +159,7 @@ msgstr "[&amp;P]"
 
 #: hfPageAndTotal
 msgid "Page # of #"
-msgstr "Страница # из #"
+msgstr "Страна бр. # од #"
 
 #: hfPageAndTotal.code
 msgid "[&amp;PT]"
@@ -175,8 +172,8 @@ msgstr "--празно--"
 #: hfCustom
 #: customPrompt.title
 msgid "Custom..."
-msgstr "Унесите своје..."
+msgstr "Произвољно..."
 
 #: customPrompt.prompt
 msgid "Enter your custom header/footer text"
-msgstr "Унесите кориснички текст заглавља/подножја"
+msgstr "Унесите сопствени текст за заглавље или фусноту"

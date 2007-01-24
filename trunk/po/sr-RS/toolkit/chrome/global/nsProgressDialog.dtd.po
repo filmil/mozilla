@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/nsProgressDialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 23:05+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +63,7 @@ msgstr "Чување"
 # These are used when saving
 #: savingTitle
 msgid "#2&#037; of #1 Saved"
-msgstr "Сачувано #2&#037; из #1"
+msgstr "Сачувано #2&#037; од #1"
 
 #: savingSource
 msgid "Saving From:"
@@ -90,11 +89,11 @@ msgstr "Помоћу:"
 # This is used when the download percentage is unknown
 #: unknownSavingTitle
 msgid "Saving #1"
-msgstr "Чување #1"
+msgstr "Чување: #1"
 
 #: unknownOpeningTitle
 msgid "Opening #1"
-msgstr "Отварање #1"
+msgstr "Отварање: #1"
 
 # Labels on other fields
 #: status
@@ -116,12 +115,12 @@ msgstr "Напредак:"
 # Label for the "keep dialog" checkbox
 #: keep
 msgid "Keep this window open after the download is complete."
-msgstr "Остави овај прозор отворен после завршетка преузимања."
+msgstr "Остави овај прозор отворен после краја пријема."
 
 # Button labels
 #: cancel
 msgid "Cancel"
-msgstr "Одустани"
+msgstr "Откажи"
 
 #: pause
 msgid "Pause"
@@ -137,7 +136,7 @@ msgstr "Затвори"
 
 #: reveal
 msgid "Show File Location"
-msgstr "Отвори директоријум"
+msgstr "Покажи место датотеке"
 
 #: launch
 msgid "Launch File"
@@ -149,7 +148,7 @@ msgstr "Отвори датотеку"
 msgid ""
 "_: \n"
 "Download Paused"
-msgstr "Преузимање је застало"
+msgstr "Пријем је паузиран"
 
 # 
 # This string is used to generate the status message used during
@@ -163,7 +162,7 @@ msgstr "Преузимање је застало"
 msgid ""
 "_: \n"
 "#1KB of #2KB (at #3KB/sec)"
-msgstr "#1 Кб из #2 Кб (#3 Кб/сек.)"
+msgstr "#1 KB од #2 KB (#3 KB/s)"
 
 # 
 # This string is used when the time remaining is unknown.
@@ -216,7 +215,7 @@ msgstr "#2:#3"
 msgid ""
 "_: \n"
 "Finished, #2 KB downloaded (elapsed time was #1)"
-msgstr "Завршено, #2 KB преузет (трајало је #1)"
+msgstr "Завршено, примљено #2 KB (трајање: #1)"
 
 # 
 # This string is used to format the text to the right of the progress

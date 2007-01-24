@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/viewSource.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:20+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +79,7 @@ msgstr "0"
 #: goToLineCmd.label
 #: goToLineCmd.accesskey
 msgid "&Go to Line..."
-msgstr "&Пређи у ред..."
+msgstr "&Иди на ред..."
 
 #: goToLineCmd.commandkey
 msgid "l"

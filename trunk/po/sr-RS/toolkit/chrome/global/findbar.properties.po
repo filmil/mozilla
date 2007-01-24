@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/findbar.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:58+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,20 +21,20 @@ msgstr "Фраза није пронађена"
 
 #: WrappedToTop
 msgid "Reached end of page, continued from top"
-msgstr "Достигнуто је дно стране, да наставим са врха."
+msgstr "Достигнуто је дно стране, наставак иде одозго"
 
 #: WrappedToBottom
 msgid "Reached top of page, continued from bottom"
-msgstr "Достигнут је врх стране, да наставим са дна."
+msgstr "Достигнут је врх стране, наставак иде одоздо"
 
 #: NormalFindLabel
 msgid "Find:"
-msgstr ""
+msgstr "Тражи:"
 
 #: FastFindLabel
 msgid "Quick Find:"
-msgstr ""
+msgstr "Брзо тражење:"
 
 #: CaseSensitive
 msgid "(Case sensitive)"
-msgstr ""
+msgstr "(Величина слова је битна)"

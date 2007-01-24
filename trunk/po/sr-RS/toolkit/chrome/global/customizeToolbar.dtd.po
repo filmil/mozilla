@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/customizeToolbar.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:32+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: dialog.title
 msgid "Customize Toolbar"
-msgstr "Прилагоди линију алатки"
+msgstr "Прилагођење алатне траке"
 
 #: dialog.style
 msgid "width: 635px; height: 400px;"
@@ -25,7 +24,7 @@ msgstr ""
 
 #: instructions.description
 msgid "You can add or remove items by dragging to or from the toolbars."
-msgstr "Како би додали елеменат на панел алата, пренесите га на изабрану локацију."
+msgstr "Можете да додате или одузмете ставке превлачећи их са или на алатну траку."
 
 #: show.label
 msgid "Show:"
@@ -33,11 +32,11 @@ msgstr "Прикажи:"
 
 #: iconsAndText.label
 msgid "Icons and Text"
-msgstr "Иконице и текст"
+msgstr "Слике и текст"
 
 #: icons.label
 msgid "Icons"
-msgstr "Иконице"
+msgstr "Слике"
 
 #: text.label
 msgid "Text"
@@ -45,15 +44,15 @@ msgstr "Текст"
 
 #: useSmallIcons.label
 msgid "Use Small Icons"
-msgstr "Мале иконице"
+msgstr "Користи мале слике"
 
 #: restoreDefaultSet.label
 msgid "Restore Default Set"
-msgstr "Поврати"
+msgstr "Врати изворне слике"
 
 #: addNewToolbar.label
 msgid "Add New Toolbar"
-msgstr "Додај панел алата"
+msgstr "Додај нову алатну траку"
 
 #: saveChanges.label
 msgid "Done"

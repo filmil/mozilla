@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/wizard.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 20:29+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +17,12 @@ msgstr ""
 #: button-back-mac.label
 #: button-back-mac.accesskey
 msgid "Go &Back"
-msgstr ""
+msgstr "&Назад"
 
 #: button-next-mac.label
 #: button-next-mac.accesskey
 msgid "&Continue"
-msgstr ""
+msgstr "&Даље"
 
 # Statusbar
 #: button-finish-mac.label
@@ -54,9 +53,9 @@ msgstr "Доврши"
 #: button-back-win.label
 #: button-back-win.accesskey
 msgid "&lt; &Back"
-msgstr ""
+msgstr "< На&зад"
 
 #: button-next-win.label
 #: button-next-win.accesskey
 msgid "&Next &gt;"
-msgstr ""
+msgstr "&Напред >"

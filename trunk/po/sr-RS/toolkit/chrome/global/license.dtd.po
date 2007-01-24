@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/license.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,24 +16,24 @@ msgstr ""
 
 #: license.part0
 msgid "is copyright"
-msgstr "је"
+msgstr "је под копирајтом"
 
 #: license.part1
 msgid "by its"
-msgstr "помоћу"
+msgstr " "
 
 #: license.contrib
 #: about.copy.linkTitle
 msgid "contributors"
-msgstr "допринос"
+msgstr "приложника"
 
 #: license.part2
 msgid "according to terms set out in the"
-msgstr "судећи по условима подешеним у"
+msgstr "према условима утврђеним у документу"
 
 #: license.part3
 msgid "document. All Rights Reserved."
-msgstr ". Сва права су загарантована."
+msgstr ". Сва права су задржана."
 
 #: about.version
 msgid "version"
@@ -42,45 +41,45 @@ msgstr "издање"
 
 #: about.copy.beforeLink
 msgid "Copyright &copy; 1998-2006 by"
-msgstr ""
+msgstr "Copyright &copy; 1998-2006"
 
 #: about.copy.afterLink
 msgid "to the Mozilla Project."
-msgstr ""
+msgstr "Пројекат Мозила"
 
 #: about.license.beforeLink
 #: about.relnotes.beforeLink
 msgid "Read the"
-msgstr ""
+msgstr "Прочитајте"
 
 #: about.license.linkTitle
 msgid "licensing information"
-msgstr ""
+msgstr "податке о лиценци"
 
 #: about.license.afterLink
 msgid "for this product."
-msgstr ""
+msgstr "за овај производ."
 
 #: about.relnotes.linkTitle
 msgid "release notes"
-msgstr ""
+msgstr "подаци о издању"
 
 #: about.relnotes.afterLink
 msgid "for this version."
-msgstr ""
+msgstr "за ово издање."
 
 #: about.buildconfig.beforeLink
 msgid "See the"
-msgstr ""
+msgstr "Прегледајте"
 
 #: about.buildconfig.linkTitle
 msgid "build configuration"
-msgstr ""
+msgstr "поставке за изградњу"
 
 #: about.buildconfig.afterLink
 msgid "used for this version."
-msgstr ""
+msgstr "које су коришћене за ово издање."
 
 #: about.buildIdentifier
 msgid "Build identifier: "
-msgstr ""
+msgstr "Ознака изградње:"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/customizeToolbar.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 20:34+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,28 +16,28 @@ msgstr ""
 
 #: enterToolbarTitle
 msgid "New Toolbar"
-msgstr "Нова линија алатки"
+msgstr "Нова алатна трака"
 
 #: enterToolbarName
 msgid "Enter a name for this toolbar:"
-msgstr "Унеите име за линију алата"
+msgstr "Именујте ову алатну траку:"
 
 #: enterToolbarDup
 msgid "There is already a toolbar with the name \"%S\". Please enter a different name."
-msgstr "Већ постоји линија алата са тим именом \"%S\". Молим, унесите друго име."
+msgstr "Већ постоји линија алата са именом „%S‟. Молим, унесите друго име."
 
 #: enterToolbarBlank
 msgid "You must enter a name to create a new toolbar."
-msgstr "Морате унети име како би нове линије алатки"
+msgstr "Нове алатне траке морају да имају име."
 
 #: separatorTitle
 msgid "Separator"
-msgstr "Размак"
+msgstr "Раздвајач"
 
 #: springTitle
 msgid "Flexible Space"
-msgstr "Празан простор променљиве дужине"
+msgstr "Растегљив размак"
 
 #: spacerTitle
 msgid "Space"
-msgstr "Празан простор"
+msgstr "Размак"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/customizeCharset.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:33+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +54,7 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: title.label
 msgid "Customize Character Encoding"
-msgstr "Избор кодирања"
+msgstr "Произвољан избор кодирања"
 
 #: current.label
 msgid "Active Character Encodings:"
@@ -78,9 +77,9 @@ msgstr "&Додај"
 #: moveUp.label
 #: moveUp.accessKey
 msgid "Move &Up"
-msgstr "Премести на &горе"
+msgstr "На&горе"
 
 #: moveDown.label
 #: moveDown.accessKey
 msgid "Move &Down"
-msgstr "Премести на &доле"
+msgstr "На&доле"

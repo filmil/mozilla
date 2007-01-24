@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/config.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -67,7 +66,7 @@ msgstr "Прикажи &све"
 # Columns
 #: prefColumn.label
 msgid "Preference Name"
-msgstr "Назив својства"
+msgstr "Име својства"
 
 #: lockColumn.label
 msgid "Status"
@@ -84,7 +83,7 @@ msgstr "Вредност"
 # Tooltips
 #: prefColumnHeader.tooltip
 msgid "Click to sort"
-msgstr "Кликни за сортирање"
+msgstr "Притисните за ређање"
 
 #: columnChooser.tooltip
 msgid "Click to select columns to display"
@@ -109,7 +108,7 @@ msgstr "&Измени"
 #: toggle.label
 #: toggle.accesskey
 msgid "&Toggle"
-msgstr "За&мени"
+msgstr "&Пребаци"
 
 #: reset.label
 #: reset.accesskey
@@ -134,7 +133,7 @@ msgstr "Цео &број"
 #: boolean.label
 #: boolean.accesskey
 msgid "&Boolean"
-msgstr "&Логички"
+msgstr "&Булово (boolean)"
 
 #: lock.label
 #: lock.accesskey

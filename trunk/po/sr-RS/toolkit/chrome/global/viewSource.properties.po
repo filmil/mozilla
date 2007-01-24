@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/viewSource.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 23:02+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: goToLineTitle
 msgid "Go to line"
-msgstr "Прелаз у ред"
+msgstr "Прелазак на ред"
 
 #: goToLineText
 msgid "Enter line number"
@@ -25,15 +24,15 @@ msgstr "Унесите број реда"
 
 #: invalidInputTitle
 msgid "Invalid input"
-msgstr "Неисправан унос"
+msgstr "Унос је неисправан"
 
 #: invalidInputText
 msgid "The line number entered is invalid."
-msgstr "Унесени број реда неисправан"
+msgstr "Унесени број реда неисправан."
 
 #: outOfRangeTitle
 msgid "Line not found"
-msgstr "Ред није пронађен"
+msgstr "Ред није нађен"
 
 #: outOfRangeText
 msgid "The specified line was not found."
@@ -41,12 +40,12 @@ msgstr "Изабрана линија није пронађена."
 
 #: statusBarLineCol
 msgid "Line %1$S, Col %2$S"
-msgstr "Редова %1$S, знакова %2$S"
+msgstr "Ред %1$S, колона %2$S"
 
 #: viewSelectionSourceTitle
 msgid "DOM Source of Selection"
-msgstr "DOM код изабраног"
+msgstr "Изворни DOM код избора"
 
 #: viewMathMLSourceTitle
 msgid "DOM Source of MathML"
-msgstr "DOM код од MathML"
+msgstr "Изворни DOM код за MathML"

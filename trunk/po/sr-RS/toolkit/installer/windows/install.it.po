@@ -1,11 +1,10 @@
 # extracted from 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-25 00:10+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,11 +18,11 @@ msgstr ""
 # section: [General]
 #: FONTNAME
 msgid "MS Sans Serif"
-msgstr ""
+msgstr "MS Sans Serif"
 
 #: FONTSIZE
 msgid "8"
-msgstr ""
+msgstr "8"
 
 # valid format options are:
 # 1: yyyy/mm/dd
@@ -52,11 +51,11 @@ msgstr "0"
 # Here is a partial list CHAR_SETS
 #: WELCOMETITLEFONTNAME
 msgid "Trebuchet MS Bold"
-msgstr ""
+msgstr "Trebuchet MS Bold"
 
 #: WELCOMETITLEFONTSIZE
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
 #font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
@@ -76,7 +75,7 @@ msgstr ""
 # Here is a partial list font weight
 #: OK_
 msgid "&OK"
-msgstr ""
+msgstr "&У реду"
 
 #: OK
 msgid "OK"
@@ -92,11 +91,11 @@ msgstr "&Откажи"
 
 #: NEXT_
 msgid "&Next >"
-msgstr ""
+msgstr "&Даље >"
 
 #: BACK_
 msgid "< &Back"
-msgstr ""
+msgstr "< &Назад"
 
 #: IGNORE_
 msgid "&Ignore"
@@ -104,23 +103,23 @@ msgstr "&Занемари"
 
 #: PROXY_MESSAGE
 msgid "To configure a Proxy server for this download, click the Connection... button."
-msgstr ""
+msgstr "За подешавање заступника (proxy) за овај пријем, притисните дугме „Веза‟..."
 
 #: PROXY_BUTTON
 msgid "&Connection..."
-msgstr ""
+msgstr "&Веза..."
 
 #: PROXYSETTINGS
 msgid "Proxy Settings:"
-msgstr ""
+msgstr "Подешавање заступника:"
 
 #: PROXYSETTINGS_
 msgid "&Proxy Settings"
-msgstr ""
+msgstr "&Подешавање заступника"
 
 #: SERVER
 msgid "Server:"
-msgstr ""
+msgstr "Рачунар:"
 
 #: PORT
 msgid "Port:"
@@ -128,7 +127,7 @@ msgstr "Порт:"
 
 #: USERID
 msgid "User id:"
-msgstr ""
+msgstr "Кор.име:"
 
 #: PASSWORD
 msgid "Password:"
@@ -137,19 +136,19 @@ msgstr "Лозинка:"
 #: SELECTDIRECTORY
 #: DLGBROWSETITLE
 msgid "Select a directory"
-msgstr ""
+msgstr "Избор директоријума"
 
 #: DIRECTORIES_
 msgid "&Directories:"
-msgstr ""
+msgstr "&Директоријуми:"
 
 #: DRIVES_
 msgid "Dri&ves:"
-msgstr ""
+msgstr "Ди&скови:"
 
 #: STATUS
 msgid "Remaining:"
-msgstr ""
+msgstr "Преостало"
 
 #: FILE
 msgid "File:"
@@ -157,47 +156,47 @@ msgstr "Датотека:"
 
 #: URL
 msgid "URL:"
-msgstr ""
+msgstr "УРЛ:"
 
 #: TO
 msgid "To Path:"
-msgstr ""
+msgstr "На стазу:"
 
 #: ACCEPT_
 msgid "&Accept"
-msgstr ""
+msgstr "&Прихвати"
 
 #: DECLINE_
 msgid "&Decline"
-msgstr ""
+msgstr "&Одбиј"
 
 #: PROGRAMFOLDER_
 msgid "&Program Folder:"
-msgstr ""
+msgstr "&Директоријум за програм:"
 
 #: EXISTINGFOLDERS_
 msgid "E&xisting Folders:"
-msgstr ""
+msgstr "Посто&јећи директоријуми:"
 
 #: SETUPMESSAGE
 msgid "Setup has finished copying files to your computer.  Before you can use $ProductNameInternal$, you must restart Windows or your computer. Choose one of the following options and click OK to finish setup."
-msgstr ""
+msgstr "Инсталатер је завршио са пребацивањем датотека на Ваш рачунар.  Пре него што можете да користите програм $ProductNameInternal$, морате да поново покренете Виндовс или Ваш рачунар. Изаберите једну од наредних могућности и притисните „У реду‟ како бисте довршили инсталацију."
 
 #: RESTART
 msgid "Restart"
-msgstr ""
+msgstr "Поново покрени"
 
 #: YESRESTART
 msgid "Yes, I want to restart my computer now."
-msgstr ""
+msgstr "Да, желим да одмах поново покренем рачунар."
 
 #: NORESTART
 msgid "No, I will restart my computer later."
-msgstr ""
+msgstr "Не, рачунар ћу поново покренути касније."
 
 #: ADDITIONALCOMPONENTS_
 msgid "&Additional Components:"
-msgstr ""
+msgstr "&Додатни делови:"
 
 # Description
 # # @name MIME_MHTML_DESCRIPTION
@@ -208,208 +207,208 @@ msgstr "Опис"
 
 #: TOTALDOWNLOADSIZE
 msgid "Total download size:"
-msgstr ""
+msgstr "Укупна величина за пријем:"
 
 #: SPACEAVAILABLE
 msgid "Space Available:"
-msgstr ""
+msgstr "Доступан простор:"
 
 #: COMPONENTS_
 msgid "C&omponents:"
-msgstr ""
+msgstr "Де&лови:"
 
 #: BROWSEINFO
 msgid "Choose a Folder to install $ProductName$ into:"
-msgstr ""
+msgstr "Молимо изаберите директоријум за инсталацију програма $ProductName$:"
 
 #: DESTINATIONDIRECTORY
 msgid "Install Folder"
-msgstr ""
+msgstr "Директоријум за инсталацију"
 
 #: BROWSE_
 msgid "B&rowse..."
-msgstr ""
+msgstr "П&регледај..."
 
 #: DOWNLOADSIZE
 msgid "Download Size: %u KB"
-msgstr ""
+msgstr "Величина пријема: %u KB"
 
 #: CURRENTSETTINGS
 msgid "Current Settings:"
-msgstr ""
+msgstr "Подешавања:"
 
 #: INSTALLFOLDER
 msgid "...to the following location:"
-msgstr ""
+msgstr "...на овде наведено место:"
 
 #: ADDTLCOMPWRAPPER
 msgid "- %s"
-msgstr ""
+msgstr "- %s"
 
 #: PRIMCOMPOTHERS
 msgid "%s, and:"
-msgstr ""
+msgstr "%s, и:"
 
 #: PRIMCOMPNOOTHERS
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: INSTALL_
 msgid "&Install"
-msgstr ""
+msgstr "&Инсталирај"
 
 #: DELETE_
 msgid "&Delete"
-msgstr "&Обриши"
+msgstr "&Уклони"
 
 #: CONTINUE_
 msgid "&Continue"
-msgstr ""
+msgstr "&Настави"
 
 #: SKIP_
 msgid "&Skip"
-msgstr ""
+msgstr "&Прескочи"
 
 #: README
 msgid "Re&ad Me"
-msgstr ""
+msgstr "&Билтен"
 
 #: PAUSE_
 msgid "&Pause"
-msgstr "&Застани"
+msgstr "&Пауза"
 
 #: RESUME_
 msgid "&Resume"
-msgstr "&Настави"
+msgstr "&Наставак"
 
 #: CHECKED
 msgid "Checked"
-msgstr ""
+msgstr "Изабрано"
 
 #: UNCHECKED
 msgid "Unchecked"
-msgstr ""
+msgstr "Није изабран"
 
 #: EXTRACTING
 msgid "Extracting..."
-msgstr ""
+msgstr "Извлачење..."
 
 # section: [Messages]
 #: ERROR_DIALOG_CREATE
 msgid "Could not create %s dialog."
-msgstr ""
+msgstr "Није могуће направити прозор %s."
 
 #: ERROR_FAILED
 msgid "%s failed."
-msgstr ""
+msgstr "Неуспело: %s."
 
 #: ERROR_FILE_NOT_FOUND
 msgid "File not found: %s"
-msgstr ""
+msgstr "Датотека није нађена: %s"
 
 #: ERROR_GET_SYSTEM_DIRECTORY_FAILED
 msgid "GetSystemDirectory() failed."
-msgstr ""
+msgstr "Није успело: GetSystemDirectory()."
 
 #: ERROR_GET_WINDOWS_DIRECTORY_FAILED
 msgid "GetWindowsDirectory() failed."
-msgstr ""
+msgstr "Није успело: GetWindowsDirectory()."
 
 #: DLGQUITTITLE
 msgid "Exit Setup"
-msgstr ""
+msgstr "Крај подешавања"
 
 #: DLGQUITMSG
 msgid "You have not finished installing $ProductName$. If you exit Setup now, $ProductName$ will not be installed. Are you sure you want to cancel Setup?"
-msgstr ""
+msgstr "Инсталација програма $ProductName$ није довршена. Ако сада изађете из подешавања, програм, $ProductName$ неће бити инсталиран.  Да ли сигурно желите да откажете инсталацију?"
 
 #: DLG_REBOOT_TITLE
 msgid "Restarting Windows"
-msgstr ""
+msgstr "Поновно покретање Виндовса"
 
 #: ERROR_GETPROCADDRESS
 msgid "GetProcAddress() of %s failed."
-msgstr ""
+msgstr "Позив GetProcAddress() %s није успео."
 
 #: ERROR_WRITEPRIVATEPROFILESTRING
 msgid "WritePrivateProfileString() failed for file %s"
-msgstr ""
+msgstr "WritePrivateProfileString() није успео за датотеку %s"
 
 #: MSG_RETRIEVE_CONFIGINI
 msgid "Please wait while Setup retrieves its configuration script from the web..."
-msgstr ""
+msgstr "Молимо да сачекате док инсталатер добави подешавања са мреже..."
 
 #: ERROR_CREATE_TEMP_DIR
 msgid "Setup was unable to create the TEMP directory: %s"
-msgstr ""
+msgstr "Инсталатер  није успео да начини директоријум TEMP: %s"
 
 #: ERROR_DETERMINING_DISK_SPACE
 msgid "Could not determine available disk space for: %s"
-msgstr ""
+msgstr "Није могуће утврдити величину доступног простора за диск: %s"
 
 #: DLG_DISK_SPACE_CHECK_TITLE
 msgid "Disk space check"
-msgstr ""
+msgstr "Провера простора на диску"
 
 #: DLG_DISK_SPACE_CHECK_CRUTIAL_MSG
 msgid "Setup has detected insufficient disk space to continue with installation on %s for the path: %sRequired: %sAvailable: %sClick Retry if more disk space has been made available, or click Cancel to cancel Setup."
-msgstr ""
+msgstr "Инсталатер је установио да нема довољно места на диску за наставак инсталације за диск: %s за стазу: %sПотребно: %sДоступно: %sПритисните „Понови‟ ако сте ослободили још простора, или притисните „Откажи‟ за отказивање подешавака."
 
 #: DLG_DISK_SPACE_CHECK_MSG
 msgid "Setup has detected insufficient disk space to continue with installation process on %s for the path: %sRequired: %sAvailable: %sClick OK to go back and choose a different destination path."
-msgstr ""
+msgstr "Инсталатер је установио да нема довољно места на диску за наставак инсталације за диск: %s и стазу: %sПотребно: %sДоступно: %sПритисните „У реду‟ да пробате да задате другу одредишну стазу."
 
 #: ERROR_CREATE_DIRECTORY
 msgid "Could not create folder: %sMake sure you have access to create the folder."
-msgstr ""
+msgstr "Није могуће направити директоријум: %sОбезбедите довољно права приступа директоријуму."
 
 #: ERROR_MESSAGE_TITLE
 msgid "$ProductNameInternal$ Setup Error"
-msgstr ""
+msgstr "Грешка при инсталацији програма $ProductNameInternal$"
 
 #: STR_FILE_NUMBER
 msgid "File count:"
-msgstr ""
+msgstr "Број датотека:"
 
 #: STR_FILENAME
 msgid "Filename:"
-msgstr ""
+msgstr "Датотека:"
 
 #: MSG_SMARTUPDATE_START
 msgid "Preparing Install, please wait..."
-msgstr ""
+msgstr "Инсталација се припрема, молимо да сачекате..."
 
 #: MSG_CONFIGURING
 msgid "Configuring %s, please wait..."
-msgstr ""
+msgstr "Подешавање програма %s, молимо да сачекате..."
 
 #: ERROR_XPI_INSTALL
 msgid "Error occurred during installation"
-msgstr ""
+msgstr "Дошло је до грешке при инсталацији"
 
 #: ERROR_SETUP_REQUIREMENT
 msgid "$ProductName$ can only run on Windows 95 or newer. Setup will now exit."
-msgstr ""
+msgstr "Програм $ProductName$ може да ради само на Виндовсу 95 или новијем.  Инсталатер ће сада завршити са радом."
 
 #: DLG_EXTRACTING_TITLE
 msgid "$ProductName$ Setup - Install Progress"
-msgstr ""
+msgstr "Инсталација програма $ProductName$ - Напредак инсталације"
 
 #: STR_PROCESSINGFILE
 msgid "Preparing file: %s"
-msgstr ""
+msgstr "Припрема датотеке: %s"
 
 #: STR_INSTALLING
 msgid "Currently installing %s"
-msgstr ""
+msgstr "Тренутно се инсталира: %s"
 
 #: STR_COPYINGFILE
 msgid "Copying file: %s"
-msgstr ""
+msgstr "Умножавање датотеке: %s"
 
 #: MB_WARNING_STR
 msgid "Warning"
-msgstr ""
+msgstr "Упозорење"
 
 # VCARD_LDAP_MSG_TYPE
 # # @name VCARD_LDAP_MSG_TYPE
@@ -420,120 +419,120 @@ msgstr "Порука"
 
 #: MB_ATTENTION_STR
 msgid "Attention"
-msgstr ""
+msgstr "Пажња"
 
 #: MSG_CREATE_DIRECTORY
 msgid "The following directory does not exist:%sWould you like to create it?"
-msgstr ""
+msgstr "Овај директоријум не постоји:%sДа ли желите да га направите?"
 
 #: STR_CREATE_DIRECTORY
 msgid "Create Directory?"
-msgstr ""
+msgstr "Прављење директоријума?"
 
 #: ERROR_PROGRAM_FOLDER_NAME
 msgid "Invalid Program folder name entered."
-msgstr ""
+msgstr "Унето је неисправно име за директоријум."
 
 #: CB_DEFAULT
 msgid "Default"
-msgstr ""
+msgstr "Изворно"
 
 #: ERROR_DESTINATION_PATH
 msgid "Invalid path entered."
-msgstr ""
+msgstr "Унета је неисправна стаза"
 
 #: STR_SETUP_TYPE
 msgid "Setup Type:"
-msgstr ""
+msgstr "Врста инсталације:"
 
 #: STR_SELECTED_COMPONENTS
 msgid "Selected Components:"
-msgstr ""
+msgstr "Изабране компоненте:"
 
 #: STR_DESTINATION_DIRECTORY
 msgid "Destination Directory:"
-msgstr ""
+msgstr "Одредишни директоријум:"
 
 #: STR_PROGRAM_FOLDER
 msgid "Program Folder:"
-msgstr ""
+msgstr "Програмска фасцикла:"
 
 #: STR_DELETING_DESTINATION_DIR
 msgid "Deleting destination directory to be able to upgrade, please wait..."
-msgstr ""
+msgstr "Уклањање одредишног директоријума при доградњи, молимо да сачекате..."
 
 #: STR_SETUP
 msgid "Setup"
-msgstr ""
+msgstr "Инсталација"
 
 #: STR_DOWNLOAD_SITE
 msgid "Download Site:"
-msgstr ""
+msgstr "Место за пријем:"
 
 #: STR_SAVE_INSTALLER_FILES
 msgid "Save downloaded and Setup program files to:"
-msgstr ""
+msgstr "Сачувајте преузете датотеке и инсталатер у:"
 
 #: MSG_INIT_SETUP
 msgid "Initializing Setup, please wait..."
-msgstr ""
+msgstr "Инсталатер се покреће, молимо да сачекате..."
 
 #: STR_MESSAGEBOX_TITLE
 msgid "%s Setup"
-msgstr ""
+msgstr "Инсталација програма %s"
 
 #: ERROR_GETVERSION
 msgid "GetVersionEx() failed!"
-msgstr ""
+msgstr "GetVersionEx() није успела!"
 
 #: DLG_USAGE_TITLE
 msgid "Usage"
-msgstr ""
+msgstr "Употреба"
 
 #: STATUS_EXTRACTING
 msgid "Extracting %s"
-msgstr ""
+msgstr "Извлачење: %s"
 
 #: STATUS_LAUNCHING_SETUP
 msgid "Launching Setup..."
-msgstr ""
+msgstr "Покретање инсталатера"
 
 #: ERROR_FILE_WRITE
 msgid "Unable to write file %s"
-msgstr ""
+msgstr "Није могућ упис у датотеку: %s"
 
 #: TITLE
 msgid "Installation"
-msgstr ""
+msgstr "Инсталација"
 
 #: ERROR_OUT_OF_MEMORY
 msgid "Out of memory!"
-msgstr ""
+msgstr "Нема меморије!"
 
 #: ERROR_DLL_LOAD
 msgid "Could not load %s"
-msgstr ""
+msgstr "Није могуће учитати: %s"
 
 #: ERROR_STRING_LOAD
 msgid "Could not load string resource ID %d"
-msgstr ""
+msgstr "Није могуће учитати ресурс са кључем: %d"
 
 #: ERROR_STRING_NULL
 msgid "Null pointer encountered."
-msgstr ""
+msgstr "Нулти поинтер."
 
 #: ERROR_GLOBALALLOC
 msgid "Memory allocation error."
-msgstr ""
+msgstr "Грешка при расподели меморије."
 
 #: MSG_FORCE_QUIT_PROCESS
 msgid "Setup has detected that %s (%s) is still running.  Click OK to quit %s and proceed with installation. Alternatively, use the Windows Task Manager to quit %s, and then click OK to continue with installation."
-msgstr ""
+msgstr "Инсталатер је установио да програм  %s (%s) и даље ради.  Притисните „У реду‟ да зауставите програм %s и наставите са инсталацијом.  У супротном, користите Виндовсов управљач програмима да угасите програм %s, и затим притисните „У реду‟ да наставите са инсталацијом. "
 
 #: MSG_FORCE_QUIT_PROCESS_FAILED
 msgid "Setup will now exit. Setup could not continue because %s (%s) is still running. Try manually quitting %s using Windows Task Manager, and then run Setup again."
-msgstr ""
+msgstr "Инсталатер ће сада завршити рад.  Инсталација није могла да се обави јер програм %s (%s) и даље ради.  Пробајте да ручно зауставите програм %s помоћу Виндовсовог управљача програмима и затим поново покрените инсталатер."
 
 #: ERROR_PATH_WITHIN_WINDIR
 msgid "$ProductName$ cannot be installed into a folder that is inside the Windows folder. Please choose a different folder."
-msgstr ""
+msgstr "Програм $ProductName$ се не може поставити у директоријум који се налази унутар Виндовсовог системског подручја.  Молимо да изаберете други директоријум."

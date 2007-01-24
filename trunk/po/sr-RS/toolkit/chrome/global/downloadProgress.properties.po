@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/downloadProgress.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:22+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: close
 msgid "Close"
-msgstr "Затвори. Притисни ово дугме за затварање дијалога."
+msgstr "Затвори"
 
 #: unknown
 msgid "Unknown Error"
@@ -25,7 +24,7 @@ msgstr "Непозната грешка"
 
 #: error
 msgid "Close. Press Close button to close dialog."
-msgstr "Затвори. Притисни ово дугме за затварање дијалога."
+msgstr "Затвори. Притисните ово дугме за затварање дијалога."
 
 #: FilePickerTitle
 msgid "Save File"

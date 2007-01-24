@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/commonDialogs.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 20:41+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,11 +29,11 @@ msgstr "Упит"
 
 #: PromptUsernameAndPassword2
 msgid "Authentication Required"
-msgstr ""
+msgstr "Неопходна је ауторизација"
 
 #: PromptPassword2
 msgid "Password Required"
-msgstr ""
+msgstr "Неопходна је лозинка"
 
 #: Select
 msgid "Select"
@@ -62,7 +61,7 @@ msgstr "&Сачувај"
 
 #: Revert
 msgid "&Revert"
-msgstr "&Повратак"
+msgstr "&Врати"
 
 #: DontSave
 msgid "&Don't Save"
@@ -70,8 +69,8 @@ msgstr "&Не чувај"
 
 #: ScriptDlgGenericHeading
 msgid "[JavaScript Application]"
-msgstr ""
+msgstr "[ЈаваСкрипт програм]"
 
 #: ScriptDlgHeading
 msgid "The page at %S says:"
-msgstr ""
+msgstr "Порука са странице %S гласи:"

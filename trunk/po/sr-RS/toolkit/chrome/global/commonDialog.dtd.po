@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/commonDialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:57+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +16,15 @@ msgstr ""
 
 #: header.label
 msgid "Brief Title"
-msgstr "Кратко заглавље"
+msgstr "Кратак наслов"
 
 #: message.label
 msgid "Some sample Text goes here."
-msgstr "Пример неког текста."
+msgstr "Ово је текст за пример."
 
 #: editfield0.label
 msgid "User Name:"
-msgstr "Име корисника:"
+msgstr "Корисничко име:"
 
 #: editfield1.label
 msgid "Password:"
@@ -37,4 +36,4 @@ msgstr "Потврди лозинку:"
 
 #: checkbox.label
 msgid "check"
-msgstr "Штиклирај"
+msgstr "означено"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/intl.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:17+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +26,7 @@ msgstr ""
 # intl/uconv/src/charsetalias.properties file for the list of canonical
 #: general.useragent.locale
 msgid "en-US"
-msgstr "sr-CS"
+msgstr "sr"
 
 # Localization Note: font.language.group controls the initial setting of the
 # language drop-down in the fonts pref panel. Set it to the value of one of the
@@ -42,11 +41,11 @@ msgstr "x-cyrillic"
 # "ja-jp, ja, en-us, en"
 #: intl.accept_languages
 msgid "en-us, en"
-msgstr "sr-CS, sr"
+msgstr "sr, sr-rs, sr-cs, en-us, en"
 
 #: intl.charsetmenu.browser.static
 msgid "ISO-8859-1, UTF-8"
-msgstr "windows-1250; UTF-8"
+msgstr "UTF-8, windows-1250"
 
 #: intl.charsetmenu.browser.more1
 msgid "ISO-8859-1, ISO-8859-15, IBM850, x-mac-roman, windows-1252, ISO-8859-14, ISO-8859-7, x-mac-greek, windows-1253, x-mac-icelandic, ISO-8859-10, ISO-8859-3"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/languageNames.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +28,7 @@ msgstr "авестан"
 
 #: af
 msgid "Afrikaans"
-msgstr "афрички"
+msgstr "африкански"
 
 #: ak
 msgid "Akan"
@@ -109,7 +108,7 @@ msgstr "босански"
 
 #: ca
 msgid "Catalan"
-msgstr "каталански"
+msgstr "каталонски"
 
 #: ce
 msgid "Chechen"
@@ -181,7 +180,7 @@ msgstr "шпански"
 
 #: et
 msgid "Estonian"
-msgstr "сетонски"
+msgstr "естонски"
 
 #: eu
 msgid "Basque"
@@ -189,7 +188,7 @@ msgstr "баскијски"
 
 #: fa
 msgid "Persian"
-msgstr "ирански"
+msgstr "персијски"
 
 #: ff
 msgid "Fulah"
@@ -201,11 +200,11 @@ msgstr "фински"
 
 #: fj
 msgid "Fijian"
-msgstr "фиџијан"
+msgstr "фиџиански"
 
 #: fo
 msgid "Faeroese"
-msgstr "фаеросе"
+msgstr "фарски"
 
 #: fr
 msgid "French"
@@ -213,7 +212,7 @@ msgstr "француски"
 
 #: fy
 msgid "Frisian"
-msgstr "фрижански"
+msgstr "фризијски"
 
 #: ga
 msgid "Irish"
@@ -221,7 +220,7 @@ msgstr "ирски"
 
 #: gd
 msgid "Scots Gaelic"
-msgstr "штотски галски"
+msgstr "шкотски гелски"
 
 #: gl
 msgid "Galician"
@@ -261,7 +260,7 @@ msgstr "хрватски"
 
 #: hsb
 msgid "Upper Sorbian"
-msgstr "српски"
+msgstr "горњолужичкосрпски"
 
 #: ht
 msgid "Haitian"
@@ -285,11 +284,11 @@ msgstr "интерлингва"
 
 #: id
 msgid "Indonesian"
-msgstr "индонезијски"
+msgstr "индонежански"
 
 #: ie
 msgid "Interlingue"
-msgstr "интерлингва"
+msgstr "интерлингве"
 
 #: ig
 msgid "Igbo"
@@ -297,7 +296,7 @@ msgstr "игбо"
 
 #: ii
 msgid "Sichuan Yi"
-msgstr "сихуан ји"
+msgstr "сечуан ји"
 
 #: ik
 msgid "Inupiak"
@@ -345,7 +344,7 @@ msgstr "гванамски"
 
 #: kk
 msgid "Kazakh"
-msgstr "казахски"
+msgstr "казашски"
 
 #: kl
 msgid "Greenlandic"
@@ -353,7 +352,7 @@ msgstr "гренландски"
 
 #: km
 msgid "Cambodian"
-msgstr "камбоџијски"
+msgstr "камбоџански"
 
 #: kn
 msgid "Kannada"
@@ -497,7 +496,7 @@ msgstr "холандски"
 
 #: nn
 msgid "Norwegian Nynorsk"
-msgstr "норвешки нинорски"
+msgstr "норвешки нинорск"
 
 #: no
 msgid "Norwegian"
@@ -513,7 +512,7 @@ msgstr "сото, северни"
 
 #: nv
 msgid "Navajo"
-msgstr "навађо"
+msgstr "навахо"
 
 #: ny
 msgid "Chichewa"
@@ -553,7 +552,7 @@ msgstr "пољски"
 
 #: ps
 msgid "Pashto"
-msgstr "пашторски"
+msgstr "пашту"
 
 #: pt
 msgid "Portuguese"
@@ -613,7 +612,7 @@ msgstr "словачки"
 
 #: sl
 msgid "Slovenian"
-msgstr "словенски"
+msgstr "словеначки"
 
 #: sm
 msgid "Samoan"
@@ -665,7 +664,7 @@ msgstr "телугу"
 
 #: tg
 msgid "Tajik"
-msgstr "таџик"
+msgstr "таџички"
 
 #: th
 msgid "Thai"
@@ -745,15 +744,15 @@ msgstr "вијетнамски"
 
 #: vo
 msgid "Volapük"
-msgstr "Волапук"
+msgstr "волапук"
 
 #: wa
 msgid "Walloon"
-msgstr "валун"
+msgstr "валонски"
 
 #: wen
 msgid "Sorbian"
-msgstr "Вендски"
+msgstr "доњолужичкосрпски"
 
 #: wo
 msgid "Wolof"
@@ -765,7 +764,7 @@ msgstr "гзоза"
 
 #: yi
 msgid "Yiddish"
-msgstr "идишки"
+msgstr "јидиш"
 
 #: yo
 msgid "Yoruba"

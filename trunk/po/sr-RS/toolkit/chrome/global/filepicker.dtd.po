@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/filepicker.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 20:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,17 +17,17 @@ msgstr ""
 #: lookInMenuList.label
 #: lookInMenuList.accesskey
 msgid "&Look in:"
-msgstr "Погледај у:"
+msgstr "&Погледај у:"
 
 #: textInput.label
 #: textInput.accesskey
 msgid "File &name:"
-msgstr "Назив датотеке:"
+msgstr "&Име датотеке:"
 
 #: filterMenuList.label
 #: filterMenuList.accesskey
 msgid "Files of &type:"
-msgstr "Тип датотека:"
+msgstr "&Типови датотека:"
 
 #: name.label
 msgid "Name"
@@ -44,24 +43,24 @@ msgstr "Последња измена"
 
 #: permissions.label
 msgid "Permissions"
-msgstr "Права"
+msgstr "Овлашћења"
 
 #: showHiddenFiles.label
 #: showHiddenFiles.accesskey
 msgid "&Show hidden files and directories"
-msgstr "Приказ сакривених датотека и директоријума"
+msgstr "Приказ &сакривених датотека и директоријума"
 
 #: noPermissionError.label
 msgid "You do not have the permissions necessary to view this directory."
-msgstr "Немате дозволу неопходну за приступ овом директоријуму."
+msgstr "Немате потребно овлашћење за приступ овом директоријуму."
 
 #: folderUp.tooltiptext
 msgid "Go up a level"
-msgstr "Пређи на виши ниво"
+msgstr "Ниво изнад"
 
 #: folderHome.tooltiptext
 msgid "Go to home"
-msgstr "Пређи на почетак"
+msgstr "Почетак"
 
 #: folderNew.tooltiptext
 msgid "Create new directory"

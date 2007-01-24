@@ -9,16 +9,21 @@ all: stats
 # Чишћење генерисаних датотека
 clean:
 	$(RM) *~
-	$(RM) -fr $(OUTPUT_DIR) sr-RS.zip
+	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)*
 
 # Прављење превода од образаца и ПО датотека
-trans:
+$(OUTPUT_DIR):
 	$(MKDIR) -p $(OUTPUT_DIR)
 	$(PO2MOZ) -i $(PO_TRANSLATIONS) -o $(OUTPUT_DIR_FINAL) -t $(SOURCE_DIR)
+	( cd $(OUTPUT_DIR) ; find -wholename '*.svn' | xargs rm -fr ) 
 
-zip: trans
-	$(CD) $(OUTPUT_DIR)
-	$(ZIP) ../sr-RS.zip $(OUTPUT_DIR_FINAL)
+$(ZIPNAME): $(OUTPUT_DIR)
+	( $(CD) $(OUTPUT_DIR) ; $(ZIP)  -r ../$(ZIPNAME) sr )
+
+#  Split the final archive into multiple parts
+split: $(ZIPNAME)
+	split -b 290k $(ZIPNAME) $(ZIPNAME)-
+
 
 # Прављење образаца за пренос
 pot: cleanpot

@@ -35,13 +35,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/toolkit/chrome/global/nsProgressDialog.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:33+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -61,7 +60,7 @@ msgstr "Отварање %S"
 
 #: securityAlertMsg
 msgid "Warning! Executable files may contain viruses or other malicious code that could harm your computer. Use caution when opening this file. Are you sure you want to launch %S?"
-msgstr "Пажња! Коришћене датотеке могу садржати вирусе или други код који има могућност оштетити Ваш рачунар. Будите пажљиви. Да ли заиста желите отворити датотеку %S?"
+msgstr "Пажња! Извршиве датотеке могу садржати вирусе или други код који има могућност оштетити Ваш рачунар. Будите пажљиви. Да ли заиста желите да покренете датотеку %S?"
 
 #: dontAskAgain
 msgid "Don't ask me again."

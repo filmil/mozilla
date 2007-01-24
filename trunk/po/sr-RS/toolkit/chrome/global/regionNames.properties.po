@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/regionNames.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-24 22:48+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +92,7 @@ msgstr "Луксембург"
 
 #: li
 msgid "Liechtenstein"
-msgstr "Ланхејштајн"
+msgstr "Лихтенштајн"
 
 #: au
 msgid "Australia"
@@ -101,7 +100,7 @@ msgstr "Аустралија"
 
 #: bz
 msgid "Belize"
-msgstr "Белиција"
+msgstr "Белизе"
 
 #: ca
 msgid "Canada"
@@ -109,7 +108,7 @@ msgstr "Канада"
 
 #: gb
 msgid "United Kingdom"
-msgstr "Велика британија"
+msgstr "Велика Британија"
 
 #: ie
 msgid "Ireland"
@@ -137,7 +136,7 @@ msgstr "САД"
 
 #: za
 msgid "South Africa"
-msgstr "Јужноафрички"
+msgstr "Јужноафричка Република"
 
 #: zw
 msgid "Zimbabwe"
@@ -165,7 +164,7 @@ msgstr "Коста-Рика"
 
 #: do
 msgid "Dominican Republic"
-msgstr "Доминиканска република"
+msgstr "Доминиканска Република"
 
 #: ec
 msgid "Ecuador"
@@ -213,7 +212,7 @@ msgstr "Салвадор"
 
 #: uy
 msgid "Uruguay"
-msgstr "Уругвајски"
+msgstr "Уругвај"
 
 #: ve
 msgid "Venezuela"
@@ -241,11 +240,11 @@ msgstr "Бразил"
 
 #: md
 msgid "Moldova, Republic of"
-msgstr "Молдовија"
+msgstr "Молдавија"
 
 #: mo
 msgid "Macao"
-msgstr "Масао"
+msgstr "Макао"
 
 #: fi
 msgid "Finland"
@@ -257,7 +256,7 @@ msgstr "Кина"
 
 #: hk
 msgid "Hong Kong"
-msgstr "Хонконг"
+msgstr "Хонг Конг"
 
 #: sg
 msgid "Singapore"
@@ -285,7 +284,7 @@ msgstr "Малезија"
 
 #: bn
 msgid "Brunei Darussalam"
-msgstr "Брунеј Дарусалам"
+msgstr "Брунеји Дар-Ес-Салам"
 
 #: pk
 msgid "Pakistan"
@@ -309,7 +308,7 @@ msgstr "Русија"
 
 #: se
 msgid "Sweden"
-msgstr "Шветска"
+msgstr "Шведска"
 
 #: jp
 msgid "Japan"
