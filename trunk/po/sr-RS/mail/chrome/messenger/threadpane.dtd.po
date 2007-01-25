@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/threadpane.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +89,7 @@ msgstr "Приоритет"
 
 #: tagsColumn.label
 msgid "Tags"
-msgstr ""
+msgstr "Ознаке"
 
 #: accountColumn.label
 msgid "Account"
@@ -126,7 +125,7 @@ msgstr "Прочитано"
 
 #: starredColumn.label
 msgid "Starred"
-msgstr ""
+msgstr "Звезда"
 
 #: locationColumn.label
 msgid "Location"
@@ -167,7 +166,7 @@ msgstr "Притисните да поређате по приоритету"
 
 #: tagsColumn.tooltip
 msgid "Click to sort by tags"
-msgstr ""
+msgstr "Притисни за ређање по ознакама"
 
 #: accountColumn.tooltip
 msgid "Click to sort by account"
@@ -199,7 +198,7 @@ msgstr "Притисните да поређате према прочитани
 
 #: starredColumn.tooltip
 msgid "Click to sort by star"
-msgstr ""
+msgstr "Притисните да поређате по звезди"
 
 #: locationColumn.tooltip
 msgid "Click to sort by location"

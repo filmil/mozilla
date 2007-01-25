@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/AccountManager.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +32,7 @@ msgstr "Подеси као &подразумеван"
 #: duplicateButton.label
 #: duplicate.label
 msgid "Duplicate"
-msgstr ""
+msgstr "Умножи"
 
 #: removeButton.label
 #: removeButton.accesskey
@@ -70,4 +69,4 @@ msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "width: 17em;"
-msgstr "width: 17em;"
+msgstr ""

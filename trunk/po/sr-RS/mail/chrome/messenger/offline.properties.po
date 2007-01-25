@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/offline.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +17,11 @@ msgstr ""
 # Download Messages Prompt
 #: downloadMessagesWindowTitle1
 msgid "Download Messages"
-msgstr ""
+msgstr "Пријем порука"
 
 #: downloadMessagesLabel1
 msgid "Do you want to download messages for offline use before going offline?"
-msgstr ""
+msgstr "Да ли желите да поруке преузмете пре или после пре прекида везе са мрежом?"
 
 #: downloadMessagesCheckboxLabel1
 msgid "Always ask me when I go offline"
@@ -37,7 +36,7 @@ msgstr "Непослато"
 
 #: sendMessagesLabel1
 msgid "Do you want to send the messages in your Unsent Messages folder?"
-msgstr ""
+msgstr "Да ли желите да пошаљете поруке из директоријума са непослатим порукама?"
 
 #: sendMessagesCheckboxLabel1
 msgid "Always ask me when I go online"
@@ -52,16 +51,16 @@ msgstr "Преузимање порука"
 
 #: getMessagesOfflineLabel1
 msgid "You are currently offline. Do you want to go online to get new messages?"
-msgstr ""
+msgstr "Тренутно нисте на вези.  Да ли желите да се повежете и набавите нове поруке?"
 
 #: sendMessagesOfflineLabel
 msgid "You are currently offline. Do you want to go online to send unsent messages?"
-msgstr ""
+msgstr "Тренутно нисте на вези.  Да ли желите да се повежете и пошаљете непослате поруке?"
 
 #: offlineTooltip
 msgid "You are currently offline."
-msgstr ""
+msgstr "Тренутно нисте на вези."
 
 #: onlineTooltip
 msgid "You are currently online."
-msgstr ""
+msgstr "Тренутно сте на вези."

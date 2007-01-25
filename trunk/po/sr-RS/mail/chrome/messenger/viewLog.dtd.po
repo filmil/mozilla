@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/viewLog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:46+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,23 +16,23 @@ msgstr ""
 
 #: viewLog.title
 msgid "Filter Log"
-msgstr "Журнал филтрирања"
+msgstr "Белешке о филтрима"
 
 #: viewLogInfo.text
 msgid "The Filter Log documents the filters that have been run for this account. Use the check box below to enable logging."
-msgstr ""
+msgstr "У белешке о филтрима записују се филтри који су покретани за овај налог.  Користите доле дату кућицу да укључите бележење."
 
 #: clearLog.label
 #: clearLog.accesskey
 msgid "&Clear Log"
-msgstr "&Очисти журнал"
+msgstr "&Одбаци белешке"
 
 #: enableLog.label
 #: enableLog.accesskey
 msgid "&Enable the Filter Log"
-msgstr "Омог&ући журнал филтрирања"
+msgstr "&Укључи бележење"
 
 #: closeLog.label
 #: closeLog.accesskey
 msgid "Cl&ose"
-msgstr ""
+msgstr "&Затвори"

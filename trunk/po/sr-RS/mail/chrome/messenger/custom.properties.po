@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/custom.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:52+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,4 +20,4 @@ msgstr "Уклонили сте заглавље из списка. То мож�
 
 #: colonInHeaderName
 msgid "The header you entered contains an invalid character, such as ':', a non-printable character, a non-ascii character, or an eight bit ascii character. Please remove the invalid character and try again."
-msgstr "Заглавље које сте унели садржи неисправан знак, попут „:“, белог знака, не-АСКРИ знака или осмобитни АСКРИ знак. Молимо уклоните неисправан знак и пробајте поново."
+msgstr "Заглавље које сте унели садржи неисправан знак, попут „:“, белог знака, не-АСКРИ (ASCII) знака или осмобитни АСКРИ знак. Молимо уклоните неисправан знак и пробајте поново."

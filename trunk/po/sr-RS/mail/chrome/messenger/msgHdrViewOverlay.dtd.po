@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/msgHdrViewOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +65,7 @@ msgstr ""
 # Rights Reserved.
 #: toField.label
 msgid "To: "
-msgstr "За: "
+msgstr "Прима: "
 
 #: fromField.label
 msgid "From: "
@@ -74,7 +73,7 @@ msgstr "Од: "
 
 #: senderField.label
 msgid "Sender: "
-msgstr ""
+msgstr "Шаље:"
 
 #: organizationField.label
 msgid "Organization: "
@@ -102,7 +101,7 @@ msgstr "Одговор-на. "
 
 #: tagsHdr.label
 msgid "Tags: "
-msgstr ""
+msgstr "Ознаке: "
 
 #: dateField.label
 msgid "Date: "
@@ -145,7 +144,7 @@ msgstr "&Штампај"
 
 #: detachAttachmentCmd.label
 msgid "Detach ..."
-msgstr ""
+msgstr "Откачи ..."
 
 #: deleteAttachmentCmd.label
 msgid "Delete"
@@ -159,12 +158,12 @@ msgstr "Сачувај с&ве..."
 #: detachAllAttachmentsCmd.label
 #: detachAllAttachmentsCmd.accesskey
 msgid "&Detach All..."
-msgstr ""
+msgstr "О&ткачи све..."
 
 #: deleteAllAttachmentsCmd.label
 #: deleteAllAttachmentsCmd.accesskey
 msgid "D&elete All..."
-msgstr ""
+msgstr "Ук&лони све..."
 
 #: copyLinkCmd.label
 #: copyLinkCmd.accesskey

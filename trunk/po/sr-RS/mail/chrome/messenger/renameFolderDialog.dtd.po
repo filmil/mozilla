@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/renameFolderDialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 00:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -67,7 +66,7 @@ msgstr ""
 # - Rights Reserved.
 #: renameFolderDialog.title
 msgid "Rename Folder"
-msgstr "Промена имена директоријума"
+msgstr "Промена имена"
 
 #: rename.label
 #: rename.accesskey

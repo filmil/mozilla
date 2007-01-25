@@ -110,7 +110,7 @@ po/sr-RS/toolkit/chrome/global/tabbrowser.properties.po:
 po/sr-RS/toolkit/chrome/global/nsHelperAppDlg.dtd.po: 
 12 преведених порука.
 po/sr-RS/toolkit/chrome/global/filepicker.dtd.po: 
-5 преведених порука, 4 непреведене поруке.
+9 преведених порука.
 po/sr-RS/toolkit/chrome/global/wizard.dtd.po: 
 7 преведених порука.
 po/sr-RS/toolkit/chrome/global/customizeToolbar.properties.po: 
@@ -118,9 +118,9 @@ po/sr-RS/toolkit/chrome/global/customizeToolbar.properties.po:
 po/sr-RS/toolkit/chrome/global/finddialog.properties.po: 
 2 преведене поруке.
 po/sr-RS/toolkit/chrome/global/nsHelperAppDlg.properties.po: 
-11 преведених порука, 4 непреведене поруке.
+15 преведених порука.
 po/sr-RS/toolkit/chrome/global/commonDialogs.properties.po: 
-6 преведених порука, 11 непреведених порука.
+17 преведених порука.
 po/sr-RS/toolkit/chrome/global/license.dtd.po: 
 13 преведених порука, 3 непреведене поруке.
 po/sr-RS/toolkit/chrome/global/intl.properties.po: 
@@ -138,7 +138,7 @@ po/sr-RS/toolkit/chrome/global/nsTreeSorting.properties.po:
 po/sr-RS/toolkit/chrome/global/charsetOverlay.dtd.po: 
 3 преведене поруке.
 po/sr-RS/toolkit/chrome/global/dialogOverlay.dtd.po: 
-6 преведених порука, 3 нејасне поруке, 1 непреведена порука.
+10 преведених порука.
 po/sr-RS/toolkit/chrome/global/textcontext.dtd.po: 
 4 преведене поруке.
 po/sr-RS/toolkit/chrome/global/wizard.properties.po: 
@@ -152,7 +152,7 @@ po/sr-RS/toolkit/chrome/global/customizeToolbar.dtd.po:
 po/sr-RS/toolkit/chrome/global/customizeCharset.dtd.po: 
 4 преведене поруке.
 po/sr-RS/toolkit/chrome/global/nsProgressDialog.properties.po: 
-38 преведених порука, 2 нејасне поруке.
+40 преведених порука.
 po/sr-RS/toolkit/chrome/global/printPageSetup.dtd.po: 
 17 преведених порука.
 po/sr-RS/toolkit/chrome/global/printjoboptions.dtd.po: 
@@ -160,17 +160,17 @@ po/sr-RS/toolkit/chrome/global/printjoboptions.dtd.po:
 po/sr-RS/toolkit/chrome/global/languageNames.properties.po: 
 75 преведених порука.
 po/sr-RS/toolkit/chrome/global/regionNames.properties.po: 
-35 преведених порука.
+24 преведене поруке, 11 непреведених порука.
 po/sr-RS/toolkit/chrome/global/keys.properties.po: 
 64 преведене поруке.
 po/sr-RS/toolkit/chrome/global/xpinstall/xpinstall.properties.po: 
 20 преведених порука.
 po/sr-RS/toolkit/chrome/global/config.dtd.po: 
-7 преведених порука, 1 непреведена порука.
+8 преведених порука.
 po/sr-RS/toolkit/chrome/global/tabbrowser.dtd.po: 
 6 преведених порука.
 po/sr-RS/toolkit/chrome/global/commonDialog.dtd.po: 
-3 преведене поруке, 3 непреведене поруке.
+6 преведених порука.
 po/sr-RS/toolkit/chrome/global/findbar.properties.po: 
 1 преведена порука.
 po/sr-RS/toolkit/chrome/global/tree.dtd.po: 
@@ -182,9 +182,9 @@ po/sr-RS/toolkit/chrome/global/findbar.dtd.po:
 po/sr-RS/toolkit/chrome/global/nsProgressDialog.dtd.po: 
 2 преведене поруке.
 po/sr-RS/toolkit/chrome/global/mozilla.dtd.po: 
-14 преведених порука, 62 непреведене поруке.
+76 преведених порука.
 po/sr-RS/toolkit/installer/unix/install.it.po: 
-13 преведених порука, 108 непреведених порука.
+119 преведених порука, 2 непреведене поруке.
 po/sr-RS/toolkit/installer/windows/install.it.po: 
 0 преведених порука, 30 непреведених порука.
 po/sr-RS/extensions/reporter/chrome/reportWizard.dtd.po: 
@@ -196,35 +196,35 @@ po/sr-RS/extensions/reporter/chrome/reportWizard.properties.po:
 po/sr-RS/extensions/reporter/chrome/reportResults.dtd.po: 
 0 преведених порука, 3 непреведене поруке.
 po/sr-RS/extensions/reporter/chrome/reporterOverlay.dtd.po: 
-0 преведених порука, 3 непреведене поруке.
+3 преведене поруке.
 po/sr-RS/extensions/reporter/chrome/about.dtd.po: 
-1 преведена порука, 2 непреведене поруке.
+3 преведене поруке.
 po/sr-RS/other-licenses/branding/thunderbird/brand.properties.po: 
-1 преведена порука, 2 непреведене поруке.
+3 преведене поруке.
 po/sr-RS/other-licenses/branding/thunderbird/brand.dtd.po: 
-4 преведене поруке, 11 непреведених порука.
+8 преведених порука, 7 непреведених порука.
 po/sr-RS/other-licenses/branding/firefox/brand.properties.po: 
 3 преведене поруке.
 po/sr-RS/other-licenses/branding/firefox/brand.dtd.po: 
 1 преведена порука, 1 непреведена порука.
 po/sr-RS/mail/defines.inc.po: 
-1 преведена порука, 1 непреведена порука.
+2 преведене поруке.
 po/sr-RS/mail/updater/updater.ini.po: 
-13 преведених порука, 4 непреведене поруке.
+17 преведених порука.
 po/sr-RS/mail/chrome/messenger-mapi/mapi.properties.po: 
-34 преведене поруке.
+28 преведених порука, 6 непреведених порука.
 po/sr-RS/mail/chrome/communicator/utilityOverlay.dtd.po: 
 12 преведених порука.
 po/sr-RS/mail/chrome/communicator/contentAreaCommands.properties.po: 
-5 преведених порука, 3 непреведене поруке.
+8 преведених порука.
 po/sr-RS/mail/chrome/communicator/wallet/SignonViewer.properties.po: 
 15 преведених порука.
 po/sr-RS/mail/chrome/communicator/wallet/SignonViewer.dtd.po: 
-37 преведених порука, 4 непреведене поруке.
+41 преведена порука.
 po/sr-RS/mail/chrome/communicator/wallet/wallet.properties.po: 
-3 преведене поруке, 2 непреведене поруке.
+5 преведених порука.
 po/sr-RS/mail/chrome/communicator/utilityOverlay.properties.po: 
-42 преведене поруке, 18 непреведених порука.
+56 преведених порука, 4 непреведене поруке.
 po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/smime.properties.po: 
