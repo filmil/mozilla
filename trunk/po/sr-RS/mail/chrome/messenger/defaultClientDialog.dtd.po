@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/defaultClientDialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 02:34+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +16,15 @@ msgstr ""
 
 #: defaultClient.title
 msgid "Default Client"
-msgstr ""
+msgstr "Подразумевани клијент"
 
 #: defaultClient.intro
 msgid "Use &brandShortName; as the default client for:"
-msgstr ""
+msgstr "Програм &brandShortName; се користи као подразумевани клијент за:"
 
 #: email.label
 msgid "E-Mail"
-msgstr ""
+msgstr "Ел. пошту"
 
 #: newsgroups.label
 msgid "Newsgroups"
@@ -33,9 +32,9 @@ msgstr "Групе"
 
 #: rss.label
 msgid "RSS Feeds"
-msgstr ""
+msgstr "RSS доводе"
 
 #: checkOnStartup.label
 #: checkOnStartup.accesskey
 msgid "&Always perform this check when starting &brandShortName;"
-msgstr ""
+msgstr "&Увек провери ово кад се програм &brandShortName; покрене"

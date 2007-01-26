@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/chrome/messenger/mime.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 02:35+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -336,7 +335,7 @@ msgstr "Додај %s у адресар"
 # # @loc
 #: 1031
 msgid "<B><FONT COLOR=\\042#808080\\042>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internal</FONT></B>"
-msgstr ""
+msgstr "<B><FONT COLOR=\\042#808080\\042>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Интерно</FONT></B>"
 
 # User wrote
 ## @name MIME_MSG_X_USER_WROTE
@@ -421,7 +420,7 @@ msgstr "<B>Ова порука премашује ограничење за ма
 #: 1039
 #: 1044
 msgid "\">here</A> to download the rest of the message.</B></TD></TR></TABLE></CENTER>"
-msgstr ""
+msgstr "\">овде</A> да преузмете остатак поруке.</B></TD></TR></TABLE></CENTER>"
 
 # default attachment name
 ## @name MIME_MSG_DEFAULT_ATTACHMENT_NAME

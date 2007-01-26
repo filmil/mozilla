@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/folderProps.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 02:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -76,35 +75,35 @@ msgstr "Поставке"
 
 #: generalInfo.label
 msgid "General Information"
-msgstr ""
+msgstr "Општи подаци"
 
 #: folderCharsetTab.label
 #: folderCharsetTab.accesskey
 msgid "Default Character &Encoding:"
-msgstr ""
+msgstr "Подразумевано кодирање &знакова"
 
 #: folderCharsetOverride.label
 #: folderCharsetOverride.accesskey
 msgid "&Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)"
-msgstr ""
+msgstr "&Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)"
 
 #: folderRebuildSummaryFile.label
 #: folderRebuildSummaryFile.accesskey
 msgid "&Rebuild Index"
-msgstr ""
+msgstr "&Преправи индекс"
 
 #: folderRebuildSummaryFileTip.label
 msgid "Rebuild Summary File"
-msgstr ""
+msgstr "Преправи датотеку са сажецима"
 
 #: retention.label
 msgid "Retention Policy"
-msgstr ""
+msgstr "Полиса чувања порука"
 
 #: retentionUseDefault.label
 #: retentionUseDefault.accesskey
 msgid "Use server &defaults"
-msgstr ""
+msgstr "Користи изворна &подешавања"
 
 #: days.label
 msgid "days"
@@ -112,7 +111,7 @@ msgstr "дана"
 
 #: daysOld.label
 msgid "days old"
-msgstr "старо (дани)"
+msgstr "дана старе"
 
 #: message.label
 msgid "messages"
@@ -120,27 +119,27 @@ msgstr "поруке"
 
 #: retentionCleanup.label
 msgid "To recover disk space, old messages can be permanently deleted"
-msgstr ""
+msgstr "Простор на диску се може ослободити брисањем старих порука"
 
 #: retentionKeepMsg.label
 #: retentionKeepMsg.accesskey
 msgid "Delete &messages more than"
-msgstr ""
+msgstr "&Уклони поруке више од"
 
 #: retentionKeepAll.label
 #: retentionKeepAll.accesskey
 msgid "Don't delete &any messages"
-msgstr ""
+msgstr "Не уклањај ни&једну поруку"
 
 #: retentionKeepNew.label
 #: retentionKeepNew.accesskey
 msgid "De&lete all but the last"
-msgstr ""
+msgstr "Уклони све осим последњих оволико порука"
 
 #: retentionKeepUnread.label
 #: retentionKeepUnread.accesskey
 msgid "Always delete &read messages"
-msgstr ""
+msgstr "Увек уклони про&читане поруке"
 
 #: folderOfflineTab.label
 msgid "Offline"
@@ -149,12 +148,12 @@ msgstr "Неповезан рад"
 #: folderCheckForNewMessages.label
 #: folderCheckForNewMessages.accesskey
 msgid "&Check this folder for new messages"
-msgstr ""
+msgstr "&Провери овај директоријум на нове поруке"
 
 #: offlineFolder.check.label
 #: offlineFolder.check.accesskey
 msgid "&Select this folder for offline use"
-msgstr ""
+msgstr "&Изабери овај директоријум за рад ван мреже"
 
 #: offlineFolder.button.label
 #: offlineFolder.button.accesskey
@@ -166,7 +165,7 @@ msgstr "&Преузми одмах"
 #: selectofflineNewsgroup.check.label
 #: selectofflineNewsgroup.check.accesskey
 msgid "Select this newsgr&oup for offline use"
-msgstr ""
+msgstr "Изабери ову групу за рад ван мреже"
 
 #: UseDefaultofflineNewsgroup.check.label
 msgid "Use the default from account settings "
@@ -183,7 +182,7 @@ msgstr "&Име:"
 
 #: folderSharingTab.label
 msgid "Sharing"
-msgstr ""
+msgstr "Дељење"
 
 #: privilegesDesc.label
 msgid "Share this and other folders with network users and display and set access privileges"
@@ -192,7 +191,7 @@ msgstr "Дели овај и друге директоријуме са мреж
 #: privileges.button.label
 #: privileges.button.accesskey
 msgid "&Privileges..."
-msgstr ""
+msgstr "&Овлашћења..."
 
 #: permissionsDesc.label
 msgid "You have the following permissions:"
@@ -204,7 +203,7 @@ msgstr "Врста директоријума:"
 
 #: folderQuotaTab.label
 msgid "Quota"
-msgstr ""
+msgstr "Квота"
 
 #: folderQuotaRoot.label
 msgid "Quota Root:"

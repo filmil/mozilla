@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 02:20+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,39 +17,39 @@ msgstr ""
 
 #: startpage.welcome
 msgid "Welcome to &brandFullName;!"
-msgstr ""
+msgstr "Добро дошли у програм &brandFullName;!"
 
 #: startpage.intro
 msgid "&brandFullName; is a powerful, open-source mail and news client."
-msgstr ""
+msgstr "Програм &brandFullName; је моћан клијент отвореног кода за пошту и вести."
 
 #: startpage.features
 msgid "Features"
-msgstr ""
+msgstr "Могућности"
 
 #: startpage.junkControl
 msgid "Adaptive Junk Mail Controls"
-msgstr ""
+msgstr "Прилагодљиво управљање нежељеном поштом"
 
 #: startpage.rssReader
 msgid "RSS Reader"
-msgstr ""
+msgstr "Читач RSS довода"
 
 #: startpage.globalInbox
 msgid "Global Inbox Support"
-msgstr ""
+msgstr "Подршка за глобалну доспелу пошту"
 
 #: startpage.searchFolders
 msgid "Saved Search Folders"
-msgstr ""
+msgstr "Чување директоријума са претрагом"
 
 #: startpage.messageGroups
 msgid "Message Grouping"
-msgstr ""
+msgstr "Груписање порука"
 
 #: startpage.privacyProtect
 msgid "Privacy Protection"
-msgstr ""
+msgstr "Заштита приватности"
 
 #: startpage.junkControlURL
 msgid "http://www.mozilla.org/products/thunderbird/junkmail.html"
@@ -77,15 +77,15 @@ msgstr ""
 
 #: startpage.moreInfo
 msgid "More Information"
-msgstr ""
+msgstr "Више података"
 
 #: startpage.help
 msgid "Thunderbird Help"
-msgstr ""
+msgstr "Помоћ за Thunderbird"
 
 #: startpage.helpInfo
 msgid "For frequently asked questions, tips and general help, visit"
-msgstr ""
+msgstr "За често постављања питања, савете и помоћ уопште, посетите"
 
 #: startpage.helpURL
 msgid "http://www.mozilla.org/support/thunderbird/"
@@ -93,11 +93,11 @@ msgstr "http://www.mozilla.org/support/thunderbird/"
 
 #: startpage.page
 msgid "Thunderbird Product Page"
-msgstr ""
+msgstr "Страница програма Thunderbird"
 
 #: startpage.pageInfo
 msgid "For product information, visit the"
-msgstr ""
+msgstr "За податке о производу посетите"
 
 #: startpage.pageURL
 msgid "http://www.mozilla.org/products/thunderbird/"
@@ -111,4 +111,4 @@ msgstr ""
 
 #: startpage.poweredByGecko
 msgid "Powered by Gecko."
-msgstr ""
+msgstr "Покреће нас Gecko."

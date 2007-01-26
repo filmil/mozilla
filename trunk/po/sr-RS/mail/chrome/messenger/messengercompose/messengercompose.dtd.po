@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/messengercompose/messengercompose.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 01:07+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,11 +38,11 @@ msgstr "&Порука"
 
 #: newMessage.key
 msgid "M"
-msgstr "П"
+msgstr ""
 
 #: newMessageCmd2.key
 msgid "N"
-msgstr "Н"
+msgstr ""
 
 #: newCard.label
 #: newCard.accesskey
@@ -69,7 +68,7 @@ msgstr "&Веб страну..."
 #: attachVCardCmd.label
 #: attachVCardCmd.accesskey
 msgid "&Personal Card (vCard)"
-msgstr "&Визиткарта (vCard)"
+msgstr "&Визиткарту (vCard)"
 
 # unix
 # LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey
@@ -80,7 +79,7 @@ msgstr "&Затвори"
 
 #: closeCmd.key
 msgid "W"
-msgstr "З"
+msgstr ""
 
 #: saveCmd.label
 #: saveCmd.accesskey
@@ -90,7 +89,7 @@ msgstr "&Сачувај"
 #: saveCmd.key
 #: accountManagerCmdUnix.accesskey
 msgid "S"
-msgstr "з"
+msgstr ""
 
 #: saveAsCmd.label
 #: saveAsCmd.accesskey
@@ -139,7 +138,7 @@ msgstr "&Штампа"
 
 #: printCmd.key
 msgid "P"
-msgstr "Ш"
+msgstr ""
 
 #: quitApplicationCmdWin.label
 #: quitApplicationCmdWin.accesskey
@@ -153,7 +152,7 @@ msgstr "&Крај"
 
 #: quitApplicationCmd.key
 msgid "Q"
-msgstr "К"
+msgstr ""
 
 # Edit Menu
 #: editMenu.label
@@ -170,7 +169,7 @@ msgstr "&Опозови"
 
 #: undoCmd.key
 msgid "Z"
-msgstr "О"
+msgstr ""
 
 #: redoCmd.label
 #: redoCmd.accesskey
@@ -179,7 +178,7 @@ msgstr "&Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr "Д"
+msgstr ""
 
 #: cutCmd.label
 #: cutCmd.accesskey
@@ -190,7 +189,7 @@ msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr "с"
+msgstr ""
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -201,7 +200,7 @@ msgstr "Умн&ожи"
 
 #: copyCmd.key
 msgid "C"
-msgstr "У"
+msgstr ""
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
@@ -212,23 +211,23 @@ msgstr "У&баци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr "Н"
+msgstr ""
 
 #: editRewrapCmd.label
 #: editRewrapCmd.accesskey
 msgid "Re&wrap"
-msgstr "&Спакуј"
+msgstr "&Препакуј"
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
 #: delete.label
 #: delete.accesskey
 msgid "&Delete"
-msgstr "&Обриши"
+msgstr "&Уклони"
 
 #: deleteCmd.key
 msgid "D"
-msgstr "б"
+msgstr ""
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
@@ -239,7 +238,7 @@ msgstr "Изабери &све"
 
 #: selectAllCmd.key
 msgid "A"
-msgstr "П"
+msgstr ""
 
 #: findCmd.label
 #: findCmd.accesskey
@@ -248,7 +247,7 @@ msgstr "&Нађи и замени..."
 
 #: findCmd.key
 msgid "F"
-msgstr "F"
+msgstr ""
 
 #: findAgainCmd.label
 #: findAgainCmd.accesskey
@@ -258,7 +257,7 @@ msgstr "На&ђи поново"
 #: findAgainCmd.key
 #: findPrevCmd.key
 msgid "G"
-msgstr "Г"
+msgstr ""
 
 #: findAgainCmd.key2
 #: findPrevCmd.key2
@@ -321,11 +320,11 @@ msgstr "&Опције"
 #: checkSpellingCmd.label
 #: checkSpellingCmd.accesskey
 msgid "C&heck Spelling..."
-msgstr ""
+msgstr "Провера право&писа..."
 
 #: checkSpellingCmd.key
 msgid "K"
-msgstr "П"
+msgstr ""
 
 #: checkSpellingCmd.key2
 msgid "VK_F7"
@@ -334,7 +333,7 @@ msgstr "VK_F7"
 #: enableInlineSpellChecker.label
 #: enableInlineSpellChecker.accesskey
 msgid "&Spell Check As You Type"
-msgstr ""
+msgstr "&Провера правописа док куцате"
 
 #: quoteCmd.label
 #: quoteCmd.accesskey
@@ -456,7 +455,7 @@ msgstr "&Подешавања..."
 
 #: preferencesCmd.key
 msgid "O"
-msgstr "О"
+msgstr ""
 
 #: preferencesCmdUnix.label
 #: preferencesCmdUnix.accesskey
@@ -466,7 +465,7 @@ msgstr "Поста&вке"
 # Mac OS X Window Menu
 #: minimizeWindow.key
 msgid "m"
-msgstr "m"
+msgstr ""
 
 #: minimizeWindow.label
 msgid "Minimize"
@@ -522,7 +521,7 @@ msgstr "Цитирај"
 #: addressButton.label
 #: addressesSidebarTitle.label
 msgid "Contacts"
-msgstr ""
+msgstr "Контакти"
 
 #: attachButton.label
 msgid "Attach"
@@ -704,17 +703,17 @@ msgstr "Ћутолог"
 # Message Pane Context Menu
 #: spellCheckNoSuggestions.label
 msgid "No Suggestions Found"
-msgstr ""
+msgstr "Ниједан предлог није пронађен"
 
 #: spellCheckIgnoreWord.label
 #: spellCheckIgnoreWord.accesskey
 msgid "&Ignore Word"
-msgstr ""
+msgstr "&Занемари реч"
 
 #: spellCheckAddToDictionary.label
 #: spellCheckAddToDictionary.accesskey
 msgid "Add to Dictio&nary"
-msgstr ""
+msgstr "Додај у ре&чник"
 
 #: pasteQuote.label
 #: pasteQuote.accesskey

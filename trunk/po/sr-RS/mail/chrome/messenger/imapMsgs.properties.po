@@ -35,13 +35,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/chrome/messenger/imapMsgs.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-01-26 02:17+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -318,7 +317,7 @@ msgstr "Пријава на сервер %S није успела."
 # # @loc None
 #: 5036
 msgid "%S Downloading message header %lu of %lu"
-msgstr ""
+msgstr "Програм %S преузима заглавље поруке бр. %lu од %lu"
 
 ## @name IMAP_RECEIVING_MESSAGE_FLAGS_OF
 ## @loc None
@@ -329,7 +328,7 @@ msgstr ""
 # # @loc None
 #: 5037
 msgid "%S Downloading message flag %lu of %lu"
-msgstr ""
+msgstr "Програм %S прима означене поруке бр.  %lu од %lu"
 
 ## @name IMAP_DELETING_MESSAGES
 ## @loc None
@@ -406,7 +405,7 @@ msgstr "Отварање директоријума %S..."
 # # @loc None
 #: 5045
 msgid "%S - Downloading message %lu of %lu"
-msgstr ""
+msgstr "%S - Пријем поруке бр.  %lu од %lu"
 
 ## @name IMAP_DISCOVERING_MAILBOX 
 ## @loc None
@@ -732,7 +731,7 @@ msgstr "Да ли желите да се претплатите на %1$S?"
 # # @loc None
 #: 5093
 msgid "Unable to connect to your IMAP server. You may have exceeded the maximum number of connections to this server. If so, use the Advanced IMAP Server Settings dialog to reduce the number of cached connections."
-msgstr ""
+msgstr "Није могуће повезати се на IMAP сервер.  Можда сте премашили максималан број веза које овај сервер дозвољава.  Ако је тако, користите напредна подешавања за IMAP да смањите број чуваних веза."
 
 ## @name IMAP_QUOTA_STATUS_FOLDERNOTOPEN
 ## @loc None
@@ -790,7 +789,7 @@ msgstr "Не можете се пријавити на %S јер сте укљу
 # # @loc None
 #: 5103
 msgid "Copying Message %1$S of %2$S to %3$S"
-msgstr ""
+msgstr "Умножавање поруке бр. %1$S од %2$S у %3$S"
 
 ## @name IMAP_LOGIN_DISABLED
 ## @loc None
@@ -798,4 +797,4 @@ msgstr ""
 # # @loc None
 #: 5104
 msgid "You cannot log in to %S because the server has disabled login. You may need to connect via SSL or TLS. Please check the account settings for your mail server."
-msgstr ""
+msgstr "Не можете да се пријавите на %S јер је на серверу забрањено пријављивање.  Можда морате да се повежете помоћу SSL или ТЛС.  Молимо да проверите подешавања налога за Ваш сервер за пошту."

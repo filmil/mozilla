@@ -228,23 +228,25 @@ po/sr-RS/mail/chrome/communicator/utilityOverlay.properties.po:
 po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/smime.properties.po: 
-4 преведене поруке.
+2 преведене поруке, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/mailOverlay.dtd.po: 
 25 преведених порука.
 po/sr-RS/mail/chrome/messenger/mimeheader.properties.po: 
-54 преведене поруке, 1 непреведена порука.
+55 преведених порука.
 po/sr-RS/mail/chrome/messenger/AccountWizard.dtd.po: 
-16 преведених порука, 1 непреведена порука.
+17 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-server-advanced.dtd.po: 
-142 преведене поруке, 53 непреведене поруке.
+msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/.#am-serverwithnoidentities.dtd.po“ за читање: No such file or directory
+po/sr-RS/mail/chrome/messenger/.#am-serverwithnoidentities.dtd.po: 
+192 преведене поруке, 3 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/messenger.properties.po: 
 10 преведених порука.
 po/sr-RS/mail/chrome/messenger/oeImportMsgs.properties.po: 
 5 преведених порука.
 po/sr-RS/mail/chrome/messenger/comm4xMailImportMsgs.properties.po: 
-3 преведене поруке, 2 непреведене поруке.
+5 преведених порука.
 po/sr-RS/mail/chrome/messenger/viewLog.dtd.po: 
-48 преведених порука, 3 непреведене поруке.
+51 преведена порука.
 po/sr-RS/mail/chrome/messenger/am-server-top.dtd.po: 
 2 преведене поруке.
 po/sr-RS/mail/chrome/messenger/mailViewList.dtd.po: 
@@ -256,9 +258,9 @@ po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:
 po/sr-RS/mail/chrome/messenger/renameFolderDialog.dtd.po: 
 7 преведених порука.
 po/sr-RS/mail/chrome/messenger/newFolderDialog.dtd.po: 
-20 преведених порука, 5 непреведених порука.
+25 преведених порука.
 po/sr-RS/mail/chrome/messenger/msgHdrViewOverlay.dtd.po: 
-32 преведене поруке, 4 непреведене поруке.
+36 преведених порука.
 po/sr-RS/mail/chrome/messenger/threadpane.dtd.po: 
 2 преведене поруке.
 po/sr-RS/mail/chrome/messenger/custom.properties.po: 
@@ -272,31 +274,31 @@ po/sr-RS/mail/chrome/messenger/textImportMsgs.properties.po:
 po/sr-RS/mail/chrome/messenger/virtualFolderProperties.dtd.po: 
 4 преведене поруке.
 po/sr-RS/mail/chrome/messenger/msgViewPickerOverlay.dtd.po: 
-4 преведене поруке, 7 непреведених порука.
+11 преведених порука.
 po/sr-RS/mail/chrome/messenger/offline.properties.po: 
 6 преведених порука, 3 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/AccountManager.dtd.po: 
-15 преведених порука, 2 непреведене поруке.
+17 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-main.dtd.po: 
 21 преведена порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/importDialog.dtd.po: 
 6 преведених порука.
 po/sr-RS/mail/chrome/messenger/messengercompose/addressingWidgetOverlay.dtd.po: 
-144 преведене поруке, 7 непреведених порука.
+132 преведене поруке, 19 непреведених порука.
 po/sr-RS/mail/chrome/messenger/messengercompose/messengercompose.dtd.po: 
 17 преведених порука, 1 непреведена порука.
 po/sr-RS/mail/chrome/messenger/messengercompose/askSendFormat.dtd.po: 
-0 преведених порука, 2 непреведене поруке.
+2 преведене поруке.
 po/sr-RS/mail/chrome/messenger/messengercompose/mailComposeEditorOverlay.dtd.po: 
 8 преведених порука.
 po/sr-RS/mail/chrome/messenger/messengercompose/sendProgress.dtd.po: 
-92 преведене поруке, 10 непреведених порука.
+102 преведене поруке.
 po/sr-RS/mail/chrome/messenger/messengercompose/composeMsgs.properties.po: 
 5 преведених порука.
 po/sr-RS/mail/chrome/messenger/aboutDialog.dtd.po: 
-0 преведених порука, 4 непреведене поруке.
+4 преведене поруке.
 po/sr-RS/mail/chrome/messenger/downloadheaders.dtd.po: 
-4 преведене поруке, 1 непреведена порука.
+5 преведених порука.
 po/sr-RS/mail/chrome/messenger/searchTermOverlay.dtd.po: 
 8 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-serverwithnoidentities.dtd.po: 
@@ -308,9 +310,9 @@ po/sr-RS/mail/chrome/messenger/msgmdn.properties.po:
 po/sr-RS/mail/chrome/messenger/am-identity-edit.dtd.po: 
 5 преведених порука.
 po/sr-RS/mail/chrome/messenger/folderpane.dtd.po: 
-8 преведених порука, 1 непреведена порука.
+9 преведених порука.
 po/sr-RS/mail/chrome/messenger/msgFolderPickerOverlay.dtd.po: 
-285 преведених порука, 57 непреведених порука.
+333 преведене поруке, 9 непреведених порука.
 po/sr-RS/mail/chrome/messenger/messenger.dtd.po: 
 18 преведених порука.
 po/sr-RS/mail/chrome/messenger/FilterListDialog.dtd.po: 
@@ -320,19 +322,19 @@ po/sr-RS/mail/chrome/messenger/msgSynchronize.dtd.po:
 po/sr-RS/mail/chrome/messenger/eudoraImportMsgs.properties.po: 
 3 преведене поруке.
 po/sr-RS/mail/chrome/messenger/markByDate.dtd.po: 
-15 преведених порука, 18 непреведених порука.
+33 преведене поруке.
 po/sr-RS/mail/chrome/messenger/folderProps.dtd.po: 
 16 преведених порука.
 po/sr-RS/mail/chrome/messenger/msgAccountCentral.dtd.po: 
-12 преведених порука, 2 непреведене поруке.
+14 преведених порука.
 po/sr-RS/mail/chrome/messenger/smtpEditOverlay.dtd.po: 
 16 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-mdn.dtd.po: 
 7 преведених порука.
 po/sr-RS/mail/chrome/messenger/junkMailInfo.dtd.po: 
-79 преведених порука, 7 непреведених порука.
+85 преведених порука, 1 непреведена порука.
 po/sr-RS/mail/chrome/messenger/imapMsgs.properties.po: 
-1 преведена порука, 23 непреведене поруке.
+16 преведених порука, 8 непреведених порука.
 po/sr-RS/mail/chrome/messenger/start.dtd.po: 
 14 преведених порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/fieldMapImport.dtd.po: 
