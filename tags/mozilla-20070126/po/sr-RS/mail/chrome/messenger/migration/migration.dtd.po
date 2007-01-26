@@ -1,0 +1,110 @@
+# extracted from source/sr-RS/mail/chrome/messenger/migration/migration.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: migrationWizard.title
+msgid "Import Wizard"
+msgstr "Чаробњак за увоз"
+
+#: importFrom.label
+msgid "Import Options, Account Settings, Addressbook and other data from:"
+msgstr "Увези подешавања, везе, каталоге, лозинке и друге податке из:"
+
+#: importFromUnix.label
+msgid "Import Preferences, Account Settings, Addressbook and other data from:"
+msgstr "Увези подешавања, везе, каталоге, лозинке и друге податке из:"
+
+#: importFromNothing.label
+#: importFromNothing.accesskey
+msgid "&Don't import anything"
+msgstr "Не увози ништа"
+
+#: importFromSeamonkey.label
+#: importFromSeamonkey.accesskey
+msgid "&Netscape 6, 7 or Mozilla 1.x"
+msgstr "Netsc&ape 6, 7 или Mozilla 1.x"
+
+#: importFromNetscape4.label
+#: importFromNetscape4.accesskey
+msgid "Netscape &4.x"
+msgstr "Netscape &4.x"
+
+#
+# The following are used by the outlook express import code to display status/error
+# and informational messages
+# Short name of import module
+# # @name OEIMPORT_NAME
+# # @loc None
+# # LOCALIZATION NOTE (2000): DONT_TRANSLATE
+#: importFromOExpress.label
+#: importFromOExpress.accesskey
+#, fuzzy
+msgid "O&utlook Express"
+msgstr "п"
+
+#: importFromOutlook.label
+#: importFromOutlook.accesskey
+#, fuzzy
+msgid "&Outlook"
+msgstr "О"
+
+#
+# The following are used by the outlook express import code to display status/error
+# and informational messages
+# Short name of import module
+# # @name EUDORAIMPORT_NAME
+# # @loc None
+#: importFromEudora.label
+#: importFromEudora.accesskey
+#, fuzzy
+msgid "&Eudora"
+msgstr "E"
+
+#: importSource.title
+msgid "Import Settings and Mail Folders From"
+msgstr "Увези подешавања и податке из"
+
+#: importItems.title
+msgid "Items to Import"
+msgstr "Објекти за увоз"
+
+#: importItems.label
+msgid "Select which items to import:"
+msgstr "Изаберите објекте за увоз:"
+
+#: migrating.title
+msgid "Importing..."
+msgstr "Увозим..."
+
+#: migrating.label
+msgid "The following items are currently being imported..."
+msgstr "Наредни објекти биће увезени за одређено време..."
+
+#: selectProfile.title
+msgid "Select Profile"
+msgstr "Избор профила"
+
+#: selectProfile.label
+msgid "The following profiles are available to import from:"
+msgstr "Можете увести из следећих профила:"
+
+#: done.title
+msgid "Import Complete"
+msgstr "Увоз је завршен"
+
+#: done.label
+msgid "The following items were successfully imported:"
+msgstr "Следеће ставке су успешно увежене:"

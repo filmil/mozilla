@@ -1,0 +1,28 @@
+# extracted from source/sr-RS/toolkit/chrome/global/mozilla.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-24 23:11+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: mozilla.quote
+msgid "And so at last the beast <em class=\"f\">fell</em> and the unbelievers rejoiced. "
+"But all was not lost, for from the ash rose a <em>great bird</em>. "
+"The bird gazed down upon the unbelievers and cast <em class=\"f\">fire</em> "
+"and <em>thunder</em> upon them. For the beast had been "
+"<em>reborn</em> with its strength <em>renewed</em>, and the "
+"followers of <em>Mammon</em> cowered in horror."
+msgstr "Онда напокон звијер <em class=\"f\">паде</em> те се невјерници радоваху. Али све не бјеше изгубљено, јер из пепела се <em>велика птица</em> уздигну. Птица гледаше доле на невјернике те на њих баци <em class=\"f\">огањ</em> и  <em>муњу</em>. Јер звијер бјеше <em>васкрснута</em> са снагом <em>зановљеном</em>, те слиједбеници <em>Мамонови</em> дрхташе у страху."
+
+#: mozilla.from
+msgid "from <strong>The Book of Mozilla,</strong> 7:15"
+msgstr "из <strong>Књиге Мозилине,</strong> 7:15"

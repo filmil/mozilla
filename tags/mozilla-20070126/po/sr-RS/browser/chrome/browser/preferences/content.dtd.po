@@ -1,0 +1,128 @@
+# extracted from source/sr-RS/browser/chrome/browser/preferences/content.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# Format Toolbar, imported from editorAppShell.xul
+# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
+#: blockPopups.label
+#: blockPopups.accesskey
+#, fuzzy
+msgid "&Block pop-up windows"
+msgstr "B"
+
+#: popupExceptions.label
+#: popupExceptions.accesskey
+#, fuzzy
+msgid "&Exceptions..."
+msgstr "E"
+
+#: loadImages.label
+#: loadImages.accesskey
+#, fuzzy
+msgid "Load &images automatically"
+msgstr "I"
+
+#: exceptions.label
+#: exceptions.accesskey
+msgid "E&xceptions..."
+msgstr "&Изузетци"
+
+#: enableJavaScript.label
+#: enableJavaScript.accesskey
+msgid "Enable &JavaScript"
+msgstr "Омогући Java&Script"
+
+#: advancedJS.label
+#: advancedJS.accesskey
+msgid "Ad&vanced..."
+msgstr "&Напредно..."
+
+#: enableJava.label
+#: enableJava.accesskey
+#, fuzzy
+msgid "E&nable Java"
+msgstr "н"
+
+#: fontsAndColors.label
+msgid "Fonts &amp; Colors"
+msgstr ""
+
+#: defaultFont.label
+#: defaultFont.accesskey
+msgid "&Default font:"
+msgstr "Текући &фонт:"
+
+#: defaultSize.label
+#: defaultSize.accesskey
+#, fuzzy
+msgid "S&ize:"
+msgstr "i"
+
+#: advancedFonts.label
+#: advancedFonts.accesskey
+msgid "A&dvanced..."
+msgstr "На&предно..."
+
+#: colors.label
+#: colors.accesskey
+msgid "&Colors..."
+msgstr "&Боје..."
+
+#: feeds.label
+msgid "Feeds"
+msgstr ""
+
+#: feedReader.label
+#: feedReader.accesskey
+#, fuzzy
+msgid "&Feed Reader:"
+msgstr "F"
+
+#: feedClick.label
+msgid "When I click on a web feed:"
+msgstr ""
+
+#: ask.label
+#: ask.accesskey
+#, fuzzy
+msgid "&Ask me what to use"
+msgstr "П"
+
+#: subLiveBookmark.label
+#: subLiveBookmark.accesskey
+#, fuzzy
+msgid "Always subscribe with a &Live Bookmark"
+msgstr "L"
+
+#: subReader.label
+#: subReader.accesskey
+#, fuzzy
+msgid "Always subscribe using the Feed &Reader"
+msgstr "З"
+
+#: fileTypes.label
+msgid "File Types"
+msgstr "Врсте датотека"
+
+#: configureFileTypes.label
+msgid "Configure how &brandShortName; handles certain types of files"
+msgstr ""
+
+#: manage.label
+#: manage.accesskey
+#, fuzzy
+msgid "&Manage..."
+msgstr "П"

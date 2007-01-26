@@ -1,0 +1,260 @@
+# extracted from source/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# 
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+# 
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+# 
+# The Original Code is Mozilla Communicator client code, released
+# March 31, 1998.
+# 
+# The Initial Developer of the Original Code is
+# Netscape Communications Corporation.
+# Portions created by the Initial Developer are Copyright (C) 1998-1999
+# the Initial Developer. All Rights Reserved.
+# 
+# Contributor(s):
+# 
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+# 
+# ***** END LICENSE BLOCK *****
+# Labels
+#: chooseAddressBook.label
+#: chooseAddressBook.accesskey
+msgid "&Add to: "
+msgstr "&Додај у:"
+
+# Contact Tab
+#: Contact.tab
+msgid "Contact"
+msgstr "Контакт"
+
+#: Name.box
+msgid "Name"
+msgstr "Име"
+
+#: NameField1.label
+#: NameField1.accesskey
+msgid "&First:"
+msgstr "&Име:"
+
+#: NameField2.label
+#: NameField2.accesskey
+msgid "&Last:"
+msgstr "&Презиме:"
+
+#: PhoneticField1.label
+#: PhoneticField2.label
+msgid "Phonetic:"
+msgstr ""
+
+#: DisplayName.label
+#: DisplayName.accesskey
+msgid "&Display:"
+msgstr "&Приказано:"
+
+#: NickName.label
+#: NickName.accesskey
+msgid "&Nickname:"
+msgstr "&Надимак:"
+
+#: Internet.box
+msgid "Internet"
+msgstr "Интернет"
+
+#: PrimaryEmail.label
+#: PrimaryEmail.accesskey
+msgid "&Email:"
+msgstr "&Ел. пошта:"
+
+#: SecondEmail.label
+#: SecondEmail.accesskey
+msgid "Additi&onal Email:"
+msgstr "&Додатна ел. пошта:"
+
+#: PreferMailFormat.label
+#: PreferMailFormat.accesskey
+msgid "P&refers to receive messages formatted as:"
+msgstr "&Жели да прима поруке форматиране као:"
+
+#: PlainText.label
+msgid "Plain Text"
+msgstr "Обичан текст"
+
+#: HTML.label
+msgid "HTML"
+msgstr "HTML"
+
+# # @name IMAP_UNKNOWN_USER
+# # @loc None
+#: Unknown.label
+msgid "Unknown"
+msgstr "Непознато"
+
+#: ScreenName.label
+#: ScreenName.accesskey
+msgid "&Screen Name:"
+msgstr "&Екранско име:"
+
+#: allowRemoteContent.label
+#: allowRemoteContent.accesskey
+msgid "Allow remote ima&ges in HTML mail."
+msgstr ""
+
+#: Phones.box
+msgid "Phones"
+msgstr "Телефони"
+
+#: WorkPhone.label
+#: WorkPhone.accesskey
+msgid "&Work:"
+msgstr "&Посао:"
+
+#: HomePhone.label
+#: HomePhone.accesskey
+msgid "&Home:"
+msgstr "&Кућа:"
+
+#: FaxNumber.label
+#: FaxNumber.accesskey
+msgid "Fa&x:"
+msgstr "&Факс:"
+
+#: PagerNumber.label
+#: PagerNumber.accesskey
+msgid "&Pager:"
+msgstr "&Пејџер:"
+
+#: CellularNumber.label
+#: CellularNumber.accesskey
+msgid "&Mobile:"
+msgstr "&Мобилни:"
+
+# Address Tab
+#: Address.tab
+msgid "Address"
+msgstr "Адреса"
+
+#: Home.box
+msgid "Home"
+msgstr "Кућа"
+
+#: HomeAddress.label
+#: WorkAddress.label
+msgid "Address:"
+msgstr ""
+
+#: HomeAddress2.label
+msgid ""
+"_: HomeAddress2.label\n"
+""
+msgstr ""
+
+#: HomeCity.label
+#: WorkCity.label
+msgid "City:"
+msgstr ""
+
+#: HomeState.label
+#: WorkState.label
+msgid "State/Province:"
+msgstr ""
+
+#: HomeZipCode.label
+#: WorkZipCode.label
+msgid "ZIP/Postal Code:"
+msgstr ""
+
+#: HomeCountry.label
+#: WorkCountry.label
+msgid "Country:"
+msgstr ""
+
+#: HomeWebPage.label
+#: WorkWebPage.label
+msgid "Web Page:"
+msgstr ""
+
+#: Work.box
+msgid "Work"
+msgstr "Посао"
+
+#: JobTitle.label
+msgid "Title:"
+msgstr "Титула:"
+
+#: Department.label
+msgid "Department:"
+msgstr "Одељење:"
+
+#: Company.label
+msgid "Organization:"
+msgstr "Организација:"
+
+#: WorkAddress2.label
+msgid ""
+"_: WorkAddress2.label\n"
+""
+msgstr ""
+
+# Other Tab
+#: Other.tab
+msgid "Other"
+msgstr "Остало"
+
+#: Custom1.label
+#: Custom1.accesskey
+msgid "Custom &1:"
+msgstr "Произвољно &1:"
+
+#: Custom2.label
+#: Custom2.accesskey
+msgid "Custom &2:"
+msgstr "Произвољно &2:"
+
+#: Custom3.label
+#: Custom3.accesskey
+msgid "Custom &3:"
+msgstr "Произвољно &3:"
+
+#: Custom4.label
+#: Custom4.accesskey
+msgid "Custom &4:"
+msgstr "Произвољно &4:"
+
+#: Notes.box
+msgid "Notes"
+msgstr "Белешке"

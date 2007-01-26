@@ -1,0 +1,33 @@
+# extracted from source/sr-RS/mail/chrome/messenger/mailOverlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-26 00:53+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: newMessageCmd2.key
+msgid "N"
+msgstr ""
+
+#: newMessageCmd.key
+msgid "M"
+msgstr ""
+
+#: newMessageCmd.label
+#: newMessageCmd.accesskey
+msgid "&Message"
+msgstr "&Порука"
+
+#: newCardCmd.label
+#: newCardCmd.accesskey
+msgid "Address Book &Card..."
+msgstr "Кар&тица у адресару..."

@@ -1,0 +1,45 @@
+# extracted from source/sr-RS/mail/chrome/messenger/searchTermOverlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-26 02:00+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: matchAll.label
+#: matchAll.accesskey
+msgid "M&atch all of the following"
+msgstr "&Уклопи све наведено"
+
+#: matchAny.label
+#: matchAny.accesskey
+msgid "Match any &of the following"
+msgstr "Уклопи &било шта наведено"
+
+#: matchAllMsgs.label
+#: matchAllMsgs.accesskey
+msgid "&Match all messages"
+msgstr "&Уклопи све поруке"
+
+# LOCALIZATION NOTE
+# The values below are used to control the widths of the search widgets.
+# Change the values only when the localized strings in the popup menus
+# are truncated in the widgets.
+# 
+#: searchTermListAttributesFlexValue
+#: searchTermListOperatorsFlexValue
+#: searchTermListValueFlexValue
+msgid "5"
+msgstr "5"
+
+#: searchTermListButtonsFlexValue
+msgid "2"
+msgstr "2"

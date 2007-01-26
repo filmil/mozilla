@@ -1,0 +1,178 @@
+# extracted from source/sr-RS/mail/chrome/messenger/FilterEditor.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: window.title
+msgid "Filter Rules"
+msgstr "Обрасци за филтрирање"
+
+#: subject.label
+msgid "subject"
+msgstr "тема"
+
+#: sender.label
+msgid "sender"
+msgstr "пошиљалац"
+
+#: date.label
+msgid "date"
+msgstr "датум"
+
+#: anyText.label
+msgid "any text"
+msgstr "текст"
+
+#: keyword.label
+msgid "keyword"
+msgstr "кључна реч"
+
+#: age.label
+msgid "age in days"
+msgstr "старост у данима"
+
+#: to.label
+msgid "to"
+msgstr "за"
+
+#: status.label
+msgid "status"
+msgstr "статус"
+
+#: priority.label
+msgid "priority"
+msgstr "приоритет"
+
+#: body.label
+msgid "body"
+msgstr "тело"
+
+#: contains.label
+msgid "contains"
+msgstr "садржи"
+
+#: nocontains.label
+msgid "doesn't contain"
+msgstr "не садржи"
+
+#: filterName.label
+#: filterName.accesskey
+msgid "F&ilter name:"
+msgstr "Име &филтера"
+
+#: junk.label
+msgid "Junk"
+msgstr "Отпад"
+
+#: notJunk.label
+msgid "Not Junk"
+msgstr "Није отпад"
+
+# "Normal" priority is often blank,
+# depending on the consumers of these strings
+#: lowestPriorityCmd.label
+msgid "Lowest"
+msgstr "Најнижи"
+
+#: lowPriorityCmd.label
+msgid "Low"
+msgstr "Низак"
+
+#: normalPriorityCmd.label
+msgid "Normal"
+msgstr "Нормалан"
+
+#: highPriorityCmd.label
+msgid "High"
+msgstr "Висок"
+
+#: highestPriorityCmd.label
+msgid "Highest"
+msgstr "Највиши"
+
+#: conditionDesc.label
+msgid "For incoming messages that:"
+msgstr "За долазне поруке које:"
+
+#: filterActionDesc.label
+#: filterActionDesc.accesskey
+msgid "&Perform these actions:"
+msgstr "&Дејства:"
+
+#: newFolderButton.label
+#: newFolderButton.accesskey
+msgid "&New Folder..."
+msgstr "&Нови директоријум..."
+
+# New Style Filter Rule Actions
+#: moveMessage.label
+msgid "Move Message to"
+msgstr ""
+
+#: copyMessage.label
+msgid "Copy Message to"
+msgstr ""
+
+#: forwardTo.label
+msgid "Forward Message to"
+msgstr ""
+
+#: replyWithTemplate.label
+msgid "Reply with Template"
+msgstr ""
+
+#: markMessageRead.label
+msgid "Mark As Read"
+msgstr ""
+
+#: markMessageStarred.label
+msgid "Add Star"
+msgstr ""
+
+#: labelMessage.label
+msgid "Label Message As"
+msgstr ""
+
+#: setPriority.label
+msgid "Set Priority to"
+msgstr ""
+
+#: addTag.label
+msgid "Tag Message"
+msgstr ""
+
+#: setJunkScore.label
+msgid "Set Junk Status to"
+msgstr ""
+
+#: deleteMessage.label
+msgid "Delete Message"
+msgstr ""
+
+#: deleteFromPOP.label
+msgid "Delete From POP Server"
+msgstr ""
+
+#: fetchFromPOP.label
+msgid "Fetch From POP Server"
+msgstr ""
+
+#: ignoreThread.label
+msgid "Ignore Thread"
+msgstr ""
+
+#: watchThread.label
+msgid "Watch Thread"
+msgstr ""

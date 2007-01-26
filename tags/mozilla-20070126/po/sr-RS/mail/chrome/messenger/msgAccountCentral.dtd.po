@@ -1,0 +1,79 @@
+# extracted from source/sr-RS/mail/chrome/messenger/msgAccountCentral.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-26 02:14+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: emailSectionHdr.label
+msgid "Email"
+msgstr "Ел. пошта"
+
+#: readMsgsLink.label
+msgid "Read messages"
+msgstr "Читање порука"
+
+#: composeMsgLink.label
+msgid "Write a new message"
+msgstr "Писање нове поруке"
+
+#: newsSectionHdr.label
+msgid "Newsgroups"
+msgstr "Групе"
+
+#: subscribeNewsLink.label
+msgid "Manage newsgroup subscriptions"
+msgstr "Управљање претплатама на групе"
+
+#: accountsSectionHdr.label
+msgid "Accounts"
+msgstr "Налози"
+
+#: subscribeImapFolders.label
+msgid "Manage folder subscriptions"
+msgstr "Управљање претплатама на директоријуме"
+
+#: settingsLink.label
+msgid "View settings for this account"
+msgstr "Преглед поставки за овај налог"
+
+#: newAcctLink.label
+msgid "Create a new account"
+msgstr "Направи нови налог"
+
+#: advFeaturesSectionHdr.label
+msgid "Advanced Features"
+msgstr "Напредне особине"
+
+#: searchMsgsLink.label
+msgid "Search messages"
+msgstr "Претрага порука"
+
+#: filtersLink.label
+msgid "Manage message filters"
+msgstr "Уреди филтере за поруке"
+
+#: junkSettings.label
+msgid "Junk mail settings"
+msgstr "Подешавања отпадне поште"
+
+#: offlineLink.label
+msgid "Offline settings"
+msgstr "Подешавања за рад у локалу"
+
+#: rssSectionHdr.label
+msgid "RSS News &amp; Blogs"
+msgstr "RSS доводи и блогови"
+
+#: subscibeRSS.label
+msgid "Manage subscriptions"
+msgstr "Управљање претплатама"
