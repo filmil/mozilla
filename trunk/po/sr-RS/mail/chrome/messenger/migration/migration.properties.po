@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/migration/migration.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-12 01:19+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,12 +53,12 @@ msgstr "Подешавања"
 #: 2_oexpress
 #: 2_outlook
 msgid "Account Settings"
-msgstr "Колачићи"
+msgstr "Подешавања налога"
 
 #: 4_dogbert
 #: 4_seamonkey
 msgid "Address Books"
-msgstr "Историјат"
+msgstr "Адресари"
 
 #: 4_oexpress
 #: 4_outlook
@@ -69,7 +68,7 @@ msgstr "Адресар"
 #: 8_dogbert
 #: 8_seamonkey
 msgid "Junk Mail Training"
-msgstr "Сачувани формулари"
+msgstr "Обука разврстача поште"
 
 #: 16_dogbert
 #: 16_seamonkey
@@ -79,28 +78,28 @@ msgstr "Сачуване лозинке"
 #: 32_dogbert
 #: 32_seamonkey
 msgid "Other Data"
-msgstr "Омиљено"
+msgstr "Остали подаци"
 
 #: 64_dogbert
 #: 64_seamonkey
 msgid "Newsgroup Folders"
-msgstr "Остали подаци"
+msgstr "Фасцикле са групама"
 
 #: 128_dogbert
 #: 128_seamonkey
 #: 128_oexpress
 #: 128_outlook
 msgid "Mail Folders"
-msgstr ""
+msgstr "Фасцикле са поштом"
 
 # mailDirName needs to be set to the same value as in 4.x
 # see bug #55449
 #: mailDirName
 msgid "Mail"
-msgstr "Пошта"
+msgstr "Mail"
 
 # newsDirName needs to be set to the same value as in 4.x
 # see bug #55449
 #: newsDirName
 msgid "News"
-msgstr "Групе"
+msgstr "News"

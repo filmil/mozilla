@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/search-attributes.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-12 01:23+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +21,7 @@ msgstr "Тема"
 
 #: 1
 msgid "From"
-msgstr "За"
+msgstr "Шаље"
 
 #: 2
 msgid "Body"
@@ -44,7 +43,7 @@ msgstr "Статус"
 # The following are used by libmime for header display in XML & HTML
 #: 6
 msgid "To"
-msgstr "To"
+msgstr "Прима"
 
 #: 7
 msgid "Cc"
@@ -52,7 +51,7 @@ msgstr "Коп"
 
 #: 8
 msgid "To or cc"
-msgstr "За или коп"
+msgstr "Прима или коп"
 
 # 9-15, not visible
 #: 9
@@ -81,7 +80,7 @@ msgstr "Ма који текст"
 
 #: 15
 msgid "Tags"
-msgstr ""
+msgstr "Ознаке"
 
 # for AB and LDAP
 #: 16
@@ -166,7 +165,7 @@ msgstr "Одељење"
 #: 44
 #: 45
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 46
 msgid "Attachment Status"
@@ -182,4 +181,4 @@ msgstr "Ознака"
 
 #: 49
 msgid "Customize"
-msgstr ""
+msgstr "Произвољно"

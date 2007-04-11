@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/migration/migration.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-12 01:21+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,21 +20,21 @@ msgstr "Чаробњак за увоз"
 
 #: importFrom.label
 msgid "Import Options, Account Settings, Addressbook and other data from:"
-msgstr "Увези подешавања, везе, каталоге, лозинке и друге податке из:"
+msgstr "Увези подешавања, поставке налога, адресаре, и друге податке из:"
 
 #: importFromUnix.label
 msgid "Import Preferences, Account Settings, Addressbook and other data from:"
-msgstr "Увези подешавања, везе, каталоге, лозинке и друге податке из:"
+msgstr "Увези подешавања, поставке налога, адресар и друге податке из:"
 
 #: importFromNothing.label
 #: importFromNothing.accesskey
 msgid "&Don't import anything"
-msgstr "Не увози ништа"
+msgstr "&Не увози ништа"
 
 #: importFromSeamonkey.label
 #: importFromSeamonkey.accesskey
 msgid "&Netscape 6, 7 or Mozilla 1.x"
-msgstr "Netsc&ape 6, 7 или Mozilla 1.x"
+msgstr "Netscape &6, 7 или Mozilla 1.x"
 
 #: importFromNetscape4.label
 #: importFromNetscape4.accesskey
@@ -51,15 +50,13 @@ msgstr "Netscape &4.x"
 # # LOCALIZATION NOTE (2000): DONT_TRANSLATE
 #: importFromOExpress.label
 #: importFromOExpress.accesskey
-#, fuzzy
 msgid "O&utlook Express"
-msgstr "п"
+msgstr "&Аутлук Експрес"
 
 #: importFromOutlook.label
 #: importFromOutlook.accesskey
-#, fuzzy
 msgid "&Outlook"
-msgstr "О"
+msgstr "А&утлук"
 
 #
 # The following are used by the outlook express import code to display status/error
@@ -69,21 +66,20 @@ msgstr "О"
 # # @loc None
 #: importFromEudora.label
 #: importFromEudora.accesskey
-#, fuzzy
 msgid "&Eudora"
-msgstr "E"
+msgstr "&Еудора"
 
 #: importSource.title
 msgid "Import Settings and Mail Folders From"
-msgstr "Увези подешавања и податке из"
+msgstr "Увези подешавања и пошту из"
 
 #: importItems.title
 msgid "Items to Import"
-msgstr "Објекти за увоз"
+msgstr "Ставке за увоз"
 
 #: importItems.label
 msgid "Select which items to import:"
-msgstr "Изаберите објекте за увоз:"
+msgstr "Изаберите ставке за увоз:"
 
 #: migrating.title
 msgid "Importing..."
@@ -91,7 +87,7 @@ msgstr "Увозим..."
 
 #: migrating.label
 msgid "The following items are currently being imported..."
-msgstr "Наредни објекти биће увезени за одређено време..."
+msgstr "Увозе се наведене ставке..."
 
 #: selectProfile.title
 msgid "Select Profile"
@@ -107,4 +103,4 @@ msgstr "Увоз је завршен"
 
 #: done.label
 msgid "The following items were successfully imported:"
-msgstr "Следеће ставке су успешно увежене:"
+msgstr "Следеће ставке су успешно увезене:"
