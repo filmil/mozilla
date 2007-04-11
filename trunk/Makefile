@@ -1,4 +1,14 @@
-## Датотека за прављење важних ствари за локализацију
+## Датотека за прављење пакета за локализацију
+########################################################################
+## 
+## Овај скрипт садржи упутства за:
+##
+## 1. Увоз датотека за превођење из Мозилиног складишта и конверзију у
+##    ПО формат;
+## 2. Спајање нових датотека са старим и производњу дограђених
+##    датотека са преводима
+## 3. Конверзију превода у формат прихватљив за Мозилу
+##
 
 include Makefile.inc
 
@@ -20,10 +30,11 @@ $(OUTPUT_DIR):
 $(ZIPNAME): $(OUTPUT_DIR)
 	( $(CD) $(OUTPUT_DIR) ; $(ZIP)  -r ../$(ZIPNAME) sr )
 
-#  Split the final archive into multiple parts
+# Деоба завршне архиве на делове који могу да се поставе у Багзилу (Bugzilla)
 split: $(ZIPNAME)
 	split -b 290k $(ZIPNAME) $(ZIPNAME)-
-
+	@echo Produced files:
+	@ls $(ZIPNAME)-*
 
 # Прављење образаца за пренос
 pot: cleanpot
@@ -73,4 +84,3 @@ check:
 	@find po/source ! -wholename '*\.svn*' | wc -l
 	@echo Files in $(PO_TRANSLATIONS)/
 	@find $(PO_TRANSLATIONS) ! -wholename '*\.svn*' | wc -l
-

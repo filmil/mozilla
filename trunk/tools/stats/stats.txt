@@ -236,8 +236,6 @@ po/sr-RS/mail/chrome/messenger/mimeheader.properties.po:
 po/sr-RS/mail/chrome/messenger/AccountWizard.dtd.po: 
 17 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-server-advanced.dtd.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/.#am-serverwithnoidentities.dtd.po“ за читање: No such file or directory
-po/sr-RS/mail/chrome/messenger/.#am-serverwithnoidentities.dtd.po: 
 192 преведене поруке, 3 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/messenger.properties.po: 
 10 преведених порука.
@@ -336,13 +334,13 @@ po/sr-RS/mail/chrome/messenger/junkMailInfo.dtd.po:
 po/sr-RS/mail/chrome/messenger/imapMsgs.properties.po: 
 16 преведених порука, 8 непреведених порука.
 po/sr-RS/mail/chrome/messenger/start.dtd.po: 
-14 преведених порука, 2 непреведене поруке.
+15 преведених порука, 1 непреведена порука.
 po/sr-RS/mail/chrome/messenger/fieldMapImport.dtd.po: 
-1 преведена порука, 5 непреведених порука.
+6 преведених порука.
 po/sr-RS/mail/chrome/messenger/defaultClientDialog.dtd.po: 
 17 преведених порука, 21 непреведена порука.
 po/sr-RS/mail/chrome/messenger/filter.properties.po: 
-44 преведене поруке, 2 непреведене поруке.
+46 преведених порука.
 po/sr-RS/mail/chrome/messenger/mime.properties.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/am-mdn.properties.po: 
