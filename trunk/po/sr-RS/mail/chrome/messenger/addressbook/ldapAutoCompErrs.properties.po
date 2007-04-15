@@ -36,13 +36,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:41+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +73,7 @@ msgstr "Грешка при покретању LDAPа"
 #: 1
 #: 2
 msgid "LDAP server connection failed"
-msgstr ""
+msgstr "Повезивање са LDAP сервером није успело"
 
 ## @name ERR_STATE_BOUND
 ## @loc none
@@ -174,7 +173,7 @@ msgstr "Јака аутентификација тренутно није под
 #: 10021
 #: 10087
 msgid "Verify that the search filter is correct, and then try again, or else contact your System Administrator. To verify that the search filter is correct, from the Edit menu, choose Preferences, then choose Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and select the LDAP server being used. Click Edit, and then click Advanced to display the Search Filter."
-msgstr ""
+msgstr "Проверите да ли је филтер за претрагу исправан и онда пробајте опет, или се обратите за помоћ администратору вашег система.  Да бисте проверили да је филтер за претрагу исправан, из менија Уреди изаберите ставку Поставке, затим Пошта и групе и онда Адресирање.  Притисните Уреди директоријуме, и изаберите LDAP сервер који се користи.  Притисните Уреди, затим Напредно да бисте приказали филтер за претрагу."
 
 ## @name NO_SUCH_OBJECT_HINT
 ## @loc none
@@ -193,7 +192,7 @@ msgstr "Проверите да ли је основни DN исправан и 
 #: 10051
 #: 10085
 msgid "Please try again later."
-msgstr ""
+msgstr "Молимо да покушате касније."
 
 ## @name SERVER_DOWN_HINT
 ## @loc none
@@ -204,7 +203,7 @@ msgstr ""
 #: 10081
 #: 10091
 msgid "Verify that the Hostname and Port Number are correct, and then try again, or else contact your System Administrator. To verify that the Hostname and Port Number are correct, from the Edit menu, choose Preferences, then choose Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and select the LDAP server being used. Click Edit to display the Hostname. Click Advanced to display the Port Number."
-msgstr ""
+msgstr "Проверите да ли су име рачунара и број порта исправно унети, и затим пробајте поново или се обратите администраторз вашег система за помоћ.  Да бисте проверили да су име рачунара и број порта исправни, из менија Уреди изаберите Поставке, затим Пошта и групе и најзад Адресирање. Притисните Уреди директоријуме, и изаберите LDAP сервер који се користи.  Пристините Уреди да бисте видели име рачунара.  Притисните Напредно да бисте видели број порта."
 
 ## @name NO_MEMORY_HINT
 ## @loc none

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/prefs.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:22+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +33,7 @@ msgstr "Молимо унесите своје име."
 #: enterValidEmail
 #: enterValidEmailPrefix
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Молимо да унесете исправну ел. адресу."
 
 #: accountExists
 msgid "A mail or newsgroup account with the same user name and server name already exists. Click Back and enter a different server name, or click Cancel."
@@ -172,7 +171,7 @@ msgstr "Напредно"
 
 #: prefPanel-junk
 msgid "Junk Settings"
-msgstr ""
+msgstr "Поставке за нежељену пошту"
 
 ## LOCALIZATION NOTE (prefPanel-smtp): Don't translate "SMTP"
 # # LOCALIZATION NOTE (prefPanel-smtp): Don't translate "SMTP"

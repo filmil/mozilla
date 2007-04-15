@@ -37,13 +37,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/chrome/messenger/addressbook/addressBook.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:36+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -107,18 +106,20 @@ msgid ""
 "You must enter at least one of the following items:\n"
 "Email Address, First Name, Last Name, Display Name, Organization."
 msgstr ""
+"Морате да унесете бар једну од наредних ставки:\n"
+"Ел. адреса, Име, Презиме, Приказано име, Организација."
 
 #: cardRequiredDataMissingTitle
 msgid "Required Information Missing"
-msgstr ""
+msgstr "Недостају неопходни подаци"
 
 #: incorrectEmailAddressFormatMessage
 msgid "The primary e-mail address must be of the form user@host."
-msgstr ""
+msgstr "Основна ел. адреса мора бити облика корисник@рачунар."
 
 #: incorrectEmailAddressFormatTitle
 msgid "Incorrect Email Address Format"
-msgstr ""
+msgstr "Формат ел. адресе је неисправан"
 
 #: viewCardTitle
 msgid "Card for %S"
@@ -143,7 +144,7 @@ msgstr "Брисање није успело"
 
 #: confirmDeleteMailingListTitle
 msgid "Delete Mailing List"
-msgstr ""
+msgstr "Уклони дописно друштво"
 
 #: confirmDeleteAddressbookTitle
 msgid "Delete Address Book"
@@ -155,7 +156,7 @@ msgstr "Да ли сигурно желите да обришете изабра
 
 #: confirmDeleteCollectionAddressbook
 msgid "If this address book is deleted, %S will no longer collect addresses. Are you sure you want to delete the selected address book?"
-msgstr ""
+msgstr "Ако уклоните овај адресар, %S неће више сакупљати адресе.  Да ли сигурно желите да уклоните изабрани адресар?"
 
 #: confirmDeleteMailingList
 msgid "Are you sure you want to delete the selected mailing list?"
@@ -328,11 +329,11 @@ msgstr "1 картица умножена"
 
 #: cardsMoved
 msgid "%S cards moved"
-msgstr ""
+msgstr "Премештено картица: %S"
 
 #: cardMoved
 msgid "1 card moved"
-msgstr ""
+msgstr "Премештена је једна картица"
 
 # LDAP directory stuff
 #: directoriesListItemNone
@@ -357,11 +358,11 @@ msgstr "Молимо унесите исправан број у поље са �
 
 #: abReplicationOfflineWarning
 msgid "You must be online to perform LDAP replication."
-msgstr ""
+msgstr "Морате бити на вези за репликацију LDAPа."
 
 #: abReplicationSaveSettings
 msgid "Settings must be saved before a directory may be downloaded."
-msgstr ""
+msgstr "Подешавања морају да се сачувају пре него што директоријум може да се преузме."
 
 # For importing / exporting
 #
@@ -385,15 +386,15 @@ msgstr "Извези адресар"
 
 #: LDIFFiles
 msgid "LDIF"
-msgstr ""
+msgstr "LDIF"
 
 #: CSVFiles
 msgid "Comma Separated"
-msgstr ""
+msgstr "Раздвојено запетама"
 
 #: TABFiles
 msgid "Tab Delimited"
-msgstr ""
+msgstr "Раздвојено табулацијом"
 
 #: failedToExportTitle
 msgid "Export Failed"
@@ -468,8 +469,8 @@ msgstr "Један од ваших адреасра (датотека %1$S) ни
 # For locked .mab files
 #: lockedMabFileTitle
 msgid "Unable to Load Address Book File"
-msgstr ""
+msgstr "Није могуће учитати адресар"
 
 #: lockedMabFileAlert
 msgid "Unable to load address book file %S. It may be read-only, or locked by another application. Please try again later."
-msgstr ""
+msgstr "Није могуће учитати адресар %S.  Можда је адресар само за читање, или га је закључао неки други програм.   Молимо да пробате касније."

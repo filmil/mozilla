@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/am-junk.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: junkSettings.label
 msgid "Junk Settings"
-msgstr ""
+msgstr "Подешавање за нежељену пошту"
 
 #: trainingWarning.label
 msgid "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages."
@@ -26,11 +25,11 @@ msgstr "Ако је укључен, потребно је прво обучит�
 #: level.label
 #: level.accesskey
 msgid "&Enable adaptive junk mail controls for this account"
-msgstr ""
+msgstr "&Укључи адаптивну контролу нежељене поште за овај налог"
 
 #: move.label
 msgid "Move new junk messages to:"
-msgstr ""
+msgstr "Премести нове нежељене поруке у:"
 
 #: junkFolderOn.label
 msgid "&quot;Junk&quot; folder on:"
@@ -43,18 +42,18 @@ msgstr "Друго:"
 #: purge1.label
 #: purge1.accesskey
 msgid "A&utomatically delete junk mail older than"
-msgstr ""
+msgstr "А&утоматски уклони нежељену пошту старију од"
 
 #: purge2.label
 msgid "days"
-msgstr "дана"
+msgstr "дан(а)"
 
 #: whitelist.label
 #: whitelist.accesskey
 msgid "&Do not mark mail as junk if the sender is in: "
-msgstr ""
+msgstr "&Не означавај пошту као нежељену ако је пошиљалац у: "
 
 #: ispHeaders.label
 #: ispHeaders.accesskey
 msgid "&Trust junk mail headers set by: "
-msgstr ""
+msgstr "&Веруј заглављима о нежељеној пошти које поставља: "

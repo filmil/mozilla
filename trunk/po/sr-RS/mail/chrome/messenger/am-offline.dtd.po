@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/am-offline.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:26+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -61,27 +60,27 @@ msgstr "&Поруке више од"
 
 #: retentionCleanup.label
 msgid "To recover disk space, old messages can be permanently deleted"
-msgstr ""
+msgstr "Да бисте вратили простор на диску, старе поруке могу се трајно уклонити"
 
 #: retentionKeepMsg.label
 #: retentionKeepMsg.accesskey
 msgid "Delete &messages more than"
-msgstr ""
+msgstr "Уклони &поруке старије од"
 
 #: retentionKeepAll.label
 #: retentionKeepAll.accesskey
 msgid "Don't delete &any messages"
-msgstr ""
+msgstr "&Не уклањај поруке"
 
 #: retentionKeepNew.label
 #: retentionKeepNew.accesskey
 msgid "De&lete all but the last"
-msgstr ""
+msgstr "Уклони све осим &последњих"
 
 #: retentionKeepUnread.label
 #: retentionKeepUnread.accesskey
 msgid "Always delete &read messages"
-msgstr ""
+msgstr "Увек уклони про&читане поруке"
 
 #: nntpRemoveBody.label
 #: nntpRemoveBody.accesskey
@@ -98,7 +97,7 @@ msgstr "Изаберите директоријуме за неповезан р
 
 #: offlineSelect.accesskey
 msgid "S"
-msgstr "з"
+msgstr "S"
 
 #: offlineDesc.label
 msgid "You can download your messages locally so that they are available when you are working offline."

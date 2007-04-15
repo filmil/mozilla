@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/am-advanced.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:18+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,12 +25,12 @@ msgstr "Подешавања одлазног сервера (SMTP)"
 msgid ""
 "_: do not translate \"SMTP\" in below line\n"
 "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages."
-msgstr ""
+msgstr "Иако можете да означите више од једног одлазног сервера (SMTP), то се препоручује само за напредне кориснике.  Постављање више SMTP сервера може да доведе до грешака при слању порука."
 
 #: smtpListAdd.label
 #: smtpListAdd.accesskey
 msgid "A&dd..."
-msgstr ""
+msgstr "&Додај..."
 
 #: smtpListEdit.label
 #: smtpListEdit.accesskey
@@ -41,29 +40,29 @@ msgstr "&Уреди..."
 #: smtpListDelete.label
 #: smtpListDelete.accesskey
 msgid "Re&move"
-msgstr ""
+msgstr "&Уклони"
 
 #: smtpListSetDefault.label
 #: smtpListSetDefault.accesskey
 msgid "Se&t Default"
-msgstr ""
+msgstr "&Подразумевани"
 
 #: serverDescription.label
 msgid "Description: "
-msgstr ""
+msgstr "Опис:"
 
 #: serverName.label
 msgid "Server Name: "
-msgstr ""
+msgstr "Име сервера: "
 
 #: serverPort.label
 msgid "Port: "
-msgstr ""
+msgstr "Порт: "
 
 #: userName.label
 msgid "User Name: "
-msgstr ""
+msgstr "Кор. име: "
 
 #: useSecureConnection.label
 msgid "Secure Connection: "
-msgstr ""
+msgstr "Безбедна веза: "

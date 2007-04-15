@@ -1,12 +1,11 @@
 # search and filter strings
 # extracted from source/sr-RS/mail/chrome/messenger/search.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -58,12 +57,12 @@ msgstr "Тражи"
 #: labelForStopButton.accesskey
 #: labelForSearchButton.accesskey
 msgid "S"
-msgstr "з"
+msgstr "S"
 
 #: moreButtonTooltipText
 msgid "Add a new rule"
-msgstr ""
+msgstr "Додај ново правило"
 
 #: lessButtonTooltipText
 msgid "Remove this rule"
-msgstr ""
+msgstr "Уклони ово правило"
