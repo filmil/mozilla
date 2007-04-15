@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/notifications.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,27 +16,27 @@ msgstr ""
 
 #: notificationsDialog1.title
 msgid "Customize New Mail Notifications"
-msgstr ""
+msgstr "Подешавање дојава о новим порукама"
 
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "30em"
-msgstr ""
+msgstr "30em"
 
 #: alertCustomization.caption
 msgid "Alerts"
-msgstr ""
+msgstr "Узбуне"
 
 #: alertCustomization.intro
 msgid "Choose which fields to show in the alert notification:"
-msgstr ""
+msgstr "Изаберите поља која ће бити приказана у дојавама"
 
 #: previewText.label
 #: previewText.accesskey
 msgid "&Message Preview Text"
-msgstr ""
+msgstr "&Одломак поруке"
 
 #: subject.label
 #: subject.accesskey
@@ -47,7 +46,7 @@ msgstr "&Тема"
 #: sender.label
 #: sender.accesskey
 msgid "S&ender"
-msgstr ""
+msgstr "По&шиљалац"
 
 # VCARD_LDAP_SOUND
 # # @name VCARD_LDAP_SOUND
@@ -59,16 +58,16 @@ msgstr "Звук"
 #: preview.label
 #: preview.accesskey
 msgid "Pre&view Sound"
-msgstr ""
+msgstr "&Звук за преглед"
 
 #: systemsound.label
 #: systemsound.accesskey
 msgid "S&ystem New Mail Sound"
-msgstr ""
+msgstr "Сис&темски звук за нову пошту"
 
 #: systemsoundMac.label
 msgid "System Alert Sound"
-msgstr ""
+msgstr "Системски звук за уз&буну"
 
 #: customsound.label
 #: customsound.accesskey

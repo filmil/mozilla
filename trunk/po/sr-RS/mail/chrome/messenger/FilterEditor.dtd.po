@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/FilterEditor.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:12+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +24,7 @@ msgstr "тема"
 
 #: sender.label
 msgid "sender"
-msgstr "пошиљалац"
+msgstr "шаље"
 
 #: date.label
 msgid "date"
@@ -45,7 +44,7 @@ msgstr "старост у данима"
 
 #: to.label
 msgid "to"
-msgstr "за"
+msgstr "прима"
 
 #: status.label
 msgid "status"
@@ -119,60 +118,60 @@ msgstr "&Нови директоријум..."
 # New Style Filter Rule Actions
 #: moveMessage.label
 msgid "Move Message to"
-msgstr ""
+msgstr "Помери поруку у"
 
 #: copyMessage.label
 msgid "Copy Message to"
-msgstr ""
+msgstr "Умножи поруку у"
 
 #: forwardTo.label
 msgid "Forward Message to"
-msgstr ""
+msgstr "Проследи поруку"
 
 #: replyWithTemplate.label
 msgid "Reply with Template"
-msgstr ""
+msgstr "Одговори на обрасцу"
 
 #: markMessageRead.label
 msgid "Mark As Read"
-msgstr ""
+msgstr "Означи као прочитано"
 
 #: markMessageStarred.label
 msgid "Add Star"
-msgstr ""
+msgstr "Додај звезду"
 
 #: labelMessage.label
 msgid "Label Message As"
-msgstr ""
+msgstr "Означи поруку као"
 
 #: setPriority.label
 msgid "Set Priority to"
-msgstr ""
+msgstr "Постави приоритет на"
 
 #: addTag.label
 msgid "Tag Message"
-msgstr ""
+msgstr "Означи поруку"
 
 #: setJunkScore.label
 msgid "Set Junk Status to"
-msgstr ""
+msgstr "Постави статус нежељене поште на"
 
 #: deleteMessage.label
 msgid "Delete Message"
-msgstr ""
+msgstr "Уклони поруку"
 
 #: deleteFromPOP.label
 msgid "Delete From POP Server"
-msgstr ""
+msgstr "Уклони са POP сервера"
 
 #: fetchFromPOP.label
 msgid "Fetch From POP Server"
-msgstr ""
+msgstr "Добави са POP сервера"
 
 #: ignoreThread.label
 msgid "Ignore Thread"
-msgstr ""
+msgstr "Занемари нит"
 
 #: watchThread.label
 msgid "Watch Thread"
-msgstr ""
+msgstr "Надгледај нит"

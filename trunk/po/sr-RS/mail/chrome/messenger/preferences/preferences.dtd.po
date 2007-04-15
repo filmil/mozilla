@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/preferences.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,19 +20,19 @@ msgstr "Опције"
 
 #: prefWindow.titleGNOME
 msgid "&brandShortName; Preferences"
-msgstr ""
+msgstr "Поставке за &brandShortName;"
 
 #: prefWindow.styleWin
 msgid "width: 44em; height: 38em;"
-msgstr ""
+msgstr "width: 44em; height: 38em;"
 
 #: prefWindow.styleMac
 msgid "width: 47em;"
-msgstr ""
+msgstr "width: 47em;"
 
 #: prefWindow.styleUnix
 msgid "width: 42em;"
-msgstr ""
+msgstr "width: 42em;"
 
 #: paneGeneral.title
 msgid "General"

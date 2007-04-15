@@ -2,13 +2,12 @@
 # Mail Views
 #
 # extracted from source/sr-RS/mail/chrome/messenger/mailviews.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:13+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,19 +19,19 @@ msgstr ""
 
 #: mailViewPeopleIKnow
 msgid "People I Know"
-msgstr ""
+msgstr "Људи које знам"
 
 #: mailViewRecentMail
 msgid "Recent Mail"
-msgstr ""
+msgstr "Недавна пошта"
 
 #: mailViewLastFiveDays
 msgid "Last 5 Days"
-msgstr ""
+msgstr "Последњих 5 дана"
 
 #: mailViewNotJunk
 msgid "Not Junk"
-msgstr "Није отпад"
+msgstr "Није нежељена пошта"
 
 # for the has attachment picker in search and mail views
 #: mailViewHasAttachments

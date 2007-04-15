@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/fonts.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:35+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: fontsDialog.title
 msgid "Fonts"
-msgstr "Фонтови"
+msgstr "Писма"
 
 #: window.width
 msgid ""
@@ -56,7 +55,7 @@ msgstr ""
 #  menu items: "RemoveTextStyles" and "StopTextStyles"
 #: monospaceSize.accesskey
 msgid "x"
-msgstr "у"
+msgstr ""
 
 #: proportional.label
 #: proportional.accesskey
@@ -66,12 +65,12 @@ msgstr "&Пропорц.:"
 #: serif.label
 #: serif.accesskey
 msgid "&Serif:"
-msgstr "&Са серифима:"
+msgstr "&Серифни:"
 
 #: sans-serif.label
 #: sans-serif.accesskey
 msgid "Sa&ns-serif:"
-msgstr "Бе&з серифа:"
+msgstr "Бе&зсерини:"
 
 #: monospace.label
 #: monospace.accesskey
@@ -215,6 +214,5 @@ msgstr "Нови језици се могу подесити из панела �
 
 #: useDocumentFonts.label
 #: useDocumentFonts.accesskey
-#, fuzzy
 msgid "All&ow messages to use other fonts"
-msgstr ""
+msgstr "Поруке могу да користе &друга писма"

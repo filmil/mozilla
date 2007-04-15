@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/SearchDialog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -89,13 +88,13 @@ msgstr "Отвори дире&кторијум са порукама"
 #: saveAsVFButton.label
 #: saveAsVFButton.accesskey
 msgid "Sa&ve as Search Folder"
-msgstr ""
+msgstr "&Сачувај као директоријум за претрагу"
 
 # for ABSearchDialog.xul
 #: abSearchHeading.label
 #: abSearchHeading.accesskey
 msgid "Searc&h in:"
-msgstr ""
+msgstr "&Тражи у:"
 
 #: propertiesButton.label
 #: propertiesButton.accesskey
@@ -153,7 +152,7 @@ msgstr "Приоритет"
 
 #: tagsColumn.label
 msgid "Tags"
-msgstr ""
+msgstr "Ознаке"
 
 #: accountColumn.label
 msgid "Account"
@@ -189,7 +188,7 @@ msgstr "Прочитано"
 
 #: starredColumn.label
 msgid "Starred"
-msgstr ""
+msgstr "Са звездом"
 
 #: locationColumn.label
 msgid "Location"
@@ -231,7 +230,7 @@ msgstr "Притисните да поређате по приоритету"
 
 #: tagsColumn.tooltip
 msgid "Click to sort by tags"
-msgstr ""
+msgstr "Притисните овде да уредите по ознакама"
 
 #: accountColumn.tooltip
 msgid "Click to sort by account"
@@ -263,7 +262,7 @@ msgstr "Притисните да поређате према прочитани
 
 #: starredColumn.tooltip
 msgid "Click to sort by star"
-msgstr ""
+msgstr "Притисните овде да уредите према звездама"
 
 #: locationColumn.tooltip
 msgid "Click to sort by location"

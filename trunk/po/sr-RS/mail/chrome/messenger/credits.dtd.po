@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/credits.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: credit.title
 msgid "&brandFullName; Credits"
-msgstr ""
+msgstr "Заслуге за &brandFullName;"
 
 #: brandMotto
 msgid "Thunderbirds Are Go!"
-msgstr "Истражи поново Интернет"
+msgstr "Соколови су спремни!"
 
 #: credit.leads
 msgid "Engineering Leads"
@@ -49,7 +48,7 @@ msgstr "Посебна захвалност"
 msgid ""
 "_: credit.translation\n"
 ""
-msgstr ""
+msgstr "<h3>Преводиоци</h3><ul><li>Име иде овде</li></ul>"
 
 #: credit.visuals
 msgid "Visual Design Coordinator"
@@ -61,7 +60,7 @@ msgstr "Дизајн теме"
 
 #: credit.brand
 msgid "Brand Identity"
-msgstr "Марка"
+msgstr "Идентитет марке"
 
 #: credit.web
 msgid "Web Design"

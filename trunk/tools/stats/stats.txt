@@ -396,16 +396,12 @@ po/sr-RS/mail/chrome/messenger/addressbook/pref-directory.dtd.po:
 po/sr-RS/mail/chrome/messenger/addressbook/pref-directory-add.dtd.po: 
 17 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/addressbook/.#abContactsPanel.dtd.po“ за читање: No such file or directory
-po/sr-RS/mail/chrome/messenger/addressbook/.#abContactsPanel.dtd.po: 
 9 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abCardViewOverlay.dtd.po: 
 117 преведених порука, 1 непреведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abMainWindow.dtd.po: 
 8 преведених порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/addressbook/replicationProgress.properties.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/addressbook/.#abMailListDialog.dtd.po“ за читање: No such file or directory
-po/sr-RS/mail/chrome/messenger/addressbook/.#abMailListDialog.dtd.po: 
 9 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abMailListDialog.dtd.po: 
 41 преведена порука, 2 непреведене поруке.
@@ -414,43 +410,44 @@ po/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po:
 po/sr-RS/mail/chrome/messenger/addressbook/abContactsPanel.dtd.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/mailEditorOverlay.dtd.po: 
-24 преведене поруке, 15 непреведених порука.
+39 преведених порука.
 po/sr-RS/mail/chrome/messenger/FilterEditor.dtd.po: 
 37 преведених порука, 4 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/localMsgs.properties.po: 
-2 преведене поруке, 3 непреведене поруке.
+5 преведених порука.
 po/sr-RS/mail/chrome/messenger/mailviews.properties.po: 
-50 преведених порука, 6 непреведених порука.
+56 преведених порука.
 po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po: 
 18 преведених порука.
 po/sr-RS/mail/chrome/messenger/search-operators.properties.po: 
-21 преведена порука, 2 непреведене поруке.
+po/sr-RS/mail/chrome/messenger/credits.dtd.po:48: не завршава се и „msgid“ и „msgstr“ са „\n“
+msgfmt: нађох 1 кобну грешку
 po/sr-RS/mail/chrome/messenger/credits.dtd.po: 
-82 преведене поруке, 1 непреведена порука.
+83 преведене поруке.
 po/sr-RS/mail/chrome/messenger/importMsgs.properties.po: 
 3 преведене поруке.
 po/sr-RS/mail/chrome/messenger/subscribe.properties.po: 
 14 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/receipts.dtd.po: 
-27 преведених порука, 12 непреведених порука.
+39 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/display.dtd.po: 
-7 преведених порука, 1 непреведена порука.
+8 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/htmlcompose.dtd.po: 
 16 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/downloadactions.dtd.po: 
-11 преведених порука, 10 нејасних порука, 13 непреведених порука.
+34 преведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/privacy.dtd.po: 
-4 преведене поруке, 9 непреведених порука.
+13 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/notifications.dtd.po: 
 12 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/changeaction.dtd.po: 
-7 преведених порука, 4 непреведене поруке.
+11 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/preferences.dtd.po: 
 45 преведених порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/fonts.dtd.po: 
-24 преведене поруке, 1 непреведена порука.
+23 преведене поруке, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po: 
-23 преведене поруке, 20 непреведених порука.
+24 преведене поруке, 19 непреведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po: 
 8 преведених порука, 7 нејасних порука, 3 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/general.dtd.po: 
@@ -462,6 +459,8 @@ po/sr-RS/mail/chrome/messenger/preferences/advanced.dtd.po:
 po/sr-RS/mail/chrome/messenger/preferences/downloads.dtd.po: 
 10 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/viewpasswords.dtd.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/preferences/.#connection.dtd.po“ за читање: No such file or directory
+po/sr-RS/mail/chrome/messenger/preferences/.#connection.dtd.po: 
 21 преведена порука, 13 непреведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po: 
 2 преведене поруке, 2 непреведене поруке.

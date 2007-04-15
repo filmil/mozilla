@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/display.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 19:21+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: itemFormatting.label
 msgid "Formatting"
-msgstr ""
+msgstr "Обликовање"
 
 #: itemTags.label
 msgid "Tags"
-msgstr ""
+msgstr "Ознаке"
 
 #: itemFonts.label
 #: fontsCaption.label
@@ -35,12 +34,12 @@ msgstr "Изглед обичног цитираног текста"
 #: style.label
 #: style.accesskey
 msgid "St&yle:"
-msgstr ""
+msgstr "&Стил:"
 
 #: regularStyle.label
 #: regularSize.label
 msgid "Regular"
-msgstr ""
+msgstr "Обично"
 
 #: bold.label
 msgid "Bold"
@@ -91,7 +90,7 @@ msgstr "При приказивању порука у обичном текст�
 #: fixedWidth.label
 #: fixedWidth.accesskey
 msgid "Fi&xed width font"
-msgstr ""
+msgstr "Писмо &утврђене величине"
 
 #: variableWidth.label
 #: variableWidth.accesskey
@@ -124,7 +123,7 @@ msgstr "HTML поруке"
 #: overrideSender.label
 #: overrideSender.accesskey
 msgid "Whe&n displaying HTML messages, use the following:"
-msgstr ""
+msgstr "&При приказивању HTML порука, користи:"
 
 #: textColor.label
 #: textColor.accesskey
@@ -139,7 +138,7 @@ msgstr "Бо&ја позадине:"
 # labels
 #: displayTagsText.label
 msgid "Tags can be used to categorize and prioritize your messages."
-msgstr ""
+msgstr "Ознаке се могу користити за разврставање и давање приоритета порукама."
 
 #: addTagButton.label
 #: addTagButton.accesskey
@@ -154,17 +153,17 @@ msgstr "&Уреди"
 #: removeTagButton.label
 #: removeTagButton.accesskey
 msgid "De&lete"
-msgstr ""
+msgstr "&Уклони"
 
 # Fonts
 #: fontsDescription.label
 msgid "Configure the fonts used by &brandShortName;"
-msgstr ""
+msgstr "Подешавање писма које користи &brandShortName;"
 
 #: fontOptions.label
 #: fontOptions.accesskey
 msgid "&Fonts..."
-msgstr ""
+msgstr "&Писма..."
 
 # Language settings
 #: sendDefaultCharset.label
@@ -188,9 +187,9 @@ msgstr "&Долазећа пошта:"
 #: forceCharsetOverride.label
 #: forceCharsetOverride.accesskey
 msgid "A&pply the default character encoding to all incoming messages"
-msgstr ""
+msgstr "П&римени изворно кодирање за све долазне поруке"
 
 #: replyInDefaultCharset.label
 #: replyInDefaultCharset.accesskey
 msgid "Use t&he default character encoding in replies"
-msgstr ""
+msgstr "Користи &изворно кодирање у одговорима"
