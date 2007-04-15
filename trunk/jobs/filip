@@ -1,11 +1,20 @@
 Датотеке на којима тренутно радим:
 
-po/sr-RS/mail/chrome/messenger/FilterEditor.dtd.po
-po/sr-RS/mail/chrome/messenger/localMsgs.properties.po
-po/sr-RS/mail/chrome/messenger/mailviews.properties.po
-po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/search-operators.properties.po
-po/sr-RS/mail/chrome/messenger/credits.dtd.po
-po/sr-RS/mail/chrome/messenger/importMsgs.properties.po
-po/sr-RS/mail/chrome/messenger/subscribe.properties.po
-po/sr-RS/mail/chrome/messenger/preferences
+po/sr-RS/mail/chrome/messenger/preferences/receipts.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/display.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/htmlcompose.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/downloadactions.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/privacy.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/notifications.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/changeaction.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/preferences.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/fonts.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po
+po/sr-RS/mail/chrome/messenger/preferences/general.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/sendoptions.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/advanced.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/downloads.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/viewpasswords.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po
+po/sr-RS/mail/chrome/messenger/preferences/junkLog.dtd.po
