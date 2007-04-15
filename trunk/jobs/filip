@@ -1,15 +1,15 @@
 Датотеке на којима тренутно радим:
 
-po/sr-RS/mail/chrome/messenger/addressbook
-po/sr-RS/mail/chrome/messenger/addressbook/abAddressBookNameDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abNewCardDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abResultsPaneOverlay.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/addressBook.properties.po
-po/sr-RS/mail/chrome/messenger/addressbook/abDirTreeOverlay.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abSelectAddressesDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/pref-directory.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/pref-directory-add.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties.po
-po/sr-RS/mail/chrome/messenger/addressbook/abCardViewOverlay.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abMainWindow.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/replicationProgress.properties.po
+po/sr-RS/mail/chrome/messenger/addressbook/abMailListDialog.dtd.po
+po/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po
+po/sr-RS/mail/chrome/messenger/addressbook/abContactsPanel.dtd.po
+po/sr-RS/mail/chrome/messenger/mailEditorOverlay.dtd.po
+po/sr-RS/mail/chrome/messenger/FilterEditor.dtd.po
+po/sr-RS/mail/chrome/messenger/localMsgs.properties.po
+po/sr-RS/mail/chrome/messenger/mailviews.properties.po
+po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po
+po/sr-RS/mail/chrome/messenger/search-operators.properties.po
+po/sr-RS/mail/chrome/messenger/credits.dtd.po
+po/sr-RS/mail/chrome/messenger/importMsgs.properties.po
+po/sr-RS/mail/chrome/messenger/subscribe.properties.po
+po/sr-RS/mail/chrome/messenger/preferences
