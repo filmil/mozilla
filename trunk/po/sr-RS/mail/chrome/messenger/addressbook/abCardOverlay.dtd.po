@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +78,7 @@ msgstr "&Презиме:"
 #: PhoneticField1.label
 #: PhoneticField2.label
 msgid "Phonetic:"
-msgstr ""
+msgstr "Изговор:"
 
 #: DisplayName.label
 #: DisplayName.accesskey
@@ -132,7 +131,7 @@ msgstr "&Екранско име:"
 #: allowRemoteContent.label
 #: allowRemoteContent.accesskey
 msgid "Allow remote ima&ges in HTML mail."
-msgstr ""
+msgstr "&Дозволи удаљене слике у HTML порукама."
 
 #: Phones.box
 msgid "Phones"
@@ -175,7 +174,7 @@ msgstr "Кућа"
 #: HomeAddress.label
 #: WorkAddress.label
 msgid "Address:"
-msgstr ""
+msgstr "Адреса:"
 
 #: HomeAddress2.label
 msgid ""
@@ -186,27 +185,27 @@ msgstr ""
 #: HomeCity.label
 #: WorkCity.label
 msgid "City:"
-msgstr ""
+msgstr "Место:"
 
 #: HomeState.label
 #: WorkState.label
 msgid "State/Province:"
-msgstr ""
+msgstr "Покрајина/област:"
 
 #: HomeZipCode.label
 #: WorkZipCode.label
 msgid "ZIP/Postal Code:"
-msgstr ""
+msgstr "Поштански број:"
 
 #: HomeCountry.label
 #: WorkCountry.label
 msgid "Country:"
-msgstr ""
+msgstr "Држава:"
 
 #: HomeWebPage.label
 #: WorkWebPage.label
 msgid "Web Page:"
-msgstr ""
+msgstr "Мрежна страна:"
 
 #: Work.box
 msgid "Work"

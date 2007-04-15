@@ -344,21 +344,21 @@ po/sr-RS/mail/chrome/messenger/filter.properties.po:
 po/sr-RS/mail/chrome/messenger/mime.properties.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/am-mdn.properties.po: 
-15 преведених порука, 1 непреведена порука.
+16 преведених порука.
 po/sr-RS/mail/chrome/messenger/migration/migration.properties.po: 
-15 преведених порука, 3 нејасне поруке.
+18 преведених порука.
 po/sr-RS/mail/chrome/messenger/migration/migration.dtd.po: 
-35 преведених порука, 3 непреведене поруке.
+38 преведених порука.
 po/sr-RS/mail/chrome/messenger/search-attributes.properties.po: 
-13 преведених порука, 3 непреведене поруке.
+16 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-smime.dtd.po: 
 5 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-identities-list.dtd.po: 
-8 преведених порука, 2 непреведене поруке.
+10 преведених порука.
 po/sr-RS/mail/chrome/messenger/search.properties.po: 
-6 преведених порука, 1 непреведена порука.
+7 преведених порука.
 po/sr-RS/mail/chrome/messenger/subscribe.dtd.po: 
-2 преведене поруке, 9 непреведених порука.
+11 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-advanced.dtd.po: 
 9 преведених порука.
 po/sr-RS/mail/chrome/messenger/outlookImportMsgs.properties.po: 
@@ -366,25 +366,25 @@ po/sr-RS/mail/chrome/messenger/outlookImportMsgs.properties.po:
 po/sr-RS/mail/chrome/messenger/fieldMapExport.dtd.po: 
 16 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-addressing.dtd.po: 
-36 преведених порука, 2 непреведене поруке.
+38 преведених порука.
 po/sr-RS/mail/chrome/messenger/prefs.properties.po: 
 15 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-smime.properties.po: 
-1 преведена порука, 3 непреведене поруке.
+4 преведене поруке.
 po/sr-RS/mail/chrome/messenger/shellservice.properties.po: 
-4 преведене поруке, 6 непреведених порука.
+10 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-junk.dtd.po: 
 2 преведене поруке.
 po/sr-RS/mail/chrome/messenger/mailTurboMenu.properties.po: 
-18 преведених порука, 5 непреведених порука.
+23 преведене поруке.
 po/sr-RS/mail/chrome/messenger/am-offline.dtd.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abAddressBookNameDialog.dtd.po: 
-33 преведене поруке, 9 непреведених порука.
+40 преведених порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/addressbook/abNewCardDialog.dtd.po: 
 21 преведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abResultsPaneOverlay.dtd.po: 
-72 преведене поруке, 16 непреведених порука.
+87 преведених порука, 1 непреведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/addressBook.properties.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abDirTreeOverlay.dtd.po: 
@@ -394,17 +394,21 @@ po/sr-RS/mail/chrome/messenger/addressbook/abSelectAddressesDialog.dtd.po:
 po/sr-RS/mail/chrome/messenger/addressbook/pref-directory.dtd.po: 
 21 преведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/pref-directory-add.dtd.po: 
-13 преведених порука, 4 непреведене поруке.
+17 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/addressbook/.#abContactsPanel.dtd.po“ за читање: No such file or directory
+po/sr-RS/mail/chrome/messenger/addressbook/.#abContactsPanel.dtd.po: 
 9 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abCardViewOverlay.dtd.po: 
-115 преведених порука, 3 непреведене поруке.
+117 преведених порука, 1 непреведена порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abMainWindow.dtd.po: 
-7 преведених порука, 3 непреведене поруке.
+8 преведених порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/addressbook/replicationProgress.properties.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/addressbook/.#abMailListDialog.dtd.po“ за читање: No such file or directory
+po/sr-RS/mail/chrome/messenger/addressbook/.#abMailListDialog.dtd.po: 
 9 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abMailListDialog.dtd.po: 
-33 преведене поруке, 10 непреведених порука.
+41 преведена порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po: 
 8 преведених порука.
 po/sr-RS/mail/chrome/messenger/addressbook/abContactsPanel.dtd.po: 
