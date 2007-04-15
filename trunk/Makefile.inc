@@ -12,6 +12,7 @@ MKDIR:=mkdir
 CD:=cd
 CP:=cp
 ZIP:=zip
+CVS:=cvs
 
 # # Directory configuration
 PO_TRANSLATIONS:=po/sr-RS
@@ -22,3 +23,4 @@ POT_DIR:=pot/sr-RS
 SCRIPTS_DIR:=scripts
 STATS_DIR:=tools/stats
 ZIPNAME:=sr.zip
+MOZILLA_CVS:=/home/filip/personal/l10n/mozilla-cvs/l10n

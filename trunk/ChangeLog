@@ -1,3 +1,7 @@
+2007-04-15  Filip Miletic  <filmil@gmail.com>
+
+	* Makefile (publish): Додат циљ за објаву превода у ЦВС
+
 2007-04-12  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/mail/chrome/messenger/search-attributes.properties.po: Још превода. 
