@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/am-smime.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 18:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -46,7 +45,7 @@ msgstr "Употреби овај сертификат за шифровање �
 #: encryptionCert.notselected
 #: signingCert.notselected
 msgid "No certificate set"
-msgstr ""
+msgstr "Сертификат није постављен"
 
 #: certificate.button
 msgid "Select..."
@@ -76,9 +75,9 @@ msgstr "Сертификати"
 #: managecerts.label
 #: managecerts.accesskey
 msgid "&View Certificates"
-msgstr ""
+msgstr "&Преглед сертификата"
 
 #: managedevices.label
 #: managedevices.accesskey
 msgid "&Security Devices"
-msgstr ""
+msgstr "&Безбедносни уређаји"
