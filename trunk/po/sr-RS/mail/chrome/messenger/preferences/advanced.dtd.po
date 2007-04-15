@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/advanced.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-04-15 22:59+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "Опште"
 
 #: itemUpdate.label
 msgid "Update"
-msgstr ""
+msgstr "Освежи"
 
 #: itemOffline.label
 msgid "Offline &amp; Disk Space"
@@ -30,38 +29,33 @@ msgstr "Неповезан рад и простор на диску"
 # General Settings
 #: showCondensedAddresses.label
 #: showCondensedAddresses.accesskey
-#, fuzzy
 msgid "Show only dis&play name for people in my address book"
-msgstr "p"
+msgstr "Показуј само &наденуто име за особе из адресара"
 
 # "xxx seconds before marking a message as read", using a number and
 # (markAsReadEnd.label).
 #: markAsRead.label
 #: markAsRead.accesskey
 #: modeAutoAddonWarn.accesskey
-#, fuzzy
 msgid ""
 "_: This will concatenate with\n"
 "&Wait"
-msgstr "З"
+msgstr "&Чекање"
 
 #: markAsReadEnd.label
 #: markAsReadEnd.accesskey
-#, fuzzy
 msgid "secon&ds before marking a message as read"
-msgstr "d"
+msgstr "s пре означавања поруке као прочитане"
 
 #: showFolderColumns.label
 #: showFolderColumns.accesskey
-#, fuzzy
 msgid "Show expanded columns in the &folder pane"
-msgstr "f"
+msgstr "Приказуј ра&ширене колоне у панелу са директоријумима"
 
 #: rememberLastMsg.label
 #: rememberLastMsg.accesskey
-#, fuzzy
 msgid "Remem&ber the last selected message"
-msgstr "п"
+msgstr "За&памти последљу изабрану поруку"
 
 #: reuseExp.label
 msgid "Open new messages in:"
@@ -69,38 +63,34 @@ msgstr "Отвори нове поруке у:"
 
 #: reuseExpRadio0.label
 #: reuseExpRadio0.accesskey
-#, fuzzy
 msgid "A new message w&indow"
-msgstr "i"
+msgstr "&новом прозору за поруку"
 
 #
 # LOCALIZATION NOTE "RemoveTextStylesAccesskey" is used for both
 #  menu items: "RemoveTextStyles" and "StopTextStyles"
 #: reuseExpRadio1.label
 #: reuseExpRadio1.accesskey
-#, fuzzy
 msgid "An e&xisting message window"
-msgstr "у"
+msgstr "&постојећем прозору за поруку"
 
 #: connectionTimeout.label
 #: connectionTimeout.accesskey
-#, fuzzy
 msgid "&Connection timeout: "
-msgstr "У"
+msgstr "Веза &истиче за"
 
 #: connectionSeconds.label
 msgid "seconds"
-msgstr ""
+msgstr "s"
 
 #: configEditDesc.label
 msgid "Advanced Configuration"
-msgstr ""
+msgstr "Напредно подешавање"
 
 #: configEdit.label
 #: configEdit.accesskey
-#, fuzzy
 msgid "Confi&g Editor..."
-msgstr ""
+msgstr "Уређивач &подешавања..."
 
 # Update
 #: autoCheck.label
@@ -117,9 +107,8 @@ msgstr "F"
 
 #: enableAddonsUpdate.label
 #: enableAddonsUpdate.accesskey
-#, fuzzy
 msgid "Ins&talled Add-ons"
-msgstr "к"
+msgstr "Постављени &додаци"
 
 #: checkNow.label
 msgid "Check Now..."
@@ -142,9 +131,8 @@ msgstr "Самостално &преузми и постави унапређе�
 #: modeAutoAddonWarn.label
 #: modeAutoAddonWarn.accesskey
 #: markAsRead.accesskey
-#, fuzzy
 msgid "&Warn me if this will disable any of my add-ons"
-msgstr ""
+msgstr "&Упозори ме ако ће ово да искључи ма који додатак"
 
 #: showUpdates.label
 #: showUpdates.accesskey
@@ -221,11 +209,11 @@ msgstr "Преузми поруке за локалну употребу при 
 
 #: radioAutoDownload.accesskey
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: radioNotDownload.accesskey
 msgid "o"
-msgstr ""
+msgstr "o"
 
 #: radioAskDownload.accesskey
 msgid "a"
@@ -237,9 +225,8 @@ msgstr "Простор на диску"
 
 #: offlineCompact.label
 #: offlineCompact.accesskey
-#, fuzzy
 msgid "Compact folders when it will sa&ve over"
-msgstr "м"
+msgstr "&Сажми директоријуме када то штеди више од"
 
 #: kb.label
 msgid "KB"

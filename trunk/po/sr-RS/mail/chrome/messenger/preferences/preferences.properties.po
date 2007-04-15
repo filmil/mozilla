@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-04-15 19:37+0200\n"
+"PO-Revision-Date: 2007-04-15 22:55+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,11 +55,11 @@ msgstr "Да ли сигурно желите да обришете тренин
 # ### Master Password
 #: setMasterPassword
 msgid "Set Master Password..."
-msgstr ""
+msgstr "Поставка главне лозинке..."
 
 #: changeMasterPassword
 msgid "Change Master Password..."
-msgstr ""
+msgstr "Промена главне лозинке..."
 
 # Token Manager
 #: password_not_set
@@ -80,7 +80,7 @@ msgstr "Главна лозинка је успешно промењена."
 
 #: pw_erased_ok
 msgid "You have deleted your Master Password."
-msgstr ""
+msgstr "Уклонили сте вашу главну лозинку."
 
 #: pw_not_wanted
 msgid "Warning! You have decided not to use a Master Password."
@@ -88,7 +88,7 @@ msgstr "Упозорење! Одлучили сте да не користите
 
 #: pw_empty_warning
 msgid "Your stored email passwords will not be protected."
-msgstr ""
+msgstr "Ваше сачуване лозинке неће бити заштићене."
 
 #: pw_change2empty_in_fips_mode
 msgid "You are currently in FIPS mode. FIPS requires a non-empty Master Password."
@@ -96,11 +96,11 @@ msgstr "Тренутно се налазите у ФИПС начину рада
 
 #: pw_change_success_title
 msgid "Password Change Succeeded"
-msgstr ""
+msgstr "Лозинка је успешно промењена"
 
 #: pw_change_failed_title
 msgid "Password Change Failed"
-msgstr ""
+msgstr "Промена лозинке није успела"
 
 #: pw_remove_button
 msgid "Remove"
@@ -117,27 +117,27 @@ msgstr "Моја преузимања"
 
 #: chooseDownloadFolderTitle
 msgid "Choose Download Folder:"
-msgstr ""
+msgstr "Изаберите директоријум за пријем:"
 
 #### Download Actions
 # ### Download Actions
 #: extensionNone
 msgid "(NONE)"
-msgstr ""
+msgstr "(НИЈЕДАН)"
 
 #: removeButtonSingle
 #: removeTitleSingle
 msgid "Remove Action"
-msgstr ""
+msgstr "Уклони дејство"
 
 #: removeButtonMultiple
 #: removeTitleMultiple
 msgid "Remove Actions"
-msgstr "Уклони Дејства"
+msgstr "Уклони дејства"
 
 #: removeMessageSingle
 msgid "The selected Action will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove this Action?"
-msgstr ""
+msgstr "Изабрано дејство неће више бити извршавано при пријему датотека одговарајућег типа.  Да ли сигурно желите да уклоните ово дејство?"
 
 #: removeMessageMultiple
 msgid "The selected Actions will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove these Actions?"
@@ -157,11 +157,11 @@ msgstr "Отвори са %S"
 
 #: actionsFiltered
 msgid "The following Actions match your search:"
-msgstr ""
+msgstr "Ово су дејства која се поклапају са претрагом:"
 
 #: actionsAll
 msgid "Automatically perform the associated Action with each of the following file types:"
-msgstr ""
+msgstr "Аутоматски изврши дејство над сваким од наредних типова датотека:"
 
 #### Change Action
 #: extensionStringFormat
@@ -170,19 +170,19 @@ msgstr "%S, %S"
 
 #: downloadHelperNoneSelected
 msgid "None Selected"
-msgstr ""
+msgstr "Ниједан није изабран"
 
 #: pluginHelperNoneAvailable
 msgid "None Available"
-msgstr ""
+msgstr "Ниједан није доступан"
 
 #: fpTitleChooseApp
 msgid "Select Helper Application"
-msgstr ""
+msgstr "Избор помоћног програма"
 
 #: fpTitleChooseDL
 msgid "Select Download Folder"
-msgstr "Одабери одредишну фасциклу"
+msgstr "Избор одредишну фасциклу"
 
 #### Fonts
 # LOCALIZATION NOTE: Next two strings are for language name representations with
@@ -192,20 +192,20 @@ msgstr "Одабери одредишну фасциклу"
 # ### Fonts
 #: languageRegionCodeFormat
 msgid "%1$S/%2$S  [%3$S]"
-msgstr ""
+msgstr "%1$S/%2$S  [%3$S]"
 
 #   %1$S = language name, %2$S = language-region code
 #: languageCodeFormat
 msgid "%1$S  [%2$S]"
-msgstr ""
+msgstr "%1$S  [%2$S]"
 
 # LOCALIZATION NOTE: dpi stands for 'dots per inch'
 #: fontScalingResolutionFormat
 msgid "%S dpi"
-msgstr ""
+msgstr "%S тпи"
 
 #### Sound Notifications
 # ### Sound Notifications
 #: soundFilePickerTitle
 msgid "Choose Sound"
-msgstr ""
+msgstr "Избор звука"
