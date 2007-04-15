@@ -1,0 +1,71 @@
+# extracted from source/sr-RS/toolkit/chrome/cookie/cookieAcceptDialog.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-23 23:43+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: props.box.label
+msgid "About this cookie"
+msgstr "О овом колачићу"
+
+#: props.name.label
+msgid "Name:"
+msgstr "Име:"
+
+#: props.value.label
+msgid "Content:"
+msgstr "Садржај:"
+
+#: props.domain.label
+msgid "Host:"
+msgstr "Домен:"
+
+#: props.path.label
+msgid "Path:"
+msgstr "Стаза:"
+
+#: props.secure.label
+msgid "Send For:"
+msgstr "Шаљи при:"
+
+#: props.expires.label
+msgid "Expires:"
+msgstr "Рок трајања:"
+
+#: props.policy.label
+msgid "Policy:"
+msgstr "Полиса:"
+
+#: button.allow.label
+#: button.allow.accesskey
+msgid "&Allow"
+msgstr "&Дозволи"
+
+#: button.session.label
+#: button.session.accesskey
+msgid "Allow for &Session"
+msgstr "Дозволи за &сесију"
+
+#: button.deny.label
+#: button.deny.accesskey
+msgid "&Deny"
+msgstr "&Забрани"
+
+#: dialog.title
+msgid "Confirm setting cookie"
+msgstr "Потврда поставке за колачић"
+
+#: dialog.remember.label
+#: dialog.remember.accesskey
+msgid "&Use my choice for all cookies from this site"
+msgstr "&Користи овај избор за све колачиће са овог сајта"

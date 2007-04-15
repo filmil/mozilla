@@ -1,0 +1,105 @@
+# extracted from source/sr-RS/mail/chrome/messenger/migration/migration.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-04-12 01:19+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: profileName_format
+msgid "%S %S"
+msgstr "%S %S"
+
+# Browser Specific
+#: sourceNameSeamonkey
+msgid "Netscape 6/7/Mozilla"
+msgstr "Netscape 6/7/Mozilla"
+
+#: sourceNameDogbert
+msgid "Netscape 4"
+msgstr "Netscape 4"
+
+#
+# The following are used by the outlook express import code to display status/error
+# and informational messages
+# Short name of import module
+# # @name OEIMPORT_NAME
+# # @loc None
+# # LOCALIZATION NOTE (2000): DONT_TRANSLATE
+#: sourceNameOExpress
+msgid "Outlook Express"
+msgstr "Аутлук експрес"
+
+#: sourceNameOutlook
+msgid "Outlook"
+msgstr "Аутлук"
+
+# Import Sources
+#: 1_dogbert
+#: 1_seamonkey
+msgid "Preferences"
+msgstr "Подешавања"
+
+#: 2_dogbert
+#: 2_seamonkey
+#: 2_oexpress
+#: 2_outlook
+msgid "Account Settings"
+msgstr "Подешавања налога"
+
+#: 4_dogbert
+#: 4_seamonkey
+msgid "Address Books"
+msgstr "Адресари"
+
+#: 4_oexpress
+#: 4_outlook
+msgid "Address Book"
+msgstr "Адресар"
+
+#: 8_dogbert
+#: 8_seamonkey
+msgid "Junk Mail Training"
+msgstr "Обука разврстача поште"
+
+#: 16_dogbert
+#: 16_seamonkey
+msgid "Saved Passwords"
+msgstr "Сачуване лозинке"
+
+#: 32_dogbert
+#: 32_seamonkey
+msgid "Other Data"
+msgstr "Остали подаци"
+
+#: 64_dogbert
+#: 64_seamonkey
+msgid "Newsgroup Folders"
+msgstr "Фасцикле са групама"
+
+#: 128_dogbert
+#: 128_seamonkey
+#: 128_oexpress
+#: 128_outlook
+msgid "Mail Folders"
+msgstr "Фасцикле са поштом"
+
+# mailDirName needs to be set to the same value as in 4.x
+# see bug #55449
+#: mailDirName
+msgid "Mail"
+msgstr "Mail"
+
+# newsDirName needs to be set to the same value as in 4.x
+# see bug #55449
+#: newsDirName
+msgid "News"
+msgstr "News"

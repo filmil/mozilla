@@ -1,0 +1,87 @@
+# extracted from source/sr-RS/dom/chrome/dom/dom.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: KillScriptTitle
+msgid "Warning: Unresponsive script"
+msgstr "Упозорење: Скрипта не одговара"
+
+#: KillScriptMessage
+msgid "A script on this page may be busy, or it may have stopped responding. You can stop the script now, or you can continue to see if the script will complete."
+msgstr "Скрипта на овој страни је заузета или се заглупела. Можете зауставити скрипту или можете сачекати њен завршетак."
+
+#: KillScriptWithDebugMessage
+msgid "A script on this page may be busy, or it may have stopped responding. You can stop the script now, open the script in the debugger, or let the script continue."
+msgstr ""
+
+#: StopScriptButton
+msgid "Stop script"
+msgstr "Заустави скрипту"
+
+#: DebugScriptButton
+msgid "Debug script"
+msgstr ""
+
+#: WaitForScriptButton
+msgid "Continue"
+msgstr "Наставак"
+
+#: JSURLLoadBlockedWarning
+msgid ""
+"Attempt to load a javascript: URL from one host\n"
+"in a window displaying content from another host\n"
+"was blocked by the security manager."
+msgstr "Покушавам да учитам javascript: адреса са једног хостау прозору приказује садржај са другог хостапа је блокиран менаџером безбедности."
+
+#: WindowCloseBlockedWarning
+msgid "Scripts may not close windows that were not opened by script."
+msgstr "Скрипт не може да затвори прозор који он није отворио."
+
+#: OnBeforeUnloadPreMessage
+msgid "Are you sure you want to navigate away from this page?"
+msgstr "Да ли сте сигурни да желите да напустите ову страну?"
+
+#: OnBeforeUnloadPostMessage
+msgid "Press OK to continue, or Cancel to stay on the current page."
+msgstr "Притисните У реду за наставак, или Одустани да останете на текућој страни."
+
+#: DocumentAllUsed
+msgid "Non-standard document.all property was used. Use W3C standard document.getElementById() instead."
+msgstr "Не стандардни document.all је коришћен. Уместо тога користи W3C стандард document.getElementById()."
+
+#: GlobalScopeElementReference
+msgid "Element referenced by ID/NAME in the global scope. Use W3C standard document.getElementById() instead."
+msgstr "Елеменат се ослања на ID/NAME у општој области. Уместо тога користите стандардно W3C document.getElementById()."
+
+#: UseOfCaptureEventsWarning
+msgid "Use of captureEvents() is deprecated, see bug 330494."
+msgstr ""
+
+#: UseOfReleaseEventsWarning
+msgid "Use of releaseEvents() is deprecated, see bug 330494."
+msgstr ""
+
+#: UseOfRouteEventWarning
+msgid "Use of routeEvent() is deprecated, see bug 330494."
+msgstr ""
+
+#: UseOfPreventBubbleWarning
+msgid "Event=%S, use of preventBubble() is deprecated. Use W3C standard stopPropagation() instead."
+msgstr ""
+
+#: UseOfPreventCaptureWarning
+msgid "Event=%S, use of preventCapture() is deprecated. Use W3C standard stopPropagation() instead."
+msgstr ""

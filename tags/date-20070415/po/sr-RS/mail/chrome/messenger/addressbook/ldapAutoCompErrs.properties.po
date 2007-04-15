@@ -1,0 +1,230 @@
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is the mozilla.org autocomplete code.
+#
+# The Initial Developer of the Original Code is
+# Netscape Communications Corporation.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s):
+#   Dan Mosedale <dmose@netscape.com>
+#   Robin Foster-Clark <robinf@netscape.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+# extracted from source/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-04-15 18:41+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# These are error strings for problems that happen while in the
+# various states declared in nsILDAPAutoCompFormatter.idl.  Note that
+# the number that indexes each error state is the same as the number 
+# corresponding to that state in nsILDAPAutoCompFormatter.idl.
+## @name ERR_STATE_UNBOUND
+## @loc none
+# the number that indexes each error state is the same as the number
+# # @name ERR_STATE_UNBOUND
+# # @loc none
+#: 0
+msgid "LDAP initialization problem"
+msgstr "Грешка при покретању LDAPа"
+
+## @name ERR_STATE_INITIALIZING
+## @loc none
+## @name ERR_STATE_BINDING
+# # @name ERR_STATE_INITIALIZING
+# # @loc none
+# # @name ERR_STATE_BINDING
+#: 1
+#: 2
+msgid "LDAP server connection failed"
+msgstr "Повезивање са LDAP сервером није успело"
+
+## @name ERR_STATE_BOUND
+## @loc none
+# # @name ERR_STATE_BOUND
+# # @loc none
+#: 3
+msgid "LDAP server communications problem"
+msgstr "Проблем при комуникацијом са LDAP сервером"
+
+## @name ERR_STATE_SEARCHING
+## @loc none
+# # @name ERR_STATE_SEARCHING
+# # @loc none
+#: 4
+msgid "LDAP server search problem"
+msgstr "Проблем при претрази LDAP сервера"
+
+# The format of the alert dialog itself
+#
+## @name ALERT_FORMAT
+## @loc None of %1$S, %2$S, %3$S, and %4$S should be localized.  %1$S is the 
+##      ERROR_CODE string below, %2$S is the error code itself, %3$S is an
+##      LDAP SDK error message from chrome://mozldap/locale/ldap.properties,
+##      and %4$S is a hint relating to that specific error, found in this file.
+# # @name ALERT_FORMAT
+# # @loc None of %1$S, %2$S, %3$S, and %4$S should be localized.  %1$S is the
+# #      ERROR_CODE string below, %2$S is the error code itself, %3$S is an
+# #      LDAP SDK error message from chrome://mozldap/locale/ldap.properties,
+# #      and %4$S is a hint relating to that specific error, found in this file.
+#: alertFormat
+msgid ""
+"%1$S %2$S: %3$S\n"
+"\n"
+" %4$S"
+msgstr "%1$S %2$S: %3$S\n"
+"\n"
+" %4$S"
+
+# This string is used in ALERT_FORMAT
+#
+## @name ERROR_CODE
+## @loc none
+# # @name ERROR_CODE
+# # @loc none
+#: errCode
+msgid "Error code"
+msgstr "Код грешке"
+
+## The following errors are for error codes other than LDAP-specific ones.
+## Someday mozilla will actually have a system for mapping nsresults to
+## error strings that's actually widely used, unlike nsIErrorService.  But
+## until it does, these strings live here...
+## @name HOST_NOT_FOUND
+## @loc none
+# # The following errors are for error codes other than LDAP-specific ones.
+# # Someday mozilla will actually have a system for mapping nsresults to
+# # error strings that's actually widely used, unlike nsIErrorService.  But
+# # until it does, these strings live here...
+# # @name HOST_NOT_FOUND
+# # @loc none
+#: 5000
+msgid "Host not found"
+msgstr "Рачунар није нађен"
+
+## @name GENERIC_ERROR
+## @loc none
+# # @name GENERIC_ERROR
+# # @loc none
+#: 9999
+msgid "Unknown error"
+msgstr "Непозната грешка"
+
+# Hints to for the user, associated with specific error codes (ie error code
+# + 10000)
+## @name TIMELIMIT_EXCEEDED_HINT
+## @loc none
+# # @name TIMELIMIT_EXCEEDED_HINT
+# # @loc none
+#: 10003
+msgid "Please try again later, or else contact your System Administrator."
+msgstr "Молимо пробајте касније, или се обратите управнику система."
+
+## @name STRONGAUTH_REQUIRED_HINT
+## @loc none
+# # @name STRONGAUTH_REQUIRED_HINT
+# # @loc none
+#: 10008
+msgid "Strong authentication is not currently supported."
+msgstr "Јака аутентификација тренутно није подржана."
+
+## @name INVALID_SYNTAX_HINT
+## @loc none
+## @name FILTER_ERROR_HINT
+# # @name INVALID_SYNTAX_HINT
+# # @loc none
+# # @name FILTER_ERROR_HINT
+#: 10021
+#: 10087
+msgid "Verify that the search filter is correct, and then try again, or else contact your System Administrator. To verify that the search filter is correct, from the Edit menu, choose Preferences, then choose Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and select the LDAP server being used. Click Edit, and then click Advanced to display the Search Filter."
+msgstr "Проверите да ли је филтер за претрагу исправан и онда пробајте опет, или се обратите за помоћ администратору вашег система.  Да бисте проверили да је филтер за претрагу исправан, из менија Уреди изаберите ставку Поставке, затим Пошта и групе и онда Адресирање.  Притисните Уреди директоријуме, и изаберите LDAP сервер који се користи.  Притисните Уреди, затим Напредно да бисте приказали филтер за претрагу."
+
+## @name NO_SUCH_OBJECT_HINT
+## @loc none
+# # @name NO_SUCH_OBJECT_HINT
+# # @loc none
+#: 10032
+msgid "Verify that the Base DN is correct, and then try again, or else contact your System Administrator. To verify that the Base DN is correct, from the Edit menu, choose Preferences, then choose Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and select the LDAP server being used. Click Edit to display the Base DN."
+msgstr "Проверите да ли је основни DN исправан и затим пробајте поново, или се обратите управнику система. Да бисте проверили да је основни DN исправан, из менија Уреди изаберите Поставке, затим Пошта и групе, а затим Адресирање. Притисните Уреди директоријуме, а онда име LDAP сервера који се користи. Притисните Уреди како бисте приказали основни DN."
+
+## @name BUSY_HINT
+## @loc none
+## @name TIMEOUT_HINT
+# # @name BUSY_HINT
+# # @loc none
+# # @name TIMEOUT_HINT
+#: 10051
+#: 10085
+msgid "Please try again later."
+msgstr "Молимо да покушате касније."
+
+## @name SERVER_DOWN_HINT
+## @loc none
+## @name CONNECT_ERROR_HINT
+# # @name SERVER_DOWN_HINT
+# # @loc none
+# # @name CONNECT_ERROR_HINT
+#: 10081
+#: 10091
+msgid "Verify that the Hostname and Port Number are correct, and then try again, or else contact your System Administrator. To verify that the Hostname and Port Number are correct, from the Edit menu, choose Preferences, then choose Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and select the LDAP server being used. Click Edit to display the Hostname. Click Advanced to display the Port Number."
+msgstr "Проверите да ли су име рачунара и број порта исправно унети, и затим пробајте поново или се обратите администраторз вашег система за помоћ.  Да бисте проверили да су име рачунара и број порта исправни, из менија Уреди изаберите Поставке, затим Пошта и групе и најзад Адресирање. Притисните Уреди директоријуме, и изаберите LDAP сервер који се користи.  Пристините Уреди да бисте видели име рачунара.  Притисните Напредно да бисте видели број порта."
+
+## @name NO_MEMORY_HINT
+## @loc none
+# # @name NO_MEMORY_HINT
+# # @loc none
+#: 10090
+msgid "Please close some other windows and/or applications and try again."
+msgstr "Молимо затворите неке од прозора или програма и пробајте поново."
+
+## @name HOST_NOT_FOUND_HINT
+## @loc none
+# # @name HOST_NOT_FOUND_HINT
+# # @loc none
+#: 15000
+msgid "Verify that the Hostname is correct, and then try again, or else contact your System Administrator. To verify that the Hostname is correct, from the Edit menu, choose Preferences, then choose Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and select the LDAP server being used. Click Edit to display the Hostname."
+msgstr "Проверите да је име рачунара исправно, затим пробајте поново или се обратите управнику система. Да бисте проверили име рачунара и порт, из менија Уреди изаберите Поставке, затим изаберите Пошта и групе, затим изаберите Адресирање. Изаберите Уреди директоријуме и изаберите LDAP сервер који се користи. Притисните Уреди да прикажете име рачунара."
+
+## @name GENERIC_HINT
+## @loc none
+# # @name GENERIC_HINT
+# # @loc none
+#: 19999
+msgid "Please contact your System Administrator."
+msgstr "Молимо обратите се управнику система."

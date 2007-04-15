@@ -1,0 +1,43 @@
+2007-04-15  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po:  Још превода.
+
+	* Makefile (publish): Додат циљ за објаву превода у ЦВС
+
+2007-04-12  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger/search-attributes.properties.po: Још превода. 
+
+2007-01-26  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger/start.dtd.po: Још превода.
+
+	* po/sr-RS/mail/chrome/messenger/am-main.dtd.po: Још превода.
+
+2007-01-25  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/toolkit/installer/windows/install.it.po: Готов
+	Виндовсов инсталатер.
+
+2007-01-23  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/toolkit/chrome/global/filepicker.properties.po: Дошао
+	сам довде у превођењу.
+
+	* uputstvo.utf8.txt: Реорганизовао датотеке.
+
+2006-11-16  Filip Miletic  <filmil@gmail.com>
+
+	* ZADACI.utf8.txt: Refresh.
+
+	* scripts/blind-copy.sh (CMDLINE): Added script to blind copy files.
+	Some additional refactoring.
+
+2006-11-15  Filip Miletic  <filmil@gmail.com>
+
+	* dictionary/thunderbird.po: Почео сам са уређивањем датотеке
+
+2006-11-14  Filip Miletic  <filmil@gmail.com>
+
+	* Први упис.
+
