@@ -1,16 +1,3 @@
-po/sr-RS/mail/chrome/messenger/addressbook
-po/sr-RS/mail/chrome/messenger/addressbook/abAddressBookNameDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abNewCardDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abResultsPaneOverlay.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/addressBook.properties.po
-po/sr-RS/mail/chrome/messenger/addressbook/abDirTreeOverlay.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abSelectAddressesDialog.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/pref-directory.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/pref-directory-add.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties.po
-po/sr-RS/mail/chrome/messenger/addressbook/abCardViewOverlay.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/abMainWindow.dtd.po
-po/sr-RS/mail/chrome/messenger/addressbook/replicationProgress.properties.po
 po/sr-RS/mail/chrome/messenger/addressbook/abMailListDialog.dtd.po
 po/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po
 po/sr-RS/mail/chrome/messenger/addressbook/abContactsPanel.dtd.po
