@@ -1,2 +1,12 @@
 Датотеке на којима тренутно радим:
 
+po/sr-RS/mail/chrome/messenger-newsblog
+po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.dtd.po
+po/sr-RS/mail/chrome/messenger-newsblog/feed-properties.dtd.po
+po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.properties.po
+po/sr-RS/mail/chrome/messenger-newsblog/feed-subscriptions.dtd.po
+po/sr-RS/mail/chrome/messenger-newsblog/newsblog.properties.po
+po/sr-RS/mail/chrome/messenger-newsblog/newsblog.dtd.po
+po/sr-RS/mail/chrome/global-platform
+po/sr-RS/mail/chrome/global-platform/win
+po/sr-RS/mail/chrome/global-platform/win/nsWindowsHooks.properties.po
