@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/installer/mui.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 18:47+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +63,7 @@ msgstr ""
 # from en-US contains a \n.
 #: MUI_TEXT_WELCOME_INFO_TITLE
 msgid "Welcome to the $(^NameDA) Setup Wizard"
-msgstr ""
+msgstr "Добродошчли код чаробњака за подешавање програма $(^NameDA)."
 
 #: MUI_TEXT_WELCOME_INFO_TEXT
 msgid ""
@@ -74,30 +73,35 @@ msgid ""
 "\n"
 "$_CLICK"
 msgstr ""
+"Чаробњак ће Вас провести кроз подешавање програма $(^NameDA).\n"
+"\n"
+"Препоручује се да затворите све остале програме пре него што кренете са инсталацијом. Тако ће рачунар моћи да освежи све битне системске датотеке без потребе за поновним покретањем.\n"
+"\n"
+"$_CLICK"
 
 #: MUI_TEXT_LICENSE_TITLE
 msgid "License Agreement"
-msgstr ""
+msgstr "Споразум о лиценци"
 
 #: MUI_TEXT_LICENSE_SUBTITLE
 msgid "Please review the license terms before installing $(^NameDA)."
-msgstr ""
+msgstr "Молимо да прегледате услове о лиценци пре него што инсталирате програм $(^NameDA)."
 
 #: MUI_INNERTEXT_LICENSE_TOP
 msgid "Press Page Down to see the rest of the agreement."
-msgstr ""
+msgstr "Притисните Page Down да бисте видели остатак споразума"
 
 #: MUI_INNERTEXT_LICENSE_BOTTOM_RADIOBUTTONS
 msgid "If you accept the terms of the agreement, select the first option below. You must accept the agreement to install $(^NameDA). $_CLICK"
-msgstr ""
+msgstr "Ако прихватате услове споразума, притисните прву опцију испод.  Морате да прихватите споразум да бисте инсталирали $(^NameDA). $_CLICK"
 
 #: MUI_TEXT_COMPONENTS_TITLE
 msgid "Choose Components"
-msgstr ""
+msgstr "Извор делова"
 
 #: MUI_TEXT_COMPONENTS_SUBTITLE
 msgid "Choose which features of $(^NameDA) you want to install."
-msgstr ""
+msgstr "Изаберите које делове програма $(^NameDA) желите да инсталирате."
 
 # Description
 # # @name MIME_MHTML_DESCRIPTION
@@ -108,47 +112,47 @@ msgstr "Опис"
 
 #: MUI_INNERTEXT_COMPONENTS_DESCRIPTION_INFO
 msgid "Position your mouse over a component to see its description."
-msgstr ""
+msgstr "Поставите миша изнад дела како бисте видели његов опис."
 
 #: MUI_TEXT_DIRECTORY_TITLE
 msgid "Choose Install Location"
-msgstr ""
+msgstr "Избор места за инсталацију"
 
 #: MUI_TEXT_DIRECTORY_SUBTITLE
 msgid "Choose the folder in which to install $(^NameDA)."
-msgstr ""
+msgstr "Изаберите директоријум у који ће програм $(^NameDA) бити инсталиран."
 
 #: MUI_TEXT_INSTALLING_TITLE
 msgid "Installing"
-msgstr ""
+msgstr "Инсталација"
 
 #: MUI_TEXT_INSTALLING_SUBTITLE
 msgid "Please wait while $(^NameDA) is being installed."
-msgstr ""
+msgstr "Молимо да сачекате док се програм $(^NameDA) инсталира."
 
 #: MUI_TEXT_FINISH_TITLE
 msgid "Installation Complete"
-msgstr "Завршена инсталација"
+msgstr "Инсталација је готова"
 
 #: MUI_TEXT_FINISH_SUBTITLE
 msgid "Setup was completed successfully."
-msgstr ""
+msgstr "Подешавање је успешно довршено."
 
 #: MUI_TEXT_ABORT_TITLE
 msgid "Installation Aborted"
-msgstr ""
+msgstr "Инсталација је отказана"
 
 #: MUI_TEXT_ABORT_SUBTITLE
 msgid "Setup was not completed successfully."
-msgstr ""
+msgstr "Подешавање је неуспешно."
 
 #: MUI_BUTTONTEXT_FINISH
 msgid "&Finish"
-msgstr ""
+msgstr "&Крај"
 
 #: MUI_TEXT_FINISH_INFO_TITLE
 msgid "Completing the $(^NameDA) Setup Wizard"
-msgstr ""
+msgstr "Крај рада са чаробњаком за подешавање програма $(^NameDA)"
 
 #: MUI_TEXT_FINISH_INFO_TEXT
 msgid ""
@@ -156,38 +160,41 @@ msgid ""
 "\n"
 "Click Finish to close this wizard."
 msgstr ""
+"Програм $(^NameDA) је инсталиран на ваш рачунар.\n"
+"\n"
+"Притисните „&Крај‟ како бисте затворили чаробњака."
 
 #: MUI_TEXT_FINISH_INFO_REBOOT
 msgid "Your computer must be restarted in order to complete the installation of $(^NameDA). Do you want to reboot now?"
-msgstr ""
+msgstr "Ваш рачунар мора да се поново покрене како би инсталација програма $(^NameDA) била довршена. Да ли желите да то урадите сада?"
 
 #: MUI_TEXT_FINISH_REBOOTNOW
 msgid "Reboot now"
-msgstr ""
+msgstr "Одмах поново покрени"
 
 #: MUI_TEXT_FINISH_REBOOTLATER
 msgid "I want to manually reboot later"
-msgstr ""
+msgstr "Урадићу то касније ручно"
 
 #: MUI_TEXT_STARTMENU_TITLE
 msgid "Choose Start Menu Folder"
-msgstr ""
+msgstr "Изаберите директоријум са стартним менијем"
 
 #: MUI_TEXT_STARTMENU_SUBTITLE
 msgid "Choose a Start Menu folder for the $(^NameDA) shortcuts."
-msgstr ""
+msgstr "Изаберите директоријум са старним менијем за скраћенице ка програму $(^NameDA)."
 
 #: MUI_INNERTEXT_STARTMENU_TOP
 msgid "Select the Start Menu folder in which you would like to create the program's shortcuts. You can also enter a name to create a new folder."
-msgstr ""
+msgstr "Изаберите директоријум за покретачки мени у којем желите да направите скраћенице за покретање програма.  Можете и да унесете име да бисте направили нови директоријум."
 
 #: MUI_TEXT_ABORTWARNING
 msgid "Are you sure you want to quit $(^Name) Setup?"
-msgstr ""
+msgstr "Да ли сигурно желите да завршите рад са инсталатером програма $(^Name)?"
 
 #: MUI_UNTEXT_WELCOME_INFO_TITLE
 msgid "Welcome to the $(^NameDA) Uninstall Wizard"
-msgstr ""
+msgstr "Добродошли у деинсталатер програма $(^NameDA)"
 
 #: MUI_UNTEXT_WELCOME_INFO_TEXT
 msgid ""
@@ -197,42 +204,47 @@ msgid ""
 "\n"
 "$_CLICK"
 msgstr ""
+"Овај чаробњак ће вас провести кроз деинсталацију програма $(^NameDA).\n"
+"\n"
+"Пре него што покренете деинсталацију, обезбедите да програм $(^NameDA) није покренут.\n"
+"\n"
+"$_CLICK"
 
 #: MUI_UNTEXT_CONFIRM_TITLE
 msgid "Uninstall $(^NameDA)"
-msgstr ""
+msgstr "Деинсталирај програм $(^NameDA)"
 
 #: MUI_UNTEXT_CONFIRM_SUBTITLE
 msgid "Remove $(^NameDA) from your computer."
-msgstr ""
+msgstr "Уклањање програма $(^NameDA) са рачунара."
 
 #: MUI_UNTEXT_UNINSTALLING_TITLE
 msgid "Uninstalling"
-msgstr ""
+msgstr "Деинсталација"
 
 #: MUI_UNTEXT_UNINSTALLING_SUBTITLE
 msgid "Please wait while $(^NameDA) is being uninstalled."
-msgstr ""
+msgstr "Молимо да сачекате док траје деинсталација програма $(^NameDA)."
 
 #: MUI_UNTEXT_FINISH_TITLE
 msgid "Uninstallation Complete"
-msgstr ""
+msgstr "Деинсталација је готова"
 
 #: MUI_UNTEXT_FINISH_SUBTITLE
 msgid "Uninstall was completed successfully."
-msgstr ""
+msgstr "Деинсталатер је успешно завршио посао."
 
 #: MUI_UNTEXT_ABORT_TITLE
 msgid "Uninstallation Aborted"
-msgstr ""
+msgstr "Деинсталација је прекинута"
 
 #: MUI_UNTEXT_ABORT_SUBTITLE
 msgid "Uninstall was not completed successfully."
-msgstr ""
+msgstr "Деинсталација је неуспешно завршена."
 
 #: MUI_UNTEXT_FINISH_INFO_TITLE
 msgid "Completing the $(^NameDA) Uninstall Wizard"
-msgstr ""
+msgstr "Крај рада са деинсталатером програма $(^NameDA)"
 
 #: MUI_UNTEXT_FINISH_INFO_TEXT
 msgid ""
@@ -240,11 +252,14 @@ msgid ""
 "\n"
 "Click Finish to close this wizard."
 msgstr ""
+"Програм $(^NameDA) је деинсталиран са вашег рачунара.\n"
+"\n"
+"Притисните „Крај‟ да затворите чаробњака."
 
 #: MUI_UNTEXT_FINISH_INFO_REBOOT
 msgid "Your computer must be restarted in order to complete the uninstallation of $(^NameDA). Do you want to reboot now?"
-msgstr ""
+msgstr "Рачунар мора да се поново покрене како би деинсталација програма $(^NameDA) била довршена. Да ли желите да то урадите одмах?"
 
 #: MUI_UNTEXT_ABORTWARNING
 msgid "Are you sure you want to quit $(^Name) Uninstall?"
-msgstr ""
+msgstr "Да ли сигурно желите да прекинете деинсталатера програма $(^Name)?"

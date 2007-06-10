@@ -2,13 +2,12 @@
 # This file is in the UTF-8 encoding. It is *not*
 # a Java .properties file and does *not* use \escapes
 # extracted from 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:48+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,216 +19,216 @@ msgstr ""
 
 #: Welcome_Title
 msgid "$ProductName$ Setup"
-msgstr ""
+msgstr "Подешавање за програм $ProductName$"
 
 #: Welcome_MessageWelcome
 msgid "Welcome to %s!"
-msgstr ""
+msgstr "Добро дошли у програм %s!"
 
 #: Welcome_Message0
 msgid "You are about to install %s 2 Alpha 1."
-msgstr ""
+msgstr "Ускоро ћете да инсталирате програм %s 2 Alpha 1."
 
 #: Welcome_Message1
 msgid "It is strongly recommended that you exit all Windows programs before running this Setup program."
-msgstr ""
+msgstr "Препоручујемо вам да угасите све друге програме пре него покренете овај програм."
 
 #: Welcome_Message2
 msgid "Click Cancel to quit Setup and then close any programs you have running.  Click Next to continue the Setup program."
-msgstr ""
+msgstr "Притисните „Откажи‟ да бисте напустили програм и затворили остале покренуте програме.  Притисните „Даље‟ како бисте наставили са радом у овом програму."
 
 #: Welcome_Message3
 msgid "Click Next to continue installing %s 2 Alpha 1."
-msgstr ""
+msgstr "Притисните „Даље‟ како бисте наставили са постављањем %s 2 Alpha 1."
 
 #: License_Title
 msgid "Software License Agreement"
-msgstr ""
+msgstr "Споразум о лиценцирању програма"
 
 #: License_SubTitle
 msgid "Terms and conditions for using this software."
-msgstr ""
+msgstr "Услови за употребу овог програма."
 
 #: License_Message0
 msgid "Please read the following license agreement. Use the scroll bar to view the rest of this agreement."
-msgstr ""
+msgstr "Молимо да прочитате дати споразум о лиценцирању.  Користите клизач како бисте прегледали и остатак споразума."
 
 #: License_Accept
 msgid "I &Accept the terms of the License Agreement"
-msgstr ""
+msgstr "&Прихватам споразум о лиценцирању"
 
 #: License_Decline
 msgid "I do NO&T Accept the terms of the License Agreement"
-msgstr ""
+msgstr "&Не прихватам споразум о лиценцирању"
 
 #: Type_Title
 msgid "Setup Type"
-msgstr ""
+msgstr "Врста инсталације"
 
 #: Type_SubTitle
 msgid "Choose setup options."
-msgstr ""
+msgstr "Изаберите начин инсталације."
 
 #: Type_Message0
 msgid "Choose the type of Setup you prefer, then click Next."
-msgstr ""
+msgstr "Изаберите врсту инсталације која Вам одговара, затим притисните „Даље‟."
 
 #: Standard_Short
 msgid "&Standard"
-msgstr ""
+msgstr "&Стандардна"
 
 #: Standard_Long
 msgid "Thunderbird will be installed with the most common options."
-msgstr ""
+msgstr "Програм Тандерберд (Thunderbird) биће постављен са уобичајеним могућностима."
 
 #: Custom_Short
 msgid "&Custom"
-msgstr ""
+msgstr "&Прилагођена"
 
 #: Custom_Long
 msgid "You may choose individual options to be installed. Recommended for experienced users."
-msgstr ""
+msgstr "Можете да изаберете могућности које желите да буду постављене.  Препоручује се искусним корисницима."
 
 #: Select_Title
 msgid "Select Components"
-msgstr ""
+msgstr "Избор делова"
 
 #: Select_SubTitle
 msgid "Additional components that enhance $ProductName$."
-msgstr ""
+msgstr "Додатни делови за побољшање програма $ProductName$."
 
 #: Select_Message0
 msgid "Choose additional components you want to install, then click Next."
-msgstr ""
+msgstr "Изаберите додатне делове које желите да инсталирате, затим притисните „Даље‟."
 
 #: Path_Title
 msgid "Install Folder"
-msgstr ""
+msgstr "Директоријум за инсталацију"
 
 #: Path_SubTitle
 msgid "Where $ProductName$ will be installed."
-msgstr ""
+msgstr "Место где ће програм $ProductName$ бити инсталиран."
 
 #: Path_Message0
 msgid "$ProductName$ will be installed into the following folder:"
-msgstr ""
+msgstr "Програм $ProductName$ биће инсталиран у овај директоријум:"
 
 #: Integration_Title
 msgid "Set Up Shortcuts"
-msgstr ""
+msgstr "Постављање скраћеница"
 
 #: Integration_SubTitle
 msgid "Creates Program Icons"
-msgstr ""
+msgstr "Прави сличице програма"
 
 #: Integration_Message0
 msgid "Create icons for $ProductShortName$:"
-msgstr ""
+msgstr "Направи сличице за програм $ProductShortName$:"
 
 #: Integration_Desktop
 msgid "On my Desktop"
-msgstr ""
+msgstr "На радној површини"
 
 #: Integration_StartMenu
 msgid "In my Start Menu Programs folder"
-msgstr ""
+msgstr "У менију за покретање програма"
 
 #: Integration_QuickLaunch
 msgid "In my Quick Launch bar"
-msgstr ""
+msgstr "На траци за брзо покретање"
 
 #: SelectFolder_Title
 msgid "$ProductName$ Setup - Select Program Folder"
-msgstr ""
+msgstr "Подешавање програма $ProductName$ - Избор директоријума"
 
 #: SelectFolder_Message0
 msgid "Setup will add program icons to the Program Folder listed below.  You may type a new folder name, or select one from the Existing Folders list.  Click Next to continue."
-msgstr ""
+msgstr "Инсталатер ће додати сличице програма у доле наведен директоријум.  Можете да унесете ново име директоријума или да изаберете један из списка постојећих.  Притисните „Даље‟ да наставите."
 
 #: Advanced_Title
 msgid "$ProductName$ Setup - Advanced Settings"
-msgstr ""
+msgstr "Инсталатер програма $ProductName$ - Напредна подешавања"
 
 #: Advanced_Message0
 msgid "If your Internet connection requires a proxy server, enter your server name and port information.  If your Internet connection doesn't require a proxy server, leave the fields blank."
-msgstr ""
+msgstr "Ако Ваша веза са Интернетом захтева посредника (proxy), можете да унесете његово име и податке о порту.  Ако веза са Интернетом не захтева посредника, оставите ово поље непопуњено."
 
 #: Install_Title
 msgid "Summary"
-msgstr ""
+msgstr "Сажетак"
 
 #: Install_SubTitle
 msgid "Ready to start installing $ProductName$."
-msgstr ""
+msgstr "Све је спремно за инсталацију програма $ProductName$."
 
 #: Install_MessageInstall
 msgid "Setup will now install the following components:"
-msgstr ""
+msgstr "Инсталатер ће поставити следеће делове:"
 
 #: Install_MessageDownload
 msgid "Setup will now download and install the following components:"
-msgstr ""
+msgstr "Инсталатер ће сада да преузме и инсталира следеће делове:"
 
 #: Install_Message0
 msgid "Click Next to continue."
-msgstr ""
+msgstr "Притисните „Даље‟ да наставите."
 
 #: Downloading_Title
 msgid "Downloading"
-msgstr "Преузимам"
+msgstr "Пријем"
 
 #: Downloading_SubTitle
 msgid "Downloading required components..."
-msgstr ""
+msgstr "Пријем неопходних делова..."
 
 #: Downloading_Blurb
 msgid "Setup is downloading the files required to install $ProductName$."
-msgstr ""
+msgstr "Инсталатер прима датотеке неопходне за инсталацију програма $ProductName$."
 
 #: Downloading_FileName
 msgid "Currently Downloading:"
-msgstr ""
+msgstr "Тренутни пријем:"
 
 #: Downloading_Time
 msgid "Time Remaining:"
-msgstr ""
+msgstr "Преостало време:"
 
 #: Installing_Title
 msgid "Installing"
-msgstr ""
+msgstr "Инсталација"
 
 #: Installing_SubTitle
 msgid "Installing $ProductName$..."
-msgstr ""
+msgstr "Инсталација програма $ProductName$..."
 
 #: Installing_Blurb
 msgid "Setup is installing application files."
-msgstr ""
+msgstr "Инсталатер поставља датотеке програма."
 
 #: Installing_Status
 msgid "Preparing File:"
-msgstr ""
+msgstr "Припрема датотеке:"
 
 #: Installing_Component
 msgid "Currently Installing:"
-msgstr ""
+msgstr "Тренутно се инсталира:"
 
 #: Success_Title
 #: Success_Header
 msgid "Install Complete"
-msgstr ""
+msgstr "Инсталација је готова"
 
 #: Success_Message0
 msgid "%s was successfully installed."
-msgstr ""
+msgstr "Програм %s је успешно инсталиран."
 
 #: Success_Message1
 msgid "Click Finish to complete Setup."
-msgstr ""
+msgstr "Притисните „Заврши‟ да завршите инсталацију"
 
 #: Success_Launch
 msgid "Launch %s now."
-msgstr ""
+msgstr "Покрени одмах програм %s."
 
 #: Check_Message
 msgid "Download of $ProductName$ was successful. $ProductNameInternal$ must be closed to proceed with installation. Click OK to exit $ProductNameInternal$ automatically and to begin installation."
@@ -237,40 +236,40 @@ msgstr ""
 
 #: Check_FullMessage
 msgid "$ProductNameInternal$ must be closed to proceed with installation. Click OK to exit $ProductNameInternal$ automatically and to begin installation."
-msgstr ""
+msgstr "Програм $ProductNameInternal$ мора да се заврши како би инсталација била настављена.  Притисните „У реду‟ како бисте аутоматски завришили рад са програмом $ProductNameInternal$ и како бисте почели инсталацију."
 
 #: Check_Wait
 msgid "Shutting down $ProductNameInternal$.  Please wait..."
-msgstr ""
+msgstr "Крај рада са програмом $ProductNameInternal$.  Молимо да сачекате..."
 
 #: Component_XPCOM
 msgid "Cross Platform COM"
-msgstr ""
+msgstr "Преносиви COM"
 
 #: Component_Mail
 msgid "$ProductName$"
-msgstr ""
+msgstr "$ProductName$"
 
 #: Component_Offline
 msgid "Offline Support"
-msgstr ""
+msgstr "Корисничка подршка"
 
 #: Component_Offline_Long
 msgid "Adds Offline support to $ProductName$ Mail."
-msgstr ""
+msgstr "Додавање корисничке подршке у програм $ProductName$."
 
 #: Component_RSS
 msgid "RSS Support"
-msgstr ""
+msgstr "Подршка за РСС"
 
 #: Component_RSS_Long
 msgid "Adds RSS support to $ProductName$."
-msgstr ""
+msgstr "Додаје подршку за РСС у програм $ProductName$."
 
 #: Component_QFA
 msgid "Quality Feedback Agent"
-msgstr ""
+msgstr "Повратна информација о квалитету"
 
 #: Component_QFA_Long
 msgid "for reporting $ProductName$ crash information"
-msgstr ""
+msgstr "за пријаву проблема са програмом $ProductName$"

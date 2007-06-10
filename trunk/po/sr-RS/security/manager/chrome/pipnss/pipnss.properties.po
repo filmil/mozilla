@@ -45,7 +45,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 18:50+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -98,9 +98,8 @@ msgstr "Програмско формирање заштите"
 # 32
 #: PrivateTokenDescription
 #: InternalToken
-#, fuzzy
 msgid "Software Security Device"
-msgstr "Програмско формирање заштите"
+msgstr "Програмски уређај за безбедност"
 
 #
 # 64 bytes long after conversion to UTF8
@@ -530,75 +529,75 @@ msgstr "Грешка: немогуће одрадити проширење"
 
 #: CertDumpIsCA
 msgid "Is a Certificate Authority"
-msgstr ""
+msgstr "је ауторитет за сертификацију"
 
 #: CertDumpIsNotCA
 msgid "Is not a Certificate Authority"
-msgstr ""
+msgstr "није ауторитет за сертификацију"
 
 #: CertDumpPathLen
 msgid "Maximum number of intermediate CAs: %S"
-msgstr ""
+msgstr "Највећи број посредних сертификата: %S"
 
 #: CertDumpPathLenUnlimited
 msgid "unlimited"
-msgstr ""
+msgstr "неограничен"
 
 #: CertDumpEKU_1_3_6_1_5_5_7_3_1
 msgid "TLS Web Server Authentication"
-msgstr ""
+msgstr "Аутентификација кроз ТЛС мрежни сервер"
 
 #: CertDumpEKU_1_3_6_1_5_5_7_3_2
 msgid "TLS Web Client Authentication"
-msgstr ""
+msgstr "Аутентификација кроз ТЛС мрежни клијент"
 
 #: CertDumpEKU_1_3_6_1_5_5_7_3_3
 msgid "Code Signing"
-msgstr ""
+msgstr "Потписивање кода"
 
 #: CertDumpEKU_1_3_6_1_5_5_7_3_4
 msgid "E-mail protection"
-msgstr ""
+msgstr "Заштита ел. поште"
 
 #: CertDumpEKU_1_3_6_1_5_5_7_3_8
 msgid "Time Stamping"
-msgstr ""
+msgstr "Временска ознака"
 
 #: CertDumpEKU_1_3_6_1_5_5_7_3_9
 msgid "OCSP Signing"
-msgstr ""
+msgstr "OCSP потпис"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_2_1_21
 msgid "Microsoft Individual Code Signing"
-msgstr ""
+msgstr "Микрософтов појединачни потпис кода"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_2_1_22
 msgid "Microsoft Commercial Code Signing"
-msgstr ""
+msgstr "Микрософтов комерцијални потпис кода"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_1
 msgid "Microsoft Trust List Signing"
-msgstr ""
+msgstr "Микрософтов потпис листе поверења"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_2
 msgid "Microsoft Time Stamping"
-msgstr ""
+msgstr "Микрософтова временска ознака"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_3
 msgid "Microsoft Server Gated Crypto"
-msgstr ""
+msgstr "Контролисане шифре Микрософтовог сервера"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_4
 msgid "Microsoft Encrypting File System"
-msgstr ""
+msgstr "Микрософтов шифрујући систем датотека"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_4_1
 msgid "Microsoft File Recovery"
-msgstr ""
+msgstr "Микрософтов опоравак датотека"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_5
 msgid "Microsoft Windows Hardware Driver Verification"
-msgstr ""
+msgstr "Микрософтова провера хардверских драјвера"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_10
 msgid "Microsoft Qualified Subordination"

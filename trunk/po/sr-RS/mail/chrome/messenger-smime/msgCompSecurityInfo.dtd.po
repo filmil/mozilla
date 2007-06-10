@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +34,7 @@ msgstr "Дигитални потпис:"
 
 #: status.encrypted
 msgid "Encrypted:"
-msgstr "Шифра:"
+msgstr "Шифрован:"
 
 #: status.certificates
 msgid "Certificates:"
@@ -48,7 +47,7 @@ msgstr "&Преглед"
 
 #: tree.recipient
 msgid "Recipient"
-msgstr "Прималац"
+msgstr "Прима"
 
 #: tree.status
 msgid "Status"
@@ -56,8 +55,8 @@ msgstr "Статус"
 
 #: tree.issuedDate
 msgid "Issued"
-msgstr ""
+msgstr "Издат"
 
 #: tree.expiresDate
 msgid "Expires"
-msgstr ""
+msgstr "Истиче"

@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/installer/override.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 18:20+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -66,35 +65,35 @@ msgstr ""
 # (e.g. ""This will include quotes"").
 #: SetupCaption
 msgid "$(^Name) Setup"
-msgstr ""
+msgstr "Подешавање програма $(^Name)"
 
 #: UninstallCaption
 msgid "$(^Name) Uninstall"
-msgstr ""
+msgstr "Деинсталација програма $(^Name)"
 
 #: BackBtn
 msgid "< &Back"
-msgstr ""
+msgstr "< &Назад"
 
 #: NextBtn
 msgid "&Next >"
-msgstr ""
+msgstr "&Даље >"
 
 #: AcceptBtn
 msgid "I &accept the terms in the License Agreement"
-msgstr ""
+msgstr "&Прихватам услове споразума о лиценци"
 
 #: DontAcceptBtn
 msgid "I &do not accept the terms in the License Agreement"
-msgstr ""
+msgstr "&Не прихватам услове споразума о лиценци"
 
 #: InstallBtn
 msgid "&Install"
-msgstr ""
+msgstr "&Инсталирај"
 
 #: UninstallBtn
 msgid "&Uninstall"
-msgstr ""
+msgstr "&Деинсталирај"
 
 #: CancelBtn
 msgid "Cancel"
@@ -108,67 +107,67 @@ msgstr "&Затвори"
 
 #: BrowseBtn
 msgid "B&rowse..."
-msgstr ""
+msgstr "&Преглед..."
 
 #: ShowDetailsBtn
 msgid "Show &details"
-msgstr ""
+msgstr "Приказ &детаља"
 
 #: ClickNext
 msgid "Click Next to continue."
-msgstr ""
+msgstr "Притисните „Даље‟ да наставите."
 
 #: ClickInstall
 msgid "Click Install to start the installation."
-msgstr ""
+msgstr "Притисните „Инсталирај‟ да покренете инсталацију."
 
 #: ClickUninstall
 msgid "Click Uninstall to start the uninstallation."
-msgstr ""
+msgstr "Притисните „Деинсталирај‟ да покренете инсталацију."
 
 #: Completed
 msgid "Completed"
-msgstr ""
+msgstr "Готово"
 
 #: LicenseTextRB
 msgid "Please review the license agreement before installing $(^NameDA). If you accept all terms of the agreement, select the first option below. $_CLICK"
-msgstr ""
+msgstr "Молимо да прегледате споразум о лиценци пре него што инсталирате програм $(^NameDA). Ако прихватате све услове лиценце, изаберите прву опцију испод. $_CLICK"
 
 #: ComponentsText
 msgid "Check the components you want to install and uncheck the components you don't want to install. $_CLICK"
-msgstr ""
+msgstr "Изаберите делове које желите да поставите и искљулите делове које не желите. $_CLICK"
 
 #: ComponentsSubText2_NoInstTypes
 msgid "Select components to install:"
-msgstr ""
+msgstr "Изаберите делове за инсталацију:"
 
 #: DirText
 msgid "Setup will install $(^NameDA) in the following folder. To install in a different folder, click Browse and select another folder. $_CLICK"
-msgstr ""
+msgstr "Инсталатер ће поставити програм $(^NameDA) у наведени директоријум.  Да бисте инсталирали у неки други директоријум, притисните „Преглед‟ и изаберите неки други директоријум. $_CLICK"
 
 #: DirSubText
 msgid "Destination Folder"
-msgstr ""
+msgstr "Одредишни директоријум"
 
 #: DirBrowseText
 msgid "Select the folder to install $(^NameDA) in:"
-msgstr ""
+msgstr "Изаберите директоријум у који ћете инсталирати програм $(^NameDA):"
 
 #: SpaceAvailable
 msgid "\"Space available: \""
-msgstr ""
+msgstr "\"Доступни простор: \""
 
 #: SpaceRequired
 msgid "\"Space required: \""
-msgstr ""
+msgstr "\"Потребан простор: \""
 
 #: UninstallingText
 msgid "$(^NameDA) will be uninstalled from the following folder. $_CLICK"
-msgstr ""
+msgstr "Програм $(^NameDA) ће бити уклоњен из наведеног директоријума. $_CLICK"
 
 #: UninstallingSubText
 msgid "Uninstalling from:"
-msgstr ""
+msgstr "Уклањање из:"
 
 #: FileError
 msgid ""
@@ -180,6 +179,13 @@ msgid ""
 "Retry to try again, or\\r\n"
 "Ignore to skip this file."
 msgstr ""
+"Грешка при отварању датотеке за упис: \\r\n"
+"\\r\n"
+"$0\\r\n"
+"\\r\n"
+"Притисните „Откажи‟ да прекинете инсталацију,\\r\n"
+"„Понови‟ да пробате опет, или\\r\n"
+"„Занемари‟ да прескочите ову датотеку."
 
 #: FileError_NoIgnore
 msgid ""
@@ -190,122 +196,128 @@ msgid ""
 "Click Retry to try again, or\\r\n"
 "Cancel to stop the installation."
 msgstr ""
+"Грешка при отварању датотеке за упис: \\r\n"
+"\\r\n"
+"$0\\r\n"
+"\\r\n"
+"Притисните „Понови‟ да пробате опет, или\\r\n"
+"„Откажи‟ да прекинете инсталацију."
 
 #: CantWrite
 msgid "\"Can't write: \""
-msgstr ""
+msgstr "\"Није могућ упис: \""
 
 #: CopyFailed
 msgid "Copy failed"
-msgstr ""
+msgstr "Умножавање није успело"
 
 #: CopyTo
 msgid "\"Copy to \""
-msgstr ""
+msgstr "\"Умножи у \""
 
 #: Registering
 msgid "\"Registering: \""
-msgstr ""
+msgstr "\"Пријава: \""
 
 #: Unregistering
 msgid "\"Unregistering: \""
-msgstr ""
+msgstr "\"Одјава: \""
 
 #: SymbolNotFound
 msgid "\"Could not find symbol: \""
-msgstr ""
+msgstr "\"Није могуће пронаћи симбол: \""
 
 #: CouldNotLoad
 msgid "\"Could not load: \""
-msgstr ""
+msgstr "\"Није могуће учитати: \""
 
 #: CreateFolder
 msgid "\"Create folder: \""
-msgstr ""
+msgstr "\"Направи директоријум: \""
 
 #: CreateShortcut
 msgid "\"Create shortcut: \""
-msgstr ""
+msgstr "\"Направи скраћеницу: \""
 
 #: CreatedUninstaller
 msgid "\"Created uninstaller: \""
-msgstr ""
+msgstr "\"Направи деинсталатера: \""
 
 #: Delete
 msgid "\"Delete file: \""
-msgstr ""
+msgstr "\"Уклони датотеку: \""
 
 #: DeleteOnReboot
 msgid "\"Delete on reboot: \""
-msgstr ""
+msgstr "\"Уклони при рестарту: \""
 
 #: ErrorCreatingShortcut
 msgid "\"Error creating shortcut: \""
-msgstr ""
+msgstr "\"Грешка при уклањању скраћенице: \""
 
 #: ErrorCreating
 msgid "\"Error creating: \""
-msgstr ""
+msgstr "\"Грешка при стварању: \""
 
 #: ErrorDecompressing
 msgid "Error decompressing data! Corrupted installer?"
-msgstr ""
+msgstr "Грешка при декомпресији података! Инсталатер је можда покварен."
 
 #: ErrorRegistering
 msgid "Error registering DLL"
-msgstr ""
+msgstr "Грешка при пријави DLLа"
 
 #: ExecShell
 msgid "\"ExecShell: \""
-msgstr ""
+msgstr "\"ExecShell: \""
 
 #: Exec
 msgid "\"Execute: \""
-msgstr ""
+msgstr "\"Изврши: \""
 
 #: Extract
 msgid "\"Extract: \""
-msgstr ""
+msgstr "\"Извуци: \""
 
 #: ErrorWriting
 msgid "\"Extract: error writing to file \""
-msgstr ""
+msgstr "\"Извуци: грешка при упису у датотеку \""
 
 #: InvalidOpcode
 msgid "Installer corrupted: invalid opcode"
-msgstr ""
+msgstr "Инсталатер је неисправан: неисправан код дејства"
 
 #: NoOLE
 msgid "\"No OLE for: \""
-msgstr ""
+msgstr "\"Не постоји OLE за: \""
 
 #: OutputFolder
 msgid "\"Output folder: \""
-msgstr ""
+msgstr "\"Излазни директоријум: \""
 
 #: RemoveFolder
 msgid "\"Remove folder: \""
-msgstr ""
+msgstr "\"Уклони директоријум: \""
 
 #: RenameOnReboot
 msgid "\"Rename on reboot: \""
-msgstr ""
+msgstr "\"Преименуј при рестарту: \""
 
 #: Rename
 msgid "\"Rename: \""
-msgstr ""
+msgstr "\"Преименуј: \""
 
 #: Skipped
 msgid "\"Skipped: \""
-msgstr ""
+msgstr "\"Прескочено: \""
 
 #: CopyDetails
 msgid "Copy Details To Clipboard"
-msgstr ""
+msgstr "Умножи детаље у бележницу"
 
 #: LogInstall
 msgid "Log install process"
-msgstr ""
+msgstr "Води записник о инсталацији"
 
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
@@ -315,12 +327,12 @@ msgstr "B"
 
 #: Kilo
 msgid "K"
-msgstr "П"
+msgstr "K"
 
 #: Mega
 msgid "M"
-msgstr "П"
+msgstr "M"
 
 #: Giga
 msgid "G"
-msgstr "Г"
+msgstr "G"

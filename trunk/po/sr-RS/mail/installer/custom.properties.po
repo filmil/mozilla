@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/installer/custom.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 18:05+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -59,67 +58,67 @@ msgstr ""
 # from en-US contains a \n.
 #: OPTIONAL_COMPONENTS_TITLE
 msgid "Choose Optional Components"
-msgstr ""
+msgstr "Избор опционих делова"
 
 #: OPTIONAL_COMPONENTS_SUBTITLE
 msgid "Choose which features of $(^NameDA) you want to install."
-msgstr ""
+msgstr "Изаберите које делове програма $(^NameDA) желите да инсталирате."
 
 #: OPTIONAL_COMPONENTS_LABEL
 msgid "Optional Components:"
-msgstr ""
+msgstr "Опциони делови:"
 
 #: APP_DESC
 msgid "Required files for the ${BrandShortName} application"
-msgstr ""
+msgstr "Неопходни делови за програм ${BrandShortName}"
 
 #: DOMI_TITLE
 msgid "DOM Inspector"
-msgstr ""
+msgstr "Прегледач за ДОМ"
 
 #: DOMI_TEXT
 msgid "Inspects the structure and properties of a window and its contents."
-msgstr ""
+msgstr "Прегледа структуру и својствар прозора и његовор садржаја"
 
 #: QFA_TITLE
 msgid "Quality Feedback Agent"
-msgstr ""
+msgstr "Повратна информација о квалитету"
 
 #: QFA_TEXT
 msgid "Sends information about program crashes to Mozilla."
-msgstr ""
+msgstr "Шаље податке о неисправном раду програма Мозили."
 
 #: OPTIONS
 msgid "$(^NameDA) &Options"
-msgstr ""
+msgstr "&Опције за $(^NameDA)"
 
 #: SAFE_MODE
 msgid "Safe Mode"
-msgstr ""
+msgstr "Безбедни начин рада"
 
 #: OPTIONS_PAGE_TITLE
 msgid "Setup Type"
-msgstr ""
+msgstr "Врста инсталације"
 
 #: OPTIONS_PAGE_SUBTITLE
 msgid "Choose setup options"
-msgstr ""
+msgstr "Избор опција при инсталацији"
 
 #: SHORTCUTS_PAGE_TITLE
 msgid "Set Up Shortcuts"
-msgstr ""
+msgstr "Подешавање скраћеница"
 
 #: SHORTCUTS_PAGE_SUBTITLE
 msgid "Create Program Icons"
-msgstr ""
+msgstr "Прављење сличице програма"
 
 #: SURVEY_TEXT
 msgid "&Tell us what you thought of ${BrandShortName}"
-msgstr ""
+msgstr "&Јавите нам утиске о програму ${BrandShortName}"
 
 #: LAUNCH_TEXT
 msgid "&Launch $(^Name) now"
-msgstr ""
+msgstr "&Покрени одмах програм $(^Name)"
 
 #: WARN_APP_RUNNING_INSTALL
 msgid ""
@@ -127,6 +126,9 @@ msgid ""
 "\n"
 "Click \"OK\" to exit $(^Name) automatically and continue."
 msgstr ""
+"Програм $(^Name) мора да се заврши да би се наставило са инсталацијом.\n"
+"\n"
+"Притисните \"У реду\" да затворите програм $(^Name) и наставите."
 
 #: WARN_APP_RUNNING_UNINSTALL
 msgid ""
@@ -134,22 +136,25 @@ msgid ""
 "\n"
 "Click \"OK\" to exit $(^Name) automatically and continue."
 msgstr ""
+"Програм $(^Name) мора да се заврши да би се наставило са деинсталацијом.\n"
+"\n"
+"Притисните \"У реду\" да затворите програм $(^Name) и наставите."
 
 #: CREATE_ICONS_DESC
 msgid "Create icons for ${BrandShortName}:"
-msgstr ""
+msgstr "Направи сличице за програм ${BrandShortName}:"
 
 #: ICONS_DESKTOP
 msgid "On my &Desktop"
-msgstr ""
+msgstr "На &радној површини"
 
 #: ICONS_STARTMENU
 msgid "In my &Start Menu Programs folder"
-msgstr ""
+msgstr "У &директоријуму са програмима"
 
 #: ICONS_QUICKLAUNCH
 msgid "In my &Quick Launch bar"
-msgstr ""
+msgstr "На &траци за брзо покретање"
 
 #: WARN_WRITE_ACCESS
 msgid ""
@@ -157,6 +162,9 @@ msgid ""
 "\n"
 "Click OK to select a different directory."
 msgstr ""
+"Немате дозвлоу да уписујете у директоријум за инсталацију.\n"
+"\n"
+"Притисните „У реду‟ да изаберете други директоријум."
 
 #: WARN_DISK_SPACE
 msgid ""
@@ -164,56 +172,59 @@ msgid ""
 "\n"
 "Click OK to select a different location."
 msgstr ""
+"Нема довољно простора на диску за инсталацију на овом месту.\n"
+"\n"
+"Притисните „У реду‟ да изаберете друго место."
 
 #: STATUS_INSTALL_APP
 msgid "Installing ${BrandShortName}..."
-msgstr ""
+msgstr "Инсталација програма ${BrandShortName}..."
 
 #: STATUS_INSTALL_LANG
 msgid "Installing Language Files (${AB_CD})..."
-msgstr ""
+msgstr "Инсталација језичких датотека (${AB_CD})..."
 
 #: STATUS_INSTALL_OPTIONAL
 msgid "Installing Optional Components..."
-msgstr ""
+msgstr "Инсталација изборних делова..."
 
 #: STATUS_UNINSTALL_MAIN
 msgid "Uninstalling ${BrandShortName}..."
-msgstr ""
+msgstr "Деинсталација програма ${BrandShortName}..."
 
 #: STATUS_CLEANUP
 msgid "Cleaning up the birdcage..."
-msgstr ""
+msgstr "Чишћење..."
 
 # _DESC strings support approximately 65 characters per line.
 # One line
 #: OPTIONS_SUMMARY
 msgid "Choose the type of setup you prefer, then click Next."
-msgstr ""
+msgstr "Изаберите врсту инсталације, затим притисните „Даље‟."
 
 # One line
 #: OPTION_STANDARD_DESC
 msgid "${BrandShortName} will be installed with the most common options."
-msgstr ""
+msgstr "Програм ${BrandShortName} ће бити инсталиран са уобичајеним могућностима."
 
 #: OPTION_STANDARD_RADIO
 msgid "&Standard"
-msgstr ""
+msgstr "&Стандардна"
 
 # One line
 #: OPTION_COMPLETE_DESC
 msgid "${BrandShortName} will be installed with all available options."
-msgstr ""
+msgstr "Програм ${BrandShortName} ће бити инсталиран са свим доступним опцијама."
 
 #: OPTION_COMPLETE_RADIO
 msgid "C&omplete"
-msgstr ""
+msgstr "&Потпуна"
 
 # Two lines
 #: OPTION_CUSTOM_DESC
 msgid "You may choose individual options to be installed. Recommended for experienced users."
-msgstr ""
+msgstr "Можете да изаберете делове које желите да инсталирате.  Препоручује се искусним корисницима."
 
 #: OPTION_CUSTOM_RADIO
 msgid "&Custom"
-msgstr ""
+msgstr "&По избору"

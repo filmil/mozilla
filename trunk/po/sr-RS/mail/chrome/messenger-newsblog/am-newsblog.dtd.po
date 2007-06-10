@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:19+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -47,11 +46,11 @@ msgstr "&Уреди претплате..."
 #: rss.accountName
 #: rss.hostName
 msgid "News &amp; Blogs"
-msgstr ""
+msgstr "Вести и блогови"
 
 #: rss.wizardShortName
 msgid "RSS"
-msgstr ""
+msgstr "РСС"
 
 #: rss.wizardLongName
 msgid "RSS News &amp; Blogs"

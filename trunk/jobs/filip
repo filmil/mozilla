@@ -1,12 +1,19 @@
 Датотеке на којима тренутно радим:
 
-po/sr-RS/mail/chrome/messenger-newsblog
-po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.dtd.po
-po/sr-RS/mail/chrome/messenger-newsblog/feed-properties.dtd.po
-po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.properties.po
-po/sr-RS/mail/chrome/messenger-newsblog/feed-subscriptions.dtd.po
-po/sr-RS/mail/chrome/messenger-newsblog/newsblog.properties.po
-po/sr-RS/mail/chrome/messenger-newsblog/newsblog.dtd.po
-po/sr-RS/mail/chrome/global-platform
-po/sr-RS/mail/chrome/global-platform/win
-po/sr-RS/mail/chrome/global-platform/win/nsWindowsHooks.properties.po
+po/sr-RS/security/manager/chrome/pipnss/pipnss.properties.po
+po/sr-RS/security/manager/chrome/pipnss/security.properties.po
+po/sr-RS/security/manager/chrome/pippki
+po/sr-RS/security/manager/chrome/pippki/pref-masterpass.dtd.po
+po/sr-RS/security/manager/chrome/pippki/pippki.properties.po
+po/sr-RS/security/manager/chrome/pippki/deviceManager.dtd.po
+po/sr-RS/security/manager/chrome/pippki/pref-validation.dtd.po
+po/sr-RS/security/manager/chrome/pippki/certManager.dtd.po
+po/sr-RS/security/manager/chrome/pippki/newserver.properties.po
+po/sr-RS/security/manager/chrome/pippki/pref-ssl.dtd.po
+po/sr-RS/security/manager/chrome/pippki/pref-security.dtd.po
+po/sr-RS/security/manager/chrome/pippki/PrefOverlay.dtd.po
+po/sr-RS/security/manager/chrome/pippki/pippki.dtd.po
+po/sr-RS/security/manager/chrome/pippki/PageInfoOverlay.dtd.po
+po/sr-RS/security/manager/chrome/pippki/newserver.dtd.po
+po/sr-RS/netwerk
+po/sr-RS/netwerk/necko.properties.po

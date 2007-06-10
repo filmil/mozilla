@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger-region/region.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +19,11 @@ msgstr ""
 # mailnews.js
 #: mailnews.start_page.url
 msgid "chrome://messenger/content/start.xhtml"
-msgstr ""
+msgstr "chrome://messenger/content/start.xhtml"
 
 #: releaseNotesURL
 msgid "http://www.mozilla.org/products/thunderbird/releases/%S.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/releases/%S.html"
 
 #: mailnews.hints_and_tips.url
 msgid "http://www.mozilla.org/support/thunderbird/"
@@ -41,7 +40,7 @@ msgstr "http://www.mozilla.org/support/thunderbird/"
 # @CO == country
 #: mail.addr_book.mapit_url.format
 msgid "http://maps.google.com/maps?q=@A1%20@A2%20@CI%20@ST%20@ZI%20@CO"
-msgstr ""
+msgstr "http://maps.google.com/maps?q=@A1%20@A2%20@CI%20@ST%20@ZI%20@CO"
 
 # This is the fallback URL for release notes. Do not change this 
 # unless you are providing localized release notes!

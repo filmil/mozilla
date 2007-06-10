@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,8 +25,8 @@ msgstr "Приказана порука је дигитално потписан
 # NOTE To translater, anything between %..% and <..> should not be translated.
 #: CantDecryptTitle
 msgid "%brand% cannot decrypt this message"
-msgstr ""
+msgstr "%brand% не може да дешифрује ову поруку"
 
 #: CantDecryptBody
 msgid "The sender encrypted this message to you using one of your digital certificates, however %brand% was not able to find this certificate and corresponding private key. <br> Possible solutions: <br><ul><li>If you have a smartcard, please insert it now. <li>If you are using a new machine, or if you are using a new %brand% profile, you will need to restore your certificate and private key from a backup. Certificate backups usually end in \".p12\".</ul>"
-msgstr ""
+msgstr "Пошиљалац је шифровао поруку употребом једног од Ваших дигиталних сертификата. Међутим, програм %brand% није могао да пронађе овај сертификат и одговарајући приватни кључ.<br> Могућа решења: <br><ul><li>Ако користите паметну картицу, молимо да је сада убаците. <li>Ако користите нови рачунар или ако користите нови профил у програму %brand%, мораћете да вратите сертификат и приватни кључ из резервне копије. Резервне копије сертификата имају имена која се завршавају на „.p12‟.</ul>"

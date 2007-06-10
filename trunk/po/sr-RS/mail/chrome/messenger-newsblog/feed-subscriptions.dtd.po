@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger-newsblog/feed-subscriptions.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:21+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +21,7 @@ msgstr "Претплате на РСС"
 
 #: subscriptionDesc.label
 msgid "Note: Removing or changing the folder for a feed will not affect previously downloaded articles."
-msgstr ""
+msgstr "Примедба: Уклањање или промена директоријума за довод неће утицати на претходно примљене чланке."
 
 #: feedTitle.label
 msgid "Title:"
@@ -50,13 +49,13 @@ msgstr "&Уклони"
 #: button.importOPML.label
 #: button.importOPML.accesskey
 msgid "&Import"
-msgstr ""
+msgstr "&Увоз"
 
 #: button.exportOPML.label
 #: button.exportOPML.accesskey
 msgid "E&xport"
-msgstr ""
+msgstr "&Извоз"
 
 #: cmd.close.commandKey
 msgid "w"
-msgstr "с"
+msgstr "w"
