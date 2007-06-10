@@ -1,7 +1,11 @@
 Датотеке на којима тренутно радим:
 
-po/sr-RS/mail/chrome/messenger/preferences/advanced.dtd.po
-po/sr-RS/mail/chrome/messenger/preferences/downloads.dtd.po
-po/sr-RS/mail/chrome/messenger/preferences/viewpasswords.dtd.po
-po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po
-po/sr-RS/mail/chrome/messenger/preferences/junkLog.dtd.po
+po/sr-RS/mail/chrome/messenger/am-copies.dtd.po
+po/sr-RS/mail/chrome/messenger/vcard.properties.po
+po/sr-RS/mail/chrome/messenger/news.properties.po
+po/sr-RS/mail/chrome/messenger/newTagDialog.dtd.po
+po/sr-RS/mail/chrome/mozapps
+po/sr-RS/mail/chrome/mozapps/downloads
+po/sr-RS/mail/chrome/mozapps/downloads/pref-downloads.dtd.po
+po/sr-RS/mail/chrome/mozldap
+po/sr-RS/mail/chrome/mozldap/ldap.properties.po

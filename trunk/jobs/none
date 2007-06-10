@@ -1,12 +1,3 @@
-po/sr-RS/mail/chrome/messenger/am-copies.dtd.po
-po/sr-RS/mail/chrome/messenger/vcard.properties.po
-po/sr-RS/mail/chrome/messenger/news.properties.po
-po/sr-RS/mail/chrome/messenger/newTagDialog.dtd.po
-po/sr-RS/mail/chrome/mozapps
-po/sr-RS/mail/chrome/mozapps/downloads
-po/sr-RS/mail/chrome/mozapps/downloads/pref-downloads.dtd.po
-po/sr-RS/mail/chrome/mozldap
-po/sr-RS/mail/chrome/mozldap/ldap.properties.po
 po/sr-RS/mail/chrome/messenger-newsblog
 po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.dtd.po
 po/sr-RS/mail/chrome/messenger-newsblog/feed-properties.dtd.po
