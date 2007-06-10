@@ -420,8 +420,9 @@ po/sr-RS/mail/chrome/messenger/mailviews.properties.po:
 po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po: 
 18 преведених порука.
 po/sr-RS/mail/chrome/messenger/search-operators.properties.po: 
-po/sr-RS/mail/chrome/messenger/credits.dtd.po:48: не завршава се и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/mail/chrome/messenger/credits.dtd.po:51: не завршава се и „msgid“ и „msgstr“ са „\n“
 msgfmt: нађох 1 кобну грешку
+23 преведене поруке.
 po/sr-RS/mail/chrome/messenger/credits.dtd.po: 
 83 преведене поруке.
 po/sr-RS/mail/chrome/messenger/importMsgs.properties.po: 
@@ -447,29 +448,27 @@ po/sr-RS/mail/chrome/messenger/preferences/preferences.dtd.po:
 po/sr-RS/mail/chrome/messenger/preferences/fonts.dtd.po: 
 23 преведене поруке, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po: 
-24 преведене поруке, 19 непреведених порука.
+43 преведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po: 
 8 преведених порука, 7 нејасних порука, 3 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/general.dtd.po: 
 25 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/sendoptions.dtd.po: 
-30 преведених порука, 10 нејасних порука, 7 непреведених порука.
+47 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/advanced.dtd.po: 
-8 преведених порука, 6 непреведених порука.
+14 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/downloads.dtd.po: 
 10 преведених порука.
 po/sr-RS/mail/chrome/messenger/preferences/viewpasswords.dtd.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/mail/chrome/messenger/preferences/.#connection.dtd.po“ за читање: No such file or directory
-po/sr-RS/mail/chrome/messenger/preferences/.#connection.dtd.po: 
-21 преведена порука, 13 непреведених порука.
+34 преведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po: 
-2 преведене поруке, 2 непреведене поруке.
+4 преведене поруке.
 po/sr-RS/mail/chrome/messenger/preferences/junkLog.dtd.po: 
-11 преведених порука, 6 непреведених порука.
+17 преведених порука.
 po/sr-RS/mail/chrome/messenger/am-copies.dtd.po: 
-61 преведена порука, 1 непреведена порука.
+62 преведене поруке.
 po/sr-RS/mail/chrome/messenger/vcard.properties.po: 
-25 преведених порука, 1 непреведена порука.
+26 преведених порука.
 po/sr-RS/mail/chrome/messenger/news.properties.po: 
 0 преведених порука, 2 непреведене поруке.
 po/sr-RS/mail/chrome/messenger/newTagDialog.dtd.po: 
@@ -599,8 +598,9 @@ po/sr-RS/dom/chrome/global-strres.properties.po:
 po/sr-RS/dom/chrome/printdialog.properties.po: 
 10 преведених порука, 7 непреведених порука.
 po/sr-RS/dom/chrome/dom/dom.properties.po: 
-po/sr-RS/dom/chrome/appstrings.properties.po:126: не завршава се и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/dom/chrome/appstrings.properties.po:138: не завршава се и „msgid“ и „msgstr“ са „\n“
 msgfmt: нађох 1 кобну грешку
+22 преведене поруке.
 po/sr-RS/dom/chrome/appstrings.properties.po: 
 28 преведених порука.
 po/sr-RS/dom/chrome/xslt/xslt.properties.po: 
@@ -610,8 +610,9 @@ po/sr-RS/browser/defines.inc.po:
 po/sr-RS/browser/updater/updater.ini.po: 
 29 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/overrides/netError.dtd.po: 
-po/sr-RS/browser/chrome/overrides/appstrings.properties.po:126: не завршава се и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/browser/chrome/overrides/appstrings.properties.po:138: не завршава се и „msgid“ и „msgstr“ са „\n“
 msgfmt: нађох 1 кобну грешку
+22 преведене поруке.
 po/sr-RS/browser/chrome/overrides/appstrings.properties.po: 
 2 преведене поруке, 7 непреведених порука.
 po/sr-RS/browser/chrome/browser-region/region.properties.po: 
