@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/mail/chrome/messenger/vcard.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -473,7 +472,7 @@ msgstr "Формулар за освежење"
 #: 1047
 #: 1053
 msgid "Conference Address"
-msgstr ""
+msgstr "Адреса конференције"
 
 # VCARD_LDAP_USEHTML
 ## @name VCARD_LDAP_USEHTML

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/am-copies.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:06+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +31,7 @@ msgstr "&Смести умножак у:"
 #: fccReplyFollowsParent.label
 #: fccReplyFollowsParent.accesskey
 msgid "P&lace replies in the folder of the message being replied to"
-msgstr ""
+msgstr "&Смести одговоре у директоријум поруке на коју се одговара"
 
 #: chooseFolderButton.label
 msgid "Choose Folder..."
@@ -53,12 +52,12 @@ msgstr "Посебни директоријуми у:"
 #: draftMailFolder.label
 #: keepDrafts.label
 msgid "Keep message drafts in:"
-msgstr ""
+msgstr "Чувај нацрте у:"
 
 #: templateMailFolder.label
 #: keepTempltes.label
 msgid "Keep message templates in:"
-msgstr ""
+msgstr "Чувај обрасце у:"
 
 #: saveMessageDlg.label
 #: saveMessageDlg.accesskey
@@ -70,7 +69,7 @@ msgstr "&Прикажи прозорче са потврдом када се п�
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;S&ent&quot; Folder on:"
-msgstr ""
+msgstr "Директоријум за послате поруке на:"
 
 #: sentInOtherFolder.label
 #: sentInOtherFolder.accesskey
@@ -82,7 +81,7 @@ msgstr "&Други:"
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;&Drafts&quot; Folder on:"
-msgstr ""
+msgstr "Директоријум за нацрте на:"
 
 #: draftInOtherFolder.label
 #: draftInOtherFolder.accesskey
@@ -94,7 +93,7 @@ msgstr "Дру&ги:"
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;Te&mplates&quot; Folder on:"
-msgstr ""
+msgstr "Директроријум за скице на:"
 
 #: templateInOtherFolder.label
 #: templateInOtherFolder.accesskey

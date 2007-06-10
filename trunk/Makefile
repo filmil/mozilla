@@ -17,7 +17,7 @@ include Makefile.inc
 all: stats
 
 # Слање измена у Мозилин ЦВС
-publish: output
+publish: clean output
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 	( $(CD) $(MOZILLA_CVS) ; $(CVS) commit -m "Updated Serbian l10n" )
 

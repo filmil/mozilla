@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/junkLog.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:04+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,18 +16,18 @@ msgstr ""
 
 #: junkLog.title
 msgid "Junk Mail Log"
-msgstr "Дневник отпадне поште"
+msgstr "Дневник нежељене поште"
 
 #: junkLogInfo.label
 msgid "Log of junk mail control activity."
-msgstr ""
+msgstr "Дневник активности за нежељену пошту"
 
 #: clearLog.label
 #: clearLog.accesskey
 msgid "&Clear Log"
-msgstr "&Очисти журнал"
+msgstr "&Очисти дневник"
 
 #: closeLog.label
 #: closeLog.accesskey
 msgid "Cl&ose"
-msgstr ""
+msgstr "&Затвори"

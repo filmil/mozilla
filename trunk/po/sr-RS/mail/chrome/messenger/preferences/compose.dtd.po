@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/compose.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:03+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +28,7 @@ msgstr "Правопис"
 
 #: itemSendFormat.label
 msgid "Send Format"
-msgstr ""
+msgstr "Формат за слање"
 
 #: forwardReply.label
 msgid "Forwarding Messages"
@@ -62,36 +61,36 @@ msgstr "&Провери правопис пре слања"
 #: spellCheckInline.label
 #: spellCheckInline.accesskey
 msgid "E&nable spell check as you type"
-msgstr ""
+msgstr "Укључи &проверу правописа при уносу"
 
 #: languagePopup.label
 #: languagePopup.accessKey
 msgid "Lan&guage:"
-msgstr ""
+msgstr "&Језик:"
 
 #: downloadDictionaries.label
 msgid "Download More Dictionaries"
-msgstr ""
+msgstr "Преузми још речника"
 
 #: useMIME.label
 #: useMIME.accesskey
 msgid "F&or messages that contain 8-bit characters, use 'quoted printable' MIME encoding"
-msgstr ""
+msgstr "&За поруке које садрже 8-битне знаке, корсити МИМЕ кодирање „quoted printable‟"
 
 #: warnOnSendAccelKey.label
 #: warnOnSendAccelKey.accesskey
 msgid "Conf&irm when using keyboard shortcut to send message"
-msgstr ""
+msgstr "&Тражи потврду када се порука шаље скраћеницом са тастатуре"
 
 #: autoSave.label
 #: autoSave.accesskey
 msgid "A&uto Save every"
-msgstr ""
+msgstr "&Аутоматски чувај на"
 
 #: autoSaveEnd.label
 #: autoSaveEnd.accesskey
 msgid "&minutes"
-msgstr ""
+msgstr "&минута"
 
 #: wrapOutMsg.label
 #: wrapOutMsg.accesskey
@@ -108,7 +107,7 @@ msgstr "колони"
 #: emailCollectionPicker.label
 #: emailCollectionPicker.accesskey
 msgid "Au&tomatically add outgoing e-mail addresses to my:"
-msgstr ""
+msgstr "А&утоматски додај одлазне адресе у:"
 
 #: addressingTitle.label
 msgid "Address Autocompletion"
@@ -147,7 +146,7 @@ msgstr "Опције за слање и HTML"
 
 #: sendOptionsDescription.label
 msgid "Configure text format behavior"
-msgstr ""
+msgstr "Подешавање понашања формата текста"
 
 #: sendOptions.label
 #: sendOptions.accesskey
@@ -156,7 +155,7 @@ msgstr "&Опције слања..."
 
 #: htmlComposeDescription.label
 msgid "Configure default HTML options"
-msgstr ""
+msgstr "Подразумеване опције за ХТМЛ"
 
 #: htmlCompose.label
 #: htmlCompose.accesskey
@@ -165,9 +164,9 @@ msgstr "Оп&ције за HTML..."
 
 #: returnReceiptsInfo.label
 msgid "Determine how &brandShortName; handles return receipts"
-msgstr ""
+msgstr "Одредите како програм &brandShortName; обрађује повратнице"
 
 #: showReturnReceipts.label
 #: showReturnReceipts.accesskey
 msgid "&Return Receipts..."
-msgstr ""
+msgstr "&Повратнице..."

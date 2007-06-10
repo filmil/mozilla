@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/downloads.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 17:01+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +16,17 @@ msgstr ""
 
 #: askOnSave.label
 msgid "Attachments Folder"
-msgstr ""
+msgstr "Директоријум са прилозима"
 
 #: alwaysAsk.label
 #: alwaysAsk.accesskey
 msgid "&Ask me where to save every file"
-msgstr ""
+msgstr "&Питај ме где се чува свака датотека"
 
 #: neverAsk.label
 #: neverAsk.accesskey
 msgid "&Save all attachments to this folder:"
-msgstr ""
+msgstr "&Чувај све прилоге у овај директоријум:"
 
 #: desktop.label
 msgid "Desktop"
@@ -49,16 +48,16 @@ msgstr "&Избор..."
 
 #: fileTypes.label
 msgid "Download Actions"
-msgstr ""
+msgstr "Дејства при пријему"
 
 #: configureActions.label
 #: configureActions.accesskey
 msgid "&View &amp; Edit Actions..."
-msgstr ""
+msgstr "&Дејства за преглед и уређивање..."
 
 #: fileTypesDescription.label
 msgid "&brandShortName; can automatically save or open attachments of certain types."
-msgstr ""
+msgstr "&brandShortName; може да аутоматски чува или отвара неке врсте прилога."
 
 #: fileTypeColName.label
 msgid "File Type"
