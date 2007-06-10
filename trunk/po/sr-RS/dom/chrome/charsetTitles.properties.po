@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/dom/chrome/charsetTitles.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 20:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -232,31 +231,31 @@ msgstr "уникод (UTF-32 Big Endian)"
 
 #: iso-8859-5.title
 msgid "Cyrillic (ISO-8859-5)"
-msgstr "ћирилица (ISO-8859-5)"
+msgstr "ћирилична (ISO-8859-5)"
 
 #: iso-ir-111.title
 msgid "Cyrillic (ISO-IR-111)"
-msgstr "ћирилица (ISO-IR-111)"
+msgstr "ћирилична (ISO-IR-111)"
 
 #: windows-1251.title
 msgid "Cyrillic (Windows-1251)"
-msgstr "ћирилица (Windows-1251)"
+msgstr "ћирилична (Windows-1251)"
 
 #: x-mac-cyrillic.title
 msgid "Cyrillic (MacCyrillic)"
-msgstr "ћирилица (MacCyrillic)"
+msgstr "ћирилична (MacCyrillic)"
 
 #: x-mac-ukrainian.title
 msgid "Cyrillic/Ukrainian (MacUkrainian)"
-msgstr "украјинска ћирилица (MacUkrainian)"
+msgstr "украјинска ћирилична (MacUkrainian)"
 
 #: koi8-r.title
 msgid "Cyrillic (KOI8-R)"
-msgstr "ћирилица (KOI8-R)"
+msgstr "ћирилична (KOI8-R)"
 
 #: koi8-u.title
 msgid "Cyrillic/Ukrainian (KOI8-U)"
-msgstr "украјинска ћирилица (KOI8-U)"
+msgstr "украјинска ћирилична (KOI8-U)"
 
 #: iso-8859-7.title
 msgid "Greek (ISO-8859-7)"
@@ -292,23 +291,23 @@ msgstr "грузијска (GEOSTD8)"
 
 #: tis-620.title
 msgid "Thai (TIS-620)"
-msgstr "тајландска (TIS-620)"
+msgstr "тајска (TIS-620)"
 
 #: iso-8859-11.title
 msgid "Thai (ISO-8859-11)"
-msgstr "тајландска (ISO-8859-11)"
+msgstr "тајска (ISO-8859-11)"
 
 #: windows-874.title
 msgid "Thai (Windows-874)"
-msgstr "тајландска (Windows-874)"
+msgstr "тајска (Windows-874)"
 
 #: ibm874.title
 msgid "Thai (IBM-874)"
-msgstr "тајландска (IBM-874)"
+msgstr "тајска (IBM-874)"
 
 #: armscii-8.title
 msgid "Armenian (ARMSCII-8)"
-msgstr "арменска (ARMSCII-8)"
+msgstr "јерменска (ARMSCII-8)"
 
 #: iso-8859-6.title
 msgid "Arabic (ISO-8859-6)"
@@ -348,7 +347,7 @@ msgstr "одређено корисником"
 
 #: ibm866.title
 msgid "Cyrillic/Russian (CP-866)"
-msgstr "руска ћирилица (CP-866)"
+msgstr "руска ћирилична (CP-866)"
 
 #: ibm850.title
 msgid "Western (IBM-850)"
@@ -360,7 +359,7 @@ msgstr "централноевропска (IBM-852)"
 
 #: ibm855.title
 msgid "Cyrillic (IBM-855)"
-msgstr "ћирилица (IBM-855)"
+msgstr "ћирилична (IBM-855)"
 
 #: ibm857.title
 msgid "Turkish (IBM-857)"
@@ -380,7 +379,7 @@ msgstr "арапска (IBM-864-I)"
 
 #: gb18030.title
 msgid "Chinese Simplified (GB18030)"
-msgstr "кинеска упрошћено (GB18030)"
+msgstr "кинеска упрошћенa (GB18030)"
 
 #: x-mac-arabic.title
 msgid "Arabic (MacArabic)"
@@ -404,7 +403,7 @@ msgstr "хебрејска (MacHebrew)"
 
 #: x-mac-devanagari.title
 msgid "Hindi (MacDevanagari)"
-msgstr "хинду (MacDevanagari)"
+msgstr "хинди (MacDevanagari)"
 
 #: x-mac-gujarati.title
 msgid "Gujarati (MacGujarati)"
@@ -420,7 +419,7 @@ msgstr "хинду (SunDevanagari)"
 
 #: chardet.off.title
 msgid "(Off)"
-msgstr "(откљ.)"
+msgstr "(искљ.)"
 
 #: chardet.alis_charset_detector.title
 msgid "All"

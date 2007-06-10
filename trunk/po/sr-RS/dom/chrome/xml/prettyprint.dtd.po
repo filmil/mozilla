@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/dom/chrome/xml/prettyprint.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 20:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,4 +51,4 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: xml.nostylesheet
 msgid "This XML file does not appear to have any style information associated with it. The document tree is shown below."
-msgstr "Изгледа да XML датотека нема податке о стилу везане за њу. Стабло документа је приказано испод."
+msgstr "Изгледа да XML датотека нема придружене податке о стилу. Стабло документа је приказано испод."

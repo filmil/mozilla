@@ -35,13 +35,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/dom/chrome/layout/printing.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 20:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +73,7 @@ msgstr "%1$d"
 # LOCALIZATION NOTE (pageofpages): Do not translate %ld in the following line.
 #: pageofpages
 msgid "%1$d of %2$d"
-msgstr "%1$d из %2$d"
+msgstr "%1$d од %2$d"
 
 # Print font
 # The name of the font to be used to print the headers and footers
