@@ -1,4 +1,12 @@
+2007-06-11  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po: More translations
+
 2007-06-10  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/dom/chrome/nsWebBrowserPersist.properties.po: Иепisмеn
+
+	* po/sr-RS/security/manager/chrome/pippki/pref-ssl.dtd.po: Changed access keys
 
 	* po/sr-RS/security/manager/chrome/pipnss/pipnss.properties.po: More translations
 

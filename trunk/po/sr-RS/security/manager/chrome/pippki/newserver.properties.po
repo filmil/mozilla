@@ -37,13 +37,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/security/manager/chrome/pippki/newserver.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -64,4 +63,4 @@ msgstr "- Повезујете се на страну која се претва
 
 #: newserver.question
 msgid "Before accepting this certificate, you should examine this site's certificate carefully. Are you willing to to accept this certificate for the purpose of identifying the Web site %S?"
-msgstr "Пре него што прихватите овај сертификат, саветујем Вам да га пажљиво испитате. Да ли желите да прихватите сертификат који препознаје веб страну %S?"
+msgstr "Пре него што прихватите овај сертификат, саветујемо Вам да га пажљиво испитате. Да ли желите да прихватите сертификат који препознаје веб страну %S?"

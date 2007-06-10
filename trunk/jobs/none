@@ -1,37 +1,5 @@
 Датотеке на којима тренутно нико не ради:
 
-po/sr-RS/browser/chrome/browser/page-drawer.dtd.po
-po/sr-RS/browser/chrome/browser/pageReportFirstTime.dtd.po
-po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po
-po/sr-RS/browser/chrome/browser/metaData.dtd.po
-po/sr-RS/browser/chrome/browser/sanitize.dtd.po
-po/sr-RS/browser/chrome/browser/browser.dtd.po
-po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po
-po/sr-RS/browser/chrome/browser/bookmarks
-po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.dtd.po
-po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties.po
-po/sr-RS/browser/chrome/browser/bookmarks/bookmarksProperties.dtd.po
-po/sr-RS/browser/chrome/browser/bookmarks/addBookmark.dtd.po
-po/sr-RS/browser/chrome/browser/sidebar
-po/sr-RS/browser/chrome/browser/sidebar/sidebar.properties.po
-po/sr-RS/browser/chrome/browser/openLocation.dtd.po
-po/sr-RS/browser/chrome/browser/sessionstore.properties.po
-po/sr-RS/browser/chrome/browser/engineManager.dtd.po
-po/sr-RS/browser/chrome/browser/migration
-po/sr-RS/browser/chrome/browser/migration/migration.properties.po
-po/sr-RS/browser/chrome/browser/migration/migration.dtd.po
-po/sr-RS/browser/chrome/browser/history
-po/sr-RS/browser/chrome/browser/history/history.dtd.po
-po/sr-RS/browser/chrome/browser/pageInfo.properties.po
-po/sr-RS/browser/chrome/browser/search.properties.po
-po/sr-RS/browser/chrome/browser/browser.properties.po
-po/sr-RS/browser/chrome/browser/shellservice.properties.po
-po/sr-RS/browser/chrome/browser/safebrowsing
-po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po
-po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po
-po/sr-RS/browser/chrome/browser/feeds
-po/sr-RS/browser/chrome/browser/feeds/subscribe.dtd.po
-po/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd.po
 po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po
 po/sr-RS/browser/chrome/browser/pageInfo.dtd.po
 po/sr-RS/browser/chrome/browser/credits.dtd.po
@@ -174,3 +142,4 @@ po/sr-RS/extensions/spellcheck/myspell/en-US.dic
 po/sr-RS/extensions/spellcheck/myspell/README.txt
 po/sr-RS/mail/os2/README.txt
 po/sr-RS/mail/chrome/messenger/filter.properties.po
+po/sr-RS/browser/os2/README.txt

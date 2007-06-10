@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/engineManager.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 23:38+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +16,15 @@ msgstr ""
 
 #: engineManager.title
 msgid "Manage Search Engine List"
-msgstr ""
+msgstr "Управљање списком претраживача"
 
 #: engineManager.style
 msgid "min-width: 35em;"
-msgstr ""
+msgstr "min-width: 35em;"
 
 #: engineManager.intro
 msgid "You have the following search engines installed:"
-msgstr ""
+msgstr "Наредни претраживачи су постављени:"
 
 # Buttons
 #: up.label
@@ -46,14 +45,14 @@ msgstr "&Уклони"
 #: addEngine.label
 #: addEngine.accesskey
 msgid "Get more se&arch engines..."
-msgstr ""
+msgstr "Набави још &претраживача..."
 
 #: enableSuggest.label
 #: enableSuggest.accesskey
 msgid "&Show search suggestions"
-msgstr ""
+msgstr "&Предложи претрагу"
 
 #: restoreDefaults.label
 #: restoreDefaults.accesskey
 msgid "R&estore Defaults"
-msgstr ""
+msgstr "&Врати изворно"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/security/manager/chrome/pippki/newserver.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:35+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +54,7 @@ msgstr ""
 # Values for newserver.xul
 #: newserver.title
 msgid "Website Certified by an Unknown Authority"
-msgstr "Website Certified by an Unknown Authority"
+msgstr "Ел. место је одобрио непознат ауторитет"
 
 #: newserver.reasons
 msgid "Possible reasons for this error:"
@@ -83,7 +82,7 @@ msgstr "Прихвати сертификат трајно"
 
 #: newserver.session
 msgid "Accept this certificate temporarily for this session"
-msgstr "Примај овај сертификат само за време текуће сесије"
+msgstr "Прихвати овај сертификат само за време текуће сесије"
 
 #: newserver.refuse
 msgid "Do not accept this certificate and do not connect to this Web site"

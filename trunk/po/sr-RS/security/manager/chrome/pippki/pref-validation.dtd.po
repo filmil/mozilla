@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/security/manager/chrome/pippki/pref-validation.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:30+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -112,24 +111,21 @@ msgstr "Статус самоунапређења"
 #: validation.deletecrl.label
 #: validation.deletecrl.accesskey
 #: disableOCSP.accesskey
-#, fuzzy
 msgid "&Delete"
-msgstr "б"
+msgstr "&Уклони"
 
 #: validation.updatecrl.label
 #: validation.updatecrl.accesskey
 #: validation.crl.autoupdate.time.label1
 #: certOCSP.accesskey
-#, fuzzy
 msgid "&Update"
-msgstr "U"
+msgstr "&Освежи"
 
 #: validation.advanced.label
 #: validation.advanced.accesskey
 #: edit.button
-#, fuzzy
 msgid "&Settings"
-msgstr "з"
+msgstr "&Поставке"
 
 #: validation.crl.autoupdate.title
 msgid "Automatic CRL Update Preferences"
@@ -208,22 +204,19 @@ msgstr "&brandShortName; може користити протокол прегл
 #: disableOCSP.label
 #: disableOCSP.accesskey
 #: validation.deletecrl.accesskey
-#, fuzzy
 msgid "&Do not use OCSP for certificate validation"
-msgstr "Не користи OCSP за проверу истинитости сертификата"
+msgstr "&Не користи OCSP за проверу сертификата"
 
 #: certOCSP.label
 #: certOCSP.accesskey
 #: validation.updatecrl.accesskey
-#, fuzzy
 msgid "&Use OCSP to validate only certificates that specify an OCSP service URL"
-msgstr "Користи OCSP за проверу само тих сертификата чији је домен означен у служби OCSP"
+msgstr "&Користи OCSP за проверу само сертификата чији је домен означен у служби OCSP"
 
 #: proxyOCSP.label
 #: proxyOCSP.accesskey
-#, fuzzy
 msgid "Use &OCSP to validate all certificates using this URL and signer:"
-msgstr "О"
+msgstr "Користи OCSP за про&веру свих сертификата употребом овог УРЛа и потписа:"
 
 #: serviceURL.label
 #: serviceURL.accesskey
@@ -233,4 +226,4 @@ msgstr "URL &службе:"
 #: signingCA.label
 #: signingCA.accesskey
 msgid "&Response Signer:"
-msgstr "&Потписана страна:"
+msgstr "&Потписник одговора:"

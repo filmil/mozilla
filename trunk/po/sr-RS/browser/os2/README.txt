@@ -1,39 +1,39 @@
 ================================================================================
 
-= = = = = = = = = = = = = =   Firefox Read Me    = = = = = = = = = = = = = = = =
+= = = = = = = = = = = = = =   Прочитај ме за Firefox = = = = = = = = = = = = =
 
 ================================================================================
 
-Firefox is subject to the terms detailed in the license agreement
-accompanying it.
+Фајерфокс (Firefox) је подвргнут условима који су описани у пратећем споразуму о лиценци.
 
-This Read Me file contains information about system requirements and
-installation instructions for the OS/2 build of Firefox.
+Ова датотека (Прочитај ме) садржи податке о системским захтевима и упутства за инсталацију за OS/2 издање Фајерфокса.
 
-For more info on Firefox, see http://www.mozilla.org/products/firefox/.
-For more info on the OS/2 port see http://www.mozilla.org/ports/os2. To submit
-bugs or other feedback check out Bugzilla at https://bugzilla.mozilla.org for
-links to known bugs, bug-writing guidelines, and more. You can also get help
-with Bugzilla by pointing your IRC client to #mozillazine at irc.mozilla.org,
-OS/2 specific problems are discussed in #warpzilla and in the newsgroup
-mozilla.dev.ports.os2 on news.mozilla.org.
+За више података о Фајерфоксу, погледајте
+http://www.mozilla.org/products/firefox/.  За више података о издању
+за OS/2 погледајте http://www.mozilla.org/ports/os2. Да бисте послали
+податке о грешкама или друге повратне информације, погледајте Багзилу
+(Bugzilla) на https://bugzilla.mozilla.org за везе на познате
+пропусте, упутства за пријаву грешака и остало. Помоћ са Багзилом
+можете добити и употребом ИРЦ клијента и канала #mozillazine на
+irc.mozilla.org, Проблеми специфични за OS/2 се разматрају на каналу
+#warpzilla и у групи mozilla.dev.ports.os2 на news.mozilla.org.
 
-
-================================================================================
-
-                            Getting Firefox
 
 ================================================================================
 
-Official Milestone builds of Firefox are published on the release page at
+                            Набављање Firefoxа
+
+================================================================================
+
+Званична међу издања Фајерфокса се објављују на страни са издањима на
 
   http://www.mozilla.org/products/firefox/releases/
 
-OS/2 releases are not created by Mozilla.org staff and may appear on the page
-http://www.mozilla.org/ports/os2 before the releases page. Be sure to read the
-Firefox release notes linked on the releases page for information on known 
-problems and installation issues with Firefox.
-
+Издања за OS/2 не прави особље Мозиле (Mozilla.org) и могу се наћи на
+страни http://www.mozilla.org/ports/os2 пре стране са
+издањима. Обавезно прочитајте белешке о издању Фајерфокса повезане на
+страну са издањима да бисте сазнали који су познати проблеми са
+Фајерфоксом.
 
 ================================================================================
 

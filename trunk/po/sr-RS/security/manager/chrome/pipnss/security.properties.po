@@ -36,13 +36,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/security/manager/chrome/pipnss/security.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -106,7 +105,7 @@ msgstr "Прикажи безбедносне податке о текућој �
 
 #: SecurityButtonMixedContentTooltipText
 msgid "Warning: Contains unauthenticated content"
-msgstr ""
+msgstr "Упозорење: садржи неаутентификован садржај"
 
 #: Continue
 msgid "Continue"

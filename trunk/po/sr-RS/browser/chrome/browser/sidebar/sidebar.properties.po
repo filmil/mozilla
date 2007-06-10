@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/sidebar/sidebar.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 23:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,18 +24,21 @@ msgid ""
 "\n"
 "From: %S"
 msgstr ""
+"Додај %S у списак претраживача у траци за претраживање\n"
+"\n"
+"Са: %S"
 
 #: addEngineQuotedEngineName
 msgid "\"%S\""
-msgstr ""
+msgstr "\"%S\""
 
 #: addEngineDefaultEngineName
 msgid "a new search engine"
-msgstr ""
+msgstr "нови претраживач"
 
 #: addEngineUseNowText
 msgid "Start &using it right away"
-msgstr ""
+msgstr "Одмах &крени да га користиш"
 
 #: addEngineAddButtonLabel
 msgid "Add"
@@ -44,7 +46,7 @@ msgstr "Додај"
 
 #: addMicsumGenConfirmTitle
 msgid "Add Microsummary Generator"
-msgstr ""
+msgstr "Додај генератор микро-сажетака"
 
 #: addMicsumGenConfirmText
 msgid ""
@@ -52,3 +54,6 @@ msgid ""
 "\n"
 "Source: %S"
 msgstr ""
+"Да ли да додам следећи генератор?\n"
+"\n"
+"Извор: %S"

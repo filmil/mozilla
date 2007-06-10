@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/shellservice.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 00:00+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: optionsLabel
 msgid "%S &Options"
-msgstr "%S &Подешавања"
+msgstr "&Подешавања за %S"
 
 #: safeModeLabel
 msgid "%S &Safe Mode"
-msgstr ""
+msgstr "&Безбедни рад у програму %S"
 
 #: setDefaultBrowserTitle
 msgid "Default Browser"
@@ -29,7 +28,7 @@ msgstr "Подразумевани клијент"
 
 #: setDefaultBrowserMessage
 msgid "%S is not currently set as your default browser. Would you like to make it your default browser?"
-msgstr "%S није Ваш подразумевани клијент. Да га поставим као подразумевани?"
+msgstr "%S није Ваш подразумевани клијент. Да желите да буде постављен као подразумевани?"
 
 #: setDefaultBrowserDontAsk
 msgid "Always perform this check when starting %S."

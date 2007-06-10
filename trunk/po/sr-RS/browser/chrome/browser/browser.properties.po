@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/browser.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 23:59+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "Крај"
 
 #: nv_timeout
 msgid "Timed Out"
-msgstr "Истекло је време ишчекивања"
+msgstr "Време је истекло"
 
 #: nv_stopped
 msgid "Stopped"
@@ -39,11 +38,11 @@ msgstr ""
 
 #: droponbookmarksbutton
 msgid "Drop a link to bookmark it"
-msgstr "Пренесите везу за памђење"
+msgstr "Пренесите везу за памћење"
 
 #: dropondownloadsbutton
 msgid "Drop a link or file to download it"
-msgstr "Пренесите везу или датотеку за преузимање"
+msgstr "Пренесите везу или датотеку за пријем"
 
 #: dropongobutton
 msgid "Drop a link or file to open it"
@@ -140,7 +139,7 @@ msgstr "Постави све језичке у омиљено..."
 
 #: bookmarkAllTabs_accesskey
 msgid "T"
-msgstr "т"
+msgstr "T"
 
 #: bookmarkCurTab_label
 msgid "Bookmark This Tab..."
@@ -148,7 +147,7 @@ msgstr "Постави језичак у омиљено..."
 
 #: bookmarkCurTab_accesskey
 msgid "B"
-msgstr "П"
+msgstr "B"
 
 # bookmark dialog strings
 #: bookmarkAllTabsDefault
@@ -179,7 +178,7 @@ msgstr "Интернет панели"
 
 #: xpinstallPromptWarning
 msgid "%S prevented this site (%S) from asking you to install software on your computer."
-msgstr ""
+msgstr "Програм %S је спречио ово ел. место (%S) да вас пита за инсталацију програма на Ваш рачунар."
 
 #: xpinstallPromptWarningButton
 #: themeWarningButton
@@ -192,23 +191,23 @@ msgstr "Измена опција..."
 #: xpinstallPromptWarningButton.accesskey
 #: popupWarningButton.accesskey
 msgid "O"
-msgstr "П"
+msgstr "O"
 
 #: xpinstallDisabledMessageLocked
 msgid "Software installation has been disabled by your system administrator."
-msgstr ""
+msgstr "Администратор је забранио инсталацију програма."
 
 #: xpinstallDisabledMessage
 msgid "Software installation is currently disabled. Click Enable and try again."
-msgstr ""
+msgstr "Инсталација програма је тренутно забрањена.  Притисните Дозволи и пробајте поново."
 
 #: xpinstallDisabledButton
 msgid "Enable"
-msgstr ""
+msgstr "Дозволи"
 
 #: xpinstallDisabledButton.accesskey
 msgid "n"
-msgstr "н"
+msgstr "n"
 
 #: themeWarning
 msgid "To protect your computer, %S prevented this site (%S) from installing themes."
@@ -232,7 +231,7 @@ msgstr "Подешавања"
 
 #: popupWarningButtonUnix.accesskey
 msgid "P"
-msgstr "П"
+msgstr "P"
 
 #: popupAllow
 msgid "Allow popups for %S"
@@ -252,15 +251,15 @@ msgstr "Не приказуј поруку при блокирању искач�
 
 #: popupShowPopupPrefix
 msgid "Show '%S'"
-msgstr "Прикажи '%S'"
+msgstr "Прикажи „%S‟"
 
 #: imageBlockedWarning
 msgid "%S will now always block images from %S."
-msgstr ""
+msgstr "%S ће сада увек да зауставља слике са %S."
 
 #: imageAllowedWarning
 msgid "%S will now allow images from %S."
-msgstr ""
+msgstr "%S ће сада да дозвољава приказ слика са %S."
 
 # (Toplevel Edit menu uses utilityOverlay)
 #: undo
@@ -295,7 +294,7 @@ msgstr "&Инсталирам недостајуће додатке..."
 
 #: missingpluginsMessage.button.accesskey
 msgid "I"
-msgstr "&Инсталирам недостајуће додатке..."
+msgstr "I"
 
 # Sanitize
 #: sanitizeWithPromptLabel
@@ -304,7 +303,7 @@ msgstr "Избриши приватне податке..."
 
 #: sanitizeButton
 msgid "Clear Private Data Now"
-msgstr "Избриши приватне податке"
+msgstr "Уклони приватне податке"
 
 # Check for Updates
 #: updatesItem_default
@@ -348,13 +347,13 @@ msgstr "Страна не садржи вести уживо"
 
 #: feedShowFeedNew
 msgid "Subscribe to '%S'..."
-msgstr ""
+msgstr "Претплати се на „%S‟..."
 
 #: feedHasFeedsNew
 msgid "Subscribe to this page..."
-msgstr ""
+msgstr "Претплати се на ову страну..."
 
 # tab context menu additions
 #: tabContext.undoCloseTab
 msgid "Undo Close Tab"
-msgstr ""
+msgstr "Врати затворени језичак"

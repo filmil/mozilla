@@ -470,29 +470,29 @@ po/sr-RS/mail/chrome/messenger/am-copies.dtd.po:
 po/sr-RS/mail/chrome/messenger/vcard.properties.po: 
 26 преведених порука.
 po/sr-RS/mail/chrome/messenger/news.properties.po: 
-0 преведених порука, 2 непреведене поруке.
+2 преведене поруке.
 po/sr-RS/mail/chrome/messenger/newTagDialog.dtd.po: 
 18 преведених порука.
 po/sr-RS/mail/chrome/mozapps/downloads/pref-downloads.dtd.po: 
 62 преведене поруке.
 po/sr-RS/mail/chrome/mozldap/ldap.properties.po: 
-7 преведених порука, 2 непреведене поруке.
+9 преведених порука.
 po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.dtd.po: 
-5 преведених порука, 2 непреведене поруке.
+7 преведених порука.
 po/sr-RS/mail/chrome/messenger-newsblog/feed-properties.dtd.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.properties.po: 
-7 преведених порука, 3 непреведене поруке.
+10 преведених порука.
 po/sr-RS/mail/chrome/messenger-newsblog/feed-subscriptions.dtd.po: 
-6 преведених порука, 13 непреведених порука.
+19 преведених порука.
 po/sr-RS/mail/chrome/messenger-newsblog/newsblog.properties.po: 
-0 преведених порука, 1 непреведена порука.
+1 преведена порука.
 po/sr-RS/mail/chrome/messenger-newsblog/newsblog.dtd.po: 
 6 преведених порука.
 po/sr-RS/mail/chrome/global-platform/win/nsWindowsHooks.properties.po: 
-2 преведене поруке, 3 непреведене поруке.
+5 преведених порука.
 po/sr-RS/mail/chrome/messenger-region/region.properties.po: 
-2 преведене поруке, 1 нејасна порука.
+3 преведене поруке.
 po/sr-RS/mail/chrome/branding/brand.properties.po: 
 3 преведене поруке.
 po/sr-RS/mail/chrome/branding/brand.dtd.po: 
@@ -508,41 +508,41 @@ po/sr-RS/mail/chrome/messenger-smime/msgCompSMIMEOverlay.dtd.po:
 po/sr-RS/mail/chrome/messenger-smime/msgCompSMIMEOverlay.properties.po: 
 7 преведених порука.
 po/sr-RS/mail/chrome/messenger-smime/msgReadSecurityInfo.dtd.po: 
-1 преведена порука, 2 непреведене поруке.
+3 преведене поруке.
 po/sr-RS/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties.po: 
 1 преведена порука.
 po/sr-RS/mail/chrome/messenger-smime/msgReadSMIMEOverlay.dtd.po: 
-9 преведених порука, 2 непреведене поруке.
+11 преведених порука.
 po/sr-RS/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd.po: 
 9 преведених порука.
 po/sr-RS/mail/chrome/messenger-smime/msgCompSecurityInfo.properties.po: 
-1 преведена порука, 63 непреведене поруке.
+63 преведене поруке, 1 непреведена порука.
 po/sr-RS/mail/installer/installer.inc.po: 
-0 преведених порука, 36 непреведених порука.
+36 преведених порука.
 po/sr-RS/mail/installer/custom.properties.po: 
-6 преведених порука, 55 непреведених порука.
+61 преведена порука.
 po/sr-RS/mail/installer/override.properties.po: 
-2 преведене поруке, 40 непреведених порука.
+42 преведене поруке.
 po/sr-RS/mail/installer/mui.properties.po: 
-213 преведених порука, 2 нејасне поруке, 121 непреведена порука.
+336 преведених порука.
 po/sr-RS/security/manager/chrome/pipnss/pipnss.properties.po: 
-14 преведених порука, 1 непреведена порука.
+15 преведених порука.
 po/sr-RS/security/manager/chrome/pipnss/security.properties.po: 
-18 преведених порука, 1 непреведена порука.
+19 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/pref-masterpass.dtd.po: 
 125 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/pippki.properties.po: 
-16 преведених порука, 6 нејасних порука.
+22 преведене поруке.
 po/sr-RS/security/manager/chrome/pippki/deviceManager.dtd.po: 
-31 преведена порука, 6 нејасних порука.
+37 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/pref-validation.dtd.po: 
-48 преведених порука, 11 нејасних порука, 1 непреведена порука.
+60 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/certManager.dtd.po: 
 3 преведене поруке.
 po/sr-RS/security/manager/chrome/pippki/newserver.properties.po: 
-25 преведених порука, 1 непреведена порука.
+26 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/pref-ssl.dtd.po: 
-11 преведених порука, 1 непреведена порука.
+12 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/pref-security.dtd.po: 
 5 преведених порука.
 po/sr-RS/security/manager/chrome/pippki/PrefOverlay.dtd.po: 
@@ -554,13 +554,13 @@ po/sr-RS/security/manager/chrome/pippki/PageInfoOverlay.dtd.po:
 po/sr-RS/security/manager/chrome/pippki/newserver.dtd.po: 
 24 преведене поруке.
 po/sr-RS/netwerk/necko.properties.po: 
-31 преведена порука, 1 непреведена порука.
+32 преведене поруке.
 po/sr-RS/dom/chrome/netError.dtd.po: 
-11 преведених порука, 1 непреведена порука.
+12 преведених порука.
 po/sr-RS/dom/chrome/accessibility/unix/accessible.properties.po: 
-11 преведених порука, 1 непреведена порука.
+12 преведених порука.
 po/sr-RS/dom/chrome/accessibility/mac/accessible.properties.po: 
-11 преведених порука, 1 непреведена порука.
+12 преведених порука.
 po/sr-RS/dom/chrome/accessibility/win/accessible.properties.po: 
 100 преведених порука.
 po/sr-RS/dom/chrome/charsetTitles.properties.po: 
@@ -596,9 +596,9 @@ po/sr-RS/dom/chrome/layout/MediaDocument.properties.po:
 po/sr-RS/dom/chrome/global-strres.properties.po: 
 6 преведених порука.
 po/sr-RS/dom/chrome/printdialog.properties.po: 
-10 преведених порука, 7 непреведених порука.
+17 преведених порука.
 po/sr-RS/dom/chrome/dom/dom.properties.po: 
-po/sr-RS/dom/chrome/appstrings.properties.po:138: не завршава се и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/dom/chrome/appstrings.properties.po:137: не завршава се и „msgid“ и „msgstr“ са „\n“
 msgfmt: нађох 1 кобну грешку
 22 преведене поруке.
 po/sr-RS/dom/chrome/appstrings.properties.po: 
@@ -620,53 +620,69 @@ po/sr-RS/browser/chrome/browser-region/region.properties.po:
 po/sr-RS/browser/chrome/browser/page-drawer.dtd.po: 
 4 преведене поруке.
 po/sr-RS/browser/chrome/browser/pageReportFirstTime.dtd.po: 
-20 преведених порука, 6 непреведених порука.
+26 преведених порука.
 po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po: 
 24 преведене поруке.
 po/sr-RS/browser/chrome/browser/metaData.dtd.po: 
-8 преведених порука, 1 нејасна порука.
+9 преведених порука.
 po/sr-RS/browser/chrome/browser/sanitize.dtd.po: 
-161 преведена порука, 14 нејасних порука, 18 непреведених порука.
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/.#sessionstore.properties.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/.#sessionstore.properties.po: 
+181 преведена порука, 12 нејасних порука.
 po/sr-RS/browser/chrome/browser/browser.dtd.po: 
 6 преведених порука.
 po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po: 
-39 преведених порука, 2 нејасне поруке.
+41 преведена порука.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.dtd.po: 
-92 преведене поруке, 6 нејасних порука, 5 непреведених порука.
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarks.dtd.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarks.dtd.po: 
+103 преведене поруке.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarksProperties.dtd.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarksProperties.dtd.po: 
 8 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarksProperties.dtd.po: 
 17 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/bookmarks/addBookmark.dtd.po: 
-2 преведене поруке, 6 непреведених порука.
+8 преведених порука.
 po/sr-RS/browser/chrome/browser/sidebar/sidebar.properties.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/sidebar/.#sidebar.properties.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/sidebar/.#sidebar.properties.po: 
 9 преведених порука.
 po/sr-RS/browser/chrome/browser/openLocation.dtd.po: 
 0 преведених порука, 4 непреведене поруке.
 po/sr-RS/browser/chrome/browser/sessionstore.properties.po: 
-3 преведене поруке, 6 непреведених порука.
+9 преведених порука.
 po/sr-RS/browser/chrome/browser/engineManager.dtd.po: 
 30 преведених порука.
 po/sr-RS/browser/chrome/browser/migration/migration.properties.po: 
-27 преведених порука, 1 непреведена порука.
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/migration/.#migration.properties.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/migration/.#migration.properties.po: 
+28 преведених порука.
 po/sr-RS/browser/chrome/browser/migration/migration.dtd.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/history/.#history.dtd.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/history/.#history.dtd.po: 
 14 преведених порука.
 po/sr-RS/browser/chrome/browser/history/history.dtd.po: 
-41 преведена порука, 1 непреведена порука.
+42 преведене поруке.
 po/sr-RS/browser/chrome/browser/pageInfo.properties.po: 
-3 преведене поруке, 9 непреведених порука.
+12 преведених порука.
 po/sr-RS/browser/chrome/browser/search.properties.po: 
-67 преведених порука, 10 непреведених порука.
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/.#page-drawer.dtd.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/.#page-drawer.dtd.po: 
+76 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/browser.properties.po: 
-9 преведених порука, 1 непреведена порука.
+10 преведених порука.
 po/sr-RS/browser/chrome/browser/shellservice.properties.po: 
-0 преведених порука, 19 непреведених порука.
+19 преведених порука.
 po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po: 
-0 преведених порука, 1 непреведена порука.
+1 преведена порука.
 po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po: 
+msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/feeds/.#subscribe.dtd.po“ за читање: No such file or directory
+po/sr-RS/browser/chrome/browser/feeds/.#subscribe.dtd.po: 
 0 преведених порука, 10 непреведених порука.
 po/sr-RS/browser/chrome/browser/feeds/subscribe.dtd.po: 
-0 преведених порука, 4 непреведене поруке.
+4 преведене поруке.
 po/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd.po: 
 3 преведене поруке, 7 непреведених порука.
 po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po: 

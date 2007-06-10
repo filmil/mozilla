@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/security/manager/chrome/pippki/certManager.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:30+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -250,77 +249,65 @@ msgstr "Certificates have not been validated with OCSP. Click View to do so."
 #: certmgr.close.label
 #: certmgr.close.accesskey
 #: certmgr.hierarchy.accesskey
-#, fuzzy
 msgid "&Close"
-msgstr "У"
+msgstr "&Затвори"
 
 #: certmgr.view.label
 #: certmgr.view.accesskey
 #: certmgr.fields.accesskey
-#, fuzzy
 msgid "&View"
-msgstr "Н"
+msgstr "&Преглед"
 
 #: certmgr.edit.label
 #: certmgr.edit.accesskey
-#, fuzzy
 msgid "&Edit"
-msgstr "E"
+msgstr "Уреди"
 
 #: certmgr.editca.label
 #: certmgr.editca.accesskey
-#, fuzzy
 msgid "E&dit CA Trust"
-msgstr "d"
+msgstr "Уреди по&верење"
 
 #: certmgr.add.label
 #: certmgr.add.accesskey
-#, fuzzy
 msgid "&Add"
-msgstr "П"
+msgstr "&Додај"
 
 #: certmgr.delete.label
 #: certmgr.delete.accesskey
-#, fuzzy
 msgid "&Delete"
-msgstr "б"
+msgstr "&Уклони"
 
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
 #: certmgr.backup.label
 #: certmgr.backup.accesskey
-#, fuzzy
 msgid "&Backup"
-msgstr "B"
+msgstr "&Сачувај"
 
 #: certmgr.backupall.label
 #: certmgr.backupall.accesskey
-#, fuzzy
 msgid "Bac&kup All"
-msgstr ""
+msgstr "Сачувај &све"
 
 #: certmgr.restore.label
 #: certmgr.restore.accesskey
-#, fuzzy
 msgid "I&mport"
-msgstr "m"
+msgstr "&Увоз"
 
 #: certmgr.details.label
 #: certmgr.details.accesskey
-#, fuzzy
 msgid "Certificate &Fields"
-msgstr "F"
+msgstr "По&ља сертификата"
 
 #: certmgr.fields.label
 #: certmgr.fields.accesskey
 #: certmgr.view.accesskey
-#, fuzzy
 msgid "Field &Value"
-msgstr "Вредност поља"
+msgstr "Вре&дност поља"
 
 #: certmgr.hierarchy.label
 #: certmgr.hierarchy.accesskey
 #: certmgr.close.accesskey
-#, fuzzy
 msgid "&Certificate Hierarchy"
-msgstr "Хијерархија сертификата"
+msgstr "&Хијерархија сертификата"

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 23:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "m"
 
 #: minimizeWindow.label
 msgid "Minimize"
-msgstr "Умањи прозор"
+msgstr "Умањи"
 
 #: bringAllToFront.label
 msgid "Bring All to Front"
@@ -29,7 +28,7 @@ msgstr "Пребаци све у први план"
 
 #: zoomWindow.label
 msgid "Zoom"
-msgstr "Приближи/удаљи"
+msgstr "Зумирај"
 
 #: windowMenu.label
 msgid "Window"
@@ -47,7 +46,7 @@ msgstr "&Помоћ"
 #: aboutCmd.label
 #: aboutCmd.accesskey
 msgid "&About &brandFullName;"
-msgstr "&О &brandFullName;"
+msgstr "&О програму &brandFullName;"
 
 #: helpContents.label
 #: helpContents.accesskey
@@ -56,12 +55,12 @@ msgstr "&Садржај помоћи"
 
 #: helpContentsMac.label
 msgid "&brandShortName; Help"
-msgstr "&brandShortName; Помоћ"
+msgstr "&Помоћ за програм &brandShortName;"
 
 #: helpForIEUsers.label
 #: helpForIEUsers.accesskey
 msgid "For &Internet Explorer Users"
-msgstr "За кориснике &Internet Explorer-а"
+msgstr "За кориснике &Интернет експлорера"
 
 #: openHelp.commandkey
 msgid "VK_F1"
@@ -95,16 +94,16 @@ msgstr "accel"
 #: helpReleaseNotes.label
 #: helpReleaseNotes.accesskey
 msgid "Release &Notes"
-msgstr "О овом &издању"
+msgstr "Белешке о &издању"
 
 #: updateCmd.label
 #: updateCmd.accesskey
 msgid "Check f&or Updates..."
-msgstr "Провери &унапређења..."
+msgstr "Провери &доградње..."
 
 #: preferencesCmdMac.label
 msgid "Preferences..."
-msgstr ""
+msgstr "Поставке..."
 
 #: preferencesCmdMac.commandkey
 msgid ","
@@ -112,25 +111,25 @@ msgstr ","
 
 #: servicesMenuMac.label
 msgid "Services"
-msgstr ""
+msgstr "Услуге"
 
 #: hideThisAppCmdMac.label
 msgid "Hide &brandShortName;"
-msgstr ""
+msgstr "Сакриј &brandShortName;"
 
 #: hideThisAppCmdMac.commandkey
 #: hideOtherAppsCmdMac.commandkey
 msgid "H"
-msgstr "П"
+msgstr "H"
 
 #: hideOtherAppsCmdMac.label
 msgid "Hide Others"
-msgstr ""
+msgstr "Сакриј остале"
 
 #: hideOtherAppsCmdMac.modifiers
 msgid "accel,alt"
-msgstr ""
+msgstr "accel,alt"
 
 #: showAllAppsCmdMac.label
 msgid "Show All"
-msgstr ""
+msgstr "Прикажи све"

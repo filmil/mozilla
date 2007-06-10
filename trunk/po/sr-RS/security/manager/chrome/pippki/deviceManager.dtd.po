@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/security/manager/chrome/pippki/deviceManager.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -77,39 +76,33 @@ msgstr "Верзија"
 
 #: devmgr.button.changeslotname.label
 #: devmgr.button.changeslotname.accesskey
-#, fuzzy
 msgid "&Change Slot Name"
-msgstr "У"
+msgstr "&Промена имена прореза"
 
 #: devmgr.button.login.label
 #: devmgr.button.login.accesskey
-#, fuzzy
 msgid "Log I&n"
-msgstr "н"
+msgstr "П&ријава"
 
 #: devmgr.button.logout.label
 #: devmgr.button.logout.accesskey
-#, fuzzy
 msgid "Log &Out"
-msgstr "О"
+msgstr "&Одјава"
 
 #: devmgr.button.changepw.label
 #: devmgr.button.changepw.accesskey
-#, fuzzy
 msgid "Change &Password"
-msgstr "Ш"
+msgstr "Промена &лозинке"
 
 #: devmgr.button.load.label
 #: devmgr.button.load.accesskey
-#, fuzzy
 msgid "&Load"
-msgstr "L"
+msgstr "&Учитај"
 
 #: devmgr.button.unload.label
 #: devmgr.button.unload.accesskey
-#, fuzzy
 msgid "&Unload"
-msgstr "U"
+msgstr "У&клони"
 
 #: devmgr.button.fips.accesskey
 msgid "F"
@@ -117,7 +110,7 @@ msgstr "F"
 
 #: loaddevice.info
 msgid "Enter the information for the module you want to add."
-msgstr "Унесите податке о модулу који желите додати."
+msgstr "Унесите податке о модулу који желите да додате."
 
 #: loaddevice.modname
 msgid "Module Name:"
@@ -125,7 +118,7 @@ msgstr "Име модула:"
 
 #: loaddevice.modname.accesskey
 msgid "M"
-msgstr "П"
+msgstr "M"
 
 #: loaddevice.modname.default
 msgid "New PKCS#11 Module"
@@ -141,7 +134,7 @@ msgstr "f"
 
 #: loaddevice.browse
 msgid "Browse..."
-msgstr "Изабери..."
+msgstr "Избор..."
 
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters

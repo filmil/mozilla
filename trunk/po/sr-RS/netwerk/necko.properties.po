@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/netwerk/necko.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 19:35+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -94,7 +93,7 @@ msgstr "Чекам на %1$S..."
 
 #: 27
 msgid "Beginning FTP transaction..."
-msgstr "Почетак FTP-преноса..."
+msgstr "Почетак FTP преноса..."
 
 #: 28
 msgid "Finished FTP transaction"

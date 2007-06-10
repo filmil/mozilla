@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/bookmarks/bookmarks.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 23:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -175,20 +174,18 @@ msgstr "&Не сортирај"
 
 #: sortAscending.label
 #: sortAscending.accesskey
-#, fuzzy
 msgid "&Ascending"
-msgstr "П"
+msgstr "&Растући"
 
 #: sortDescending.label
 #: sortDescending.accesskey
-#, fuzzy
 msgid "&Descending"
-msgstr "б"
+msgstr "&Опадајући"
 
 #: menuitem.personaltoolbarfolder.label
 #: menuitem.personaltoolbarfolder.accesskey
 msgid "Set as &Bookmarks Toolbar Folder"
-msgstr "Постави &каталог у лични панел"
+msgstr "Постави &забелешку у лични панел"
 
 #: treecol.name.label
 #: treecol.name.accesskey

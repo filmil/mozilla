@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 00:07+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +16,17 @@ msgstr ""
 
 #: addFeedReader.title
 msgid "Add Feed Reader"
-msgstr ""
+msgstr "Додај читач довода"
 
 #: addAsDefault.label
 #: addAsDefault.accesskey
 msgid "&Make this my default feed reader"
-msgstr ""
+msgstr "Означи овај читач довода као &подразумевани"
 
 #: forSite.label
 msgid "Site:"
-msgstr ""
+msgstr "Ел. место:"
 
 #: feedReaderRegistered.title
 msgid "Feed Reader Already Registered"
-msgstr ""
+msgstr "Читач довода је већ пријављен"

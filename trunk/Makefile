@@ -14,7 +14,7 @@ include Makefile.inc
 
 .PHONY: all clean pot cleanpot stats  initpo match populate
 
-all: stats
+all: stats publish
 
 # Слање измена у Мозилин ЦВС
 publish: clean output

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/browser.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-10 23:22+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -148,25 +147,24 @@ msgstr "Додај страну у омиљено..."
 
 #: addCurPageAsCmd.commandkey
 #: urlbar.accesskey
-#, fuzzy
 msgid "d"
 msgstr "d"
 
 #: subscribeToPageMenupopup.label
 msgid "Subscribe to This Page"
-msgstr ""
+msgstr "Претплата на ову страну"
 
 #: subscribeToPageMenuitem.label
 msgid "Subscribe to This Page..."
-msgstr ""
+msgstr "Претплата на ову страну..."
 
 #: addLiveBookmarkMenupopup.label
 msgid "Add Live Bookmark"
-msgstr ""
+msgstr "Додај живу везу"
 
 #: addLiveBookmarkMenuitem.label
 msgid "Add Live Bookmark..."
-msgstr ""
+msgstr "Додај живу везу..."
 
 #: addCurPagesCmd.label
 #: addCurPagesCmd.accesskey
@@ -239,11 +237,11 @@ msgstr "Заустави учитавање странице"
 
 #: goEndCap.label
 msgid "Go"
-msgstr ""
+msgstr "Крени"
 
 #: goEndCap.tooltip
 msgid "Go to the address in the Location Bar"
-msgstr ""
+msgstr "Приказ адресе уписане у траку за адресе"
 
 #: printButton.label
 msgid "Print"
@@ -348,7 +346,7 @@ msgstr "j"
 
 #: downloadsUnix.commandkey
 msgid "y"
-msgstr "d"
+msgstr "y"
 
 #: addons.label
 #: addons.accesskey
@@ -356,23 +354,23 @@ msgstr "d"
 #: spellAddDictionaries.accesskey
 #, fuzzy
 msgid "&Add-ons"
-msgstr "a"
+msgstr "&Додаци"
 
 #: addons.tooltip
 msgid "Show and Manage installed Add-ons"
-msgstr ""
+msgstr "Приказ и управљање постављеним додацима"
 
 #: javaConsoleCmd.label
 #: javaConsoleCmd.accesskey
 msgid "&Java Console"
-msgstr "&Java конзола"
+msgstr "&Јава конзола"
 
 #: errorConsoleCmd.label
 #: errorConsoleCmd.accesskey
 #: copyCmd.key
 #, fuzzy
 msgid "Error &Console"
-msgstr "c"
+msgstr "Конзола за &грешке"
 
 #: fileMenu.label
 #: fileMenu.accesskey
@@ -452,7 +450,6 @@ msgstr "&Обриши"
 
 #: deleteCmd.key
 #: dontShowMessage.accesskey
-#, fuzzy
 msgid "D"
 msgstr "D"
 
@@ -465,7 +462,7 @@ msgstr "Изабери &све"
 #: addons.accesskey
 #: spellAddDictionaries.accesskey
 msgid "A"
-msgstr "a"
+msgstr "A"
 
 #: preferencesCmd.label
 #: preferencesCmd.accesskey
@@ -535,9 +532,8 @@ msgstr "h"
 #: historySidebarCmd.accesskey
 #: historyMenu.accesskey
 #: savePageCmd.commandkey
-#, fuzzy
 msgid "&Search in History..."
-msgstr ""
+msgstr "&Претрага у историјату..."
 
 #: historyShowCmd.label
 #: historyShowCmd.accesskey
@@ -548,7 +544,7 @@ msgstr "м"
 #: placesToolbarButton.label
 #: placesToolbarButton.tooltip
 msgid "Show Bookmarks &amp; History"
-msgstr ""
+msgstr "Прикажи белешке и историјат"
 
 # XXX remove below if places sticks
 #: goMenu.label
@@ -562,7 +558,7 @@ msgstr "Ранији историјат"
 
 #: historyShowSidebarCmd.label
 msgid "Show in Sidebar"
-msgstr ""
+msgstr "Прикажи у траци постранце"
 
 #: releaseCmd.label
 #: releaseCmd.accesskey
@@ -945,45 +941,41 @@ msgstr "VK_F3"
 #: spellAddToDictionary.label
 #: spellAddToDictionary.accesskey
 #: tabCmd.commandkey
-#, fuzzy
 msgid "Add &to dictionary"
-msgstr ""
+msgstr "Додај у &речник"
 
 #: spellEnable.label
 #: spellEnable.accesskey
 #: searchBookmarksCmd.accesskey
-#, fuzzy
 msgid "&Spell check this field"
-msgstr ""
+msgstr "Провери &правопис у овом пољу"
 
 #: spellNoSuggestions.label
 msgid "(No spelling suggestions)"
-msgstr ""
+msgstr "(Нема предлога за исправку)"
 
 #: spellDictionaries.label
 #: spellDictionaries.accesskey
 #: openCmd.commandkey
-#, fuzzy
 msgid "&Languages"
-msgstr ""
+msgstr "&Језици"
 
 #: spellAddDictionaries.label
 #: spellAddDictionaries.accesskey
 #: addons.accesskey
 #: selectAllCmd.key
-#, fuzzy
 msgid "&Add dictionaries..."
-msgstr ""
+msgstr "&Додај речнике..."
 
 # new bookmarks and history
 #: location.status.not_bookmarked
 msgid "Star (Off)"
-msgstr ""
+msgstr "Звезда (искљ.)"
 
 #: location.status.bookmarked
 msgid "Star (On)"
-msgstr ""
+msgstr "Звезда (укљ.)"
 
 #: location.status.bookmark.tooltip
 msgid "Add a Bookmark to this page"
-msgstr ""
+msgstr "Забележи ову страну"

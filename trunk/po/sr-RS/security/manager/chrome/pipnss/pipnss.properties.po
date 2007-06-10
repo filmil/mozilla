@@ -39,13 +39,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/security/manager/chrome/pipnss/pipnss.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 18:50+0200\n"
+"PO-Revision-Date: 2007-06-10 19:24+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -151,7 +150,6 @@ msgstr "Сертификат примаоца ел. поште"
 
 #: VerifyProtectObjSign
 #: VerifyProtectObjSign_p
-#, fuzzy
 msgid "Protected Object Signer"
 msgstr "Потпис заштићеног објекта"
 
@@ -601,47 +599,47 @@ msgstr "Микрософтова провера хардверских драј�
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_10
 msgid "Microsoft Qualified Subordination"
-msgstr ""
+msgstr "Микрософтово квалификовано представништво"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_11
 msgid "Microsoft Key Recovery"
-msgstr ""
+msgstr "Микрософтов опоравак кључа"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_12
 msgid "Microsoft Document Signing"
-msgstr ""
+msgstr "Микрософтов потпис докумената"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_10_3_13
 msgid "Microsoft Lifetime Signing"
-msgstr ""
+msgstr "Микрософтов доживотни потпис"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_20_2_2
 msgid "Microsoft Smart Card Logon"
-msgstr ""
+msgstr "Микрософтова пријава паметном картицом"
 
 #: CertDumpEKU_1_3_6_1_4_1_311_21_6
 msgid "Microsoft Key Recovery Agent"
-msgstr ""
+msgstr "Микрософтов агент за опоравак кључева"
 
 #: CertDumpMSCerttype
 msgid "Microsoft Certificate Template Name"
-msgstr ""
+msgstr "Микрософтово име шаблона за сертификат"
 
 #: CertDumpMSNTPrincipal
 msgid "Microsoft Principal Name"
-msgstr ""
+msgstr "Микрософтово главно име"
 
 #: CertDumpMSCAVersion
 msgid "Microsoft CA Version"
-msgstr ""
+msgstr "Микрософтово издање сертификата"
 
 #: CertDumpMSDomainGUID
 msgid "Microsoft Domain GUID"
-msgstr ""
+msgstr "Микрософтов GUID за домен"
 
 #: CertDumpEKU_2_16_840_1_113730_4_1
 msgid "Netscape Server Gated Crypto"
-msgstr ""
+msgstr "Нетскејпов надгледани криптографски сервер"
 
 #: CertDumpRFC822Name
 msgid "E-Mail Address"
@@ -649,67 +647,67 @@ msgstr "Адреса ел. поште"
 
 #: CertDumpDNSName
 msgid "DNS Name"
-msgstr ""
+msgstr "Име ДНСа"
 
 #: CertDumpX400Address
 msgid "X.400 Address"
-msgstr ""
+msgstr "X.400 адреса"
 
 #: CertDumpDirectoryName
 msgid "X.500 Name"
-msgstr ""
+msgstr "X.500 име"
 
 #: CertDumpEDIPartyName
 msgid "EDI Party Name"
-msgstr ""
+msgstr "EDI име странке"
 
 #: CertDumpURI
 msgid "URI"
-msgstr ""
+msgstr "URI"
 
 #: CertDumpIPAddress
 msgid "IP Address"
-msgstr ""
+msgstr "IP адреса"
 
 #: CertDumpRegisterID
 msgid "Registered OID"
-msgstr ""
+msgstr "Пријављени OID"
 
 #: CertDumpKeyID
 msgid "Key ID"
-msgstr ""
+msgstr "ID кључа"
 
 #: CertDumpVerisignNotices
 msgid "Verisign User Notices"
-msgstr ""
+msgstr "Верисајново (Verisign) корсничко обавештење"
 
 #: CertDumpUnused
 msgid "Unused"
-msgstr ""
+msgstr "Неискоришћено"
 
 #: CertDumpKeyCompromise
 msgid "Key Compromise"
-msgstr ""
+msgstr "Кључ је откривен"
 
 #: CertDumpCACompromise
 msgid "CA Compromise"
-msgstr ""
+msgstr "Сертификат је откривен"
 
 #: CertDumpAffiliationChanged
 msgid "Affiliation Changed"
-msgstr ""
+msgstr "Промена фирме"
 
 #: CertDumpSuperseded
 msgid "Superseded"
-msgstr ""
+msgstr "Застарело"
 
 #: CertDumpCessation
 msgid "Cessation of Operation"
-msgstr ""
+msgstr "Крај рада"
 
 #: CertDumpHold
 msgid "Certificate Hold"
-msgstr ""
+msgstr "Задржан сертификат"
 
 #: CertDumpOCSPResponder
 msgid "OCSP"
@@ -717,263 +715,263 @@ msgstr "OCSP"
 
 #: CertDumpCAIssuers
 msgid "CA Issuers"
-msgstr ""
+msgstr "Издавачи сертификата"
 
 #: CertDumpCPSPointer
 msgid "Certification Practice Statement pointer"
-msgstr ""
+msgstr "Показивач на изјаву о пословању сертификата"
 
 #: CertDumpUserNotice
 msgid "User Notice"
-msgstr ""
+msgstr "Корисничко обавештење"
 
 #: CertDumpLogotype
 msgid "Logotype"
-msgstr ""
+msgstr "Логотип"
 
 #: CertDumpECPublicKey
 msgid "Elliptic Curve Public Key"
-msgstr ""
+msgstr "Јавни кључ са елиптичке криве"
 
 #: CertDumpECDSAWithSHA1
 msgid "X9.62 ECDSA Signature with SHA1"
-msgstr ""
+msgstr "X9.62 ECDSA потпис са SHA1"
 
 #: CertDumpECprime192v1
 msgid "ANSI X9.62 elliptic curve prime192v1 (aka secp192r1, NIST P-192)"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime192v1 (тј. secp192r1, NIST P-192)"
 
 #: CertDumpECprime192v2
 msgid "ANSI X9.62 elliptic curve prime192v2"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime192v2"
 
 #: CertDumpECprime192v3
 msgid "ANSI X9.62 elliptic curve prime192v3"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime192v3"
 
 #: CertDumpECprime239v1
 msgid "ANSI X9.62 elliptic curve prime239v1"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime239v1"
 
 #: CertDumpECprime239v2
 msgid "ANSI X9.62 elliptic curve prime239v2"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime239v2"
 
 #: CertDumpECprime239v3
 msgid "ANSI X9.62 elliptic curve prime239v3"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime239v3"
 
 #: CertDumpECprime256v1
 msgid "ANSI X9.62 elliptic curve prime256v1 (aka secp256r1, NIST P-256)"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива prime256v1 (тј. secp256r1, NIST P-256)"
 
 #: CertDumpECsecp112r1
 msgid "SECG elliptic curve secp112r1"
-msgstr ""
+msgstr "SECG елиптичка крива secp112r1"
 
 #: CertDumpECsecp112r2
 msgid "SECG elliptic curve secp112r2"
-msgstr ""
+msgstr "SECG елиптичка крива secp112r2"
 
 #: CertDumpECsecp128r1
 msgid "SECG elliptic curve secp128r1"
-msgstr ""
+msgstr "SECG елиптичка крива secp128r1"
 
 #: CertDumpECsecp128r2
 msgid "SECG elliptic curve secp128r2"
-msgstr ""
+msgstr "SECG елиптичка крива secp128r2"
 
 #: CertDumpECsecp160k1
 msgid "SECG elliptic curve secp160k1"
-msgstr ""
+msgstr "SECG елиптичка крива secp160k1"
 
 #: CertDumpECsecp160r1
 msgid "SECG elliptic curve secp160r1"
-msgstr ""
+msgstr "SECG елиптичка крива secp160r1"
 
 #: CertDumpECsecp160r2
 msgid "SECG elliptic curve secp160r2"
-msgstr ""
+msgstr "SECG елиптичка крива secp160r2"
 
 #: CertDumpECsecp192k1
 msgid "SECG elliptic curve secp192k1"
-msgstr ""
+msgstr "SECG елиптичка крива secp192k1"
 
 #: CertDumpECsecp224k1
 msgid "SECG elliptic curve secp224k1"
-msgstr ""
+msgstr "SECG елиптичка крива secp224k1"
 
 #: CertDumpECsecp224r1
 msgid "SECG elliptic curve secp224r1 (aka NIST P-224)"
-msgstr ""
+msgstr "SECG елиптичка крива secp224r1 (тј. NIST P-224)"
 
 #: CertDumpECsecp256k1
 msgid "SECG elliptic curve secp256k1"
-msgstr ""
+msgstr "SECG елиптичка крива secp256k1"
 
 #: CertDumpECsecp384r1
 msgid "SECG elliptic curve secp384r1 (aka NIST P-384)"
-msgstr ""
+msgstr "SECG елиптичка крива secp384r1 (aka NIST P-384)"
 
 #: CertDumpECsecp521r1
 msgid "SECG elliptic curve secp521r1 (aka NIST P-521)"
-msgstr ""
+msgstr "SECG елиптичка крива secp521r1 (aka NIST P-521)"
 
 #: CertDumpECc2pnb163v1
 msgid "ANSI X9.62 elliptic curve c2pnb163v1"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива c2pnb163v1"
 
 #: CertDumpECc2pnb163v2
 msgid "ANSI X9.62 elliptic curve c2pnb163v2"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива 2pnb163v2"
 
 #: CertDumpECc2pnb163v3
 msgid "ANSI X9.62 elliptic curve c2pnb163v3"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива c2pnb163v3"
 
 #: CertDumpECc2pnb176v1
 msgid "ANSI X9.62 elliptic curve c2pnb176v1"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива c2pnb176v1"
 
 #: CertDumpECc2tnb191v1
 msgid "ANSI X9.62 elliptic curve c2tnb191v1"
-msgstr ""
+msgstr "ANSI X9.62 елиптичка крива c2tnb191v1"
 
 #: CertDumpECc2tnb191v2
 msgid "ANSI X9.62 elliptic curve c2tnb191v2"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb191v2"
 
 #: CertDumpECc2tnb191v3
 msgid "ANSI X9.62 elliptic curve c2tnb191v3"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb191v3"
 
 #: CertDumpECc2onb191v4
 msgid "ANSI X9.62 elliptic curve c2onb191v4"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2onb191v4"
 
 #: CertDumpECc2onb191v5
 msgid "ANSI X9.62 elliptic curve c2onb191v5"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2onb191v5"
 
 #: CertDumpECc2pnb208w1
 msgid "ANSI X9.62 elliptic curve c2pnb208w1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2pnb208w1"
 
 #: CertDumpECc2tnb239v1
 msgid "ANSI X9.62 elliptic curve c2tnb239v1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb239v1"
 
 #: CertDumpECc2tnb239v2
 msgid "ANSI X9.62 elliptic curve c2tnb239v2"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb239v2"
 
 #: CertDumpECc2tnb239v3
 msgid "ANSI X9.62 elliptic curve c2tnb239v3"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb239v3"
 
 #: CertDumpECc2onb239v4
 msgid "ANSI X9.62 elliptic curve c2onb239v4"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2onb239v4"
 
 #: CertDumpECc2onb239v5
 msgid "ANSI X9.62 elliptic curve c2onb239v5"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2onb239v5"
 
 #: CertDumpECc2pnb272w1
 msgid "ANSI X9.62 elliptic curve c2pnb272w1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2pnb272w1"
 
 #: CertDumpECc2pnb304w1
 msgid "ANSI X9.62 elliptic curve c2pnb304w1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2pnb304w1"
 
 #: CertDumpECc2tnb359v1
 msgid "ANSI X9.62 elliptic curve c2tnb359v1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb359v1"
 
 #: CertDumpECc2pnb368w1
 msgid "ANSI X9.62 elliptic curve c2pnb368w1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2pnb368w1"
 
 #: CertDumpECc2tnb431r1
 msgid "ANSI X9.62 elliptic curve c2tnb431r1"
-msgstr ""
+msgstr "ANSI X9.62 elliptic curve c2tnb431r1"
 
 #: CertDumpECsect113r1
 msgid "SECG elliptic curve sect113r1"
-msgstr ""
+msgstr "SECG elliptic curve sect113r1"
 
 #: CertDumpECsect113r2
 msgid "SECG elliptic curve sect113r2"
-msgstr ""
+msgstr "SECG elliptic curve sect113r2"
 
 #: CertDumpECsect131r1
 msgid "SECG elliptic curve sect131r1"
-msgstr ""
+msgstr "SECG elliptic curve sect131r1"
 
 #: CertDumpECsect131r2
 msgid "SECG elliptic curve sect131r2"
-msgstr ""
+msgstr "SECG elliptic curve sect131r2"
 
 #: CertDumpECsect163k1
 msgid "SECG elliptic curve sect163k1 (aka NIST K-163)"
-msgstr ""
+msgstr "SECG elliptic curve sect163k1 (aka NIST K-163)"
 
 #: CertDumpECsect163r1
 msgid "SECG elliptic curve sect163r1"
-msgstr ""
+msgstr "SECG elliptic curve sect163r1"
 
 #: CertDumpECsect163r2
 msgid "SECG elliptic curve sect163r2 (aka NIST B-163)"
-msgstr ""
+msgstr "SECG elliptic curve sect163r2 (aka NIST B-163)"
 
 #: CertDumpECsect193r1
 msgid "SECG elliptic curve sect193r1"
-msgstr ""
+msgstr "SECG elliptic curve sect193r1"
 
 #: CertDumpECsect193r2
 msgid "SECG elliptic curve sect193r2"
-msgstr ""
+msgstr "SECG elliptic curve sect193r2"
 
 #: CertDumpECsect233k1
 msgid "SECG elliptic curve sect233k1 (aka NIST K-233)"
-msgstr ""
+msgstr "SECG elliptic curve sect233k1 (aka NIST K-233)"
 
 #: CertDumpECsect233r1
 msgid "SECG elliptic curve sect233r1 (aka NIST B-233)"
-msgstr ""
+msgstr "SECG elliptic curve sect233r1 (aka NIST B-233)"
 
 #: CertDumpECsect239k1
 msgid "SECG elliptic curve sect239k1"
-msgstr ""
+msgstr "SECG elliptic curve sect239k1"
 
 #: CertDumpECsect283k1
 msgid "SECG elliptic curve sect283k1 (aka NIST K-283)"
-msgstr ""
+msgstr "SECG elliptic curve sect283k1 (aka NIST K-283)"
 
 #: CertDumpECsect283r1
 msgid "SECG elliptic curve sect283r1 (aka NIST B-283)"
-msgstr ""
+msgstr "SECG elliptic curve sect283r1 (aka NIST B-283)"
 
 #: CertDumpECsect409k1
 msgid "SECG elliptic curve sect409k1 (aka NIST K-409)"
-msgstr ""
+msgstr "SECG elliptic curve sect409k1 (aka NIST K-409)"
 
 #: CertDumpECsect409r1
 msgid "SECG elliptic curve sect409r1 (aka NIST B-409)"
-msgstr ""
+msgstr "SECG elliptic curve sect409r1 (aka NIST B-409)"
 
 #: CertDumpECsect571k1
 msgid "SECG elliptic curve sect571k1 (aka NIST K-571)"
-msgstr ""
+msgstr "SECG elliptic curve sect571k1 (aka NIST K-571)"
 
 #: CertDumpECsect571r1
 msgid "SECG elliptic curve sect571r1 (aka NIST B-571)"
-msgstr ""
+msgstr "SECG elliptic curve sect571r1 (aka NIST B-571)"
 
 #: CertDumpRawBytesHeader
 msgid "Size: %S Bytes / %S Bits"
-msgstr ""
+msgstr "величина: бајтова: %S / битова: %S"
 
 #: VerifySSLClient_p
 msgid "Client"
@@ -1131,15 +1129,15 @@ msgstr "%S = %S"
 # for the next 3 lines, %1$S will be product name (e.g. Firefox), %2$S will be the www.example.com address we connect to
 #: SSL_Disabled
 msgid "%1$S can't connect securely to %2$S because the SSL protocol has been disabled."
-msgstr ""
+msgstr "%1$S не може да се шифровано повеже са %2$S јер је SSL протокол искључен."
 
 #: SSL2_Disabled
 msgid "%1$S can't connect securely to %2$S because the site uses an older, insecure version of the SSL protocol."
-msgstr ""
+msgstr "%1$S не може да се безбедно повеже са %2$S јер место користи старије, несигурно издање SSL протокола."
 
 #: SSL_NoMatchingCiphers
 msgid "%1$S can't connect securely to %2$S because the site uses a security protocol which isn't enabled."
-msgstr ""
+msgstr "%1$S не може да се безбедно повеже са %2$S јер место користи безбедносни протокол који је искључен."
 
 #: UsersCertRevoked
 msgid "Could not establish an encrypted connection with %S because your certificate has been revoked."
@@ -1288,7 +1286,7 @@ msgstr "Грешка при покушаку провере истинитост
 
 #: OCSPDeadlock
 msgid "An internal failure has been detected. It is not possible to complete the requested OCSP operation."
-msgstr ""
+msgstr "Дошло је до интерне грешке. Није могуће довршити тражено OCSP дејство."
 
 #: CertInfoIssuedFor
 msgid "Issued to:"
@@ -1412,28 +1410,28 @@ msgstr "(нема адресе ел. поште)"
 
 #: NicknameExpired
 msgid "(expired)"
-msgstr ""
+msgstr "(истекао)"
 
 #: NicknameNotYetValid
 msgid "(not yet valid)"
-msgstr ""
+msgstr "(још није важећи)"
 
 #: CaCertExists
 msgid "This certificate is already installed as a certificate authority."
-msgstr ""
+msgstr "Овај сертификат је већ инсталиран као ауторитет за сертификате."
 
 #: NotACACert
 msgid "This is not a certificate authority certificate, so it can't be imported into the certificate authority list."
-msgstr ""
+msgstr "Овај сертификат не потиче од ауторитета за сертификате, па не може да буде увезен на списак ауторитета за сертификате."
 
 #: NotImportingUnverifiedCert
 msgid "This certificate can't be verified and will not be imported. The certificate issuer might be unknown or untrusted, the certificate might have expired or been revoked, or the certificate might not have been approved."
-msgstr ""
+msgstr "Овај сертификат није могао бити проверен и неће бити увезен. Издавач сертификата је можда непознат или му се не може веровати, сертификат је можда истекао или је опозван, или можда није одобрен."
 
 #: UserCertIgnoredNoPrivateKey
 msgid "This personal certificate can't be installed because you do not own the corresponding private key which was created when the certificate was requested."
-msgstr ""
+msgstr "Овај лични сертификат није могуће инсталирати јер не поседујете одговарајући приватни кључ који је направљен када је сертификат потражен."
 
 #: UserCertImported
 msgid "Your personal certificate has been installed. You should keep a backup copy of this certificate."
-msgstr ""
+msgstr "Ваш лични сертификат је инсталиран.  Сачувајте резервни умножак овог сертификата."

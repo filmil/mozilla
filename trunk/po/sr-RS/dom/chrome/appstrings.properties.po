@@ -34,13 +34,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/dom/chrome/appstrings.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 00:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,23 +55,23 @@ msgstr "Адреса није исправна и не може бити учи�
 
 #: fileNotFound
 msgid "The file %S cannot be found. Please check the location and try again."
-msgstr "Firefox не може да пронађе датотеку на %S."
+msgstr "Датотека %S није пронађена. Проверите адресу и пробајте опет."
 
 #: dnsNotFound
 msgid "%S could not be found. Please check the name and try again."
-msgstr "Firefox не може да пронађе сервер на %S."
+msgstr "%S није пронађена.  Проверите име и пробајте опет."
 
 #: protocolNotFound
 msgid "%S is not a registered protocol."
-msgstr "Firefox не зна како да отвори ову адресу, зато што протокол (%S) није додељен ни једном програму."
+msgstr "%S није пријављен протокол."
 
 #: connectionFailure
 msgid "The connection was refused when attempting to contact %S."
-msgstr "Firefox не може да оствари везу на сервер на %S."
+msgstr "Одбијена је веза са %S."
 
 #: netInterrupt
 msgid "The connection to %S has terminated unexpectedly. Some data may have been transferred."
-msgstr "Веза са %S  је прекинута приликом учитавања стране."
+msgstr "Веза са %S је прекинута приликом учитавања стране. Подаци су можда делимично пренесени."
 
 #: netTimeout
 msgid "The operation timed out when attempting to contact %S."
@@ -80,7 +79,7 @@ msgstr "Серверу на %S је потребно превише времен
 
 #: redirectLoop
 msgid "Redirection limit for this URL exceeded.  Unable to load the requested page.  This may be caused by cookies that are blocked."
-msgstr "Firefox је препознао да сервер преусмерава захтев за адресом на начин да га никад неће завршити."
+msgstr "Лимит за преусмерење је пробијен за овај УРЛ.  Није могуће учитати тражену страну. Узрок могу да буду блокирани колачићи."
 
 #: repost
 msgid "The page you are trying to view contains POSTDATA that has expired from cache. If you resend the data, any action the form carried out (such as a search or online purchase) will be repeated. To resend the data, click OK. Otherwise, click Cancel."

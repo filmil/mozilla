@@ -1,14 +1,5 @@
 Датотеке на којима тренутно радим:
 
-po/sr-RS/dom/chrome/dom
-po/sr-RS/dom/chrome/dom/dom.properties.po
-po/sr-RS/dom/chrome/appstrings.properties.po
-po/sr-RS/dom/chrome/xslt
-po/sr-RS/dom/chrome/xslt/xslt.properties.po
-po/sr-RS/browser
-po/sr-RS/browser/defines.inc.po
-po/sr-RS/browser/extra-jar.mn
-po/sr-RS/browser/os2
 po/sr-RS/browser/os2/README.txt
 po/sr-RS/browser/searchplugins
 po/sr-RS/browser/searchplugins/answers.xml
