@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,16 +17,16 @@ msgstr ""
 
 #: restoredTitle
 msgid "%S - Restore Previous Session"
-msgstr ""
+msgstr "%S - Обнова претходне сесије"
 
 #: restoredMsg
 msgid "Your last %S session closed unexpectedly. You can restore the tabs and windows from your previous session, or start a new session if you think the problem was related to a page you were viewing."
-msgstr ""
+msgstr "Ваша последња сесија у програму %S се завршила пре времена. Можете да вратите језичке и прозоре из претходне сесије, или да покренете нову сесију ако сматрате да је проблем био са странама које сте прегледали."
 
 #: buttonTitle
 msgid "Restore Session"
-msgstr ""
+msgstr "Обнови сесију"
 
 #: cancelTitle
 msgid "Start New Session"
-msgstr ""
+msgstr "Покрени нову сесију"

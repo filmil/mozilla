@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,11 +54,11 @@ msgstr ""
 #
 #: div.cookiesonsystem.label
 msgid "View and remove cookies that are stored on your computer."
-msgstr ""
+msgstr "Преглед и уклањање колачића сачуваних на рачунару."
 
 #: treehead.cookiename.label
 msgid "Cookie Name"
-msgstr ""
+msgstr "Име колачића"
 
 #: treehead.cookiedomain.label
 msgid "Site"
@@ -67,15 +66,15 @@ msgstr "Ел. место"
 
 #: treehead.infoselected.label
 msgid "Information about the selected Cookie"
-msgstr ""
+msgstr "Подаци о изабраном колачићу"
 
 #: button.removecookie.label
 msgid "Remove Cookie"
-msgstr ""
+msgstr "Уклони колачић"
 
 #: button.removeallcookies.label
 msgid "Remove All Cookies"
-msgstr ""
+msgstr "Уклони све колачиће"
 
 #: props.name.label
 msgid "Name:"
@@ -83,19 +82,19 @@ msgstr "Име:"
 
 #: props.value.label
 msgid "Content:"
-msgstr ""
+msgstr "Садржај:"
 
 #: props.domain.label
 msgid "Host:"
-msgstr ""
+msgstr "Рачунар:"
 
 #: props.path.label
 msgid "Path:"
-msgstr ""
+msgstr "Стаза:"
 
 #: props.secure.label
 msgid "Send For:"
-msgstr ""
+msgstr "Пошаљи за:"
 
 #: props.expires.label
 msgid "Expires:"
@@ -103,8 +102,8 @@ msgstr "Истиче:"
 
 #: window.title
 msgid "Stored Cookies"
-msgstr ""
+msgstr "Сачувани колачићи"
 
 #: checkbox.label
 msgid "Don't allow sites that set removed cookies to set future cookies"
-msgstr ""
+msgstr "Не дозвољавај местима која су поставила уклоњене колачиће да их убудуће постављају"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:22+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +17,11 @@ msgstr ""
 
 #: linkTitleTextFormat
 msgid "Go to %S"
-msgstr ""
+msgstr "Иди на %S"
 
 #: addHandler
 msgid "Add \"%S\" as a feed reader?"
-msgstr ""
+msgstr "Да ли да додам „%S‟ као читача довода?"
 
 #: addHandlerYes
 msgid "Yes"
@@ -33,15 +33,15 @@ msgstr "Не"
 
 #: handlerRegistered
 msgid "\"%S\" is already registered as a Feed Reader"
-msgstr ""
+msgstr "„%S‟ је већ пријављен као читач довода"
 
 #: liveBookmarks
 msgid "Live Bookmarks"
-msgstr ""
+msgstr "Живе забелешке"
 
 #: subscribeNow
 msgid "Subscribe Now"
-msgstr ""
+msgstr "Претплати се сад"
 
 #: chooseApplicationMenuItem
 msgid "Choose Application..."
@@ -49,8 +49,8 @@ msgstr "Изабери програм..."
 
 #: chooseApplicationDialogTitle
 msgid "Choose Application"
-msgstr ""
+msgstr "Избор програма"
 
 #: alwaysUse
 msgid "Always use %S to subscribe to feeds"
-msgstr ""
+msgstr "Увек користи „%S‟ за претплату на доводе"

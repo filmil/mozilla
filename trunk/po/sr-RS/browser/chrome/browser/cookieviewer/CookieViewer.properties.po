@@ -35,13 +35,12 @@
 #
 # ***** END LICENSE BLOCK *****
 # extracted from source/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,20 +54,20 @@ msgstr ""
 # format in dialog: site [can/cannot] set cookies
 #: hostColon
 msgid "Host:"
-msgstr ""
+msgstr "Рачунар:"
 
 #: domainColon
 msgid "Domain:"
-msgstr ""
+msgstr "Домен:"
 
 #: forSecureOnly
 msgid "Encrypted connections only"
-msgstr ""
+msgstr "Само шифроване везе"
 
 #: forAnyConnection
 msgid "Any type of connection"
-msgstr ""
+msgstr "Ма која врста везе"
 
 #: AtEndOfSession
 msgid "at end of session"
-msgstr ""
+msgstr "на крају сесије"

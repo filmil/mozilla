@@ -1,15 +1,5 @@
 Датотеке на којима тренутно нико не ради:
 
-po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po
-po/sr-RS/browser/chrome/browser/pageInfo.dtd.po
-po/sr-RS/browser/chrome/browser/credits.dtd.po
-po/sr-RS/browser/chrome/browser/safeMode.dtd.po
-po/sr-RS/browser/chrome/browser/setDesktopBackground.dtd.po
-po/sr-RS/browser/chrome/browser/cookieviewer
-po/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd.po
-po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.properties.po
-po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd.po
-po/sr-RS/browser/chrome/browser/metaData.properties.po
 po/sr-RS/browser/chrome/browser/searchbar.dtd.po
 po/sr-RS/browser/chrome/browser/pageReport.dtd.po
 po/sr-RS/browser/chrome/browser/preferences

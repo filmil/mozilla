@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: window.title
 msgid "Exceptions"
-msgstr ""
+msgstr "Изузеци"
 
 #: treehead.sitename.label
 msgid "Site"
@@ -29,27 +28,27 @@ msgstr "Статус"
 
 #: addpermission.label
 msgid "New Site"
-msgstr ""
+msgstr "Ново место"
 
 #: removepermission.label
 msgid "Remove Site"
-msgstr ""
+msgstr "Уклони место"
 
 #: removeallpermissions.label
 msgid "Remove All Sites"
-msgstr ""
+msgstr "Уклони сва места"
 
 #: address.label
 msgid "Address of web site:"
-msgstr ""
+msgstr "Адреса места:"
 
 #: block.label
 msgid "Block"
-msgstr ""
+msgstr "Блокирај"
 
 #: session.label
 msgid "Allow for Session"
-msgstr ""
+msgstr "Дозволи овај пут"
 
 # The contents of this file are subject to the Netscape Public
 # License Version 1.1 (the "License"); you may not use this file

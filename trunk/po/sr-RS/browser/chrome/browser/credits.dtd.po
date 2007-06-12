@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/credits.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,27 +16,27 @@ msgstr ""
 
 #: brandMotto
 msgid "Rediscover the Web"
-msgstr "Истражи поново Интернет"
+msgstr "Поново откријте Интернет"
 
 #: credit.leads
 msgid "Engineering Leads"
-msgstr "Вође пројекта"
+msgstr "Водећи инжењери"
 
 #: credit.core
 msgid "Core Development Posse"
-msgstr "Развој језгра"
+msgstr "Група за развој језгра"
 
 #: credit.gecko
 msgid "Gecko Layout Engine"
-msgstr "Gecko окружење"
+msgstr "Погон Gecko"
 
 #: credit.thanks
 msgid "Special Thanks To"
-msgstr "Посебна захвалност"
+msgstr "Посебне захвалнице"
 
 #: credit.thanks2
 msgid "Many thanks to our"
-msgstr ""
+msgstr "Велико хвала нашим"
 
 #: credit.prethanks
 msgid ""
@@ -47,15 +46,15 @@ msgstr ""
 
 #: credit.friends
 msgid "Friends"
-msgstr ""
+msgstr "пријатељима"
 
 #: credit.and
 msgid "&amp;"
-msgstr ""
+msgstr "и"
 
 #: credit.contributors
 msgid "Contributors"
-msgstr ""
+msgstr "приложницима"
 
 #: credit.postthanks
 msgid ""
@@ -85,7 +84,7 @@ msgstr "Дизајн теме"
 
 #: credit.brand
 msgid "Brand Identity"
-msgstr "Марка"
+msgstr "Идентитет марке"
 
 #: credit.web
 msgid "Web Design"
@@ -97,7 +96,7 @@ msgstr "Mozilla унапређење"
 
 #: credit.qalead
 msgid "Quality Assurance Lead"
-msgstr "Шеф провере квалитета"
+msgstr "Вођа провере квалитета"
 
 #: credit.qa
 msgid "Quality Assurance"
@@ -105,7 +104,7 @@ msgstr "Провера квалитета"
 
 #: credit.build
 msgid "Build and Release"
-msgstr "Издање"
+msgstr "Изградња и издавање"
 
 #: credit.infra
 msgid "Infrastructure Support"
@@ -113,15 +112,15 @@ msgstr "Подршка инфраструктуре"
 
 #: credit.support
 msgid "Support Resources"
-msgstr "Подршка"
+msgstr "Помоћне потрепштине"
 
 #: credit.manage
 msgid "Project Management"
-msgstr "Менаџери пројекта"
+msgstr "Управљање пројектом"
 
 #: credit.marketleads
 msgid "Marketing Leads"
-msgstr "Шеф маркетинга"
+msgstr "Вође маркетинга"
 
 #: credit.market
 msgid "Marketing"
@@ -133,8 +132,8 @@ msgstr "Направио"
 
 #: credit.memory
 msgid "In Fond Memory Of"
-msgstr "Оснивач"
+msgstr "У сећање на"
 
 #: credit.poweredByGecko
 msgid "Powered by Gecko&trade;"
-msgstr "Подржан од Gecko&trade;"
+msgstr "Покреће нас Gecko&trade;"

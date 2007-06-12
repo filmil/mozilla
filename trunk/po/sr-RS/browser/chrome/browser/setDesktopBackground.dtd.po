@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/setDesktopBackground.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:29+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,19 +16,19 @@ msgstr ""
 
 #: position.label
 msgid "Position:"
-msgstr "Позиција:"
+msgstr "Место:"
 
 #: tile.label
 msgid "Tile"
-msgstr "Заглавље"
+msgstr "Поплочано"
 
 #: center.label
 msgid "Center"
-msgstr "Централно"
+msgstr "Центрирано"
 
 #: stretch.label
 msgid "Stretch"
-msgstr "Испуни екран"
+msgstr "Развучено"
 
 #: preview.label
 msgid "Preview"
@@ -41,7 +40,7 @@ msgstr "Боја:"
 
 #: setDesktopBackground.title
 msgid "Set Desktop Background"
-msgstr "Поставка позадине радне површине"
+msgstr "Постави позадину радне површине"
 
 #: openDesktopPrefs.label
 msgid "Open Desktop Preferences"

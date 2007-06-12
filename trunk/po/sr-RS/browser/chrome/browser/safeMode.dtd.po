@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/safeMode.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:28+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -73,9 +72,8 @@ msgstr "Можете поставити неке или све ове проме
 
 #: disableAddons.label
 #: disableAddons.accesskey
-#, fuzzy
 msgid "&Disable all add-ons"
-msgstr "б"
+msgstr "Искључи &све додатке"
 
 #: resetToolbars.label
 #: resetToolbars.accesskey
@@ -85,22 +83,21 @@ msgstr "&Обнови линије алатки и контроле"
 #: resetBookmarks.label
 #: resetBookmarks.accesskey
 msgid "Reset &bookmarks to &brandShortName; defaults"
-msgstr "Врати листу &омиљених веза на &brandShortName; подразумевано"
+msgstr "Врати листу &омиљених веза на изворно за програм &brandShortName;"
 
 #: resetUserPrefs.label
 #: resetUserPrefs.accesskey
 msgid "Reset all user &preferences to &brandShortName; defaults"
-msgstr "Врати сва корисничка &подешавања на &brandShortName; подразумевано"
+msgstr "Врати сва корисничка &подешавања на изворно за програм &brandShortName;"
 
 #: restoreSearch.label
 #: restoreSearch.accesskey
-#, fuzzy
 msgid "Re&store default search engines"
-msgstr "т"
+msgstr "Вра&ти изворне претраживаче"
 
 #: changeAndRestartButton.label
 msgid "Make Changes and Restart"
-msgstr "Направи измене и поново покрени програм"
+msgstr "Направи измене и покрени поново"
 
 #: continueButton.label
 msgid "Continue in Safe Mode"

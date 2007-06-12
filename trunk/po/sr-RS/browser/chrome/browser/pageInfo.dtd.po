@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/pageInfo.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 01:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +97,7 @@ msgstr "Изабери &све"
 
 #: closeWindow.key
 msgid "w"
-msgstr "Н"
+msgstr "w"
 
 #: generalTab
 msgid "General"
@@ -106,7 +105,7 @@ msgstr "Опште"
 
 #: generalAccesskey
 msgid "G"
-msgstr "О"
+msgstr "G"
 
 #: generalTitle
 #: mediaTitle
@@ -115,7 +114,6 @@ msgstr "Заглавље:"
 
 #: generalURL
 #: mediaURL
-#, fuzzy
 msgid "Address:"
 msgstr "Адреса:"
 
@@ -179,7 +177,7 @@ msgstr "Формулари"
 
 #: formsAccesskey
 msgid "F"
-msgstr "Ф"
+msgstr "F"
 
 #: formAction
 msgid "Form Action"
@@ -193,11 +191,11 @@ msgstr "Метод"
 #: linkNo
 #: mediaNo
 msgid "No."
-msgstr "Број"
+msgstr "Бр."
 
 #: formTarget
 msgid "Target:"
-msgstr "Циљни објекат:"
+msgstr "Циљ:"
 
 #: formFields
 msgid "Fields:"
@@ -205,7 +203,7 @@ msgstr "Поља:"
 
 #: formLabel
 msgid "Label"
-msgstr "Наслов"
+msgstr "Ознака"
 
 #: formFName
 msgid "Field Name"
@@ -216,7 +214,7 @@ msgstr "Име поља"
 #: mediaType
 #: frameType
 msgid "Type"
-msgstr "Тип"
+msgstr "Врста"
 
 #: formCValue
 msgid "Current Value"
@@ -228,7 +226,7 @@ msgstr "Везе"
 
 #: linksAccesskey
 msgid "L"
-msgstr "В"
+msgstr "L"
 
 #: linkAddress
 #: mediaAddress
@@ -238,19 +236,19 @@ msgstr "Адреса"
 
 #: linkTarget
 msgid "Target"
-msgstr "Циљни објекат"
+msgstr "Циљ"
 
 #: linkAccessKey
 msgid "Access Key"
-msgstr "Тастер за брз приступ"
+msgstr "Тастер за брзи приступ"
 
 #: mediaTab
 msgid "Media"
-msgstr "Мултимедија"
+msgstr "Медији"
 
 #: mediaAccesskey
 msgid "M"
-msgstr "М"
+msgstr "M"
 
 #: mediaHeader
 msgid "Images on this page"
@@ -258,15 +256,15 @@ msgstr "Слике на страни"
 
 #: mediaBase
 msgid "Base Address:"
-msgstr "Основна адреса"
+msgstr "Основна адреса:"
 
 #: mediaAlt
 msgid "Alternate Text:"
-msgstr "Заменљиви текст:"
+msgstr "Допунски текст:"
 
 #: mediaAltHeader
 msgid "Alternate Text"
-msgstr "Алтернативни текст"
+msgstr "Допунски текст"
 
 #: mediaCount
 msgid "Count"
@@ -274,11 +272,11 @@ msgstr "Укупно"
 
 #: mediaPlugin
 msgid "Plugin:"
-msgstr "Модул:"
+msgstr "Додатак:"
 
 #: mediaDimensions
 msgid "Specified Dimensions:"
-msgstr "Произвољне димензије:"
+msgstr "Задате димензије:"
 
 #: mediaPhysDimensions
 msgid "Actual Dimensions:"
@@ -298,16 +296,16 @@ msgstr "Сачувај као..."
 
 #: mediaSaveAs.accesskey
 msgid "S"
-msgstr "С"
+msgstr "S"
 
 #: mediaPreview
 msgid "Media Preview:"
-msgstr "Преглед медија садржаја:"
+msgstr "Преглед медија:"
 
 #: framesTab
 msgid "Frames"
-msgstr "Фрејмови"
+msgstr "Оквири"
 
 #: framesTab.accesskey
 msgid "r"
-msgstr "Ф"
+msgstr "r"

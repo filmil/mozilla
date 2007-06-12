@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/metaData.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,19 +24,19 @@ msgstr "Нови прозор"
 
 #: parentFrameText
 msgid "Parent frame"
-msgstr "Изворни фрејм"
+msgstr "Изворни оквир"
 
 #: sameFrameText
 msgid "Same frame"
-msgstr "Исти фрејм"
+msgstr "Исти оквир"
 
 #: embeddedText
 msgid "Embedded"
-msgstr "Embedded"
+msgstr "Уграђено"
 
 #: unableToShowProps
 msgid "No properties available."
-msgstr "Нема доступних сајтова."
+msgstr "Нема доступних својстава."
 
 #: altTextMissing
 msgid "Missing"
@@ -49,7 +48,7 @@ msgstr "Празан"
 
 #: imageSize
 msgid "%S KB (%S bytes)"
-msgstr "%S Кб (%S бајт)"
+msgstr "%S KB (%S B)"
 
 #: imageSizeUnknown
 msgid "Unknown (not cached)"
@@ -58,7 +57,7 @@ msgstr "Непознато (није кеширано)"
 #: imageWidth
 #: imageHeight
 msgid "%Spx"
-msgstr "%S пиксела"
+msgstr "%S тачака"
 
 # LOCALIZATION NOTE: Next two strings are for language name representations
 #                    %1$S = language name, %2$S = region name
