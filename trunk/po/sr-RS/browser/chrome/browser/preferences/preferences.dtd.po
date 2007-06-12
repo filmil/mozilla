@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/preferences.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 01:05+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: prefWindow.titleWin
 msgid "Options"
-msgstr "Поставке"
+msgstr "Опције"
 
 #: prefWindow.titleGNOME
 msgid "&brandShortName; Preferences"
-msgstr "&brandShortName; Поставке"
+msgstr "Поставке за програм &brandShortName;"
 
 #: prefWindow.styleWin
 msgid "width: 42em; height: 40em;"
@@ -37,7 +36,7 @@ msgstr "width: 50em; height: 34.5em;"
 
 #: paneMain.title
 msgid "Main"
-msgstr ""
+msgstr "Главни"
 
 #: paneTabs.title
 msgid "Tabs"
@@ -49,7 +48,7 @@ msgstr "Садржај"
 
 #: paneFeeds.title
 msgid "Feeds"
-msgstr ""
+msgstr "Доводи"
 
 #: panePrivacy.title
 msgid "Privacy"

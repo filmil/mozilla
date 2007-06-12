@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/changeaction.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 01:05+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +27,7 @@ msgstr "36em"
 
 #: whenDownloading.label
 msgid "When downloading files like this:"
-msgstr "Када преузимам датотеке сличне овој:"
+msgstr "Када примам датотеке сличне овој:"
 
 #: openDefault.label
 #: openDefault.accesskey
@@ -43,12 +42,12 @@ msgstr "О&твори помоћу овог програма:"
 #: changeApp.label
 #: changeApp.accesskey
 msgid "&Browse..."
-msgstr "&Изабери:"
+msgstr "&Избор..."
 
 #: saveToDisk.label
 #: saveToDisk.accesskey
 msgid "&Save them on my computer"
-msgstr "&Сачувај на Ваш рачунар"
+msgstr "&Сачувај на рачунар"
 
 #: saveToDefaultFolder.label
 #: saveToDefaultFolder.accesskey
@@ -58,17 +57,17 @@ msgstr "у &подразумевани директоријум"
 #: saveToThisFolder.label
 #: saveToThisFolder.accesskey
 msgid "in t&his folder:"
-msgstr "у &директоријум:"
+msgstr "у овај &директоријум:"
 
 #: chooseFolder.label
 #: chooseFolder.accesskey
 msgid "Bro&wse..."
-msgstr "И&забери:"
+msgstr "И&збор..."
 
 #: saveToAskMe.label
 #: saveToAskMe.accesskey
 msgid "&ask me where to save the file"
-msgstr "&питај ме где да сачувам датотеку"
+msgstr "&питај где да сачувам датотеку"
 
 #: usePlugin.label
 #: usePlugin.accesskey

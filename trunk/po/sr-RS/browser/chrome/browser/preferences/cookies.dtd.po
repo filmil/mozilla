@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/cookies.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:53+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +31,7 @@ msgstr "Име колачића"
 
 #: cookiedomain.label
 msgid "Site"
-msgstr "Веб страна"
+msgstr "Место"
 
 #: button.removecookie.label
 #: button.removecookie.accesskey
@@ -54,7 +53,7 @@ msgstr "Садржај:"
 
 #: props.domain.label
 msgid "Host:"
-msgstr "Хост:"
+msgstr "Рачунар:"
 
 #: props.path.label
 msgid "Path:"
@@ -62,7 +61,7 @@ msgstr "Путања:"
 
 #: props.secure.label
 msgid "Send For:"
-msgstr "Послат од:"
+msgstr "Шаље:"
 
 #: props.expires.label
 msgid "Expires:"
@@ -87,12 +86,12 @@ msgstr "k"
 #: filter.label
 #: filter.accesskey
 msgid "&Search:"
-msgstr "&Пронађи:"
+msgstr "&Нађи:"
 
 #: clear.label
 #: clear.accesskey
 msgid "C&lear"
-msgstr "И&збриши"
+msgstr "У&клони"
 
 #: button.close.label
 #: button.close.accesskey

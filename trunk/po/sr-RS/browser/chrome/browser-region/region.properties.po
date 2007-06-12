@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser-region/region.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:36+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,29 +28,29 @@ msgstr "Yahoohttp://www.mozilla.org/products/firefox/releases/whatsnew/http://ww
 # These are the default web service based feed readers
 #: browser.contentHandlers.types.0.title
 msgid "Bloglines"
-msgstr ""
+msgstr "Блог линије (Bloglines)"
 
 #: browser.contentHandlers.types.0.uri
 msgid "http://www.bloglines.com/login?r=/sub/%s"
-msgstr ""
+msgstr "http://www.bloglines.com/login?r=/sub/%s"
 
 #: browser.contentHandlers.types.1.title
 msgid "My Yahoo"
-msgstr ""
+msgstr "Мој Јаху (My Yahoo)"
 
 #: browser.contentHandlers.types.1.uri
 msgid "http://add.my.yahoo.com/rss?url=%s"
-msgstr ""
+msgstr "http://add.my.yahoo.com/rss?url=%s"
 
 #: browser.contentHandlers.types.2.title
 msgid "Google Reader"
-msgstr ""
+msgstr "Гуглов читач (Google Reader)"
 
 #: browser.contentHandlers.types.2.uri
 msgid "http://fusion.google.com/add?feedurl=%s"
-msgstr ""
+msgstr "http://fusion.google.com/add?feedurl=%s"
 
 # Keyword URL (for location bar searches)
 #: keyword.URL
 msgid "http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&q="
-msgstr ""
+msgstr "http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&q="

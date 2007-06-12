@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/phishEULA.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:42+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: phishDlg.title
 msgid "Phishing Protection Terms of Service"
-msgstr ""
+msgstr "Услови услуге за заштиту од фишинга (phishing)"
 
 # LOCALIZATION NOTE:
 # The following entities contain sizing information for the phishing privacy
@@ -43,15 +42,15 @@ msgstr ""
 
 #: acceptToS.label
 msgid "I accept these Phishing Protection terms of service"
-msgstr ""
+msgstr "Прихватам ове услове за заштиту од фишинга"
 
 #: declineToS.label
 msgid "I do NOT accept these Phishing Protection terms of service"
-msgstr ""
+msgstr "НЕ прихватам ове услове за заштиту од фишинга"
 
 #: accept.label
 msgid "Accept and Continue"
-msgstr ""
+msgstr "Прихвати и настави"
 
 #: cancel.label
 msgid "Cancel"

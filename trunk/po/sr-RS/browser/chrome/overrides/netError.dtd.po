@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/overrides/netError.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "Неуспешно учитавање странице"
 
 #: retry.label
 msgid "Try Again"
-msgstr "Покушај поново"
+msgstr "Пробајте опет"
 
 # Specific error messages
 #: connectionFailure.title
@@ -37,7 +36,7 @@ msgstr "&sharedLongDesc;"
 
 #: deniedPortAccess.title
 msgid "This address is restricted"
-msgstr "Адреса је заштићена"
+msgstr "Приступ овој адреси је ограничен"
 
 #: deniedPortAccess.longDesc
 msgid ""
@@ -74,7 +73,7 @@ msgstr "<ul> <li>Проверите коришћење великих/малих
 
 #: generic.title
 msgid "Oops."
-msgstr "Упсс!?"
+msgstr "Упс!"
 
 #: generic.longDesc
 msgid "<p>&brandShortName; can't load this page for some reason.</p>"
@@ -82,7 +81,7 @@ msgstr "<p>&brandShortName; из неког разлога не може да у
 
 #: malformedURI.title
 msgid "The address isn't valid"
-msgstr "Адреса није исправна"
+msgstr "Адреса је неважећа"
 
 #: malformedURI.longDesc
 msgid "<ul> "
@@ -127,7 +126,7 @@ msgstr "<ul> <li>Можда ћете морати да поставите дру
 
 #: proxyConnectFailure.title
 msgid "The proxy server is refusing connections"
-msgstr "Прокси сервер одбија везу са сервером"
+msgstr "Посреднички сервер (proxy) одбија везу са сервером"
 
 #: proxyConnectFailure.longDesc
 msgid "<ul> "
@@ -139,7 +138,7 @@ msgstr "<ul> <li>Проверите исправност подешавања п
 
 #: proxyResolveFailure.title
 msgid "Unable to find the proxy server"
-msgstr "Не могу да пронађем прокси сервер"
+msgstr "Не могу да пронађем посреднички сервер (proxy)"
 
 #: proxyResolveFailure.longDesc
 msgid "<ul> "
@@ -148,7 +147,7 @@ msgid "<ul> "
 "<li>If your computer or network is protected by a firewall or proxy, make sure "
 "that &brandShortName; is permitted to access the Web.</li> "
 "</ul>"
-msgstr "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Проверите да ли Ваш рачунар поседује исправну мрежу.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> </ul>"
+msgstr "<ul> <li>Проверите исправност подешавања посредничког сервера.</li> <li>Проверите да ли веза са мрежом ради.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или заступником, проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>"
 
 #: redirectLoop.title
 msgid "The page isn't redirecting properly"
@@ -159,7 +158,7 @@ msgid "<ul> "
 "<li>This problem can sometimes be caused by disabling or refusing to accept "
 "cookies.</li> "
 "</ul>"
-msgstr "<ul> <li>Овај проблем понекад може бити проузрокован не прихватањем колачића.</li> </ul>"
+msgstr "<ul> <li>Овај проблем понекад настаје ако искључите или одбијете прихватање колачића.</li> </ul>"
 
 #: unknownSocketType.title
 msgid "Unexpected response from server"
@@ -171,7 +170,7 @@ msgid "<ul> "
 "installed.</li> "
 "<li>This might be due to a non-standard configuration on the server.</li> "
 "</ul>"
-msgstr "<ul> <li>Проверите да ли Ваш рачунар има постављен Лични безбедносни менаџер.</li> <li>Ово може бити проузроковано не стандардном подешавању сервера.</li> </ul>"
+msgstr "<ul> <li>Проверите да ли на вашем рачунару ради лични управник за безбедност.</li> <li>Узрок може да буде нестандардно подешавање сервера.</li> </ul>"
 
 #: sharedLongDesc
 msgid "<ul> "
@@ -182,4 +181,4 @@ msgid "<ul> "
 "<li>If your computer or network is protected by a firewall or proxy, make sure "
 "that &brandShortName; is permitted to access the Web.</li> "
 "</ul>"
-msgstr "<ul> <li>Сајт је привремено недоступан или заузет. Покушајте поново за пар минута.</li> <li>Ако нисте у стању да учитате ни једну страну, проверите подешавања мреже у вашем систему.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> </ul>"
+msgstr "<ul> <li>Сајт је привремено недоступан или заузет. Покушајте поново за пар минута.</li> <li>Ако нисте у стању да учитате ни једну страну, проверите подешавања мреже у вашем систему.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или посредником (proxy), проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>"

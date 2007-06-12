@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/languages.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 01:02+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,21 +28,21 @@ msgstr "Језици"
 
 #: languages.customize.prefLangDescript
 msgid "Web pages are sometimes offered in more than one language. Choose languages for displaying these web pages, in order of preference."
-msgstr "Неке веб странице су доступне у више језика. Изаберите редослед избора језика веб страница."
+msgstr "Неке веб странице су доступне у више језика.  Изаберите редослед језика за приказивање веб страница, у жељеном редоследу."
 
 #: languages.customize.active.label
 msgid "Languages in order of preference:"
-msgstr "Језици по важности:"
+msgstr "Жељени редослед језика:"
 
 #: languages.customize.moveUp.label
 #: languages.customize.moveUp.accesskey
 msgid "Move &Up"
-msgstr "На &горе"
+msgstr "&Горе"
 
 #: languages.customize.moveDown.label
 #: languages.customize.moveDown.accesskey
 msgid "Move &Down"
-msgstr "На &доле"
+msgstr "&Доле"
 
 #: languages.customize.deleteButton.label
 #: languages.customize.deleteButton.accesskey
@@ -52,7 +51,7 @@ msgstr "&Уклони"
 
 #: languages.customize.selectLanguage.label
 msgid "Select a language to add..."
-msgstr "Изаберите језик, који желите додати..."
+msgstr "Изаберите језик који желите да додате..."
 
 #: languages.customize.addButton.label
 #: languages.customize.addButton.accesskey

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/main.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 01:11+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,92 +16,92 @@ msgstr ""
 
 #: startup.label
 msgid "Startup"
-msgstr ""
+msgstr "Покретање"
 
 #: startupPage.label
 #: startupPage.accesskey
 msgid "When &brandShortName; &starts:"
-msgstr ""
+msgstr "Када се програм &brandShortName; &покрене:"
 
 #: startupHomePage.label
 msgid "Show my home page"
-msgstr ""
+msgstr "Прикажи моју страну"
 
 #: startupBlankPage.label
 msgid "Show a blank page"
-msgstr ""
+msgstr "Прикажи празну страну"
 
 #: startupLastSession.label
 msgid "Show my windows and tabs from last time"
-msgstr ""
+msgstr "Прикажи прозоре од прошлог пута"
 
 #: location.label
 #: location.accesskey
 msgid "&Home Page:"
-msgstr ""
+msgstr "&Моја страна:"
 
 #: useCurrentPage.label
 #: useCurrentPage.accesskey
 msgid "Use &Current Page"
-msgstr ""
+msgstr "Користи &тренутну страну"
 
 #: useMultiple.label
 msgid "Use Current Pages"
-msgstr ""
+msgstr "Користи тренутне стране"
 
 #: useBookmark.label
 #: useBookmark.accesskey
 msgid "Use &Bookmark"
-msgstr ""
+msgstr "Користи &белешку"
 
 #: restoreDefault.label
 #: restoreDefault.accesskey
 msgid "&Restore to Default"
-msgstr ""
+msgstr "Врати &изворну"
 
 #: downloads.label
 msgid "Downloads"
-msgstr "Преузимања"
+msgstr "Пријеми"
 
 #: showWhenDownloading.label
 #: showWhenDownloading.accesskey
 msgid "Show the &Downloads window when downloading a file"
-msgstr ""
+msgstr "Прикажи прозор са при&јемима док трају"
 
 #: closeWhenDone.label
 #: closeWhenDone.accesskey
 msgid "Close it &when all downloads are finished"
-msgstr ""
+msgstr "&Затвори када се сви пријеми заврше"
 
 #: saveTo.label
 #: saveTo.accesskey
 msgid "Sa&ve files to"
-msgstr ""
+msgstr "&Сачувај датотеке у"
 
 #: chooseFolderWin.label
 #: chooseFolderWin.accesskey
 msgid "Br&owse..."
-msgstr ""
+msgstr "&Преглед..."
 
 #: chooseFolderMac.label
 #: chooseFolderMac.accesskey
 msgid "Choos&e..."
-msgstr ""
+msgstr "&Избор..."
 
 #: alwaysAsk.label
 #: alwaysAsk.accesskey
 msgid "&Always ask me where to save files"
-msgstr ""
+msgstr "&Увек питај где да чувам датотеке"
 
 #: systemDefaults.label
 msgid "System Defaults"
-msgstr ""
+msgstr "Системско подешавање"
 
 # XXX
 #: alwaysCheckDefault.label
 #: alwaysCheckDefault.accesskey
 msgid "Alwa&ys check to see if &brandShortName; is the default browser on startup"
-msgstr ""
+msgstr "Увек при покретању про&вери да ли је &brandShortName; подразумевани читач"
 
 # There's some sort of bug which makes wrapping checkboxes not properly reflow,
 # causing the bottom border of the groupbox to be cut off; set this
@@ -110,7 +109,6 @@ msgstr ""
 # 
 #
 #: alwaysCheckDefault.height
-#, fuzzy
 msgid ""
 "_: \n"
 ""
@@ -119,4 +117,4 @@ msgstr ""
 #: checkNow.label
 #: checkNow.accesskey
 msgid "Check &Now"
-msgstr "Провери &сада"
+msgstr "Провери &одмах"

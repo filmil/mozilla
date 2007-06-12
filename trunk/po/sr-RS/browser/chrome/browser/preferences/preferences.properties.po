@@ -1,12 +1,11 @@
 #### Main
 # extracted from source/sr-RS/browser/chrome/browser/preferences/preferences.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 01:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +17,7 @@ msgstr ""
 
 #: blankpage
 msgid "(blank page)"
-msgstr ""
+msgstr "(празна страна)"
 
 # LOCALIZATION NOTE: bookmarkjoiner is used to separate bookmark names when
 #                    multiple bookmarks have been chosen as a home page and
@@ -30,11 +29,11 @@ msgstr ","
 
 #: choosehomepage
 msgid "Choose Home Page"
-msgstr "Изабери насловну страну"
+msgstr "Избор насловне стране"
 
 #: choosebookmark
 msgid "%brand% can set your home page to a site you have already added to your Bookmarks. Select a Bookmark below and click OK."
-msgstr "%brand% може поставити вашу почетну страну из листе омиљених веза. Изаберите везу из листе и кликните на \"У реду\"."
+msgstr "%brand% може да постави вашу почетну страну из листе омиљених веза. Изаберите везу из листе и притисните „У реду‟."
 
 #: choosefile
 msgid "Choose a file"
@@ -44,7 +43,7 @@ msgstr "Изаберите датотеку"
 # ### Content
 #: addReader
 msgid "Add New Reader..."
-msgstr ""
+msgstr "Додај нови читач..."
 
 #### Security
 # LOCALIZATION NOTE: phishBefore uses %S to represent the name of the provider
@@ -53,7 +52,7 @@ msgstr ""
 # ### Security
 #: phishBeforeText
 msgid "Selecting this option will send the address of web pages you are viewing to %S. To continue, please review and accept the following terms of service."
-msgstr ""
+msgstr "Избор ове могућности ће слати стране које прегледате за %S. Да бисте наставили, молимо да прегледате и прихватите услове употребе."
 
 #: setMasterPassword
 msgid "Set Master Password..."
@@ -86,11 +85,11 @@ msgstr "Изузетци - Колачићи"
 
 #: addonspermissionstext
 msgid "You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow."
-msgstr ""
+msgstr "Можете да одредите којим ел. местима је дозвољено да постављају додатке. Укуцајте тачну адресу ел. места коме желите да дозволите постављање и притисните „Дозволи‟"
 
 #: addons_permissions_title
 msgid "Allowed Sites - Add-ons Installation"
-msgstr ""
+msgstr "Дозвољене стране - Инсталација додатака"
 
 #: popuppermissionstext
 msgid "You can specify which web sites are allowed to open popup windows. Type the exact address of the site you want to allow and then click Allow."
@@ -98,7 +97,7 @@ msgstr "Можете дозволити одређеним веб странам
 
 #: popuppermissionstitle
 msgid "Allowed Sites - Popups"
-msgstr "Дозволе веб страна - Искачући прозори"
+msgstr "Дозвољене стране - Искачући прозори"
 
 #: imagepermissionstext
 msgid "You can specify which web sites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow."
@@ -106,7 +105,7 @@ msgstr "Можете одредити која веб страна може пр
 
 #: imagepermissionstitle
 msgid "Exceptions - Images"
-msgstr "Изузетци - Слике"
+msgstr "Изузеци - Слике"
 
 #: invalidURI
 msgid "Please enter a valid hostname"
@@ -114,7 +113,7 @@ msgstr "Молим, унесите исправно име хоста"
 
 #: invalidURITitle
 msgid "Invalid Hostname Entered"
-msgstr "Унето је неисправно име хоста"
+msgstr "Унето је неисправно име рачунара"
 
 #### Master Password
 # ### Master Password

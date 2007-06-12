@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/content.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:57+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,21 +18,18 @@ msgstr ""
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
 #: blockPopups.label
 #: blockPopups.accesskey
-#, fuzzy
 msgid "&Block pop-up windows"
-msgstr "B"
+msgstr "&Блокирај искачуће прозоре"
 
 #: popupExceptions.label
 #: popupExceptions.accesskey
-#, fuzzy
 msgid "&Exceptions..."
-msgstr "E"
+msgstr "&Изузеци"
 
 #: loadImages.label
 #: loadImages.accesskey
-#, fuzzy
 msgid "Load &images automatically"
-msgstr "I"
+msgstr "&Аутоматски учитај слике"
 
 #: exceptions.label
 #: exceptions.accesskey
@@ -52,24 +48,22 @@ msgstr "&Напредно..."
 
 #: enableJava.label
 #: enableJava.accesskey
-#, fuzzy
 msgid "E&nable Java"
-msgstr "н"
+msgstr "Укључи &Јаву"
 
 #: fontsAndColors.label
 msgid "Fonts &amp; Colors"
-msgstr ""
+msgstr "Писма и боје"
 
 #: defaultFont.label
 #: defaultFont.accesskey
 msgid "&Default font:"
-msgstr "Текући &фонт:"
+msgstr "Изворни &фонт:"
 
 #: defaultSize.label
 #: defaultSize.accesskey
-#, fuzzy
 msgid "S&ize:"
-msgstr "i"
+msgstr "&Величина:"
 
 #: advancedFonts.label
 #: advancedFonts.accesskey
@@ -83,35 +77,31 @@ msgstr "&Боје..."
 
 #: feeds.label
 msgid "Feeds"
-msgstr ""
+msgstr "Доводи"
 
 #: feedReader.label
 #: feedReader.accesskey
-#, fuzzy
 msgid "&Feed Reader:"
-msgstr "F"
+msgstr "&Читач довода:"
 
 #: feedClick.label
 msgid "When I click on a web feed:"
-msgstr ""
+msgstr "Када изаберем мрежни довод:"
 
 #: ask.label
 #: ask.accesskey
-#, fuzzy
 msgid "&Ask me what to use"
-msgstr "П"
+msgstr "&Питај шта желим да користим"
 
 #: subLiveBookmark.label
 #: subLiveBookmark.accesskey
-#, fuzzy
 msgid "Always subscribe with a &Live Bookmark"
-msgstr "L"
+msgstr "Увек се претплати путем &живе везе"
 
 #: subReader.label
 #: subReader.accesskey
-#, fuzzy
 msgid "Always subscribe using the Feed &Reader"
-msgstr "З"
+msgstr "Увек се претплати путем &читача довода"
 
 #: fileTypes.label
 msgid "File Types"
@@ -119,10 +109,9 @@ msgstr "Врсте датотека"
 
 #: configureFileTypes.label
 msgid "Configure how &brandShortName; handles certain types of files"
-msgstr ""
+msgstr "Подеси како програм &brandShortName; обрађује неке врсте датотека"
 
 #: manage.label
 #: manage.accesskey
-#, fuzzy
 msgid "&Manage..."
-msgstr "П"
+msgstr "&Уреди..."

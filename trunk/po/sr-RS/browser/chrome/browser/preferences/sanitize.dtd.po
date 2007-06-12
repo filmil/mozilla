@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/sanitize.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:47+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,22 +16,22 @@ msgstr ""
 
 #: sanitizeDialog.title
 msgid "Clear Private Data"
-msgstr "Избриши привате податке"
+msgstr "Уклони привате податке"
 
 #: clearDataSettings.label
 msgid "When I ask &brandShortName; to clear my private data, it should erase:"
-msgstr ""
+msgstr "Када захтевам од програма &brandShortName; да уклони приватне податке, уклања се:"
 
 # XXX rearrange entities to match physical layout when l10n isn't an issue
 #: itemHistory.label
 #: itemHistory.accesskey
 msgid "&Browsing History"
-msgstr "&Историјат сурфовања:"
+msgstr "&Историјат сурфовања"
 
 #: itemFormData.label
 #: itemFormData.accesskey
 msgid "Saved &Form Information"
-msgstr "Сачуван садржај &формулара"
+msgstr "Сачувани подаци са &формулара"
 
 #: itemPasswords.label
 #: itemPasswords.accesskey
@@ -52,9 +51,9 @@ msgstr "&Кеш"
 #: itemDownloads.label
 #: itemDownloads.accesskey
 msgid "&Download History"
-msgstr "Историјат &преузимања"
+msgstr "Историјат &пријема"
 
 #: itemSessions.label
 #: itemSessions.accesskey
 msgid "Authenticated &Sessions"
-msgstr "Реги&строване сесије"
+msgstr "Аутентификоване &сесије"

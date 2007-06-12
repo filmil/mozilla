@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/privacy.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 01:01+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: history.label
 msgid "History"
-msgstr ""
+msgstr "Историјат"
 
 # LOCALIZATION NOTE:
 # The entities rememberBefore.label and rememberAfter.label appear on a single
@@ -28,9 +27,8 @@ msgstr ""
 #
 #: rememberBefore.label
 #: rememberBefore.accesskey
-#, fuzzy
 msgid "Remember &visited pages for the last"
-msgstr "м"
+msgstr "Запамти посећене стране оволико &последњих дана:"
 
 #: rememberAfter.label
 msgid "days."
@@ -38,84 +36,74 @@ msgstr ""
 
 #: rememberForms.label
 #: rememberForms.accesskey
-#, fuzzy
 msgid "Remember what I enter in &forms and the search bar"
-msgstr "f"
+msgstr "Памти шта је унесено у &формуларе и траке за претрагу"
 
 #: rememberDownloads.label
 #: rememberDownloads.accesskey
-#, fuzzy
 msgid "Remember what I've &downloaded"
-msgstr "d"
+msgstr "Памти шта је &примљено"
 
 #: cookies.label
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: acceptCookies.label
 #: acceptCookies.accesskey
-#, fuzzy
 msgid "A&ccept cookies from sites"
-msgstr "З"
+msgstr "&Прихватај колачиће са ел. места"
 
 #: keepUntil.label
 #: keepUntil.accesskey
-#, fuzzy
 msgid "&Keep until:"
-msgstr "П"
+msgstr "&Чувај док:"
 
 #: expire.label
 msgid "they expire"
-msgstr ""
+msgstr "не истекну"
 
 #: close.label
 msgid "I close &brandShortName;"
-msgstr ""
+msgstr "не затворим &brandShortName;"
 
 #: askEachTime.label
 msgid "ask me every time"
-msgstr ""
+msgstr "увек ме питај"
 
 #: cookieExceptions.label
 #: cookieExceptions.accesskey
-#, fuzzy
 msgid "&Exceptions..."
-msgstr "з"
+msgstr "&Изузеци..."
 
 #: showCookies.label
 #: showCookies.accesskey
-#, fuzzy
 msgid "&Show Cookies..."
-msgstr "з"
+msgstr "Прика&жи колачиће..."
 
 #: privateData.label
 msgid "Private Data"
-msgstr ""
+msgstr "Приватни подаци"
 
 #: alwaysClear.label
 #: alwaysClear.accesskey
-#, fuzzy
 msgid "Al&ways clear my private data when I close &brandShortName;"
-msgstr "с"
+msgstr "&Увек уклањај моје приватне податке када затворим &brandShortName;"
 
 #: askBeforeClear.label
 #: askBeforeClear.accesskey
-#, fuzzy
 msgid "&Ask me before clearing private data"
-msgstr "П"
+msgstr "&Питај пре уклањања приватних података"
 
 #: clearDataSettings.label
 #: clearDataSettings.accesskey
-#, fuzzy
 msgid "Se&ttings..."
-msgstr "к"
+msgstr "&Поставке..."
 
 #: clearDataNow.label
 #: clearDataNow.accesskey
-#, fuzzy
 msgid "Clear &Now..."
-msgstr "Н"
+msgstr "Очисти &сад..."
 
 #: clearDataNow.label2
 msgid "Clear Now"
-msgstr ""
+msgstr "Очисти сад"

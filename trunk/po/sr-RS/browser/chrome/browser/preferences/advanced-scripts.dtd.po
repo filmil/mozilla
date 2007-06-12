@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/advanced-scripts.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:45+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -64,12 +63,12 @@ msgstr "37em"
 
 #: allowScripts.label
 msgid "Allow scripts to:"
-msgstr "Дозволи акције:"
+msgstr "Дозволе за скриптове:"
 
 #: moveResizeWindows.label
 #: moveResizeWindows.accesskey
 msgid "&Move or resize existing windows"
-msgstr "Преме&штање/мењање прозора"
+msgstr "Преме&штање/измена прозора"
 
 #: raiseLowerWindows.label
 #: raiseLowerWindows.accesskey
@@ -79,7 +78,7 @@ msgstr "П&ромена редоследа прозора"
 #: disableContextMenus.label
 #: disableContextMenus.accesskey
 msgid "&Disable or replace context menus"
-msgstr "Укидање или за&мена пом. менија"
+msgstr "Укидање или за&мена контекстних менија"
 
 #: hideStatusBar.label
 #: hideStatusBar.accesskey

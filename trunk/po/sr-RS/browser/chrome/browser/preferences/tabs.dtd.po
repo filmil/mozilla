@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/tabs.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:50+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,40 +16,34 @@ msgstr ""
 
 #: newPagesIn.label
 msgid "New pages should be opened in:"
-msgstr ""
+msgstr "Нове странице се отварају у"
 
 #: inNewWindow.label
 #: inNewWindow.accesskey
-#, fuzzy
 msgid "a ne&w window"
-msgstr "с"
+msgstr "&новом прозору"
 
 #: inNewTab.label
 #: inNewTab.accesskey
-#, fuzzy
 msgid "a new &tab"
-msgstr "к"
+msgstr "новом &језичку"
 
 #: warnCloseMultipleTabs.label
 #: warnCloseMultipleTabs.accesskey
-#, fuzzy
 msgid "Warn &me when closing multiple tabs"
-msgstr "m"
+msgstr "&Упозори ме при затварању више језичака"
 
 #: warnOpenManyTabs.label
 #: warnOpenManyTabs.accesskey
-#, fuzzy
 msgid "Warn me when &opening multiple tabs might slow down &brandShortName;"
-msgstr ""
+msgstr "Упозори ме када отварање више језичака може да успори програм &brandShortName;"
 
 #: showTabBar.label
 #: showTabBar.accesskey
-#, fuzzy
 msgid "Always show the ta&b bar"
-msgstr "п"
+msgstr "Увек прика&зуј траку са језичцима"
 
 #: switchToNewTabs.label
 #: switchToNewTabs.accesskey
-#, fuzzy
 msgid "When I open a link in a new tab, &switch to it immediately"
-msgstr "т"
+msgstr "Када отворим везу у новом језичку одмах се пребаци на &њега"

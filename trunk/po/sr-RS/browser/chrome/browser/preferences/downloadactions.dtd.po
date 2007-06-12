@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/downloadactions.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-13 00:52+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: downloadactionsWindow.title
 msgid "Download Actions"
-msgstr "Акције преужимања"
+msgstr "Акције при пријему"
 
 #: window.width
 msgid ""
@@ -35,22 +34,22 @@ msgstr "310"
 
 #: fileTypesDescription.label
 msgid "Automatically perform the associated Action with each of the following file types:"
-msgstr "Самостално присвоји акцију за сваки од следећих типова датотека:"
+msgstr "Самостално изврши за сваки од следећих типова датотека:"
 
 #: fileHandlerColumn.label
 #: fileHandlerColumn.accesskey
 msgid "&Action"
-msgstr "Акција"
+msgstr "&Акција"
 
 #: fileTypeColumn.label
 #: fileTypeColumn.accesskey
 msgid "File &Type"
-msgstr "File Type"
+msgstr "&Врста"
 
 #: fileMIMETypeColumn.label
 #: fileMIMETypeColumn.accesskey
 msgid "&MIME Type"
-msgstr "&MIME тип"
+msgstr "MIME вр&ста"
 
 #: fileExtensionColumn.label
 #: fileExtensionColumn.accesskey
@@ -82,7 +81,7 @@ msgstr "k"
 #: filter.label
 #: filter.accesskey
 msgid "&Search:"
-msgstr "&Пронађи:"
+msgstr "&Нађи:"
 
 #: clear.label
 #: clear.accesskey

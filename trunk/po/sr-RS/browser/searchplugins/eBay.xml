@@ -1,6 +1,6 @@
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
-<ShortName>eBay</ShortName>
-<Description>eBay - Online actions</Description>
+<ShortName>иБеј (eBay)</ShortName>
+<Description>иБеј - Мрежне аукције (eBay)</Description>
 <InputEncoding>ISO-8859-1</InputEncoding>
 <Image width="16" height="16">data:image/x-icon;base64,R0lGODlhEAAQAMQAAAAAAMz/zMwAADMAzOfn1sxmAP///5kAZpnM////AACZM/777zPMAP+ZAP8AAP9mmf/MzMwAZjNmAADMM/+ZM/9mM//MMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAQUAP8ALAAAAAAQABAAAAVPoCGOZGmeaKqiQDkMYqAoBqMELpxUlVTfBohjeHjBLJLZZCF0GASOAWJQSFAUE1FTwIUNKoYKTQslGCLSb6MBFD2G3Zdo0k4tVvi8fl8KAQA7</Image>
 <Url type="text/html" method="GET" template="http://search.ebay.com/search/search.dll">
