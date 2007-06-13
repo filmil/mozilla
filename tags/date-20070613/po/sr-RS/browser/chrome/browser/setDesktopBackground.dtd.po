@@ -1,0 +1,51 @@
+# extracted from source/sr-RS/browser/chrome/browser/setDesktopBackground.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-11 01:29+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: position.label
+msgid "Position:"
+msgstr "Место:"
+
+#: tile.label
+msgid "Tile"
+msgstr "Поплочано"
+
+#: center.label
+msgid "Center"
+msgstr "Центрирано"
+
+#: stretch.label
+msgid "Stretch"
+msgstr "Развучено"
+
+#: preview.label
+msgid "Preview"
+msgstr "Преглед"
+
+#: color.label
+msgid "Color:"
+msgstr "Боја:"
+
+#: setDesktopBackground.title
+msgid "Set Desktop Background"
+msgstr "Постави позадину радне површине"
+
+#: openDesktopPrefs.label
+msgid "Open Desktop Preferences"
+msgstr "Подешавање радне површине"
+
+#: closeWindow.key
+msgid "w"
+msgstr "w"

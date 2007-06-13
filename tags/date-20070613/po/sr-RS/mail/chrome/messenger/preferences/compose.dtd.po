@@ -1,0 +1,172 @@
+# extracted from source/sr-RS/mail/chrome/messenger/preferences/compose.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-10 17:03+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: itemGeneral.label
+msgid "General"
+msgstr "Опште"
+
+#: itemAutoComplete.label
+msgid "Addressing"
+msgstr "Адресирање"
+
+#: itemSpellCheck.label
+msgid "Spelling"
+msgstr "Правопис"
+
+#: itemSendFormat.label
+msgid "Send Format"
+msgstr "Формат за слање"
+
+#: forwardReply.label
+msgid "Forwarding Messages"
+msgstr "Прослеђивање порука"
+
+#: forwardMsg.label
+#: forwardMsg.accesskey
+msgid "&Forward messages:"
+msgstr "&Прослеђивање порука:"
+
+#: inline.label
+#: inline.accesskey
+msgid "&Inline"
+msgstr "&У тексту"
+
+#: asAttachment.label
+#: asAttachment.accesskey
+msgid "&As Attachment"
+msgstr "Као &прилог"
+
+#: sendingMessagesHeader.label
+msgid "Composing Messages"
+msgstr "Састављање порука"
+
+#: spellCheck.label
+#: spellCheck.accesskey
+msgid "&Check spelling before sending"
+msgstr "&Провери правопис пре слања"
+
+#: spellCheckInline.label
+#: spellCheckInline.accesskey
+msgid "E&nable spell check as you type"
+msgstr "Укључи &проверу правописа при уносу"
+
+#: languagePopup.label
+#: languagePopup.accessKey
+msgid "Lan&guage:"
+msgstr "&Језик:"
+
+#: downloadDictionaries.label
+msgid "Download More Dictionaries"
+msgstr "Преузми још речника"
+
+#: useMIME.label
+#: useMIME.accesskey
+msgid "F&or messages that contain 8-bit characters, use 'quoted printable' MIME encoding"
+msgstr "&За поруке које садрже 8-битне знаке, корсити МИМЕ кодирање „quoted printable‟"
+
+#: warnOnSendAccelKey.label
+#: warnOnSendAccelKey.accesskey
+msgid "Conf&irm when using keyboard shortcut to send message"
+msgstr "&Тражи потврду када се порука шаље скраћеницом са тастатуре"
+
+#: autoSave.label
+#: autoSave.accesskey
+msgid "A&uto Save every"
+msgstr "&Аутоматски чувај на"
+
+#: autoSaveEnd.label
+#: autoSaveEnd.accesskey
+msgid "&minutes"
+msgstr "&минута"
+
+#: wrapOutMsg.label
+#: wrapOutMsg.accesskey
+msgid ""
+"_: This will concatenate with \"xxx characters\", using a number and (char."
+"label).\n"
+"Wrap p&lain text messages at"
+msgstr "Поруке у обичном тексту &преломи у"
+
+#: char.label
+msgid "characters"
+msgstr "колони"
+
+#: emailCollectionPicker.label
+#: emailCollectionPicker.accesskey
+msgid "Au&tomatically add outgoing e-mail addresses to my:"
+msgstr "А&утоматски додај одлазне адресе у:"
+
+#: addressingTitle.label
+msgid "Address Autocompletion"
+msgstr "Аутоматска допуна адресе"
+
+#: autocompleteText.label
+msgid "When addressing messages, look for matching entries in:"
+msgstr "При адресирању порука, тражи одговарајуће уносе у:"
+
+#: addressingEnable.label
+#: addressingEnable.accesskey
+msgid "Local &Address Books"
+msgstr "&Локалном адресару"
+
+#: directories.label
+#: directories.accesskey
+msgid "&Directory Server:"
+msgstr "&Именику на серверу:"
+
+#: editDirectories.label
+#: editDirectories.accesskey
+msgid "&Edit Directories..."
+msgstr "&Уреди директоријуме..."
+
+#: matchText.label
+msgid "If there is a match in your local address books:"
+msgstr "Ако постоји погодак у локалном адресару:"
+
+#: skipDirectory.label
+msgid "Do not search in the directory"
+msgstr "Не тражи у именику"
+
+#: sendOptionsCaption.label
+msgid "Send and HTML Options"
+msgstr "Опције за слање и HTML"
+
+#: sendOptionsDescription.label
+msgid "Configure text format behavior"
+msgstr "Подешавање понашања формата текста"
+
+#: sendOptions.label
+#: sendOptions.accesskey
+msgid "&Send Options..."
+msgstr "&Опције слања..."
+
+#: htmlComposeDescription.label
+msgid "Configure default HTML options"
+msgstr "Подразумеване опције за ХТМЛ"
+
+#: htmlCompose.label
+#: htmlCompose.accesskey
+msgid "&HTML Options..."
+msgstr "Оп&ције за HTML..."
+
+#: returnReceiptsInfo.label
+msgid "Determine how &brandShortName; handles return receipts"
+msgstr "Одредите како програм &brandShortName; обрађује повратнице"
+
+#: showReturnReceipts.label
+#: showReturnReceipts.accesskey
+msgid "&Return Receipts..."
+msgstr "&Повратнице..."

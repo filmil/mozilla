@@ -1,0 +1,39 @@
+# extracted from source/sr-RS/mail/chrome/global-platform/win/nsWindowsHooks.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-10 17:24+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: yesButtonLabel
+msgid "Yes"
+msgstr "Да"
+
+#: noButtonLabel
+msgid "No"
+msgstr "Не"
+
+#: cancelButtonLabel
+msgid "Cancel"
+msgstr "Откажи"
+
+#: checkBoxLabel
+msgid "Check at startup next time, too."
+msgstr "Провери и при следећем покретању."
+
+#: promptText
+msgid "%S is not currently set as your default browser. Would you like to make it your default browser?"
+msgstr "%S тренутно није постављен као подразумевани прегледач. Да ли босте желели да га подесите да то буде?"
+
+#: prefsLabel
+msgid "Pr&eferences"
+msgstr "&Поставке"

@@ -1,0 +1,56 @@
+# extracted from source/sr-RS/mail/chrome/messenger/virtualFolderProperties.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-26 00:53+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: virtualFolderProperties.title
+msgid "New Saved Search Folder"
+msgstr "Нови директоријум за чување претрага"
+
+#: name.label
+#: name.accesskey
+msgid "&Name:"
+msgstr "&Име:"
+
+#: description.label
+#: description.accesskey
+msgid "&Create as a subfolder of:"
+msgstr "&Направи као поддиректоријум од:"
+
+#: searchCriteriaText.label
+msgid "Modify the search criteria used for this saved search:"
+msgstr "Измени овај сачувани критеријум за претрагу:"
+
+#: searchCriteriaButton.label
+#: searchCriteriaButton.accesskey
+msgid "&Search Criteria..."
+msgstr "&Критеријуми за претрагу..."
+
+#: searchTermCaption.label
+msgid "Configure the search criteria used for this saved search folder: "
+msgstr "Подеси критеријуме за претрагу који се користе за овај директоријум са претрагама:"
+
+#: folderSelectionCaption.label
+msgid "Select the folders to search: "
+msgstr "Избор директоријума за претрагу: "
+
+#: chooseFoldersButton.label
+#: chooseFoldersButton.accesskey
+msgid "C&hoose..."
+msgstr "&Избор..."
+
+#: searchOnline.label
+#: searchOnline.accesskey
+msgid "Search &Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)"
+msgstr "Претражи на &вези (даје ажурне резултате за IMAP директоријуме и групе, али траје дуже)"
