@@ -606,15 +606,15 @@ po/sr-RS/dom/chrome/appstrings.properties.po:
 po/sr-RS/dom/chrome/xslt/xslt.properties.po: 
 2 преведене поруке.
 po/sr-RS/browser/defines.inc.po: 
-1 преведена порука, 1 непреведена порука.
+2 преведене поруке.
 po/sr-RS/browser/updater/updater.ini.po: 
 29 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/overrides/netError.dtd.po: 
-po/sr-RS/browser/chrome/overrides/appstrings.properties.po:138: не завршава се и „msgid“ и „msgstr“ са „\n“
+po/sr-RS/browser/chrome/overrides/appstrings.properties.po:137: не завршава се и „msgid“ и „msgstr“ са „\n“
 msgfmt: нађох 1 кобну грешку
 22 преведене поруке.
 po/sr-RS/browser/chrome/overrides/appstrings.properties.po: 
-2 преведене поруке, 7 непреведених порука.
+9 преведених порука.
 po/sr-RS/browser/chrome/browser-region/region.properties.po: 
 2 преведене поруке.
 po/sr-RS/browser/chrome/browser/page-drawer.dtd.po: 
@@ -626,50 +626,36 @@ po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po:
 po/sr-RS/browser/chrome/browser/metaData.dtd.po: 
 9 преведених порука.
 po/sr-RS/browser/chrome/browser/sanitize.dtd.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/.#sessionstore.properties.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/.#sessionstore.properties.po: 
 181 преведена порука, 12 нејасних порука.
 po/sr-RS/browser/chrome/browser/browser.dtd.po: 
 6 преведених порука.
 po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po: 
 41 преведена порука.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.dtd.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarks.dtd.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarks.dtd.po: 
 103 преведене поруке.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarksProperties.dtd.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/bookmarks/.#bookmarksProperties.dtd.po: 
-8 преведених порука, 1 непреведена порука.
+9 преведених порука.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarksProperties.dtd.po: 
 17 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/bookmarks/addBookmark.dtd.po: 
 8 преведених порука.
 po/sr-RS/browser/chrome/browser/sidebar/sidebar.properties.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/sidebar/.#sidebar.properties.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/sidebar/.#sidebar.properties.po: 
 9 преведених порука.
 po/sr-RS/browser/chrome/browser/openLocation.dtd.po: 
-0 преведених порука, 4 непреведене поруке.
+4 преведене поруке.
 po/sr-RS/browser/chrome/browser/sessionstore.properties.po: 
 9 преведених порука.
 po/sr-RS/browser/chrome/browser/engineManager.dtd.po: 
 30 преведених порука.
 po/sr-RS/browser/chrome/browser/migration/migration.properties.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/migration/.#migration.properties.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/migration/.#migration.properties.po: 
 28 преведених порука.
 po/sr-RS/browser/chrome/browser/migration/migration.dtd.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/history/.#history.dtd.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/history/.#history.dtd.po: 
 14 преведених порука.
 po/sr-RS/browser/chrome/browser/history/history.dtd.po: 
 42 преведене поруке.
 po/sr-RS/browser/chrome/browser/pageInfo.properties.po: 
 12 преведених порука.
 po/sr-RS/browser/chrome/browser/search.properties.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/.#page-drawer.dtd.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/.#page-drawer.dtd.po: 
 76 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/browser.properties.po: 
 10 преведених порука.
@@ -678,41 +664,39 @@ po/sr-RS/browser/chrome/browser/shellservice.properties.po:
 po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po: 
 1 преведена порука.
 po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po: 
-msgfmt: грешка приликом отварања „po/sr-RS/browser/chrome/browser/feeds/.#subscribe.dtd.po“ за читање: No such file or directory
-po/sr-RS/browser/chrome/browser/feeds/.#subscribe.dtd.po: 
-0 преведених порука, 10 непреведених порука.
+10 преведених порука.
 po/sr-RS/browser/chrome/browser/feeds/subscribe.dtd.po: 
 4 преведене поруке.
 po/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd.po: 
-3 преведене поруке, 7 непреведених порука.
+10 преведених порука.
 po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po: 
-58 преведених порука, 1 нејасна порука.
+59 преведених порука.
 po/sr-RS/browser/chrome/browser/pageInfo.dtd.po: 
-21 преведена порука, 7 непреведених порука.
+25 преведених порука, 3 непреведене поруке.
 po/sr-RS/browser/chrome/browser/credits.dtd.po: 
-9 преведених порука, 2 нејасне поруке.
+11 преведених порука.
 po/sr-RS/browser/chrome/browser/safeMode.dtd.po: 
 9 преведених порука.
 po/sr-RS/browser/chrome/browser/setDesktopBackground.dtd.po: 
-3 преведене поруке, 7 непреведених порука.
+10 преведених порука.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd.po: 
-0 преведених порука, 5 непреведених порука.
+5 преведених порука.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.properties.po: 
-3 преведене поруке, 11 непреведених порука.
+14 преведених порука.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd.po: 
 12 преведених порука.
 po/sr-RS/browser/chrome/browser/metaData.properties.po: 
-1 преведена порука, 1 непреведена порука.
+2 преведене поруке.
 po/sr-RS/browser/chrome/browser/searchbar.dtd.po: 
 4 преведене поруке.
 po/sr-RS/browser/chrome/browser/pageReport.dtd.po: 
-1 преведена порука, 6 непреведених порука.
+5 преведених порука, 2 непреведене поруке.
 po/sr-RS/browser/chrome/browser/preferences/phishEULA.dtd.po: 
 8 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/advanced-scripts.dtd.po: 
-8 преведених порука, 1 непреведена порука.
+9 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/sanitize.dtd.po: 
-0 преведених порука, 5 нејасних порука, 2 непреведене поруке.
+7 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/tabs.dtd.po: 
 16 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/downloadactions.dtd.po: 
@@ -720,25 +704,25 @@ po/sr-RS/browser/chrome/browser/preferences/downloadactions.dtd.po:
 po/sr-RS/browser/chrome/browser/preferences/cookies.dtd.po: 
 13 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/permissions.dtd.po: 
-7 преведених порука, 10 нејасних порука, 4 непреведене поруке.
+21 преведена порука.
 po/sr-RS/browser/chrome/browser/preferences/content.dtd.po: 
-0 преведених порука, 11 нејасних порука, 8 непреведених порука.
+18 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/preferences/privacy.dtd.po: 
 9 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/languages.dtd.po: 
-0 преведених порука, 5 непреведених порука.
+5 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/feeds.dtd.po: 
 12 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/changeaction.dtd.po: 
-10 преведених порука, 2 непреведене поруке.
+12 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/preferences.dtd.po: 
-2 преведене поруке, 19 непреведених порука.
+20 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/preferences/main.dtd.po: 
 49 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/fonts.dtd.po: 
 25 преведених порука, 1 непреведена порука.
 po/sr-RS/browser/chrome/browser/preferences/connection.dtd.po: 
-61 преведена порука, 5 непреведених порука.
+66 преведених порука.
 po/sr-RS/browser/chrome/browser/preferences/preferences.properties.po: 
 22 преведене поруке, 10 нејасних порука, 11 непреведених порука.
 po/sr-RS/browser/chrome/browser/preferences/advanced.dtd.po: 
