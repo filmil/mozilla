@@ -1,13 +1,22 @@
 Датотеке на којима тренутно радим:
 
 
-po/sr-RS/browser/chrome/browser/preferences/advanced.dtd.po
-po/sr-RS/browser/chrome/browser/preferences/security.dtd.po
-po/sr-RS/browser/chrome/browser/preferences/feeds.properties.po
-po/sr-RS/browser/chrome/browser/preferences/securityWarnings.dtd.po
-po/sr-RS/browser/chrome/browser/preferences/fallbackEULA.dtd.po
-po/sr-RS/browser/chrome/browser/preferences/colors.dtd.po
-po/sr-RS/browser/chrome/browser/openLocation.properties.po
-po/sr-RS/browser/chrome/branding
-po/sr-RS/browser/chrome/branding/brand.properties.po
-po/sr-RS/browser/chrome/branding/brand.dtd.po
+po/sr-RS/browser/chrome/help
+po/sr-RS/browser/chrome/help/shortcuts.xhtml.po
+po/sr-RS/browser/chrome/help/glossary.xhtml.po
+po/sr-RS/browser/chrome/help/search-db.rdf
+po/sr-RS/browser/chrome/help/menu_reference.xhtml.po
+po/sr-RS/browser/chrome/help/forieusers.xhtml.po
+po/sr-RS/browser/chrome/help/firefox_welcome.xhtml.po
+po/sr-RS/browser/chrome/help/prefs.xhtml.po
+po/sr-RS/browser/chrome/help/using_firebird.xhtml.po
+po/sr-RS/browser/chrome/help/download_manager.xhtml.po
+po/sr-RS/browser/chrome/help/firebird-toc.rdf
+po/sr-RS/browser/chrome/help/customization.xhtml.po
+po/sr-RS/browser/chrome/help/cookies.xhtml.po
+po/sr-RS/browser/chrome/help/mouse_shortcuts.xhtml.po
+po/sr-RS/browser/chrome/help/platformStrings.dtd.po
+po/sr-RS/browser/chrome/help/tabbed_browsing.xhtml.po
+po/sr-RS/browser/chrome/help/accessibility.xhtml.po
+po/sr-RS/browser/chrome/help/popup.xhtml.po
+po/sr-RS/browser/chrome/help/firebirdhelp.rdf
