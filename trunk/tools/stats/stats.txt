@@ -202,7 +202,7 @@ po/sr-RS/extensions/reporter/chrome/about.dtd.po:
 po/sr-RS/other-licenses/branding/thunderbird/brand.properties.po: 
 3 преведене поруке.
 po/sr-RS/other-licenses/branding/thunderbird/brand.dtd.po: 
-8 преведених порука, 7 непреведених порука.
+7 преведених порука, 1 непреведена порука.
 po/sr-RS/other-licenses/branding/firefox/brand.properties.po: 
 3 преведене поруке.
 po/sr-RS/other-licenses/branding/firefox/brand.dtd.po: 

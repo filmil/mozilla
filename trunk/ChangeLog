@@ -1,3 +1,13 @@
+2007-06-14  Filip Miletic  <filmil@gmail.com>
+
+	* pot/sr-RS/other-licenses/branding/firefox/brand.properties.pot: removed obsolete entries
+
+	* po/sr-RS/other-licenses/branding/firefox/brand.properties.po: Removed obsolete entries
+
+	* source/sr-RS/other-licenses/branding/firefox/brand.properties (homePageImport): Removed obsolete entries.
+
+	* Added Serbian spell check
+
 2007-06-13  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/browser/defines.inc.po: Added Игор Милетић to credits, for the spelling checker

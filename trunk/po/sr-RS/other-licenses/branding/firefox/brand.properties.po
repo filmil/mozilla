@@ -26,13 +26,6 @@ msgstr "Mozilla Firefox"
 msgid "Mozilla"
 msgstr "Mozilla"
 
-# the following section is used in the first-time migration wizard
-# new and scary, however if these strings are not present, we will simply 
-# skip this wizard page
-#: homePageOptionCount
-msgid "1"
-msgstr "1"
-
 #: homePageSingleStartMain
 msgid "Firefox Start, a fast search page with search results by Google"
 msgstr "Покрени Firefox, брза страна са претрагом резултата коју је обезбедио Google"
@@ -42,42 +35,6 @@ msgstr "Покрени Firefox, брза страна са претрагом р
 #: homePageMultipleStartMain
 msgid ""
 "_: homePageMultipleStartMain\n"
-""
-msgstr ""
-
-#: homePageMultipleStart1Label
-msgid ""
-"_: homePageMultipleStart1Label\n"
-""
-msgstr ""
-
-#: homePageMultipleStart1URL
-msgid ""
-"_: homePageMultipleStart1URL\n"
-""
-msgstr ""
-
-#: homePageMultipleStart2Label
-msgid ""
-"_: homePageMultipleStart2Label\n"
-""
-msgstr ""
-
-#: homePageMultipleStart2URL
-msgid ""
-"_: homePageMultipleStart2URL\n"
-""
-msgstr ""
-
-#: homePageMultipleStart3Label
-msgid ""
-"_: homePageMultipleStart3Label\n"
-""
-msgstr ""
-
-#: homePageMultipleStart3URL
-msgid ""
-"_: homePageMultipleStart3URL\n"
 ""
 msgstr ""
 

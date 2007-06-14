@@ -12,14 +12,14 @@
 
 include Makefile.inc
 
-.PHONY: all clean pot cleanpot stats  initpo match populate
+.PHONY: all clean pot cleanpot stats  initpo match populate output
 
 all: stats publish
 
 # Слање измена у Мозилин ЦВС
 publish: clean output
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
-	( $(CD) $(MOZILLA_CVS) ; $(CVS) commit -m "Updated Serbian l10n" )
+	( $(CD) $(MOZILLA_CVS) ; $(CVS) -z3 commit -m "Updated Serbian l10n" )
 
 # Чишћење генерисаних датотека
 clean:
