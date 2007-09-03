@@ -1,0 +1,44 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'Mozilla | Welcome to Firefox';
+    $body_id    = 'firstrun';
+    $body_class = 'portal-page';
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div id="tab-close">
+Click on the close button on this tab to go to your home page
+</div>
+
+<script type="text/javascript"> loadFirstRunInstallImage(); </script>
+
+<div class="portal-box">
+<div class="portal-box-interior">
+
+<div class="portal-box-header">
+    <h1>Welcome to Firefox!</h1>
+    <p>You're about to discover why millions of people worldwide have made the switch to Firefox for a better online experience.</p>
+</div>
+
+<div class="portal-box-contents">
+
+    <p>Experience the difference. Firefox is developed and supported by <a
+    href="/<?=$lang ?>/firefox/about/">Mozilla</a>, a global
+    community working together to make the Web a better place for everyone.</p>
+
+    <p><a href="/<?=$lang ?>/firefox/central/">Learn more about
+    Firefox features</a>, or follow the directions at the top of this page to close this
+    tab and go directly to your home page.</p>
+
+    <!--Note: below is only for locales that *DO NOT* ship with a dictionary  --> 
+    <h3>Add British English Dictionary for Inline Spell Checking</h3> 
+    <p><a href="https://<?=$lang ?>.add-ons.mozilla.com/<?=$lang ?>/firefox/dictionaries/">Install dictionary now</a></p>
+
+
+</div> <!-- end .portal-box-contents  -->
+</div> <!-- end .portal-box-interior  -->
+</div> <!-- end .portal-box  -->
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>

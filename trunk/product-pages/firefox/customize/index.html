@@ -1,0 +1,34 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'Mozilla | Customize Firefox';
+    $body_id    = 'customize';
+    $body_class = 'portal-page';
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div class="portal-box">
+<div class="portal-box-interior">
+
+<div class="portal-box-header">
+    <h1>Customise Firefox</h1>
+</div>
+
+<div class="portal-box-contents">
+
+    <p><a href="https://<?=$lang?>.add-ons.mozilla.com/<?=$lang?>/firefox/extensions/">Firefox Add-ons</a>
+    allow you to extend the functionality of Firefox to add new features, and personalise
+    the overall look and feel of the browser to suit your style.</p>
+
+    <ul>
+    <li><a href="http://<?=$lang?>.add-ons.mozilla.com/<?=$lang?>/firefox/">View available Firefox Add-ons</a></li>
+    <li><a href="https://<?=$lang ?>.add-ons.mozilla.com/<?=$lang ?>/firefox/dictionaries/">Add dictionaries for spell checking</a></li>
+    </ul>
+
+</div> <!-- end .portal-box-contents  -->
+</div> <!-- end .portal-box-interior  -->
+</div> <!-- end .portal-box  -->
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>

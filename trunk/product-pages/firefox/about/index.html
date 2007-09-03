@@ -1,0 +1,38 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'About Mozilla';
+    $body_id    = 'about';
+    $body_class = 'portal-page';
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div class="portal-box">
+<div class="portal-box-interior">
+
+<div class="portal-box-header">
+	<h1>
+		<img src="/img/portal-page/about-title.png" alt="Mozilla" height="32" width="132" />
+	</h1>
+	<p>Good for the Web. Good for the World.</p>
+</div>
+
+<div class="portal-box-contents">
+
+<p>Mozilla is not a traditional software company. We are a global <a href="/<?=$lang?>/firefox/community/">community</a> dedicated to building free, open source software products and technologies that improve the online experience for people everywhere. We are programmers, marketers, testers, and advocates from around the world who are working to ensure that the Web remains an open shared public resource. We believe that open standards enable and empower choice and innovation and that everyone, everywhere is entitled to the safest, fastest and best possible online experience.</p>
+
+<p>Our award-winning, open source <a href="/<?=$lang?>/products/">software products</a>
+and <a href="http://www.mozilla.org/projects/">technologies</a> are offered free-of-charge to people everywhere in over 40
+languages.</p>
+
+<p>Mozilla is headquartered in <a href="/<?=$lang?>/about/contact.html#hq">Mountain View,
+California</a> with regional offices in <a href="/<?=$lang?>/about/contact.html#japan">
+Tokyo</a> and <a href="/<?=$lang?>/about/contact.html#europe">Paris</a>.
+
+</div> <!-- end .portal-box-contents  -->
+</div> <!-- end .portal-box-interior  -->
+</div> <!-- end .portal-box  -->
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>
