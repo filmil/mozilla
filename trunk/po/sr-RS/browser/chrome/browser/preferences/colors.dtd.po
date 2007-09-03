@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/colors.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-15 00:45+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,12 +27,12 @@ msgstr "38em"
 
 #: window.macWidth
 msgid "41em"
-msgstr ""
+msgstr "41em"
 
 #: allowPagesToUse.label
 #: allowPagesToUse.accesskey
 msgid "&Allow pages to choose their own colors, instead of my selections above"
-msgstr "&Дозволи странама да изаберу своје боје."
+msgstr "&Дозволи странама да изаберу своје боје, уместо горе датог избора."
 
 #: color
 msgid "Text and Background"

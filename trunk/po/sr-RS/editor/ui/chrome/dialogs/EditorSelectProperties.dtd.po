@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorSelectProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:45-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +51,7 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: windowTitle.label
 msgid "Selection List Properties"
-msgstr ""
+msgstr "Поставке списка избора"
 
 #: Select.label
 msgid "Selection List"
@@ -61,17 +60,17 @@ msgstr "Списак избора"
 #: SelectName.label
 #: SelectName.accesskey
 msgid "List &Name:"
-msgstr ""
+msgstr "&Име списка:"
 
 #: SelectSize.label
 #: SelectSize.accesskey
 msgid "&Height:"
-msgstr ""
+msgstr "&Висина:"
 
 #: SelectMultiple.label
 #: SelectMultiple.accesskey
 msgid "&Multiple Selection"
-msgstr ""
+msgstr "Ви&шеструки избор"
 
 #: SelectDisabled.label
 #: SelectDisabled.accesskey
@@ -80,25 +79,25 @@ msgstr ""
 #: OptionDisabled.label
 #: OptionDisabled.accesskey
 msgid "&Disabled"
-msgstr ""
+msgstr "&Искључен"
 
 #: SelectTabIndex.label
 #: SelectTabIndex.accesskey
 msgid "Tab &Index:"
-msgstr ""
+msgstr "Ин&декс језичка:"
 
 #: OptGroup.label
 msgid "Option Group"
-msgstr ""
+msgstr "Група опција"
 
 #: OptGroupLabel.label
 #: OptGroupLabel.accesskey
 msgid "&Label:"
-msgstr ""
+msgstr "&Ознака:"
 
 #: Option.label
 msgid "Option"
-msgstr ""
+msgstr "Опција"
 
 #: OptionText.label
 #: OptionText.accesskey
@@ -108,12 +107,12 @@ msgstr "&Текст:"
 #: OptionValue.label
 #: OptionValue.accesskey
 msgid "&Value:"
-msgstr ""
+msgstr "Вредно&ст"
 
 #: OptionSelected.label
 #: OptionSelected.accesskey
 msgid "Initially &Selected"
-msgstr ""
+msgstr "Први и&збор"
 
 #: TextHeader.label
 msgid "Text"
@@ -125,17 +124,17 @@ msgstr "Вредност"
 
 #: SelectedHeader.label
 msgid "Selected"
-msgstr ""
+msgstr "Изабрано"
 
 #: AddOption.label
 #: AddOption.accesskey
 msgid "Add &Option"
-msgstr ""
+msgstr "Додај оп&цију"
 
 #: AddOptGroup.label
 #: AddOptGroup.accesskey
 msgid "Add &Group"
-msgstr ""
+msgstr "Додај &групу"
 
 #: RemoveElement.label
 #: RemoveElement.accesskey
@@ -150,4 +149,4 @@ msgstr "Помери &горе"
 #: MoveElementDown.label
 #: MoveElementDown.accesskey
 msgid "Move &Down"
-msgstr "Помери &доле"
+msgstr "Помери дол&е"

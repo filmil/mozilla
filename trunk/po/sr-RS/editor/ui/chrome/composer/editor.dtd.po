@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/editor.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:10-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr " - "
 
 #: textEditorWindow.titlemodifier
 msgid "Text Editor"
-msgstr ""
+msgstr "Уређивач текста"
 
 # Menu items:  the . means that the menu item isn't implemented yet
 # View menu items
@@ -31,15 +30,15 @@ msgstr "Преглед"
 
 #: viewmenu.accesskey
 msgid "v"
-msgstr "м"
+msgstr "v"
 
 #: compositionToolbarCmd.label
 msgid "Composition Toolbar"
-msgstr ""
+msgstr "Трака за састављање порука"
 
 #: compositiontb.accesskey
 msgid "c"
-msgstr "З"
+msgstr "c"
 
 #: formattingToolbarCmd.label
 msgid "Format Toolbar"
@@ -69,7 +68,7 @@ msgstr "Формат"
 
 #: formatmenu.accesskey
 msgid "o"
-msgstr ""
+msgstr "o"
 
 #: helpMenu.label
 msgid "Help"
@@ -77,12 +76,12 @@ msgstr "Помоћ"
 
 #: aboutCmd.label
 msgid ".About"
-msgstr ""
+msgstr ".About"
 
 # Display Mode Toolbar
 #: editMode.label
 msgid "Edit Mode:"
-msgstr ""
+msgstr "Начин уређивања:"
 
 #: statusText.label
 msgid "Done loading page"

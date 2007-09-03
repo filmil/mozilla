@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorReplace.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:02-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -68,12 +67,12 @@ msgstr ""
 # - Rights Reserved.
 #: replaceDialog.title
 msgid "Find and Replace"
-msgstr "Нађи и промени"
+msgstr "Нађи и замени"
 
 #: findField.label
 #: findField.accesskey
 msgid "Fi&nd text:"
-msgstr "Про&мени текст:"
+msgstr "&Нађи текст:"
 
 #: replaceField.label
 #: replaceField.accesskey

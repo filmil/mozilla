@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-13 02:08+0200\n"
+"PO-Revision-Date: 2007-06-15 00:41+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,28 +26,25 @@ msgstr "Приступачност"
 
 #: useCursorNavigation.label
 #: useCursorNavigation.accesskey
-#, fuzzy
 msgid "Always use the &cursor keys to navigate within pages"
-msgstr "З"
+msgstr "Увек користи &стрелице за кретање по странама "
 
 #
 # LOCALIZATION NOTE "RemoveTextStylesAccesskey" is used for both
 #  menu items: "RemoveTextStyles" and "StopTextStyles"
 #: searchStartTyping.label
 #: searchStartTyping.accesskey
-#, fuzzy
 msgid "Search for te&xt when I start typing"
-msgstr "у"
+msgstr "&Тражи текст када почнем да куцам"
 
 #: browsing.label
 msgid "Browsing"
-msgstr "Преглед ел. места"
+msgstr "Преглед"
 
 #: useAutoScroll.label
 #: useAutoScroll.accesskey
-#, fuzzy
 msgid "Use &autoscrolling"
-msgstr "д"
+msgstr "Користи аутоматско &померање"
 
 #: useSmoothScrolling.label
 #: useSmoothScrolling.accesskey
@@ -56,27 +53,25 @@ msgstr "Користи &глатко клизање"
 
 #: checkSpelling.label
 #: checkSpelling.accesskey
-#, fuzzy
 msgid "Check my spelling as I &type"
-msgstr "к"
+msgstr "Проверавај пра&вопис док куцам"
 
 #: languages.label
 msgid "Languages"
-msgstr ""
+msgstr "Језици"
 
 #: chooseLanguage.label
 msgid "Choose your preferred language for displaying pages"
-msgstr ""
+msgstr "Изаберите језик за приказ страна"
 
 #: chooseButton.label
 #: chooseButton.accesskey
-#, fuzzy
 msgid "Ch&oose..."
-msgstr ""
+msgstr "&Избор..."
 
 #: networkTab.label
 msgid "Network"
-msgstr ""
+msgstr "Мрежа"
 
 #: connection.label
 msgid "Connection"
@@ -84,17 +79,16 @@ msgstr "Веза"
 
 #: connectionDesc.label
 msgid "Configure how &brandShortName; connects to the Internet"
-msgstr ""
+msgstr "Подешавање начина на који се програм &brandShortName; повезује на Интернет"
 
 #: connectionSettings.label
 #: connectionSettings.accesskey
-#, fuzzy
 msgid "S&ettings..."
-msgstr ""
+msgstr "&Подешавања..."
 
 #: cache.label
 msgid "Cache"
-msgstr ""
+msgstr "Кеш"
 
 # LOCALIZATION NOTE:
 # The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -105,13 +99,12 @@ msgstr ""
 #
 #: useCacheBefore.label
 #: useCacheBefore.accesskey
-#, fuzzy
 msgid "&Use up to"
-msgstr "U"
+msgstr "&Користи највише"
 
 #: useCacheAfter.label
 msgid "MB of space for the cache"
-msgstr ""
+msgstr "MB простора за кеш"
 
 #: updateTab.label
 msgid "Update"
@@ -131,9 +124,8 @@ msgstr "F"
 
 #: enableAddonsUpdate.label
 #: enableAddonsUpdate.accesskey
-#, fuzzy
 msgid "I&nstalled Add-ons"
-msgstr "н"
+msgstr "&Инсталирани додаци"
 
 #: enableSearchUpdate.label
 #: enableSearchUpdate.accesskey
@@ -146,9 +138,8 @@ msgstr "Када је пронађено унапређење за &brandShortNa
 
 #: askMe.label
 #: askMe.accesskey
-#, fuzzy
 msgid "As&k me what I want to do"
-msgstr ""
+msgstr "&Питај ме шта желим да урадим"
 
 #: modeAutomatic.label
 #: modeAutomatic.accesskey
@@ -157,15 +148,13 @@ msgstr "Самостално &преузми и постави унапређе�
 
 #: modeAutoAddonWarn.label
 #: modeAutoAddonWarn.accesskey
-#, fuzzy
 msgid "&Warn me if this will disable any of my add-ons"
-msgstr "З"
+msgstr "Упозори ме ако ће ово да искључи ма који &додатак"
 
 #: updateHistory.label
 #: updateHistory.accesskey
-#, fuzzy
 msgid "Show U&pdate History"
-msgstr "p"
+msgstr "Прикажи &историјат доградњи"
 
 #: encryptionTab.label
 msgid "Encryption"
@@ -195,15 +184,15 @@ msgstr "Кад веб страна затражи сертификат:"
 
 #: certs.auto
 msgid "Select one automatically"
-msgstr ""
+msgstr "Изабери аутоматски"
 
 #: certs.auto.accesskey
 msgid "l"
-msgstr "У"
+msgstr "l"
 
 #: certs.ask
 msgid "Ask me every time"
-msgstr ""
+msgstr "Питај увек"
 
 #: certs.ask.accesskey
 msgid "i"
@@ -211,9 +200,8 @@ msgstr "i"
 
 #: viewCerts.label
 #: viewCerts.accesskey
-#, fuzzy
 msgid "View Certificate&s"
-msgstr "т"
+msgstr "Прикажи &сертификате"
 
 #: viewCRLs.label
 #: viewCRLs.accesskey
@@ -222,9 +210,8 @@ msgstr "Листа &опозива"
 
 #: verify.label
 #: verify.accesskey
-#, fuzzy
 msgid "&Verification"
-msgstr "Н"
+msgstr "Пров&ера"
 
 #: viewSecurityDevices.label
 #: viewSecurityDevices.accesskey

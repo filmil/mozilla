@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-26 02:34+0100\n"
+"PO-Revision-Date: 2007-08-29 17:50-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +20,11 @@ msgstr "Морате изабрати одредишни директорију�
 
 #: enterValidEmailAddress
 msgid "Enter a valid e-mail address to forward to."
-msgstr ""
+msgstr "Унесите исправну ел. адресу за прослеђивање."
 
 #: pickTemplateToReplyWith
 msgid "Choose a template to reply with."
-msgstr ""
+msgstr "Изаберите образац по коме се одговара."
 
 #: mustEnterName
 msgid "You must give this filter a name."
@@ -98,82 +98,82 @@ msgstr "Овај филтер је вероватно направљен пом�
 # %1$S=author, %2$S=subject, %3$S=date
 #: junkLogDetectStr
 msgid "Detected junk message from %1$S - %2$S at %3$S"
-msgstr ""
+msgstr "Примећена је нежељена порука од %1$S - %2$S на %3$S"
 
 # LOCALIZATION NOTE(logMoveStr)
 # %1$S=message id, %2$S=folder URI
 #: logMoveStr
 msgid "moved message id = %1$S to %2$S"
-msgstr ""
+msgstr "померена порука = %1$S на %2$S"
 
 # LOCALIZATION NOTE(logCopyStr)
 # %1$S=message id, %2$S=folder URI
 #: logCopyStr
 msgid "copied message id = %1$S to %2$S"
-msgstr ""
+msgstr "умножена порука = %1$S на %2$S"
 
 # LOCALIZATION NOTE(filterLogDetectStr)
 # %1$S=filter name %2$S=author, %3$S=subject, %4$S=date
 #: filterLogDetectStr
 msgid "Applied filter \"%1$S\" to message from %2$S - %3$S at %4$S"
-msgstr ""
+msgstr "Примењен је филтер „%1$S‟ на поруку од %2$S - %3$S у %4$S"
 
 #: filterAction2
 msgid "priority changed"
-msgstr ""
+msgstr "промењен је приоритет"
 
 #: filterAction3
 msgid "deleted"
-msgstr ""
+msgstr "уклоњено"
 
 #: filterAction4
 msgid "marked as read"
-msgstr ""
+msgstr "означено као прочитано"
 
 #: filterAction5
 msgid "thread killed"
-msgstr ""
+msgstr "нит је окончана"
 
 #: filterAction6
 msgid "thread watched"
-msgstr ""
+msgstr "нит је посматрана"
 
 #: filterAction7
 msgid "starred"
-msgstr ""
+msgstr "звезда"
 
 #: filterAction8
 msgid "tagged"
-msgstr ""
+msgstr "означено"
 
 #: filterAction9
 msgid "replied"
-msgstr ""
+msgstr "одговорено"
 
 #: filterAction10
 msgid "forwarded"
-msgstr ""
+msgstr "прослеђено"
 
 #: filterAction11
 msgid "execution stopped"
-msgstr ""
+msgstr "извршење је обустављено"
 
 #: filterAction12
 msgid "deleted from POP3 server"
-msgstr ""
+msgstr "Уклоњено са ПОП3 сервера"
 
 #: filterAction13
 msgid "left on POP3 server"
-msgstr ""
+msgstr "остављено на ПОП3 серверу"
 
 #: filterAction14
 msgid "junk score"
-msgstr ""
+msgstr "оцена степена нежељености"
 
 #: filterAction15
 msgid "body fetched from POP3 server"
-msgstr ""
+msgstr "тело поруке је добављено са ПОП3 сервера"
 
 #: filterAction16
 msgid "copied to folder"
-msgstr ""
+msgstr "умножено у директоријум"

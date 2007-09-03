@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/editorOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:19-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +97,7 @@ msgstr "Отвори датотеку..."
 #: inserthline.accesskey
 #: tablecolumn.accesskey
 msgid "o"
-msgstr ""
+msgstr "o"
 
 #: openremoteCmd.label
 msgid "Open Web Location..."
@@ -254,7 +253,7 @@ msgstr "Преглед пре штампе"
 #: printCmd.label
 #: printButtonCmd.label
 msgid "Print..."
-msgstr ""
+msgstr "Штампа..."
 
 #: fileprint.accesskey
 #: fileprint.keybinding
@@ -290,7 +289,7 @@ msgstr "Крај"
 #: fileexit.keybinding
 #: editpastequotation.accesskey
 msgid "q"
-msgstr ""
+msgstr "q"
 
 # Edit menu items
 #: editMenu.label
@@ -301,7 +300,7 @@ msgstr "Измени"
 #: insertinputtag.accesskey
 #: size-xx-large.accesskey
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: pasteNoFormatting.label
 #: pasteNoFormatting.accesskey
@@ -411,7 +410,7 @@ msgstr "Нађи поново"
 #: increasefontsize.accesskey
 #: pageproperties.accesskey
 msgid "g"
-msgstr ""
+msgstr "g"
 
 #: editfindnext.keybinding2
 #: editfindprev.keybinding2
@@ -425,7 +424,7 @@ msgstr "Нађи претходно"
 #: enableInlineSpellChecker.label
 #: enableInlineSpellChecker.accesskey
 msgid "&Spellcheck As You Type"
-msgstr ""
+msgstr "&Провера правописа док куцате"
 
 #: checkSpellingCmd.label
 msgid "Check Spelling"
@@ -437,7 +436,7 @@ msgstr "Провери правопис"
 #: stylestrikethru.accesskey
 #: formatremovelinks.keybinding
 msgid "k"
-msgstr ""
+msgstr "k"
 
 #: validateCmd.label
 msgid "Validate HTML"
@@ -595,17 +594,17 @@ msgstr "у"
 # Used just in context popup.
 #: spellCheckNoSuggestions.label
 msgid "(No Suggestions Found)"
-msgstr ""
+msgstr "(нема предлога)"
 
 #: spellCheckIgnoreWord.label
 #: spellCheckIgnoreWord.accesskey
 msgid "&Ignore Word"
-msgstr ""
+msgstr "&Занемари реч"
 
 #: spellCheckAddToDictionary.label
 #: spellCheckAddToDictionary.accesskey
 msgid "Add to Dictio&nary"
-msgstr ""
+msgstr "&Додај у речник"
 
 # Used just in context popup.
 #: createLinkCmd.label
@@ -771,7 +770,7 @@ msgstr "Искошено"
 #: styleUnderlineCmd.label
 #: underlineToolbarCmd.tooltip
 msgid "Underline"
-msgstr ""
+msgstr "Подвучено"
 
 #: styleStrikeThruCmd.label
 msgid "Strikethrough"
@@ -864,7 +863,7 @@ msgstr "["
 #: paragraphMenu.label
 #: paragraphParagraphCmd.label
 msgid "Paragraph"
-msgstr ""
+msgstr "Пасус"
 
 #: heading1Cmd.label
 msgid "Heading 1"
@@ -1285,7 +1284,7 @@ msgstr "Трака са менијем"
 
 #: compositionToolbar.tooltip
 msgid "Composition Toolbar"
-msgstr ""
+msgstr "Трака састављача"
 
 #: formatToolbar.tooltip
 msgid "Formatting Toolbar"

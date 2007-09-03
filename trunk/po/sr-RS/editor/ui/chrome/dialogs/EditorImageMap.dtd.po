@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorImageMap.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:36-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +56,7 @@ msgstr ""
 # Window title
 #: windowTitle.label
 msgid "Image Map Editor"
-msgstr ""
+msgstr "Уређивање мапе слике"
 
 # Menu Items
 # File menu
@@ -76,7 +75,7 @@ msgstr "Очисти"
 #: mapfileclear.accesskey
 #: selectall.accesskey
 msgid "a"
-msgstr "д"
+msgstr "a"
 
 # mac
 # LOCALIZATION NOTE : FILE Do not translate all the Cmd.key
@@ -97,7 +96,7 @@ msgstr "Измени"
 
 #: mapeditmenu.accesskey
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: cutCmd.label
 msgid "Cut"
@@ -132,13 +131,13 @@ msgstr "т"
 
 #: propsCmd.label
 msgid "Hotspot Properties"
-msgstr ""
+msgstr "Својства жиже"
 
 # access key definitions
 #: mapeditprops.accesskey
 #: maphelpmenu.accesskey
 msgid "h"
-msgstr "С"
+msgstr "h"
 
 # View menu
 #: mapviewMenu.label
@@ -148,7 +147,7 @@ msgstr "Преглед"
 #: mapviewmenu.accesskey
 #: paste.accesskey
 msgid "v"
-msgstr "м"
+msgstr "v"
 
 #: showhideTbarCmd.label
 msgid "Hide Toolbar"
@@ -157,15 +156,15 @@ msgstr "Сакриј алатну траку"
 # Scaling
 #: mapviewScale.label
 msgid "Scale"
-msgstr ""
+msgstr "Скалирај"
 
 #: mapviewscale.accesskey
 msgid "S"
-msgstr "з"
+msgstr "S"
 
 #: apercentCmd.label
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: zoomone.accesskey
 msgid "1"
@@ -173,7 +172,7 @@ msgstr "1"
 
 #: bpercentCmd.label
 msgid "200"
-msgstr ""
+msgstr "200"
 
 #: zoomtwo.accesskey
 msgid "2"
@@ -181,7 +180,7 @@ msgstr "2"
 
 #: cpercentCmd.label
 msgid "400"
-msgstr ""
+msgstr "400"
 
 #: zoomthree.accesskey
 msgid "4"
@@ -190,11 +189,11 @@ msgstr "4"
 # end scaling
 #: contrastCmd.label
 msgid "Contrast"
-msgstr ""
+msgstr "Контраст"
 
 #: contrast.accesskey
 msgid "n"
-msgstr "н"
+msgstr "n"
 
 # Help menu
 #: maphelpMenu.label
@@ -207,19 +206,19 @@ msgstr "О"
 
 #: about.accesskey
 msgid "b"
-msgstr "п"
+msgstr "b"
 
 #: zoominCmd.label
 msgid "Zoom In"
-msgstr ""
+msgstr "Увећај"
 
 #: zoomoutCmd.label
 msgid "Zoom Out"
-msgstr ""
+msgstr "Умањи"
 
 #: delSpotCmd.label
 msgid "Delete Spot"
-msgstr ""
+msgstr "Уклони жижу"
 
 # Keys
 #: clear.accesskey
@@ -228,11 +227,11 @@ msgstr "d"
 
 #: close.accesskey
 msgid "l"
-msgstr "У"
+msgstr "l"
 
 #
 # LOCALIZATION NOTE "RemoveTextStylesAccesskey" is used for both
 #  menu items: "RemoveTextStyles" and "StopTextStyles"
 #: cut.accesskey
 msgid "x"
-msgstr "у"
+msgstr "x"

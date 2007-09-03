@@ -60,7 +60,7 @@ po/sr-RS/toolkit/chrome/mozapps/preferences/ocsp.dtd.po:
 po/sr-RS/toolkit/chrome/mozapps/plugins/plugins.properties.po: 
 15 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/plugins/plugins.dtd.po: 
-27 преведених порука, 2 нејасне поруке.
+29 преведених порука.
 po/sr-RS/toolkit/chrome/mozapps/help/help.dtd.po: 
 1 преведена порука.
 po/sr-RS/toolkit/chrome/mozapps/help/help.properties.po: 
@@ -98,7 +98,7 @@ po/sr-RS/toolkit/chrome/global/editMenuOverlay.dtd.po:
 po/sr-RS/toolkit/chrome/global/console.properties.po: 
 28 преведених порука.
 po/sr-RS/toolkit/chrome/global/printPreview.dtd.po: 
-18 преведених порука, 1 нејасна порука.
+19 преведених порука.
 po/sr-RS/toolkit/chrome/global/printdialog.dtd.po: 
 14 преведених порука.
 po/sr-RS/toolkit/chrome/global/contentAreaCommands.properties.po: 
@@ -176,7 +176,7 @@ po/sr-RS/toolkit/chrome/global/findbar.properties.po:
 po/sr-RS/toolkit/chrome/global/tree.dtd.po: 
 9 преведених порука.
 po/sr-RS/toolkit/chrome/global/viewSource.properties.po: 
-3 преведене поруке, 2 нејасне поруке, 3 непреведене поруке.
+8 преведених порука.
 po/sr-RS/toolkit/chrome/global/findbar.dtd.po: 
 27 преведених порука.
 po/sr-RS/toolkit/chrome/global/nsProgressDialog.dtd.po: 
@@ -186,15 +186,15 @@ po/sr-RS/toolkit/chrome/global/mozilla.dtd.po:
 po/sr-RS/toolkit/installer/unix/install.it.po: 
 119 преведених порука, 2 непреведене поруке.
 po/sr-RS/toolkit/installer/windows/install.it.po: 
-0 преведених порука, 30 непреведених порука.
+30 преведених порука.
 po/sr-RS/extensions/reporter/chrome/reportWizard.dtd.po: 
-0 преведених порука, 2 непреведене поруке.
+2 преведене поруке.
 po/sr-RS/extensions/reporter/chrome/reporter.dtd.po: 
-1 преведена порука, 6 непреведених порука.
+7 преведених порука.
 po/sr-RS/extensions/reporter/chrome/reportWizard.properties.po: 
-4 преведене поруке, 10 непреведених порука.
+14 преведених порука.
 po/sr-RS/extensions/reporter/chrome/reportResults.dtd.po: 
-0 преведених порука, 3 непреведене поруке.
+3 преведене поруке.
 po/sr-RS/extensions/reporter/chrome/reporterOverlay.dtd.po: 
 3 преведене поруке.
 po/sr-RS/extensions/reporter/chrome/about.dtd.po: 
@@ -338,7 +338,7 @@ po/sr-RS/mail/chrome/messenger/start.dtd.po:
 po/sr-RS/mail/chrome/messenger/fieldMapImport.dtd.po: 
 6 преведених порука.
 po/sr-RS/mail/chrome/messenger/defaultClientDialog.dtd.po: 
-17 преведених порука, 21 непреведена порука.
+38 преведених порука.
 po/sr-RS/mail/chrome/messenger/filter.properties.po: 
 46 преведених порука.
 po/sr-RS/mail/chrome/messenger/mime.properties.po: 
@@ -420,8 +420,6 @@ po/sr-RS/mail/chrome/messenger/mailviews.properties.po:
 po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po: 
 18 преведених порука.
 po/sr-RS/mail/chrome/messenger/search-operators.properties.po: 
-po/sr-RS/mail/chrome/messenger/credits.dtd.po:51: не завршава се и „msgid“ и „msgstr“ са „\n“
-msgfmt: нађох 1 кобну грешку
 23 преведене поруке.
 po/sr-RS/mail/chrome/messenger/credits.dtd.po: 
 83 преведене поруке.
@@ -585,258 +583,3 @@ po/sr-RS/dom/chrome/layout/xmlparser.properties.po:
 8 преведених порука.
 po/sr-RS/dom/chrome/layout/HtmlForm.properties.po: 
 5 преведених порука.
-po/sr-RS/dom/chrome/layout/layout_errors.properties.po: 
-1 преведена порука.
-po/sr-RS/dom/chrome/layout/xul.properties.po: 
-1 преведена порука.
-po/sr-RS/dom/chrome/layout/xbl.properties.po: 
-9 преведених порука.
-po/sr-RS/dom/chrome/layout/MediaDocument.properties.po: 
-1 преведена порука.
-po/sr-RS/dom/chrome/global-strres.properties.po: 
-6 преведених порука.
-po/sr-RS/dom/chrome/printdialog.properties.po: 
-17 преведених порука.
-po/sr-RS/dom/chrome/dom/dom.properties.po: 
-po/sr-RS/dom/chrome/appstrings.properties.po:137: не завршава се и „msgid“ и „msgstr“ са „\n“
-msgfmt: нађох 1 кобну грешку
-22 преведене поруке.
-po/sr-RS/dom/chrome/appstrings.properties.po: 
-28 преведених порука.
-po/sr-RS/dom/chrome/xslt/xslt.properties.po: 
-2 преведене поруке.
-po/sr-RS/browser/defines.inc.po: 
-2 преведене поруке.
-po/sr-RS/browser/updater/updater.ini.po: 
-29 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/overrides/netError.dtd.po: 
-po/sr-RS/browser/chrome/overrides/appstrings.properties.po:137: не завршава се и „msgid“ и „msgstr“ са „\n“
-msgfmt: нађох 1 кобну грешку
-22 преведене поруке.
-po/sr-RS/browser/chrome/overrides/appstrings.properties.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser-region/region.properties.po: 
-2 преведене поруке.
-po/sr-RS/browser/chrome/browser/page-drawer.dtd.po: 
-4 преведене поруке.
-po/sr-RS/browser/chrome/browser/pageReportFirstTime.dtd.po: 
-26 преведених порука.
-po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po: 
-24 преведене поруке.
-po/sr-RS/browser/chrome/browser/metaData.dtd.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/sanitize.dtd.po: 
-181 преведена порука, 12 нејасних порука.
-po/sr-RS/browser/chrome/browser/browser.dtd.po: 
-6 преведених порука.
-po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po: 
-41 преведена порука.
-po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.dtd.po: 
-103 преведене поруке.
-po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/bookmarks/bookmarksProperties.dtd.po: 
-17 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/bookmarks/addBookmark.dtd.po: 
-8 преведених порука.
-po/sr-RS/browser/chrome/browser/sidebar/sidebar.properties.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/openLocation.dtd.po: 
-4 преведене поруке.
-po/sr-RS/browser/chrome/browser/sessionstore.properties.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/engineManager.dtd.po: 
-30 преведених порука.
-po/sr-RS/browser/chrome/browser/migration/migration.properties.po: 
-28 преведених порука.
-po/sr-RS/browser/chrome/browser/migration/migration.dtd.po: 
-14 преведених порука.
-po/sr-RS/browser/chrome/browser/history/history.dtd.po: 
-42 преведене поруке.
-po/sr-RS/browser/chrome/browser/pageInfo.properties.po: 
-12 преведених порука.
-po/sr-RS/browser/chrome/browser/search.properties.po: 
-76 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/browser.properties.po: 
-10 преведених порука.
-po/sr-RS/browser/chrome/browser/shellservice.properties.po: 
-19 преведених порука.
-po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po: 
-1 преведена порука.
-po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po: 
-10 преведених порука.
-po/sr-RS/browser/chrome/browser/feeds/subscribe.dtd.po: 
-4 преведене поруке.
-po/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd.po: 
-10 преведених порука.
-po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po: 
-59 преведених порука.
-po/sr-RS/browser/chrome/browser/pageInfo.dtd.po: 
-25 преведених порука, 3 непреведене поруке.
-po/sr-RS/browser/chrome/browser/credits.dtd.po: 
-11 преведених порука.
-po/sr-RS/browser/chrome/browser/safeMode.dtd.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/setDesktopBackground.dtd.po: 
-10 преведених порука.
-po/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd.po: 
-5 преведених порука.
-po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.properties.po: 
-14 преведених порука.
-po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd.po: 
-12 преведених порука.
-po/sr-RS/browser/chrome/browser/metaData.properties.po: 
-2 преведене поруке.
-po/sr-RS/browser/chrome/browser/searchbar.dtd.po: 
-4 преведене поруке.
-po/sr-RS/browser/chrome/browser/pageReport.dtd.po: 
-5 преведених порука, 2 непреведене поруке.
-po/sr-RS/browser/chrome/browser/preferences/phishEULA.dtd.po: 
-8 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/advanced-scripts.dtd.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/sanitize.dtd.po: 
-7 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/tabs.dtd.po: 
-16 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/downloadactions.dtd.po: 
-19 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/cookies.dtd.po: 
-13 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/permissions.dtd.po: 
-21 преведена порука.
-po/sr-RS/browser/chrome/browser/preferences/content.dtd.po: 
-18 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/preferences/privacy.dtd.po: 
-9 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/languages.dtd.po: 
-5 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/feeds.dtd.po: 
-12 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/changeaction.dtd.po: 
-12 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/preferences.dtd.po: 
-20 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/preferences/main.dtd.po: 
-49 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/fonts.dtd.po: 
-25 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/preferences/connection.dtd.po: 
-66 преведених порука.
-po/sr-RS/browser/chrome/browser/preferences/preferences.properties.po: 
-22 преведене поруке, 10 нејасних порука, 11 непреведених порука.
-po/sr-RS/browser/chrome/browser/preferences/advanced.dtd.po: 
-0 преведених порука, 15 непреведених порука.
-po/sr-RS/browser/chrome/browser/preferences/security.dtd.po: 
-0 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/preferences/feeds.properties.po: 
-0 преведених порука, 7 непреведених порука.
-po/sr-RS/browser/chrome/browser/preferences/securityWarnings.dtd.po: 
-0 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/preferences/fallbackEULA.dtd.po: 
-11 преведених порука, 1 непреведена порука.
-po/sr-RS/browser/chrome/browser/preferences/colors.dtd.po: 
-1 преведена порука.
-po/sr-RS/browser/chrome/browser/openLocation.properties.po: 
-1 преведена порука, 1 нејасна порука.
-po/sr-RS/browser/chrome/branding/brand.properties.po: 
-1 преведена порука, 1 нејасна порука.
-po/sr-RS/browser/chrome/branding/brand.dtd.po: 
-7 преведених порука, 137 непреведених порука.
-po/sr-RS/browser/installer/installer.inc.po: 
-0 преведених порука, 37 непреведених порука.
-po/sr-RS/browser/installer/custom.properties.po: 
-6 преведених порука, 55 непреведених порука.
-po/sr-RS/browser/installer/override.properties.po: 
-2 преведене поруке, 40 непреведених порука.
-po/sr-RS/browser/installer/mui.properties.po: 
-7 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorPersonalDictionary.dtd.po: 
-4 преведене поруке, 8 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorPublishProgress.dtd.po: 
-0 преведених порука, 5 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditConflict.dtd.po: 
-2 преведене поруке, 2 непреведене поруке.
-po/sr-RS/editor/ui/chrome/dialogs/EditorSnapToGrid.dtd.po: 
-4 преведене поруке, 1 непреведена порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorSaveAsCharset.dtd.po: 
-3 преведене поруке, 6 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorFieldSetProperties.dtd.po: 
-11 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorListProperties.dtd.po: 
-9 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EdConvertToTable.dtd.po: 
-46 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorImageProperties.dtd.po: 
-7 преведених порука, 1 непреведена порука.
-po/sr-RS/editor/ui/chrome/dialogs/EdDialogOverlay.dtd.po: 
-29 преведених порука, 11 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorImageMap.dtd.po: 
-13 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EdAdvancedEdit.dtd.po: 
-2 преведене поруке, 5 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EdLinkChecker.dtd.po: 
-1 преведена порука, 7 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorFormProperties.dtd.po: 
-8 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorInsertTable.dtd.po: 
-7 преведених порука, 14 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorSelectProperties.dtd.po: 
-2 преведене поруке.
-po/sr-RS/editor/ui/chrome/dialogs/EditorLinkProperties.dtd.po: 
-13 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorInsertTOC.dtd.po: 
-1 преведена порука, 12 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorImageMapHotSpot.dtd.po: 
-17 преведених порука, 1 непреведена порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorSpellCheck.dtd.po: 
-15 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorHLineProperties.dtd.po: 
-5 преведених порука, 36 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorPublish.dtd.po: 
-14 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorColorProperties.dtd.po: 
-11 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorInsertChars.dtd.po: 
-5 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorInsertSource.dtd.po: 
-57 преведених порука, 1 непреведена порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorTableProperties.dtd.po: 
-7 преведених порука, 23 непреведене поруке.
-po/sr-RS/editor/ui/chrome/dialogs/EditorInputProperties.dtd.po: 
-1 преведена порука, 8 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorPageProperties.dtd.po: 
-12 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EdColorPicker.dtd.po: 
-0 преведених порука, 6 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorLabelProperties.dtd.po: 
-4 преведене поруке, 8 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorButtonProperties.dtd.po: 
-3 преведене поруке, 14 непреведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorTextAreaProperties.dtd.po: 
-2 преведене поруке, 1 нејасна порука.
-po/sr-RS/editor/ui/chrome/dialogs/EdNamedAnchorProperties.dtd.po: 
-12 преведених порука.
-po/sr-RS/editor/ui/chrome/dialogs/EditorReplace.dtd.po: 
-18 преведених порука, 15 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/editorSmileyOverlay.dtd.po: 
-8 преведених порука, 7 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/pref-editing.dtd.po: 
-173 преведене поруке, 3 непреведене поруке.
-po/sr-RS/editor/ui/chrome/composer/editor.properties.po: 
-12 преведених порука, 5 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/editor.dtd.po: 
-1 преведена порука, 4 непреведене поруке.
-po/sr-RS/editor/ui/chrome/composer/editorPrefsOverlay.dtd.po: 
-18 преведених порука, 12 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/pref-toolbars.dtd.po: 
-1 преведена порука, 19 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/pref-composer.dtd.po: 
-0 преведених порука, 2 непреведене поруке.
-po/sr-RS/editor/ui/chrome/composer/editorNavigatorOverlay.dtd.po: 
-304 преведене поруке, 13 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/editorOverlay.dtd.po: 
-1 преведена порука, 7 непреведених порука.
-po/sr-RS/editor/ui/chrome/composer/pref-publish.dtd.po: 
-0 преведених порука, 2 непреведене поруке.
-po/sr-RS/editor/ui/chrome/region/region.properties.po: 

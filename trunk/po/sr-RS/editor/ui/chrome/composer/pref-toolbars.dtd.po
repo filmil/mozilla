@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/pref-toolbars.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:14-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,11 +51,11 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: pref.toolbars.title
 msgid "Toolbars"
-msgstr ""
+msgstr "Алатне траке"
 
 #: composition.caption
 msgid "Show these buttons in the Composition Toolbar:"
-msgstr ""
+msgstr "Прикажи ове дугмиће у траци састављача:"
 
 #: new.label
 msgid "New"
@@ -105,7 +104,7 @@ msgstr "Слика"
 
 #: hline.label
 msgid "H. Line"
-msgstr ""
+msgstr "Х. линија"
 
 #: table.label
 msgid "Table"
@@ -121,7 +120,7 @@ msgstr "Сидро"
 
 #: formatting.caption
 msgid "Show these buttons in the Formatting Toolbar:"
-msgstr ""
+msgstr "Прикажи ове дугмиће у траци за форматирање:"
 
 #: smaller.label
 msgid "Smaller"
@@ -137,11 +136,11 @@ msgstr "Подебљано"
 
 #: bullets.label
 msgid "Bullets"
-msgstr ""
+msgstr "Ставке"
 
 #: numbers.label
 msgid "Numbers"
-msgstr ""
+msgstr "Бројеви"
 
 #: italic.label
 msgid "Italic"
@@ -149,24 +148,24 @@ msgstr "Искошено"
 
 #: outdent.label
 msgid "Outdent"
-msgstr ""
+msgstr "Извуци"
 
 #: indent.label
 msgid "Indent"
-msgstr ""
+msgstr "Увуци"
 
 #: underline.label
 msgid "Underline"
-msgstr ""
+msgstr "Подвучено"
 
 #: absolutePosition.label
 msgid "Absolute positioning"
-msgstr ""
+msgstr "Апсолутна позиција"
 
 #: decreaseZIndex.label
 msgid "Send to back"
-msgstr ""
+msgstr "Пошаљи у позадину"
 
 #: increaseZIndex.label
 msgid "Bring to front"
-msgstr ""
+msgstr "Издигни у први план"

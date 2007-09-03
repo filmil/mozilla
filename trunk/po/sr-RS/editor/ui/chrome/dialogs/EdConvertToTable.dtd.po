@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EdConvertToTable.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:39-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +74,7 @@ msgstr "Уредник прави нови ред у табели за свак�
 
 #: instructions2.label
 msgid "Choose the character used to separate the selection into columns:"
-msgstr "Изаберите сепаратор колона:"
+msgstr "Изаберите знак који се користи за раздвајање избора по колонама:"
 
 #: commaRadio.label
 msgid "Comma"

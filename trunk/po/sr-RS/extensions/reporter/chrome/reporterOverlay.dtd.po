@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/extensions/reporter/chrome/reporterOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 17:46-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +17,12 @@ msgstr ""
 #: reporterMenu.title
 #: reporterMenu.accesskey
 msgid "&Report Broken Web Site"
-msgstr ""
+msgstr "&Пријава неисправног ел. места"
 
 #: reporterToolBarButton.title
 msgid "Report Site"
-msgstr ""
+msgstr "Пријава ел. места"
 
 #: reporterMenu.tooltip
 msgid "Report Broken Web Site"
-msgstr ""
+msgstr "Пријава неисправног ел. места"

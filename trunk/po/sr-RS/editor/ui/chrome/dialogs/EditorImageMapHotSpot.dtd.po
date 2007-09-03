@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorImageMapHotSpot.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:47-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,19 +55,19 @@ msgstr ""
 # Window title
 #: windowTitle.label
 msgid "Hotspot Properties"
-msgstr ""
+msgstr "Поставке жиже"
 
 #: link.label
 msgid "Hotspot Link"
-msgstr ""
+msgstr "Веза жиже"
 
 #: urlFieldset.label
 msgid "Hotspot URL:"
-msgstr ""
+msgstr "URL жиже:"
 
 #: altFieldset.label
 msgid "Hotspot Alt Text:"
-msgstr ""
+msgstr "Алтернативни текст:"
 
 #: browseButton.label
 msgid "Browse..."
@@ -76,33 +75,33 @@ msgstr "Изабери..."
 
 #: targetFieldset.label
 msgid "Target Setting"
-msgstr ""
+msgstr "Подешавања одредишта"
 
 #: target.label
 msgid "Hotspot Target"
-msgstr ""
+msgstr "Одредиште"
 
 # Targets
 #: commonFieldset.label
 msgid "Common Targets:"
-msgstr ""
+msgstr "Честа одредишта:"
 
 #: none.value
 msgid "(none)"
-msgstr ""
+msgstr "(ниједно)"
 
 #: same.value
 msgid "Same Frame"
-msgstr ""
+msgstr "Исти оквир"
 
 #: whole.value
 msgid "Whole Page"
-msgstr ""
+msgstr "Цела страна"
 
 #: new.value
 msgid "New Window"
-msgstr ""
+msgstr "Нови прозор"
 
 #: parent.value
 msgid "Parent Frame"
-msgstr ""
+msgstr "Оквир изнад"

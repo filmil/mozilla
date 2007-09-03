@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EdAdvancedEdit.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:37-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +70,7 @@ msgstr "Уредник напредних поставки"
 
 #: AttName.label
 msgid "Attribute: "
-msgstr "Својство:"
+msgstr "Атрибут:"
 
 #: AttValue.label
 msgid "Value: "
@@ -83,11 +82,11 @@ msgstr "Особина:"
 
 #: currentattributesfor.label
 msgid "Current attributes for: "
-msgstr "Важећа својства за:"
+msgstr "Атрибути за:"
 
 #: tree.attributeHeader.label
 msgid "Attribute"
-msgstr "Својство"
+msgstr "Атрибут"
 
 #: tree.propertyHeader.label
 msgid "Property"
@@ -99,7 +98,7 @@ msgstr "Вредност"
 
 #: tabHTML.label
 msgid "HTML Attributes"
-msgstr "HTML својства"
+msgstr "Атрибути за HTML"
 
 #: tabCSS.label
 msgid "Inline Style"
@@ -111,7 +110,7 @@ msgstr "JavaScript догађаји"
 
 #: editAttribute.label
 msgid "Click on an item above to edit its value"
-msgstr "Изаберите ставку изнад како бисте променили вредност"
+msgstr "Изаберите ставку изнад да промените вредност"
 
 #: removeAttribute.label
 msgid "Remove"

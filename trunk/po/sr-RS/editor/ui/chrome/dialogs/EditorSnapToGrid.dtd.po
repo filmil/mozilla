@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorSnapToGrid.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:39-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,12 +53,12 @@ msgstr ""
 # Window title
 #: windowTitle.label
 msgid "Snap to Grid"
-msgstr ""
+msgstr "Уравнај на мрежу"
 
 #: enableSnapToGrid.label
 #: enableSnapToGrid.accessKey
 msgid "&enable Snap to Grid"
-msgstr ""
+msgstr "&Укључи уравнање на мрежу"
 
 #: sizeEditField.label
 #: sizeEditField.accessKey

@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/pref-editing.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:08-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,20 +16,20 @@ msgstr ""
 
 #: pref.editing.title
 msgid "New Page Settings"
-msgstr ""
+msgstr "Поставке нове странице"
 
 #: authorName.label
 #: authorName.accesskey
 msgid "A&uthor:"
-msgstr ""
+msgstr "&Аутор:"
 
 #: pageColorHeader
 msgid "Default Page Appearance"
-msgstr ""
+msgstr "Подразумевани изглед странице"
 
 #: defaultColorsRadio.label
 msgid "Reader's default colors (Don't set colors in page)"
-msgstr ""
+msgstr "Подразумеване боје у читачу (не постављајте боје у страни)"
 
 #: defaultColors.accesskey
 msgid "d"
@@ -38,11 +37,11 @@ msgstr "d"
 
 #: customColorsRadio.label
 msgid "Use custom colors:"
-msgstr ""
+msgstr "Користи посебне боје:"
 
 #: customColors.accesskey
 msgid "c"
-msgstr "З"
+msgstr "c"
 
 #: normalText.label
 #: normalText.accesskey
@@ -76,9 +75,9 @@ msgstr ":"
 #: backgroundImage.label
 #: backgroundImage.accesskey
 msgid "Background i&mage:"
-msgstr ""
+msgstr "Позадинска &слика:"
 
 #: chooseFile.label
 #: chooseFile.accesskey
 msgid "Ch&oose File..."
-msgstr ""
+msgstr "Избор дато&теке..."

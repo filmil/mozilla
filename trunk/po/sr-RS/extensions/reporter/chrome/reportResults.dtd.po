@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/extensions/reporter/chrome/reportResults.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 17:45-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +20,7 @@ msgstr "Ел. место"
 
 #: reportProblemType
 msgid "Problem Type"
-msgstr ""
+msgstr "Врста проблема"
 
 # Description
 # # @name MIME_MHTML_DESCRIPTION
@@ -32,31 +31,31 @@ msgstr "Опис"
 
 #: reportPlatform
 msgid "Platform"
-msgstr ""
+msgstr "Платформа"
 
 #: reportProduct
 msgid "Product"
-msgstr ""
+msgstr "Производ"
 
 #: reportoscpu
 msgid "OS"
-msgstr ""
+msgstr "Оперативни систем"
 
 #: reportGecko
 msgid "Gecko"
-msgstr ""
+msgstr "Геко"
 
 #: reportBuildConfig
 msgid "Build Config"
-msgstr ""
+msgstr "Конфигурација"
 
 #: reportUseragent
 msgid "Useragent"
-msgstr ""
+msgstr "Кор. агент"
 
 #: reportLanguage
 msgid "Language"
-msgstr ""
+msgstr "Језик"
 
 #: reportEmail
 msgid "Email"
@@ -64,11 +63,11 @@ msgstr "Ел. пошта"
 
 #: error
 msgid "Error Details"
-msgstr ""
+msgstr "Детаљи о грешци"
 
 #: faultCode
 msgid "Code"
-msgstr ""
+msgstr "Код"
 
 # VCARD_LDAP_MSG_TYPE
 # # @name VCARD_LDAP_MSG_TYPE

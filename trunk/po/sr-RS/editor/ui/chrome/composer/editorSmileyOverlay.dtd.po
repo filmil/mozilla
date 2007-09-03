@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/editorSmileyOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:07-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +73,7 @@ msgstr "&Гримаса"
 
 #: smiley2Cmd.tooltip
 msgid "Insert a frown face"
-msgstr ""
+msgstr "Убацује смешка који се мршти"
 
 #: smiley3Cmd.label
 #: smiley3Cmd.accesskey
@@ -83,7 +82,7 @@ msgstr "&Миг"
 
 #: smiley3Cmd.tooltip
 msgid "Insert a wink face"
-msgstr ""
+msgstr "Убацује смешка који намигује"
 
 #: smiley4Cmd.label
 #: smiley4Cmd.accesskey
@@ -92,7 +91,7 @@ msgstr "&Исплажен језик"
 
 #: smiley4Cmd.tooltip
 msgid "Insert a tongue-out face"
-msgstr ""
+msgstr "Убацује смешка који се плази"
 
 #: smiley5Cmd.label
 #: smiley5Cmd.accesskey
@@ -101,16 +100,16 @@ msgstr "&Смех"
 
 #: smiley5Cmd.tooltip
 msgid "Insert a laughing face"
-msgstr ""
+msgstr "Убацује смешка који се смеје"
 
 #: smiley6Cmd.label
 #: smiley6Cmd.accesskey
 msgid "&Embarrassed"
-msgstr "&Непријатан"
+msgstr "&Постиђен"
 
 #: smiley6Cmd.tooltip
 msgid "Insert an embarrassed face"
-msgstr ""
+msgstr "Убацује смешка коме је непријатно"
 
 #: smiley7Cmd.label
 #: smiley7Cmd.accesskey
@@ -119,7 +118,7 @@ msgstr "Н&еодлучан"
 
 #: smiley7Cmd.tooltip
 msgid "Insert an undecided face"
-msgstr ""
+msgstr "Убацује смешка који је неодлучан"
 
 #: smiley8Cmd.label
 #: smiley8Cmd.accesskey
@@ -128,7 +127,7 @@ msgstr "И&зненађен"
 
 #: smiley8Cmd.tooltip
 msgid "Insert a surprised face"
-msgstr ""
+msgstr "Убацује смешка који је изненађен"
 
 #: smiley9Cmd.label
 #: smiley9Cmd.accesskey
@@ -137,7 +136,7 @@ msgstr "&Пољубац"
 
 #: smiley9Cmd.tooltip
 msgid "Insert a kiss face"
-msgstr ""
+msgstr "Убацује смешка који шаље пољубац"
 
 #: smiley10Cmd.label
 #: smiley10Cmd.accesskey
@@ -146,7 +145,7 @@ msgstr "&Викање"
 
 #: smiley10Cmd.tooltip
 msgid "Insert a yelling face"
-msgstr ""
+msgstr "Убацује смешка који виче"
 
 #: smiley11Cmd.label
 #: smiley11Cmd.accesskey
@@ -155,7 +154,7 @@ msgstr "&Смирен"
 
 #: smiley11Cmd.tooltip
 msgid "Insert a cool face"
-msgstr ""
+msgstr "Убацује смешка који је смирен"
 
 #: smiley12Cmd.label
 #: smiley12Cmd.accesskey
@@ -164,7 +163,7 @@ msgstr "&Новчана уста"
 
 #: smiley12Cmd.tooltip
 msgid "Insert a money-mouth face"
-msgstr ""
+msgstr "Убацује смешка са новцем у устима"
 
 #: smiley13Cmd.label
 #: smiley13Cmd.accesskey
@@ -173,7 +172,7 @@ msgstr "&Једе ногу"
 
 #: smiley13Cmd.tooltip
 msgid "Insert a foot-in-mouth face"
-msgstr ""
+msgstr "Убацује смешка који је направио непријатну грешку"
 
 #: smiley14Cmd.label
 #: smiley14Cmd.accesskey
@@ -182,7 +181,7 @@ msgstr "&Невинашце"
 
 #: smiley14Cmd.tooltip
 msgid "Insert an innocent face"
-msgstr ""
+msgstr "Убацује смешка са лицем невинашцета"
 
 #: smiley15Cmd.label
 #: smiley15Cmd.accesskey
@@ -191,7 +190,7 @@ msgstr "&Плач"
 
 #: smiley15Cmd.tooltip
 msgid "Insert a crying face"
-msgstr ""
+msgstr "Убацује смешка који плаче"
 
 #: smiley16Cmd.label
 #: smiley16Cmd.accesskey
@@ -200,4 +199,4 @@ msgstr "&Ништа не говорим"
 
 #: smiley16Cmd.tooltip
 msgid "Insert a lips-are-sealed face"
-msgstr ""
+msgstr "Убацује смешка који ништа не говори"

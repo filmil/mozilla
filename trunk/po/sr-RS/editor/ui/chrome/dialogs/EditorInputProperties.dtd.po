@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorInputProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 10:31-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,16 +51,16 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: windowTitle.label
 msgid "Form Field Properties"
-msgstr ""
+msgstr "Својства поља формулара"
 
 #: windowTitleImage.label
 msgid "Form Image Properties"
-msgstr ""
+msgstr "Својства слике формулара"
 
 #: InputType.label
 #: InputType.accesskey
 msgid "Field &Type"
-msgstr ""
+msgstr "&Врста поља:"
 
 #: text.value
 msgid "Text"
@@ -73,19 +72,19 @@ msgstr "Лозинка"
 
 #: checkbox.value
 msgid "Check Box"
-msgstr ""
+msgstr "Штиклирање"
 
 #: radio.value
 msgid "Radio Button"
-msgstr ""
+msgstr "Радио дугме"
 
 #: submit.value
 msgid "Submit Button"
-msgstr ""
+msgstr "Дугме за слање"
 
 #: reset.value
 msgid "Reset Button"
-msgstr ""
+msgstr "Дугме за брисање"
 
 #: file.value
 msgid "File"
@@ -93,7 +92,7 @@ msgstr "Датотека"
 
 #: hidden.value
 msgid "Hidden"
-msgstr ""
+msgstr "Сакривено"
 
 #: image.value
 msgid "Image"
@@ -105,78 +104,78 @@ msgstr "Дугме"
 
 #: InputSettings.label
 msgid "Field Settings"
-msgstr ""
+msgstr "Поставке поља"
 
 #: InputName.label
 msgid "Field Name:"
-msgstr ""
+msgstr "Име поља:"
 
 #: GroupName.label
 msgid "Group Name:"
-msgstr ""
+msgstr "Име групе:"
 
 #: Name.accesskey
 msgid "N"
-msgstr "Н"
+msgstr "N"
 
 #: InputValue.label
 msgid "Field Value:"
-msgstr ""
+msgstr "Вредност поља:"
 
 #: InitialValue.label
 msgid "Initial Value:"
-msgstr ""
+msgstr "Почетна вредност:"
 
 #: Value.accesskey
 msgid "V"
-msgstr "Н"
+msgstr "V"
 
 #: InputChecked.label
 #: InputChecked.accesskey
 msgid "Initially &Checked"
-msgstr ""
+msgstr "Изабрано на &почетку"
 
 #: InputSelected.label
 #: InputSelected.accesskey
 msgid "Initially &Selected"
-msgstr ""
+msgstr "Изабрано на по&четку"
 
 #: InputReadOnly.label
 #: InputReadOnly.accesskey
 msgid "&Read Only"
-msgstr ""
+msgstr "Са&мо читање"
 
 #: InputDisabled.label
 #: InputDisabled.accesskey
 msgid "&Disabled"
-msgstr ""
+msgstr "&Искључено"
 
 #: tabIndex.label
 #: tabIndex.accesskey
 msgid "Tab &Index:"
-msgstr ""
+msgstr "Инде&кс језичка"
 
 #: TextSize.label
 #: TextSize.accesskey
 msgid "&Field Size:"
-msgstr ""
+msgstr "Величина по&ља:"
 
 #: TextLength.label
 #: TextLength.accesskey
 msgid "Maximum &Length:"
-msgstr ""
+msgstr "Највећа ду&жина"
 
 #: AccessKey.label
 #: AccessKey.accesskey
 msgid "Access &Key:"
-msgstr ""
+msgstr "Тастер за прист&уп:"
 
 #: Accept.label
 #: Accept.accesskey
 msgid "&Accept Types:"
-msgstr ""
+msgstr "&Дозвољене врсте:"
 
 #: ImageProperties.label
 #: ImageProperties.accesskey
 msgid "Imag&e Properties..."
-msgstr ""
+msgstr "&Особине слике..."

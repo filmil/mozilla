@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/help/help.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-30 10:39-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,15 +50,13 @@ msgstr "Напред за једну страну"
 
 #: copyCmd.label
 #: copyCmd.accesskey
-#, fuzzy
 msgid "&Copy"
-msgstr "У"
+msgstr "&Умножи"
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
-#, fuzzy
 msgid "Select &All"
-msgstr "П"
+msgstr "Изабери с&ве"
 
 #: goBackCmd.commandkey
 msgid "["
@@ -136,9 +133,9 @@ msgstr "У&век на врху"
 #: textZoomReduceBtn.label
 #: textZoomReduceBtn.accesskey
 msgid "&Decrease Text Size"
-msgstr "&Умањи величину текста"
+msgstr "&Умањи слова"
 
 #: textZoomEnlargeBtn.label
 #: textZoomEnlargeBtn.accesskey
 msgid "&Increase Text Size"
-msgstr "У&већај величину текста"
+msgstr "У&већај слова"

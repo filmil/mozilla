@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/editor.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:09-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -199,7 +198,7 @@ msgstr "пре оверавања документа"
 #: SaveFilePrompt
 #: PublishPrompt
 msgid "Save changes to \"%title%\" %reason%?"
-msgstr ""
+msgstr "Да ли треба чувати измене „%title%‟ %reason%?"
 
 #: SaveFileFailed
 msgid "Saving file failed!"
@@ -477,7 +476,7 @@ msgstr "Није могуће учитати слику"
 msgid ""
 "\n"
 "Please select a new location (URL) and try again."
-msgstr ""
+msgstr "\nМолимо да унесете нову локацију (УРЛ) и да пробате опет."
 
 #: SaveToUseRelativeUrl
 msgid "Relative URLs can only be used on pages which have been saved"
@@ -645,7 +644,7 @@ msgstr "Својства %obj%..."
 # LOCALIZATION NOTE This character must be in the above string and not confict with other accesskeys in Format menu
 #: ObjectPropertiesAccessKey
 msgid "o"
-msgstr ""
+msgstr "o"
 
 # LOCALIZATION NOTE (JoinSelectedCells): This variable should contain the "tablejoincells.accesskey" 
 # letter as defined in editorOverlay.dtd
@@ -676,7 +675,7 @@ msgstr "Уклони"
 
 #: DeleteCells
 msgid "Delete Cells"
-msgstr "Обриши ћелије"
+msgstr "Уклони ћелије"
 
 #: DeleteTableTitle
 msgid "Delete Rows or Columns"

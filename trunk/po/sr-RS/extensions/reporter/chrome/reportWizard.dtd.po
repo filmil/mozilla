@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-25 00:20+0100\n"
+"PO-Revision-Date: 2007-08-29 16:52-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,130 +17,130 @@ msgstr ""
 # Entities for the Sample Extension Options Dialog go here
 #: reportWizard.title
 msgid "Report A Broken Web Site"
-msgstr ""
+msgstr "Пријави неисправно ел. место"
 
 #: privacyNotice.label
 #: reportForm.privacyPolicy.title
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Полиса о приватности"
 
 #: reportWizardPrivacy.description
 msgid "This tool allows you to tell the Evangelism Team about web sites that do not work properly in &brandShortName;, or shut &brandShortName; out. This is your way to help us ensure the best possible experience for &brandShortName; users. Please take a moment to read the following to learn how we use the information we collect should you choose to participate."
-msgstr ""
+msgstr "Овај алат Вам омогућава да обавестите нашу екипу за односе с јавношћу о ел. местима која не раде исправно са програмом &brandShortName;, или онемогућавају приступ корисницима програма &brandShortName;.  Молимо да уложите мало времена да прочитате наредни текст и научите како да користите податке које сакупљамо, уколико одлучите да учествујете."
 
 #: reportWizardMustAgree.description
 msgid "To continue you need to agree to the privacy policy above."
-msgstr ""
+msgstr "Да бисте наставили, неопходно је да прихватите полису о приватности дату изнад."
 
 #: dontShowPrivacyStatement.label
 #: dontShowPrivacyStatement.accesskey
 msgid "&I have read and accept the above privacy policy."
-msgstr ""
+msgstr "&Прочитао-прочитала сам полису и прихватам је."
 
 #: reportForm.label
 msgid "Fill out Report"
-msgstr ""
+msgstr "Испуни извештај"
 
 #: reportForm.description
 msgid "Tell us a little about the problem you encountered:"
-msgstr ""
+msgstr "Реците нам на какав сте проблем наишли:"
 
 #: reportForm.url.title
 msgid "Web site URL:"
-msgstr ""
+msgstr "УРЛ ел. места:"
 
 # No ":" at the end
 #: reportForm.behind_login.title
 #: reportForm.behind_login.accesskey
 msgid "Web site is &password-protected"
-msgstr ""
+msgstr "Ел. место је &заштићено лозинком"
 
 #: reportForm.problem_type.title
 #: reportForm.problem_type.accesskey
 msgid "Problem &Type:"
-msgstr ""
+msgstr "&Врста проблема:"
 
 #: reportForm.problem_type.chooseOne.title
 msgid "Choose One..."
-msgstr ""
+msgstr "Изаберите једно..."
 
 # DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first!
 #: reportForm.problem_type.item1.title
 msgid "Browser not supported"
-msgstr ""
+msgstr "Читач није подржан"
 
 #: reportForm.problem_type.item2.title
 msgid "Can't log in"
-msgstr ""
+msgstr "Пријава није могућа"
 
 #: reportForm.problem_type.item3.title
 msgid "Plugin not shown"
-msgstr ""
+msgstr "Додатак се не приказује"
 
 #: reportForm.problem_type.item4.title
 msgid "Other content missing"
-msgstr ""
+msgstr "Остали садржај недостаје"
 
 #: reportForm.problem_type.item5.title
 msgid "Behavior wrong"
-msgstr ""
+msgstr "Погрешно понашање"
 
 #: reportForm.problem_type.item6.title
 msgid "Appearance wrong"
-msgstr ""
+msgstr "Погрешан изглед"
 
 #: reportForm.problem_type.item7.title
 msgid "Other problem"
-msgstr ""
+msgstr "Неки други проблем"
 
 #: reportForm.describe.title
 #: reportForm.describe.accesskey
 msgid "&Describe Problem:"
-msgstr ""
+msgstr "&Опис проблема:"
 
 #: reportForm.platform.title
 msgid "Platform:"
-msgstr ""
+msgstr "Платформа:"
 
 #: reportForm.product.title
 msgid "Product:"
-msgstr ""
+msgstr "Производ:"
 
 #: reportForm.gecko.title
 msgid "Gecko:"
-msgstr ""
+msgstr "Геко:"
 
 #: reportForm.useragent.title
 msgid "Useragent:"
-msgstr ""
+msgstr "Кор. агент:"
 
 #: reportForm.language.title
 msgid "Language:"
-msgstr ""
+msgstr "Језик:"
 
 # Make sure this has "(Optional)" at the end.  This is important for the user to know
 #: reportForm.email.title
 #: reportForm.email.accesskey
 msgid "&Email (Optional):"
-msgstr ""
+msgstr "&Ел. адреса (опциона):"
 
 #: reportForm.privacyPolicy.tooltip
 msgid "View Privacy Policy"
-msgstr ""
+msgstr "Преглед полисе о приватности"
 
 #: reportResults.showDetail.title
 #: reportResults.showDetail.accesskey
 msgid "&Show Details"
-msgstr ""
+msgstr "&Приказ детаља"
 
 #: sendReport.label
 msgid "Sending Report"
-msgstr ""
+msgstr "Слање извештаја"
 
 #: sendReport.description
 msgid "Sending Report to server..."
-msgstr ""
+msgstr "Слање извештаја серверу..."
 
 #: finish.label
 msgid "Report Sent"
-msgstr ""
+msgstr "Извештај је послат"

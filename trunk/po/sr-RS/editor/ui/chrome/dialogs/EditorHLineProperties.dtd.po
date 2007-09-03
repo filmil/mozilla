@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorHLineProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:48-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -76,12 +75,12 @@ msgstr "Димензије"
 #: heightEditField.label
 #: heightEditField.accessKey
 msgid "Hei&ght:"
-msgstr "&Висина"
+msgstr "&Висина:"
 
 #: widthEditField.label
 #: widthEditField.accessKey
 msgid "&Width:"
-msgstr "&Ширина"
+msgstr "&Ширина:"
 
 #: pixelsPopup.value
 msgid "pixels"
@@ -105,7 +104,7 @@ msgstr "Средина"
 
 #: centerRadio.accessKey
 msgid "C"
-msgstr "У"
+msgstr "C"
 
 #: rightRadio.value
 msgid "Right"
@@ -113,7 +112,7 @@ msgstr "Десно"
 
 #: rightRadio.accessKey
 msgid "R"
-msgstr "З"
+msgstr "R"
 
 #: threeDShading.label
 #: threeDShading.accessKey

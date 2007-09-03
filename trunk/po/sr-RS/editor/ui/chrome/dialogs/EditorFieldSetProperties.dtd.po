@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorFieldSetProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:29-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,26 +51,26 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: windowTitle.label
 msgid "Field Set Properties"
-msgstr ""
+msgstr "Поставке скупа поља"
 
 #: Legend.label
 #: Legend.accesskey
 msgid "&Legend"
-msgstr ""
+msgstr "&Легенда"
 
 #: EditLegendText.label
 #: EditLegendText.accesskey
 msgid "Edi&t Legend:"
-msgstr ""
+msgstr "&Уреди легенду:"
 
 #: LegendAlign.label
 #: LegendAlign.accesskey
 msgid "&Align Legend:"
-msgstr ""
+msgstr "У&равнај легенду:"
 
 #: AlignDefault.label
 msgid "Default"
-msgstr ""
+msgstr "Изворно"
 
 #: AlignLeft.label
 msgid "Left"
@@ -88,4 +87,4 @@ msgstr "Десно"
 #: RemoveFieldSet.label
 #: RemoveFieldSet.accesskey
 msgid "&Remove Field Set"
-msgstr ""
+msgstr "У&клони скуп поља"

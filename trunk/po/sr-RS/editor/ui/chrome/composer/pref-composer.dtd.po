@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/pref-composer.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:17-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: saving
 msgid "Saving"
-msgstr ""
+msgstr "Чување"
 
 #: AutoSaveCheck
 msgid "Automatically save every"
-msgstr ""
+msgstr "Чувај аутоматски на"
 
 #: minText
 msgid "minutes"
@@ -29,76 +28,76 @@ msgstr "мин"
 
 #: exterLegend.label
 msgid "External Editors"
-msgstr ""
+msgstr "Спољњи уређивач"
 
 #: htmlSource
 msgid "HTML Source:"
-msgstr ""
+msgstr "ХТМЛ извор:"
 
 #: imageeditor
 msgid "Images:"
-msgstr ""
+msgstr "Слике:"
 
 #: chooseButton.label
 msgid "Choose"
-msgstr ""
+msgstr "Избор"
 
 #: recentFiles.title
 msgid "Recent Pages Menu"
-msgstr ""
+msgstr "Списак скорашњих страна"
 
 #: documentsInMenu.label
 #: documentsInMenu.accesskey
 msgid "Maximum &number of pages listed:"
-msgstr ""
+msgstr "&Највећи број страна који се приказује:"
 
 #: savingFiles.title
 msgid "When Saving or Publishing Pages"
-msgstr ""
+msgstr "При чувању или објављивању страна"
 
 #: preserveExisting.label
 #: preserveExisting.accesskey
 msgid "&Preserve original source formatting"
-msgstr ""
+msgstr "&Сачувај изворно форматирање"
 
 #: preserveExisting.tooltip
 msgid "Preserves line breaks and page's original formatting"
-msgstr ""
+msgstr "Чува преломе редова и изворно форматирање"
 
 #: saveAssociatedFiles.label
 #: saveAssociatedFiles.accesskey
 msgid "&Save images and other associated files when saving pages"
-msgstr ""
+msgstr "&Чува слиле и остале придружене датотеке при чувању страна"
 
 #: showPublishDialog.label
 #: showPublishDialog.accesskey
 msgid "&Always show Publish dialog when publishing pages"
-msgstr ""
+msgstr "&Увек приказуј дијалог за објављивање при објављивању страна"
 
 #: composerEditing.label
 msgid "Editing"
-msgstr ""
+msgstr "Уређивање"
 
 #: spellCheckInline.label
 #: spellCheckInline.accesskey
 msgid "&Check spelling as you type"
-msgstr ""
+msgstr "&Провера правописа док куцате"
 
 #: maintainStructure.label
 #: maintainStructure.accesskey
 msgid "&Maintain table layout when inserting or deleting cells"
-msgstr ""
+msgstr "&Одржавај изглед табеле при уметању и уклањању ћелија"
 
 #: maintainStructure.tooltip
 msgid "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells"
-msgstr ""
+msgstr "Чува правоугаони облик табеле аутоматским додавањем ћелија пре уметања или уклањања ћелија"
 
 #: useCSS.label
 #: useCSS.accesskey
 msgid "&Use CSS styles instead of HTML elements and attributes"
-msgstr ""
+msgstr "&Користи CSS уместо HTML елемената и атрибута"
 
 #: crInPCreatesNewP.label
 #: crInPCreatesNewP.accesskey
 msgid "&Return in a paragraph always creates a new paragraph"
-msgstr ""
+msgstr "&Нови ред унутар пасуса увек прави нови пасус"

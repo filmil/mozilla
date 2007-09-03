@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:41-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +24,11 @@ msgstr "Објави"
 
 #: maintainCheckbox.label
 msgid "Maintain links"
-msgstr ""
+msgstr "Одржавај везе"
 
 #: keepCheck.label
 msgid "Keep images with page"
-msgstr ""
+msgstr "Држи слике заједно са страном"
 
 #: adjustDesc.label
 msgid ""
@@ -36,6 +36,8 @@ msgid ""
 "Adjust links to work from the page's location. (Links to local pages will work when "
 "\t\t\t          local versions exist.)           "
 msgstr ""
+"Покушај да задржиш приближне дужине линија, преломе редова и размаке.\n"
+"Измени везе како би одговарале месту странице. (Везе на локалне странице ће радити када постоје локални примерци.)"
 
 #: saveDesc.label
 msgid ""
@@ -43,14 +45,16 @@ msgid ""
 "Save copies of images to the page's location.  Images will always "
 "\t\t\t\t  appear in local versions of the page and when the page is published."
 msgstr ""
+"Покушај да задржиш приближне дужине линија, преломе редова и размаке.\n"
+"Сачувај умношке слика поред странице. (Везе на локалне странице ће радити када постоје локални примерци.)"
 
 #: tip.label
 msgid "Tip: Check both options if you will be using remote publishing."
-msgstr ""
+msgstr "Савет: Изаберите обе опције ако користите удаљено објављивање."
 
 #: defaultHeader.label
 msgid "Default publishing location"
-msgstr ""
+msgstr "Изворно место за објављивање"
 
 #: publishFtp.label
 #: publishhtp.label
@@ -58,3 +62,5 @@ msgid ""
 "_: Edit box appears beside this label\n"
 "If publishing to a FTP site, enter the HTTP address to browse to:"
 msgstr ""
+"Кутија за унос појављује се поред ове ознаке\n"
+"Ако објављујете на ФТП место, унесите ХТТП адресу:"

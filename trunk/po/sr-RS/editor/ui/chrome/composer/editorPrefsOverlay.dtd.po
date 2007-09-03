@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/composer/editorPrefsOverlay.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:11-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,20 +16,20 @@ msgstr ""
 
 #: editorCheck.accesskey
 msgid "c"
-msgstr "З"
+msgstr "c"
 
 #: compose.label
 msgid "Composer"
-msgstr ""
+msgstr "Састављач"
 
 #: editing.label
 msgid "New Page Settings"
-msgstr ""
+msgstr "Подешавања нове стране"
 
 #: toolbars.label
 msgid "Toolbars"
-msgstr ""
+msgstr "Алатне траке"
 
 #: publish.label
 msgid "Publishing"
-msgstr ""
+msgstr "Објављивање"

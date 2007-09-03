@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorPublish.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 10:11-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -58,7 +57,7 @@ msgstr "Објави страну"
 
 #: windowTitleSettings.label
 msgid "Publish Settings"
-msgstr ""
+msgstr "Поставке за објављивање"
 
 #: publishTab.label
 #: publishButton.label
@@ -73,100 +72,100 @@ msgstr "Подешавања"
 #: siteList.label
 #: siteName.label
 msgid "Site Name:"
-msgstr ""
+msgstr "Име места:"
 
 #: siteList.tooltip
 msgid "Choose the site that you want to publish to"
-msgstr ""
+msgstr "Изаберите место где желите да објавите"
 
 #: newSiteButton.label
 msgid "New Site"
-msgstr ""
+msgstr "Ново место"
 
 #: siteDirList.label
 msgid "Select or type a directory name in your publishing site:"
-msgstr ""
+msgstr "Изаберите или унесите име директоријума на месту за објављивање:"
 
 #: siteDirList.tooltip
 msgid "Choose or enter the name of the remote subdirectory to publish to"
-msgstr ""
+msgstr "Изаберите или унесите име удаљенод директоријума за објављивање"
 
 #: docDirList.label
 msgid "Site subdirectory for this page:"
-msgstr ""
+msgstr "Поддиректоријум за ову страну:"
 
 #: publishImgCheckbox.label
 msgid "Include images and other files"
-msgstr ""
+msgstr "Укључи слике и остале датотеке"
 
 #: publishImgCheckbox.tooltip
 msgid "Publish images and other files referenced by this page"
-msgstr ""
+msgstr "Објави слике и остале датотеке које помиње ова страница"
 
 #: sameLocationRadio.label
 msgid "Use same location as page"
-msgstr ""
+msgstr "Користи исто место као и страна"
 
 #: sameLocationRadio.tooltip
 msgid "Publish files to the same location as the page"
-msgstr ""
+msgstr "Објављује датотеке на исто место где се објављује и страна"
 
 #: useSubdirRadio.label
 msgid "Use this site subdirectory:"
-msgstr ""
+msgstr "Користи овај поддиректоријум:"
 
 #: useSubdir.tooltip
 msgid "Choose or enter name of remote subdirectory where files will be published"
-msgstr ""
+msgstr "Изаберите или унесите име удаљеног поддиректоријума где ће бити објављени подаци"
 
 #: chooseDirButton.label
 msgid "Choose..."
-msgstr ""
+msgstr "Избор..."
 
 #: pageTitle.label
 msgid "Page Title:"
-msgstr ""
+msgstr "Наслов стране:"
 
 #: pageTitle.tooltip
 msgid "Enter a title to identify the page in the window and in bookmarks"
-msgstr ""
+msgstr "Унесите наслов за идентификацију стране у прозору са белешкама"
 
 #: pageTitleExample.label
 msgid "e.g.: &quot;My Web Page&quot;"
-msgstr ""
+msgstr "нпр.: &quot;Моја страна&quot;"
 
 #: filename.label
 msgid "Filename:"
-msgstr ""
+msgstr "Датотека:"
 
 #: filename.tooltip
 msgid "Enter a name for this file, including '.html' for a web page"
-msgstr ""
+msgstr "Унесите име за ову датотеку, укључите и наставак „.html‟"
 
 #: filenameExample.label
 msgid "e.g,: &quot;mypage.html&quot;"
-msgstr ""
+msgstr "нпр.,: &quot;мојастрана.html&quot;"
 
 #: relatedDocs.label
 msgid "Other files to publish"
-msgstr ""
+msgstr "Остале датотеке за објављивање"
 
 #: setDefaultButton.label
 msgid "Set as Default"
-msgstr ""
+msgstr "Постави као подразумевано"
 
 #: setDefSiteAndDir.label
 msgid "Set as Default Site and Directory"
-msgstr ""
+msgstr "Постави као подразумевано место и директоријум"
 
 #: removeButton.label
 msgid "Remove Site"
-msgstr ""
+msgstr "Уклони место"
 
 # Settings Tab Panel
 #: publishSites.label
 msgid "Publishing Sites"
-msgstr ""
+msgstr "Објављена места"
 
 # Entities for Server page
 #: serverInfo.label
@@ -175,35 +174,35 @@ msgstr "Подаци о серверу"
 
 #: loginInfo.label
 msgid "Login Information"
-msgstr ""
+msgstr "Подаци за пријаву"
 
 #: siteName.tooltip
 msgid "A nickname that identifies this publishing site (e.g.: 'MySite')"
-msgstr ""
+msgstr "Име које Вас идентификује на месту за објаву"
 
 #: siteUrl.label
 msgid "Publishing address (e.g.: 'ftp://ftp.myisp.com/myusername'):"
-msgstr ""
+msgstr "Адреса за објаву (нпр.: 'ftp://ftp.myisp.com/myusername'):"
 
 #: siteUrl.tooltip
 msgid "The FTP:// or HTTP:// address provided by your ISP or web hosting service"
-msgstr ""
+msgstr "Адреса за FTP:// или HTTP:// коју Вам је уступио добављач Интернета или хостинга"
 
 #: browseUrl.label
 msgid "HTTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):"
-msgstr ""
+msgstr "HTTP адреса Ваше стране (нпр.: 'http://www.myisp.com/myusername'):"
 
 #: browseUrl.tooltip
 msgid "The HTTP:// address of your home directory (don't include filename)"
-msgstr ""
+msgstr "HTTP:// адреса Вашег директоријума (без имена датотека)"
 
 #: username.label
 msgid "User name:"
-msgstr ""
+msgstr "Кор. име:"
 
 #: username.tooltip
 msgid "The user name you use to log in to your ISP or web hosting service"
-msgstr ""
+msgstr "Корисничко име које користите за пријаву на добављача Интернета или хостинга"
 
 #: password.label
 msgid "Password:"
@@ -211,12 +210,12 @@ msgstr "Лозинка:"
 
 #: password.tooltip
 msgid "The password associated with your user name"
-msgstr ""
+msgstr "Лозинка повезана са Вашим корисничким именом"
 
 #: savePassword.label
 msgid "Save Password"
-msgstr ""
+msgstr "Сачувај лозинку"
 
 #: savePassword.tooltip
 msgid "Select this to save your password securely using Password Manager"
-msgstr ""
+msgstr "Изаберите ово како бисте безбедно сачували лозинку употребом управника лозинкама"

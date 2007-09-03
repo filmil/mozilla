@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorButtonProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 11:16-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,20 +51,20 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: windowTitle.label
 msgid "Button Properties"
-msgstr ""
+msgstr "Подешавања дугмета"
 
 #: Settings.label
 msgid "Settings"
-msgstr "Подешавања"
+msgstr "Поставке"
 
 #: ButtonType.label
 #: ButtonType.accesskey
 msgid "&Type"
-msgstr ""
+msgstr "&Врста"
 
 #: submit.value
 msgid "Submit"
-msgstr ""
+msgstr "Пошаљи"
 
 #: reset.value
 msgid "Reset"
@@ -83,24 +82,24 @@ msgstr "&Име:"
 #: ButtonValue.label
 #: ButtonValue.accesskey
 msgid "&Value:"
-msgstr ""
+msgstr "В&редност:"
 
 #: tabIndex.label
 #: tabIndex.accesskey
 msgid "Tab &Index:"
-msgstr ""
+msgstr "Индекс &језичка:"
 
 #: ButtonDisabled.label
 #: ButtonDisabled.accesskey
 msgid "&Disabled"
-msgstr ""
+msgstr "&Искључено"
 
 #: AccessKey.label
 #: AccessKey.accesskey
 msgid "Access &Key:"
-msgstr ""
+msgstr "Тастер за при&ступ:"
 
 #: RemoveButton.label
 #: RemoveButton.accesskey
 msgid "&Remove Button"
-msgstr ""
+msgstr "&Уклони дугме"

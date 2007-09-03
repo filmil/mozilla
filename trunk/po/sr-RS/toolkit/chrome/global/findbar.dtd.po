@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/toolkit/chrome/global/findbar.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-30 10:43-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,23 +19,21 @@ msgstr ""
 # entities split out from browser.dtd
 #: next.label
 #: next.accesskey
-#, fuzzy
 msgid "&Next"
-msgstr "Н"
+msgstr "&Следећа"
 
 #: next.tooltip
 msgid "Find the next occurrence of the phrase"
-msgstr ""
+msgstr "Налази наредну појаву фразе"
 
 #: previous.label
 #: previous.accesskey
-#, fuzzy
 msgid "&Previous"
-msgstr "Ш"
+msgstr "&Претходна"
 
 #: previous.tooltip
 msgid "Find the previous occurrence of the phrase"
-msgstr ""
+msgstr "Налази претходну појаву фразе"
 
 #: findCloseButton.tooltip
 msgid "Close Find bar"
@@ -45,13 +42,13 @@ msgstr "Затвара линију претраге"
 #: highlight.label
 #: highlight.accesskey
 msgid "Highlight &all"
-msgstr "О&светли све"
+msgstr "И&стакни све"
 
 #: highlight.tooltiptext
 msgid "Highlight all occurrences of the phrase"
-msgstr ""
+msgstr "Истиче све појаве фразе"
 
 #: caseSensitiveCheckbox.label
 #: caseSensitiveCheckbox.accesskey
 msgid "Mat&ch case"
-msgstr "Пазликуј &мала и велика слова"
+msgstr "Разликуј &мала и велика слова"

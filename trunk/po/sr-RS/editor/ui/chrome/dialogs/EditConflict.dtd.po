@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditConflict.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:26-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,20 +53,20 @@ msgstr ""
 # Window title
 #: windowTitle.label
 msgid "Select Edit Changes"
-msgstr ""
+msgstr "Изаберите промене уређивања"
 
 #: conflictWarning.label
 msgid "This page has been modified by another program, but you also have unsaved changes in Composer."
-msgstr ""
+msgstr "Ову страну је изменио неки други програм, иако још увек имате несачуване измене у уређивачу."
 
 #: conflictResolve.label
 msgid "Select which version to keep:"
-msgstr ""
+msgstr "Изаберите које издање ћете да задржите:"
 
 #: keepCurrentPageButton.label
 msgid "Keep current page changes"
-msgstr ""
+msgstr "Задржи тренутне измене на страни"
 
 #: useOtherPageButton.label
 msgid "Replace current page with other changes"
-msgstr ""
+msgstr "Замени са страном са другим изменама"

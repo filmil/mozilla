@@ -1,3 +1,24 @@
+2007-08-30  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/help/platformStrings.dtd.po: Translated all 
+
+	* jobs/01/none: Changed .xhtml.po to .xhtml, because they are.
+
+	* CVS_MESSAGE: Added custom CVS message.
+
+	* po/sr-RS/browser/installer/custom.properties.po: This is the last file that was not touched a single time.
+	Completed translation of the program files.  
+
+	Translation of the help files remain.
+
+2007-08-29  Filip Miletic  <filmil@gmail.com>
+
+	* jobs/01/none: Completed all translations of "normal" files.
+
+	* po/sr-RS/editor/ui/chrome/composer/editorSmileyOverlay.dtd.po: Added explanations for the smiley faces.
+
+	* jobs/01/none: Moved instalation properties at the end of the translation list.
+
 2007-06-14  Filip Miletic  <filmil@gmail.com>
 
 	* pot/sr-RS/other-licenses/branding/firefox/brand.properties.pot: removed obsolete entries

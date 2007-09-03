@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/preferences/security.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-06-15 00:43+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +17,7 @@ msgstr ""
 #: warnAddonInstall.label
 #: warnAddonInstall.accesskey
 msgid "&Warn me when sites try to install add-ons"
-msgstr ""
+msgstr "&Упозори ме ако ел. места пробају да инсталирају додатке"
 
 # The methods by which forged (phished) sites will be detected by phishing
 # providers will vary from human review to machine-based heuristics to a
@@ -32,12 +31,12 @@ msgstr ""
 msgid ""
 "_: \n"
 "&Tell me if the site I'm visiting is a suspected forgery"
-msgstr ""
+msgstr "У&позори ако је ел. место које посећујем можда лажирано"
 
 #: useDownloadedList.label
 #: useDownloadedList.accesskey
 msgid "Check using a &downloaded list of suspected sites"
-msgstr ""
+msgstr "Провери помоћу &списка сумњивих ел. места"
 
 # The entities askThirdParty.label and askThirdPartyAfter.label appear on a
 # single line in preferences as follows:
@@ -50,55 +49,55 @@ msgstr ""
 msgid ""
 "_: \n"
 "Check by &asking"
-msgstr ""
+msgstr "Провери &упитом"
 
 #: askThirdPartyAfter.label
 msgid "about each site I visit"
-msgstr ""
+msgstr "за свако место које посетим"
 
 #: addonExceptions.label
 #: addonExceptions.accesskey
 msgid "&Exceptions..."
-msgstr ""
+msgstr "&Изузеци..."
 
 #: passwords.label
 msgid "Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: rememberPasswords.label
 #: rememberPasswords.accesskey
 msgid "&Remember passwords for sites"
-msgstr ""
+msgstr "&Запамти лозинке за ел. места"
 
 #: passwordExceptions.label
 #: passwordExceptions.accesskey
 msgid "E&xceptions..."
-msgstr ""
+msgstr "Из&узеци..."
 
 #: useMasterPassword.label
 #: useMasterPassword.accesskey
 msgid "&Use a master password"
-msgstr ""
+msgstr "&Користи главну лозинку"
 
 #: changeMasterPassword.label
 #: changeMasterPassword.accesskey
 msgid "Change &Master Password..."
-msgstr ""
+msgstr "&Промена главне лозинке..."
 
 #: showPasswords.label
 #: showPasswords.accesskey
 msgid "Show &Passwords..."
-msgstr ""
+msgstr "Прикажи &лозинке..."
 
 #: warnings.label
 msgid "Warning Messages"
-msgstr ""
+msgstr "Поруке упозорења"
 
 #: chooseWarnings.label
 msgid "Choose which warning messages you want to see while browsing the web"
-msgstr ""
+msgstr "Изаберите поруке упозорења које желите да видите при читању страна"
 
 #: warningSettings.label
 #: warningSettings.accesskey
 msgid "&Settings..."
-msgstr ""
+msgstr "&Подешавања..."

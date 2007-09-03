@@ -19,7 +19,9 @@ all: stats publish
 # Слање измена у Мозилин ЦВС
 publish: clean output
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
-	( $(CD) $(MOZILLA_CVS) ; $(CVS) -z3 commit -m "Updated Serbian l10n" )
+	( MSG=`cat $(CVS_MSG)` ; \
+	  $(CD) $(MOZILLA_CVS) ; \
+          $(CVS) -z3 commit -m "$$MSG" )
 
 # Чишћење генерисаних датотека
 clean:

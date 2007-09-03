@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorFormProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:39-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +51,7 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: windowTitle.label
 msgid "Form Properties"
-msgstr ""
+msgstr "Поставке формулара"
 
 #: Settings.label
 msgid "Settings"
@@ -61,29 +60,29 @@ msgstr "Подешавања"
 #: FormName.label
 #: FormName.accesskey
 msgid "Form &Name:"
-msgstr ""
+msgstr "&Име:"
 
 #: FormAction.label
 #: FormAction.accesskey
 msgid "&Action URL:"
-msgstr ""
+msgstr "&Дејство:"
 
 #: FormMethod.label
 #: FormMethod.accesskey
 msgid "&Method:"
-msgstr ""
+msgstr "&Метода:"
 
 #: FormEncType.label
 #: FormEncType.accesskey
 msgid "En&coding:"
-msgstr ""
+msgstr "&Кодирање:"
 
 #: FormTarget.label
 #: FormTarget.accesskey
 msgid "&Target Frame:"
-msgstr ""
+msgstr "&Циљни оквир:"
 
 #: RemoveForm.label
 #: RemoveForm.accesskey
 msgid "&Remove Form"
-msgstr ""
+msgstr "&Уклони"

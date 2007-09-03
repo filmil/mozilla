@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorLabelProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 10:34-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,29 +51,29 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: windowTitle.label
 msgid "Label Properties"
-msgstr ""
+msgstr "Својства етикете"
 
 #: Settings.label
 #: Settings.accesskey
 msgid "&Settings"
-msgstr ""
+msgstr "&Поставке"
 
 #: EditLabelText.label
 #: EditLabelText.accesskey
 msgid "Edit &Text:"
-msgstr ""
+msgstr "&Уреди текст:"
 
 #: LabelFor.label
 #: LabelFor.accesskey
 msgid "&For Control:"
-msgstr ""
+msgstr "&За контролу:"
 
 #: AccessKey.label
 #: AccessKey.accesskey
 msgid "Access &Key:"
-msgstr ""
+msgstr "Тастер за &приступ:"
 
 #: RemoveLabel.label
 #: RemoveLabel.accesskey
 msgid "&Remove Label"
-msgstr ""
+msgstr "&Уклони ознаку"

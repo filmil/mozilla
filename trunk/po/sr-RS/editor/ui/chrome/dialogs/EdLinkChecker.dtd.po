@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EdLinkChecker.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-08-29 09:38-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,23 +54,23 @@ msgstr ""
 # Window title
 #: windowTitle.label
 msgid "Check Image and Link Locations"
-msgstr ""
+msgstr "Провера места слика и веза"
 
 #: urlsNotFound.label
 msgid "The following image or link locations were not found:"
-msgstr ""
+msgstr "Наведене слике и одредишта веза нису пронађене:"
 
 #: notFoundKey.label
 msgid "(&quot;X&quot; = file not found, &quot;?&quot; = timed-out attempting to connect.)"
-msgstr ""
+msgstr "(&quot;X&quot; = датотека није пронађена, &quot;?&quot; = време истекло током покушаја везе.)"
 
 #: changeUrlButton.label
 msgid "Change Location of Selected Item"
-msgstr ""
+msgstr "Промена одредишта изабране ставке"
 
 #: succeeded.label
 msgid "Succeeded"
-msgstr ""
+msgstr "Успешно"
 
 #: failed.label
 msgid "Failed"
