@@ -1,0 +1,12 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Метак</os:ShortName>
+<os:Description>Метак: речник</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AdHTH/R8fpv0BAZr9AQGa/XR0x/10dMf9AQGa/QEBmv0fH6b9dHTH/R8fpv0BAZr9AQGa/XR0x/3///8AdHTH/QEBmv0BAZr9AQGa/QEBmv0BAZr9AQGa/QEBmv0BAZr9AQGa/QEBmv0BAZr9AQGa/QEBmv0BAZr9dHTH/R8fpv0BAZr9dHTH/a3N+P10dMf9AQGa/QEBmv2tzfj9rc34/R8fpv0BAZr9dHTH/a3N+P10dMf9AQGa/R8fpv0BAZr9AQGa/XR0x/2tzfj9dHTH/QEBmv0fH6b9rc34/a3N+P0fH6b9AQGa/XR0x/2tzfj9dHTH/QEBmv0fH6b9AQGa/QEBmv10dMf9rc34/XR0x/0BAZr9Hx+m/a3N+P2tzfj9Hx+m/QEBmv10dMf9rc34/XR0x/0BAZr9Hx+m/R8fpv0BAZr9dHTH/a3N+P10dMf9AQGa/R8fpv2tzfj9rc34/XR0x/0BAZr9dHTH/a3N+P10dMf9AQGa/R8fpv0fH6b9AQGa/XR0x/2tzfj9rc34/XR0x/10dMf9rc34/a3N+P2tzfj9dHTH/a3N+P2tzfj9dHTH/QEBmv10dMf9dHTH/QEBmv0BAZr9dHTH/a3N+P2tzfj9rc34/a3N+P2tzfj9rc34/a3N+P2tzfj9rc34/R8fpv0BAZr9dHTH/f///wB0dMf9AQGa/QEBmv10dMf9dHTH/XR0x/0fH6b9Hx+m/XR0x/10dMf9dHTH/R8fpv0BAZr9Hx+m/f///wD///8A////AHR0x/0BAZr9AQGa/QEBmv0BAZr9AQGa/QEBmv0BAZr9AQGa/QEBmv0BAZr9Hx+m/f///wD///8A////AP///wD///8AdHTH/R8fpv0fH6b9Hx+m/XR0x/10dMf9Hx+m/R8fpv0fH6b9dHTH/f///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//8AAP//AAD//wAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAwAMAAOAHAAD//wAA//8AAA==</os:Image>
+<UpdateInterval>7</UpdateInterval>
+<UpdateUrl>http://metak.sosko.org/Metak.src</UpdateUrl>
+<IconUpdateUrl>http://www.metak.com/favicon.ico</IconUpdateUrl>
+<SearchForm>http://www.metak.com/</SearchForm>
+<os:Url type="text/html" method="GET" template="http://metak.sosko.org/s.php?q={searchTerms}">
+</os:Url>
+</SearchPlugin>

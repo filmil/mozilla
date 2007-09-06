@@ -4,3 +4,8 @@ creativecommons
 eBay
 google
 yahoo
+wikipedia-sr
+vokabular
+google-es
+metak
+
