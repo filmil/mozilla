@@ -1,0 +1,106 @@
+2007-09-06  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/searchplugins/list.txt: Added to list
+
+	* NOTES: Added the serbian search engines and news aggregators
+
+2007-09-04  Filip Miletic  <filmil@gmail.com>
+
+	* product-pages/support/index.html: Completed product page translation
+
+	* Added product pages
+
+2007-08-30  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/help/platformStrings.dtd.po: Translated all 
+
+	* jobs/01/none: Changed .xhtml.po to .xhtml, because they are.
+
+	* CVS_MESSAGE: Added custom CVS message.
+
+	* po/sr-RS/browser/installer/custom.properties.po: This is the last file that was not touched a single time.
+	Completed translation of the program files.  
+
+	Translation of the help files remain.
+
+2007-08-29  Filip Miletic  <filmil@gmail.com>
+
+	* jobs/01/none: Completed all translations of "normal" files.
+
+	* po/sr-RS/editor/ui/chrome/composer/editorSmileyOverlay.dtd.po: Added explanations for the smiley faces.
+
+	* jobs/01/none: Moved instalation properties at the end of the translation list.
+
+2007-06-14  Filip Miletic  <filmil@gmail.com>
+
+	* pot/sr-RS/other-licenses/branding/firefox/brand.properties.pot: removed obsolete entries
+
+	* po/sr-RS/other-licenses/branding/firefox/brand.properties.po: Removed obsolete entries
+
+	* source/sr-RS/other-licenses/branding/firefox/brand.properties (homePageImport): Removed obsolete entries.
+
+	* Added Serbian spell check
+
+2007-06-13  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/defines.inc.po: Added Игор Милетић to credits, for the spelling checker
+
+	* po/sr-RS/browser/chrome/browser/preferences/preferences.properties.po: More translations
+
+2007-06-11  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po: More translations
+
+2007-06-10  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/dom/chrome/nsWebBrowserPersist.properties.po: Иепisмеn
+
+	* po/sr-RS/security/manager/chrome/pippki/pref-ssl.dtd.po: Changed access keys
+
+	* po/sr-RS/security/manager/chrome/pipnss/pipnss.properties.po: More translations
+
+	* More new translations
+
+2007-04-15  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po:  Још превода.
+
+	* Makefile (publish): Додат циљ за објаву превода у ЦВС
+
+2007-04-12  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger/search-attributes.properties.po: Још превода. 
+
+2007-01-26  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger/start.dtd.po: Још превода.
+
+	* po/sr-RS/mail/chrome/messenger/am-main.dtd.po: Још превода.
+
+2007-01-25  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/toolkit/installer/windows/install.it.po: Готов
+	Виндовсов инсталатер.
+
+2007-01-23  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/toolkit/chrome/global/filepicker.properties.po: Дошао
+	сам довде у превођењу.
+
+	* uputstvo.utf8.txt: Реорганизовао датотеке.
+
+2006-11-16  Filip Miletic  <filmil@gmail.com>
+
+	* ZADACI.utf8.txt: Refresh.
+
+	* scripts/blind-copy.sh (CMDLINE): Added script to blind copy files.
+	Some additional refactoring.
+
+2006-11-15  Filip Miletic  <filmil@gmail.com>
+
+	* dictionary/thunderbird.po: Почео сам са уређивањем датотеке
+
+2006-11-14  Filip Miletic  <filmil@gmail.com>
+
+	* Први упис.
+

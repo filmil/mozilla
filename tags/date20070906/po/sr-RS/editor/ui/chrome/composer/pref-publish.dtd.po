@@ -1,0 +1,66 @@
+# extracted from source/sr-RS/editor/ui/chrome/composer/pref-publish.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-08-29 11:41-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# extracted from content/pref-publish.xul
+# LOCALIZATION NOTE : FILE The Publish preferences screen
+#: pref.publish.title
+#: composerHeader.label
+msgid "Publish"
+msgstr "Објави"
+
+#: maintainCheckbox.label
+msgid "Maintain links"
+msgstr "Одржавај везе"
+
+#: keepCheck.label
+msgid "Keep images with page"
+msgstr "Држи слике заједно са страном"
+
+#: adjustDesc.label
+msgid ""
+"_: Attempt to maintain approximate line length, linefeeds and white space\n"
+"Adjust links to work from the page's location. (Links to local pages will work when "
+"\t\t\t          local versions exist.)           "
+msgstr ""
+"Покушај да задржиш приближне дужине линија, преломе редова и размаке.\n"
+"Измени везе како би одговарале месту странице. (Везе на локалне странице ће радити када постоје локални примерци.)"
+
+#: saveDesc.label
+msgid ""
+"_: Attempt to maintain approximate line length, linefeeds and white space\n"
+"Save copies of images to the page's location.  Images will always "
+"\t\t\t\t  appear in local versions of the page and when the page is published."
+msgstr ""
+"Покушај да задржиш приближне дужине линија, преломе редова и размаке.\n"
+"Сачувај умношке слика поред странице. (Везе на локалне странице ће радити када постоје локални примерци.)"
+
+#: tip.label
+msgid "Tip: Check both options if you will be using remote publishing."
+msgstr "Савет: Изаберите обе опције ако користите удаљено објављивање."
+
+#: defaultHeader.label
+msgid "Default publishing location"
+msgstr "Изворно место за објављивање"
+
+#: publishFtp.label
+#: publishhtp.label
+msgid ""
+"_: Edit box appears beside this label\n"
+"If publishing to a FTP site, enter the HTTP address to browse to:"
+msgstr ""
+"Кутија за унос појављује се поред ове ознаке\n"
+"Ако објављујете на ФТП место, унесите ХТТП адресу:"

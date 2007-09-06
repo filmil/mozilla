@@ -1,0 +1,38 @@
+# extracted from source/sr-RS/browser/chrome/browser/preferences/feeds.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-13 01:04+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: feedClick.label
+msgid "When I click on a web feed:"
+msgstr "Када изаберем мрежни довод:"
+
+#: showPreview.label
+#: showPreview.accesskey
+msgid "&Show me a preview and ask me which Feed Reader to use"
+msgstr "&Прикажи преглед и питај који читач желим да користим"
+
+#: subscribeUsing.label
+#: subscribeUsing.accesskey
+msgid "S&ubscribe to the feed using:"
+msgstr "&Претплати се на довод употребом:"
+
+#: liveBookmarks.label
+msgid "Live Bookmarks"
+msgstr "живих ознака"
+
+#: chooseApplication.label
+#: chooseApplication.accesskey
+msgid "&Choose Application..."
+msgstr "&програма по жељи..."

@@ -1,0 +1,491 @@
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is mozilla.org code.
+#
+# The Initial Developer of the Original Code is
+# Netscape Communications Corporation.
+# Portions created by the Initial Developer are Copyright (C) 1998
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s):
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+# extracted from source/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-10 23:29+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: description_PersonalToolbarFolder
+msgid "Folders and bookmarks in this folder appear on the Bookmarks Toolbar."
+msgstr "Каталози и везе у овом каталогу ће се појавити у линији алатки."
+
+#: cmd_bm_open
+msgid "Open"
+msgstr "Отвори"
+
+#: cmd_bm_open_accesskey
+#: cmd_bm_openfolder_accesskey
+msgid "O"
+msgstr "O"
+
+#: cmd_bm_expandfolder
+msgid "Expand"
+msgstr "Прошири"
+
+#: cmd_bm_expandfolder_accesskey
+msgid "x"
+msgstr "ш"
+
+#: cmd_bm_collapsefolder
+msgid "Collapse"
+msgstr "Умањи"
+
+#: cmd_bm_collapsefolder_accesskey
+#: cmd_copy_accesskey
+msgid "C"
+msgstr "у"
+
+#: cmd_bm_openfolder
+msgid "Open All in Tabs"
+msgstr "Отвори по језичцима"
+
+#: cmd_bm_managefolder
+msgid "Manage Folder"
+msgstr "Управљај каталозима"
+
+#: cmd_bm_managefolder_accesskey
+#: cmd_bm_movebookmark_accesskey
+msgid "M"
+msgstr "M"
+
+#: cmd_bm_find
+msgid "Find a Bookmark..."
+msgstr "Пронађи везу..."
+
+#: cmd_cut
+msgid "Cut"
+msgstr "Исеци"
+
+#: cmd_cut_accesskey
+msgid "t"
+msgstr "с"
+
+#: cmd_copy
+msgid "Copy"
+msgstr "Умножи"
+
+#: cmd_paste
+msgid "Paste"
+msgstr "Убаци"
+
+#: cmd_paste_accesskey
+msgid "P"
+msgstr "б"
+
+#: cmd_delete
+msgid "Delete"
+msgstr "Обриши"
+
+#: cmd_delete_accesskey
+msgid "D"
+msgstr "о"
+
+#: cmd_bm_movebookmark
+msgid "Move Bookmark(s)..."
+msgstr "Премести везу(е)..."
+
+#: cmd_selectAll
+msgid "Select All"
+msgstr "Изабери све"
+
+#: cmd_selectAll_accesskey
+msgid "A"
+msgstr "с"
+
+#: cmd_bm_rename
+msgid "Rename..."
+msgstr "Преименуј..."
+
+#: cmd_bm_rename_accesskey
+#: cmd_bm_redo_accesskey
+#: cmd_bm_cut_redo_accesskey
+#: cmd_bm_delete_redo_accesskey
+#: cmd_bm_paste_redo_accesskey
+#: cmd_bm_newbookmark_redo_accesskey
+#: cmd_bm_newlivemark_redo_accesskey
+#: cmd_bm_newfolder_redo_accesskey
+#: cmd_bm_newseparator_redo_accesskey
+#: cmd_bm_drag_redo_accesskey
+#: cmd_bm_move_redo_accesskey
+#: cmd_bm_import_redo_accesskey
+msgid "R"
+msgstr "R"
+
+#: cmd_bm_renamebookmark2
+msgid "Change Location..."
+msgstr "Измени адресу..."
+
+#: cmd_bm_renamebookmark2_accesskey
+#: cmd_bm_refreshlivemark_accesskey
+#: cmd_bm_refreshmicrosummary_accesskey
+msgid "L"
+msgstr "L"
+
+#: cmd_bm_properties
+msgid "Properties"
+msgstr "Својства"
+
+#: cmd_bm_properties_accesskey
+msgid "r"
+msgstr "с"
+
+#: cmd_bm_refreshlivemark
+msgid "Reload Live Bookmark"
+msgstr "Освежи вести уживо"
+
+#: cmd_bm_refreshmicrosummary
+msgid "Reload Live Title"
+msgstr "Поново учитај живи наслов"
+
+#: cmd_bm_sortbyname
+msgid "Sort By Name"
+msgstr "Поређај по имену"
+
+#: cmd_bm_sortbyname_accesskey
+#: cmd_bm_newseparator_accesskey
+msgid "S"
+msgstr "S"
+
+#: cmd_bm_undo
+msgid "Undo"
+msgstr "Опозови"
+
+#: cmd_bm_undo_accesskey
+#: cmd_bm_cut_undo_accesskey
+#: cmd_bm_delete_undo_accesskey
+#: cmd_bm_paste_undo_accesskey
+#: cmd_bm_newbookmark_undo_accesskey
+#: cmd_bm_newlivemark_undo_accesskey
+#: cmd_bm_newfolder_undo_accesskey
+#: cmd_bm_newseparator_undo_accesskey
+#: cmd_bm_drag_undo_accesskey
+#: cmd_bm_move_undo_accesskey
+#: cmd_bm_import_undo_accesskey
+msgid "U"
+msgstr "U"
+
+#: cmd_bm_cut_undo
+msgid "Undo Cut"
+msgstr "Опозови исецање"
+
+#: cmd_bm_delete_undo
+msgid "Undo Delete Bookmark"
+msgstr "Опозови брисање везе"
+
+#: cmd_bm_paste_undo
+msgid "Undo Paste"
+msgstr "Опозови убацивање"
+
+#: cmd_bm_newbookmark_undo
+msgid "Undo New Bookmark"
+msgstr "Опозови стварање нове везе"
+
+#: cmd_bm_newlivemark_undo
+msgid "Undo New Live Bookmark"
+msgstr "Опозови везу ка вести уживо"
+
+#: cmd_bm_newfolder_undo
+msgid "Undo New Folder"
+msgstr "Опозови стварање каталога"
+
+#: cmd_bm_newseparator_undo
+msgid "Undo New Separator"
+msgstr "Опозови стварање размака"
+
+#: cmd_bm_drag_undo
+msgid "Undo Drag Bookmark"
+msgstr "Опозови повлачење везе"
+
+#: cmd_bm_move_undo
+msgid "Undo Move Bookmark"
+msgstr "Опозови премештање везе"
+
+#: cmd_bm_import_undo
+msgid "Undo Import"
+msgstr "Опозови увоз"
+
+#: cmd_bm_redo
+msgid "Redo"
+msgstr "Понови"
+
+#: cmd_bm_cut_redo
+msgid "Redo Cut"
+msgstr "Понови исецање"
+
+#: cmd_bm_delete_redo
+msgid "Redo Delete Bookmark"
+msgstr "Понови брисање везе"
+
+#: cmd_bm_paste_redo
+msgid "Redo Paste"
+msgstr "Понови убацивање"
+
+#: cmd_bm_newbookmark_redo
+msgid "Redo New Bookmark"
+msgstr "Понови стварање нове везе"
+
+#: cmd_bm_newlivemark_redo
+msgid "Redo New Live Bookmark"
+msgstr "Обнови везу ка вести уживо"
+
+#: cmd_bm_newfolder_redo
+msgid "Redo New Folder"
+msgstr "Понови стварање каталога"
+
+#: cmd_bm_newseparator_redo
+msgid "Redo New Separator"
+msgstr "Понови стварање одељка"
+
+#: cmd_bm_drag_redo
+msgid "Redo Drag Bookmark"
+msgstr "Понови повлачење везе"
+
+#: cmd_bm_move_redo
+msgid "Redo Move Bookmark"
+msgstr "Понови премештање везе"
+
+#: cmd_bm_import_redo
+msgid "Redo Import"
+msgstr "Понови увоз"
+
+#: cmd_bm_openinnewwindow
+msgid "Open in New Window"
+msgstr "Отвори у новом прозору"
+
+#: cmd_bm_openinnewwindow_accesskey
+msgid "N"
+msgstr "N"
+
+#: cmd_bm_openinnewtab
+msgid "Open in New Tab"
+msgstr "Отвори у новом језичку"
+
+#: cmd_bm_openinnewtab_accesskey
+msgid "w"
+msgstr "w"
+
+#: cmd_bm_newfolder
+msgid "New Folder..."
+msgstr "Нов каталог..."
+
+#: cmd_bm_newfolder_accesskey
+msgid "F"
+msgstr "F"
+
+#: cmd_bm_newbookmark
+msgid "New Bookmark..."
+msgstr "Нова веза..."
+
+#: cmd_bm_newbookmark_accesskey
+msgid "B"
+msgstr "B"
+
+#: cmd_bm_newseparator
+msgid "New Separator"
+msgstr "Нов одељак"
+
+#: ile_newfolder
+msgid "New Folder"
+msgstr "Нов каталог"
+
+#: ile_newbookmark
+msgid "New Bookmark"
+msgstr "Нова омиљена веза"
+
+#: ile_newlivemark
+msgid "New Live Bookmark"
+msgstr "Нова веза ка вести уживо"
+
+#: newfolder_dialog_title
+msgid "Create New Folder"
+msgstr "Прављење каталога"
+
+#: newfolder_dialog_msg
+msgid "Create a New Folder named:"
+msgstr "Направи каталог са именом:"
+
+#: window_title
+msgid "%S - Bookmarks"
+msgstr "%S - Омиљено"
+
+#: search_results_title
+msgid "Search Results"
+msgstr "Резултати претраге"
+
+#: bookmarks_title
+msgid "Bookmarks Manager"
+msgstr "Менаџер омиљених веза"
+
+#: file_in
+msgid "File in \"%S\""
+msgstr "Премести у \"%S\""
+
+#: BookmarksRoot
+msgid "Bookmarks"
+msgstr "Омиљено"
+
+#: BookmarksToolbarFolder
+msgid "Bookmarks Toolbar Folder"
+msgstr "Каталог личног панела"
+
+#: status_foldercount
+msgid "%S object(s)"
+msgstr "Објеката: %S"
+
+#: WebPageUpdated
+msgid "The following web page has been updated:"
+msgstr "Следећа веб страна је обновљена:"
+
+#: WebPageTitle
+msgid "Title:"
+msgstr "Заглавље:"
+
+#: WebPageURL
+msgid "URL:"
+msgstr "Адреса:"
+
+#: WebPageAskDisplay
+msgid "Would you like to display it?"
+msgstr "Да ли желите да је видите?"
+
+#: WebPageAskStopOption
+msgid "Stop checking for updates on this web page"
+msgstr "Не проверавај обнављања ове веб стране"
+
+#: pleaseEnterALocation
+msgid "Please enter a location"
+msgstr "Унесите адресу"
+
+#: pleaseEnterADuration
+msgid "Please enter a duration."
+msgstr "Унесите трајање"
+
+#: pleaseSelectANotification
+msgid "Please enter at least one notification method."
+msgstr "Молим, унесите бар један начин обавештавања."
+
+#: SortMenuItem
+msgid "Sorted by %S"
+msgstr "Поређај по: %S"
+
+#: ShortFindTitle
+msgid "Find: '%S'"
+msgstr "Пронађи: \"%S\""
+
+#: FindTitle
+msgid "Find: %S %S '%S' in %S"
+msgstr "Пронађи: %S %S \"%S\" у %S"
+
+#: ImportedIEFavorites
+#: ImportedIEStaticFavorites
+msgid "Imported IE Favorites"
+msgstr "Увоз омиљених веза из IE Favorites"
+
+#: ImportedNetPositiveBookmarks
+msgid "Imported NetPositive Bookmarks"
+msgstr "Увоз омиљених веза из NetPositive"
+
+#: SelectImport
+msgid "Import bookmark file:"
+msgstr "Увоз омиљених пречица из датотеке:"
+
+#: EnterExport
+msgid "Export bookmark file:"
+msgstr "Извоз омиљених пречица у датотеку:"
+
+#: search_button_label
+msgid "Find"
+msgstr "Пронађи"
+
+#: emptyFolder
+msgid "(Empty)"
+msgstr "(Празно)"
+
+#: addBookmarkPromptTitle
+msgid "Add Bookmark?"
+msgstr "Да додам везу?"
+
+#: addBookmarkPromptMessage
+msgid "Add Bookmark to \"%S\" (%S)?"
+msgstr "Да додам везу у \"%S\" (%S)?"
+
+#: addBookmarkPromptButton
+#: bookmarkCurTabTitle
+msgid "Add Bookmark"
+msgstr "Додај у омиљено"
+
+#: addLiveBookmarkTitle
+msgid "Add Live Bookmark"
+msgstr "Додај везу ка вестима"
+
+#: BookmarksLivemarkLoading
+msgid "Live Bookmark loading..."
+msgstr "Учитавам вести уживо..."
+
+#: BookmarksLivemarkFailed
+msgid "Live Bookmark feed failed to load."
+msgstr "Неуспешно учитавање вести уживо."
+
+#: bookmarkAllTabsTitle
+msgid "Bookmark All Tabs"
+msgstr "Додај све језичке у омиљено"
+
+#: tabs.openWarningTitle
+msgid "Confirm open"
+msgstr "Потврди отварање"
+
+#: tabs.openWarningMultipleBranded
+msgid "You are about to open %S tabs.  This might slow down %S while the pages are loading.  Are you sure you want to continue?"
+msgstr "Намеравате да отворите оволико језичака: %S.  То може да успори програм %S док се стране учитавају. Да ли желите да наставите?"
+
+#: tabs.openButtonMultiple
+msgid "Open tabs"
+msgstr "Отвори језичке"
+
+#: tabs.openWarningPromptMeBranded
+msgid "Warn me when opening multiple tabs might slow down %S"
+msgstr "Упозори ме када отварање више језичака може да успори %S"

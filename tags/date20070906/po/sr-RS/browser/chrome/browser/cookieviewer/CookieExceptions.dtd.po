@@ -1,0 +1,72 @@
+# extracted from source/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-11 02:15+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: window.title
+msgid "Exceptions"
+msgstr "Изузеци"
+
+#: treehead.sitename.label
+msgid "Site"
+msgstr "Ел. место"
+
+#: treehead.status.label
+msgid "Status"
+msgstr "Статус"
+
+#: addpermission.label
+msgid "New Site"
+msgstr "Ново место"
+
+#: removepermission.label
+msgid "Remove Site"
+msgstr "Уклони место"
+
+#: removeallpermissions.label
+msgid "Remove All Sites"
+msgstr "Уклони сва места"
+
+#: address.label
+msgid "Address of web site:"
+msgstr "Адреса места:"
+
+#: block.label
+msgid "Block"
+msgstr "Блокирај"
+
+#: session.label
+msgid "Allow for Session"
+msgstr "Дозволи овај пут"
+
+# The contents of this file are subject to the Netscape Public
+# License Version 1.1 (the "License"); you may not use this file
+# except in compliance with the License. You may obtain a copy of
+# the License at http://www.mozilla.org/NPL/
+#
+# Software distributed under the License is distributed on an "AS
+# IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+# implied. See the License for the specific language governing
+# rights and limitations under the License.
+# The Original Code is mozilla.org code.
+# The Initial Developer of the Original Code is Netscape
+# Communications Corporation. Portions created by Netscape are
+# Copyright (C) 2000 Netscape Communications Corporation. All
+# Rights Reserved.
+# Contributor(s):
+# Mitch Stoltz <mstoltz@netscape.com>
+# Christopher A. Aillon <christopher@aillon.com>
+#: allow.label
+msgid "Allow"
+msgstr "Дозволи"

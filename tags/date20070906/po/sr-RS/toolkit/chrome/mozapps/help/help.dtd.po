@@ -1,0 +1,141 @@
+# extracted from source/sr-RS/toolkit/chrome/mozapps/help/help.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-08-30 10:39-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: printCmd.commandkey
+msgid "p"
+msgstr "p"
+
+#: findOnCmd.commandkey
+msgid "F"
+msgstr "F"
+
+#: findAgainCmd.commandkey
+msgid "G"
+msgstr "G"
+
+#: findAgainCmd.commandkey2
+msgid "VK_F3"
+msgstr "VK_F3"
+
+#: backButton.label
+#: backButton.accesskey
+msgid "&Back"
+msgstr "&Назад"
+
+#: backButton.tooltip
+msgid "Go back one page"
+msgstr "Назад за једну страну"
+
+#: forwardButton.label
+#: forwardButton.accesskey
+msgid "&Forward"
+msgstr "&Напред"
+
+#: forwardButton.tooltip
+msgid "Go forward one page"
+msgstr "Напред за једну страну"
+
+#: copyCmd.label
+#: copyCmd.accesskey
+msgid "&Copy"
+msgstr "&Умножи"
+
+#: selectAllCmd.label
+#: selectAllCmd.accesskey
+msgid "Select &All"
+msgstr "Изабери с&ве"
+
+#: goBackCmd.commandkey
+msgid "["
+msgstr "["
+
+#: goForwardCmd.commandkey
+msgid "]"
+msgstr "]"
+
+#: homeButton.label
+msgid "Home"
+msgstr "Насловна"
+
+#: homeButton.tooltip
+msgid "Go to the Help Start Page"
+msgstr "Иди на почетну страну помоћи"
+
+#: printButton.label
+msgid "Print"
+msgstr "Штампа"
+
+#: printButton.tooltip
+msgid "Print this page"
+msgstr "Штампај ову страну"
+
+#: closeWindow.commandkey
+msgid "W"
+msgstr "W"
+
+#: throbberItem.title
+msgid "Activity Indicator"
+msgstr "Индикатор активности"
+
+#: throbber.tooltip
+msgid "Go to the Help on Help section"
+msgstr "Иди на помоћ у делу помоћи"
+
+#: searchtab.label
+#: searchtab.accesskey
+msgid "&Search"
+msgstr "&Претрага"
+
+#: toctab.label
+#: toctab.accesskey
+msgid "&Contents"
+msgstr "&Садржај"
+
+#: textZoomReduceCmd.commandkey
+msgid "-"
+msgstr "-"
+
+#: textZoomEnlargeCmd.commandkey
+msgid "+"
+msgstr "+"
+
+# + is above this key on many keyboards
+#: textZoomEnlargeCmd.commandkey2
+msgid "="
+msgstr "="
+
+#: textZoomResetCmd.commandkey
+msgid "0"
+msgstr "0"
+
+#: helpSearch.commandkey
+msgid "k"
+msgstr "k"
+
+#: zLevel.label
+#: zLevel.accesskey
+msgid "Always on &Top"
+msgstr "У&век на врху"
+
+#: textZoomReduceBtn.label
+#: textZoomReduceBtn.accesskey
+msgid "&Decrease Text Size"
+msgstr "&Умањи слова"
+
+#: textZoomEnlargeBtn.label
+#: textZoomEnlargeBtn.accesskey
+msgid "&Increase Text Size"
+msgstr "У&већај слова"
