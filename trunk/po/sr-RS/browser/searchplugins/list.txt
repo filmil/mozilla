@@ -6,6 +6,8 @@ google
 yahoo
 wikipedia-sr
 vokabular
-google-es
 metak
+krstarica
+pogodak
+google-es
 
