@@ -1,9 +1,0 @@
-<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
-<os:ShortName>Наслови</os:ShortName>
-<os:Description>Наслови : претрага вести</os:Description>
-<os:InputEncoding>UTF-8</os:InputEncoding>
-<!-- No icon yet <os:Image width="16" height="16"></os:Image> -->
-<os:Url type="text/html" method="GET" 
-    template="http://www.naslovi.net/search.php?q={searchTerms}&amp;search_option=on">
-</os:Url>
-</SearchPlugin>
