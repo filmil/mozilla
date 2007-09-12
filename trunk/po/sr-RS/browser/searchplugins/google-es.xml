@@ -1,9 +1,0 @@
-<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
-<os:ShortName>Google-[es]</os:ShortName>
-<os:Description>Претрага ЕлитСекјуритија</os:Description>
-<os:InputEncoding>utf-8</os:InputEncoding>
-<os:Image width="16" height="16">data:image/x-icon;base64,R0lGODlhEAAQAOZYAGVjWlZUTrSulzQzMMe/oKagiIuHeOrhvOPZt2uKuZrBjIunyf3+/7+Rf46lvYmjyNHf6Yi3jrjF2cXT45/CjVRjuX6SuZbAjaHMnprFknOZsv7//7nH5Mzt7oqexYuto36Px4ugwZbCk8GUgYKozHdoTF1zlqTTp+vt9ZWlxpLAmpWmyb/J3ZKjzv///KS0xbiLfMvd72WHqs/a7Wp8v/v89Yml0v35+uzx+ik5p5S4gFx3tJzLoGB5n+v3+9La48CWhfT59G6Jrr2Qgtz09IRtUcWZjIOxivv7/n6Ys2J4m8WXiWaXbJDCmoWfukRdcY2iyM7HqnNwafXsyh4dGUNCOv///wAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFgALAAAAAAQABAAAAfHgFiCggZShlIBg4pYBgBVV5CQA4mKUo+RmFdUg4ZVnlVUkAGGAZtYUVOpU1GgqASoCFgAUaxUtlcGU5dUAVcDAlOWnlfABaCRTzoUFyIZCkwlBAepAo89Lh02SRokRCMDVQDAUVdKODsSQT4pEA2RVFEFAyYOHlY1N1ZWQAWOAAdSrjyQ8cIKkg36hggggICAlE0LhICwwuDHigkwNN26ggXKjBwcrKCg0WJJJkFOrLCoYCFEghhGMA36gOEEDxVHIjQpAmlRIAA7</os:Image>
-<SearchForm>http://www.google.com/custom</SearchForm>
-<os:Url type="text/html" method="GET" template="http://www.google.com/custom?q={searchTerms}&amp;num=100&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;safe=off&amp;client=pub-5307800115338986&amp;cof=FORID%3A1%3BGL%3A1%3BBGC%3AFFFFFF%3BT%3A%23000000%3BLC%3A%230000ff%3BVLC%3A%23663399%3BALC%3A%230000ff%3BGALT%3A%23008000%3BGFNT%3A%230000ff%3BGIMP%3A%230000ff%3BDIV%3A%23336699%3BLBGC%3A336699%3BAH%3Acenter%3B&amp;domains=www.elitesecurity.org&amp;btnG=Search&amp;sitesearch=www.elitesecurity.org">
-</os:Url>
-</SearchPlugin>
