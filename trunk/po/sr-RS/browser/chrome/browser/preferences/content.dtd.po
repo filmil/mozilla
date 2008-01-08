@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-13 00:57+0200\n"
+"PO-Revision-Date: 2007-12-25 02:20+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,12 +34,12 @@ msgstr "&Аутоматски учитај слике"
 #: exceptions.label
 #: exceptions.accesskey
 msgid "E&xceptions..."
-msgstr "&Изузетци"
+msgstr "&Изузеци"
 
 #: enableJavaScript.label
 #: enableJavaScript.accesskey
 msgid "Enable &JavaScript"
-msgstr "Омогући Java&Script"
+msgstr "Укључи Java&Script"
 
 #: advancedJS.label
 #: advancedJS.accesskey
@@ -58,7 +58,7 @@ msgstr "Писма и боје"
 #: defaultFont.label
 #: defaultFont.accesskey
 msgid "&Default font:"
-msgstr "Изворни &фонт:"
+msgstr "Изворно &писмо:"
 
 #: defaultSize.label
 #: defaultSize.accesskey

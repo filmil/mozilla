@@ -1,6 +1,6 @@
-amazondotcom
-answers
-creativecommons
-eBay
 google
-yahoo
+pogodakyu
+eBay-en-GB
+amazon-en-GB
+vokabular
+wikipedia-sr

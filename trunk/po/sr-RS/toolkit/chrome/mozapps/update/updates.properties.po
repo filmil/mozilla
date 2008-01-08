@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:22+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/toolkit/chrome/mozapps/update/updates.properties
 msgid ""
 msgstr ""
@@ -44,7 +59,7 @@ msgstr "Доступна је доградња за програм %S:"
 
 #: introType_major_app_and_version
 msgid "You can download and install %S %S now!"
-msgstr "Можете одмах да преузмете и поставите: %S %S!"
+msgstr "Можете одмах да примите и поставите: %S %S!"
 
 #: verificationError
 msgid "%S could not confirm the integrity of the update package."
@@ -56,7 +71,7 @@ msgstr "Доградња није успела"
 
 #: IAgree
 msgid "I Agree"
-msgstr "Слажем се"
+msgstr "Саглашавам се"
 
 #: IAgree.accesskey
 msgid "A"
@@ -64,7 +79,7 @@ msgstr "A"
 
 #: IDoNotAgree
 msgid "I Disagree"
-msgstr "Не слажем се"
+msgstr "Не саглашавам се"
 
 #: IDoNotAgree.accesskey
 #: downloadButton.accesskey
@@ -237,7 +252,7 @@ msgstr "N"
 #: restartLaterTitle
 #: resumePausedAfterCloseTitle
 msgid "Software Update"
-msgstr "Доградња"
+msgstr "Доградња програма"
 
 #: restartLaterMsg
 msgid "The update will be installed the next time %S starts."
@@ -245,7 +260,7 @@ msgstr "Доградња че бити постављена при следећ�
 
 #: resumePausedAfterCloseMessage
 msgid "You have paused downloading this update. Do you want %S to download the update in the background while you continue to browse?"
-msgstr "Паузирали сте преузимање овог унапређења. Да ли желите да %S преузима унапређења у позадини док ви сурфујете мрежом?"
+msgstr "Паузирали сте преузимање овог унапређења. Да ли желите да %S преузима унапређења у позадини док ви наставите са радом?"
 
 #: updateReadyToInstallHeader
 msgid "%S Ready to Install"

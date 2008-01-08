@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:25+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/toolkit/chrome/mozapps/plugins/plugins.properties
 msgid ""
 msgstr ""
@@ -24,7 +39,7 @@ msgstr "Преузимам %S..."
 
 #: pluginInstallation.download.finish
 msgid "Finished downloading %S."
-msgstr "Завршено преузимање %S."
+msgstr "Завршен пријем %S."
 
 #: pluginInstallation.install.start
 msgid "Installing %S..."
@@ -80,4 +95,4 @@ msgstr "Непознат додатак (%S)"
 
 #: missingPlugin.label
 msgid "Click here to download plugin."
-msgstr "Притисните овде за преузимање додатка."
+msgstr "Притисните овде да набавите додатак."

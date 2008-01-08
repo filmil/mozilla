@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 23:29+0200\n"
+"PO-Revision-Date: 2007-12-28 09:59-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -334,7 +334,7 @@ msgstr "Нов каталог"
 
 #: ile_newbookmark
 msgid "New Bookmark"
-msgstr "Нова омиљена веза"
+msgstr "Нова забелешка"
 
 #: ile_newlivemark
 msgid "New Live Bookmark"
@@ -358,7 +358,7 @@ msgstr "Резултати претраге"
 
 #: bookmarks_title
 msgid "Bookmarks Manager"
-msgstr "Менаџер омиљених веза"
+msgstr "Управник забелешкама"
 
 #: file_in
 msgid "File in \"%S\""
@@ -423,19 +423,19 @@ msgstr "Пронађи: %S %S \"%S\" у %S"
 #: ImportedIEFavorites
 #: ImportedIEStaticFavorites
 msgid "Imported IE Favorites"
-msgstr "Увоз омиљених веза из IE Favorites"
+msgstr "Увоз забелешки из омиљених веза у експлореру (IE)"
 
 #: ImportedNetPositiveBookmarks
 msgid "Imported NetPositive Bookmarks"
-msgstr "Увоз омиљених веза из NetPositive"
+msgstr "Увоз забелешки из NetPositive"
 
 #: SelectImport
 msgid "Import bookmark file:"
-msgstr "Увоз омиљених пречица из датотеке:"
+msgstr "Увоз забелешки из датотеке:"
 
 #: EnterExport
 msgid "Export bookmark file:"
-msgstr "Извоз омиљених пречица у датотеку:"
+msgstr "Извоз забелешки у датотеку:"
 
 #: search_button_label
 msgid "Find"
@@ -456,7 +456,7 @@ msgstr "Да додам везу у \"%S\" (%S)?"
 #: addBookmarkPromptButton
 #: bookmarkCurTabTitle
 msgid "Add Bookmark"
-msgstr "Додај у омиљено"
+msgstr "Забележи"
 
 #: addLiveBookmarkTitle
 msgid "Add Live Bookmark"
@@ -472,7 +472,7 @@ msgstr "Неуспешно учитавање вести уживо."
 
 #: bookmarkAllTabsTitle
 msgid "Bookmark All Tabs"
-msgstr "Додај све језичке у омиљено"
+msgstr "Забележи све језичке"
 
 #: tabs.openWarningTitle
 msgid "Confirm open"

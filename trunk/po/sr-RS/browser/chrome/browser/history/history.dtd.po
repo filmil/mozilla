@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-11 02:15+0200\n"
+"PO-Revision-Date: 2007-12-28 10:02-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -77,9 +77,9 @@ msgstr "Отвори у новом &прозору"
 #: bookmarkLink.label
 #: bookmarkLink.accesskey
 msgid "&Bookmark This Link..."
-msgstr "Д&одај адресу у омиљено"
+msgstr "За&бележи ову везу..."
 
 #: copyLink.label
 #: copyLink.accesskey
 msgid "&Copy Link Location"
-msgstr "&Умножи адресу"
+msgstr "&Умножи адресу везе"

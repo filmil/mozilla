@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:24+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/toolkit/chrome/mozapps/update/updates.dtd
 msgid ""
 msgstr ""
@@ -137,7 +152,7 @@ msgstr "Повезујем се на сервер за доградње..."
 msgid "&brandShortName; was unable to verify the integrity of the "
 "incremental update it downloaded, so it is now downloading "
 "the complete update package."
-msgstr "Програм &brandShortName; не може да провери интегритет доградње које проверава, па сад преузима цео пакет."
+msgstr "Програм &brandShortName; не може да провери интегритет доградње коју прима, па зато сада прима цео пакет."
 
 #: details.link
 #: update.details.label
@@ -157,12 +172,12 @@ msgstr "&Затвори"
 #: error.label
 msgid "There were problems checking for, downloading or installing this "
 "update. &brandShortName; could not be updated because:"
-msgstr "Постоје проблеми приликом провере, преузимања и постављања овог унапређења. &brandShortName; не може бити унапређен због:"
+msgstr "Постоје проблеми приликом провере, пријема и постављања овог унапређења. &brandShortName; не може бити унапређен због:"
 
 #: errorManual.label
 msgid "You can update &brandShortName; manually by visiting this link "
 "and downloading the latest version:"
-msgstr "Можете унапредити &brandShortName; ручно тако што посетите ову страну и преузмете најновију верзију:"
+msgstr "Можете унапредити &brandShortName; ручно тако што посетите ову страну и набавите најновије издање:"
 
 #: errorpatching.title
 msgid "Update Failed"
@@ -171,11 +186,11 @@ msgstr "Унапређење није успело"
 #: errorpatching.intro
 msgid "The partial Update could not be applied. "
 "&brandShortName; will try again by downloading a complete Update."
-msgstr "Критична унапређења не могу бити постављена &brandShortName; ће покушати поново преузимање."
+msgstr "Критична унапређења не могу бити постављена.  Програм &brandShortName; ће покушати да их поново добави."
 
 #: finished.title
 msgid "Update Downloaded"
-msgstr "Унапређење је преузето"
+msgstr "Унапређење је добављено"
 
 #: finished.text
 msgid "The update was successfully downloaded and verified, and it will "

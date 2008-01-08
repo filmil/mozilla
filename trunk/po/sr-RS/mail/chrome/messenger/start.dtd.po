@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-26 02:20+0100\n"
+"PO-Revision-Date: 2007-12-25 02:02+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +93,7 @@ msgstr "http://www.mozilla.org/support/thunderbird/"
 
 #: startpage.page
 msgid "Thunderbird Product Page"
-msgstr "Страница програма Thunderbird"
+msgstr "Страна програма Thunderbird"
 
 #: startpage.pageInfo
 msgid "For product information, visit the"

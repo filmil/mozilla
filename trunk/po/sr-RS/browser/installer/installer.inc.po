@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 13:00+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # converted from #defines file
 # filter emptyLines
 # extracted from 
@@ -229,10 +244,7 @@ msgid ""
 "Setup will add program icons to the Program Folder listed below.  You may "
 "type a new folder name, or select one from the Existing Folders list.  Click "
 "Next to continue."
-msgstr ""
-"Инсталатер ће додати сличице програма у доле наведен директоријум.  Можете "
-"да унесете ново име директоријума или да изаберете један из списка "
-"постојећих.  Притисните „Даље‟ да наставите."
+msgstr "Инсталатер ће додати сличице програма у доле наведен директоријум.  Можете да унесете ново име директоријума или да изаберете један из списка постојећих.  Притисните „Даље‟ да наставите."
 
 #: ADDL_OPTIONS_TITLE
 msgid "$ProductShortName$ Setup - Additional Options"
@@ -243,7 +255,7 @@ msgid ""
 "Select the following option if you wish to save downloaded Setup files on "
 "your own computer.  This allows you to re-run Setup without downloading the "
 "files again.  The Setup files will be saved to the path below."
-msgstr "Изаберите наредну опцију ако желите да сачувате преузете инсталационе датотеке на Вашем рачунару.  То Вам омогућава да поново покренете инсталацију а да не морате да поново покрећете пријем.  Датотеке ће бити сачуване у директоријум наведен испод."
+msgstr "Изаберите наредну опцију ако желите да сачувате примљене инсталационе датотеке на Вашем рачунару.  То Вам омогућава да поново покренете инсталацију а да не морате да поново покрећете пријем.  Датотеке ће бити сачуване у директоријум наведен испод."
 
 #: ADV_SETTINGS_TITLE
 msgid "$ProductShortName$ Setup - Advanced Settings"
@@ -343,13 +355,13 @@ msgstr "Подешавање програма $ProductShortName$ - Пријем"
 msgid ""
 "Setup is downloading the required files now.  This may take some time "
 "depending on your network connection speed."
-msgstr "Инсталатер управо преузима неопходне датотеке.  То ће трајати нек време, зависно од брзине везе са интернетом."
+msgstr "Инсталатер управо прима неопходне датотеке.  То ће трајати нек време, зависно од брзине везе са интернетом."
 
 #: DL2_RETRY
 msgid ""
 "Some files have failed the CRC check and are being downloaded again.  Only "
 "those files that have failed will be downloaded."
-msgstr "Неке датотеке нису прошле проверу исправности (CRC) и управо се поново преузимају.  Преузимају се само датотеке које нису биле исправно преузете."
+msgstr "Неке датотеке нису прошле проверу исправности (CRC) тако да се поново примају.  Примају се само датотеке које нису биле исправно преузете."
 
 #: CLOSE_CHECK
 msgid ""
@@ -428,14 +440,14 @@ msgid ""
 "A previous session of Setup did not finish downloading all the necessary "
 "files.  Would you like to use the files previously downloaded, to avoid "
 "downloading them again?"
-msgstr "Претходна сесија инсталатера није довршила пријем свих потребних датотека.  Да ли желите да користите претходно преузете датотеке, да бисте избегли поновни пријем?"
+msgstr "Претходна сесија инсталатера није довршила пријем свих потребних датотека.  Да ли желите да користите раније примљене датотеке, да бисте избегли поновни пријем?"
 
 #: MSG_UNFINISHED_INSTALL
 msgid ""
 "A previous session of Setup did not finish with installation of all the "
 "necessary files.  Would you like to use the files previously downloaded, to "
 "avoid downloading them again?"
-msgstr "Претходна сесија инсталатера није довршила инсталацију свих потребних датотека.  Да ли желите да користите претходно преузете датотеке, да бисте избезли поновни пријем?"
+msgstr "Претходна сесија инсталатера није довршила инсталацију свих потребних датотека.  Да ли желите да користите раније примљене датотеке, како бисте избегли поновни пријем?"
 
 #: MSG_CORRUPTED
 msgid ""
@@ -456,7 +468,7 @@ msgid ""
 "Too many download failures.  Setup will cancel.  Any files already "
 "downloaded will not be deleted.  The next time Setup is run, these files "
 "will be taken into account during the download."
-msgstr "Десило се сувише грешака при пријему.  Инсталатер ће сада да се оконча.  Датотеке које су већ преузете неће бити уклоњене.  Када се инсталатер поново покрене, ове датотеке ће бити узете у обзир приликом пријема."
+msgstr "Десио се велики број грешака при пријему.  Инсталатер зато мора да обустави рад.  Датотеке које су већ преузете неће бити уклоњене.  Када се инсталатер поново покрене, ове датотеке ће бити узете у обзир приликом пријема."
 
 #: MSG_TOO_MANY_NETWORK
 msgid ""

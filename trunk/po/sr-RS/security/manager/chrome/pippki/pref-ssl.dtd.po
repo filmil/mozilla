@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 19:33+0200\n"
+"PO-Revision-Date: 2007-12-25 02:19+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr "Secure Sockets Layer (SSL)"
 
 #: enable.ssl3
 msgid "Enable SSL version 3"
-msgstr "Омогући SSL верзија 3"
+msgstr "Укључи SSL, издање 3"
 
 #: enable.ssl3.accesskey
 msgid "3"
@@ -90,7 +90,7 @@ msgstr "3"
 
 #: enable.tls
 msgid "Enable TLS"
-msgstr "Омогући TLS"
+msgstr "Укључи TLS"
 
 #: enable.tls.accesskey
 msgid "T"

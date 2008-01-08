@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2005-07-05 22:48\n"
-"PO-Revision-Date: 2006-11-15 23:00+0100\n"
+"PO-Revision-Date: 2007-12-25 12:32+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -197,7 +197,7 @@ msgstr "Преузми"
 
 #: downloadMessagesNoDownloadButtonLabel
 msgid "Don't Download"
-msgstr "Не преузимај"
+msgstr "Не примај"
 
 #: downloadMessagesCancelButtonLabel sendMessagesCancelButtonLabel
 #: getMessagesOfflineCancelButtonLabel sendMessagesOfflineCancelButtonLabel
@@ -2188,10 +2188,7 @@ msgid ""
 "When downloading pop3 mail for this server, you can store it in the Global "
 "Inbox (the INBOX in the Local Folders Account), in the INBOX for this "
 "account, or in the INBOX for another POP3 account"
-msgstr ""
-"Када преузимате POP3 пошту за овај сервер, можете је сачувати у општи "
-"долазни доректоријум (Долазна пошта у Локалном директоријуму), у долазној "
-"пошти за овај налог или у долазној пошти неког другог POP3 налога"
+msgstr "Када примате пошту кроз POP3 за овај сервер, можете је сачувати у општи долазни доректоријум (Долазна пошта у Локалном директоријуму), у долазној пошти за овај налог или у долазној пошти неког другог POP3 налога"
 
 #: folderStorage.label
 msgid "Where to store mail"
@@ -2199,7 +2196,7 @@ msgstr "Где се чува пошта"
 
 #: globalInbox.label globalInbox.accesskey
 msgid "&Global Inbox (Local Folders Account)"
-msgstr "&Општи долазни директоријум (Локални директоријум)"
+msgstr "&Општи долазни директоријум (локални директоријум)"
 
 #: accountDirectory.label accountDirectory.accesskey
 msgid "Inbox for thi&s server's account"
@@ -2211,7 +2208,7 @@ msgstr "Долазна пошта за неки &други налог"
 
 #: deferGetNewMail.label deferGetNewMail.accesskey
 msgid "&Include this server when getting new mail"
-msgstr "&Проверавај овај сервер при преузимању ове поште"
+msgstr "&Проверавај овај сервер при пријему нове поште"
 
 #
 # The following are used by the messenger application
@@ -3352,7 +3349,7 @@ msgstr "Пров&ери нове поруке на почетку"
 msgid ""
 "_: translate below 2 lines with grammar dependency\n"
 "Ask &me before downloading more than"
-msgstr "Питај &ме пре преузимања више од"
+msgstr "Питај &ме пре пријема више од"
 
 #: maxMessagesEnd.label
 msgid ""
@@ -9219,7 +9216,7 @@ msgstr "Опис"
 # # @loc 
 #: 1024
 msgid "Download Status"
-msgstr "Стање преузимања"
+msgstr "Стање пријема"
 
 # Download status not downloaded
 # # @name MIME_MHTML_DOWNLOAD_STATUS_NOT_DOWNLOADED
@@ -10699,15 +10696,16 @@ msgstr "&Пошта и групе"
 
 #: doNotDownloadPop3Movemail.label
 msgid "To save disk space, do not download:"
-msgstr "Ради уштеде простора на диску, не преузимај:"
+msgstr "Ради уштеде простора на диску, не примај:"
 
 #: doNotDownload.label
 msgid "To save disk space, do not download for offline use:"
-msgstr "Ради уштеде простора на диску, не преузимај датотеке за неповезан рад:"
+msgstr "Ради уштеде простора на диску, не примај датотеке за рад ван мреже:"
 
+# Неумрежен рад!
 #: offlineNewFolder.label offlineNewFolder.accesskey
 msgid "When I &create new folders, select them for offline use"
-msgstr "Када направим нове &директоријуме, изабери их за неповезан рад"
+msgstr "Када направим нове &директоријуме, изабери их за рад ван мреже"
 
 #: offlineNotDownload.label offlineNotDownload.accesskey
 msgid "&Messages larger than"
@@ -12462,10 +12460,7 @@ msgid ""
 "There is not enough disk space to download new messages. Try deleting old "
 "mail, emptying the Trash folder, and compacting your mail folders, and then "
 "try again."
-msgstr ""
-"Нема довољно простора на диску за преузимање нових порука. Пробајте да "
-"обришете стару пошту, испразните смеће и да сажмете директоријуме са поштом, "
-"па онда пробајте поново."
+msgstr "Нема довољно простора на диску за пријем нових порука. Пробајте да обришете стару пошту, испразните смеће и да сажмете директоријуме са поштом, па онда пробајте поново."
 
 # Status - parsing folder
 # # @name LOCAL_STATUS_SELECTING_MAILBOX
@@ -12577,10 +12572,7 @@ msgid ""
 "support for this, we cannot implement the ``Maximum Message Size'' "
 "preference.  This option has been disabled, and messages will be downloaded "
 "regardless of their size."
-msgstr ""
-"POP3 сервер (%s) не подржава команду TOP. Без подршке сервера за ово, није "
-"могуће испоштовати опцију „Максимална величина поруке“. Ова опција је сада "
-"искључена и поруке ће бити преузимане без обзира на величину."
+msgstr "POP3 сервер (%s) не подржава команду TOP. Без подршке сервера за ово, није могуће испоштовати опцију „Максимална величина поруке“. Ова опција је сада искључена и поруке ће бити примане без обзира на величину."
 
 # Status - retr failure from the server
 # # @name POP3_RETR_FAILURE
@@ -12588,7 +12580,7 @@ msgstr ""
 # LOCALIZATION NOTE(4012): Do not translate the word "POP3" below.
 #: 4012
 msgid "The RETR command did not succeed. Error retrieving a message."
-msgstr "Команда RETR није успела. Дошло је до грешке при преузимању поруке."
+msgstr "Команда RETR није успела. Дошло је до грешке при пријему поруке."
 
 # Status - username undefined 
 # # @name POP3_USERNAME_UNDEFINED
@@ -12608,9 +12600,7 @@ msgstr ""
 #: 4015
 msgid ""
 "The LIST command did not succeed. Error getting the ID and size of a message."
-msgstr ""
-"Команда LIST није извршена. Дошло је до грешке при преузимању "
-"идентификационог броја и величине поруке."
+msgstr "Команда LIST није извршена. Дошло је до грешке при пријему идентификационог броја и величине поруке."
 
 # Status - delete error 
 # # @name POP3_DELE_FAILURE
@@ -12666,9 +12656,7 @@ msgstr ""
 #: 4024
 msgid ""
 "The STAT command did not succeed. Error getting message number and sizes."
-msgstr ""
-"Команда STAT није извршена. Дошло је до грешке при преузимању броја и "
-"величине порука."
+msgstr "Команда STAT није извршена. Дошло је до грешке при пријему броја и величине порука."
 
 # # @name POP3_SERVER_SAID
 # # @loc None
@@ -14499,11 +14487,11 @@ msgstr "Отвори са %S"
 
 #: myDownloads
 msgid "My Downloads"
-msgstr "Моја преузимања"
+msgstr "Моји пријеми"
 
 #: removeActions
 msgid "Remove Actions"
-msgstr "Уклони Дејства"
+msgstr "Уклони дејства"
 
 #: removeActionsMsg
 msgid ""
@@ -14551,7 +14539,7 @@ msgstr "Управљач прилозима"
 
 #: showWhenStarting.label
 msgid "Show Attachment Manager window when a download begins."
-msgstr "Прикажи прозор Управљача прилозима увек кад започне преузимање."
+msgstr "Прикажи прозор Управљача прилозима увек кад пријем отпочне."
 
 #: closeWhenDone.label
 msgid "Close the Attachment Manager when all attachments are complete."
@@ -14679,11 +14667,11 @@ msgstr "Осо&бине"
 
 #: cmd.close2.commandKey
 msgid "j"
-msgstr ""
+msgstr "j"
 
 #: cmd.close2Unix.commandKey
 msgid "y"
-msgstr ""
+msgstr "y"
 
 #: cmd.cleanUp.label cmd.cleanUp.accesskey
 msgid "Cle&an Up"
@@ -14691,7 +14679,7 @@ msgstr "О&чисти"
 
 #: cmd.cleanUp.tooltip
 msgid "Removes completed, canceled and failed downloads from the list"
-msgstr "Уклања завршенена, одустата и неуспешна преузимања са списка"
+msgstr "Уклања завршене, отказане и неуспешне пријеме са списка"
 
 #: cmd.change.tooltip
 msgid "Change how and where to save files to"
@@ -14699,7 +14687,7 @@ msgstr "Измени како и где да сачувам датотеке у"
 
 #: closeWhenDone.label
 msgid "Close when downloads complete"
-msgstr "Затвори по завршетку свих преузимања"
+msgstr "Затвори по завршетку свих пријема"
 
 #: closeWhenDone.tooltip
 msgid "Closes the Downloads window when all files are done downloading"
@@ -15066,7 +15054,6 @@ msgid "Rename the profile \"%S\" to:"
 msgstr "Преименујте профил: „%S“ у:"
 
 #: profileNameInvalidTitle
-#, fuzzy
 msgid "Invalid profile name"
 msgstr "Неважеће име профила"
 
@@ -15300,13 +15287,10 @@ msgid "Restart Required"
 msgstr "Потребно је изнова покренути програм"
 
 #: appupdateperformedmessage
-#, fuzzy
 msgid ""
 "%S has been updated this session. Please restart %S before performing any "
 "more updates."
-msgstr ""
-"%S је зановио ово заседање. Изнова покрените %S пре него изведете још коју "
-"надоградњу."
+msgstr "%S је обновио ову сесију. Покрените %S поново пре него изведете још коју надоградњу."
 
 #: updatesdisabledtitle
 msgid "Update Disabled"
@@ -15464,7 +15448,6 @@ msgid "Now downloading and installing updates..."
 msgstr "Сада преузимам и инсталирам надоградње..."
 
 #: installing.disclaimer.label
-#, fuzzy
 msgid ""
 "XXXben - this will not work until we have a scriptable API to XPInstall."
 msgstr "XXXben - ово неће радити док не додамо скрипт API у XPInstall."
@@ -21840,11 +21823,10 @@ msgstr "&Ћелија"
 #: formattingtb.accesskey formatfontmenu.accesskey localfontmenu.accesskey
 #: paragraphpreformat.accesskey tablecellafter.accesskey tablefix.accesskey
 #: toolsetfocus.accesskey
-#, fuzzy
 msgid ""
 "_: filemenu.accesskey\n"
 "f"
-msgstr ""
+msgstr "f"
 
 #: newBlankPageCmd.label
 msgid "Composer Page"
@@ -21855,7 +21837,7 @@ msgstr "Уредник страна"
 msgid ""
 "_: newBlankPage.accesskey\n"
 "P"
-msgstr ""
+msgstr "P"
 
 #: openFileCmd.label
 msgid "Open File..."
@@ -21866,14 +21848,14 @@ msgstr "Отвори датотеку..."
 msgid ""
 "_: fileopen.accesskey\n"
 "o"
-msgstr ""
+msgstr "o"
 
 #: fileopen.keybinding fileopen.accesskey inserthline.accesskey
 #: tablecolumn.accesskey
 msgid ""
 "_: fileopen.keybinding\n"
 "o"
-msgstr ""
+msgstr "o"
 
 #: openremoteCmd.label
 msgid "Open Web Location..."
@@ -21887,7 +21869,7 @@ msgstr "Отвори ел. место..."
 msgid ""
 "_: fileopenremote.accesskey\n"
 "l"
-msgstr ""
+msgstr "l"
 
 # Tools menu
 #: fileopenremote.keybinding fileopenremote.accesskey editpastelink.accesskey
@@ -21897,7 +21879,7 @@ msgstr ""
 msgid ""
 "_: fileopenremote.keybinding\n"
 "l"
-msgstr ""
+msgstr "l"
 
 #: fileRecentMenu.label
 msgid "Recent Pages"
@@ -21909,7 +21891,7 @@ msgstr "Скорашње стране"
 msgid ""
 "_: filerecentmenu.accesskey\n"
 "r"
-msgstr ""
+msgstr "r"
 
 #: filerevert.accesskey fileprintpreview.accesskey
 #: editpastequotation.keybinding editfindprev.accesskey validate.accesskey
@@ -24174,9 +24156,8 @@ msgid "Named Anchor Properties"
 msgstr "Особине именованог сидра"
 
 #: anchorNameEditField.label anchorNameEditField.accessKey
-#, fuzzy
 msgid "Anchor &Name:"
-msgstr ""
+msgstr "Име &сидра:"
 
 #: nameInput.tooltip
 msgid "Enter a unique name for this named anchor (target)"

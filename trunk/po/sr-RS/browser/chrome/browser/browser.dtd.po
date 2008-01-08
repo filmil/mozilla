@@ -1,10 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-28 09:56-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-28 09:38-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-28 09:38-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:41+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 23:22+0200\n"
+"PO-Revision-Date: 2007-12-25 02:09+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +72,7 @@ msgstr ""
 
 #: viewsourcetitle.preface
 msgid "Source for: "
-msgstr "Код стране: "
+msgstr "Код за страну: "
 
 #: nothingAvailable.label
 msgid "(Nothing Available)"
@@ -63,7 +119,6 @@ msgstr "Штам&па..."
 
 #: printCmd.commandkey
 #: allowPopups.accesskey
-#, fuzzy
 msgid "p"
 msgstr "p"
 
@@ -80,26 +135,26 @@ msgstr "Рад &ван мреже"
 #: navbarCmd.label
 #: navbarCmd.accesskey
 msgid "&Navigation Toolbar"
-msgstr "Па&нел навигације"
+msgstr "&Трака за навигацију"
 
 #: personalbarCmd.label
 #: personalbarCmd.accesskey
 msgid "&Bookmarks Toolbar"
-msgstr "&Лични панел"
+msgstr "Трака са &забелешкама"
 
 #: bookmarksToolbarItem.label
 msgid "Bookmarks Toolbar Items"
-msgstr "Елементи панела омиљених"
+msgstr "Забележи ставке из алатне траке"
 
 #: taskbarCmd.label
 #: taskbarCmd.accesskey
 msgid "Status &Bar"
-msgstr "Линиј&а алатки"
+msgstr "&Статусна трака"
 
 #: pageSourceCmd.label
 #: pageSourceCmd.accesskey
 msgid "Page S&ource"
-msgstr "Преглед HTML &кода"
+msgstr "Изворни &код стране"
 
 #: pageSourceCmd.commandkey
 msgid "u"
@@ -118,7 +173,7 @@ msgstr "i"
 #: fullScreenCmd.label
 #: fullScreenCmd.accesskey
 msgid "&Full Screen"
-msgstr "Преко &целог екрана"
+msgstr "Користи &цео екран"
 
 #: fullScreenMinimize.tooltip
 msgid "Minimize"
@@ -126,7 +181,7 @@ msgstr "Умањи"
 
 #: fullScreenRestore.tooltip
 msgid "Restore"
-msgstr "Поврати"
+msgstr "Врати"
 
 #: fullScreenClose.tooltip
 msgid "Close"
@@ -139,11 +194,11 @@ msgstr "Затвори прозор"
 #: bookmarksMenu.label
 #: bookmarksMenu.accesskey
 msgid "&Bookmarks"
-msgstr "&Омиљено"
+msgstr "&Забелешке"
 
 #: addCurPageAsCmd.label
 msgid "Bookmark This Page..."
-msgstr "Додај страну у омиљено..."
+msgstr "Забележи ову страну..."
 
 #: addCurPageAsCmd.commandkey
 #: urlbar.accesskey
@@ -169,31 +224,29 @@ msgstr "Додај живу везу..."
 #: addCurPagesCmd.label
 #: addCurPagesCmd.accesskey
 #: bookmarkAllCmd.label
-#, fuzzy
 msgid "Bookmark All &Tabs..."
-msgstr "Н"
+msgstr "Забележи &све језичке"
 
 #: manBookmarksCmd.label
 #: manBookmarksCmd.accesskey
 msgid "Organize Book&marks..."
-msgstr "&Уреди омиљено..."
+msgstr "&Уреди забелешке..."
 
 #: bookmarkAllCmd.label
 #: addCurPagesCmd.label
 msgid "Bookmark All Tabs..."
-msgstr "Постави све јежичке у омиљено ..."
+msgstr "Забележи све језичке..."
 
 #: searchBookmarksCmd.label
 #: searchBookmarksCmd.accesskey
 #: spellEnable.accesskey
-#, fuzzy
 msgid "&Search in Bookmarks..."
-msgstr "з"
+msgstr "&Претражи забелешке..."
 
 #: searchBookmarksCmd.commandkey
 #: bookmarksSidebarCmd.accesskey
 msgid "B"
-msgstr "о"
+msgstr "B"
 
 #: backCmd.label
 #: backCmd.accesskey
@@ -211,7 +264,7 @@ msgstr "На&пред"
 
 #: forwardButton.tooltip
 msgid "Go forward one page"
-msgstr "На следећу страну"
+msgstr "На наредну страну"
 
 #: reloadCmd.label
 #: reloadCmd.accesskey
@@ -233,7 +286,7 @@ msgstr "."
 
 #: stopButton.tooltip
 msgid "Stop loading this page"
-msgstr "Заустави учитавање странице"
+msgstr "Заустави учитавање стране"
 
 #: goEndCap.label
 msgid "Go"
@@ -261,12 +314,12 @@ msgstr "Претрага"
 
 #: throbberItem.title
 msgid "Activity Indicator"
-msgstr "Индикатор активности"
+msgstr "Показатељ активности"
 
 #: bookmarksItem.title
 #: bookmarksButton.label
 msgid "Bookmarks"
-msgstr "Омиљено"
+msgstr "Забелешке"
 
 #: updatesItem.title
 msgid "Updates"
@@ -274,7 +327,7 @@ msgstr "Унапређења"
 
 #: proxyIcon.tooltip
 msgid "Drag and drop this icon to create a link to this page"
-msgstr "Превуците ову иконицу да бисте направили везу ка овој страни"
+msgstr "Превуците и пустите ову сличицу да бисте направили везу ка овој страни"
 
 # Toolbar items
 # XXX places only
@@ -286,7 +339,7 @@ msgstr "Почетак"
 
 #: bookmarksButton.tooltip
 msgid "Display your bookmarks"
-msgstr "Приказује ваше омиљене везе"
+msgstr "Приказује ваше забелешке"
 
 #: bookmarksSidebarCmd.commandkey
 msgid "b"
@@ -300,15 +353,14 @@ msgstr "Историјат"
 
 #: historyButton.tooltip
 msgid "Display pages you've viewed recently"
-msgstr "Приказује списак недавно посећених страница"
+msgstr "Приказује списак недавно посећених страна"
 
 #: historySidebarCmd.accesskey
 #: savePageCmd.commandkey
 #: historyMenu.accesskey
 #: historySearchCmd.accesskey
-#, fuzzy
 msgid "s"
-msgstr "И"
+msgstr "s"
 
 #: historySidebarCmd.commandKey
 #: historyHomeCmd.accesskey
@@ -333,11 +385,11 @@ msgstr "Претрага &веб места"
 #: downloads.label
 #: downloads.accesskey
 msgid "&Downloads"
-msgstr "&Преузимања"
+msgstr "&Пријеми"
 
 #: downloads.tooltip
 msgid "Display the progress of ongoing downloads"
-msgstr "Прикажи напредак преузимања"
+msgstr "Прикажи напредак пријема"
 
 #: downloads.commandkey
 #: searchFocusUnix.commandkey
@@ -352,7 +404,6 @@ msgstr "y"
 #: addons.accesskey
 #: selectAllCmd.key
 #: spellAddDictionaries.accesskey
-#, fuzzy
 msgid "&Add-ons"
 msgstr "&Додаци"
 
@@ -368,7 +419,6 @@ msgstr "&Јава конзола"
 #: errorConsoleCmd.label
 #: errorConsoleCmd.accesskey
 #: copyCmd.key
-#, fuzzy
 msgid "Error &Console"
 msgstr "Конзола за &грешке"
 
@@ -389,12 +439,12 @@ msgstr "&Нови прозор"
 
 #: newNavigatorCmd.key
 msgid "N"
-msgstr "n"
+msgstr "N"
 
 #: editMenu.label
 #: editMenu.accesskey
 msgid "&Edit"
-msgstr "&Уређење"
+msgstr "&Уреди"
 
 #: undoCmd.label
 #: undoCmd.accesskey
@@ -412,7 +462,7 @@ msgstr "&Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr "п"
+msgstr "Y"
 
 #: cutCmd.label
 #: cutCmd.accesskey
@@ -432,7 +482,7 @@ msgstr "&Умножи"
 #: copyCmd.key
 #: errorConsoleCmd.accesskey
 msgid "C"
-msgstr "c"
+msgstr "C"
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
@@ -441,7 +491,7 @@ msgstr "У&баци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr "v"
+msgstr "V"
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
@@ -467,7 +517,7 @@ msgstr "A"
 #: preferencesCmd.label
 #: preferencesCmd.accesskey
 msgid "&Options..."
-msgstr "&Поставке..."
+msgstr "&Опције..."
 
 #: preferencesCmdUnix.label
 #: preferencesCmdUnix.accesskey
@@ -477,7 +527,7 @@ msgstr "Поде&шавања"
 #: clearPrivateDataCmd.label
 #: clearPrivateDataCmd.accesskey
 msgid "Clear &Private Data"
-msgstr "Озбриши &приватне податке"
+msgstr "Уклони &приватне податке"
 
 #: viewMenu.label
 #: viewMenu.accesskey
@@ -492,12 +542,12 @@ msgstr "П&анели алата"
 #: viewSidebarMenu.label
 #: viewSidebarMenu.accesskey
 msgid "Sid&ebar"
-msgstr "Бо&чни панел"
+msgstr "Бо&чна трака"
 
 #: viewCustomizeToolbar.label
 #: viewCustomizeToolbar.accesskey
 msgid "&Customize..."
-msgstr "&Подеси..."
+msgstr "&Прилагоди..."
 
 # XXX historyMenu entities are used with or without places (bug 336058)
 #: historyMenu.label
@@ -506,15 +556,13 @@ msgstr "&Подеси..."
 #: historySidebarCmd.accesskey
 #: historySearchCmd.accesskey
 #: savePageCmd.commandkey
-#, fuzzy
 msgid "Hi&story"
-msgstr "И"
+msgstr "&Историјат"
 
 #: historyUndoMenu.label
 #: historyUndoMenu.accesskey
-#, fuzzy
 msgid "&Recently Closed Tabs"
-msgstr "З"
+msgstr "&Недавно затворени језичци"
 
 # XXX places only
 # Toolbar items
@@ -523,9 +571,8 @@ msgstr "З"
 #: homeButton.label
 #: goHomeCmd.label
 #: historySidebarCmd.commandKey
-#, fuzzy
 msgid "&Home"
-msgstr "h"
+msgstr "&Дом"
 
 #: historySearchCmd.label
 #: historySearchCmd.accesskey
@@ -533,13 +580,12 @@ msgstr "h"
 #: historyMenu.accesskey
 #: savePageCmd.commandkey
 msgid "&Search in History..."
-msgstr "&Претрага у историјату..."
+msgstr "&Претрага историјата..."
 
 #: historyShowCmd.label
 #: historyShowCmd.accesskey
-#, fuzzy
 msgid "&View All History..."
-msgstr "м"
+msgstr "&Преглед целог историјата..."
 
 #: placesToolbarButton.label
 #: placesToolbarButton.tooltip
@@ -558,7 +604,7 @@ msgstr "Ранији историјат"
 
 #: historyShowSidebarCmd.label
 msgid "Show in Sidebar"
-msgstr "Прикажи у траци постранце"
+msgstr "Прикажи у бочној траци"
 
 #: releaseCmd.label
 #: releaseCmd.accesskey
@@ -598,7 +644,6 @@ msgstr "k"
 
 #: searchFocus.commandkey2
 #: viewPartialSourceCmd.accesskey
-#, fuzzy
 msgid "e"
 msgstr "e"
 
@@ -620,17 +665,17 @@ msgstr "&Отвори"
 #: openFrameCmd.label
 #: openFrameCmd.accesskey
 msgid "Open Frame in New &Window"
-msgstr "Отвори фрејм у новом &прозору"
+msgstr "Отвори оквир у новом &прозору"
 
 #: openFrameCmdInTab.label
 #: openFrameCmdInTab.accesskey
 msgid "Open Frame in New &Tab"
-msgstr "Отвори фре&јм у новом језичку"
+msgstr "Отвори о&квир у новом језичку"
 
 #: showOnlyThisFrameCmd.label
 #: showOnlyThisFrameCmd.accesskey
 msgid "Sho&w Only This Frame"
-msgstr "При&кажи само овај фрејм"
+msgstr "При&кажи само овај оквир"
 
 #: reloadCmd.commandkey
 msgid "r"
@@ -639,7 +684,7 @@ msgstr "r"
 #: reloadFrameCmd.label
 #: reloadFrameCmd.accesskey
 msgid "&Reload Frame"
-msgstr "&Обнови фрејм"
+msgstr "&Обнови оквир"
 
 #: viewPartialSourceForSelectionCmd.label
 msgid "View Selection Source"
@@ -657,7 +702,7 @@ msgstr "&Преглед HTML кода"
 #: viewFrameSourceCmd.label
 #: viewFrameSourceCmd.accesskey
 msgid "&View Frame Source"
-msgstr "&Преглед HTML кода"
+msgstr "&Преглед HTML кода у оквиру"
 
 #: viewPageInfoCmd.label
 #: viewPageInfoCmd.accesskey
@@ -667,7 +712,7 @@ msgstr "По&даци о страни"
 #: viewFrameInfoCmd.label
 #: viewFrameInfoCmd.accesskey
 msgid "View Frame &Info"
-msgstr "По&даци о фрејму"
+msgstr "По&даци о оквиру"
 
 #: viewImageCmd.label
 #: viewImageCmd.accesskey
@@ -682,27 +727,27 @@ msgstr "При&кажи позадинску слику"
 #: setDesktopBackgroundCmd.label
 #: setDesktopBackgroundCmd.accesskey
 msgid "&Set As Desktop Background..."
-msgstr "&Постави као позадину радне површине..."
+msgstr "&Постави на позадину радне површине..."
 
 #: bookmarkPageCmd.label
 #: bookmarkPageCmd.accesskey
 msgid "Book&mark This Page..."
-msgstr "Д&одај страну у омиљено..."
+msgstr "&Забележи страну..."
 
 #: bookmarkLinkCmd.label
 #: bookmarkLinkCmd.accesskey
 msgid "Bookmark This &Link..."
-msgstr "Дод&ај адресу у омиљено..."
+msgstr "Забележи ову &везу..."
 
 #: bookmarkFrameCmd.label
 #: bookmarkFrameCmd.accesskey
 msgid "Bookmark This &Frame..."
-msgstr "Додај &фрејм у омољено..."
+msgstr "Забележи овај о&квир..."
 
 #: sendPageCmd.label
 #: sendPageCmd.accesskey
 msgid "S&end Link..."
-msgstr "По&шаљи страну..."
+msgstr "По&шаљи везу..."
 
 #: savePageCmd.label
 #: savePageCmd.accesskey
@@ -712,22 +757,22 @@ msgstr "Сачувај страну &као..."
 # alternate for content area context menu
 #: savePageCmd.accesskey2
 msgid "P"
-msgstr "Ш"
+msgstr "P"
 
 #: saveFrameCmd.label
 #: saveFrameCmd.accesskey
 msgid "Save &Frame As..."
-msgstr "Сачувај &фрејм као..."
+msgstr "Сачувај &оквир као..."
 
 #: saveLinkCmd.label
 #: saveLinkCmd.accesskey
 msgid "Save Lin&k As..."
-msgstr "Сачувај а&дресу као..."
+msgstr "Сачувај &везу као..."
 
 #: sendLinkCmd.label
 #: sendLinkCmd.accesskey
 msgid "Sen&d Link..."
-msgstr "По&шаљи адресу ел. поштом..."
+msgstr "По&шаљи везу..."
 
 #: saveImageCmd.label
 #: saveImageCmd.accesskey
@@ -742,7 +787,7 @@ msgstr "По&шаљи слику..."
 #: copyLinkCmd.label
 #: copyLinkCmd.accesskey
 msgid "&Copy Link Location"
-msgstr "&Умножи адресу"
+msgstr "&Умножи везу"
 
 #: copyImageCmd.label
 #: copyImageCmd.accesskey
@@ -756,9 +801,8 @@ msgstr "Умножи &слику"
 
 #: blockImageCmd.accesskey
 #: findAgainCmd.commandkey
-#, fuzzy
 msgid "g"
-msgstr "б"
+msgstr "g"
 
 #: metadataCmd.label
 #: metadataCmd.accesskey
@@ -773,7 +817,7 @@ msgstr "Умножи адр&есу ел.поште"
 #: thisFrameMenu.label
 #: thisFrameMenu.accesskey
 msgid "T&his Frame"
-msgstr "У о&вом фрејму"
+msgstr "У о&вом оквиру"
 
 #: textZoomEnlargeCmd.label
 #: textZoomEnlargeCmd.accesskey
@@ -822,7 +866,7 @@ msgstr "Отвара нови прозор"
 
 #: sidebarCloseButton.tooltip
 msgid "Close sidebar"
-msgstr "Затвори бочни панел"
+msgstr "Затвори бочну траку"
 
 #: cutButton.tooltip
 msgid "Cut"
@@ -852,7 +896,7 @@ msgstr "]"
 #: quitApplicationCmd.label
 #: quitApplicationCmd.accesskey
 msgid "&Quit"
-msgstr "&Изађи"
+msgstr "&Крај"
 
 #: quitApplicationCmdMac.label
 msgid "Quit"
@@ -860,7 +904,7 @@ msgstr "Крај"
 
 #: quitApplicationCmdMac.key
 msgid "Q"
-msgstr "К"
+msgstr "Q"
 
 #: closeCmd.label
 #: closeCmd.accesskey
@@ -869,7 +913,7 @@ msgstr "&Затвори"
 
 #: closeCmd.key
 msgid "W"
-msgstr "w"
+msgstr "W"
 
 #: pageStyleMenu.label
 #: pageStyleMenu.accesskey
@@ -892,11 +936,11 @@ msgstr "&Основни стил стране"
 
 #: pageStyleIcon.tooltip
 msgid "Switch to an alternate page style"
-msgstr "Промени стил стране"
+msgstr "Постави други стил стране"
 
 #: pageReportIcon.tooltip
 msgid "Change popup blocking settings for this web site"
-msgstr "Мења параметре блокирања искачућих прозора"
+msgstr "Подеси блокирање искачућих прозора"
 
 # On Windows we use the term "Options" to describe settings, but
 # on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -908,17 +952,17 @@ msgstr "Edit Popup Blocker Preferences..."
 #: editPopupSettings.label
 #: editPopupSettings.accesskey
 msgid "&Edit Popup Blocker Options..."
-msgstr "&Начин блокирања искачућих прозора ..."
+msgstr "&Уреди блокирање искачућих прозора ..."
 
 #: bidiSwitchPageDirectionItem.label
 #: bidiSwitchPageDirectionItem.accesskey
 msgid "Switch Pa&ge Direction"
-msgstr "Пр&омени оријентацију стране"
+msgstr "Пр&омени усмерење стране"
 
 #: bidiSwitchTextDirectionItem.label
 #: bidiSwitchTextDirectionItem.accesskey
 msgid "S&witch Text Direction"
-msgstr "Про&мени оријентацију текста"
+msgstr "Про&мени усмерење текста"
 
 #: findOnCmd.label
 #: findOnCmd.accesskey
@@ -948,7 +992,7 @@ msgstr "Додај у &речник"
 #: spellEnable.accesskey
 #: searchBookmarksCmd.accesskey
 msgid "&Spell check this field"
-msgstr "Провери &правопис у овом пољу"
+msgstr "Провера &правописа"
 
 #: spellNoSuggestions.label
 msgid "(No spelling suggestions)"

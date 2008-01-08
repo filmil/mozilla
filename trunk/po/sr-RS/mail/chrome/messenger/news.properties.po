@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:39+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/mail/chrome/messenger/news.properties
 msgid ""
 msgstr ""
@@ -71,7 +86,7 @@ msgstr "Преузми заглавља"
 
 #: downloadHeadersInfoText
 msgid "There are %S new message headers to download for this newsgroup."
-msgstr "Оволико порука треба преузети за ову групу: %S."
+msgstr "Оволико порука треба примити за ову групу: %S."
 
 #: htmlNewsErrorTitle
 msgid "Error!"
@@ -117,7 +132,7 @@ msgstr "Потребно је унети лозинку за сервер за �
 
 #: okButtonText
 msgid "Download"
-msgstr "Преузми"
+msgstr "Прими"
 
 # Status - no messages to download
 # # @name IMAP_NO_NEW_MESSAGES
@@ -128,15 +143,15 @@ msgstr "Нема нових порука на серверу."
 
 #: downloadingHeaders
 msgid "Downloading %S of %S headers"
-msgstr "Број преузетих чланака: %S од укупно: %S"
+msgstr "Број примљених чланака: %S од укупно: %S"
 
 #: downloadingArticles
 msgid "Downloading articles %S-%S"
-msgstr "Преузимање чланака %S-%S"
+msgstr "Пријем чланака %S-%S"
 
 #: bytesReceived
 msgid "Downloading newsgroups: %S received (%SKB read at %SKB/sec)"
-msgstr "Преузимање група: %S преузето (%SKB прочитано при %SKB/s)"
+msgstr "Пријем група: %S примљено (%SKB прочитано при %SKB/s)"
 
 #: checkingForNewNews
 msgid "Checking newsgroup %S of %S on %S for new messages"
@@ -144,7 +159,7 @@ msgstr "Провери групу %S од %S на %S за нове поруке"
 
 #: downloadingArticlesForOffline
 msgid "Downloading articles %S-%S in %S"
-msgstr "Преузимање чланака %S-%S у %S"
+msgstr "Пријем чланака %S-%S у %S"
 
 #: onlyCancelOneMessage
 msgid "You can only cancel one article at a time."
@@ -153,7 +168,7 @@ msgstr "Можете отказати само један по један чла
 # LOCALIZATION NOTE (autoUnsubscribeText): %1$S is the newsgroup and %2$S is the newsgroup-server it is being removed from.
 #: autoUnsubscribeText
 msgid "The newsgroup %1$S does not appear to exist on the host %2$S.  Would you like to unsubscribe from it?"
-msgstr "Група %1$S изгледа не постоји на серверу %2$S. Да ли бисте желели да откажете претплату на њих?"
+msgstr "Група %1$S изгледа не постоји на серверу %2$S. Да ли бисте желели да откажете претплату на њу?"
 
 # LOCALIZATION NOTE (autoSubscribeText): %1$S is the newsgroup.
 # LOCALIZATION NOTE (autoSubscribeText): %1$S is the imap folder.

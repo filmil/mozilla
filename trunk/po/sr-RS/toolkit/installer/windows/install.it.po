@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:27+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from 
 msgid ""
 msgstr ""
@@ -471,7 +486,7 @@ msgstr "Место за пријем:"
 
 #: STR_SAVE_INSTALLER_FILES
 msgid "Save downloaded and Setup program files to:"
-msgstr "Сачувајте преузете датотеке и инсталатер у:"
+msgstr "Сачувајте примљене датотеке и инсталатер у:"
 
 #: MSG_INIT_SETUP
 msgid "Initializing Setup, please wait..."
@@ -495,7 +510,7 @@ msgstr "Извлачење: %s"
 
 #: STATUS_LAUNCHING_SETUP
 msgid "Launching Setup..."
-msgstr "Покретање инсталатера"
+msgstr "Покретање инсталатера..."
 
 #: ERROR_FILE_WRITE
 msgid "Unable to write file %s"
@@ -507,7 +522,7 @@ msgstr "Инсталација"
 
 #: ERROR_OUT_OF_MEMORY
 msgid "Out of memory!"
-msgstr "Нема меморије!"
+msgstr "Нема довољно меморије!"
 
 #: ERROR_DLL_LOAD
 msgid "Could not load %s"
@@ -519,11 +534,11 @@ msgstr "Није могуће учитати ресурс са кључем: %d"
 
 #: ERROR_STRING_NULL
 msgid "Null pointer encountered."
-msgstr "Нулти поинтер."
+msgstr "Нулта вредност поинтера (null)."
 
 #: ERROR_GLOBALALLOC
 msgid "Memory allocation error."
-msgstr "Грешка при расподели меморије."
+msgstr "Грешка при додели меморије."
 
 #: MSG_FORCE_QUIT_PROCESS
 msgid "Setup has detected that %s (%s) is still running.  Click OK to quit %s and proceed with installation. Alternatively, use the Windows Task Manager to quit %s, and then click OK to continue with installation."

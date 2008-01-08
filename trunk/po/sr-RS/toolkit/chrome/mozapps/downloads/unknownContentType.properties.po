@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2006-11-23 21:18+0100\n"
+"PO-Revision-Date: 2007-12-25 12:17+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "Изаберите директоријум за покретање"
 
 #: myDownloads
 msgid "My Downloads"
-msgstr "Моја преузимања"
+msgstr "Моји пријеми"
 
 #: unknownAccept.label
 msgid "Save File"

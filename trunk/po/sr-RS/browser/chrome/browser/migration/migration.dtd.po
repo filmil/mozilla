@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 23:43+0200\n"
+"PO-Revision-Date: 2007-12-28 10:02-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Увези подешавања, везе, каталоге, лозин�
 
 #: importFromBookmarks.label
 msgid "Import Bookmarks from:"
-msgstr "Увези омиљене локације из:"
+msgstr "Увези забелешке из програма:"
 
 #: importFromIE.label
 #: importFromIE.accesskey
@@ -43,7 +43,7 @@ msgstr "Firefox 0.8, Firebird или &Phoenix"
 #: importFromNothing.label
 #: importFromNothing.accesskey
 msgid "&Don't import anything"
-msgstr "Не увози ништа"
+msgstr "Не увози ни&шта"
 
 #: importFromSeamonkey.label
 #: importFromSeamonkey.accesskey
@@ -118,7 +118,7 @@ msgstr "Изаберите објекте за увоз:"
 
 #: migrating.title
 msgid "Importing..."
-msgstr "Увозим..."
+msgstr "Увоз..."
 
 #: migrating.label
 msgid "The following items are currently being imported..."

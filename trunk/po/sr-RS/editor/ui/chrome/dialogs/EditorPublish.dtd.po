@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-08-29 10:11-0500\n"
+"PO-Revision-Date: 2007-12-25 02:04+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Укључи слике и остале датотеке"
 
 #: publishImgCheckbox.tooltip
 msgid "Publish images and other files referenced by this page"
-msgstr "Објави слике и остале датотеке које помиње ова страница"
+msgstr "Објави слике и остале датотеке које помиње ова страна"
 
 #: sameLocationRadio.label
 msgid "Use same location as page"

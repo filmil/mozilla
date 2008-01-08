@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-28 10:05-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/editor/ui/chrome/composer/editor.properties
 msgid ""
 msgstr ""
@@ -310,7 +325,7 @@ msgstr "Унесите наслов за тренутну страну."
 
 #: DocTitleHelp
 msgid "This identifies the page in the window title and bookmarks."
-msgstr "Овај текст се исписује у наслову прозора и међу омиљеним везама."
+msgstr "Овај текст се исписује у наслову прозора и у забелешкама."
 
 #: CancelPublishTitle
 msgid "Cancel publishing?"
@@ -757,11 +772,11 @@ msgstr "Унесите знак који се користи за раздвај
 #  download spelling dictionaries confirmation dialog
 #: DictDownldConfirmTit
 msgid "Download Dictionaries"
-msgstr "Преузми речнике"
+msgstr "Пријем речника"
 
 #: DictDownldConfirmMsg
 msgid "%brand% will close the current window and redirect you to a spellchecker download site."
-msgstr "%brand% ће затворити тренутни прозор и преусмерити вас на ел. место одакле се може преузети правописар."
+msgstr "%brand% ће затворити тренутни прозор и преусмерити вас на ел. место одакле може да се набави правописар."
 
 #
 #: NoHeadTag

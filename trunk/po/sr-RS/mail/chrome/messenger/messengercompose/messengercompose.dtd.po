@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-26 01:07+0100\n"
+"PO-Revision-Date: 2007-12-25 02:13+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -298,7 +298,7 @@ msgstr "&Статусна трака"
 #: customizeToolbar.label
 #: customizeToolbar.accesskey
 msgid "&Customize..."
-msgstr "&Произвољно..."
+msgstr "&Прилагоди..."
 
 #: addressSidebar.label
 #: addressSidebar.accesskey
@@ -574,7 +574,7 @@ msgstr "Умножи"
 
 #: pasteButton.tooltip
 msgid "Paste"
-msgstr "Налепи"
+msgstr "Убаци"
 
 # Headers
 #: fromAddr.label
@@ -718,7 +718,7 @@ msgstr "Додај у ре&чник"
 #: pasteQuote.label
 #: pasteQuote.accesskey
 msgid "Paste As &Quotation"
-msgstr "Налепи као &цитат"
+msgstr "Убаци као &цитат"
 
 #: openAttachment.label
 #: openAttachment.accesskey

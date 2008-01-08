@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:33+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/mail/chrome/messenger/addressbook/pref-directory-add.dtd
 msgid ""
 msgstr ""
@@ -154,7 +169,7 @@ msgstr "резултата"
 
 #: offlineText.label
 msgid "You can download a local copy of this directory so that it is available for use when you are working offline."
-msgstr "Можете преузети локалну копију овог директоријума тако да је доступан за употребу када радите неповезани на Интернет."
+msgstr "Можете примити локалну копију овог директоријума тако да је доступан за употребу када радите неповезани на Интернет."
 
 # Localization note: this is here because the width of the dialog
 # is determined by the width of the base DN box; and that is likely

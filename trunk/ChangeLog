@@ -1,3 +1,17 @@
+2007-12-28  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/browser/preferences/main.dtd.po: Corrected system defaults
+
+2007-12-27  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/searchplugins/list.txt: Added UK varieties of eBay and Amazon
+
+2007-12-25  Filip Miletic  <filmil@gmail.com>
+
+	* All "downloads" translated as "пријем".
+
+	* tools/dictionary/thunderbird.po: Anchor name translated.  Fuzzy entries eliminated.
+
 2007-09-06  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/browser/searchplugins/list.txt: Added to list

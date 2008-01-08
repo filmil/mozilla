@@ -2,13 +2,12 @@
 #    Those strings are inserted into an HTML page, so you all HTML characters
 #    have to be escaped in a way that they show up correctly in HTML!
 # extracted from source/sr-RS/dom/chrome/plugins.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-12-28 08:49-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: title_label
 msgid "About Plug-ins"
-msgstr "Додатци (plug-ins)"
+msgstr "Додаци (plug-ins)"
 
 #: installedplugins_label
 msgid "Installed plug-ins"
@@ -28,7 +27,7 @@ msgstr "Поставите додатке"
 
 #: nopluginsareinstalled_label
 msgid "No plug-ins are installed"
-msgstr "Додатци нису постављени"
+msgstr "Додаци нису постављени"
 
 #: findmore_label
 msgid "Find more information about browser plug-ins at"

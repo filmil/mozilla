@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/general.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-12-28 08:53-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,13 +16,12 @@ msgstr ""
 
 #: systemDefaults.label
 msgid "System Defaults"
-msgstr ""
+msgstr "Изворна подешавања"
 
 #: alwaysCheckDefault.label
 #: alwaysCheckDefault.accesskey
-#, fuzzy
 msgid "A&lways check to see if &brandShortName; is the default mail client on startup"
-msgstr "У"
+msgstr "&Увек при покретању провери да ли је програм &brandShortName; подразумевани читач поште"
 
 # There's some sort of bug which makes wrapping checkboxes not properly reflow,
 # causing the bottom border of the groupbox to be cut off; set this
@@ -31,7 +29,6 @@ msgstr "У"
 # 
 #
 #: alwaysCheckDefault.height
-#, fuzzy
 msgid ""
 "_: \n"
 ""
@@ -49,9 +46,8 @@ msgstr "Подешавање прозора"
 #: selectWindowLayout.label
 #: selectWindowLayout.accesskey
 #: showAnimatedAlert.accesskey
-#, fuzzy
 msgid "&Select the window layout you prefer for Mail."
-msgstr "з"
+msgstr "И&збор распореда прозора за пошту."
 
 #: messengerStartPage.label
 msgid "&brandShortName; Start Page"
@@ -59,26 +55,23 @@ msgstr "Прва страна за &brandShortName;"
 
 #: enableStartPage.label
 #: enableStartPage.accesskey
-#, fuzzy
 msgid "&When &brandShortName; launches, show the Start Page in the message area"
-msgstr "З"
+msgstr "Када се програм &brandShortName; покрене, прика&жи почетну страну у прозору за поруке"
 
 #: location.label
 #: location.accesskey
 msgid "&Location:"
-msgstr "Лок&ација(е):"
+msgstr "&Место:"
 
 #: useDefault.label
 #: useDefault.accesskey
-#, fuzzy
 msgid "&Restore Default"
-msgstr "З"
+msgstr "&Врати изворно"
 
 #: bounceSystemDockIcon.label
 #: bounceSystemDockIcon.accesskey
-#, fuzzy
 msgid "An&imate the dock icon"
-msgstr "i"
+msgstr "Ани&мација сличице у обавештајној зони"
 
 #: newMessagesArrive.label
 msgid "When new messages arrive:"
@@ -86,22 +79,19 @@ msgstr "Када поруке стигну:"
 
 #: playSound.label
 #: playSound.accesskey
-#, fuzzy
 msgid "&Play a sound"
-msgstr "Ш"
+msgstr "&Пусти звук"
 
 #: showAnimatedAlert.label
 #: showAnimatedAlert.accesskey
 #: selectWindowLayout.accesskey
-#, fuzzy
 msgid "&Show an alert"
-msgstr ""
+msgstr "&Прикажи обавештење"
 
 #: customizeNewMailBehavior.label
 #: customizeNewMailBehavior.accesskey
-#, fuzzy
 msgid "&Advanced..."
-msgstr "П"
+msgstr "На&предно..."
 
 #: showConnections.label
 #: showConnections.accesskey

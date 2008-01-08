@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-13 01:11+0200\n"
+"PO-Revision-Date: 2007-12-28 08:54-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -95,7 +95,7 @@ msgstr "&Увек питај где да чувам датотеке"
 
 #: systemDefaults.label
 msgid "System Defaults"
-msgstr "Системско подешавање"
+msgstr "Изворна подешавања"
 
 # XXX
 #: alwaysCheckDefault.label

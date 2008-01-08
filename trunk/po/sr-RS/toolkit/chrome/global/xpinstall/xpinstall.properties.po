@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:26+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #
@@ -281,7 +296,7 @@ msgstr "Прекинуто"
 
 #: error-228
 msgid "Download error"
-msgstr "Грешка пи преузимању"
+msgstr "Грешка при пријему"
 
 #: error-229
 msgid "Script error"
@@ -309,7 +324,7 @@ msgstr "Потпис је немогуће потврдити."
 
 #: error-261
 msgid "Invalid file hash (possible download corruption)"
-msgstr "Неисправна датотека (вероватно непотпуно преузет)"
+msgstr "Неисправна датотека (можда је дошло до грешке при пријему)"
 
 #: error-262
 msgid "Unknown or invalid file hash type"

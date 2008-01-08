@@ -1,4 +1,7 @@
-# extracted from source/sr-RS/browser/chrome/browser/page-drawer.dtd
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -20,4 +23,4 @@ msgstr "Ухвати страну"
 
 #: addPanel.label
 msgid "Add Bookmark"
-msgstr "Додај у омиљено"
+msgstr "Забележи"

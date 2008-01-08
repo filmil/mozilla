@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:36+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #### Add HTML and Plain Text Domain Names for sendOption
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/preferences.properties
 msgid ""
@@ -113,7 +128,7 @@ msgstr "Радна површина"
 
 #: myDownloadsFolderName
 msgid "My Downloads"
-msgstr "Моја преузимања"
+msgstr "Моји пријеми"
 
 #: chooseDownloadFolderTitle
 msgid "Choose Download Folder:"
@@ -141,7 +156,7 @@ msgstr "Изабрано дејство неће више бити изврша�
 
 #: removeMessageMultiple
 msgid "The selected Actions will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove these Actions?"
-msgstr "Одабрана Дејства неће више бити извршена када су преузете датотеке ових погођених врста. Желите ли сигурно уклонити ова Дејства?"
+msgstr "Одабрана дејства неће више бити извршена када су преузете датотеке ових погођених врста. Да ли желите да уклоните ова дејства?"
 
 #: fileEnding
 msgid "%S file"

@@ -1,3 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-28 10:04-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #### Main
 # extracted from source/sr-RS/browser/chrome/browser/preferences/preferences.properties
 msgid ""
@@ -33,7 +47,7 @@ msgstr "Избор насловне стране"
 
 #: choosebookmark
 msgid "%brand% can set your home page to a site you have already added to your Bookmarks. Select a Bookmark below and click OK."
-msgstr "%brand% може да постави вашу почетну страну из листе омиљених веза. Изаберите везу из листе и притисните „У реду‟."
+msgstr "Програм %brand% може да постави забележену страну као почетну. Изаберите везу из забелешки и притисните „У реду‟."
 
 #: choosefile
 msgid "Choose a file"
@@ -61,7 +75,7 @@ msgstr "Постави главну лозинку..."
 #: setMasterPassword_accesskey
 #: changeMasterPassword_accesskey
 msgid "M"
-msgstr "П"
+msgstr "M"
 
 #: changeMasterPassword
 msgid "Change Master Password..."
@@ -81,7 +95,7 @@ msgstr "Можете одредити којим веб странама је д
 
 #: cookiepermissionstitle
 msgid "Exceptions - Cookies"
-msgstr "Изузетци - Колачићи"
+msgstr "Изузеци - Колачићи"
 
 #: addonspermissionstext
 msgid "You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow."
@@ -189,11 +203,11 @@ msgstr "Позадина"
 
 #: myDownloadsFolderName
 msgid "My Downloads"
-msgstr "Моја преузимања"
+msgstr "Моји пријеми"
 
 #: chooseDownloadFolderTitle
 msgid "Choose Download Folder:"
-msgstr "Изаберите директоријум преузимања:"
+msgstr "Изаберите директоријум за пријем:"
 
 #### Download Actions
 # ### Download Actions
@@ -213,11 +227,11 @@ msgstr "Уклони акције"
 
 #: removeMessageSingle
 msgid "The selected Action will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove this Action?"
-msgstr "Изабрана акција више неће бити примењивана приликом преузимања изабраног типа. Да ли желите да уклоните ову акцију?"
+msgstr "Изабрана акција више неће бити примењивана код пријема изабраног типа. Да ли желите да уклоните ову акцију?"
 
 #: removeMessageMultiple
 msgid "The selected Actions will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove these Actions?"
-msgstr "Изабрана акција више неће бити примењивана приликом преузимања изабраних типова. Да ли желите да уклоните ове акције?"
+msgstr "Изабрана акција више неће бити примењивана код пријема изабраних типова. Да ли желите да уклоните ове акције?"
 
 #: fileEnding
 msgid "%S file"
@@ -259,7 +273,7 @@ msgstr "Изаберите помоћни програм"
 
 #: fpTitleChooseDL
 msgid "Select Download Folder"
-msgstr "Изаберите директоријум за преузимање"
+msgstr "Изаберите директоријум за пријем"
 
 #### Cookie Viewer
 # ### Cookie Viewer

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-11 01:28+0200\n"
+"PO-Revision-Date: 2007-12-28 10:03-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +83,7 @@ msgstr "&Обнови линије алатки и контроле"
 #: resetBookmarks.label
 #: resetBookmarks.accesskey
 msgid "Reset &bookmarks to &brandShortName; defaults"
-msgstr "Врати листу &омиљених веза на изворно за програм &brandShortName;"
+msgstr "Врати &изворне забелешке за програм &brandShortName;"
 
 #: resetUserPrefs.label
 #: resetUserPrefs.accesskey

@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:37+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/advanced.dtd
 msgid ""
 msgstr ""
@@ -126,7 +141,7 @@ msgstr "&Питај ме шта да радим"
 #: modeAutomatic.label
 #: modeAutomatic.accesskey
 msgid "Auto&matically download and install the update"
-msgstr "Самостално &преузми и постави унапређење"
+msgstr "Самостално &прими и постави унапређење"
 
 #: modeAutoAddonWarn.label
 #: modeAutoAddonWarn.accesskey
@@ -154,7 +169,7 @@ msgstr "Запамти претходно стање везе"
 
 #: radioRememberPrevState.accesskey
 msgid "R"
-msgstr "З"
+msgstr "R"
 
 #: radioAskMe
 msgid "Ask me for online state at startup"
@@ -162,7 +177,7 @@ msgstr "Питај ме за стање везе при покретању"
 
 #: radioAskMe.accesskey
 msgid "u"
-msgstr "п"
+msgstr "u"
 
 #: radioAlwaysOnline
 msgid "Always start up online"
@@ -170,7 +185,7 @@ msgstr "Увек ради на вези"
 
 #: radioAlwaysOnline.accesskey
 msgid "l"
-msgstr "У"
+msgstr "l"
 
 #: textGoingOnline
 msgid "Send unsent messages when going online?"
@@ -183,7 +198,7 @@ msgstr "Да"
 
 #: radioAutoSend.accesskey
 msgid "Y"
-msgstr "Д"
+msgstr "Y"
 
 #: radioNotSend
 #: radioNotDownload
@@ -201,7 +216,7 @@ msgstr "Питај ме"
 
 #: radioAskUnsent.accesskey
 msgid "s"
-msgstr "т"
+msgstr "s"
 
 #: textGoingOffline
 msgid "Download messages for offline use when going offline?"
@@ -217,7 +232,7 @@ msgstr "o"
 
 #: radioAskDownload.accesskey
 msgid "a"
-msgstr "д"
+msgstr "a"
 
 #: Diskspace
 msgid "Disk Space"

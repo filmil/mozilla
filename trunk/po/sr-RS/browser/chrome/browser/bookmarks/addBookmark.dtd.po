@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/bookmarks/addBookmark.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2007-12-28 10:01-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: newBookmark.title
 msgid "Add Bookmark"
-msgstr "Додај у омиљено"
+msgstr "Забележи"
 
 #: newbookmark.label
 msgid "&brandShortName; will add a bookmark to this page."
-msgstr "&brandShortName; додај ову страницу у омиљено."
+msgstr "Програм &brandShortName; ће забележити ову страну."
 
 #: name.label
 #: name.accesskey
@@ -35,7 +34,7 @@ msgstr "Кључна реч:"
 
 #: microsummary.label
 msgid "Live Titles"
-msgstr ""
+msgstr "Живи наслови"
 
 #: url.label
 #: url.accesskey
@@ -73,7 +72,7 @@ msgstr "Не показуј више овај дијалог"
 
 #: dontshowmessage.tooltip
 msgid "When this option is selected, new Bookmarks will be added using the title provided by the page."
-msgstr "Када је ова опција изабрана нове омиљене страна називаће се стварним називом удаљене стране."
+msgstr "Када је ова опција изабрана нове забелешке ће користити изворна имена страна"
 
 #: selectFolder.label
 msgid "Choose Folder"
@@ -85,7 +84,7 @@ msgstr "Прикажи садржај свих каталога"
 
 #: expanderUp.tooltip
 msgid "Hide"
-msgstr "Сакри"
+msgstr "Сакриj"
 
 #: acceptButton.label
 msgid "Add"
@@ -93,4 +92,4 @@ msgstr "Додај"
 
 #: bookmarksToolbar.label
 msgid "Bookmarks Toolbar"
-msgstr "Линија омиљених страна"
+msgstr "Трака са забелешкама"

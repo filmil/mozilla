@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-24 22:33+0100\n"
+"PO-Revision-Date: 2007-12-25 02:23+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: title.label
 msgid "Customize Character Encoding"
-msgstr "Произвољан избор кодирања"
+msgstr "Прилагоди кодирање знакова"
 
 #: current.label
 msgid "Active Character Encodings:"

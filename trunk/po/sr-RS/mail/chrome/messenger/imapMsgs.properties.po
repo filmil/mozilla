@@ -1,3 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:30+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #
@@ -280,7 +294,7 @@ msgstr "Добављање подешавања поштанског санду�
 # # @loc None
 #: 5032
 msgid "This body part will be downloaded on demand."
-msgstr "Тело поруке ће бити преузето на захтев."
+msgstr "Тело поруке ће бити добављено на захтев."
 
 ## @name IMAP_UNABLE_TO_SAVE_MESSAGE
 ## @loc None
@@ -317,7 +331,7 @@ msgstr "Пријава на сервер %S није успела."
 # # @loc None
 #: 5036
 msgid "%S Downloading message header %lu of %lu"
-msgstr "Програм %S преузима заглавље поруке бр. %lu од %lu"
+msgstr "Програм %S прима заглавље поруке бр. %lu од %lu"
 
 ## @name IMAP_RECEIVING_MESSAGE_FLAGS_OF
 ## @loc None

@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:36+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # extracted from source/sr-RS/mail/chrome/messenger/preferences/changeaction.dtd
 msgid ""
 msgstr ""
@@ -27,27 +42,27 @@ msgstr "36em"
 
 #: whenDownloading.label
 msgid "When downloading files like this:"
-msgstr "Када преузимам датотеке сличне овој:"
+msgstr "При пријему датотека сличних овој:"
 
 #: openDefault.label
 #: openDefault.accesskey
 msgid "&Open them with the default application:"
-msgstr "&Отвори помоћу подразумеваног програма:"
+msgstr "&Отвори подразумеваним програмом:"
 
 #: openApplication.label
 #: openApplication.accesskey
 msgid "Op&en them with this application:"
-msgstr "О&твори помоћу овог програма:"
+msgstr "О&твори овим програмом:"
 
 #: changeApp.label
 #: changeApp.accesskey
 msgid "&Browse..."
-msgstr "&Изабери:"
+msgstr "&Избор..."
 
 #: saveToDisk.label
 #: saveToDisk.accesskey
 msgid "&Save them on my computer"
-msgstr "&Сачувај на Ваш рачунар"
+msgstr "&Сачувај на рачунар"
 
 #: saveToDefaultFolder.label
 #: saveToDefaultFolder.accesskey
@@ -57,12 +72,12 @@ msgstr "у &подразумевани директоријум"
 #: saveToThisFolder.label
 #: saveToThisFolder.accesskey
 msgid "in t&his folder:"
-msgstr "у &директоријум:"
+msgstr "у овај &директоријум:"
 
 #: chooseFolder.label
 #: chooseFolder.accesskey
 msgid "Bro&wse..."
-msgstr "И&забери:"
+msgstr "И&збор..."
 
 #: saveToAskMe.label
 #: saveToAskMe.accesskey
@@ -72,4 +87,4 @@ msgstr "&питај ме где да сачувам датотеку"
 #: usePlugin.label
 #: usePlugin.accesskey
 msgid "Use this &Plugin:"
-msgstr "Користи &додатак:"
+msgstr "користи овај &додатак:"

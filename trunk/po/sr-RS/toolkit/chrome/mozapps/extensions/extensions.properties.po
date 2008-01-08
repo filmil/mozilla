@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2006-11-23 19:55+0100\n"
+"PO-Revision-Date: 2007-12-25 02:18+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,15 +62,15 @@ msgstr "Унапређење није подржано (%S не подржава
 
 #: restartBeforeEnableTitle
 msgid "Enable Extension"
-msgstr "Омогући проширење"
+msgstr "Укључи проширење"
 
 #: restartBeforeDisableTitle
 msgid "Disable Extension"
-msgstr "Онемогући проширење"
+msgstr "Искључи проширење"
 
 #: incompatibleUpdateMessage
 msgid "%S is checking for a compatibility update to %S."
-msgstr "%S проверава подударност унапређења за %S."
+msgstr "%S проверава подударност проширења на %S."
 
 #: installSuccess
 msgid "Install completed successfully"

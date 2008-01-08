@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-13 00:41+0200\n"
+"PO-Revision-Date: 2007-12-25 02:03+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Блокирање искачућих прозора"
 #: intro.label
 msgid "The following pages were prevented from displaying "
 "unrequested popup windows:"
-msgstr "Блокира се појава наведених нежељених страница:"
+msgstr "Блокира се појава наведених нежељених страна:"
 
 #: done.label
 #: done.accesskey
