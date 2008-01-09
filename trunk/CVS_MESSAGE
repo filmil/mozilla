@@ -1,6 +1,7 @@
 Updated Serbian l10n.
-Processed parts of BUG 400867.
-Removed the translation of "Bookmarks" as "Favorites".  An equivalent of 
-"Bookmarks" is used now.
+Updated the search plugins wikipedia-sr.xml and pogodakyu.xml to OpenSearch.
+Updated the icon for pogodakyu.
+
+
 
 
