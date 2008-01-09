@@ -1,11 +1,6 @@
-amazondotcom
-answers
-creativecommons
-eBay
 google
-yahoo
-wikipedia-sr
+pogodakyu
+eBay-en-GB
+amazon-en-GB
 vokabular
-google-es
-metak
-
+wikipedia-sr
