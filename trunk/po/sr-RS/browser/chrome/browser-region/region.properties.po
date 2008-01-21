@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-14 18:33+0200\n"
+"PO-Revision-Date: 2008-01-21 22:58+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,16 +19,16 @@ msgstr ""
 #: browser.search.defaultenginename
 #: browser.search.order.1
 msgid "Google"
-msgstr "Гугл (Google)"
+msgstr "Google"
 
 #: browser.search.order.2
 msgid "Yahoo"
-msgstr "Јаху (Yahoo)"
+msgstr "Yahoo"
 
 # These are the default web service based feed readers
 #: browser.contentHandlers.types.0.title
 msgid "Bloglines"
-msgstr "Блог линије (Bloglines)"
+msgstr "Bloglines"
 
 #: browser.contentHandlers.types.0.uri
 msgid "http://www.bloglines.com/login?r=/sub/%s"
