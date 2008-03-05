@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-12-28 09:57-0600\n"
+"PO-Revision-Date: 2008-03-05 02:20+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -241,8 +241,8 @@ msgstr "&Претрага:"
 # selectBookmark.xul
 #: selectBookmark.title
 msgid "Set Home Page"
-msgstr "Поставка почетне стране"
+msgstr "Постави почетну страну"
 
 #: selectBookmark.label
 msgid "Choose a Bookmark to be your Home Page. If you choose a folder, the Bookmarks in that folder will be opened in Tabs."
-msgstr "Изаберите везу коју желите посетити. Ако изаберете каталог, везе које су у њему отвориће се у новим језичцима."
+msgstr "Изаберите забелешки коју желите да посетите. Ако изаберете фасциклу, везе које су у њој отвориће се у новим језичцима."

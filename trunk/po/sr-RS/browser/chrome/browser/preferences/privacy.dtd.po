@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-13 01:01+0200\n"
+"PO-Revision-Date: 2008-03-05 02:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "Запамти посећене стране оволико &после�
 
 #: rememberAfter.label
 msgid "days."
-msgstr ""
+msgstr "."
 
 #: rememberForms.label
 #: rememberForms.accesskey

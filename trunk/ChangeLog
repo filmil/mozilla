@@ -1,3 +1,7 @@
+2008-03-05  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/browser/sanitize.dtd.po: Updated following the suggestions from Boris Zegarac.
+
 2007-12-28  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/browser/chrome/browser/preferences/main.dtd.po: Corrected system defaults

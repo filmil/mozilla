@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 23:45+0200\n"
+"PO-Revision-Date: 2008-03-05 02:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -153,7 +153,7 @@ msgstr "Таблица стилова"
 
 #: linkRev
 msgid "Reverse Link"
-msgstr "Reverse Link"
+msgstr "Обратна веза"
 
 #: linkX
 msgid "Simple XLink"

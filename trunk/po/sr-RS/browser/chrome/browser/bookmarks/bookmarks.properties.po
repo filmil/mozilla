@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-12-28 09:59-0600\n"
+"PO-Revision-Date: 2008-03-05 02:19+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: description_PersonalToolbarFolder
 msgid "Folders and bookmarks in this folder appear on the Bookmarks Toolbar."
-msgstr "Каталози и везе у овом каталогу ће се појавити у линији алатки."
+msgstr "Директоријуми и везе у овом директоријуму ће се појавити у линији алатки."
 
 #: cmd_bm_open
 msgid "Open"
@@ -64,7 +64,7 @@ msgstr "O"
 
 #: cmd_bm_expandfolder
 msgid "Expand"
-msgstr "Прошири"
+msgstr "Рашири"
 
 #: cmd_bm_expandfolder_accesskey
 msgid "x"
@@ -72,7 +72,7 @@ msgstr "ш"
 
 #: cmd_bm_collapsefolder
 msgid "Collapse"
-msgstr "Умањи"
+msgstr "Сажми"
 
 #: cmd_bm_collapsefolder_accesskey
 #: cmd_copy_accesskey
@@ -179,7 +179,7 @@ msgstr "Освежи вести уживо"
 
 #: cmd_bm_refreshmicrosummary
 msgid "Reload Live Title"
-msgstr "Поново учитај живи наслов"
+msgstr "Освежи живи наслов"
 
 #: cmd_bm_sortbyname
 msgid "Sort By Name"
@@ -330,7 +330,7 @@ msgstr "Нов одељак"
 
 #: ile_newfolder
 msgid "New Folder"
-msgstr "Нов каталог"
+msgstr "Нова фасцикла"
 
 #: ile_newbookmark
 msgid "New Bookmark"
@@ -342,11 +342,11 @@ msgstr "Нова веза ка вести уживо"
 
 #: newfolder_dialog_title
 msgid "Create New Folder"
-msgstr "Прављење каталога"
+msgstr "Прављење нове фасцикле"
 
 #: newfolder_dialog_msg
 msgid "Create a New Folder named:"
-msgstr "Направи каталог са именом:"
+msgstr "Направи фасциклу са именом:"
 
 #: window_title
 msgid "%S - Bookmarks"
@@ -390,7 +390,7 @@ msgstr "Адреса:"
 
 #: WebPageAskDisplay
 msgid "Would you like to display it?"
-msgstr "Да ли желите да је видите?"
+msgstr "Да ли желите да је прикажете?"
 
 #: WebPageAskStopOption
 msgid "Stop checking for updates on this web page"

@@ -1,6 +1,5 @@
 <!-- OpenSearch Plugin for "pogodak.co.yu", and Firefox -->
-<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" 
-	      xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
   <ShortName>Погодак</ShortName>
   <Description>Погодак: претраживач Интернета</Description>
   <InputEncoding>UTF-8</InputEncoding>

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2007-12-28 10:04-0600\n"
+"PO-Revision-Date: 2008-03-05 02:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,7 @@ msgstr ","
 
 #: choosehomepage
 msgid "Choose Home Page"
-msgstr "Избор насловне стране"
+msgstr "Избор насловних страна"
 
 #: choosebookmark
 msgid "%brand% can set your home page to a site you have already added to your Bookmarks. Select a Bookmark below and click OK."
@@ -91,7 +91,7 @@ msgstr "Текуће (%S)"
 # ### Permissions Manager
 #: cookiepermissionstext
 msgid "You can specify which web sites are always or never allowed to use cookies.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow."
-msgstr "Можете одредити којим веб странама је дожвољено да корите колачиће. Унесите тачну адресу стране коју желите да контролишете и онда клинките на Блокирај, Дозволи за сесију или Дозволи."
+msgstr "Можете одредити којим веб странама је дозвољено да користе колачиће. Унесите тачну адресу стране коју желите да контролишете и онда изаберите „Блокирај‟, „Дозволи за сесију‟ или „Дозволи‟."
 
 #: cookiepermissionstitle
 msgid "Exceptions - Cookies"
@@ -115,7 +115,7 @@ msgstr "Дозвољене стране - Искачући прозори"
 
 #: imagepermissionstext
 msgid "You can specify which web sites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow."
-msgstr "Можете одредити која веб страна може прикаживати слике. Унесите прецизну адресу стране и онда кликните на Дозволи."
+msgstr "Можете да одредите којим странама је дозвољено да учитавају слике. Унесите тачну адресу стране и онда изаберите „Дозволи‟."
 
 #: imagepermissionstitle
 msgid "Exceptions - Images"
@@ -199,7 +199,7 @@ msgstr "%S тпи"
 # ### Downloads
 #: desktopFolderName
 msgid "Desktop"
-msgstr "Позадина"
+msgstr "Радна површина"
 
 #: myDownloadsFolderName
 msgid "My Downloads"

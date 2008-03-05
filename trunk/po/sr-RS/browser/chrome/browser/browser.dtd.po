@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2007-12-28 09:56-0600\n"
+"PO-Revision-Date: 2008-03-05 02:27+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -940,14 +940,14 @@ msgstr "Постави други стил стране"
 
 #: pageReportIcon.tooltip
 msgid "Change popup blocking settings for this web site"
-msgstr "Подеси блокирање искачућих прозора"
+msgstr "Измена подешавања за блокирање искачућих прозора за ово место"
 
 # On Windows we use the term "Options" to describe settings, but
 # on Linux and Mac OS X we use "Preferences" - carry that distinction
 # over into this string, which is used in the "popup blocked" info bar .
 #: editPopupSettingsUnix.label
 msgid "Edit Popup Blocker Preferences..."
-msgstr "Edit Popup Blocker Preferences..."
+msgstr "Уређивање поставки за блокирање искачућих прозора..."
 
 #: editPopupSettings.label
 #: editPopupSettings.accesskey
