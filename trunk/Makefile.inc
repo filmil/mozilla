@@ -16,6 +16,8 @@ CVS:=cvs
 POMIGRATE=pomigrate2
 
 # # Directory configuration
+LOCALE_NAME:=sr
+ROOT_DIR:=/home/filip/personal/l10n/work/mozilla/trunk
 PO_TRANSLATIONS:=po/sr-RS
 MOZILLA_CVS:=/home/filip/personal/l10n/mozilla-cvs/3/l10n
 OUTPUT_DIR:=output
@@ -28,3 +30,4 @@ SCRIPTS_DIR:=scripts
 STATS_DIR:=tools/stats
 ZIPNAME:=sr.zip
 CVS_MSG:=./CVS_MESSAGE
+CPLOC:=compare-locales

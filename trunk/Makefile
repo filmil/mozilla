@@ -17,7 +17,7 @@ include Makefile.inc
 all: stats publish
 
 # Слање измена у Мозилин ЦВС
-publish: clean output
+publish: clean $(OUTPUT_DIR)
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 	( MSG=`cat $(CVS_MSG)` ; \
 	  $(CD) $(MOZILLA_CVS) ; \
@@ -97,3 +97,9 @@ check:
 	@find po/source ! -wholename '*\.svn*' | wc -l
 	@echo Files in $(PO_TRANSLATIONS)/
 	@find $(PO_TRANSLATIONS) ! -wholename '*\.svn*' | wc -l
+
+compare-locales:
+	( cd $(MOZILLA_CVS)/.. ; \
+	  $(CPLOC)  $(LOCALE_NAME) )
+
+
