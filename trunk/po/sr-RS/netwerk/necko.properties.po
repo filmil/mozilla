@@ -38,8 +38,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 19:35+0200\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-14 04:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -49,34 +49,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#ResolvingHost=Looking up
-#ConnectedTo=Connected to 
-#ConnectingTo=Connecting to 
-#SendingRequestTo=Sending request to 
-#TransferringDataFrom=Transferring data from 
+# ResolvingHost=Looking up
+# ConnectedTo=Connected to 
+# ConnectingTo=Connecting to 
+# SendingRequestTo=Sending request to 
+# TransferringDataFrom=Transferring data from 
 # ResolvingHost=Looking up
 # ConnectedTo=Connected to
 # ConnectingTo=Connecting to
 # SendingRequestTo=Sending request to
 # TransferringDataFrom=Transferring data from
 #: 3
-msgid "Looking up %1$S..."
-msgstr "Тражим домен %1$S..."
+msgid "Looking up %1$S…"
+msgstr "Тражење: %1$S..."
 
 #: 4
-msgid "Connected to %1$S..."
-msgstr "Повезан са %1$S..."
+msgid "Connected to %1$S…"
+msgstr "Веза са: %1$S..."
 
 #: 5
-msgid "Sending request to %1$S..."
-msgstr "Шаљем захтев на %1$S..."
+msgid "Sending request to %1$S…"
+msgstr "Слање захтева ка %1$S..."
 
 #: 6
-msgid "Transferring data from %1$S..."
-msgstr "Примам податке са %1$S..."
+msgid "Transferring data from %1$S…"
+msgstr "Пријем података са %1$S..."
 
 #: 7
-msgid "Connecting to %1$S..."
+msgid "Connecting to %1$S…"
 msgstr "Повезивање са %1$S..."
 
 #: 8
@@ -88,40 +88,28 @@ msgid "Wrote %1$S"
 msgstr "Записано %1$S"
 
 #: 10
-msgid "Waiting for %1$S..."
-msgstr "Чекам на %1$S..."
+msgid "Waiting for %1$S…"
+msgstr "Чекање на %1$S..."
 
 #: 27
-msgid "Beginning FTP transaction..."
-msgstr "Почетак FTP преноса..."
+msgid "Beginning FTP transaction…"
+msgstr "Почетак FTP преноса…"
 
 #: 28
 msgid "Finished FTP transaction"
 msgstr "Завршен је FTP пренос"
-
-#: EnterUserPasswordForRealm
-msgid "Enter username and password for \"%1$S\" at %2$S"
-msgstr "Наведите корисничко име и лозинку за %1$S на %2$S"
-
-#: EnterUserPasswordForProxy
-msgid "Enter username and password for proxy \"%1$S\" at %2$S"
-msgstr "Наведите корисничко име и лозинку за прокси на %1$S на %2$S"
-
-#: EnterUserPasswordFor
-msgid "Enter username and password for %1$S"
-msgstr "Наведите корисничко име и лозинку за %1$S"
-
-#: EnterPasswordFor
-msgid "Enter password for %1$S on %2$S"
-msgstr "Наведите лозинку %1$S на %2$S"
 
 #: UnsupportedFTPServer
 msgid "The FTP server %1$S is currently unsupported."
 msgstr "FTP сервер %1$S тренутно није подржан."
 
 #: RepostFormData
-msgid "This web page is being redirected to a new location. Would you like to resend the form data you have typed to the new location?"
-msgstr "Ова веб страна је преусмерена на нову локацију. Да ли желите да пошаљете садржај формулара на нову локацију?"
+msgid ""
+"This web page is being redirected to a new location. Would you like to "
+"resend the form data you have typed to the new location?"
+msgstr ""
+"Ова веб страна је преусмерена на нову локацију. Да ли желите да пошаљете "
+"садржај формулара на нову локацију?"
 
 # Directory listing strings
 #: DirTitle
@@ -132,7 +120,27 @@ msgstr "Индекс \"%1$S\""
 msgid "Up to higher level directory"
 msgstr "Пређи у директоријум на нивоу више"
 
-#Gopher Search Prompt
+#: ShowHidden
+msgid "Show hidden objects"
+msgstr "Приказ сакривених објеката"
+
+#: DirColName
+msgid "Name"
+msgstr "Име"
+
+#: DirColSize
+msgid "Size"
+msgstr "Величина"
+
+#: DirColMTime
+msgid "Last Modified"
+msgstr "Последња измена"
+
+#: DirFileLabel
+msgid "File:"
+msgstr "Датотека:"
+
+# Gopher Search Prompt
 # Gopher Search Prompt
 #: GopherPromptTitle
 msgid "Search"
@@ -143,8 +151,12 @@ msgid "Enter a search term:"
 msgstr "Унесите тражену реч/фразу:"
 
 #: PhishingAuth
-msgid "You are about to visit \"%1$S\". This site may be attempting to trick you into thinking you are visiting a different site. Use extreme caution."
-msgstr "Намеравате да посетите \"%1$S\". Овај сајт покушава да вас завара да мислите да је то неки други сајт. Будите пажљиви."
+msgid ""
+"You are about to visit \"%1$S\". This site may be attempting to trick you "
+"into thinking you are visiting a different site. Use extreme caution."
+msgstr ""
+"Намеравате да посетите \"%1$S\". Овај сајт покушава да вас завара да мислите "
+"да је то неки други сајт. Будите пажљиви."
 
 #: PhishingAuthAccept
 msgid "I understand and will be very careful"
@@ -152,11 +164,29 @@ msgstr "Разумем и бићу врло опрезан"
 
 #: SuperfluousAuth
 msgid ""
-"You are about to log into the site \"%1$S\" with the username \"%2$S\", but the website does not require authentication. This may be an attempt to trick you.\n"
+"You are about to log in to the site \"%1$S\" with the username \"%2$S\", but "
+"the website does not require authentication. This may be an attempt to trick "
+"you.\n"
 "\n"
 "Is \"%1$S\" the site you want to visit?"
-msgstr "Спремате се за регистрацију на сајт \"%1$S\" са корисничким именом \"%2$S,\" али дати сајт не захтева регистрацију. Можда је превара по среди.  Да ли желите посетити сајт \"%1$S\"?"
+msgstr ""
+"Само што се нисте пријавили на „%1$S‟ под корисничким именом „%2$S,‟ али сајт у питању не захтева регистрацију.  Можда је по среди превара.  \n"
+"\n"
+"Да ли желите да посетите сајт „%1$S‟?"
 
 #: AutomaticAuth
-msgid "You are about to log into the site \"%1$S\" with the username \"%2$S\"."
-msgstr "Покушавате да приступите страни \"%1$S\" са корисничким именом \"%2$S.\"."
+msgid ""
+"You are about to log in to the site \"%1$S\" with the username \"%2$S\"."
+msgstr "Покушавате да приступите сајту „%1$S‟ под корисничким именом „%2$S‟."
+
+#~ msgid "Enter username and password for \"%1$S\" at %2$S"
+#~ msgstr "Наведите корисничко име и лозинку за %1$S на %2$S"
+
+#~ msgid "Enter username and password for proxy \"%1$S\" at %2$S"
+#~ msgstr "Наведите корисничко име и лозинку за прокси на %1$S на %2$S"
+
+#~ msgid "Enter username and password for %1$S"
+#~ msgstr "Наведите корисничко име и лозинку за %1$S"
+
+#~ msgid "Enter password for %1$S on %2$S"
+#~ msgstr "Наведите лозинку %1$S на %2$S"
