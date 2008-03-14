@@ -1,0 +1,62 @@
+# extracted from source/sr-RS/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-10 17:33+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message
+# LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message
+#: title.label
+msgid "Message Security"
+msgstr "Безбедност поруке"
+
+#: subject.plaintextWarning
+msgid "Please note: Subject lines of email messages are never encrypted."
+msgstr "Обратите пажњу да се линије са темом поруке никада не шифрују."
+
+#: status.heading
+msgid "The contents of your message will be sent as follows:"
+msgstr "Садржај ваше поруке ће овако изгледати:"
+
+#: status.signed
+msgid "Digitally signed:"
+msgstr "Дигитални потпис:"
+
+#: status.encrypted
+msgid "Encrypted:"
+msgstr "Шифрован:"
+
+#: status.certificates
+msgid "Certificates:"
+msgstr "Сертификати:"
+
+#: view.label
+#: view.accesskey
+msgid "&View"
+msgstr "&Преглед"
+
+#: tree.recipient
+msgid "Recipient"
+msgstr "Прима"
+
+#: tree.status
+msgid "Status"
+msgstr "Статус"
+
+#: tree.issuedDate
+msgid "Issued"
+msgstr "Издат"
+
+#: tree.expiresDate
+msgid "Expires"
+msgstr "Истиче"

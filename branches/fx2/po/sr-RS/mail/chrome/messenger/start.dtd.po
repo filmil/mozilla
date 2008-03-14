@@ -1,0 +1,114 @@
+# extracted from source/sr-RS/mail/chrome/messenger/start.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-12-25 02:02+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: startpage.welcome
+msgid "Welcome to &brandFullName;!"
+msgstr "Добро дошли у програм &brandFullName;!"
+
+#: startpage.intro
+msgid "&brandFullName; is a powerful, open-source mail and news client."
+msgstr "Програм &brandFullName; је моћан клијент отвореног кода за пошту и вести."
+
+#: startpage.features
+msgid "Features"
+msgstr "Могућности"
+
+#: startpage.junkControl
+msgid "Adaptive Junk Mail Controls"
+msgstr "Прилагодљиво управљање нежељеном поштом"
+
+#: startpage.rssReader
+msgid "RSS Reader"
+msgstr "Читач RSS довода"
+
+#: startpage.globalInbox
+msgid "Global Inbox Support"
+msgstr "Подршка за глобалну доспелу пошту"
+
+#: startpage.searchFolders
+msgid "Saved Search Folders"
+msgstr "Чување директоријума са претрагом"
+
+#: startpage.messageGroups
+msgid "Message Grouping"
+msgstr "Груписање порука"
+
+#: startpage.privacyProtect
+msgid "Privacy Protection"
+msgstr "Заштита приватности"
+
+#: startpage.junkControlURL
+msgid "http://www.mozilla.org/products/thunderbird/junkmail.html"
+msgstr ""
+
+#: startpage.rssReaderURL
+msgid "http://www.mozilla.org/products/thunderbird/rss.html"
+msgstr ""
+
+#: startpage.globalInboxURL
+msgid "http://www.mozilla.org/products/thunderbird/global-inbox.html"
+msgstr ""
+
+#: startpage.searchFoldersURL
+msgid "http://www.mozilla.org/products/thunderbird/search-folders.html"
+msgstr ""
+
+#: startpage.messageGroupsURL
+msgid "http://www.mozilla.org/products/thunderbird/message-grouping.html"
+msgstr ""
+
+#: startpage.privacyProtectURL
+msgid "http://www.mozilla.org/products/thunderbird/privacy-protection.html"
+msgstr ""
+
+#: startpage.moreInfo
+msgid "More Information"
+msgstr "Више података"
+
+#: startpage.help
+msgid "Thunderbird Help"
+msgstr "Помоћ за Thunderbird"
+
+#: startpage.helpInfo
+msgid "For frequently asked questions, tips and general help, visit"
+msgstr "За често постављања питања, савете и помоћ уопште, посетите"
+
+#: startpage.helpURL
+msgid "http://www.mozilla.org/support/thunderbird/"
+msgstr "http://www.mozilla.org/support/thunderbird/"
+
+#: startpage.page
+msgid "Thunderbird Product Page"
+msgstr "Страна програма Thunderbird"
+
+#: startpage.pageInfo
+msgid "For product information, visit the"
+msgstr "За податке о производу посетите"
+
+#: startpage.pageURL
+msgid "http://www.mozilla.org/products/thunderbird/"
+msgstr ""
+
+#: startpage.extra
+msgid ""
+"_: startpage.extra\n"
+""
+msgstr ""
+
+#: startpage.poweredByGecko
+msgid "Powered by Gecko."
+msgstr "Покреће нас Gecko."

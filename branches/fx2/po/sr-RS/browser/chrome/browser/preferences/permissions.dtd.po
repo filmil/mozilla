@@ -1,0 +1,76 @@
+# extracted from source/sr-RS/browser/chrome/browser/preferences/permissions.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-13 00:53+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: window.title
+msgid "Exceptions"
+msgstr "Изузеци"
+
+#: window.width
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"36em"
+msgstr "36em"
+
+#: treehead.sitename.label
+msgid "Site"
+msgstr "Веб место"
+
+#: treehead.status.label
+msgid "Status"
+msgstr "Статус"
+
+#: addpermission.label
+msgid "New Site"
+msgstr "Ново веб место"
+
+#: removepermission.label
+#: removepermission.accesskey
+msgid "&Remove Site"
+msgstr "&Уклони веб место"
+
+#: removeallpermissions.label
+#: removeallpermissions.accesskey
+msgid "R&emove All Sites"
+msgstr "Уклони &сва веб места"
+
+#: address.label
+msgid "Address of web site:"
+msgstr "Адреса веб места:"
+
+#: block.label
+#: block.accesskey
+msgid "&Block"
+msgstr "&Блокирај"
+
+#: session.label
+#: session.accesskey
+msgid "Allow for &Session"
+msgstr "Дожволи за &сесију"
+
+#: allow.label
+#: allow.accesskey
+msgid "&Allow"
+msgstr "&Дозволи"
+
+#: windowClose.key
+msgid "w"
+msgstr "w"
+
+#: button.close.label
+#: button.close.accesskey
+msgid "&Close"
+msgstr "&Затвори"

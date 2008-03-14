@@ -1,0 +1,52 @@
+# extracted from source/sr-RS/toolkit/chrome/mozapps/preferences/ocsp.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-12 20:32+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: window.width
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"38em"
+msgstr "38em"
+
+#: ocspDialog.title
+msgid "Verification"
+msgstr "Потврда"
+
+#: validation.ocsp.description
+msgid "&brandShortName; can use Online Certificate Status Protocol (OCSP) to verify certificates. Set &brandShortName; to use OCSP as follows:"
+msgstr "&brandShortName; може да користи Online Certificate Status Protocol (OCSP) за проверу сертификата. Дозволите програму &brandShortName; да користи OCSP на следећи начин:"
+
+#: disableOCSP.label
+msgid "Do not use OCSP for certificate validation"
+msgstr "Не користи OCSP за проверу сертификата"
+
+#: certOCSP.label
+msgid "Use OCSP to validate only certificates that specify an OCSP service URL"
+msgstr "Користите OCSP за проверу само сертификата који одређују адресу OCSP сервиса:"
+
+#: proxyOCSP.label
+msgid "Use OCSP to validate all certificates using this URL and signer:"
+msgstr "Користите OCSP за проверу свих сертификата помоћу адресе и потписника:"
+
+#: serviceURL.label
+#: serviceURL.accesskey
+msgid "&Service URL:"
+msgstr "&УРЛ сервиса:"
+
+#: signingCA.label
+#: signingCA.accesskey
+msgid "&Response Signer:"
+msgstr "&Одговорни потписник:"

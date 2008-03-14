@@ -1,0 +1,352 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:26+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# converted from pseudo-properties .it file
+# extracted from 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-01-24 23:41+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# section: [String Resources]
+#------------------------------------------------------------------------------
+#   UI strings
+#------------------------------------------------------------------------------
+#: NEXT
+msgid "Next >"
+msgstr "Напред >"
+
+#: BACK
+msgid "< Back"
+msgstr "< Назад"
+
+#: CANCEL
+#: CANCEL_LABEL
+msgid "Cancel"
+msgstr "Откажи"
+
+#: ACCEPT
+msgid "Accept"
+msgstr "Прихвати"
+
+#: DECLINE
+msgid "Decline"
+msgstr "Одбиј"
+
+#: INSTALL
+msgid "Install"
+msgstr "Постави"
+
+#: PAUSE
+msgid "Pause"
+msgstr "Паузирај"
+
+#: RESUME
+msgid "Resume"
+msgstr "Настави"
+
+#: DEFAULT_TITLE
+msgid "Mozilla Installer"
+msgstr "Мозилин инсталатер"
+
+#: DEST_DIR
+msgid "Destination Directory"
+msgstr "Одредишни директоријум"
+
+#: BROWSE
+msgid "Change..."
+msgstr "Промени..."
+
+#: SELECT_DIR
+msgid "Select a directory"
+msgstr "Изаберите директоријум"
+
+#: DOESNT_EXIST
+msgid "Directory %s doesn't exist.  Create it?"
+msgstr "Директоријум %s не постоиј.  Да га направим?"
+
+#: YES_LABEL
+msgid "Yes"
+msgstr "Да"
+
+#: NO_LABEL
+msgid "No"
+msgstr "Не"
+
+#: OK_LABEL
+msgid "OK"
+msgstr "У реду"
+
+#: DELETE_LABEL
+msgid "Delete Directory"
+msgstr "Уклони директоријум"
+
+#: ERROR
+msgid "Error [%d]: %s"
+msgstr "Грешка [%d]: %s"
+
+#: FATAL_ERROR
+msgid "Fatal error [%d]: %s"
+msgstr "Кобна грешка [%d]: %s"
+
+# Description
+# # @name MIME_MHTML_DESCRIPTION
+# # @loc
+#: DESCRIPTION
+msgid "Description"
+msgstr "Опис"
+
+#: WILL_INSTALL
+msgid "Setup will install the following components:"
+msgstr "Инсталатер ће поставити наредне компоненте:"
+
+#: TO_LOCATION
+msgid "to the following location:"
+msgstr "на ову локацију:"
+
+#: PREPARING
+msgid "Preparing %s..."
+msgstr "Припрема: %s..."
+
+#: EXTRACTING
+msgid "Extracting %s..."
+msgstr "Распакивање: %s..."
+
+#: INSTALLING_XPI
+msgid "Installing %s..."
+msgstr "Инсталација: %s..."
+
+#: PROCESSING_FILE
+msgid "Processing file %d of %d..."
+msgstr "Обрада датотеке бр. %d од %d..."
+
+#: NO_PERMS
+msgid "Choose another directory because you do not have permission to install to: %s"
+msgstr "Молимо да изаберете други директоријум пошто вам није дозвољено да инсталирате у: %s"
+
+#: DL_SETTINGS
+msgid "Download Settings"
+msgstr "Подешавања пријема"
+
+#: SAVE_MODULES
+msgid "Save installer modules upon download"
+msgstr "Чување модула инсталатера после пријема"
+
+#: PROXY_SETTINGS
+msgid "Proxy Settings..."
+msgstr "Подешавања заступника (proxy)..."
+
+#: PS_LABEL0
+msgid "Proxy Host [required]:"
+msgstr "Рачунар [обавезно]:"
+
+#: PS_LABEL1
+msgid "Proxy Port [required]:"
+msgstr "Порт [обавезно]:"
+
+#: PS_LABEL2
+msgid "Proxy Username [optional]:"
+msgstr "Корисничко име [опционо]:"
+
+#: PS_LABEL3
+msgid "Proxy Password [optional]:"
+msgstr "Лозинка [опциона]:"
+
+#: ERROR_TITLE
+msgid "Error!"
+msgstr "Грешка!"
+
+#: DS_AVAIL
+msgid "Disk Space Available = %ld KB"
+msgstr "Доступно места на диску: %ld KB"
+
+#: DS_REQD
+msgid "Disk Space Required = %ld KB"
+msgstr "Потребно места на диску = %ld KB"
+
+#: NO_DISK_SPACE
+msgid "Please select a directory on a disk with enough space to install or free some disk space on the selected disk."
+msgstr "Молимо да изаберете директоријум на диску који има довољно слободног простора, или да на изабраном диску ослободите место."
+
+#: CXN_DROPPED
+msgid "A network connection failure occured.  Please check your network connection and press the 'Resume' button.  Alternatively, press the 'Cancel' button to quit the installer."
+msgstr "Дошло је до грешке приликом повезивања на мрежу.  Молимо да проверите мрежну везу и да притисните дугме „Настави‟.  У супротном, притисак на „Откажи‟ прекида инсталацију."
+
+#: CRC_CHECK
+msgid "Some files failed to download correctly. Retrying."
+msgstr "Неке датотеке нису исправно примљене.  Покренут је нови пријем."
+
+#: CRC_FAILED
+msgid "Installation has failed due to multiple CRC failures."
+msgstr "Инсталација није успела услед вишеструких грешака парности (CRC)."
+
+#: DOWNLOADING
+msgid "Downloading:"
+msgstr "Пријем:"
+
+#: FROM
+msgid "From:"
+msgstr "Од:"
+
+# address labels
+# LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI
+#: TO
+msgid "To:"
+msgstr "За:"
+
+#: STATUS
+msgid "Status:"
+msgstr "Статус:"
+
+#: DL_STATUS_STR
+msgid "%d KB  of  %d KB (at %d KB/sec)"
+msgstr "%d KB  од  %d KB ( %d KB/s)"
+
+#: USAGE_MSG
+msgid "Usage: %s [options]%s\t[options] can be any of the following combination:%s\t\t-h:\t\tThis help.%s\t\t-ma:\t\tRun setup in Auto mode: show progress UI,%s\t\t\t\tbut assume defaults without user intervention.%s\t\t-ms:\t\tRun setup in Silent mode: show no UI and have%s\t\t\t\tno user intervention.%s\t\t-ira:\t\tIgnore the [RunAppX] sections%s"
+msgstr "Употреба: %s [опције]%s\t[опције] могу бити било која комбинација од:%s\t\t-h:\t\tОва помоћ.%s\t\t-ma:\t\tПокретање у аутоматском начину рада: приказ мерача напретка,%s\t\t\t\tали све остало је без корисникове интервенције.%s\t\t-ms:\t\tПокретање у тихом моду: без сучеља%s\t\t\t\tи корисникове интервенцицје.%s\t\t-ira:\t\tЗанемаривање одељака [RunAppX] %s"
+
+# # @name IMAP_UNKNOWN_USER
+# # @loc None
+#: UNKNOWN
+msgid "Unknown"
+msgstr "Непознато"
+
+#------------------------------------------------------------------------------
+#   Error strings
+#------------------------------------------------------------------------------
+# # @name NO_MEMORY
+# # @loc none
+#: -601
+msgid "Out of memory"
+msgstr "Нема више меморије"
+
+#: -602
+msgid "Invalid param"
+msgstr "Неисправан параметар"
+
+#: -603
+msgid "Invalid member variable"
+msgstr "Неисправна променљива члан"
+
+#: -604
+msgid "Invalid pointer"
+msgstr "Неисправан показивач"
+
+#: -605
+msgid "Parse key has no value"
+msgstr "Кључ нема вредност"
+
+#: -606
+msgid "Failed to read readme"
+msgstr "Није прочитана датотека са текстом (readme)"
+
+#: -607
+msgid "Failed to read license"
+msgstr "Није прочитана лиценца"
+
+#: -608
+msgid "Out of bounds in Component/Setup Type list"
+msgstr "Ван граница у списку компонената или врсте подешења"
+
+#: -609
+msgid "Mismatched ref counts"
+msgstr "Неисправан број референци"
+
+#: -610
+msgid "No components in the INI file"
+msgstr "Нема компонената у INI датотеци"
+
+#: -611
+msgid "No setup types in the INI file"
+msgstr "Нема подешених типова у INI датотеци"
+
+#: -612
+msgid "URL at this index already exists"
+msgstr "УРЛ на овом индексу већ постоји"
+
+#: -613
+msgid "Couldn't create the directory"
+msgstr "Директоријум није могао да буде креиран"
+
+#: -614
+msgid "FTP URL malformed"
+msgstr "Неисправан URL за FTP"
+
+#: -615
+msgid "Download failed"
+msgstr "Пријем није успео"
+
+#: -616
+msgid "Extraction of XPCOM failed"
+msgstr "Извлачење није успело за XPCOM"
+
+#: -617
+msgid "Failed to fork a process"
+msgstr "Није успело рачвање процеса (fork)"
+
+#: -618
+msgid "Couldn't open xpistub library"
+msgstr "Није могуће отворити библиотеку xpistub"
+
+#: -619
+msgid "Couldn't get symbol in library"
+msgstr "Није могуће добавити симбол из библиотеке"
+
+#: -620
+msgid "A xpistub call failed"
+msgstr "Позив за xpistub није успео"
+
+#: -621
+msgid "An Installer module %s (.xpi) failed to install"
+msgstr "Инсталатеров модул %s (.xpi) није инсталиран"
+
+#: -622
+msgid "Copy of an installer module (.xpi) failed"
+msgstr "Није успело умножавање инсталатеровог модула (.xpi)"
+
+#: -623
+msgid "Destination directory doesn't exist"
+msgstr "Одредишни директоријум не постоји"
+
+#: -624
+msgid "Can't make destination directory.  Please try another directory."
+msgstr "Није могуће направити одредишни директоријум.  Молимо да пробате други директоријум."
+
+#: -625
+msgid "A previous installation exists."
+msgstr "Већ постоји претходна инсталација."
+
+#: -626
+msgid "Insufficient permission"
+msgstr "Недовољна овлашћења"
+
+#: -627
+msgid "Insufficient disk space"
+msgstr "Нема довољно места на диску"
+
+#: -628
+msgid "Multiple CRC Failure"
+msgstr "Вишеструке грешкек парности (CRC)"

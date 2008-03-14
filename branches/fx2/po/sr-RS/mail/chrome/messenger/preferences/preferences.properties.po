@@ -1,0 +1,226 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2007-12-25 12:36+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#### Add HTML and Plain Text Domain Names for sendOption
+# extracted from source/sr-RS/mail/chrome/messenger/preferences/preferences.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-04-15 22:55+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: html_domainsAddDomainTitle
+msgid "Add HTML Domain Name"
+msgstr "Додај домен за HTML"
+
+#: html_domainsAddDomain
+msgid "HTML Domain Name:"
+msgstr "Име домена за HTML:"
+
+#: plaintext_domainsAddDomainTitle
+msgid "Add Plain Text Domain Name"
+msgstr "Додај име домена за обичан текст"
+
+#: plaintext_domainsAddDomain
+msgid "Plain Text Domain Name:"
+msgstr "Име домена за обичан текст:"
+
+# LOCALIZATION NOTE: do not translate @string@
+#: domainNameErrorTitle
+msgid "Domain Name Error"
+msgstr "Грешка у имену домена"
+
+#### LOCALIZATION NOTE: do not translate %S
+# ### LOCALIZATION NOTE: do not translate %S
+#: domainDuplicationError
+msgid "The domain name %S already exists in the HTML or Plain Text lists."
+msgstr "Име домена %S већ постоји у списку за HTML или за обичан текст."
+
+#### Junk
+#: confirmResetJunkTrainingTitle
+msgid "Confirm"
+msgstr "Потврди"
+
+#: confirmResetJunkTrainingText
+msgid "Are you sure you want to reset the adaptive filter training data?"
+msgstr "Да ли сигурно желите да обришете тренинг податке из адаптивног филтера?"
+
+#### Master Password
+# ### Master Password
+#: setMasterPassword
+msgid "Set Master Password..."
+msgstr "Поставка главне лозинке..."
+
+#: changeMasterPassword
+msgid "Change Master Password..."
+msgstr "Промена главне лозинке..."
+
+# Token Manager
+#: password_not_set
+msgid "(not set)"
+msgstr "(није постављен)"
+
+#: failed_pw_change
+msgid "Unable to change Master Password."
+msgstr "Није могуће променити главну лозинку."
+
+#: incorrect_pw
+msgid "You did not enter the correct current Master Password. Please try again."
+msgstr "Нисте унели исправну тренутну главну лозинку. Молимо пробајте поново."
+
+#: pw_change_ok
+msgid "Master Password successfully changed."
+msgstr "Главна лозинка је успешно промењена."
+
+#: pw_erased_ok
+msgid "You have deleted your Master Password."
+msgstr "Уклонили сте вашу главну лозинку."
+
+#: pw_not_wanted
+msgid "Warning! You have decided not to use a Master Password."
+msgstr "Упозорење! Одлучили сте да не користите главну лозинку."
+
+#: pw_empty_warning
+msgid "Your stored email passwords will not be protected."
+msgstr "Ваше сачуване лозинке неће бити заштићене."
+
+#: pw_change2empty_in_fips_mode
+msgid "You are currently in FIPS mode. FIPS requires a non-empty Master Password."
+msgstr "Тренутно се налазите у ФИПС начину рада. ФИПС захтева непразну главну лозинку."
+
+#: pw_change_success_title
+msgid "Password Change Succeeded"
+msgstr "Лозинка је успешно промењена"
+
+#: pw_change_failed_title
+msgid "Password Change Failed"
+msgstr "Промена лозинке није успела"
+
+#: pw_remove_button
+msgid "Remove"
+msgstr "Уклони"
+
+#### Downloads
+#: desktopFolderName
+msgid "Desktop"
+msgstr "Радна површина"
+
+#: myDownloadsFolderName
+msgid "My Downloads"
+msgstr "Моји пријеми"
+
+#: chooseDownloadFolderTitle
+msgid "Choose Download Folder:"
+msgstr "Изаберите директоријум за пријем:"
+
+#### Download Actions
+# ### Download Actions
+#: extensionNone
+msgid "(NONE)"
+msgstr "(НИЈЕДАН)"
+
+#: removeButtonSingle
+#: removeTitleSingle
+msgid "Remove Action"
+msgstr "Уклони дејство"
+
+#: removeButtonMultiple
+#: removeTitleMultiple
+msgid "Remove Actions"
+msgstr "Уклони дејства"
+
+#: removeMessageSingle
+msgid "The selected Action will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove this Action?"
+msgstr "Изабрано дејство неће више бити извршавано при пријему датотека одговарајућег типа.  Да ли сигурно желите да уклоните ово дејство?"
+
+#: removeMessageMultiple
+msgid "The selected Actions will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove these Actions?"
+msgstr "Одабрана дејства неће више бити извршена када су преузете датотеке ових погођених врста. Да ли желите да уклоните ова дејства?"
+
+#: fileEnding
+msgid "%S file"
+msgstr "%S датотека"
+
+#: saveToDisk
+msgid "Save to Disk"
+msgstr "Сачувај на диск"
+
+#: openWith
+msgid "Open with %S"
+msgstr "Отвори са %S"
+
+#: actionsFiltered
+msgid "The following Actions match your search:"
+msgstr "Ово су дејства која се поклапају са претрагом:"
+
+#: actionsAll
+msgid "Automatically perform the associated Action with each of the following file types:"
+msgstr "Аутоматски изврши дејство над сваким од наредних типова датотека:"
+
+#### Change Action
+#: extensionStringFormat
+msgid "%S, %S"
+msgstr "%S, %S"
+
+#: downloadHelperNoneSelected
+msgid "None Selected"
+msgstr "Ниједан није изабран"
+
+#: pluginHelperNoneAvailable
+msgid "None Available"
+msgstr "Ниједан није доступан"
+
+#: fpTitleChooseApp
+msgid "Select Helper Application"
+msgstr "Избор помоћног програма"
+
+#: fpTitleChooseDL
+msgid "Select Download Folder"
+msgstr "Избор одредишну фасциклу"
+
+#### Fonts
+# LOCALIZATION NOTE: Next two strings are for language name representations with
+#   and without the region.
+#   e.g. languageRegionCodeFormat : "French/Canada  [fr-ca]" languageCodeFormat : "French  [fr]"
+#   %1$S = language name, %2$S = region name, %3$S = language-region code
+# ### Fonts
+#: languageRegionCodeFormat
+msgid "%1$S/%2$S  [%3$S]"
+msgstr "%1$S/%2$S  [%3$S]"
+
+#   %1$S = language name, %2$S = language-region code
+#: languageCodeFormat
+msgid "%1$S  [%2$S]"
+msgstr "%1$S  [%2$S]"
+
+# LOCALIZATION NOTE: dpi stands for 'dots per inch'
+#: fontScalingResolutionFormat
+msgid "%S dpi"
+msgstr "%S тпи"
+
+#### Sound Notifications
+# ### Sound Notifications
+#: soundFilePickerTitle
+msgid "Choose Sound"
+msgstr "Избор звука"

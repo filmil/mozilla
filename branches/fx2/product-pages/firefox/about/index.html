@@ -1,0 +1,44 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'О Мозили (Mozilla)';
+    $body_id    = 'about';
+    $body_class = 'portal-page';
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div class="portal-box">
+<div class="portal-box-interior">
+
+<div class="portal-box-header">
+	<h1>
+		<img src="/img/portal-page/about-title.png" alt="Mozilla" height="32" width="132" />
+	</h1>
+	<p>Добра за Мрежу.  Добра за цео свет.</p>
+</div>
+
+<div class="portal-box-contents">
+
+<p>Мозила није традиционална софтверска фирма.  Ми смо глобална <a
+href="/<?=$lang?>/firefox/community/">заједница</a> посвећена изградњи
+слободних, отворених софтверских производа и технологија које
+унапређују угођај прегледа мрежног садржаја за људе широм света.  Ми
+смо програмери, комерцијалисти, тестери и адвокати широм света, који
+обезбеђују да мрежа остане јавно и дељено добро.  Верујемо да отворени
+стандарди омогућују и поспешују избор и иновацију и да сви, свуда,
+имају право на безбедан, брз и угодан мрежни угођај.</p>
+
+<p>Наши награђивани<a href="/<?=$lang?>/products/">софтвер отвореног кода</a>
+и <a href="http://www.mozilla.org/projects/">технологије</a> нуде се без и икакве накнаде људима широм света, на преко 40 језика.
+languages.</p>
+
+<p>Седиште Мозиле је место <a href="/<?=$lang?>/about/contact.html#hq">Маунтин Вју (Mountain View) у Калифорнији</a> са месним канцеларијама у <a href="/<?=$lang?>/about/contact.html#japan">
+Токију</a> и <a href="/<?=$lang?>/about/contact.html#europe">Паризу</a>.
+
+</div> <!-- end .portal-box-contents  -->
+</div> <!-- end .portal-box-interior  -->
+</div> <!-- end .portal-box  -->
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>

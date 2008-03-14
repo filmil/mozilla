@@ -1,0 +1,39 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'Mozilla | Помоћ и водичи';
+    $body_id    = 'help';
+    $body_class = 'portal-page';
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div class="portal-box">
+<div class="portal-box-interior">
+
+<div class="portal-box-header">
+    <h1>Помоћ и водичи</h1>
+</div>
+
+<div class="portal-box-contents">
+
+    <h3>Како до помоћи</h3>
+
+    <p>Програм Firefox садржи потпуни систем за помоћ.  Да бисте
+    приступили систему за помоћ, изаберите ставку Помоћ из менија и
+    изаберите "Помоћ за програм Firefox".</p>
+
+    <h3>Online Resources</h3>
+
+    <ul>
+    <li><a href="/<?=$lang ?>/firefox/central/">Како почети рад са програмом Firefox</a></li>
+    <li><a href="/<?=$lang ?>/support/">Главна страна за подршку програму Firefox</a></li>
+    <li><a href="http://intlstore.mozilla.org">Штампани водичи и приручници из Мозилине продавнице (Mozilla Store)</a></li>
+    </ul>
+
+</div> <!-- end .portal-box-contents  -->
+</div> <!-- end .portal-box-interior  -->
+</div> <!-- end .portal-box  -->
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>

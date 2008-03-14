@@ -1,0 +1,202 @@
+# extracted from source/sr-RS/editor/ui/chrome/composer/editorSmileyOverlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-08-29 11:07-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# ***** BEGIN LICENSE BLOCK *****
+# - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# -
+# - The contents of this file are subject to the Mozilla Public License Version
+# - 1.1 (the "License"); you may not use this file except in compliance with
+# - the License. You may obtain a copy of the License at
+# - http://www.mozilla.org/MPL/
+# -
+# - Software distributed under the License is distributed on an "AS IS" basis,
+# - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# - for the specific language governing rights and limitations under the
+# - License.
+# -
+# - The Original Code is Editor Smiley Overlay.
+# -
+# - The Initial Developer of the Original Code is
+# - Neil Rashbrook.
+# - Portions created by the Initial Developer are Copyright (C) 2003
+# - the Initial Developer. All Rights Reserved.
+# -
+# - Contributor(s):
+# -    Neil Rashbrook <neil@parkwaycc.co.uk>
+# -
+# - Alternatively, the contents of this file may be used under the terms of
+# - either the GNU General Public License Version 2 or later (the "GPL"), or
+# - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# - in which case the provisions of the GPL or the LGPL are applicable instead
+# - of those above. If you wish to allow use of your version of this file only
+# - under the terms of either the GPL or the LGPL, and not to allow others to
+# - use your version of this file under the terms of the MPL, indicate your
+# - decision by deleting the provisions above and replace them with the notice
+# - and other provisions required by the LGPL or the GPL. If you do not delete
+# - the provisions above, a recipient may use your version of this file under
+# - the terms of any one of the MPL, the GPL or the LGPL.
+# -
+# - ***** END LICENSE BLOCK *****
+# Smiley Menu items
+#: insertSmiley.label
+#: insertSmiley.accesskey
+msgid "&Smiley"
+msgstr "&Смешко"
+
+#: smiley1Cmd.label
+#: smiley1Cmd.accesskey
+msgid "&Smile"
+msgstr "&Осмех"
+
+#: smiley1Cmd.tooltip
+#: SmileButton.tooltip
+msgid "Insert a smiley face"
+msgstr "Убаци смешка"
+
+#: smiley2Cmd.label
+#: smiley2Cmd.accesskey
+msgid "&Frown"
+msgstr "&Гримаса"
+
+#: smiley2Cmd.tooltip
+msgid "Insert a frown face"
+msgstr "Убацује смешка који се мршти"
+
+#: smiley3Cmd.label
+#: smiley3Cmd.accesskey
+msgid "&Wink"
+msgstr "&Миг"
+
+#: smiley3Cmd.tooltip
+msgid "Insert a wink face"
+msgstr "Убацује смешка који намигује"
+
+#: smiley4Cmd.label
+#: smiley4Cmd.accesskey
+msgid "&Tongue-out"
+msgstr "&Исплажен језик"
+
+#: smiley4Cmd.tooltip
+msgid "Insert a tongue-out face"
+msgstr "Убацује смешка који се плази"
+
+#: smiley5Cmd.label
+#: smiley5Cmd.accesskey
+msgid "&Laughing"
+msgstr "&Смех"
+
+#: smiley5Cmd.tooltip
+msgid "Insert a laughing face"
+msgstr "Убацује смешка који се смеје"
+
+#: smiley6Cmd.label
+#: smiley6Cmd.accesskey
+msgid "&Embarrassed"
+msgstr "&Постиђен"
+
+#: smiley6Cmd.tooltip
+msgid "Insert an embarrassed face"
+msgstr "Убацује смешка коме је непријатно"
+
+#: smiley7Cmd.label
+#: smiley7Cmd.accesskey
+msgid "&Undecided"
+msgstr "Н&еодлучан"
+
+#: smiley7Cmd.tooltip
+msgid "Insert an undecided face"
+msgstr "Убацује смешка који је неодлучан"
+
+#: smiley8Cmd.label
+#: smiley8Cmd.accesskey
+msgid "Sur&prise"
+msgstr "И&зненађен"
+
+#: smiley8Cmd.tooltip
+msgid "Insert a surprised face"
+msgstr "Убацује смешка који је изненађен"
+
+#: smiley9Cmd.label
+#: smiley9Cmd.accesskey
+msgid "&Kiss"
+msgstr "&Пољубац"
+
+#: smiley9Cmd.tooltip
+msgid "Insert a kiss face"
+msgstr "Убацује смешка који шаље пољубац"
+
+#: smiley10Cmd.label
+#: smiley10Cmd.accesskey
+msgid "&Yell"
+msgstr "&Викање"
+
+#: smiley10Cmd.tooltip
+msgid "Insert a yelling face"
+msgstr "Убацује смешка који виче"
+
+#: smiley11Cmd.label
+#: smiley11Cmd.accesskey
+msgid "&Cool"
+msgstr "&Смирен"
+
+#: smiley11Cmd.tooltip
+msgid "Insert a cool face"
+msgstr "Убацује смешка који је смирен"
+
+#: smiley12Cmd.label
+#: smiley12Cmd.accesskey
+msgid "&Money-Mouth"
+msgstr "&Новчана уста"
+
+#: smiley12Cmd.tooltip
+msgid "Insert a money-mouth face"
+msgstr "Убацује смешка са новцем у устима"
+
+#: smiley13Cmd.label
+#: smiley13Cmd.accesskey
+msgid "F&oot-in-Mouth"
+msgstr "&Једе ногу"
+
+#: smiley13Cmd.tooltip
+msgid "Insert a foot-in-mouth face"
+msgstr "Убацује смешка који је направио непријатну грешку"
+
+#: smiley14Cmd.label
+#: smiley14Cmd.accesskey
+msgid "&Innocent"
+msgstr "&Невинашце"
+
+#: smiley14Cmd.tooltip
+msgid "Insert an innocent face"
+msgstr "Убацује смешка са лицем невинашцета"
+
+#: smiley15Cmd.label
+#: smiley15Cmd.accesskey
+msgid "C&ry"
+msgstr "&Плач"
+
+#: smiley15Cmd.tooltip
+msgid "Insert a crying face"
+msgstr "Убацује смешка који плаче"
+
+#: smiley16Cmd.label
+#: smiley16Cmd.accesskey
+msgid "Lips-&are-Sealed"
+msgstr "&Ништа не говорим"
+
+#: smiley16Cmd.tooltip
+msgid "Insert a lips-are-sealed face"
+msgstr "Убацује смешка који ништа не говори"

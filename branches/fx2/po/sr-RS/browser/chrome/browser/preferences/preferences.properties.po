@@ -1,0 +1,330 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2008-03-05 02:25+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#### Main
+# extracted from source/sr-RS/browser/chrome/browser/preferences/preferences.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-06-13 01:33+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: blankpage
+msgid "(blank page)"
+msgstr "(празна страна)"
+
+# LOCALIZATION NOTE: bookmarkjoiner is used to separate bookmark names when
+#                    multiple bookmarks have been chosen as a home page and
+#                    their names must be displayed.  (Note that there is a
+#                    trailing space in the value defined below.)
+#: bookmarkjoiner
+msgid ","
+msgstr ","
+
+#: choosehomepage
+msgid "Choose Home Page"
+msgstr "Избор насловних страна"
+
+#: choosebookmark
+msgid "%brand% can set your home page to a site you have already added to your Bookmarks. Select a Bookmark below and click OK."
+msgstr "Програм %brand% може да постави забележену страну као почетну. Изаберите везу из забелешки и притисните „У реду‟."
+
+#: choosefile
+msgid "Choose a file"
+msgstr "Изаберите датотеку"
+
+#### Content
+# ### Content
+#: addReader
+msgid "Add New Reader..."
+msgstr "Додај нови читач..."
+
+#### Security
+# LOCALIZATION NOTE: phishBefore uses %S to represent the name of the provider
+#                    whose privacy policy must be accepted (for enabling
+#                    check-every-page-as-I-load-it phishing protection).
+# ### Security
+#: phishBeforeText
+msgid "Selecting this option will send the address of web pages you are viewing to %S. To continue, please review and accept the following terms of service."
+msgstr "Избор ове могућности ће слати стране које прегледате за %S. Да бисте наставили, молимо да прегледате и прихватите услове употребе."
+
+#: setMasterPassword
+msgid "Set Master Password..."
+msgstr "Постави главну лозинку..."
+
+#: setMasterPassword_accesskey
+#: changeMasterPassword_accesskey
+msgid "M"
+msgstr "M"
+
+#: changeMasterPassword
+msgid "Change Master Password..."
+msgstr "Измена главне лозинке..."
+
+#### Fonts
+# ### Fonts
+#: labelDefaultFont
+msgid "Default (%S)"
+msgstr "Текуће (%S)"
+
+#### Permissions Manager
+# ### Permissions Manager
+#: cookiepermissionstext
+msgid "You can specify which web sites are always or never allowed to use cookies.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow."
+msgstr "Можете одредити којим веб странама је дозвољено да користе колачиће. Унесите тачну адресу стране коју желите да контролишете и онда изаберите „Блокирај‟, „Дозволи за сесију‟ или „Дозволи‟."
+
+#: cookiepermissionstitle
+msgid "Exceptions - Cookies"
+msgstr "Изузеци - Колачићи"
+
+#: addonspermissionstext
+msgid "You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow."
+msgstr "Можете да одредите којим ел. местима је дозвољено да постављају додатке. Укуцајте тачну адресу ел. места коме желите да дозволите постављање и притисните „Дозволи‟"
+
+#: addons_permissions_title
+msgid "Allowed Sites - Add-ons Installation"
+msgstr "Дозвољене стране - Инсталација додатака"
+
+#: popuppermissionstext
+msgid "You can specify which web sites are allowed to open popup windows. Type the exact address of the site you want to allow and then click Allow."
+msgstr "Можете дозволити одређеним веб странама да отварају искачуће прозорчиће. Унесите прецизну адресу стране и онда кликните на Дозволи."
+
+#: popuppermissionstitle
+msgid "Allowed Sites - Popups"
+msgstr "Дозвољене стране - Искачући прозори"
+
+#: imagepermissionstext
+msgid "You can specify which web sites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow."
+msgstr "Можете да одредите којим странама је дозвољено да учитавају слике. Унесите тачну адресу стране и онда изаберите „Дозволи‟."
+
+#: imagepermissionstitle
+msgid "Exceptions - Images"
+msgstr "Изузеци - Слике"
+
+#: invalidURI
+msgid "Please enter a valid hostname"
+msgstr "Молим, унесите исправно име хоста"
+
+#: invalidURITitle
+msgid "Invalid Hostname Entered"
+msgstr "Унето је неисправно име рачунара"
+
+#### Master Password
+# ### Master Password
+#: password_not_set
+msgid "(not set)"
+msgstr "(није постављено)"
+
+#: failed_pw_change
+msgid "Unable to change Master Password."
+msgstr "Не могу да променим главну лозинку."
+
+#: incorrect_pw
+msgid "You did not enter the correct current Master Password. Please try again."
+msgstr "Нисте унели исправну текућу главну лозинку. Молим покушајте поново."
+
+#: pw_change_ok
+msgid "Master Password successfully changed."
+msgstr "Главна лозинка је успешно промењена."
+
+#: pw_erased_ok
+msgid "You have deleted your Master Password."
+msgstr "Избрисали сте Вашу главну лозинку."
+
+#: pw_not_wanted
+msgid "Warning! You have decided not to use a Master Password."
+msgstr "Упозорење! Одлучили сте да не користите главну лозинку."
+
+#: pw_empty_warning
+msgid "Your stored web and email passwords, form data, and private keys will not be protected."
+msgstr "Ваше сачуване веб стране и лозинке ел. поште, садржаји формулара и приватни кључеви биће незаштићени."
+
+#: pw_change2empty_in_fips_mode
+msgid "You are currently in FIPS mode. FIPS requires a non-empty Master Password."
+msgstr "Тренутно сте у FIPS моду. FIPS мод захтева постојање главне лозинке."
+
+#: pw_change_success_title
+msgid "Password Change Succeeded"
+msgstr "Лозинка је успешно измењена"
+
+#: pw_change_failed_title
+msgid "Password Change Failed"
+msgstr "Неуспешна измена лозинке"
+
+#: pw_remove_button
+msgid "Remove"
+msgstr "Уклони"
+
+#### Fonts
+# LOCALIZATION NOTE: Next two strings are for language name representations with
+#   and without the region.
+#   e.g. languageRegionCodeFormat : "French/Canada  [fr-ca]" languageCodeFormat : "French  [fr]"
+#   %1$S = language name, %2$S = region name, %3$S = language-region code
+# ### Fonts
+#: languageRegionCodeFormat
+msgid "%1$S/%2$S  [%3$S]"
+msgstr "%1$S/%2$S  [%3$S]"
+
+#   %1$S = language name, %2$S = language-region code
+#: languageCodeFormat
+msgid "%1$S  [%2$S]"
+msgstr "%1$S  [%2$S]"
+
+# LOCALIZATION NOTE: dpi stands for 'dots per inch'
+#: fontScalingResolutionFormat
+msgid "%S dpi"
+msgstr "%S тпи"
+
+#### Downloads
+# ### Downloads
+#: desktopFolderName
+msgid "Desktop"
+msgstr "Радна површина"
+
+#: myDownloadsFolderName
+msgid "My Downloads"
+msgstr "Моји пријеми"
+
+#: chooseDownloadFolderTitle
+msgid "Choose Download Folder:"
+msgstr "Изаберите директоријум за пријем:"
+
+#### Download Actions
+# ### Download Actions
+#: extensionNone
+msgid "(NONE)"
+msgstr "(ништа)"
+
+#: removeButtonSingle
+#: removeTitleSingle
+msgid "Remove Action"
+msgstr "Уклони акцију"
+
+#: removeButtonMultiple
+#: removeTitleMultiple
+msgid "Remove Actions"
+msgstr "Уклони акције"
+
+#: removeMessageSingle
+msgid "The selected Action will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove this Action?"
+msgstr "Изабрана акција више неће бити примењивана код пријема изабраног типа. Да ли желите да уклоните ову акцију?"
+
+#: removeMessageMultiple
+msgid "The selected Actions will no longer be performed when files of the affected types are downloaded. Are you sure you want to remove these Actions?"
+msgstr "Изабрана акција више неће бити примењивана код пријема изабраних типова. Да ли желите да уклоните ове акције?"
+
+#: fileEnding
+msgid "%S file"
+msgstr "%S датотека"
+
+#: saveToDisk
+msgid "Save to Disk"
+msgstr "Сачувај на диск"
+
+#: openWith
+msgid "Open with %S"
+msgstr "Отвори са %S"
+
+#: actionsFiltered
+msgid "The following Actions match your search:"
+msgstr "Следећа акција задовољава вашу потрагу:"
+
+#: actionsAll
+msgid "Automatically perform the associated Action with each of the following file types:"
+msgstr "Самостално присвоји акцију за сваки од изабраних типова датотека:"
+
+#### Change Action
+# ### Change Action
+#: extensionStringFormat
+msgid "%S, %S"
+msgstr "%S, %S"
+
+#: downloadHelperNoneSelected
+msgid "None Selected"
+msgstr "Није изабрано"
+
+#: pluginHelperNoneAvailable
+msgid "None Available"
+msgstr "Није доступно"
+
+#: fpTitleChooseApp
+msgid "Select Helper Application"
+msgstr "Изаберите помоћни програм"
+
+#: fpTitleChooseDL
+msgid "Select Download Folder"
+msgstr "Изаберите директоријум за пријем"
+
+#### Cookie Viewer
+# ### Cookie Viewer
+#: hostColon
+msgid "Host:"
+msgstr "Хост:"
+
+#: domainColon
+msgid "Domain:"
+msgstr "Домен:"
+
+#: forSecureOnly
+msgid "Encrypted connections only"
+msgstr "Само шифроване везе"
+
+#: forAnyConnection
+msgid "Any type of connection"
+msgstr "Било који тип везе"
+
+#: AtEndOfSession
+msgid "at end of session"
+msgstr "на крају сесије"
+
+#: can
+msgid "Allow"
+msgstr "Дозволи"
+
+#: canSession
+msgid "Allow for Session"
+msgstr "Дозволи за сесију"
+
+#: cannot
+msgid "Block"
+msgstr "Блокирај"
+
+#: noCookieSelected
+msgid "<no cookie selected>"
+msgstr "<нема изабраних колачића>"
+
+#: cookiesAll
+msgid "The following cookies are stored on your computer:"
+msgstr "Следећи колачићи су сачувани на Вашем рачунару:"
+
+#: cookiesFiltered
+msgid "The following cookies match your search:"
+msgstr "Следећи колачићи задовољавају критеријум Ваше претраге:"
+
+#: removeCookies
+msgid "Remove Cookies"
+msgstr "Уклони колачиће"
+
+#: removeCookie
+msgid "Remove Cookie"
+msgstr "Уклони колачић"

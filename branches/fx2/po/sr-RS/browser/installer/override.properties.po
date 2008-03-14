@@ -1,0 +1,338 @@
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is the Mozilla Installer code.
+#
+# The Initial Developer of the Original Code is Mozilla Foundation
+# Portions created by the Initial Developer are Copyright (C) 2006
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s):
+#  Robert Strong <robert.bugzilla@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+# extracted from source/sr-RS/browser/installer/override.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"PO-Revision-Date: 2007-08-30 15:50-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Accelerator-Marker: &\n"
+
+# LOCALIZATION NOTE:
+# This file must be saved as UTF8
+# Accesskeys are defined by prefixing the letter that is to be used for the
+# accesskey with an ampersand (e.g. &).
+# Do not replace $(^NameDA) or $(^Name) with a custom string.
+# Do not change $(^NameDA) to $(^Name) or $(^Name) to $(^NameDA). NameDA allows
+# Name to contain an ampersand (e.g. DA stands for double ampersand) and
+# prevents the letter following the ampersand being used as an accesskey.
+# You can use \n to create a newline in the string but only when the string
+# from en-US contains a \n.
+# Strings that require a space at the end should be enclosed with double
+# quotes and the double quotes will be removed. To add quotes to the beginning
+# and end of a strong enclose the add and additional double quote to the
+# beginning and end of the string (e.g. ""This will include quotes"").
+#: SetupCaption
+msgid "$(^Name) Setup"
+msgstr "Инсталација програма $(^Name)"
+
+#: UninstallCaption
+msgid "$(^Name) Uninstall"
+msgstr "Деинсталација програма $(^Name)"
+
+#: BackBtn
+msgid "< &Back"
+msgstr "< &Назад"
+
+#: NextBtn
+msgid "&Next >"
+msgstr "&Даље >"
+
+#: AcceptBtn
+msgid "I &accept the terms in the License Agreement"
+msgstr "&Прихватам споразум о лиценцирању"
+
+#: DontAcceptBtn
+msgid "I &do not accept the terms in the License Agreement"
+msgstr "&Не прихватам споразум о лиценцирању"
+
+#: InstallBtn
+msgid "&Install"
+msgstr "&Инсталирај"
+
+#: UninstallBtn
+msgid "&Uninstall"
+msgstr "&Деинсталирај"
+
+#: CancelBtn
+msgid "Cancel"
+msgstr "Откажи"
+
+# unix
+# LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey
+#: CloseBtn
+msgid "&Close"
+msgstr "&Затвори"
+
+#: BrowseBtn
+msgid "B&rowse..."
+msgstr "П&реглед..."
+
+#: ShowDetailsBtn
+msgid "Show &details"
+msgstr "Приказ &детаља"
+
+#: ClickNext
+msgid "Click Next to continue."
+msgstr "Притисните „Даље‟ да наставите"
+
+#: ClickInstall
+msgid "Click Install to start the installation."
+msgstr "Притисните „Инсталирај‟ да покренете инсталацију."
+
+#: ClickUninstall
+msgid "Click Uninstall to start the uninstallation."
+msgstr "Притисните „Деинсталирај‟ да покренете деиснталацију."
+
+#: Completed
+msgid "Completed"
+msgstr "Готово"
+
+#: LicenseTextRB
+msgid "Please review the license agreement before installing $(^NameDA). If you accept all terms of the agreement, select the first option below. $_CLICK"
+msgstr "Молимо да прегледате споразум о лиценцирању пре него што инсталирате програм $(^NameDA).  Ако прихватате све услове споразума, изаберите прву опцију испод. $_CLICK"
+
+#: ComponentsText
+msgid "Check the components you want to install and uncheck the components you don't want to install. $_CLICK"
+msgstr "Означите компоненте које желите да инсталирате и уклоните ознаку са компоненти које не желите да инсталирате. $_CLICK"
+
+#: ComponentsSubText2_NoInstTypes
+msgid "Select components to install:"
+msgstr "Избор компонената за инсталацију:"
+
+#: DirText
+msgid "Setup will install $(^NameDA) in the following folder. To install in a different folder, click Browse and select another folder. $_CLICK"
+msgstr "Инсталатер ће инсталирати програм $(^NameDA) у наведени директоријум. Да бисте инсталирали у неки други директоријум, притисните „Преглед‟ и изаберите други директоријум. $_CLICK"
+
+#: DirSubText
+msgid "Destination Folder"
+msgstr "Циљни директоријум"
+
+#: DirBrowseText
+msgid "Select the folder to install $(^NameDA) in:"
+msgstr "Изаберите директоријум за инсталацију програма $(^NameDA):"
+
+#: SpaceAvailable
+msgid "\"Space available: \""
+msgstr "\"Потребан простор: \""
+
+#: SpaceRequired
+msgid "\"Space required: \""
+msgstr "\"Доступан простор: \""
+
+#: UninstallingText
+msgid "$(^NameDA) will be uninstalled from the following folder. $_CLICK"
+msgstr "Програм $(^NameDA) ће бити деинсталиран из наведеног директоријума. $_CLICK"
+
+#: UninstallingSubText
+msgid "Uninstalling from:"
+msgstr "Деинсталација из:"
+
+#: FileError
+msgid ""
+"Error opening file for writing: \\r\n"
+"\\r\n"
+"$0\\r\n"
+"\\r\n"
+"Click Abort to stop the installation,\\r\n"
+"Retry to try again, or\\r\n"
+"Ignore to skip this file."
+msgstr ""
+"Грешка при отварању датотеке за упис: \\r\n"
+"\\r\n"
+"$0\\r\n"
+"\\r\n"
+"Притисните „Откажи‟ да бисте обуставили инсталацију,\\r\n"
+"„Понови‟ да бисте пробали поново, или\\r\n"
+"„Занемари‟ да прескочите ову датотеку."
+
+#: FileError_NoIgnore
+msgid ""
+"Error opening file for writing: \\r\n"
+"\\r\n"
+"$0\\r\n"
+"\\r\n"
+"Click Retry to try again, or\\r\n"
+"Cancel to stop the installation."
+msgstr ""
+"Грешка при отварању датотеке за упис: \\r\n"
+"\\r\n"
+"$0\\r\n"
+"\\r\n"
+"Притисните „Понови‟ да пробате опет, или\\r\n"
+"„Откажи‟ да зауставите инсталацију."
+
+#: CantWrite
+msgid "\"Can't write: \""
+msgstr "\"Није могућ упис: \""
+
+#: CopyFailed
+msgid "Copy failed"
+msgstr "Умножавање није успело"
+
+#: CopyTo
+msgid "\"Copy to \""
+msgstr "\"Умножи на \""
+
+#: Registering
+msgid "\"Registering: \""
+msgstr "\"Регистрација: \""
+
+#: Unregistering
+msgid "\"Unregistering: \""
+msgstr "\"Дерегистрација: \""
+
+#: SymbolNotFound
+msgid "\"Could not find symbol: \""
+msgstr "\"Симбол није пронађен: \""
+
+#: CouldNotLoad
+msgid "\"Could not load: \""
+msgstr "\"Није могуће учитати: \""
+
+#: CreateFolder
+msgid "\"Create folder: \""
+msgstr "\"Прављење директоријума: \""
+
+#: CreateShortcut
+msgid "\"Create shortcut: \""
+msgstr "\"Прављење скраћенице: \""
+
+#: CreatedUninstaller
+msgid "\"Created uninstaller: \""
+msgstr "\"Направљен деинсталатер: \""
+
+#: Delete
+msgid "\"Delete file: \""
+msgstr "\"Уклоњена датотека: \""
+
+#: DeleteOnReboot
+msgid "\"Delete on reboot: \""
+msgstr "\"Уклањање при рестарту: \""
+
+#: ErrorCreatingShortcut
+msgid "\"Error creating shortcut: \""
+msgstr "\"Грешка при прављењу скраћенице: \""
+
+#: ErrorCreating
+msgid "\"Error creating: \""
+msgstr "\"Грешка при прављењу: \""
+
+#: ErrorDecompressing
+msgid "Error decompressing data! Corrupted installer?"
+msgstr "Грешка при декомпресији података!  Можда је инсталатер неисправан?"
+
+#: ErrorRegistering
+msgid "Error registering DLL"
+msgstr "Грешка при регистрацији ДЛЛа"
+
+#: ExecShell
+msgid "\"ExecShell: \""
+msgstr "\"ExecShell: \""
+
+#: Exec
+msgid "\"Execute: \""
+msgstr "\"Извршење: \""
+
+#: Extract
+msgid "\"Extract: \""
+msgstr "\"Извлачење: \""
+
+#: ErrorWriting
+msgid "\"Extract: error writing to file \""
+msgstr "\"Извлачење: грешка при упису у датотеку \""
+
+#: InvalidOpcode
+msgid "Installer corrupted: invalid opcode"
+msgstr "Инсталатер је неисправан: неважећи код операције"
+
+#: NoOLE
+msgid "\"No OLE for: \""
+msgstr "\"Не постоји OLE за: \""
+
+#: OutputFolder
+msgid "\"Output folder: \""
+msgstr "\"Директоријум за излаз: \""
+
+#: RemoveFolder
+msgid "\"Remove folder: \""
+msgstr "\"Уклоњен директоријум: \""
+
+#: RenameOnReboot
+msgid "\"Rename on reboot: \""
+msgstr "\"Промена имена при рестарту: \""
+
+#: Rename
+msgid "\"Rename: \""
+msgstr "\"Промена имена: \""
+
+#: Skipped
+msgid "\"Skipped: \""
+msgstr "\"Прескочено: \""
+
+#: CopyDetails
+msgid "Copy Details To Clipboard"
+msgstr "Умножи детаље на клипборд"
+
+#: LogInstall
+msgid "Log install process"
+msgstr "Бележи процес инсталације"
+
+# Format Toolbar, imported from editorAppShell.xul
+# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
+#: Byte
+msgid "B"
+msgstr "B"
+
+#: Kilo
+msgid "K"
+msgstr "K"
+
+#: Mega
+msgid "M"
+msgstr "M"
+
+#: Giga
+msgid "G"
+msgstr "G"
