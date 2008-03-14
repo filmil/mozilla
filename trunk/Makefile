@@ -43,15 +43,21 @@ split: $(ZIPNAME)
 	@echo Produced files:
 	@ls $(ZIPNAME)-*
 
-# Прављење образаца за пренос
+# Прављење образаца за пренос.
+# SOURCE_DIR = изворни директоријум из Мозиле
+# POT_DIR = директоријум у кога се извозе ПОТ датотеке добијене из изворног
 pot: cleanpot
 	$(MOZ2PO) -i $(SOURCE_DIR) --pot -o $(POT_DIR)
 
 cleanpo: 
 	$(MOZ2PO) -i $(SOURCE_DIR)  -o $(PO_TRANSLATIONS)
 
-mergepop:
-	$(POMERGE) -t $(POT_DIR) -i po/$(SOURCE_DIR) -o $(PO_TRANSLATIONS)
+# На жалост, помиграте не узима у обзир датотеке које нису .по
+# А померге се збуњује око неких заглавља.
+# Користимо зато ОБА, да бисмо извукли све по датотеке и све помоћне датотеке
+mergepo:
+	$(POMERGE) --progress=names -x CVS -x .svn -t $(POT_DIR) -i $(PO_SOURCE_DIR) -o $(MERGED_PO_OUTPUT_DIR)
+	$(POMIGRATE) $(PO_SOURCE_DIR) $(MERGED_PO_OUTPUT_DIR) $(POT_DIR)
 
 # Чишћење директоријума са обрасцима (ПОТ)
 cleanpot:
