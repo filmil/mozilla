@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 20:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,3 +51,23 @@ msgstr ""
 #: MissingOverlay
 msgid "Failed to load overlay from %1$S."
 msgstr "Неуспело учитавање преклапања из %1$S."
+
+#: PINotInProlog
+msgid ""
+"<?%1$S?> processing instruction does not have any effect outside the prolog "
+"anymore (see bug 360119)."
+msgstr ""
+
+#: NeededToWrapXUL
+msgid ""
+"XUL box for %1$S element contained an inline %2$S child, forcing all its "
+"children to be wrapped in a block."
+msgstr ""
+
+#: NeededToWrapXULInlineBox
+msgid ""
+"XUL box for %1$S element contained an inline %2$S child, forcing all its "
+"children to be wrapped in a block.  This can often be fixed by replacing "
+"\"display: -moz-inline-box\" with \"display: -moz-inline-box; display: "
+"inline-block\"."
+msgstr ""

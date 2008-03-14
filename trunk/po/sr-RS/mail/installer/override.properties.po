@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-06-10 18:20+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,8 +106,8 @@ msgid "&Close"
 msgstr "&Затвори"
 
 #: BrowseBtn
-msgid "B&rowse..."
-msgstr "&Преглед..."
+msgid "B&rowse…"
+msgstr ""
 
 #: ShowDetailsBtn
 msgid "Show &details"
@@ -130,20 +130,34 @@ msgid "Completed"
 msgstr "Готово"
 
 #: LicenseTextRB
-msgid "Please review the license agreement before installing $(^NameDA). If you accept all terms of the agreement, select the first option below. $_CLICK"
-msgstr "Молимо да прегледате споразум о лиценци пре него што инсталирате програм $(^NameDA). Ако прихватате све услове лиценце, изаберите прву опцију испод. $_CLICK"
+msgid ""
+"Please review the license agreement before installing $(^NameDA). If you "
+"accept all terms of the agreement, select the first option below. $_CLICK"
+msgstr ""
+"Молимо да прегледате споразум о лиценци пре него што инсталирате програм "
+"$(^NameDA). Ако прихватате све услове лиценце, изаберите прву опцију испод. "
+"$_CLICK"
 
 #: ComponentsText
-msgid "Check the components you want to install and uncheck the components you don't want to install. $_CLICK"
-msgstr "Изаберите делове које желите да поставите и искљулите делове које не желите. $_CLICK"
+msgid ""
+"Check the components you want to install and uncheck the components you "
+"don't want to install. $_CLICK"
+msgstr ""
+"Изаберите делове које желите да поставите и искљулите делове које не желите. "
+"$_CLICK"
 
 #: ComponentsSubText2_NoInstTypes
 msgid "Select components to install:"
 msgstr "Изаберите делове за инсталацију:"
 
 #: DirText
-msgid "Setup will install $(^NameDA) in the following folder. To install in a different folder, click Browse and select another folder. $_CLICK"
-msgstr "Инсталатер ће поставити програм $(^NameDA) у наведени директоријум.  Да бисте инсталирали у неки други директоријум, притисните „Преглед‟ и изаберите неки други директоријум. $_CLICK"
+msgid ""
+"Setup will install $(^NameDA) in the following folder. To install in a "
+"different folder, click Browse and select another folder. $_CLICK"
+msgstr ""
+"Инсталатер ће поставити програм $(^NameDA) у наведени директоријум.  Да "
+"бисте инсталирали у неки други директоријум, притисните „Преглед‟ и "
+"изаберите неки други директоријум. $_CLICK"
 
 #: DirSubText
 msgid "Destination Folder"
@@ -336,3 +350,6 @@ msgstr "M"
 #: Giga
 msgid "G"
 msgstr "G"
+
+#~ msgid "B&rowse..."
+#~ msgstr "&Преглед..."

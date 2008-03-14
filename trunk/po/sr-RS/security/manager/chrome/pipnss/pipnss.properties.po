@@ -43,7 +43,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 19:24+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,8 +95,7 @@ msgstr "Програмско формирање заштите"
 #
 # 32 bytes long after conversion to UTF8
 # 32
-#: PrivateTokenDescription
-#: InternalToken
+#: PrivateTokenDescription InternalToken
 msgid "Software Security Device"
 msgstr "Програмски уређај за безбедност"
 
@@ -113,15 +112,15 @@ msgid "PSM Private Keys"
 msgstr "PSM приватни кључеви"
 
 #
-# 64
-#: FipsSlotDescription
-msgid "PSM Internal FIPS-140-1 Cryptographic Services"
-msgstr "PSM интерни FIPS-140-1 сервис шифровања"
+# 32
+#: Fips140TokenDescription
+msgid "Software Security Device (FIPS)"
+msgstr ""
 
 # 64
-#: FipsPrivateSlotDescription
-msgid "PSM FIPS-140-1 User Private Key Services"
-msgstr "Програмски безбедан уређај"
+#: Fips140SlotDescription
+msgid "FIPS 140 Cryptographic, Key and Certificate Services"
+msgstr ""
 
 # End of size restriction.
 #: VerifySSLClient
@@ -148,13 +147,11 @@ msgstr "Сертификат потписника ел. поште"
 msgid "Email Recipient Certificate"
 msgstr "Сертификат примаоца ел. поште"
 
-#: VerifyProtectObjSign
-#: VerifyProtectObjSign_p
+#: VerifyProtectObjSign VerifyProtectObjSign_p
 msgid "Protected Object Signer"
 msgstr "Потпис заштићеног објекта"
 
-#: VerifyObjSign
-#: VerifyObjSign_p
+#: VerifyObjSign VerifyObjSign_p
 msgid "Object Signer"
 msgstr "Потпис објекта"
 
@@ -162,8 +159,7 @@ msgstr "Потпис објекта"
 msgid "User Import Cert"
 msgstr "Увоз сертификата корисника"
 
-#: VerifyCAVerifier
-#: VerifyCAVerifier_p
+#: VerifyCAVerifier VerifyCAVerifier_p
 msgid "CA Verifier"
 msgstr "Провера ПС"
 
@@ -176,12 +172,12 @@ msgid "Any Certificate Authority"
 msgstr "Било која провера сертификата"
 
 #: HighGrade
-msgid "2048 (High Grade)"
-msgstr "2048 (Висока оцена)"
+msgid "High Grade"
+msgstr ""
 
 #: MediumGrade
-msgid "1024 (Medium Grade)"
-msgstr "1024 (Средњи степен)"
+msgid "Medium Grade"
+msgstr ""
 
 #: nick_template
 msgid "%1$s's %2$s ID"
@@ -191,7 +187,7 @@ msgstr "ID %2$s %1$s"
 msgid "%1$s's %2$s ID #%3$d"
 msgstr "ID #%3$d %2$s %1$s"
 
-#These are the strings set for the ASN1 objects in a certificate.
+# These are the strings set for the ASN1 objects in a certificate.
 # These are the strings set for the ASN1 objects in a certificate.
 #: CertDumpCertificate
 msgid "Certificate"
@@ -341,6 +337,14 @@ msgstr "Параметри алгоритма"
 msgid "PKCS #1 RSA Encryption"
 msgstr "Шифрован PKCS #1 RSA"
 
+#: CertDumpRSATemplate
+msgid ""
+"Modulus (%S bits):\n"
+"%S\n"
+"Exponent (%S bits):\n"
+"%S"
+msgstr ""
+
 #: CertDumpIssuerUniqueID
 msgid "Issuer Unique ID"
 msgstr "Уникатан број корисника"
@@ -469,7 +473,7 @@ msgstr "ANSI X9.57 DSA потпис са SHA1 распоредом"
 msgid "ANSI X9.62 ECDSA Signature with SHA1"
 msgstr "ANSI X9.62 ECDSA потпис са SHA1"
 
-#: CertDumpCertTypeEmail
+#: CertDumpCertTypeEmail CertInfoEmail
 msgid "Email"
 msgstr "Ел. пошта"
 
@@ -720,6 +724,10 @@ msgstr "Издавачи сертификата"
 #: CertDumpCPSPointer
 msgid "Certification Practice Statement pointer"
 msgstr "Показивач на изјаву о пословању сертификата"
+
+#: CertDumpPolicyOidEV
+msgid "Extended Validation (EV) SSL Server Certificate"
+msgstr ""
 
 #: CertDumpUserNotice
 msgid "User Notice"
@@ -1023,19 +1031,30 @@ msgstr "Унешена лозинка није исправна."
 
 #: SuccessfulP12Backup
 msgid "Successfully backed up your security certificate(s) and private key(s)."
-msgstr "Копирање резервне копије Ваших сертификата и затворених кључева је успешно завршено."
+msgstr ""
+"Копирање резервне копије Ваших сертификата и затворених кључева је успешно "
+"завршено."
 
 #: SuccessfulP12Restore
 msgid "Successfully restored your security certificate(s) and private key(s)."
-msgstr "Успешан повраћај Вашег безбедносног сертификата и приватног кључа(ева)."
+msgstr ""
+"Успешан повраћај Вашег безбедносног сертификата и приватног кључа(ева)."
 
 #: PKCS12PasswordInvalid
-msgid "Could not decode PKCS #12 file.  Perhaps the password you entered was incorrect?"
-msgstr "Немогуће је дешифровати датотеку PKCS#12. Вероватно унешена лозинка није исправна."
+msgid ""
+"Could not decode PKCS #12 file.  Perhaps the password you entered was "
+"incorrect?"
+msgstr ""
+"Немогуће је дешифровати датотеку PKCS#12. Вероватно унешена лозинка није "
+"исправна."
 
 #: PKCS12DecodeErr
-msgid "Failed to decode the file.  Either it is not in PKCS #12 format, has been corrupted, or the password you entered was incorrect."
-msgstr "Грешка при дешифровању датотеке. Можда то није датотека PKCS#12 , датотека није у реду или унешена лозинка није исправна."
+msgid ""
+"Failed to decode the file.  Either it is not in PKCS #12 format, has been "
+"corrupted, or the password you entered was incorrect."
+msgstr ""
+"Грешка при дешифровању датотеке. Можда то није датотека PKCS#12 , датотека "
+"није у реду или унешена лозинка није исправна."
 
 #: PKCS12UnknownErrRestore
 msgid "Failed to restore the PKCS #12 file for unknown reasons."
@@ -1050,8 +1069,12 @@ msgid "The PKCS #12 operation failed for unknown reasons."
 msgstr "Операција PKCS #12 је неуспешно завршена из непознатог разлога."
 
 #: PKCS12InfoNoSmartcardBackup
-msgid "It is not possible to back up certificates from a hardware security device such as a smart card."
-msgstr "Немогуће је обновити сертификат са механизма заштите као што је смарт-картица."
+msgid ""
+"It is not possible to back up certificates from a hardware security device "
+"such as a smart card."
+msgstr ""
+"Немогуће је обновити сертификат са механизма заштите као што је смарт-"
+"картица."
 
 #: PKCS12DupData
 msgid "The certificate and private key already exist on the security device."
@@ -1102,16 +1125,29 @@ msgid "External security module successfully deleted"
 msgstr "Спољни безбедносни модул је успешно избрисан"
 
 #: ForcedBackup1
-msgid "You should make a password-protected backup copy of your new security certificate and its associated private key."
-msgstr "Можете направити резервну копију Вашег новог сертификата и Вашег приватног кључа заштићену лозинком."
+msgid ""
+"You should make a password-protected backup copy of your new security "
+"certificate and its associated private key."
+msgstr ""
+"Можете направити резервну копију Вашег новог сертификата и Вашег приватног "
+"кључа заштићену лозинком."
 
 #: ForcedBackup2
-msgid "If you ever lose access to your private key by forgetting your personal security password, or by experiencing file corruption, you can restore this private key and certificate from this backup copy."
-msgstr "Ако икад изгубите приступ Вашем приватном кључу тако што заборавите лозинку или оштетите датотеку, можете повратити приватни кључ из ове резервне копије."
+msgid ""
+"If you ever lose access to your private key by forgetting your personal "
+"security password, or by experiencing file corruption, you can restore this "
+"private key and certificate from this backup copy."
+msgstr ""
+"Ако икад изгубите приступ Вашем приватном кључу тако што заборавите лозинку "
+"или оштетите датотеку, можете повратити приватни кључ из ове резервне копије."
 
 #: ForcedBackup3
-msgid "To make a copy, click OK. If possible, you should save your backup copy on a floppy disk that you keep in a safe location."
-msgstr "Кликните на У реду за стварање копије. По могућству чувајте резервну копију на дискети коју чувате на безбедном месту."
+msgid ""
+"To make a copy, click OK. If possible, you should save your backup copy on a "
+"floppy disk that you keep in a safe location."
+msgstr ""
+"Кликните на У реду за стварање копије. По могућству чувајте резервну копију "
+"на дискети коју чувате на безбедном месту."
 
 #: UnknownCertIssuer
 msgid "(Unknown Issuer)"
@@ -1125,168 +1161,96 @@ msgstr "(Непозната фирма)"
 msgid "%S = %S"
 msgstr "%S = %S"
 
-#for the next 3 lines, %1$S will be product name (e.g. Firefox), %2$S will be the www.example.com address we connect to
-# for the next 3 lines, %1$S will be product name (e.g. Firefox), %2$S will be the www.example.com address we connect to
-#: SSL_Disabled
-msgid "%1$S can't connect securely to %2$S because the SSL protocol has been disabled."
-msgstr "%1$S не може да се шифровано повеже са %2$S јер је SSL протокол искључен."
+#: PSMERR_SSL_Disabled
+msgid "Can't connect securely because the SSL protocol has been disabled."
+msgstr ""
 
-#: SSL2_Disabled
-msgid "%1$S can't connect securely to %2$S because the site uses an older, insecure version of the SSL protocol."
-msgstr "%1$S не може да се безбедно повеже са %2$S јер место користи старије, несигурно издање SSL протокола."
-
-#: SSL_NoMatchingCiphers
-msgid "%1$S can't connect securely to %2$S because the site uses a security protocol which isn't enabled."
-msgstr "%1$S не може да се безбедно повеже са %2$S јер место користи безбедносни протокол који је искључен."
-
-#: UsersCertRevoked
-msgid "Could not establish an encrypted connection with %S because your certificate has been revoked."
-msgstr "Немогуће је успоставити заштићену везу са %S, зато што је Ваш сертификат отказан."
-
-#: UsersCertExpired
-msgid "Could not establish an encrypted connection with %S because your certificate is expired."
-msgstr "Немогуће је успоставити заштићену везу са %S, зато што је деловање Вашег сертификата истекло."
-
-#: UsersCertRejected
-msgid "Could not establish an encrypted connection because your certificate was rejected by %S. Error Code: %S."
-msgstr "Немогуће је успоставити заштићену везу са %S, зато што је Ваш сертификат уклоњен %S. Код грешке: %S."
-
-#: BadMac
-msgid "%S received a message with incorrect Message Authentication Code. If the error occurs frequently, contact the website administrator."
-msgstr "%S је добио поруку са неисправним кодом аутентичности поруке. Ако се та грешка поновиља често обавестите администратора сајта."
-
-#: PeerResetConnection
-msgid "%S has closed the connection. Error Code: %S"
-msgstr "%S је прекинуо везу. Код грешке: %S"
-
-#: HostResetConnection
-msgid "The current transfer has been cancelled."
-msgstr "Текући трансфер је отказан."
-
-#: BadPassword
-msgid "An incorrect password was provided."
-msgstr "Унешена је неисправна лозинка."
-
-#: BadDatabase
-msgid "There is a problem with your certificate database [Error Code: %S]."
-msgstr "Постоји проблем са базом сертификата [Код грешке: %S]."
-
-#: BadServer
-msgid "%S has sent an incorrect or unexpected message. Error Code: %S"
-msgstr "%S је послао неисправну или неочекивану поруку. Код грешке: %S"
-
-#: BadClient
-msgid "%S has received an incorrect or unexpected message. Error Code: %S"
-msgstr "%S је примио неисправну или неочекивану поруку. Код грешке: %S"
-
-#: HostReusedIssuerSerial
+#: PSMERR_SSL2_Disabled
 msgid ""
-"You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:\n"
+"Can't connect securely because the site uses an older, insecure version of "
+"the SSL protocol."
+msgstr ""
+
+#: PSMERR_HostReusedIssuerSerial
+msgid ""
+"You have received an invalid certificate.  Please contact the server "
+"administrator or email correspondent and give them the following "
+"information:\n"
 "\n"
-"Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number."
-msgstr "Примили сте неисправан сертификат. Молим обавестите администратора сервера или надлежне о следећем:\n"
+"Your certificate contains the same serial number as another certificate "
+"issued by the certificate authority.  Please get a new certificate "
+"containing a unique serial number."
+msgstr ""
+"Примили сте неисправан сертификат. Молим обавестите администратора сервера "
+"или надлежне о следећем:\n"
 "\n"
-"Ваш сертификат садржи исти серијски број као још неки власнички сертификат. Молим прибавите нови сертификат са јединственим серијским бројем."
+"Ваш сертификат садржи исти серијски број као још неки власнички сертификат. "
+"Молим прибавите нови сертификат са јединственим серијским бројем."
 
-#: SSLGenericError
-msgid "Error establishing an encrypted connection to %S. Error Code: %S."
-msgstr "Веза са %S је неостварљива због SSL грешке. Код грешке: %S."
+#: SSLConnectionErrorPrefix
+msgid "An error occurred during a connection to %S."
+msgstr ""
 
-#: TimeOut
-msgid "Connection request timed out."
-msgstr "Време за почетак штампе је истекло."
+#: certErrorIntro
+msgid "%S uses an invalid security certificate."
+msgstr ""
 
-#: PeersCertUntrusted
-msgid "Could not establish an encrypted connection because certificate presented by %S is not trusted."
-msgstr "Немогуће је успоставити заштићену везу зато што је сертификат %S непоуздан."
+#: certErrorTrust_SelfSigned
+msgid "The certificate is not trusted because it is self signed."
+msgstr ""
 
-#: PeersCertRevoked
-msgid "Could not establish an encrypted connection because certificate presented by %S has been revoked."
-msgstr "Немогуће је успоставити заштићену везу зато што је сертификат %S отказан."
+#: certErrorTrust_UnknownIssuer
+msgid ""
+"The certificate is not trusted because the issuer certificate is unknown."
+msgstr ""
 
-#: PeersCertExpired
-msgid "Could not establish an encrypted connection because certificate presented by %S has expired."
-msgstr "Немогуће је успоставити заштићену везу зато што је деловање сертификата %S истекло."
+#: certErrorTrust_CaInvalid
+msgid ""
+"The certificate is not trusted because it was issued by an invalid CA "
+"certificate."
+msgstr ""
 
-#: PeersCertWrongDomain
-msgid "Could not establish an encrypted connection because certificate presented by %S is for a different domain."
-msgstr "Немогуће је успоставити заштићену везу зато што је сертификат %S - за други домен."
+#: certErrorTrust_Issuer
+msgid ""
+"The certificate is not trusted because the issuer certificate is not trusted."
+msgstr ""
 
-#: PeersCertBadSignature
-msgid "Could not establish an encrypted connection because certificate presented by %S has an invalid signature."
-msgstr "Немогуће је успоставити шифровану везу зато што сертификат %S садржи нетачан потпис."
+#: certErrorTrust_ExpiredIssuer
+msgid ""
+"The certificate is not trusted because the issuer certificate has expired."
+msgstr ""
 
-#: PeersCertNoGood
-msgid "Could not establish an encrypted connection because certificate presented by %S is invalid or corrupted. Error Code: %S"
-msgstr "Немогуће је успоставити заштићену везу зато што је сертификат %S нетачан или нарушен. Код грешке:  %S"
+#: certErrorTrust_Untrusted
+msgid "The certificate does not come from a trusted source."
+msgstr ""
 
-#: CRLExpired
-msgid "Certificate Revocation List (CRL) from the CA certifying %S is past its Next Update date. Please update the CRL."
-msgstr "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S је проследила датум следећег унапређивања. Молим унапредите ЛПС."
+#: certErrorMismatch
+msgid "The certificate is not valid for the name %S."
+msgstr ""
 
-#: CRLNotYetValid
-msgid "Certificate Revocation List (CRL) from the CA certifying %S is not yet valid. Please check your system clock."
-msgstr "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S још није исправна. Молим проверите системски сат."
+#: certErrorMismatchSingle2
+msgid "The certificate is only valid for %S."
+msgstr ""
 
-#: CRLSigNotValid
-msgid "Certificate Revocation List (CRL) from the CA certifying %S has an invalid digital signature."
-msgstr "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S садржи погрешан дигитални потпис."
+#: certErrorMismatchMultiple
+msgid "The certificate is only valid for the following names:"
+msgstr ""
 
-#: CRLSNotValid
-msgid "Certificate Revocation List (CRL) from the CA certifying %S is not valid."
-msgstr "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S није исправна."
+#: certErrorMismatchNoNames
+msgid "The certificate is not valid for any server names."
+msgstr ""
 
-#: OCSPMalformedRequest
-msgid "Error trying to validate certificate from %S using OCSP - malformed request."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - неправилан упит."
+#: certErrorExpired
+msgid "The certificate expired on %S."
+msgstr ""
 
-#: OCSPRequestNeedsSig
-msgid "Error trying to validate certificate from %S using OCSP - request needs signature."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - упит захтева потпис."
+#: certErrorNotYetValid
+msgid "The certificate will not be valid until %S."
+msgstr ""
 
-#: OCSPUnauthorizedReq
-msgid "Error trying to validate certificate from %S using OCSP - unauthorized request."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - незашићен упит."
-
-#: OCSPServerError
-msgid "Error trying to validate certificate from %S using OCSP - server error."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - грешка сервера."
-
-#: OCSPTryServerLater
-msgid "Error trying to validate certificate from %S using OCSP - server is busy. Please try again later."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - сервер је преоптерећен. Покушајте касније."
-
-#: OCSPFutureResponse
-msgid "Error trying to validate certificate from %S using OCSP - response contains a date which is in the future."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - одговор садржи податке који се односе на будућим."
-
-#: OCSPOldResponse
-msgid "Error trying to validate certificate from %S using OCSP - old response."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - закаснели одговор."
-
-#: OCSPCorruptedResponse
-msgid "Error trying to validate certificate from %S using OCSP - corrupted or unknown response. Error Code: %S."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - погрешан или непознат одговор. Код грешке: %S."
-
-#: OCSPUnauthorizedResponse
-msgid "Error trying to validate certificate from %S using OCSP - unauthorized response."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - незаштићен одговор."
-
-#: OCSPUnknownCert
-msgid "Error trying to validate certificate from %S using OCSP - unknown certificate."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - непознат сертификат."
-
-#: OCSPNoDefaultResponder
-msgid "Error trying to validate certificate from %S using OCSP - no default responder specified."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - није указан подразумевани реагујући елеменат."
-
-#: OCSPDirLookup
-msgid "Error trying to validate certificate from %S using OCSP - directory lookup error."
-msgstr "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - грешка претраге по директоријуму."
-
-#: OCSPDeadlock
-msgid "An internal failure has been detected. It is not possible to complete the requested OCSP operation."
-msgstr "Дошло је до интерне грешке. Није могуће довршити тражено OCSP дејство."
+#: certErrorCodePrefix
+msgid "(Error code: %S)"
+msgstr ""
 
 #: CertInfoIssuedFor
 msgid "Issued to:"
@@ -1320,13 +1284,9 @@ msgstr "Сачувано у:"
 msgid "Imported Certificate"
 msgstr "Увежени сертификат"
 
-#: CrlImportSuccess
-msgid "The browser successfully imported the certificate revocation list (CRL)."
-msgstr "Клијент је успешно увезао Листу проверених сертификата (ЛПС)."
-
-#: CrlImportFailure1
-msgid "The browser cannot import the Certificate Revocation List (CRL)."
-msgstr "Клијент неможе да увезе у Листу проверених сертификата (ЛПС)."
+#: CrlImportFailure1x
+msgid "The application cannot import the Certificate Revocation List (CRL)."
+msgstr ""
 
 #: CrlImportFailureExpired
 msgid "A more recent version of this CRL is available."
@@ -1360,17 +1320,31 @@ msgstr "Грешка увоза ЛПС у локалну базу податак
 msgid "Please ask your system administrator for assistance."
 msgstr "Молим затражите помоћ администратора."
 
-#: NSSInitProblem
-msgid "Could not initialize the browser's security component. The most likely cause is problems with files in your browser's profile directory. Please check that this directory has no read/write restrictions and your hard disk is not full or close to full. It is recommended that you exit the browser and fix the problem. If you continue to use this browser session, you might see incorrect browser behaviour when accessing security features."
-msgstr "Не могу да покренем део за безбедност клијента. Највероватнији разлог је проблем са датотекама у директоријуму профила вашег клијента. Проверите да тај директоријум не садржи заштиту од читања/уписивања и да ли има довољно слободног простора на Вашем чврстом диску. Саветујем да затворите програм и решите проблем. Ако продужите сесију рада са читачем могу се појавити неке грешке при коришћењу система безбедности."
+#: NSSInitProblemX
+msgid ""
+"Could not initialize the application's security component. The most likely "
+"cause is problems with files in your application's profile directory. Please "
+"check that this directory has no read/write restrictions and your hard disk "
+"is not full or close to full. It is recommended that you exit the "
+"application and fix the problem. If you continue to use this session, you "
+"might see incorrect application behaviour when accessing security features."
+msgstr ""
 
 #: ProfileSwitchSocketsStillActive
-msgid "The operation can not be completed because of an internal failure. A secure network communication has not been cleaned up correctly."
-msgstr "Операција не може бити завршена због унутрашње грешке. Заштићена веза је неуспешно завршена."
+msgid ""
+"The operation can not be completed because of an internal failure. A secure "
+"network communication has not been cleaned up correctly."
+msgstr ""
+"Операција не може бити завршена због унутрашње грешке. Заштићена веза је "
+"неуспешно завршена."
 
 #: ProfileSwitchCryptoUIActive
-msgid "This operation is impossible at the current time. Please complete the operation that requests your attention in one of the other open windows."
-msgstr "Ова операција је тренутно немогућа. Молим завршите операцију коју сте затражили у другом прозору."
+msgid ""
+"This operation is impossible at the current time. Please complete the "
+"operation that requests your attention in one of the other open windows."
+msgstr ""
+"Ова операција је тренутно немогућа. Молим завршите операцију коју сте "
+"затражили у другом прозору."
 
 #: VerifyExpired
 msgid "<Expired>"
@@ -1400,6 +1374,26 @@ msgstr "<Неисправан ПС>"
 msgid "<Unknown>"
 msgstr "<Непознато>"
 
+#: CertUser
+msgid "Your Cert"
+msgstr ""
+
+#: CertCA
+msgid "CA (Certificate Authority)"
+msgstr ""
+
+#: CertSSL
+msgid "SSL Server"
+msgstr ""
+
+#: CertEmail
+msgid "Peer S/MIME"
+msgstr ""
+
+#: CertUnknown
+msgid "Unknown"
+msgstr ""
+
 #: CertNoNickname
 msgid "(no nickname)"
 msgstr "(нема псеудонима)"
@@ -1421,17 +1415,319 @@ msgid "This certificate is already installed as a certificate authority."
 msgstr "Овај сертификат је већ инсталиран као ауторитет за сертификате."
 
 #: NotACACert
-msgid "This is not a certificate authority certificate, so it can't be imported into the certificate authority list."
-msgstr "Овај сертификат не потиче од ауторитета за сертификате, па не може да буде увезен на списак ауторитета за сертификате."
+msgid ""
+"This is not a certificate authority certificate, so it can't be imported "
+"into the certificate authority list."
+msgstr ""
+"Овај сертификат не потиче од ауторитета за сертификате, па не може да буде "
+"увезен на списак ауторитета за сертификате."
 
 #: NotImportingUnverifiedCert
-msgid "This certificate can't be verified and will not be imported. The certificate issuer might be unknown or untrusted, the certificate might have expired or been revoked, or the certificate might not have been approved."
-msgstr "Овај сертификат није могао бити проверен и неће бити увезен. Издавач сертификата је можда непознат или му се не може веровати, сертификат је можда истекао или је опозван, или можда није одобрен."
+msgid ""
+"This certificate can't be verified and will not be imported. The certificate "
+"issuer might be unknown or untrusted, the certificate might have expired or "
+"been revoked, or the certificate might not have been approved."
+msgstr ""
+"Овај сертификат није могао бити проверен и неће бити увезен. Издавач "
+"сертификата је можда непознат или му се не може веровати, сертификат је "
+"можда истекао или је опозван, или можда није одобрен."
 
 #: UserCertIgnoredNoPrivateKey
-msgid "This personal certificate can't be installed because you do not own the corresponding private key which was created when the certificate was requested."
-msgstr "Овај лични сертификат није могуће инсталирати јер не поседујете одговарајући приватни кључ који је направљен када је сертификат потражен."
+msgid ""
+"This personal certificate can't be installed because you do not own the "
+"corresponding private key which was created when the certificate was "
+"requested."
+msgstr ""
+"Овај лични сертификат није могуће инсталирати јер не поседујете одговарајући "
+"приватни кључ који је направљен када је сертификат потражен."
 
 #: UserCertImported
-msgid "Your personal certificate has been installed. You should keep a backup copy of this certificate."
-msgstr "Ваш лични сертификат је инсталиран.  Сачувајте резервни умножак овог сертификата."
+msgid ""
+"Your personal certificate has been installed. You should keep a backup copy "
+"of this certificate."
+msgstr ""
+"Ваш лични сертификат је инсталиран.  Сачувајте резервни умножак овог "
+"сертификата."
+
+#: CertOrgUnknown
+msgid "(Unknown)"
+msgstr ""
+
+#: CertNotStored
+msgid "(Not Stored)"
+msgstr ""
+
+#: CertExceptionPermanent
+msgid "Permanent"
+msgstr ""
+
+#: CertExceptionTemporary
+msgid "Temporary"
+msgstr ""
+
+#
+# 64
+#~ msgid "PSM Internal FIPS-140-1 Cryptographic Services"
+#~ msgstr "PSM интерни FIPS-140-1 сервис шифровања"
+
+# 64
+#~ msgid "PSM FIPS-140-1 User Private Key Services"
+#~ msgstr "Програмски безбедан уређај"
+
+#~ msgid "2048 (High Grade)"
+#~ msgstr "2048 (Висока оцена)"
+
+#~ msgid "1024 (Medium Grade)"
+#~ msgstr "1024 (Средњи степен)"
+
+# for the next 3 lines, %1$S will be product name (e.g. Firefox), %2$S will be the www.example.com address we connect to
+# for the next 3 lines, %1$S will be product name (e.g. Firefox), %2$S will be the www.example.com address we connect to
+#~ msgid ""
+#~ "%1$S can't connect securely to %2$S because the SSL protocol has been "
+#~ "disabled."
+#~ msgstr ""
+#~ "%1$S не може да се шифровано повеже са %2$S јер је SSL протокол искључен."
+
+#~ msgid ""
+#~ "%1$S can't connect securely to %2$S because the site uses an older, "
+#~ "insecure version of the SSL protocol."
+#~ msgstr ""
+#~ "%1$S не може да се безбедно повеже са %2$S јер место користи старије, "
+#~ "несигурно издање SSL протокола."
+
+#~ msgid ""
+#~ "%1$S can't connect securely to %2$S because the site uses a security "
+#~ "protocol which isn't enabled."
+#~ msgstr ""
+#~ "%1$S не може да се безбедно повеже са %2$S јер место користи безбедносни "
+#~ "протокол који је искључен."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection with %S because your "
+#~ "certificate has been revoked."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу са %S, зато што је Ваш сертификат "
+#~ "отказан."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection with %S because your "
+#~ "certificate is expired."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу са %S, зато што је деловање Вашег "
+#~ "сертификата истекло."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because your certificate was "
+#~ "rejected by %S. Error Code: %S."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу са %S, зато што је Ваш сертификат "
+#~ "уклоњен %S. Код грешке: %S."
+
+#~ msgid ""
+#~ "%S received a message with incorrect Message Authentication Code. If the "
+#~ "error occurs frequently, contact the website administrator."
+#~ msgstr ""
+#~ "%S је добио поруку са неисправним кодом аутентичности поруке. Ако се та "
+#~ "грешка поновиља често обавестите администратора сајта."
+
+#~ msgid "%S has closed the connection. Error Code: %S"
+#~ msgstr "%S је прекинуо везу. Код грешке: %S"
+
+#~ msgid "The current transfer has been cancelled."
+#~ msgstr "Текући трансфер је отказан."
+
+#~ msgid "An incorrect password was provided."
+#~ msgstr "Унешена је неисправна лозинка."
+
+#~ msgid "There is a problem with your certificate database [Error Code: %S]."
+#~ msgstr "Постоји проблем са базом сертификата [Код грешке: %S]."
+
+#~ msgid "%S has sent an incorrect or unexpected message. Error Code: %S"
+#~ msgstr "%S је послао неисправну или неочекивану поруку. Код грешке: %S"
+
+#~ msgid "%S has received an incorrect or unexpected message. Error Code: %S"
+#~ msgstr "%S је примио неисправну или неочекивану поруку. Код грешке: %S"
+
+#~ msgid "Error establishing an encrypted connection to %S. Error Code: %S."
+#~ msgstr "Веза са %S је неостварљива због SSL грешке. Код грешке: %S."
+
+#~ msgid "Connection request timed out."
+#~ msgstr "Време за почетак штампе је истекло."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because certificate presented "
+#~ "by %S is not trusted."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу зато што је сертификат %S "
+#~ "непоуздан."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because certificate presented "
+#~ "by %S has been revoked."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу зато што је сертификат %S отказан."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because certificate presented "
+#~ "by %S has expired."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу зато што је деловање сертификата %"
+#~ "S истекло."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because certificate presented "
+#~ "by %S is for a different domain."
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу зато што је сертификат %S - за "
+#~ "други домен."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because certificate presented "
+#~ "by %S has an invalid signature."
+#~ msgstr ""
+#~ "Немогуће је успоставити шифровану везу зато што сертификат %S садржи "
+#~ "нетачан потпис."
+
+#~ msgid ""
+#~ "Could not establish an encrypted connection because certificate presented "
+#~ "by %S is invalid or corrupted. Error Code: %S"
+#~ msgstr ""
+#~ "Немогуће је успоставити заштићену везу зато што је сертификат %S нетачан "
+#~ "или нарушен. Код грешке:  %S"
+
+#~ msgid ""
+#~ "Certificate Revocation List (CRL) from the CA certifying %S is past its "
+#~ "Next Update date. Please update the CRL."
+#~ msgstr ""
+#~ "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S је проследила "
+#~ "датум следећег унапређивања. Молим унапредите ЛПС."
+
+#~ msgid ""
+#~ "Certificate Revocation List (CRL) from the CA certifying %S is not yet "
+#~ "valid. Please check your system clock."
+#~ msgstr ""
+#~ "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S још није "
+#~ "исправна. Молим проверите системски сат."
+
+#~ msgid ""
+#~ "Certificate Revocation List (CRL) from the CA certifying %S has an "
+#~ "invalid digital signature."
+#~ msgstr ""
+#~ "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S садржи погрешан "
+#~ "дигитални потпис."
+
+#~ msgid ""
+#~ "Certificate Revocation List (CRL) from the CA certifying %S is not valid."
+#~ msgstr ""
+#~ "Листа потврђених сертификата (ЛПС) са ПС сертификатом %S није исправна."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - malformed "
+#~ "request."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "неправилан упит."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - request needs "
+#~ "signature."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "упит захтева потпис."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - unauthorized "
+#~ "request."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "незашићен упит."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - server error."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "грешка сервера."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - server is busy. "
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "сервер је преоптерећен. Покушајте касније."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - response "
+#~ "contains a date which is in the future."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "одговор садржи податке који се односе на будућим."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - old response."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "закаснели одговор."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - corrupted or "
+#~ "unknown response. Error Code: %S."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "погрешан или непознат одговор. Код грешке: %S."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - unauthorized "
+#~ "response."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "незаштићен одговор."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - unknown "
+#~ "certificate."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "непознат сертификат."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - no default "
+#~ "responder specified."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "није указан подразумевани реагујући елеменат."
+
+#~ msgid ""
+#~ "Error trying to validate certificate from %S using OCSP - directory "
+#~ "lookup error."
+#~ msgstr ""
+#~ "Грешка при покушаку провере истинитости сертификата са %S помоћу OSCP - "
+#~ "грешка претраге по директоријуму."
+
+#~ msgid ""
+#~ "An internal failure has been detected. It is not possible to complete the "
+#~ "requested OCSP operation."
+#~ msgstr ""
+#~ "Дошло је до интерне грешке. Није могуће довршити тражено OCSP дејство."
+
+#~ msgid ""
+#~ "The browser successfully imported the certificate revocation list (CRL)."
+#~ msgstr "Клијент је успешно увезао Листу проверених сертификата (ЛПС)."
+
+#~ msgid "The browser cannot import the Certificate Revocation List (CRL)."
+#~ msgstr "Клијент неможе да увезе у Листу проверених сертификата (ЛПС)."
+
+#~ msgid ""
+#~ "Could not initialize the browser's security component. The most likely "
+#~ "cause is problems with files in your browser's profile directory. Please "
+#~ "check that this directory has no read/write restrictions and your hard "
+#~ "disk is not full or close to full. It is recommended that you exit the "
+#~ "browser and fix the problem. If you continue to use this browser session, "
+#~ "you might see incorrect browser behaviour when accessing security "
+#~ "features."
+#~ msgstr ""
+#~ "Не могу да покренем део за безбедност клијента. Највероватнији разлог је "
+#~ "проблем са датотекама у директоријуму профила вашег клијента. Проверите "
+#~ "да тај директоријум не садржи заштиту од читања/уписивања и да ли има "
+#~ "довољно слободног простора на Вашем чврстом диску. Саветујем да затворите "
+#~ "програм и решите проблем. Ако продужите сесију рада са читачем могу се "
+#~ "појавити неке грешке при коришћењу система безбедности."

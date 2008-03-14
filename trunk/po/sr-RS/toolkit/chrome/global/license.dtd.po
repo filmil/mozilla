@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:24+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,6 @@ msgid "by its"
 msgstr "од стране "
 
 #: license.contrib
-#: about.copy.linkTitle
 msgid "contributors"
 msgstr "приложника"
 
@@ -35,51 +34,38 @@ msgstr "према условима утврђеним у документу"
 msgid "document. All Rights Reserved."
 msgstr ". Сва права су задржана."
 
-#: about.version
-msgid "version"
-msgstr "издање"
+#~ msgid "version"
+#~ msgstr "издање"
 
-#: about.copy.beforeLink
-msgid "Copyright &copy; 1998-2006 by"
-msgstr "Copyright &copy; 1998-2006"
+#~ msgid "Copyright &copy; 1998-2006 by"
+#~ msgstr "Copyright &copy; 1998-2006"
 
-#: about.copy.afterLink
-msgid "to the Mozilla Project."
-msgstr "Пројекат Мозила"
+#~ msgid "to the Mozilla Project."
+#~ msgstr "Пројекат Мозила"
 
-#: about.license.beforeLink
-#: about.relnotes.beforeLink
-msgid "Read the"
-msgstr "Прочитајте"
+#~ msgid "Read the"
+#~ msgstr "Прочитајте"
 
-#: about.license.linkTitle
-msgid "licensing information"
-msgstr "податке о лиценци"
+#~ msgid "licensing information"
+#~ msgstr "податке о лиценци"
 
-#: about.license.afterLink
-msgid "for this product."
-msgstr "за овај производ."
+#~ msgid "for this product."
+#~ msgstr "за овај производ."
 
-#: about.relnotes.linkTitle
-msgid "release notes"
-msgstr "подаци о издању"
+#~ msgid "release notes"
+#~ msgstr "подаци о издању"
 
-#: about.relnotes.afterLink
-msgid "for this version."
-msgstr "за ово издање."
+#~ msgid "for this version."
+#~ msgstr "за ово издање."
 
-#: about.buildconfig.beforeLink
-msgid "See the"
-msgstr "Прегледајте"
+#~ msgid "See the"
+#~ msgstr "Прегледајте"
 
-#: about.buildconfig.linkTitle
-msgid "build configuration"
-msgstr "поставке за изградњу"
+#~ msgid "build configuration"
+#~ msgstr "поставке за изградњу"
 
-#: about.buildconfig.afterLink
-msgid "used for this version."
-msgstr "које су коришћене за ово издање."
+#~ msgid "used for this version."
+#~ msgstr "које су коришћене за ово издање."
 
-#: about.buildIdentifier
-msgid "Build identifier: "
-msgstr "Ознака изградње:"
+#~ msgid "Build identifier: "
+#~ msgstr "Ознака изградње:"

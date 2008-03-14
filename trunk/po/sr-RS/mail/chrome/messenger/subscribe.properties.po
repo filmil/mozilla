@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 19:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,14 +66,29 @@ msgstr ""
 # Rights Reserved.
 # Contributor(s):
 # \tSeth Spitzer <sspitzer@netscape.com>
-#: foldersheaderfor-nntp
+#: subscribeLabel-nntp
 msgid "Select the newsgroups to subscribe to:"
 msgstr "Изаберите групе које желите да пратите:"
 
-#: foldersheaderfor-imap
+#: subscribeLabel-imap
 msgid "Select the folders to subscribe to:"
 msgstr "Изаберите директоријуме које желите да пратите:"
 
+#: currentListTab-nntp.label
+msgid "Current Group List"
+msgstr ""
+
+#: currentListTab-nntp.accesskey currentListTab-imap.accesskey
+msgid "L"
+msgstr ""
+
+#: currentListTab-imap.label
+msgid "Folder List"
+msgstr ""
+
 #: pleaseWaitString
-msgid "Please wait..."
-msgstr "Молимо сачекајте..."
+msgid "Please wait…"
+msgstr ""
+
+#~ msgid "Please wait..."
+#~ msgstr "Молимо сачекајте..."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2006-11-23 22:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,32 +74,40 @@ msgstr "Крај рада"
 msgid "Available Profiles"
 msgstr "Доступни профили"
 
-#: newButton.label
-#: newButton.accesskey
-msgid "&Create Profile..."
-msgstr "&Створи профил..."
+#: newButton.label newButton.accesskey
+msgid "&Create Profile…"
+msgstr ""
 
-#: renameButton.label
-#: renameButton.accesskey
-msgid "&Rename Profile..."
-msgstr "&Преименуј профил..."
+#: renameButton.label renameButton.accesskey
+msgid "&Rename Profile…"
+msgstr ""
 
-#: deleteButton.label
-#: deleteButton.accesskey
-msgid "&Delete Profile..."
-msgstr "&Уклони профил..."
+#: deleteButton.label deleteButton.accesskey
+msgid "&Delete Profile…"
+msgstr ""
 
 # manager entities
 #: pmDescription.label
-msgid "&brandShortName; stores information about your settings, preferences, and other user items in your user profile."
-msgstr "Програм &brandShortName; чува податке о Вашим подешавањима, поставкама и другим стварима у Вашем профилу."
+msgid ""
+"&brandShortName; stores information about your settings, preferences, and "
+"other user items in your user profile."
+msgstr ""
+"Програм &brandShortName; чува податке о Вашим подешавањима, поставкама и "
+"другим стварима у Вашем профилу."
 
-#: offlineState.label
-#: offlineState.accesskey
+#: offlineState.label offlineState.accesskey
 msgid "W&ork offline"
 msgstr "Ради &ван мреже"
 
-#: autoSelect.label
-#: autoSelect.accesskey
+#: autoSelect.label autoSelect.accesskey
 msgid "Don't a&sk at startup"
 msgstr "Не питај при &следећем покретању"
+
+#~ msgid "&Create Profile..."
+#~ msgstr "&Створи профил..."
+
+#~ msgid "&Rename Profile..."
+#~ msgstr "&Преименуј профил..."
+
+#~ msgid "&Delete Profile..."
+#~ msgstr "&Уклони профил..."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-12-25 12:29+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,37 +24,38 @@ msgid "Items for Offline Use"
 msgstr "Ставке за неповезан рад"
 
 #: MsgSyncDesc.label
-msgid "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use."
-msgstr "Ако сте већ изабрали директоријуме и групе за неповезан рад, можете их преузети и ускладити одмах. У супротном користите дугме „Избор“ да изаберете директоријуме и групе за неповезан рад."
+msgid ""
+"If you have already selected mail folders or newsgroups for offline use, you "
+"can download and/or sync them now. Otherwise, use the &quot;Select&quot; "
+"button to choose mail folders and newsgroups for offline use."
+msgstr ""
+"Ако сте већ изабрали директоријуме и групе за неповезан рад, можете их "
+"преузети и ускладити одмах. У супротном користите дугме „Избор“ да изаберете "
+"директоријуме и групе за неповезан рад."
 
 #: MsgSyncDirections.label
 msgid "Download and/or sync the following:"
 msgstr "Преузми и усклади:"
 
-#: syncTypeMail.label
-#: syncTypeMail.accesskey
+#: syncTypeMail.label syncTypeMail.accesskey
 msgid "&Mail messages"
 msgstr "&Пошту"
 
-#: syncTypeNews.label
-#: syncTypeNews.accesskey
+#: syncTypeNews.label syncTypeNews.accesskey
 msgid "&Newsgroup messages"
 msgstr "&Групе"
 
-#: sendMessage.label
-#: sendMessage.accesskey
+#: sendMessage.label sendMessage.accesskey
 msgid "&Send Unsent messages"
 msgstr "&Пошаљи непослате поруке"
 
-#: workOffline.label
-#: workOffline.accesskey
+#: workOffline.label workOffline.accesskey
 msgid "&Work offline once download and/or sync is complete"
 msgstr "&Искључи везу кад је све примљено и усклађено"
 
-#: selectButton.label
-#: selectButton.accesskey
-msgid "S&elect..."
-msgstr "&Избор..."
+#: selectButton.label selectButton.accesskey
+msgid "S&elect…"
+msgstr ""
 
 #: MsgSelectDesc.label
 msgid "Choose mail folders and newsgroups for offline use."
@@ -67,3 +68,6 @@ msgstr "Преузми"
 #: MsgSelectItems.label
 msgid "Folders and Newsgroups"
 msgstr "Директоријуми и групе"
+
+#~ msgid "S&elect..."
+#~ msgstr "&Избор..."

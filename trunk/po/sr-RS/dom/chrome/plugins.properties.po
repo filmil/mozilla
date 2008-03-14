@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-12-28 08:49-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,24 +18,24 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 #: title_label
-msgid "About Plug-ins"
-msgstr "Додаци (plug-ins)"
+msgid "About Plugins"
+msgstr ""
 
 #: installedplugins_label
-msgid "Installed plug-ins"
-msgstr "Поставите додатке"
+msgid "Installed plugins"
+msgstr ""
 
 #: nopluginsareinstalled_label
-msgid "No plug-ins are installed"
-msgstr "Додаци нису постављени"
+msgid "No plugins are installed"
+msgstr ""
 
 #: findmore_label
-msgid "Find more information about browser plug-ins at"
-msgstr "Пронађи више података о додацима за читач на"
+msgid "Find more information about browser plugins at"
+msgstr ""
 
 #: installhelp_label
-msgid "Help for installing plug-ins is available from"
-msgstr "Помоћ у вези поставке додатака можете пронаћи на"
+msgid "Help for installing plugins is available from"
+msgstr ""
 
 #: filename_label
 msgid "File name:"
@@ -64,3 +64,18 @@ msgstr "Да"
 #: no_label
 msgid "No"
 msgstr "Не"
+
+#~ msgid "About Plug-ins"
+#~ msgstr "Додаци (plug-ins)"
+
+#~ msgid "Installed plug-ins"
+#~ msgstr "Поставите додатке"
+
+#~ msgid "No plug-ins are installed"
+#~ msgstr "Додаци нису постављени"
+
+#~ msgid "Find more information about browser plug-ins at"
+#~ msgstr "Пронађи више података о додацима за читач на"
+
+#~ msgid "Help for installing plug-ins is available from"
+#~ msgstr "Помоћ у вези поставке додатака можете пронаћи на"

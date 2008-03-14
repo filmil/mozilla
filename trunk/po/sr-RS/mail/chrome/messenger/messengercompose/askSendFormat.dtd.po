@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 01:08+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,71 +20,84 @@ msgid "HTML Mail Question"
 msgstr "Питање о HTML порукама"
 
 #: recipient.label
-msgid "Some of the recipients are not listed as being able to receive HTML mail."
+msgid ""
+"Some of the recipients are not listed as being able to receive HTML mail."
 msgstr "Неки примаоци нису на списку особа које могу да примају HTML поруке."
 
-#: convertibleDefault.label
+#: question.label
 msgid ""
-"_: convertibleDefault.label\n"
-""
+"Would you like to convert the message to plain text or send it in HTML "
+"anyway?"
+msgstr ""
+"Да ли желите да пребаците проуку у обичан текст или да је ипак пошаљете као "
+"HTML?"
+
+#: plainTextAndHtml.label plainTextAndHtml.accesskey
+msgid "Send in Pl&ain Text and HTML"
 msgstr ""
 
-#: convertibleYes.label
-msgid "Your message can be converted to plain text without losing information."
-msgstr "Ваша порука може бити пребачена у обичан текст без губитка података."
+#: plainTextOnly.label plainTextOnly.accesskey
+msgid "Send in &Plain Text Only"
+msgstr ""
 
-#: convertibleAltering.label
-msgid "Your message can be converted to plain text without losing important information. However, the plain text version might look different from what you saw in the composer."
-msgstr "Ваша порука може бити пребачена у обичан текст без губитка важних података. Међутим, једном пребачена порука може изгледати другачије него што сте видели у уређивачу."
+#: htmlOnly.label htmlOnly.accesskey
+msgid "Send in &HTML Only"
+msgstr ""
 
-#: convertibleNo.label
-msgid "However, you used formatting (e.g. colors) that will not be converted to plain text."
-msgstr "Међутим, користили сте уређивање (нпр. боје) које неће бити пребачене у обичан текст."
+#: send.label send.accesskey
+msgid "&Send"
+msgstr ""
 
-#: question.label
-msgid "Would you like to convert the message to plain text or send it in HTML anyway?"
-msgstr "Да ли желите да пребаците проуку у обичан текст или да је ипак пошаљете као HTML?"
+#~ msgid ""
+#~ "Your message can be converted to plain text without losing information."
+#~ msgstr ""
+#~ "Ваша порука може бити пребачена у обичан текст без губитка података."
 
-#: plainTextAndHtml.label
-msgid "Send in Plain Text and HTML"
-msgstr "Пошаљи и као текст и као HTML"
+#~ msgid ""
+#~ "Your message can be converted to plain text without losing important "
+#~ "information. However, the plain text version might look different from "
+#~ "what you saw in the composer."
+#~ msgstr ""
+#~ "Ваша порука може бити пребачена у обичан текст без губитка важних "
+#~ "података. Међутим, једном пребачена порука може изгледати другачије него "
+#~ "што сте видели у уређивачу."
 
-#: plainTextOnly.label
-msgid "Send in Plain Text Only"
-msgstr "Пошаљи само као текст"
+#~ msgid ""
+#~ "However, you used formatting (e.g. colors) that will not be converted to "
+#~ "plain text."
+#~ msgstr ""
+#~ "Међутим, користили сте уређивање (нпр. боје) које неће бити пребачене у "
+#~ "обичан текст."
 
-#: htmlOnly.label
-msgid "Send in HTML Only"
-msgstr "Пошаљи само као HTML"
+#~ msgid "Send in Plain Text and HTML"
+#~ msgstr "Пошаљи и као текст и као HTML"
 
-#: plainTextAndHtmlRecommended.label
-msgid "Send in Plain Text and HTML (recommended)"
-msgstr "Пошаљи у обичном тексту и у HTML (препоручено)"
+#~ msgid "Send in Plain Text Only"
+#~ msgstr "Пошаљи само као текст"
 
-#: plainTextOnlyRecommended.label
-msgid "Send in Plain Text Only (recommended)"
-msgstr "Пошаљи само у обичном тексту (препоручено)"
+#~ msgid "Send in HTML Only"
+#~ msgstr "Пошаљи само као HTML"
 
-#: htmlOnlyRecommended.label
-msgid "Send in HTML Only (recommended)"
-msgstr "Пошаљи само у HTML (препоручено)"
+#~ msgid "Send in Plain Text and HTML (recommended)"
+#~ msgstr "Пошаљи у обичном тексту и у HTML (препоручено)"
 
-#: recommended.label
-msgid "(recommended)"
-msgstr "(препоручено)"
+#~ msgid "Send in Plain Text Only (recommended)"
+#~ msgstr "Пошаљи само у обичном тексту (препоручено)"
 
-#: send.label
-msgid "Send"
-msgstr "Шаљи"
+#~ msgid "Send in HTML Only (recommended)"
+#~ msgstr "Пошаљи само у HTML (препоручено)"
 
-#: cancel.label
-msgid "Cancel"
-msgstr "Откажи"
+#~ msgid "(recommended)"
+#~ msgstr "(препоручено)"
 
-#: recipients.label
-msgid "Recipients..."
-msgstr "Примаоци..."
+#~ msgid "Send"
+#~ msgstr "Шаљи"
 
-#: help.label
-msgid "Help"
-msgstr "Помоћ"
+#~ msgid "Cancel"
+#~ msgstr "Откажи"
+
+#~ msgid "Recipients..."
+#~ msgstr "Примаоци..."
+
+#~ msgid "Help"
+#~ msgstr "Помоћ"

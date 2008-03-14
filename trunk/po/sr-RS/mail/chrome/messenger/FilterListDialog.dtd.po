@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:09+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,28 +26,23 @@ msgstr "Име филтера"
 msgid "Enabled"
 msgstr "Укључен"
 
-#: newButton.label
-#: newButton.accesskey
-msgid "&New..."
-msgstr "&Нов..."
+#: newButton.label newButton.accesskey
+msgid "&New…"
+msgstr ""
 
-#: editButton.label
-#: editButton.accesskey
-msgid "&Edit..."
-msgstr "&Уреди..."
+#: editButton.label editButton.accesskey
+msgid "&Edit…"
+msgstr ""
 
-#: deleteButton.label
-#: deleteButton.accesskey
+#: deleteButton.label deleteButton.accesskey
 msgid "Dele&te"
 msgstr "У&клони"
 
-#: reorderUpButton.label
-#: reorderUpButton.accesskey
+#: reorderUpButton.label reorderUpButton.accesskey
 msgid "Move &Up"
 msgstr "Помери &горе"
 
-#: reorderDownButton.label
-#: reorderDownButton.accesskey
+#: reorderDownButton.label reorderDownButton.accesskey
 msgid "Move &Down"
 msgstr "Помери &доле"
 
@@ -55,28 +50,23 @@ msgstr "Помери &доле"
 msgid "Enabled filters are run automatically in the order shown below."
 msgstr "Укључени филтери се аутоматски покрећу у доле назначеном редоследу."
 
-#: filtersForPrefix.label
-#: filtersForPrefix.accesskey
+#: filtersForPrefix.label filtersForPrefix.accesskey
 msgid "&Filters for:"
 msgstr "&Филтери за:"
 
-#: viewLogButton.label
-#: viewLogButton.accesskey
+#: viewLogButton.label viewLogButton.accesskey
 msgid "Filter &Log"
 msgstr "&Дневник филтера"
 
-#: runFilters.label
-#: runFilters.accesskey
+#: runFilters.label runFilters.accesskey
 msgid "&Run Now"
 msgstr "&Покрени сад"
 
-#: stopFilters.label
-#: stopFilters.accesskey
+#: stopFilters.label stopFilters.accesskey
 msgid "&Stop"
 msgstr "&Стоп"
 
-#: folderPickerPrefix.label
-#: folderPickerPrefix.accesskey
+#: folderPickerPrefix.label folderPickerPrefix.accesskey
 msgid "Run sele&cted filter(s) on:"
 msgstr "Покрени &изабране филтере на:"
 
@@ -104,11 +94,16 @@ msgstr "изабери овај директоријум"
 msgid "choose this news server"
 msgstr "изабери овај сервер за групе"
 
-#: helpButton.label
-#: helpButton.accesskey
+#: helpButton.label helpButton.accesskey
 msgid "&Help"
 msgstr "&Помоћ"
 
 #: closeCmd.key
 msgid "W"
 msgstr "З"
+
+#~ msgid "&New..."
+#~ msgstr "&Нов..."
+
+#~ msgid "&Edit..."
+#~ msgstr "&Уреди..."

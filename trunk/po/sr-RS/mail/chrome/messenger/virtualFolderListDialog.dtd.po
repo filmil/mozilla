@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:01+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,11 +14,6 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: server.label
-#: server.accesskey
-msgid "&Account: "
-msgstr "&Налог:"
-
 #: virtualFolderListTitle.title
 msgid "Select Folder(s)"
 msgstr "Избор директоријума"
@@ -26,3 +21,6 @@ msgstr "Избор директоријума"
 #: virtualFolderDesc.label
 msgid "Select the folders to search:"
 msgstr "Избор директоријума за претрагу:"
+
+#~ msgid "&Account: "
+#~ msgstr "&Налог:"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:21+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,8 +23,8 @@ msgid "Welcome to the &pluginWizard.title;"
 msgstr "Добро дошли у &pluginWizard.title;"
 
 #: pluginWizard.checkingForPlugins.description.label
-msgid "&brandShortName; is now checking for available plugins..."
-msgstr "&brandShortName; is now checking for available plugins..."
+msgid "&brandShortName; is now checking for available plugins…"
+msgstr ""
 
 #: pluginWizard.availablePluginsPage.title
 msgid "Available Plugin Downloads"
@@ -39,8 +39,10 @@ msgid "Press Next to install these plugins."
 msgstr "Press Next to install these plugins."
 
 #: pluginWizard.availablePluginsPage.installerUI
-msgid "Some plugins may require additional information from you during installation."
-msgstr "Some plugins may require additional information from you during installation."
+msgid ""
+"Some plugins may require additional information from you during installation."
+msgstr ""
+"Some plugins may require additional information from you during installation."
 
 #: pluginWizard.licensePage.title
 msgid "Plugin Licenses"
@@ -59,8 +61,8 @@ msgid "Installing Plugins"
 msgstr "Постављам додатак"
 
 #: pluginWizard.installPluginsPage.description.label
-msgid "&brandShortName; is installing plugins..."
-msgstr "&brandShortName; is installing plugins..."
+msgid "&brandShortName; is installing plugins…"
+msgstr ""
 
 #: pluginWizard.finalPage.description.label
 msgid "&brandShortName; finished installing the missing plugins:"
@@ -73,3 +75,13 @@ msgstr "Find out more about Plugins or manually find missing plugins."
 #: pluginWizard.finalPage.restart.label
 msgid "&brandShortName; needs to be restarted for the plugin(s) to work."
 msgstr "&brandShortName; needs to be restarted for the plugin(s) to work."
+
+#: missingPlugin.label
+msgid "Click here to download plugin."
+msgstr ""
+
+#~ msgid "&brandShortName; is now checking for available plugins..."
+#~ msgstr "&brandShortName; is now checking for available plugins..."
+
+#~ msgid "&brandShortName; is installing plugins..."
+#~ msgstr "&brandShortName; is installing plugins..."

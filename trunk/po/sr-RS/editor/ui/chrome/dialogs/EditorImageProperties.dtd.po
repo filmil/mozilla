@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 09:33-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,8 +78,7 @@ msgid "percent"
 msgstr "процената"
 
 # These are in the Location tab panel
-#: locationEditField.label
-#: locationEditField.accessKey
+#: locationEditField.label locationEditField.accessKey
 msgid "Image &Location:"
 msgstr "&Место слике:"
 
@@ -87,8 +86,7 @@ msgstr "&Место слике:"
 msgid "Type the image's filename or location"
 msgstr "Унесите име датотеке са сликом или место"
 
-#: title.label
-#: title.accessKey
+#: title.label title.accessKey
 msgid "&Tooltip:"
 msgstr "&Облачић:"
 
@@ -96,8 +94,7 @@ msgstr "&Облачић:"
 msgid "The html 'title' attribute that displays as a tooltip"
 msgstr "ХТМЛ атрибут 'title' који се приказује у облачићу"
 
-#: altText.label
-#: altText.accessKey
+#: altText.label altText.accessKey
 msgid "&Alternate text:"
 msgstr "&Алтернативни текст:"
 
@@ -105,8 +102,7 @@ msgstr "&Алтернативни текст:"
 msgid "Type text to display in place of the image"
 msgstr "Унесите текст који ће бити приказан уместо слике"
 
-#: noAltText.label
-#: noAltText.accessKey
+#: noAltText.label noAltText.accessKey
 msgid "&Don't use alternate text"
 msgstr "&Не користи алтернативни текст"
 
@@ -124,8 +120,7 @@ msgstr "Прикажи више или мање поставки за уређи
 msgid "Actual Size:"
 msgstr "Стварна величина:"
 
-#: actualSizeRadio.label
-#: actualSizeRadio.accessKey
+#: actualSizeRadio.label actualSizeRadio.accessKey
 msgid "&Actual Size"
 msgstr "&Стварна величина"
 
@@ -133,8 +128,7 @@ msgstr "&Стварна величина"
 msgid "Revert to the image's actual size"
 msgstr "Врати полазну величину слике"
 
-#: customSizeRadio.label
-#: customSizeRadio.accessKey
+#: customSizeRadio.label customSizeRadio.accessKey
 msgid "Custom &Size"
 msgstr "&Произвољна величина"
 
@@ -142,18 +136,15 @@ msgstr "&Произвољна величина"
 msgid "Change the image's size as displayed in the page"
 msgstr "Промени величину слике која се приказује на страници"
 
-#: heightEditField.label
-#: heightEditField.accessKey
+#: heightEditField.label heightEditField.accessKey
 msgid "Hei&ght:"
 msgstr "&Висина:"
 
-#: widthEditField.label
-#: widthEditField.accessKey
+#: widthEditField.label widthEditField.accessKey
 msgid "&Width:"
 msgstr "&Ширина:"
 
-#: constrainCheckbox.label
-#: constrainCheckbox.accessKey
+#: constrainCheckbox.label constrainCheckbox.accessKey
 msgid "&Constrain"
 msgstr "&Ограничи"
 
@@ -166,14 +157,13 @@ msgstr "Чувај односе величина"
 msgid "Image Map"
 msgstr "Мапа слике"
 
-#: removeImageMapButton.label
-#: removeImageMapButton.accessKey
+#: removeImageMapButton.label removeImageMapButton.accessKey
 msgid "&Remove"
 msgstr "&Уклони"
 
 #: editImageMapButton.label
-msgid "Edit..."
-msgstr "Уреди..."
+msgid "Edit…"
+msgstr ""
 
 #: editImageMapButton.tooltip
 msgid "Create clickable hotspots for this image"
@@ -213,24 +203,20 @@ msgstr "Размак"
 msgid "Type a number for the amount of space around image"
 msgstr "Унесите величину оквира слике"
 
-#: leftRightEditField.label
-#: leftRightEditField.accessKey
+#: leftRightEditField.label leftRightEditField.accessKey
 msgid "&Left and Right:"
 msgstr "&Лево и десно:"
 
-#: topBottomEditField.label
-#: topBottomEditField.accessKey
+#: topBottomEditField.label topBottomEditField.accessKey
 msgid "&Top and Bottom:"
 msgstr "&Врх и дно:"
 
-#: borderEditField.label
-#: borderEditField.accessKey
+#: borderEditField.label borderEditField.accessKey
 msgid "Solid &Border:"
 msgstr "Попуњена &ивица:"
 
 # These controls are in the Link Box
-#: showImageLinkBorder.label
-#: showImageLinkBorder.accessKey
+#: showImageLinkBorder.label showImageLinkBorder.accessKey
 msgid "Show &border around linked image"
 msgstr "Прикажи &оквир око увезане слике"
 
@@ -271,3 +257,6 @@ msgstr "Изглед"
 #: imageLinkTab.label
 msgid "Link"
 msgstr "Веза"
+
+#~ msgid "Edit..."
+#~ msgstr "Уреди..."

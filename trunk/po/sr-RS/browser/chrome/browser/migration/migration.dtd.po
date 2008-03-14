@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-12-28 10:02-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,79 +30,67 @@ msgstr "Увези подешавања, везе, каталоге, лозин�
 msgid "Import Bookmarks from:"
 msgstr "Увези забелешке из програма:"
 
-#: importFromIE.label
-#: importFromIE.accesskey
+#: importFromIE.label importFromIE.accesskey
 msgid "&Microsoft Internet Explorer"
 msgstr "Microsoft Internet &Explorer"
 
-#: importFromPhoenix.label
-#: importFromPhoenix.accesskey
+#: importFromPhoenix.label importFromPhoenix.accesskey
 msgid "Firefox 0.8, Firebird or &Phoenix"
 msgstr "Firefox 0.8, Firebird или &Phoenix"
 
-#: importFromNothing.label
-#: importFromNothing.accesskey
+#: importFromNothing.label importFromNothing.accesskey
 msgid "&Don't import anything"
 msgstr "Не увози ни&шта"
 
-#: importFromSeamonkey.label
-#: importFromSeamonkey.accesskey
+#: importFromSeamonkey.label importFromSeamonkey.accesskey
 msgid "&Netscape 6, 7 or Mozilla 1.x"
 msgstr "Netsc&ape 6, 7 или Mozilla 1.x"
 
-#: importFromNetscape4.label
-#: importFromNetscape4.accesskey
+#: importFromNetscape4.label importFromNetscape4.accesskey
 msgid "Netscape &4.x"
 msgstr "Netscape &4.x"
 
-#: importFromOpera.label
-#: importFromOpera.accesskey
+#: importFromOpera.label importFromOpera.accesskey
 msgid "&Opera"
 msgstr "&Opera"
 
-#: importFromCamino.label
-#: importFromCamino.accesskey
+#: importFromCamino.label importFromCamino.accesskey
 msgid "&Camino"
 msgstr "&Camino"
 
-#: importFromSafari.label
-#: importFromSafari.accesskey
+#: importFromSafari.label importFromSafari.accesskey
 msgid "&Safari"
 msgstr "&Safari"
 
-#: importFromOmniWeb.label
-#: importFromOmniWeb.accesskey
+#: importFromOmniWeb.label importFromOmniWeb.accesskey
 msgid "Omni&Web"
 msgstr "Omni&Web"
 
-#: importFromICab.label
-#: importFromICab.accesskey
+#: importFromICab.label importFromICab.accesskey
 msgid "&iCab"
 msgstr "&iCab"
 
-#: importFromKonqueror.label
-#: importFromKonqueror.accesskey
+#: importFromKonqueror.label importFromKonqueror.accesskey
 msgid "&Konqueror"
 msgstr "&Konqueror"
 
-#: importFromEpiphany.label
-#: importFromEpiphany.accesskey
+#: importFromEpiphany.label importFromEpiphany.accesskey
 msgid "&Epiphany"
 msgstr "&Epiphany"
 
-#: importFromGaleon.label
-#: importFromGaleon.accesskey
+#: importFromGaleon.label importFromGaleon.accesskey
 msgid "&Galeon"
 msgstr "&Galeon"
 
-#: importFromFile.label
-#: importFromFile.accesskey
+#: importFromFile.label importFromFile.accesskey
 msgid "&From File"
 msgstr "Из &датотеке"
 
 #: noMigrationSources.label
-msgid "No programs that contain bookmarks, history or password data could be found."
-msgstr "Није пронађен ниједан програм који садржи забелешке, историјат или лозинке."
+msgid ""
+"No programs that contain bookmarks, history or password data could be found."
+msgstr ""
+"Није пронађен ниједан програм који садржи забелешке, историјат или лозинке."
 
 #: importSource.title
 msgid "Import Settings and Data"
@@ -117,12 +105,12 @@ msgid "Select which items to import:"
 msgstr "Изаберите објекте за увоз:"
 
 #: migrating.title
-msgid "Importing..."
-msgstr "Увоз..."
+msgid "Importing…"
+msgstr ""
 
 #: migrating.label
-msgid "The following items are currently being imported..."
-msgstr "Наредни објекти биће увезени за одређено време..."
+msgid "The following items are currently being imported…"
+msgstr ""
 
 #: selectProfile.title
 msgid "Select Profile"
@@ -139,3 +127,9 @@ msgstr "Увоз је завршен"
 #: done.label
 msgid "The following items were successfully imported:"
 msgstr "Следеће ставке су успешно увежене:"
+
+#~ msgid "Importing..."
+#~ msgstr "Увоз..."
+
+#~ msgid "The following items are currently being imported..."
+#~ msgstr "Наредни објекти биће увезени за одређено време..."

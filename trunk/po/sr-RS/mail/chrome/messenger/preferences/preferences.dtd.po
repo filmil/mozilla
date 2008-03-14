@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 19:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,17 +22,17 @@ msgstr "Опције"
 msgid "&brandShortName; Preferences"
 msgstr "Поставке за &brandShortName;"
 
-#: prefWindow.styleWin
-msgid "width: 44em; height: 38em;"
-msgstr "width: 44em; height: 38em;"
+#: prefWindow.styleWindows
+msgid "width: 44em; min-height: 38.5em;"
+msgstr ""
 
 #: prefWindow.styleMac
 msgid "width: 47em;"
 msgstr "width: 47em;"
 
-#: prefWindow.styleUnix
-msgid "width: 42em;"
-msgstr "width: 42em;"
+#: prefWindow.styleGNOME
+msgid "width: 42em; min-height: 38em;"
+msgstr ""
 
 #: paneGeneral.title
 msgid "General"
@@ -41,6 +41,10 @@ msgstr "Опште"
 #: paneDisplay.title
 msgid "Display"
 msgstr "Приказ"
+
+#: paneTags.title
+msgid "Tags"
+msgstr ""
 
 #: paneComposition.title
 msgid "Composition"
@@ -58,3 +62,9 @@ msgstr "Приватност"
 #: paneAdvanced.title
 msgid "Advanced"
 msgstr "Напредно"
+
+#~ msgid "width: 44em; height: 38em;"
+#~ msgstr "width: 44em; height: 38em;"
+
+#~ msgid "width: 42em;"
+#~ msgstr "width: 42em;"

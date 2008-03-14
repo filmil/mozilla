@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 09:39-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,8 +65,8 @@ msgid "Image subdirectory:"
 msgstr "Поддиректоријум за слике:"
 
 #: status.label
-msgid "Publishing..."
-msgstr "Објављивање..."
+msgid "Publishing…"
+msgstr ""
 
 #: fileList.label
 msgid "Publishing Status"
@@ -88,11 +88,6 @@ msgstr "Успешно"
 msgid "Failed"
 msgstr "Неуспешно"
 
-#: troubleshooting.label
-#: troubleshooting.accessKey
-msgid "&Troubleshooting"
-msgstr "&Тражење грешке"
-
 #: keepOpen
 msgid "Keep this window open after publishing is complete."
 msgstr "Остави овај прозор отворен пошто се објављивање оконча."
@@ -102,3 +97,9 @@ msgstr "Остави овај прозор отворен пошто се обј
 #: closeButton.label
 msgid "Close"
 msgstr "Затвори"
+
+#~ msgid "Publishing..."
+#~ msgstr "Објављивање..."
+
+#~ msgid "&Troubleshooting"
+#~ msgstr "&Тражење грешке"

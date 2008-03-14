@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-06-10 18:05+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,6 +48,22 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
+
+# LOCALIZATION NOTE:
+# This file must be saved as UTF8
+# Accesskeys are defined by prefixing the letter that is to be used for the
+# accesskey with an ampersand (e.g. &).
+# Don't replace ${BrandShortName}, $(^Name), or $(^NameDA) with a custom string.
+# You can use \n to create a newline in the string but only when the string
+# from en-US contains a \n.
+#: REG_APP_DESC
+msgid ""
+"${BrandShortName} is a full-featured email application. ${BrandShortName} "
+"supports IMAP and POP mail protocols, as well as HTML mail formatting. Built-"
+"in junk mail controls, RSS capabilities, powerful quick search, spell check "
+"as you type, global inbox, and advanced message filtering round out "
+"${BrandShortName}'s modern feature set."
+msgstr ""
 
 # LOCALIZATION NOTE:
 # This file must be saved as UTF8
@@ -88,9 +104,13 @@ msgstr "Повратна информација о квалитету"
 msgid "Sends information about program crashes to Mozilla."
 msgstr "Шаље податке о неисправном раду програма Мозили."
 
-#: OPTIONS
-msgid "$(^NameDA) &Options"
-msgstr "&Опције за $(^NameDA)"
+#: CONTEXT_OPTIONS
+msgid "${BrandShortName} &Options"
+msgstr ""
+
+#: CONTEXT_SAFE_MODE
+msgid "${BrandShortName} &Safe Mode"
+msgstr ""
 
 #: SAFE_MODE
 msgid "Safe Mode"
@@ -112,6 +132,31 @@ msgstr "Подешавање скраћеница"
 msgid "Create Program Icons"
 msgstr "Прављење сличице програма"
 
+#: SUMMARY_PAGE_TITLE
+msgid "Summary"
+msgstr ""
+
+#: SUMMARY_PAGE_SUBTITLE
+msgid "Ready to start installing ${BrandShortName}"
+msgstr ""
+
+#: SUMMARY_INSTALLED_TO
+msgid "${BrandShortName} will be installed to the following location:"
+msgstr ""
+
+#: SUMMARY_REBOOT_REQUIRED_INSTALL
+msgid ""
+"A restart of your computer may be required to complete the installation."
+msgstr ""
+
+#: SUMMARY_REBOOT_REQUIRED_UNINSTALL
+msgid "A restart of your computer may be required to complete the uninstall."
+msgstr ""
+
+#: SUMMARY_CLICK
+msgid "Click Install to continue."
+msgstr ""
+
 #: SURVEY_TEXT
 msgid "&Tell us what you thought of ${BrandShortName}"
 msgstr "&Јавите нам утиске о програму ${BrandShortName}"
@@ -130,16 +175,6 @@ msgstr ""
 "\n"
 "Притисните \"У реду\" да затворите програм $(^Name) и наставите."
 
-#: WARN_APP_RUNNING_UNINSTALL
-msgid ""
-"$(^Name) must be closed to proceed with the uninstall.\n"
-"\n"
-"Click \"OK\" to exit $(^Name) automatically and continue."
-msgstr ""
-"Програм $(^Name) мора да се заврши да би се наставило са деинсталацијом.\n"
-"\n"
-"Притисните \"У реду\" да затворите програм $(^Name) и наставите."
-
 #: CREATE_ICONS_DESC
 msgid "Create icons for ${BrandShortName}:"
 msgstr "Направи сличице за програм ${BrandShortName}:"
@@ -155,6 +190,21 @@ msgstr "У &директоријуму са програмима"
 #: ICONS_QUICKLAUNCH
 msgid "In my &Quick Launch bar"
 msgstr "На &траци за брзо покретање"
+
+#: WARN_MANUALLY_CLOSE_APP_UNINSTALL
+msgid ""
+"${BrandFullName} must be closed to proceed with the uninstall.\n"
+"\n"
+"Please close ${BrandFullName} to continue."
+msgstr ""
+
+#: WARN_MANUALLY_CLOSE_APP_LAUNCH
+msgid ""
+"${BrandFullName} is already running.\n"
+"\n"
+"Please close ${BrandFullName} prior to launching the version you have just "
+"installed."
+msgstr ""
 
 #: WARN_WRITE_ACCESS
 msgid ""
@@ -176,25 +226,53 @@ msgstr ""
 "\n"
 "Притисните „У реду‟ да изаберете друго место."
 
+#: WARN_UNSUPPORTED_MSG
+msgid ""
+"Sorry, ${BrandShortName} can't be installed. This version of "
+"${BrandShortName} requires ${MinUnsupportedVer} or newer."
+msgstr ""
+
+#: WARN_RESTART_REQUIRED_UNINSTALL
+msgid ""
+"Your computer must be restarted to complete a previous uninstall of "
+"${BrandShortName}. Do you want to reboot now?"
+msgstr ""
+
+#: WARN_RESTART_REQUIRED_UPGRADE
+msgid ""
+"Your computer must be restarted to complete a previous upgrade of "
+"${BrandShortName}. Do you want to reboot now?"
+msgstr ""
+
+#: ERROR_CREATE_DIRECTORY
+msgid ""
+"Error creating directory:\n"
+"\n"
+"$0\n"
+"\n"
+"Click Cancel to stop the installation or\n"
+"Retry to try again."
+msgstr ""
+
 #: STATUS_INSTALL_APP
-msgid "Installing ${BrandShortName}..."
-msgstr "Инсталација програма ${BrandShortName}..."
+msgid "Installing ${BrandShortName}…"
+msgstr ""
 
 #: STATUS_INSTALL_LANG
-msgid "Installing Language Files (${AB_CD})..."
-msgstr "Инсталација језичких датотека (${AB_CD})..."
+msgid "Installing Language Files (${AB_CD})…"
+msgstr ""
 
 #: STATUS_INSTALL_OPTIONAL
-msgid "Installing Optional Components..."
-msgstr "Инсталација изборних делова..."
+msgid "Installing Optional Components…"
+msgstr ""
 
 #: STATUS_UNINSTALL_MAIN
-msgid "Uninstalling ${BrandShortName}..."
-msgstr "Деинсталација програма ${BrandShortName}..."
+msgid "Uninstalling ${BrandShortName}…"
+msgstr ""
 
 #: STATUS_CLEANUP
-msgid "Cleaning up the birdcage..."
-msgstr "Чишћење..."
+msgid "Cleaning up the birdcage…"
+msgstr ""
 
 # _DESC strings support approximately 65 characters per line.
 # One line
@@ -205,7 +283,8 @@ msgstr "Изаберите врсту инсталације, затим при�
 # One line
 #: OPTION_STANDARD_DESC
 msgid "${BrandShortName} will be installed with the most common options."
-msgstr "Програм ${BrandShortName} ће бити инсталиран са уобичајеним могућностима."
+msgstr ""
+"Програм ${BrandShortName} ће бити инсталиран са уобичајеним могућностима."
 
 #: OPTION_STANDARD_RADIO
 msgid "&Standard"
@@ -214,7 +293,8 @@ msgstr "&Стандардна"
 # One line
 #: OPTION_COMPLETE_DESC
 msgid "${BrandShortName} will be installed with all available options."
-msgstr "Програм ${BrandShortName} ће бити инсталиран са свим доступним опцијама."
+msgstr ""
+"Програм ${BrandShortName} ће бити инсталиран са свим доступним опцијама."
 
 #: OPTION_COMPLETE_RADIO
 msgid "C&omplete"
@@ -222,9 +302,40 @@ msgstr "&Потпуна"
 
 # Two lines
 #: OPTION_CUSTOM_DESC
-msgid "You may choose individual options to be installed. Recommended for experienced users."
-msgstr "Можете да изаберете делове које желите да инсталирате.  Препоручује се искусним корисницима."
+msgid ""
+"You may choose individual options to be installed. Recommended for "
+"experienced users."
+msgstr ""
+"Можете да изаберете делове које желите да инсталирате.  Препоручује се "
+"искусним корисницима."
 
 #: OPTION_CUSTOM_RADIO
 msgid "&Custom"
 msgstr "&По избору"
+
+#~ msgid "$(^NameDA) &Options"
+#~ msgstr "&Опције за $(^NameDA)"
+
+#~ msgid ""
+#~ "$(^Name) must be closed to proceed with the uninstall.\n"
+#~ "\n"
+#~ "Click \"OK\" to exit $(^Name) automatically and continue."
+#~ msgstr ""
+#~ "Програм $(^Name) мора да се заврши да би се наставило са деинсталацијом.\n"
+#~ "\n"
+#~ "Притисните \"У реду\" да затворите програм $(^Name) и наставите."
+
+#~ msgid "Installing ${BrandShortName}..."
+#~ msgstr "Инсталација програма ${BrandShortName}..."
+
+#~ msgid "Installing Language Files (${AB_CD})..."
+#~ msgstr "Инсталација језичких датотека (${AB_CD})..."
+
+#~ msgid "Installing Optional Components..."
+#~ msgstr "Инсталација изборних делова..."
+
+#~ msgid "Uninstalling ${BrandShortName}..."
+#~ msgstr "Деинсталација програма ${BrandShortName}..."
+
+#~ msgid "Cleaning up the birdcage..."
+#~ msgstr "Чишћење..."

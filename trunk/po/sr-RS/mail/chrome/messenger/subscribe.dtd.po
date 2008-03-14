@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,39 +51,36 @@ msgstr ""
 # 
 # ***** END LICENSE BLOCK *****
 #
-#: subscribeDialog.title
-#: subscribedHeader.label
+#: subscribeDialog.title subscribedHeader.label
 msgid "Subscribe"
 msgstr "Претплата"
 
-#: subscribeButton.label
-#: subscribeButton.accesskey
+#: subscribeButton.label subscribeButton.accesskey
 msgid "&Subscribe"
 msgstr "&Претплата"
 
-#: unsubscribeButton.label
-#: unsubscribeButton.accesskey
+#: unsubscribeButton.label unsubscribeButton.accesskey
 msgid "&Unsubscribe"
 msgstr "&Откажи претплату"
 
-#: refreshButton.label
-#: refreshButton.accesskey
+#: newGroupsTab.label newGroupsTab.accesskey
+msgid "&New Groups"
+msgstr ""
+
+#: refreshButton.label refreshButton.accesskey
 msgid "&Refresh"
 msgstr "&Освежи"
 
-#: stopButton.label
-#: stopButton.accesskey
+#: stopButton.label stopButton.accesskey
 msgid "S&top"
 msgstr "&Крај"
 
-#: server.label
-#: server.accesskey
+#: server.label server.accesskey
 msgid "&Account:"
 msgstr "&Налог:"
 
 # commenting out until bug 38906 is fixed
 # <!ENTITY messagesHeader.label         "Messages">
-#: namefield.label
-#: namefield.accesskey
+#: namefield.label namefield.accesskey
 msgid "Sh&ow items that contain:"
 msgstr "&Покажи ставке које садрже:"

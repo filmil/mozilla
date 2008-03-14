@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 01:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,6 +13,326 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
+
+# 
+# # ***** BEGIN LICENSE BLOCK *****
+# # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# #
+# # The contents of this file are subject to the Mozilla Public License Version
+# # 1.1 (the "License"); you may not use this file except in compliance with
+# # the License. You may obtain a copy of the License at
+# # http://www.mozilla.org/MPL/
+# #
+# # Software distributed under the License is distributed on an "AS IS" basis,
+# # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# # for the specific language governing rights and limitations under the
+# # License.
+# #
+# # The Original Code is Mozilla Communicator client code.
+# #
+# # The Initial Developer of the Original Code is Daniel Brooks.
+# # Portions created by the Initial Developer are Copyright (C) 2001
+# # the Initial Developer. All Rights Reserved.
+# #
+# # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+# #                 Florian QUEZE <f.qu@queze.net>
+# #                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+# #
+# # Alternatively, the contents of this file may be used under the terms of
+# # either the GNU General Public License Version 2 or later (the "GPL"), or
+# # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# # in which case the provisions of the GPL or the LGPL are applicable instead
+# # of those above. If you wish to allow use of your version of this file only
+# # under the terms of either the GPL or the LGPL, and not to allow others to
+# # use your version of this file under the terms of the MPL, indicate your
+# # decision by deleting the provisions above and replace them with the notice
+# # and other provisions required by the LGPL or the GPL. If you do not delete
+# # the provisions above, a recipient may use your version of this file under
+# # the terms of any one of the MPL, the GPL or the LGPL.
+# #
+# # ***** END LICENSE BLOCK *****
+# 
+#: pageInfoWindow.width
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"600"
+msgstr ""
+
+#: pageInfoWindow.height
+msgid ""
+"_: Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"500"
+msgstr ""
+
+#: copy.key
+msgid "C"
+msgstr "C"
+
+#: copy.label copy.accesskey
+msgid "&Copy"
+msgstr "&Умножи"
+
+#: selectall.key mediaSaveAs.accesskey
+msgid "A"
+msgstr "A"
+
+#: selectall.label selectall.accesskey
+msgid "Select &All"
+msgstr "Изабери &све"
+
+#: closeWindow.key securityView.privacy.viewPasswords.accessKey
+msgid "w"
+msgstr "w"
+
+#: generalTab
+msgid "General"
+msgstr "Опште"
+
+#: generalTab.accesskey
+msgid "G"
+msgstr "G"
+
+#: generalURL
+msgid "Address:"
+msgstr "Адреса:"
+
+#: generalType
+msgid "Type:"
+msgstr "Тип:"
+
+#: generalMode
+msgid "Render Mode:"
+msgstr "Тип приказа:"
+
+#: generalSize
+msgid "Size:"
+msgstr "Величина:"
+
+#: generalReferrer
+msgid "Referring URL:"
+msgstr "Референтни URL:"
+
+#: generalSource
+msgid "Cache Source:"
+msgstr "Извор кеша:"
+
+#: generalModified
+msgid "Modified:"
+msgstr "Последња измена:"
+
+#: generalEncoding
+msgid "Encoding:"
+msgstr "Кодирање:"
+
+#: generalMetaName
+msgid "Name"
+msgstr "Име"
+
+#: generalMetaContent
+msgid "Content"
+msgstr "Садржај"
+
+#: generalSecurityMore
+msgid "More"
+msgstr ""
+
+#: generalSecurityMore.accesskey
+msgid "o"
+msgstr ""
+
+#: mediaTab
+msgid "Media"
+msgstr "Медији"
+
+#: mediaTab.accesskey
+msgid "M"
+msgstr "M"
+
+#: mediaLocation
+msgid "Location:"
+msgstr ""
+
+#: mediaText
+msgid "Associated Text:"
+msgstr ""
+
+#: mediaAltHeader
+msgid "Alternate Text"
+msgstr "Допунски текст"
+
+#: mediaAddress
+msgid "Address"
+msgstr "Адреса"
+
+#: mediaType
+msgid "Type"
+msgstr "Врста"
+
+#: mediaSize
+msgid "Size"
+msgstr ""
+
+#: mediaCount
+msgid "Count"
+msgstr "Укупно"
+
+#: mediaDimension
+msgid "Dimensions:"
+msgstr ""
+
+#: mediaLongdesc
+msgid "Long Description:"
+msgstr "Дуги опис:"
+
+#: mediaBlockImage.accesskey
+msgid "B"
+msgstr ""
+
+#: mediaSaveAs
+msgid "Save As…"
+msgstr ""
+
+#: mediaSaveAs2.accesskey
+msgid "e"
+msgstr ""
+
+#: mediaPreview
+msgid "Media Preview:"
+msgstr "Преглед медија:"
+
+#: feedTab
+msgid "Feeds"
+msgstr ""
+
+#: feedTab.accesskey
+msgid "F"
+msgstr "F"
+
+#: feedSubscribe
+msgid "Subscribe"
+msgstr ""
+
+#: feedSubscribe.accesskey
+msgid "u"
+msgstr ""
+
+#: permTab
+msgid "Permissions"
+msgstr ""
+
+#: permTab.accesskey
+msgid "P"
+msgstr ""
+
+#: permUseDefault
+msgid "Use Default"
+msgstr ""
+
+#: permAllow
+msgid "Allow"
+msgstr ""
+
+#: permAllowSession
+msgid "Allow for Session"
+msgstr ""
+
+#: permBlock
+msgid "Block"
+msgstr ""
+
+#: permissionsFor
+msgid "Permissions for:"
+msgstr ""
+
+#: permImage
+msgid "Load Images"
+msgstr ""
+
+#: permPopup
+msgid "Open Pop-up Windows"
+msgstr ""
+
+#: permCookie
+msgid "Set Cookies"
+msgstr ""
+
+#: permInstall
+msgid "Install Extensions or Themes"
+msgstr ""
+
+#: securityTab
+msgid "Security"
+msgstr ""
+
+#: securityTab.accesskey
+msgid "S"
+msgstr "S"
+
+#: securityHeader
+msgid "Security information for this page"
+msgstr ""
+
+#: securityView.certView
+msgid "View Certificate"
+msgstr ""
+
+#: securityView.accesskey
+msgid "V"
+msgstr ""
+
+#: securityView.unknown
+msgid "Unknown"
+msgstr ""
+
+#: securityView.identity.header
+msgid "Web Site Identity"
+msgstr ""
+
+#: securityView.identity.owner
+msgid "Owner: "
+msgstr ""
+
+#: securityView.identity.domain
+msgid "Web site: "
+msgstr ""
+
+#: securityView.identity.verifier
+msgid "Verified by: "
+msgstr ""
+
+#: securityView.privacy.header
+msgid "Privacy &amp; History"
+msgstr ""
+
+#: securityView.privacy.history
+msgid "Have I visited this web site before today?"
+msgstr ""
+
+#: securityView.privacy.cookies
+msgid "Is this web site storing information (cookies) on my computer?"
+msgstr ""
+
+#: securityView.privacy.viewCookies
+msgid "View Cookies"
+msgstr ""
+
+#: securityView.privacy.viewCookies.accessKey
+msgid "k"
+msgstr ""
+
+#: securityView.privacy.passwords
+msgid "Have I saved any passwords for this web site?"
+msgstr ""
+
+#: securityView.privacy.viewPasswords
+msgid "View Saved Passwords"
+msgstr ""
+
+#: securityView.technical.header
+msgid "Technical Details"
+msgstr ""
 
 # 
 # # ***** BEGIN LICENSE BLOCK *****
@@ -51,261 +371,104 @@ msgstr ""
 # # ***** END LICENSE BLOCK *****
 # 
 #
-#: preface
-msgid "Info for: "
-msgstr "Подаци за:"
+#~ msgid "Info for: "
+#~ msgstr "Подаци за:"
 
-#: title
-msgid "Page Info"
-msgstr "Подаци о страни"
+#~ msgid "Page Info"
+#~ msgstr "Подаци о страни"
 
-#: description
-msgid "Information about the current page"
-msgstr "Подаци о текућој страни"
+#~ msgid "Information about the current page"
+#~ msgstr "Подаци о текућој страни"
 
-#: pageInfoWindow.width
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this "
-"dialogue box to appear bigger.\n"
-"425"
-msgstr "450"
+#~ msgid ""
+#~ "_: Do not translate this.  Only change the numeric values if you need "
+#~ "this dialogue box to appear bigger.\n"
+#~ "425"
+#~ msgstr "450"
 
-#: pageInfoWindow.height
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this "
-"dialogue box to appear bigger.\n"
-"470"
-msgstr "500"
+#~ msgid ""
+#~ "_: Do not translate this.  Only change the numeric values if you need "
+#~ "this dialogue box to appear bigger.\n"
+#~ "470"
+#~ msgstr "500"
 
-#: copy.key
-msgid "C"
-msgstr "C"
+#~ msgid "Title:"
+#~ msgstr "Заглавље:"
 
-#: copy.label
-#: copy.accesskey
-msgid "&Copy"
-msgstr "&Умножи"
+#~ msgid "Sent:"
+#~ msgstr "Слање:"
 
-#: selectall.key
-msgid "A"
-msgstr "A"
+#~ msgid "Expires:"
+#~ msgstr "Рок трајања:"
 
-#: selectall.label
-#: selectall.accesskey
-msgid "Select &All"
-msgstr "Изабери &све"
+#~ msgid "Meta:"
+#~ msgstr "Подаци о META таговима:"
 
-#: closeWindow.key
-msgid "w"
-msgstr "w"
+#~ msgid "Forms"
+#~ msgstr "Формулари"
 
-#: generalTab
-msgid "General"
-msgstr "Опште"
+#~ msgid "Form Action"
+#~ msgstr "Акција формулара"
 
-#: generalAccesskey
-msgid "G"
-msgstr "G"
+#~ msgid "Method"
+#~ msgstr "Метод"
 
-#: generalTitle
-#: mediaTitle
-msgid "Title:"
-msgstr "Заглавље:"
+#~ msgid "No."
+#~ msgstr "Бр."
 
-#: generalURL
-#: mediaURL
-msgid "Address:"
-msgstr "Адреса:"
+#~ msgid "Target:"
+#~ msgstr "Циљ:"
 
-#: generalMode
-msgid "Render Mode:"
-msgstr "Тип приказа:"
+#~ msgid "Fields:"
+#~ msgstr "Поља:"
 
-#: generalType
-msgid "Type:"
-msgstr "Тип:"
+#~ msgid "Label"
+#~ msgstr "Ознака"
 
-#: generalSize
-msgid "Size:"
-msgstr "Величина:"
+#~ msgid "Field Name"
+#~ msgstr "Име поља"
 
-#: generalReferrer
-msgid "Referring URL:"
-msgstr "Референтни URL:"
+#~ msgid "Current Value"
+#~ msgstr "Текућа вредност"
 
-#: generalSource
-msgid "Cache Source:"
-msgstr "Извор кеша:"
+#~ msgid "Links"
+#~ msgstr "Везе"
 
-#: generalSent
-msgid "Sent:"
-msgstr "Слање:"
+#~ msgid "L"
+#~ msgstr "L"
 
-#: generalModified
-msgid "Modified:"
-msgstr "Последња измена:"
+#~ msgid "Target"
+#~ msgstr "Циљ"
 
-#: generalExpires
-msgid "Expires:"
-msgstr "Рок трајања:"
+#~ msgid "Access Key"
+#~ msgstr "Тастер за брзи приступ"
 
-#: generalEncoding
-#: formEncoding
-#: mediaCharset
-msgid "Encoding:"
-msgstr "Кодирање:"
+#~ msgid "Images on this page"
+#~ msgstr "Слике на страни"
 
-#: generalMeta
-msgid "Meta:"
-msgstr "Подаци о META таговима:"
+#~ msgid "Base Address:"
+#~ msgstr "Основна адреса:"
 
-#: generalMetaName
-#: formName
-#: linkName
-#: mediaName
-#: frameName
-msgid "Name"
-msgstr "Име"
+#~ msgid "Alternate Text:"
+#~ msgstr "Допунски текст:"
 
-#: generalMetaContent
-msgid "Content"
-msgstr "Садржај"
+#~ msgid "Plugin:"
+#~ msgstr "Додатак:"
 
-#: formsTab
-msgid "Forms"
-msgstr "Формулари"
+#~ msgid "Specified Dimensions:"
+#~ msgstr "Задате димензије:"
 
-#: formsAccesskey
-msgid "F"
-msgstr "F"
+#~ msgid "Actual Dimensions:"
+#~ msgstr "Стварне димензије:"
 
-#: formAction
-msgid "Form Action"
-msgstr "Акција формулара"
+#~ msgid "Encryption:"
+#~ msgstr "Шифровање:"
 
-#: formMethod
-msgid "Method"
-msgstr "Метод"
+#~ msgid "Save As..."
+#~ msgstr "Сачувај као..."
 
-#: formNo
-#: linkNo
-#: mediaNo
-msgid "No."
-msgstr "Бр."
+#~ msgid "Frames"
+#~ msgstr "Оквири"
 
-#: formTarget
-msgid "Target:"
-msgstr "Циљ:"
-
-#: formFields
-msgid "Fields:"
-msgstr "Поља:"
-
-#: formLabel
-msgid "Label"
-msgstr "Ознака"
-
-#: formFName
-msgid "Field Name"
-msgstr "Име поља"
-
-#: formType
-#: linkType
-#: mediaType
-#: frameType
-msgid "Type"
-msgstr "Врста"
-
-#: formCValue
-msgid "Current Value"
-msgstr "Текућа вредност"
-
-#: linksTab
-msgid "Links"
-msgstr "Везе"
-
-#: linksAccesskey
-msgid "L"
-msgstr "L"
-
-#: linkAddress
-#: mediaAddress
-#: frameAddress
-msgid "Address"
-msgstr "Адреса"
-
-#: linkTarget
-msgid "Target"
-msgstr "Циљ"
-
-#: linkAccessKey
-msgid "Access Key"
-msgstr "Тастер за брзи приступ"
-
-#: mediaTab
-msgid "Media"
-msgstr "Медији"
-
-#: mediaAccesskey
-msgid "M"
-msgstr "M"
-
-#: mediaHeader
-msgid "Images on this page"
-msgstr "Слике на страни"
-
-#: mediaBase
-msgid "Base Address:"
-msgstr "Основна адреса:"
-
-#: mediaAlt
-msgid "Alternate Text:"
-msgstr "Допунски текст:"
-
-#: mediaAltHeader
-msgid "Alternate Text"
-msgstr "Допунски текст"
-
-#: mediaCount
-msgid "Count"
-msgstr "Укупно"
-
-#: mediaPlugin
-msgid "Plugin:"
-msgstr "Додатак:"
-
-#: mediaDimensions
-msgid "Specified Dimensions:"
-msgstr "Задате димензије:"
-
-#: mediaPhysDimensions
-msgid "Actual Dimensions:"
-msgstr "Стварне димензије:"
-
-#: mediaEncryption
-msgid "Encryption:"
-msgstr "Шифровање:"
-
-#: mediaLongdesc
-msgid "Long Description:"
-msgstr "Дуги опис:"
-
-#: mediaSaveAs
-msgid "Save As..."
-msgstr "Сачувај као..."
-
-#: mediaSaveAs.accesskey
-msgid "S"
-msgstr "S"
-
-#: mediaPreview
-msgid "Media Preview:"
-msgstr "Преглед медија:"
-
-#: framesTab
-msgid "Frames"
-msgstr "Оквири"
-
-#: framesTab.accesskey
-msgid "r"
-msgstr "r"
+#~ msgid "r"
+#~ msgstr "r"

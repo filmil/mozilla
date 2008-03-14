@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,11 +20,12 @@ msgid "Account Settings"
 msgstr "Подешавања налога"
 
 #: accountSettingsDesc.label
-msgid "The following is a special account.  There are no identities associated with it."
+msgid ""
+"The following is a special account.  There are no identities associated with "
+"it."
 msgstr "Ово је посебан налог. Није му придружен ниједан идентитет."
 
-#: accountName.label
-#: accountName.accesskey
+#: accountName.label accountName.accesskey
 msgid "Account &Name:"
 msgstr "&Корисничко име:"
 
@@ -32,13 +33,11 @@ msgstr "&Корисничко име:"
 msgid "Message Storage"
 msgstr "Складиште порука"
 
-#: emptyTrashOnExit.label
-#: emptyTrashOnExit.accesskey
+#: emptyTrashOnExit.label emptyTrashOnExit.accesskey
 msgid "Empty Trash on E&xit"
 msgstr "Испра&зни смеће при крају рада"
 
-#: localPath.label
-#: localPath.accesskey
+#: localPath.label localPath.accesskey
 msgid "&Local directory:"
 msgstr "&Локални директоријум:"
 
@@ -46,7 +45,9 @@ msgstr "&Локални директоријум:"
 msgid "Select Local Directory"
 msgstr "Избор локалног директоријума"
 
-#: browseFolder.label
-#: browseFolder.accesskey
-msgid "&Browse..."
-msgstr "&Преглед..."
+#: browseFolder.label browseFolder.accesskey
+msgid "&Browse…"
+msgstr ""
+
+#~ msgid "&Browse..."
+#~ msgstr "&Преглед..."

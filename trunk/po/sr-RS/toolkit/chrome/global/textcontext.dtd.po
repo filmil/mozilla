@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-12-25 02:13+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,51 +14,51 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: cutCmd.label
-#: cutCmd.accesskey
+#: cutCmd.label cutCmd.accesskey
 msgid "Cu&t"
 msgstr "&Исеци"
 
-#: copyCmd.label
-#: copyCmd.accesskey
+#: copyCmd.label copyCmd.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
-#: pasteCmd.label
-#: pasteCmd.accesskey
+#: pasteCmd.label pasteCmd.accesskey
 msgid "&Paste"
 msgstr "&Убаци"
 
-#: undoCmd.label
-#: undoCmd.accesskey
+#: undoCmd.label undoCmd.accesskey
 msgid "&Undo"
 msgstr "Опо&зови"
 
-#: selectAllCmd.label
-#: selectAllCmd.accesskey
+#: selectAllCmd.label selectAllCmd.accesskey
 msgid "Select &All"
 msgstr "Изабери &све"
 
-#: deleteCmd.label
-#: deleteCmd.accesskey
+#: deleteCmd.label deleteCmd.accesskey
 msgid "&Delete"
 msgstr "&Обриши"
 
-#: spellAddToDictionary.label
-#: spellAddToDictionary.accesskey
-msgid "Add &to dictionary"
-msgstr "Додај у &речник"
+#: spellAddToDictionary.label spellAddToDictionary.accesskey
+msgid "Add t&o Dictionary"
+msgstr ""
 
-#: spellEnable.label
-#: spellEnable.accesskey
-msgid "&Spell check this field"
-msgstr "Провера &правописа за ово поље"
+#: spellCheckEnable.label spellCheckEnable.accesskey
+msgid "Check &Spelling"
+msgstr ""
 
 #: spellNoSuggestions.label
-msgid "(No spelling suggestions)"
-msgstr "(Нема предлога)"
+msgid "(No Spelling Suggestions)"
+msgstr ""
 
-#: spellDictionaries.label
-#: spellDictionaries.accesskey
+#: spellDictionaries.label spellDictionaries.accesskey
 msgid "&Languages"
 msgstr "&Језици"
+
+#~ msgid "Add &to dictionary"
+#~ msgstr "Додај у &речник"
+
+#~ msgid "&Spell check this field"
+#~ msgstr "Провера &правописа за ово поље"
+
+#~ msgid "(No spelling suggestions)"
+#~ msgstr "(Нема предлога)"

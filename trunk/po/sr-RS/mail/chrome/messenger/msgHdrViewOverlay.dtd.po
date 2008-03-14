@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 00:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -111,6 +111,18 @@ msgstr "Датум: "
 msgid "User-Agent: "
 msgstr "Кориснички-агент: "
 
+#: referencesField.label
+msgid "References: "
+msgstr ""
+
+#: messageIdField.label
+msgid "Message-ID: "
+msgstr ""
+
+#: inReplyToField.label
+msgid "In-Reply-To: "
+msgstr ""
+
 #: originalWebsite.label
 msgid "Website: "
 msgstr "Ел-место: "
@@ -120,52 +132,73 @@ msgid "Save All.."
 msgstr "Сачувај све..."
 
 #: editMessage.label
-msgid "Edit Draft..."
-msgstr "Уреди нацрт..."
+msgid "Edit Draft…"
+msgstr ""
 
-#: attachmentsTree.label
-msgid "Attachments:"
-msgstr "Прилози:"
-
-#: openAttachmentCmd.label
-#: openAttachmentCmd.accesskey
+#: openAttachmentCmd.label openAttachmentCmd.accesskey
 msgid "&Open"
 msgstr "&Отвори"
 
-#: saveAsAttachmentCmd.label
-#: saveAsAttachmentCmd.accesskey
-msgid "Save &As..."
-msgstr "Сачувај &као..."
-
-#: printAttachmentCmd.label
-#: printAttachmentCmd.accesskey
-msgid ".&Print"
-msgstr "&Штампај"
+#: saveAsAttachmentCmd.label saveAsAttachmentCmd.accesskey
+msgid "Save &As…"
+msgstr ""
 
 #: detachAttachmentCmd.label
-msgid "Detach ..."
-msgstr "Откачи ..."
+msgid "Detach…"
+msgstr ""
 
 #: deleteAttachmentCmd.label
 msgid "Delete"
 msgstr "Уклони"
 
-#: saveAllAttachmentsCmd.label
-#: saveAllAttachmentsCmd.accesskey
-msgid "&Save All..."
-msgstr "Сачувај с&ве..."
+#: saveAllAttachmentsCmd.label saveAllAttachmentsCmd.accesskey
+msgid "&Save All…"
+msgstr ""
 
-#: detachAllAttachmentsCmd.label
-#: detachAllAttachmentsCmd.accesskey
-msgid "&Detach All..."
-msgstr "О&ткачи све..."
+#: detachAllAttachmentsCmd.label detachAllAttachmentsCmd.accesskey
+msgid "&Detach All…"
+msgstr ""
 
-#: deleteAllAttachmentsCmd.label
-#: deleteAllAttachmentsCmd.accesskey
-msgid "D&elete All..."
-msgstr "Ук&лони све..."
+#: deleteAllAttachmentsCmd.label deleteAllAttachmentsCmd.accesskey
+msgid "D&elete All…"
+msgstr ""
 
-#: copyLinkCmd.label
-#: copyLinkCmd.accesskey
+#: copyLinkCmd.label copyLinkCmd.accesskey
 msgid "&Copy Link Location"
 msgstr "Умножи &везу"
+
+#: CopyMessageId.label
+msgid "Copy Message-ID"
+msgstr ""
+
+#: OpenMessageForMsgId.label
+msgid "Open Message For ID"
+msgstr ""
+
+#: OpenBrowserWithMsgId.label
+msgid "Open Browser With Message-ID"
+msgstr ""
+
+#~ msgid "Edit Draft..."
+#~ msgstr "Уреди нацрт..."
+
+#~ msgid "Attachments:"
+#~ msgstr "Прилози:"
+
+#~ msgid "Save &As..."
+#~ msgstr "Сачувај &као..."
+
+#~ msgid ".&Print"
+#~ msgstr "&Штампај"
+
+#~ msgid "Detach ..."
+#~ msgstr "Откачи ..."
+
+#~ msgid "&Save All..."
+#~ msgstr "Сачувај с&ве..."
+
+#~ msgid "&Detach All..."
+#~ msgstr "О&ткачи све..."
+
+#~ msgid "D&elete All..."
+#~ msgstr "Ук&лони све..."

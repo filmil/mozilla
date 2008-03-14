@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 01:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,18 +18,6 @@ msgstr ""
 msgid "Rediscover the Web"
 msgstr "Поново откријте Интернет"
 
-#: credit.leads
-msgid "Engineering Leads"
-msgstr "Водећи инжењери"
-
-#: credit.core
-msgid "Core Development Posse"
-msgstr "Група за развој језгра"
-
-#: credit.gecko
-msgid "Gecko Layout Engine"
-msgstr "Погон Gecko"
-
 #: credit.thanks
 msgid "Special Thanks To"
 msgstr "Посебне захвалнице"
@@ -38,28 +26,8 @@ msgstr "Посебне захвалнице"
 msgid "Many thanks to our"
 msgstr "Велико хвала нашим"
 
-#: credit.prethanks
-msgid ""
-"_: credit.prethanks\n"
-""
-msgstr ""
-
-#: credit.friends
-msgid "Friends"
-msgstr "пријатељима"
-
-#: credit.and
-msgid "&amp;"
-msgstr "и"
-
-#: credit.contributors
-msgid "Contributors"
-msgstr "приложницима"
-
-#: credit.postthanks
-msgid ""
-"_: credit.postthanks\n"
-""
+#: credit.contributors2
+msgid "contributors"
 msgstr ""
 
 # localization credits look like this:
@@ -69,71 +37,76 @@ msgstr ""
 # 
 #
 #: credit.translation
-msgid ""
-"_: credit.translation\n"
-""
+msgid "_: credit.translation\n"
 msgstr ""
-
-#: credit.visuals
-msgid "Visual Design Coordinator"
-msgstr "Координатор дизајна окружења"
-
-#: credit.theme
-msgid "Theme Design"
-msgstr "Дизајн теме"
-
-#: credit.brand
-msgid "Brand Identity"
-msgstr "Идентитет марке"
-
-#: credit.web
-msgid "Web Design"
-msgstr "Веб дизајн"
-
-#: credit.update
-msgid "Mozilla Update"
-msgstr "Mozilla унапређење"
-
-#: credit.qalead
-msgid "Quality Assurance Lead"
-msgstr "Вођа провере квалитета"
-
-#: credit.qa
-msgid "Quality Assurance"
-msgstr "Провера квалитета"
-
-#: credit.build
-msgid "Build and Release"
-msgstr "Изградња и издавање"
-
-#: credit.infra
-msgid "Infrastructure Support"
-msgstr "Подршка инфраструктуре"
-
-#: credit.support
-msgid "Support Resources"
-msgstr "Помоћне потрепштине"
-
-#: credit.manage
-msgid "Project Management"
-msgstr "Управљање пројектом"
-
-#: credit.marketleads
-msgid "Marketing Leads"
-msgstr "Вође маркетинга"
-
-#: credit.market
-msgid "Marketing"
-msgstr "Маркетинг"
-
-#: credit.creators
-msgid "Created By"
-msgstr "Направио"
 
 #: credit.memory
 msgid "In Fond Memory Of"
 msgstr "У сећање на"
 
-#: credit.poweredByGecko
-msgid "Powered by Gecko&trade;"
-msgstr "Покреће нас Gecko&trade;"
+#: credit.poweredByGeckoReg
+msgid "Powered by Gecko&reg;"
+msgstr ""
+
+#~ msgid "Engineering Leads"
+#~ msgstr "Водећи инжењери"
+
+#~ msgid "Core Development Posse"
+#~ msgstr "Група за развој језгра"
+
+#~ msgid "Gecko Layout Engine"
+#~ msgstr "Погон Gecko"
+
+#~ msgid "Friends"
+#~ msgstr "пријатељима"
+
+#~ msgid "&amp;"
+#~ msgstr "и"
+
+#~ msgid "Contributors"
+#~ msgstr "приложницима"
+
+#~ msgid "Visual Design Coordinator"
+#~ msgstr "Координатор дизајна окружења"
+
+#~ msgid "Theme Design"
+#~ msgstr "Дизајн теме"
+
+#~ msgid "Brand Identity"
+#~ msgstr "Идентитет марке"
+
+#~ msgid "Web Design"
+#~ msgstr "Веб дизајн"
+
+#~ msgid "Mozilla Update"
+#~ msgstr "Mozilla унапређење"
+
+#~ msgid "Quality Assurance Lead"
+#~ msgstr "Вођа провере квалитета"
+
+#~ msgid "Quality Assurance"
+#~ msgstr "Провера квалитета"
+
+#~ msgid "Build and Release"
+#~ msgstr "Изградња и издавање"
+
+#~ msgid "Infrastructure Support"
+#~ msgstr "Подршка инфраструктуре"
+
+#~ msgid "Support Resources"
+#~ msgstr "Помоћне потрепштине"
+
+#~ msgid "Project Management"
+#~ msgstr "Управљање пројектом"
+
+#~ msgid "Marketing Leads"
+#~ msgstr "Вође маркетинга"
+
+#~ msgid "Marketing"
+#~ msgstr "Маркетинг"
+
+#~ msgid "Created By"
+#~ msgstr "Направио"
+
+#~ msgid "Powered by Gecko&trade;"
+#~ msgstr "Покреће нас Gecko&trade;"

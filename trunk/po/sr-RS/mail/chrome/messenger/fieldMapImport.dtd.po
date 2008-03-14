@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:33+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,41 +78,30 @@ msgstr ""
 msgid "Imported data for Record: "
 msgstr "Увезени подаци за слог:"
 
-#: fieldMapImport.next
-msgid "Next"
-msgstr "Следеће"
+#: fieldMapImport.next.label fieldMapImport.next.accesskey
+msgid "&Next"
+msgstr ""
 
-#: fieldMapImport.next.accesskey
-msgid "N"
-msgstr "Н"
-
-#: fieldMapImport.previous
-msgid "Previous"
-msgstr "Претходно"
-
-#: fieldMapImport.previous.accesskey
-msgid "P"
-msgstr "Ш"
+#: fieldMapImport.previous.label fieldMapImport.previous.accesskey
+msgid "&Previous"
+msgstr ""
 
 #: fieldMapImport.text
-msgid "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import."
-msgstr "Користите Горе и Доле како бисте уклопили поља у адресару слева са исправним местима здесна. Ставке које не желите да увезете можете искључити."
+msgid ""
+"Use Move Up and Move Down to match the address book fields on the left to "
+"the correct data for import on the right. Uncheck items you do not want to "
+"import."
+msgstr ""
+"Користите Горе и Доле како бисте уклопили поља у адресару слева са исправним "
+"местима здесна. Ставке које не желите да увезете можете искључити."
 
-#: fieldMapImport.up
-msgid "Move Up"
-msgstr "Горе"
+#: fieldMapImport.up.label fieldMapImport.up.accesskey
+msgid "Move &Up"
+msgstr ""
 
-#: fieldMapImport.up.accesskey
-msgid "U"
-msgstr "U"
-
-#: fieldMapImport.down
-msgid "Move Down"
-msgstr "Доле"
-
-#: fieldMapImport.down.accesskey
-msgid "D"
-msgstr "б"
+#: fieldMapImport.down.label fieldMapImport.down.accesskey
+msgid "Move &Down"
+msgstr ""
 
 #: fieldMapImport.fieldListTitle
 msgid "Address Book fields"
@@ -122,10 +111,37 @@ msgstr "Поља у адресару"
 msgid "Record data to import"
 msgstr "Подаци у слогу за увоз"
 
-#: fieldMapImport.skipFirstRecord
-msgid "First record contains field names"
-msgstr "Први слог садржи имена поља"
-
+#: fieldMapImport.skipFirstRecord.label
 #: fieldMapImport.skipFirstRecord.accessKey
-msgid "F"
-msgstr "F"
+msgid "&First record contains field names"
+msgstr ""
+
+#~ msgid "Next"
+#~ msgstr "Следеће"
+
+#~ msgid "N"
+#~ msgstr "Н"
+
+#~ msgid "Previous"
+#~ msgstr "Претходно"
+
+#~ msgid "P"
+#~ msgstr "Ш"
+
+#~ msgid "Move Up"
+#~ msgstr "Горе"
+
+#~ msgid "U"
+#~ msgstr "U"
+
+#~ msgid "Move Down"
+#~ msgstr "Доле"
+
+#~ msgid "D"
+#~ msgstr "б"
+
+#~ msgid "First record contains field names"
+#~ msgstr "Први слог садржи имена поља"
+
+#~ msgid "F"
+#~ msgstr "F"

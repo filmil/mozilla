@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-12-25 01:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,52 +14,45 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: charsetMenu.label
-#: charsetMenu.accesskey
+#: charsetMenu.label charsetMenu.accesskey
 msgid "&Character Encoding"
 msgstr "&Кодирање знакова"
 
-#: charsetMenuAutodet.label
-#: charsetMenuAutodet.accesskey
+#: charsetMenuAutodet.label charsetMenuAutodet.accesskey
 msgid "&Auto-Detect"
 msgstr "&Аутоматски"
 
-#: charsetMenuMore.label
-#: charsetMenuMore.accesskey
+#: charsetMenuMore.label charsetMenuMore.accesskey
 msgid "&More"
 msgstr "&Више"
 
-#: charsetMenuMore1.label
-#: charsetMenuMore1.accesskey
+#: charsetMenuMore1.label charsetMenuMore1.accesskey
 msgid "&West European"
 msgstr "&Западноевропско"
 
-#: charsetMenuMore2.label
-#: charsetMenuMore2.accesskey
+#: charsetMenuMore2.label charsetMenuMore2.accesskey
 msgid "&East European"
 msgstr "&Источноевропско"
 
-#: charsetMenuMore3.label
-#: charsetMenuMore3.accesskey
+#: charsetMenuMore3.label charsetMenuMore3.accesskey
 msgid "East &Asian"
 msgstr "&Далекоисточно"
 
-#: charsetMenuMore4.label
-#: charsetMenuMore4.accesskey
+#: charsetMenuMore4.label charsetMenuMore4.accesskey
 msgid "&SE &amp; SW Asian"
 msgstr "&Југоисточно азијско"
 
-#: charsetMenuMore5.label
-#: charsetMenuMore5.accesskey
+#: charsetMenuMore5.label charsetMenuMore5.accesskey
 msgid "&Middle Eastern"
 msgstr "&Блискоисточно"
 
-#: charsetMenuUnicode.label
-#: charsetMenuUnicode.accesskey
+#: charsetMenuUnicode.label charsetMenuUnicode.accesskey
 msgid "&Unicode"
 msgstr "&Уникод"
 
-#: charsetCustomize.label
-#: charsetCustomize.accesskey
-msgid "&Customize..."
-msgstr "&Прилагоди..."
+#: charsetCustomize.label charsetCustomize.accesskey
+msgid "&Customize…"
+msgstr ""
+
+#~ msgid "&Customize..."
+#~ msgstr "&Прилагоди..."

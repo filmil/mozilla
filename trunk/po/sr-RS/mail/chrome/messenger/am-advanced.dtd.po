@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:18+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,26 +24,27 @@ msgstr "Подешавања одлазног сервера (SMTP)"
 #: smtpDesc.label
 msgid ""
 "_: do not translate \"SMTP\" in below line\n"
-"Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages."
-msgstr "Иако можете да означите више од једног одлазног сервера (SMTP), то се препоручује само за напредне кориснике.  Постављање више SMTP сервера може да доведе до грешака при слању порука."
+"Although you can specify more than one outgoing server (SMTP), this is only "
+"recommended for advanced users. Setting up multiple SMTP servers can cause "
+"errors when sending messages."
+msgstr ""
+"Иако можете да означите више од једног одлазног сервера (SMTP), то се "
+"препоручује само за напредне кориснике.  Постављање више SMTP сервера може "
+"да доведе до грешака при слању порука."
 
-#: smtpListAdd.label
-#: smtpListAdd.accesskey
-msgid "A&dd..."
-msgstr "&Додај..."
+#: smtpListAdd.label smtpListAdd.accesskey
+msgid "A&dd…"
+msgstr ""
 
-#: smtpListEdit.label
-#: smtpListEdit.accesskey
-msgid "&Edit..."
-msgstr "&Уреди..."
+#: smtpListEdit.label smtpListEdit.accesskey
+msgid "&Edit…"
+msgstr ""
 
-#: smtpListDelete.label
-#: smtpListDelete.accesskey
+#: smtpListDelete.label smtpListDelete.accesskey
 msgid "Re&move"
 msgstr "&Уклони"
 
-#: smtpListSetDefault.label
-#: smtpListSetDefault.accesskey
+#: smtpListSetDefault.label smtpListSetDefault.accesskey
 msgid "Se&t Default"
 msgstr "&Подразумевани"
 
@@ -66,3 +67,13 @@ msgstr "Кор. име: "
 #: useSecureConnection.label
 msgid "Secure Connection: "
 msgstr "Безбедна веза: "
+
+#: useSecureAuthentication.label
+msgid "Secure Authentication: "
+msgstr ""
+
+#~ msgid "A&dd..."
+#~ msgstr "&Додај..."
+
+#~ msgid "&Edit..."
+#~ msgstr "&Уреди..."

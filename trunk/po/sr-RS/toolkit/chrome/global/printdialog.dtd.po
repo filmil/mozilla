@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-08-30 10:40-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,8 +15,7 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 # extracted from printdialog.xul
-#: printButton.label
-#: printDialog.title
+#: printButton.label printDialog.title
 msgid "Print"
 msgstr "Штампање"
 
@@ -29,8 +28,8 @@ msgid "Print to File"
 msgstr "Штампај у датотеку"
 
 #: propertiesButton.label
-msgid "Properties..."
-msgstr "Својства..."
+msgid "Properties…"
+msgstr ""
 
 #: descText.label
 msgid "Printer Description:"
@@ -91,3 +90,6 @@ msgstr "Само изабран оквир"
 #: eachframesepRadio.label
 msgid "Each frame separately"
 msgstr "Сваки оквир за себе"
+
+#~ msgid "Properties..."
+#~ msgstr "Својства..."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-25 00:31+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,23 +16,19 @@ msgstr ""
 
 # these things need to move into utilityOverlay.xul
 # LOCALIZATION NOTE : FILE This file contains the global menu items
-#: fileMenu.label
-#: fileMenu.accesskey
+#: fileMenu.label fileMenu.accesskey
 msgid "&File"
 msgstr "&Датотека"
 
-#: newMenu.label
-#: newMenu.accesskey
+#: newMenu.label newMenu.accesskey
 msgid "&New"
 msgstr "&Ново"
 
-#: editMenu.label
-#: editMenu.accesskey
+#: editMenu.label editMenu.accesskey
 msgid "&Edit"
 msgstr "&Уреди"
 
-#: undoCmd.label
-#: undoCmd.accesskey
+#: undoCmd.label undoCmd.accesskey
 msgid "&Undo"
 msgstr "&Опозови"
 
@@ -40,8 +36,7 @@ msgstr "&Опозови"
 msgid "Z"
 msgstr ""
 
-#: redoCmd.label
-#: redoCmd.accesskey
+#: redoCmd.label redoCmd.accesskey
 msgid "&Redo"
 msgstr "&Понови"
 
@@ -49,8 +44,7 @@ msgstr "&Понови"
 msgid "Y"
 msgstr ""
 
-#: cutCmd.label
-#: cutCmd.accesskey
+#: cutCmd.label cutCmd.accesskey
 msgid "Cu&t"
 msgstr "И&сеци"
 
@@ -58,8 +52,7 @@ msgstr "И&сеци"
 msgid "X"
 msgstr ""
 
-#: copyCmd.label
-#: copyCmd.accesskey
+#: copyCmd.label copyCmd.accesskey
 msgid "&Copy"
 msgstr "Умн&ожи"
 
@@ -67,8 +60,7 @@ msgstr "Умн&ожи"
 msgid "C"
 msgstr ""
 
-#: pasteCmd.label
-#: pasteCmd.accesskey
+#: pasteCmd.label pasteCmd.accesskey
 msgid "&Paste"
 msgstr "У&баци"
 
@@ -76,8 +68,7 @@ msgstr "У&баци"
 msgid "V"
 msgstr ""
 
-#: deleteCmd.label
-#: deleteCmd.accesskey
+#: deleteCmd.label deleteCmd.accesskey
 msgid "&Delete"
 msgstr "&Обриши"
 
@@ -85,8 +76,7 @@ msgstr "&Обриши"
 msgid "D"
 msgstr ""
 
-#: selectAllCmd.label
-#: selectAllCmd.accesskey
+#: selectAllCmd.label selectAllCmd.accesskey
 msgid "Select &All"
 msgstr "Изабери &све"
 
@@ -94,55 +84,45 @@ msgstr "Изабери &све"
 msgid "A"
 msgstr "П"
 
-#: preferencesCmd.label
-#: preferencesCmd.accesskey
-msgid "&Options..."
-msgstr "&Подешавања..."
+#: preferencesCmd.label preferencesCmd.accesskey
+msgid "&Options…"
+msgstr ""
 
-#: preferencesCmdUnix.label
-#: preferencesCmdUnix.accesskey
+#: preferencesCmdUnix.label preferencesCmdUnix.accesskey
 msgid "Prefere&nces"
 msgstr "Поста&вке"
 
-#: findTypeTextCmd.label
-#: findTypeTextCmd.accesskey
+#: findTypeTextCmd.label findTypeTextCmd.accesskey
 msgid "Find Te&xt As You Type"
 msgstr "Претрага &текста при куцању"
 
-#: viewMenu.label
-#: viewMenu.accesskey
+#: viewMenu.label viewMenu.accesskey
 msgid "&View"
 msgstr "&Преглед"
 
-#: viewToolbarsMenu.label
-#: viewToolbarsMenu.accesskey
+#: viewToolbarsMenu.label viewToolbarsMenu.accesskey
 msgid "&Toolbars"
 msgstr "&Алатне траке"
 
-#: showTaskbarCmd.label
-#: showTaskbarCmd.accesskey
+#: showTaskbarCmd.label showTaskbarCmd.accesskey
 msgid "&Status Bar"
 msgstr "&Статусна трака"
 
-#: direct.label
-#: direct.accesskey
+#: direct.label direct.accesskey
 msgid "O&nline (proxy: none)"
 msgstr "На вези (без заступника)"
 
-#: manual.label
-#: manual.accesskey
+#: manual.label manual.accesskey
 msgid "Online (proxy: &manual)"
 msgstr "На вези (заступник подешен &ручно)"
 
-#: pac.label
-#: pac.accesskey
+#: pac.label pac.accesskey
 msgid "Online (proxy: &auto)"
 msgstr "На вези (заступник подешен аутоматски)"
 
-#: proxy.label
-#: proxy.accesskey
-msgid "Proxy &Configuration..."
-msgstr "Подешавање &заступника..."
+#: proxy.label proxy.accesskey
+msgid "Proxy &Configuration…"
+msgstr ""
 
 #: findTypeTextCmd.key
 msgid "/"
@@ -154,8 +134,7 @@ msgstr "'"
 
 # unix
 # LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey
-#: closeCmd.label
-#: closeCmd.accesskey
+#: closeCmd.label closeCmd.accesskey
 msgid "&Close"
 msgstr "&Затвори"
 
@@ -163,8 +142,11 @@ msgstr "&Затвори"
 msgid "W"
 msgstr "W"
 
-#: quitApplicationCmd.label
-#: quitApplicationCmd.accesskey
+#: closeWindow.label
+msgid "Close Window"
+msgstr ""
+
+#: quitApplicationCmd.label quitApplicationCmd.accesskey
 msgid "E&xit"
 msgstr "&Крај"
 
@@ -172,7 +154,16 @@ msgstr "&Крај"
 msgid "Q"
 msgstr "Q"
 
-#: quitApplicationCmdUnix.label
-#: quitApplicationCmdUnix.accesskey
+#: quitApplicationCmdUnix.label quitApplicationCmdUnix.accesskey
 msgid "&Quit"
 msgstr "&Крај"
+
+#: quitApplicationCmdMac.label quitApplicationCmdMac.accesskey
+msgid "&Quit &brandShortName;"
+msgstr ""
+
+#~ msgid "&Options..."
+#~ msgstr "&Подешавања..."
+
+#~ msgid "Proxy &Configuration..."
+#~ msgstr "Подешавање &заступника..."

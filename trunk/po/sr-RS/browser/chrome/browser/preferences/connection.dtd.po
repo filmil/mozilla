@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-13 01:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,68 +33,55 @@ msgstr "42em"
 msgid "Configure Proxies to Access the Internet"
 msgstr "Избор посредника (proxy) за приступ Интернету"
 
-#: directTypeRadio.label
-#: directTypeRadio.accesskey
-msgid "&Direct connection to the Internet"
-msgstr "&Директна веза са Интернетом"
+#: noProxyTypeRadio.label noProxyTypeRadio.accesskey
+msgid "No prox&y"
+msgstr ""
 
-#: WPADTypeRadio.label
-#: WPADTypeRadio.accesskey
+#: systemTypeRadio.label systemTypeRadio.accesskey
+msgid "&Use system proxy settings"
+msgstr ""
+
+#: WPADTypeRadio.label WPADTypeRadio.accesskey
 msgid "Auto-detect proxy settings for this net&work"
 msgstr "Са&мостално препознај посредника за ову мрежу"
 
-#: manualTypeRadio.label
-#: manualTypeRadio.accesskey
+#: manualTypeRadio.label manualTypeRadio.accesskey
 msgid "&Manual proxy configuration:"
 msgstr "&Ручни избор посредника:"
 
-#: autoTypeRadio.label
-#: autoTypeRadio.accesskey
+#: autoTypeRadio.label autoTypeRadio.accesskey
 msgid "&Automatic proxy configuration URL:"
 msgstr "&Адреса за аутоматско подешавање посредника:"
 
-#: configAutoconfigText.label
-#: configAutoconfigText.accesskey
-msgid "Configuration location (&URL):"
-msgstr "А&дреса конфигурације (URL):"
-
-#: reload.label
-#: reload.accesskey
+#: reload.label reload.accesskey
 msgid "R&eload"
 msgstr "О&бнови"
 
-#: ftp.label
-#: ftp.accesskey
+#: ftp.label ftp.accesskey
 msgid "&FTP Proxy:"
 msgstr "П&осредник за FTP:"
 
-#: gopher.label
-#: gopher.accesskey
+#: gopher.label gopher.accesskey
 msgid "&Gopher Proxy:"
 msgstr "Пос&редник за &Gopher:"
 
-#: http.label
-#: http.accesskey
-msgid "HTTP Prox&y:"
-msgstr "Поср&едник за HTTP:"
+#: http.label http.accesskey
+msgid "&HTTP Proxy:"
+msgstr ""
 
-#: ssl.label
-#: ssl.accesskey
+#: ssl.label ssl.accesskey
 msgid "&SSL Proxy:"
 msgstr "Посре&дник за &SSL:"
 
-#: socks.label
-#: socks.accesskey
+#: socks.label socks.accesskey
 msgid "SO&CKS Host:"
 msgstr "Доме&н за SOCKS:"
 
-#: socks4.label
-#: socks4.accesskey
+#: socks4.label socks4.accesskey
 msgid "SOC&KS v4"
 msgstr "SOCKS в&4"
 
-#: socks5.label
-#: socks5.accesskey
+#: socks5.label socks5.accesskey
 msgid "SOCKS &v5"
 msgstr "SOCKS в&5"
 
@@ -116,17 +103,14 @@ msgstr "r"
 
 # No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window
 #: gopherPort.accesskey
-msgid ""
-"_: gopherPort.accesskey\n"
-""
+msgid "_: gopherPort.accesskey\n"
 msgstr ""
 
 #: SOCKSport.accesskey
 msgid "t"
 msgstr "t"
 
-#: noproxy.label
-#: noproxy.accesskey
+#: noproxy.label noproxy.accesskey
 msgid "&No Proxy for:"
 msgstr "&Не користи посредника за:"
 
@@ -134,7 +118,15 @@ msgstr "&Не користи посредника за:"
 msgid "Example: .mozilla.org, .net.nz, 192.168.1.0/24"
 msgstr "Пример: .mozilla.org, .net.nz, , 192.168.1.0/24"
 
-#: shareproxy.label
-#: shareproxy.accesskey
+#: shareproxy.label shareproxy.accesskey
 msgid "Use this pro&xy server for all protocols"
 msgstr "&Користи истог заступника за све протоколе"
+
+#~ msgid "&Direct connection to the Internet"
+#~ msgstr "&Директна веза са Интернетом"
+
+#~ msgid "Configuration location (&URL):"
+#~ msgstr "А&дреса конфигурације (URL):"
+
+#~ msgid "HTTP Prox&y:"
+#~ msgstr "Поср&едник за HTTP:"

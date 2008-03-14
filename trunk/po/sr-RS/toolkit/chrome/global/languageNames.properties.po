@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 22:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,8 +155,8 @@ msgid "Divehi"
 msgstr "дивехи"
 
 #: dz
-msgid "Bhutani"
-msgstr "бутански"
+msgid "Dzongkha"
+msgstr ""
 
 #: ee
 msgid "Ewe"
@@ -203,12 +203,16 @@ msgid "Fijian"
 msgstr "фиџиански"
 
 #: fo
-msgid "Faeroese"
-msgstr "фарски"
+msgid "Faroese"
+msgstr ""
 
 #: fr
 msgid "French"
 msgstr "француски"
+
+#: fur
+msgid "Friulian"
+msgstr ""
 
 #: fy
 msgid "Frisian"
@@ -299,8 +303,8 @@ msgid "Sichuan Yi"
 msgstr "сечуан ји"
 
 #: ik
-msgid "Inupiak"
-msgstr "инупиак"
+msgid "Inupiaq"
+msgstr ""
 
 #: io
 msgid "Ido"
@@ -351,8 +355,8 @@ msgid "Greenlandic"
 msgstr "гренландски"
 
 #: km
-msgid "Cambodian"
-msgstr "камбоџански"
+msgid "Khmer"
+msgstr ""
 
 #: kn
 msgid "Kannada"
@@ -411,8 +415,8 @@ msgid "Lingala"
 msgstr "лингала"
 
 #: lo
-msgid "Laothian"
-msgstr "лаотски"
+msgid "Lao"
+msgstr ""
 
 #: lt
 msgid "Lithuanian"
@@ -599,8 +603,8 @@ msgid "Northern Sami"
 msgstr "северни сами"
 
 #: sg
-msgid "Sangro"
-msgstr "сангро"
+msgid "Sango"
+msgstr ""
 
 #: si
 msgid "Singhalese"
@@ -643,8 +647,8 @@ msgid "Sotho, Southern"
 msgstr "сото, јужни"
 
 #: su
-msgid "Sudanese"
-msgstr "судански"
+msgid "Sundanese"
+msgstr ""
 
 #: sv
 msgid "Swedish"
@@ -781,3 +785,24 @@ msgstr "кинески"
 #: zu
 msgid "Zulu"
 msgstr "зулу"
+
+#~ msgid "Bhutani"
+#~ msgstr "бутански"
+
+#~ msgid "Faeroese"
+#~ msgstr "фарски"
+
+#~ msgid "Inupiak"
+#~ msgstr "инупиак"
+
+#~ msgid "Cambodian"
+#~ msgstr "камбоџански"
+
+#~ msgid "Laothian"
+#~ msgstr "лаотски"
+
+#~ msgid "Sangro"
+#~ msgstr "сангро"
+
+#~ msgid "Sudanese"
+#~ msgstr "судански"

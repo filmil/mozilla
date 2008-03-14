@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:37+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,108 +49,93 @@ msgstr ""
 # - the terms of any one of the MPL, the GPL or the LGPL.
 # -
 # - ***** END LICENSE BLOCK *****
-#: GeneratedName.label
-#: GeneratedName.accesskey
+#: GeneratedName.label GeneratedName.accesskey
 msgid "&Name"
 msgstr "&Име"
 
-#: PrimaryEmail.label
-#: PrimaryEmail.accesskey
+#: PrimaryEmail.label PrimaryEmail.accesskey
 msgid "&Email"
 msgstr "&Ел. адреса"
 
-#: Company.label
-#: Company.accesskey
+#: Company.label Company.accesskey
 msgid "Organi&zation"
 msgstr "&Организација"
 
-#: _PhoneticName.label
-#: _PhoneticName.accesskey
+#: _PhoneticName.label _PhoneticName.accesskey
 msgid "Ph&onetic Name"
 msgstr "&Фонетско име"
 
-#: NickName.label
-#: NickName.accesskey
+#: NickName.label NickName.accesskey
 msgid "N&ickname"
 msgstr "&Надимак"
 
-#: SecondEmail.label
-#: SecondEmail.accesskey
+#: SecondEmail.label SecondEmail.accesskey
 msgid "Additiona&l Email"
 msgstr "&Додатна ел. адреса"
 
-#: Department.label
-#: Department.accesskey
+#: Department.label Department.accesskey
 msgid "Depa&rtment"
 msgstr "Оде&љење"
 
-#: JobTitle.label
-#: JobTitle.accesskey
+#: JobTitle.label JobTitle.accesskey
 msgid "&Title"
 msgstr "&Титула"
 
-#: CellularNumber.label
-#: CellularNumber.accesskey
+#: CellularNumber.label CellularNumber.accesskey
 msgid "&Mobile"
 msgstr "&Мобилни"
 
-#: PagerNumber.label
-#: PagerNumber.accesskey
+#: PagerNumber.label PagerNumber.accesskey
 msgid "&Pager"
 msgstr "&Пејџер"
 
-#: FaxNumber.label
-#: FaxNumber.accesskey
+#: FaxNumber.label FaxNumber.accesskey
 msgid "&Fax"
 msgstr "&Факс"
 
-#: HomePhone.label
-#: HomePhone.accesskey
+#: HomePhone.label HomePhone.accesskey
 msgid "&Home Phone"
 msgstr "&Кућни број"
 
-#: WorkPhone.label
-#: WorkPhone.accesskey
+#: WorkPhone.label WorkPhone.accesskey
 msgid "&Work Phone"
 msgstr "&Телефон на послу"
 
-#: ScreenName.label
-#: ScreenName.accesskey
+#: ScreenName.label ScreenName.accesskey
 msgid "&Screen Name"
 msgstr "&Екранско име"
 
-#: sortAscending.label
-#: sortAscending.accesskey
+#: sortAscending.label sortAscending.accesskey
 msgid "&Ascending"
 msgstr "&Растући"
 
-#: sortDescending.label
-#: sortDescending.accesskey
+#: sortDescending.label sortDescending.accesskey
 msgid "&Descending"
 msgstr "&Опадајући"
 
 # context menu
-#: composeEmail.label
-#: composeEmail.accesskey
+#: composeEmail.label composeEmail.accesskey
 msgid "&Compose Email To"
 msgstr "&Састави поруку за"
 
-#: deleteAddrBookCard.label
-#: deleteAddrBookCard.accesskey
+#: deleteAddrBookCard.label deleteAddrBookCard.accesskey
 msgid "&Delete"
 msgstr "&Обриши"
 
-#: newAddrBookCard.label
-#: newAddrBookCard.accesskey
-msgid "&New Card..."
-msgstr "&Нова картица..."
+#: newAddrBookCard.label newAddrBookCard.accesskey
+msgid "&New Card…"
+msgstr ""
 
-#: newAddrBookMailingList.label
-#: newAddrBookMailingList.accesskey
-msgid "New &Mailing List..."
-msgstr "Ново &дописно друштво..."
+#: newAddrBookMailingList.label newAddrBookMailingList.accesskey
+msgid "New &Mailing List…"
+msgstr ""
 
-#: addrBookCardProperties.label
-#: addrBookCardProperties.accesskey
+#: addrBookCardProperties.label addrBookCardProperties.accesskey
 msgid "&Properties"
 msgstr "&Поставке"
+
+#~ msgid "&New Card..."
+#~ msgstr "&Нова картица..."
+
+#~ msgid "New &Mailing List..."
+#~ msgstr "Ново &дописно друштво..."

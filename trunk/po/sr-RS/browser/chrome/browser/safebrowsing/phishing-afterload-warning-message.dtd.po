@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 00:04+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,8 +19,15 @@ msgid "Suspected Web Forgery"
 msgstr "Сумња се на мрежни фалсификат"
 
 #: safeb.palm.message.p1
-msgid "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;"
-msgstr "Ова је страна пријављена као мрежни фалсификат, направљен како би кориснике преварио да открију личне или финансијске податке. Унос ма каквих личних података у ову страницу може да доведе до крађе идентитета или другог облика преваре. &#160;"
+msgid ""
+"This page has been reported as a web forgery designed to trick users into "
+"sharing personal or financial information. Entering any personal information "
+"on this page may result in identity theft or other fraud. &#160;"
+msgstr ""
+"Ова је страна пријављена као мрежни фалсификат, направљен како би кориснике "
+"преварио да открију личне или финансијске податке. Унос ма каквих личних "
+"података у ову страницу може да доведе до крађе идентитета или другог облика "
+"преваре. &#160;"
 
 #: safeb.palm.message.p1.linkText
 msgid "Read more &#187;"
@@ -31,8 +38,14 @@ msgid "Read more &#133;"
 msgstr "Прочитајте више &#133;"
 
 #: safeb.palm.message.p2.start
-msgid "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about "
-msgstr "Ове врсте мрежних фалсификата користе се у преварама које се зову фишинг (phishing). У њима се лажна ел. места и ел. поруке користе како би имитирале изворе којима верујете. Можете да сазнате више "
+msgid ""
+"These types of web forgeries are used in scams known as phishing attacks, in "
+"which fraudulent web pages and emails are used to imitate sources you may "
+"trust. You can find out more about "
+msgstr ""
+"Ове врсте мрежних фалсификата користе се у преварама које се зову фишинг "
+"(phishing). У њима се лажна ел. места и ел. поруке користе како би имитирале "
+"изворе којима верујете. Можете да сазнате више "
 
 #: safeb.palm.message.p2.linkText
 msgid "how &brandShortName; protects you"
@@ -58,35 +71,72 @@ msgstr "Занемари ово упозорење"
 msgid "Close warning"
 msgstr "Затвори упозорење"
 
-#: safeb.palm.notforgery.label
-msgid "This isn't a web forgery"
-msgstr "Ово није фалсификат"
+#: safeb.palm.notforgery.label2
+msgid "This isn't a web forgery…"
+msgstr ""
 
-#: safeb.palm.addbutton.label
-#: safeb.palm.addbutton.tooltip
-msgid "Add to blacklist"
-msgstr "Додај на црну листу"
-
-#: safeb.palm.toolmenu.label
-msgid "Safe Browsing"
-msgstr "Безбедно сурфовање"
-
-#: safeb.palm.toolmenu.pref.label
-msgid "Preferences..."
-msgstr "Поставке..."
-
-#: safeb.palm.toolmenu.reportphishing.label
-msgid "Report phishing..."
-msgstr "Пријави фишинг..."
-
-#: safeb.palm.toolmenu.showphishingtestpage.label
-msgid "Open Test Page"
-msgstr "Отвори пробну страну"
-
-#: safeb.palm.provider.logo.tooltip
-msgid "Warning from Safe Browsing"
-msgstr "Упозорење од Безбедног сурфовања"
+#: safeb.palm.report.label
+msgid "Why was this site blocked?"
+msgstr ""
 
 #: safeb.urlbaricon.tooltip
 msgid "This page might be dangerous; click for details."
 msgstr "Ова страна може да буде опасна; притисните овде за детаље."
+
+#: safeb.blocked.malware.title
+msgid "Reported Attack Site!"
+msgstr ""
+
+# Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com)
+#: safeb.blocked.malware.shortDesc
+msgid ""
+"This web site at <span id='malware_sitename'/> has been reported as an "
+"attack site and has been blocked based on your security preferences."
+msgstr ""
+
+#: safeb.blocked.malware.longDesc
+msgid ""
+"<p>Attack sites try to install programs that steal private information, use "
+"your computer to attack others, or damage your system.</p><p>Some attack "
+"sites intentionally distribute harmful software, but many are compromised "
+"without the knowledge or permission of their owners.</p>"
+msgstr ""
+
+#: safeb.blocked.phishing.title
+msgid "Reported Web Forgery!"
+msgstr ""
+
+# Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com)
+#: safeb.blocked.phishing.shortDesc
+msgid ""
+"This web site at <span id='phishing_sitename'/> has been reported as a web "
+"forgery and has been blocked based on your security preferences."
+msgstr ""
+
+#: safeb.blocked.phishing.longDesc
+msgid ""
+"<p>Web forgeries are designed to trick you into revealing personal or "
+"financial information by imitating sources you may trust.</p><p>Entering any "
+"information on this web page may result in identity theft or other fraud.</p>"
+msgstr ""
+
+#~ msgid "This isn't a web forgery"
+#~ msgstr "Ово није фалсификат"
+
+#~ msgid "Add to blacklist"
+#~ msgstr "Додај на црну листу"
+
+#~ msgid "Safe Browsing"
+#~ msgstr "Безбедно сурфовање"
+
+#~ msgid "Preferences..."
+#~ msgstr "Поставке..."
+
+#~ msgid "Report phishing..."
+#~ msgstr "Пријави фишинг..."
+
+#~ msgid "Open Test Page"
+#~ msgstr "Отвори пробну страну"
+
+#~ msgid "Warning from Safe Browsing"
+#~ msgstr "Упозорење од Безбедног сурфовања"

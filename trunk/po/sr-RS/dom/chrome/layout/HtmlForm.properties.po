@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 20:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,8 +58,8 @@ msgid "Submit Query"
 msgstr "Проследи упит"
 
 #: Browse
-msgid "Browse..."
-msgstr "Претражи..."
+msgid "Browse…"
+msgstr ""
 
 #: FileUpload
 msgid "File Upload"
@@ -70,14 +70,25 @@ msgid "This is a searchable index. Enter search keywords:"
 msgstr "Унесите фразу за претрагу индекса:"
 
 #: ForgotPostWarning
-msgid "Form contains enctype=%S, but does not contain method=post.  Submitting normally with method=GET and no enctype instead."
-msgstr "Формулар садржи enctype=%S, али не садржи method=post. Прослеђујем са method=GET и без шифровања."
+msgid ""
+"Form contains enctype=%S, but does not contain method=post.  Submitting "
+"normally with method=GET and no enctype instead."
+msgstr ""
+"Формулар садржи enctype=%S, али не садржи method=post. Прослеђујем са "
+"method=GET и без шифровања."
 
 #: ForgotFileEnctypeWarning
-msgid "Form contains a file input, but is missing method=POST and enctype=multipart/form-data on the form.  The file will not be sent."
-msgstr "Формулар садржи унос датотеке, али недостаје method=POST и enctype=multipart/form-data.  Датотека неће бити послата."
+msgid ""
+"Form contains a file input, but is missing method=POST and enctype=multipart/"
+"form-data on the form.  The file will not be sent."
+msgstr ""
+"Формулар садржи унос датотеке, али недостаје method=POST и enctype=multipart/"
+"form-data.  Датотека неће бити послата."
 
 # LOCALIZATION NOTE (DefaultFormSubject): %S will be replaced with brandShortName
 #: DefaultFormSubject
 msgid "Form Post from %S"
 msgstr "Формулар је послат са %S"
+
+#~ msgid "Browse..."
+#~ msgstr "Претражи..."

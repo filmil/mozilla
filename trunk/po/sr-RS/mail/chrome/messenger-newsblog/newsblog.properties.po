@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-06-10 17:24+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,16 +16,16 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 #: subscribe-validating
-msgid "Verifying the RSS feed..."
-msgstr "Провера РСС довода..."
+msgid "Verifying the RSS feed…"
+msgstr ""
 
 #: subscribe-cancelSubscription
 msgid "Are you sure you wish to cancel subscribing to the current feed?"
 msgstr "Да ли сигурно желите да откажете претплату на овај довод?"
 
 #: subscribe-cancelSubscriptionTitle
-msgid "Subscribing to a Feed..."
-msgstr "Претплаћивање на довод..."
+msgid "Subscribing to a Feed…"
+msgstr ""
 
 #: subscribe-noFeedSelected
 msgid "<no RSS feed selected>"
@@ -55,17 +55,18 @@ msgstr "Тандербердов извозник у OPML"
 msgid "MyThunderbirdFeeds.opml"
 msgstr "МојиДоводи.opml"
 
-#LOCALIZATION NOTE: %S is the name of the OPML file the user tried to import.
+# LOCALIZATION NOTE: %S is the name of the OPML file the user tried to import.
 # LOCALIZATION NOTE: %S is the name of the OPML file the user tried to import.
 #: subscribe-errorInvalidOPMLFile
-msgid "Either %S is not a valid OPML file or there was an error importing the file."
+msgid ""
+"Either %S is not a valid OPML file or there was an error importing the file."
 msgstr "Или %S није исправна датотека или се јавила грешка при увозу датотеке."
 
 #: subscribe-OPMLExportOPMLFilesFilterText
 msgid "OPML Files"
 msgstr "OPML датотеке"
 
-#LOCALIZATION NOTE: %S is the name of the feed the user wants to unsubscribe from.
+# LOCALIZATION NOTE: %S is the name of the feed the user wants to unsubscribe from.
 # LOCALIZATION NOTE: %S is the name of the feed the user wants to unsubscribe from.
 #: subsribe-confirmFeedDeletionTitle
 msgid "Remove Feed"
@@ -103,3 +104,9 @@ msgstr "%S није исправан RSS довод."
 #: newsblog-getNewMailCheck
 msgid "Checking RSS feeds for new items"
 msgstr "Проверавам RSS довод за нове ставке"
+
+#~ msgid "Verifying the RSS feed..."
+#~ msgstr "Провера РСС довода..."
+
+#~ msgid "Subscribing to a Feed..."
+#~ msgstr "Претплаћивање на довод..."

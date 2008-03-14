@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 01:03+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,6 +77,10 @@ msgstr ""
 msgid "Import"
 msgstr "Увоз"
 
+#: importDialog.allTitle
+msgid "Import everything"
+msgstr ""
+
 #: importDialog.mailTitle
 msgid "Mail"
 msgstr "Пошта"
@@ -88,6 +92,10 @@ msgstr "Адресара"
 #: importDialog.settingsTitle
 msgid "Settings"
 msgstr "Подешавања"
+
+#: importDialog.filtersTitle
+msgid "Filters"
+msgstr ""
 
 #: window.width
 msgid ""
@@ -101,24 +109,29 @@ msgid "45em"
 msgstr ""
 
 #: importTitle.label
-msgid "&brandShortName; Mail Import Wizard"
-msgstr "Чаробњак за увоз порука у програму &brandShortName;"
+msgid "&brandShortName; Import Wizard"
+msgstr ""
 
 #: importDesc.label
-msgid "Import Mail, Address Books and Settings from other programs"
-msgstr "Увезите пошту, адресаре и подешавања из других програма"
+msgid "Import Mail, Address Books, Settings, and Filters from other programs"
+msgstr ""
 
 #: importDescription.label
-msgid "This wizard will import mail messages, address book entries, and/or preferences from other mail programs and common address book formats into &brandShortName; Mail."
-msgstr "Овај чаробњак ће увести пошту, уносе у адресару и (или) подешавања из других програма за електронску пошту и уобичајене формате адресара у програм &brandShortName;."
+msgid ""
+"This wizard will import mail messages, address book entries, preferences, "
+"and/or filters from other mail programs and common address book formats into "
+"&brandShortName;."
+msgstr ""
 
 #: importDescription2.label
-msgid "Once they have been imported, you will be able to access them from within &brandShortName; Mail and/or Address Book."
-msgstr "Када су једном увезени, можете им приступати из програма &brandShortName;."
+msgid ""
+"Once they have been imported, you will be able to access them from within "
+"&brandShortName;."
+msgstr ""
 
 #: selectDescription.label
-msgid "Please select the program from which you would like to import:"
-msgstr "Молимо изаберите програм из кога бисте желели да увезете:"
+msgid "Please select the type of file that you would like to import:"
+msgstr ""
 
 #: back.label
 msgid "&lt; Back"
@@ -137,27 +150,35 @@ msgid "Cancel"
 msgstr "Откажи"
 
 #: select.label
-msgid "Select the type of material to import:"
-msgstr "Изаберите врсту материјала који ће бити увезен:"
+msgid "or select the type of material to import:"
+msgstr ""
 
 #: title.label
 msgid "Title"
 msgstr "Наслов"
 
 #: processing.label
-msgid "Importing..."
-msgstr "Увоз..."
+msgid "Importing…"
+msgstr ""
 
 #: FieldDiscInputText1.label
-msgid "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work)."
-msgstr "Netscape Communicator 4.x садржи једну адресу за сваки унос, а &brandShortName; има две (Кућа и Посао)."
+msgid ""
+"Netscape Communicator 4.x has one mailing address for each card, while "
+"&brandShortName; has two (Home and Work)."
+msgstr ""
+"Netscape Communicator 4.x садржи једну адресу за сваки унос, а "
+"&brandShortName; има две (Кућа и Посао)."
 
 #: FieldDiscInputText2.label
-msgid "Select the category in which you want to store the imported mailing addresses:"
-msgstr "Изаберите категорију у коју желите да сачувате увезене електронске адресе:"
+msgid ""
+"Select the category in which you want to store the imported mailing "
+"addresses:"
+msgstr ""
+"Изаберите категорију у коју желите да сачувате увезене електронске адресе:"
 
 #: FieldDiscWarning.label
-msgid "This category will be used for all the entries of the selected address book: "
+msgid ""
+"This category will be used for all the entries of the selected address book: "
 msgstr "Ова категорија ће бити коришћена за све уносе у изабраном адресару:"
 
 #: importDialog.homeTitle
@@ -167,3 +188,33 @@ msgstr "Кућа"
 #: importDialog.workTitle
 msgid "Work"
 msgstr "Посао"
+
+#~ msgid "&brandShortName; Mail Import Wizard"
+#~ msgstr "Чаробњак за увоз порука у програму &brandShortName;"
+
+#~ msgid "Import Mail, Address Books and Settings from other programs"
+#~ msgstr "Увезите пошту, адресаре и подешавања из других програма"
+
+#~ msgid ""
+#~ "This wizard will import mail messages, address book entries, and/or "
+#~ "preferences from other mail programs and common address book formats into "
+#~ "&brandShortName; Mail."
+#~ msgstr ""
+#~ "Овај чаробњак ће увести пошту, уносе у адресару и (или) подешавања из "
+#~ "других програма за електронску пошту и уобичајене формате адресара у "
+#~ "програм &brandShortName;."
+
+#~ msgid ""
+#~ "Once they have been imported, you will be able to access them from within "
+#~ "&brandShortName; Mail and/or Address Book."
+#~ msgstr ""
+#~ "Када су једном увезени, можете им приступати из програма &brandShortName;."
+
+#~ msgid "Please select the program from which you would like to import:"
+#~ msgstr "Молимо изаберите програм из кога бисте желели да увезете:"
+
+#~ msgid "Select the type of material to import:"
+#~ msgstr "Изаберите врсту материјала који ће бити увезен:"
+
+#~ msgid "Importing..."
+#~ msgstr "Увоз..."

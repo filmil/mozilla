@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 22:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,13 +53,32 @@ msgstr ""
 msgid "about:config"
 msgstr "about:config"
 
-#: filterPrefs.label
-#: filterPrefs.accesskey
+# about:config warning page
+# LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful
+#: aboutWarningTitle.label
+msgid "This might void your warranty!"
+msgstr ""
+
+#: aboutWarningText.label
+msgid ""
+"Changing these advanced settings can be harmful to the stability, security, "
+"and performance of this application. You should only continue if you are "
+"sure of what you are doing."
+msgstr ""
+
+#: aboutWarningButton.label
+msgid "I'll be careful, I promise!"
+msgstr ""
+
+#: aboutWarningCheckbox.label
+msgid "Show this warning next time"
+msgstr ""
+
+#: filterPrefs.label filterPrefs.accesskey
 msgid "F&ilter:"
 msgstr "&Филтер:"
 
-#: showAll.label
-#: showAll.accesskey
+#: showAll.label showAll.accesskey
 msgid "Sho&w All"
 msgstr "Прикажи &све"
 
@@ -90,57 +109,59 @@ msgid "Click to select columns to display"
 msgstr "Кликните како би изабрали колону за приказ"
 
 # Context Menu
-#: copyName.label
-#: copyName.accesskey
-msgid "&Copy Name"
-msgstr "Умнож&и име"
+#: copyPref.key
+msgid "C"
+msgstr ""
 
-#: copyValue.label
-#: copyValue.accesskey
+#: copyPref.label copyPref.accesskey
+msgid "&Copy"
+msgstr ""
+
+#: copyName.label copyName.accesskey
+msgid "Copy &Name"
+msgstr ""
+
+#: copyValue.label copyValue.accesskey
 msgid "Copy &Value"
 msgstr "Умножи &вредност"
 
-#: modify.label
-#: modify.accesskey
+#: modify.label modify.accesskey
 msgid "&Modify"
 msgstr "&Измени"
 
-#: toggle.label
-#: toggle.accesskey
+#: toggle.label toggle.accesskey
 msgid "&Toggle"
 msgstr "&Пребаци"
 
-#: reset.label
-#: reset.accesskey
+#: reset.label reset.accesskey
 msgid "&Reset"
 msgstr "О&бнови"
 
-#: new.label
-#: new.accesskey
-msgid "&New"
-msgstr "&Ново"
+#: new.label new.accesskey
+msgid "Ne&w"
+msgstr ""
 
-#: string.label
-#: string.accesskey
+#: string.label string.accesskey
 msgid "&String"
 msgstr "&Стринг"
 
-#: integer.label
-#: integer.accesskey
+#: integer.label integer.accesskey
 msgid "&Integer"
 msgstr "Цео &број"
 
-#: boolean.label
-#: boolean.accesskey
+#: boolean.label boolean.accesskey
 msgid "&Boolean"
 msgstr "&Булово (boolean)"
 
-#: lock.label
-#: lock.accesskey
-msgid "&Lock"
-msgstr "&Закључај"
+# Context Menu
+#~ msgid "&Copy Name"
+#~ msgstr "Умнож&и име"
 
-#: unlock.label
-#: unlock.accesskey
-msgid "&Unlock"
-msgstr "&Откључај"
+#~ msgid "&New"
+#~ msgstr "&Ново"
+
+#~ msgid "&Lock"
+#~ msgstr "&Закључај"
+
+#~ msgid "&Unlock"
+#~ msgstr "&Откључај"

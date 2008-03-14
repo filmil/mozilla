@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-23 23:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,10 +68,13 @@ msgstr "*.xul"
 msgid "Applications"
 msgstr "Програми"
 
-#: dirTextInputLabel
-#: promptNewDirMessage
+#: dirTextInputLabel promptNewDirMessage
 msgid "Directory name:"
 msgstr "Име директоријума:"
+
+#: dirTextInputAccesskey
+msgid "n"
+msgstr ""
 
 #: confirmTitle
 msgid "Confirm"
@@ -101,8 +104,11 @@ msgstr "Изабери"
 msgid "No"
 msgstr "Не"
 
-#: errorOpenFileDoesntExistTitle
-#: errorOpeningFileTitle
+#: saveAsLabel
+msgid "Save As:"
+msgstr ""
+
+#: errorOpenFileDoesntExistTitle errorOpeningFileTitle
 msgid "Error opening %S"
 msgstr "Грешка при отварању %S"
 
@@ -117,10 +123,6 @@ msgstr "Грешка у приступу %S"
 #: errorDirDoesntExistMessage
 msgid "Directory %S doesn't exist"
 msgstr "Директоријум %S не постоји"
-
-#: errorDirNotReadableMessage
-msgid "Directory %S is not readable or does not exist."
-msgstr "Директоријум %S није читљив или не постоји."
 
 #: openWithoutPermissionMessage_file
 msgid "File %S is not readable"
@@ -146,14 +148,14 @@ msgstr "Датотека %S је недоступна за упис."
 msgid "Cannot create file. Directory %S is not writable."
 msgstr "Не могу да направим датотеку. Директоријум %S је недоступан за упис."
 
-#: errorNewDirDoesExistTitle
-#: errorCreateNewDirTitle
+#: errorNewDirDoesExistTitle errorCreateNewDirTitle
 msgid "Error creating %S"
 msgstr "Грешка при стварању %S"
 
 #: errorNewDirDoesExistMessage
 msgid "A file named %S already exists, directory cannot be created."
-msgstr "Датотека са именом %S већ постоји, директоријум не може бити направљен."
+msgstr ""
+"Датотека са именом %S већ постоји, директоријум не може бити направљен."
 
 #: errorCreateNewDirMessage
 msgid "Directory %S could not be created"
@@ -178,3 +180,6 @@ msgstr "Непозната грешка"
 #: errorPathProblemMessage
 msgid "An unknown error occured (path %S)"
 msgstr "Појавила се непозната грешка (путања %S)"
+
+#~ msgid "Directory %S is not readable or does not exist."
+#~ msgstr "Директоријум %S није читљив или не постоји."

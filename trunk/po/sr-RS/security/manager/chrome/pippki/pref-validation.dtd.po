@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-12-25 02:19+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,12 +73,16 @@ msgid "CRL"
 msgstr "ЛПС"
 
 #: validation.crl.description
-msgid "Use the CRL Manager to manage the Certificate Revocation Lists (CRL) that are stored in your certificate database."
-msgstr "Користите Менаџер сертификата за поређење Листе потврђених сертификата (ЛПС) који се чувају у Вашој бази сертификата."
+msgid ""
+"Use the CRL Manager to manage the Certificate Revocation Lists (CRL) that "
+"are stored in your certificate database."
+msgstr ""
+"Користите Менаџер сертификата за поређење Листе потврђених сертификата (ЛПС) "
+"који се чувају у Вашој бази сертификата."
 
 #: validation.managecrls.button
-msgid "Manage CRLs..."
-msgstr "Уреди ЛПС...."
+msgid "Manage CRLs…"
+msgstr ""
 
 #: validation.managecrls.accesskey
 msgid "M"
@@ -87,6 +91,12 @@ msgstr "у"
 #: validation.crlmanager.label
 msgid "Manage CRLs"
 msgstr "Уређење ЛПС"
+
+#: validation.crlmanager.description
+msgid ""
+"These Certificate Revocation Lists (CRL) are stored in your certificate "
+"database:"
+msgstr ""
 
 #: validation.crlname.label
 msgid "Name"
@@ -108,22 +118,15 @@ msgstr "Самоунапређење"
 msgid "Auto Update Status"
 msgstr "Статус самоунапређења"
 
-#: validation.deletecrl.label
-#: validation.deletecrl.accesskey
-#: disableOCSP.accesskey
+#: validation.deletecrl.label validation.deletecrl.accesskey
 msgid "&Delete"
 msgstr "&Уклони"
 
-#: validation.updatecrl.label
-#: validation.updatecrl.accesskey
-#: validation.crl.autoupdate.time.label1
-#: certOCSP.accesskey
+#: validation.updatecrl.label validation.updatecrl.accesskey
 msgid "&Update"
 msgstr "&Освежи"
 
-#: validation.advanced.label
-#: validation.advanced.accesskey
-#: edit.button
+#: validation.advanced.label validation.advanced.accesskey
 msgid "&Settings"
 msgstr "&Поставке"
 
@@ -136,7 +139,6 @@ msgid "Enable Automatic Update for this CRL"
 msgstr "Укључи аутоматску доградњу за ове ЛПС"
 
 #: validation.crl.autoupdate.time.label1
-#: validation.updatecrl.label
 msgid "Update"
 msgstr "Обнови"
 
@@ -189,7 +191,6 @@ msgid "Details of Last Update Failure: "
 msgstr "Детаљи о последњој грешци:"
 
 #: edit.button
-#: validation.advanced.label
 msgid "Settings"
 msgstr "Параметри"
 
@@ -197,33 +198,55 @@ msgstr "Параметри"
 msgid "OCSP"
 msgstr "OCSP"
 
-#: validation.ocsp.description
-msgid "&brandShortName; can use Online Certificate Status Protocol (OCSP) to verify certificates. Set &brandShortName; to use OCSP as follows:"
-msgstr "&brandShortName; може користити протокол прегледа статуса сертификата (OCSP) за проверу. Користи OSCP као:"
+#: enableOCSP.label enableOCSP.accesskey
+msgid ""
+"&Use the Online Certificate Status Protocol (OCSP) to confirm the current "
+"validity of certificates"
+msgstr ""
 
-#: disableOCSP.label
-#: disableOCSP.accesskey
-#: validation.deletecrl.accesskey
-msgid "&Do not use OCSP for certificate validation"
-msgstr "&Не користи OCSP за проверу сертификата"
+#: certOCSP2.label certOCSP2.accesskey
+msgid "&Validate a certificate if it specifies an OCSP server"
+msgstr ""
 
-#: certOCSP.label
-#: certOCSP.accesskey
-#: validation.updatecrl.accesskey
-msgid "&Use OCSP to validate only certificates that specify an OCSP service URL"
-msgstr "&Користи OCSP за проверу само сертификата чији је домен означен у служби OCSP"
+#: proxyOCSP2.label proxyOCSP2.accesskey
+msgid "V&alidate all certificates using the following OCSP server:"
+msgstr ""
 
-#: proxyOCSP.label
-#: proxyOCSP.accesskey
-msgid "Use &OCSP to validate all certificates using this URL and signer:"
-msgstr "Користи OCSP за про&веру свих сертификата употребом овог УРЛа и потписа:"
-
-#: serviceURL.label
-#: serviceURL.accesskey
+#: serviceURL.label serviceURL.accesskey
 msgid "&Service URL:"
 msgstr "URL &службе:"
 
-#: signingCA.label
-#: signingCA.accesskey
+#: signingCA.label signingCA.accesskey
 msgid "&Response Signer:"
 msgstr "&Потписник одговора:"
+
+#: validation.requireOCSP.description
+msgid "When an OCSP server connection fails, treat the certificate as invalid"
+msgstr ""
+
+#: validation.requireOCSP.accesskey
+msgid "W"
+msgstr ""
+
+#~ msgid "Manage CRLs..."
+#~ msgstr "Уреди ЛПС...."
+
+#~ msgid ""
+#~ "&brandShortName; can use Online Certificate Status Protocol (OCSP) to "
+#~ "verify certificates. Set &brandShortName; to use OCSP as follows:"
+#~ msgstr ""
+#~ "&brandShortName; може користити протокол прегледа статуса сертификата "
+#~ "(OCSP) за проверу. Користи OSCP као:"
+
+#~ msgid "&Do not use OCSP for certificate validation"
+#~ msgstr "&Не користи OCSP за проверу сертификата"
+
+#~ msgid ""
+#~ "&Use OCSP to validate only certificates that specify an OCSP service URL"
+#~ msgstr ""
+#~ "&Користи OCSP за проверу само сертификата чији је домен означен у служби "
+#~ "OCSP"
+
+#~ msgid "Use &OCSP to validate all certificates using this URL and signer:"
+#~ msgstr ""
+#~ "Користи OCSP за про&веру свих сертификата употребом овог УРЛа и потписа:"

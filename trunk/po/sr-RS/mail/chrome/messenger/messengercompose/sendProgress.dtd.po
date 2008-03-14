@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 01:09+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,21 +19,19 @@ msgstr ""
 msgid "Sending Messages"
 msgstr "Слање порука"
 
-#: titlePrefixSave
-msgid "Saving Messages -"
-msgstr "Чување порука - "
-
-#: titlePrefixSend
-msgid "Sending Messages -"
-msgstr "Слање порука -"
-
-#: status
+#: status.label
 msgid "Status:"
 msgstr "Статус:"
 
-#: progress
+#: progress.label
 msgid "Progress:"
 msgstr "Напредак:"
+
+#~ msgid "Saving Messages -"
+#~ msgstr "Чување порука - "
+
+#~ msgid "Sending Messages -"
+#~ msgstr "Слање порука -"
 
 # 
 # This string is used to format the text to the right of the progress
@@ -41,16 +39,13 @@ msgstr "Напредак:"
 # 
 # #1 will be replaced by the percentage of the file that has been saved
 #
-#: percentMsg
-msgid ""
-"_: \n"
-"#1&#037;"
-msgstr "#1&#037;"
+#~ msgid ""
+#~ "_: \n"
+#~ "#1&#037;"
+#~ msgstr "#1&#037;"
 
-#: messageSent
-msgid "Your message has been sent"
-msgstr "Ваша порука је послата"
+#~ msgid "Your message has been sent"
+#~ msgstr "Ваша порука је послата"
 
-#: messageSaved
-msgid "Your message has been saved"
-msgstr "Ваша порука је сачувана"
+#~ msgid "Your message has been saved"
+#~ msgstr "Ваша порука је сачувана"

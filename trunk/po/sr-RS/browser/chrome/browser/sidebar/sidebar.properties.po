@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,36 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
-
-#: addEngineConfirmTitle
-msgid "Add Search Engine"
-msgstr "Додавање механизма претраге"
-
-#: addEngineConfirmText
-msgid ""
-"Add %S to the list of engines available in the search bar?\n"
-"\n"
-"From: %S"
-msgstr ""
-"Додај %S у списак претраживача у траци за претраживање\n"
-"\n"
-"Са: %S"
-
-#: addEngineQuotedEngineName
-msgid "\"%S\""
-msgstr "\"%S\""
-
-#: addEngineDefaultEngineName
-msgid "a new search engine"
-msgstr "нови претраживач"
-
-#: addEngineUseNowText
-msgid "Start &using it right away"
-msgstr "Одмах &крени да га користиш"
-
-#: addEngineAddButtonLabel
-msgid "Add"
-msgstr "Додај"
 
 #: addMicsumGenConfirmTitle
 msgid "Add Microsummary Generator"
@@ -57,3 +27,27 @@ msgstr ""
 "Да ли да додам следећи генератор?\n"
 "\n"
 "Извор: %S"
+
+#~ msgid "Add Search Engine"
+#~ msgstr "Додавање механизма претраге"
+
+#~ msgid ""
+#~ "Add %S to the list of engines available in the search bar?\n"
+#~ "\n"
+#~ "From: %S"
+#~ msgstr ""
+#~ "Додај %S у списак претраживача у траци за претраживање\n"
+#~ "\n"
+#~ "Са: %S"
+
+#~ msgid "\"%S\""
+#~ msgstr "\"%S\""
+
+#~ msgid "a new search engine"
+#~ msgstr "нови претраживач"
+
+#~ msgid "Start &using it right away"
+#~ msgstr "Одмах &крени да га користиш"
+
+#~ msgid "Add"
+#~ msgstr "Додај"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-12 01:21+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,25 +19,23 @@ msgid "Import Wizard"
 msgstr "Чаробњак за увоз"
 
 #: importFrom.label
-msgid "Import Options, Account Settings, Addressbook and other data from:"
-msgstr "Увези подешавања, поставке налога, адресаре, и друге податке из:"
+msgid ""
+"Import Options, Account Settings, Address Book, Filters and other data from:"
+msgstr ""
 
 #: importFromUnix.label
-msgid "Import Preferences, Account Settings, Addressbook and other data from:"
-msgstr "Увези подешавања, поставке налога, адресар и друге податке из:"
+msgid "Import Preferences, Account Settings, Address Book and other data from:"
+msgstr ""
 
-#: importFromNothing.label
-#: importFromNothing.accesskey
+#: importFromNothing.label importFromNothing.accesskey
 msgid "&Don't import anything"
 msgstr "&Не увози ништа"
 
-#: importFromSeamonkey.label
-#: importFromSeamonkey.accesskey
+#: importFromSeamonkey.label importFromSeamonkey.accesskey
 msgid "&Netscape 6, 7 or Mozilla 1.x"
 msgstr "Netscape &6, 7 или Mozilla 1.x"
 
-#: importFromNetscape4.label
-#: importFromNetscape4.accesskey
+#: importFromNetscape4.label importFromNetscape4.accesskey
 msgid "Netscape &4.x"
 msgstr "Netscape &4.x"
 
@@ -48,13 +46,11 @@ msgstr "Netscape &4.x"
 # # @name OEIMPORT_NAME
 # # @loc None
 # # LOCALIZATION NOTE (2000): DONT_TRANSLATE
-#: importFromOExpress.label
-#: importFromOExpress.accesskey
+#: importFromOExpress.label importFromOExpress.accesskey
 msgid "O&utlook Express"
 msgstr "&Аутлук Експрес"
 
-#: importFromOutlook.label
-#: importFromOutlook.accesskey
+#: importFromOutlook.label importFromOutlook.accesskey
 msgid "&Outlook"
 msgstr "А&утлук"
 
@@ -64,8 +60,7 @@ msgstr "А&утлук"
 # Short name of import module
 # # @name EUDORAIMPORT_NAME
 # # @loc None
-#: importFromEudora.label
-#: importFromEudora.accesskey
+#: importFromEudora.label importFromEudora.accesskey
 msgid "&Eudora"
 msgstr "&Еудора"
 
@@ -82,12 +77,12 @@ msgid "Select which items to import:"
 msgstr "Изаберите ставке за увоз:"
 
 #: migrating.title
-msgid "Importing..."
-msgstr "Увозим..."
+msgid "Importing…"
+msgstr ""
 
 #: migrating.label
-msgid "The following items are currently being imported..."
-msgstr "Увозе се наведене ставке..."
+msgid "The following items are currently being imported…"
+msgstr ""
 
 #: selectProfile.title
 msgid "Select Profile"
@@ -104,3 +99,16 @@ msgstr "Увоз је завршен"
 #: done.label
 msgid "The following items were successfully imported:"
 msgstr "Следеће ставке су успешно увезене:"
+
+#~ msgid "Import Options, Account Settings, Addressbook and other data from:"
+#~ msgstr "Увези подешавања, поставке налога, адресаре, и друге податке из:"
+
+#~ msgid ""
+#~ "Import Preferences, Account Settings, Addressbook and other data from:"
+#~ msgstr "Увези подешавања, поставке налога, адресар и друге податке из:"
+
+#~ msgid "Importing..."
+#~ msgstr "Увозим..."
+
+#~ msgid "The following items are currently being imported..."
+#~ msgstr "Увозе се наведене ставке..."

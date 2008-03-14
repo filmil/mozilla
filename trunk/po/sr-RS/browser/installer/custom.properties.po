@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-30 16:01-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,28 +53,31 @@ msgstr ""
 # This file must be saved as UTF8
 # Accesskeys are defined by prefixing the letter that is to be used for the
 # accesskey with an ampersand (e.g. &).
-# Do not replace ${BrandShortName} or ${BrandFullName} with a custom string.
+# Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+# custom string and always use the same one as used by the en-US files.
+# $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+# for double ampersand) and prevents the letter following the ampersand from
+# being used as an accesskey.
 # You can use \n to create a newline in the string but only when the string
 # from en-US contains a \n.
 #: REG_APP_DESC
-msgid "${BrandShortName} delivers safe, easy web browsing. A familiar user interface, enhanced security features including protection from online identity theft, and integrated search let you get the most out of the web."
-msgstr "Програм ${BrandShortName} омогућава лак и безбедан преглед веба. Препознатљиви коирсничко сучеље, напредне безбедносне могућности укључујучи заштиту од крађе идентитета, и интегрисана претрага омогућавају Вам да извучете максимум из веба."
+msgid ""
+"$BrandShortName delivers safe, easy web browsing. A familiar user interface, "
+"enhanced security features including protection from online identity theft, "
+"and integrated search let you get the most out of the web."
+msgstr ""
 
 #: OPTIONAL_COMPONENTS_TITLE
 msgid "Choose Optional Components"
 msgstr "Изборне компоненте"
 
 #: OPTIONAL_COMPONENTS_SUBTITLE
-msgid "Choose which features of $(^NameDA) you want to install."
-msgstr "Изаберите делове програма $(^NameDA) које желите да инсталирате."
+msgid "Choose which features of $BrandShortName you want to install."
+msgstr ""
 
 #: OPTIONAL_COMPONENTS_LABEL
 msgid "Optional Components:"
 msgstr "Изборне компоненте:"
-
-#: APP_DESC
-msgid "Required files for the ${BrandShortName} application"
-msgstr "Неопходне датотеке за програм ${BrandShortName}"
 
 #: DOMI_TITLE
 msgid "DOM Inspector"
@@ -84,17 +87,13 @@ msgstr "DOM инспектор"
 msgid "Inspects the structure and properties of a window and its contents."
 msgstr "Прегледа структуру и особине прозора и његовог садржаја."
 
-#: QFA_TITLE
-msgid "Quality Feedback Agent"
-msgstr "Агент за повратне информације"
+#: CONTEXT_OPTIONS
+msgid "$BrandShortName &Options"
+msgstr ""
 
-#: QFA_TEXT
-msgid "Sends information about program crashes to Mozilla."
-msgstr "Шаље податке о програмским грешкама Мозили."
-
-#: OPTIONS
-msgid "$(^NameDA) &Options"
-msgstr "&Опције програма $(^NameDA)"
+#: CONTEXT_SAFE_MODE
+msgid "$BrandShortName &Safe Mode"
+msgstr ""
 
 #: SAFE_MODE
 msgid "Safe Mode"
@@ -108,6 +107,10 @@ msgstr "Врста инсталације"
 msgid "Choose setup options"
 msgstr "Избор опција за инсталацију"
 
+#: OPTIONS_MAKE_DEFAULT
+msgid "&Use $BrandShortName as my default web browser"
+msgstr ""
+
 #: SHORTCUTS_PAGE_TITLE
 msgid "Set Up Shortcuts"
 msgstr "Прављење скраћеница"
@@ -116,37 +119,53 @@ msgstr "Прављење скраћеница"
 msgid "Create Program Icons"
 msgstr "Прављење сличица за програме"
 
+#: SUMMARY_PAGE_TITLE
+msgid "Summary"
+msgstr ""
+
+#: SUMMARY_PAGE_SUBTITLE
+msgid "Ready to start installing $BrandShortName"
+msgstr ""
+
+#: SUMMARY_INSTALLED_TO
+msgid "$BrandShortName will be installed to the following location:"
+msgstr ""
+
+#: SUMMARY_REBOOT_REQUIRED_INSTALL
+msgid ""
+"A restart of your computer may be required to complete the installation."
+msgstr ""
+
+#: SUMMARY_REBOOT_REQUIRED_UNINSTALL
+msgid "A restart of your computer may be required to complete the uninstall."
+msgstr ""
+
+#: SUMMARY_MAKE_DEAFULT
+msgid "$BrandShortName will be set as your default web browser."
+msgstr ""
+
+#: SUMMARY_CLICK
+msgid "Click Install to continue."
+msgstr ""
+
 #: SURVEY_TEXT
-msgid "&Tell us what you thought of ${BrandShortName}"
-msgstr "О&цените програм ${BrandShortName}"
+msgid "&Tell us what you thought of $BrandShortName"
+msgstr ""
 
 #: LAUNCH_TEXT
-msgid "&Launch ${BrandFullName} now"
-msgstr "&Покрени програм ${BrandFullName}"
+msgid "&Launch $BrandShortName now"
+msgstr ""
 
 #: WARN_APP_RUNNING_INSTALL
 msgid ""
-"${BrandFullName} must be closed to proceed with the installation.\n"
+"$BrandShortName must be closed to proceed with the installation.\n"
 "\n"
-"Click \"OK\" to exit ${BrandFullName} automatically and continue."
+"Click \"OK\" to exit $BrandShortName automatically and continue."
 msgstr ""
-"Програм ${BrandFullName} мора бити затворен да би се инсталација наставила.\n"
-"\n"
-"Притисните „У реду‟ да окончате програм ${BrandFullName} и аутоматски наставите."
-
-#: WARN_APP_RUNNING_UNINSTALL
-msgid ""
-"${BrandFullName} must be closed to proceed with the uninstall.\n"
-"\n"
-"Click \"OK\" to exit ${BrandFullName} automatically and continue."
-msgstr ""
-"Програм ${BrandFullName} мора бити затворен да би се деинсталација наставила.\n"
-"\n"
-"Притисните „У реду‟ да окончате програм ${BrandFullName} и аутоматски наставите."
 
 #: CREATE_ICONS_DESC
-msgid "Create icons for ${BrandShortName}:"
-msgstr "Прављење сличица за програм ${BrandShortName}:"
+msgid "Create icons for $BrandShortName:"
+msgstr ""
 
 #: ICONS_DESKTOP
 msgid "On my &Desktop"
@@ -159,6 +178,28 @@ msgstr "У директоријуму &покретачког менија"
 #: ICONS_QUICKLAUNCH
 msgid "In my &Quick Launch bar"
 msgstr "У траци за &брзо покретање"
+
+#: WARN_MANUALLY_CLOSE_APP_INSTALL
+msgid ""
+"$BrandShortName must be closed to proceed with the installation.\n"
+"\n"
+"Please close $BrandShortName to continue."
+msgstr ""
+
+#: WARN_MANUALLY_CLOSE_APP_UNINSTALL
+msgid ""
+"$BrandShortName must be closed to proceed with the uninstall.\n"
+"\n"
+"Please close $BrandShortName to continue."
+msgstr ""
+
+#: WARN_MANUALLY_CLOSE_APP_LAUNCH
+msgid ""
+"$BrandShortName is already running.\n"
+"\n"
+"Please close $BrandShortName prior to launching the version you have just "
+"installed."
+msgstr ""
 
 #: WARN_WRITE_ACCESS
 msgid ""
@@ -180,25 +221,84 @@ msgstr ""
 "\n"
 "Притисните „У реду‟ да бисте изабрали неко друго место."
 
+#: WARN_UNSUPPORTED_MSG
+msgid ""
+"Sorry, $BrandShortName can't be installed. This version of $BrandShortName "
+"requires ${MinUnsupportedVer} or newer."
+msgstr ""
+
+#: WARN_RESTART_REQUIRED_UNINSTALL
+msgid ""
+"Your computer must be restarted to complete a previous uninstall of "
+"$BrandShortName. Do you want to reboot now?"
+msgstr ""
+
+#: WARN_RESTART_REQUIRED_UPGRADE
+msgid ""
+"Your computer must be restarted to complete a previous upgrade of "
+"$BrandShortName. Do you want to reboot now?"
+msgstr ""
+
+#: ERROR_CREATE_DIRECTORY_PREFIX
+msgid "Error creating directory:"
+msgstr ""
+
+#: ERROR_CREATE_DIRECTORY_SUFFIX
+msgid ""
+"Click Cancel to stop the installation or\n"
+"Retry to try again."
+msgstr ""
+
+#: UN_CONFIRM_PAGE_TITLE
+msgid "Uninstall $BrandFullName"
+msgstr ""
+
+#: UN_CONFIRM_PAGE_SUBTITLE
+msgid "Remove $BrandFullName from your computer."
+msgstr ""
+
+#: UN_CONFIRM_UNINSTALLED_FROM
+msgid "$BrandShortName will be uninstalled from the following location:"
+msgstr ""
+
+#: UN_CONFIRM_CLICK
+msgid "Click Uninstall to continue."
+msgstr ""
+
+#: UN_REMOVE_PROFILES
+msgid "&Remove my $BrandShortName personal data and customizations"
+msgstr ""
+
+#: UN_REMOVE_PROFILES_DESC
+msgid ""
+"This will permanently remove your bookmarks, saved passwords, cookies and "
+"customizations. You may wish to keep this information if you plan on "
+"installing another version of $BrandShortName in the future."
+msgstr ""
+
+#: BANNER_CHECK_EXISTING
+msgid "Checking existing installation…"
+msgstr ""
+
 #: STATUS_INSTALL_APP
-msgid "Installing ${BrandShortName}..."
-msgstr "Инсталација програма ${BrandShortName}..."
+msgid "Installing $BrandShortName…"
+msgstr ""
 
 #: STATUS_INSTALL_LANG
-msgid "Installing Language Files (${AB_CD})..."
-msgstr "Инсталација језичких датотека (${AB_CD})..."
+msgid "Installing Language Files (${AB_CD})…"
+msgstr ""
 
 #: STATUS_INSTALL_OPTIONAL
-msgid "Installing Optional Components..."
-msgstr "Инсталација изборних компоненти..."
+msgid "Installing Optional Components…"
+msgstr ""
 
 #: STATUS_UNINSTALL_MAIN
-msgid "Uninstalling ${BrandShortName}..."
-msgstr "Деинсталација програма ${BrandShortName}..."
+msgid "Uninstalling $BrandShortName…"
+msgstr ""
 
 #: STATUS_CLEANUP
-msgid "A Little Housekeeping..."
-msgstr "Сређивање..."
+msgid "A Little Housekeeping…"
+msgstr ""
 
 # _DESC strings support approximately 65 characters per line.
 # One line
@@ -208,8 +308,8 @@ msgstr "Изаберите жељену врсту инсталације, а з
 
 # One line
 #: OPTION_STANDARD_DESC
-msgid "${BrandShortName} will be installed with the most common options."
-msgstr "Програм ${BrandShortName} ће бити инсталиран са најчешће коришћеним опцијама."
+msgid "$BrandShortName will be installed with the most common options."
+msgstr ""
 
 #: OPTION_STANDARD_RADIO
 msgid "&Standard"
@@ -217,8 +317,8 @@ msgstr "&Стандардна"
 
 # One line
 #: OPTION_COMPLETE_DESC
-msgid "${BrandShortName} will be installed with all available options."
-msgstr "Програм ${BrandShortName} ће бити инсталиран са свим доступним опцијама."
+msgid "$BrandShortName will be installed with all available options."
+msgstr ""
 
 #: OPTION_COMPLETE_RADIO
 msgid "C&omplete"
@@ -226,9 +326,102 @@ msgstr "&Потпуна"
 
 # Two lines
 #: OPTION_CUSTOM_DESC
-msgid "You may choose individual options to be installed. Recommended for experienced users."
-msgstr "Можете да изаберете опције које ће бити инсталиране.  Препоручује се за искусним корисницима."
+msgid ""
+"You may choose individual options to be installed. Recommended for "
+"experienced users."
+msgstr ""
+"Можете да изаберете опције које ће бити инсталиране.  Препоручује се за "
+"искусним корисницима."
 
 #: OPTION_CUSTOM_RADIO
 msgid "&Custom"
 msgstr "П&роизвољна"
+
+# LOCALIZATION NOTE:
+# This file must be saved as UTF8
+# Accesskeys are defined by prefixing the letter that is to be used for the
+# accesskey with an ampersand (e.g. &).
+# Do not replace ${BrandShortName} or ${BrandFullName} with a custom string.
+# You can use \n to create a newline in the string but only when the string
+# from en-US contains a \n.
+#~ msgid ""
+#~ "${BrandShortName} delivers safe, easy web browsing. A familiar user "
+#~ "interface, enhanced security features including protection from online "
+#~ "identity theft, and integrated search let you get the most out of the web."
+#~ msgstr ""
+#~ "Програм ${BrandShortName} омогућава лак и безбедан преглед веба. "
+#~ "Препознатљиви коирсничко сучеље, напредне безбедносне могућности "
+#~ "укључујучи заштиту од крађе идентитета, и интегрисана претрага "
+#~ "омогућавају Вам да извучете максимум из веба."
+
+#~ msgid "Choose which features of $(^NameDA) you want to install."
+#~ msgstr "Изаберите делове програма $(^NameDA) које желите да инсталирате."
+
+#~ msgid "Required files for the ${BrandShortName} application"
+#~ msgstr "Неопходне датотеке за програм ${BrandShortName}"
+
+#~ msgid "Quality Feedback Agent"
+#~ msgstr "Агент за повратне информације"
+
+#~ msgid "Sends information about program crashes to Mozilla."
+#~ msgstr "Шаље податке о програмским грешкама Мозили."
+
+#~ msgid "$(^NameDA) &Options"
+#~ msgstr "&Опције програма $(^NameDA)"
+
+#~ msgid "&Tell us what you thought of ${BrandShortName}"
+#~ msgstr "О&цените програм ${BrandShortName}"
+
+#~ msgid "&Launch ${BrandFullName} now"
+#~ msgstr "&Покрени програм ${BrandFullName}"
+
+#~ msgid ""
+#~ "${BrandFullName} must be closed to proceed with the installation.\n"
+#~ "\n"
+#~ "Click \"OK\" to exit ${BrandFullName} automatically and continue."
+#~ msgstr ""
+#~ "Програм ${BrandFullName} мора бити затворен да би се инсталација "
+#~ "наставила.\n"
+#~ "\n"
+#~ "Притисните „У реду‟ да окончате програм ${BrandFullName} и аутоматски "
+#~ "наставите."
+
+#~ msgid ""
+#~ "${BrandFullName} must be closed to proceed with the uninstall.\n"
+#~ "\n"
+#~ "Click \"OK\" to exit ${BrandFullName} automatically and continue."
+#~ msgstr ""
+#~ "Програм ${BrandFullName} мора бити затворен да би се деинсталација "
+#~ "наставила.\n"
+#~ "\n"
+#~ "Притисните „У реду‟ да окончате програм ${BrandFullName} и аутоматски "
+#~ "наставите."
+
+#~ msgid "Create icons for ${BrandShortName}:"
+#~ msgstr "Прављење сличица за програм ${BrandShortName}:"
+
+#~ msgid "Installing ${BrandShortName}..."
+#~ msgstr "Инсталација програма ${BrandShortName}..."
+
+#~ msgid "Installing Language Files (${AB_CD})..."
+#~ msgstr "Инсталација језичких датотека (${AB_CD})..."
+
+#~ msgid "Installing Optional Components..."
+#~ msgstr "Инсталација изборних компоненти..."
+
+#~ msgid "Uninstalling ${BrandShortName}..."
+#~ msgstr "Деинсталација програма ${BrandShortName}..."
+
+#~ msgid "A Little Housekeeping..."
+#~ msgstr "Сређивање..."
+
+# One line
+#~ msgid "${BrandShortName} will be installed with the most common options."
+#~ msgstr ""
+#~ "Програм ${BrandShortName} ће бити инсталиран са најчешће коришћеним "
+#~ "опцијама."
+
+# One line
+#~ msgid "${BrandShortName} will be installed with all available options."
+#~ msgstr ""
+#~ "Програм ${BrandShortName} ће бити инсталиран са свим доступним опцијама."

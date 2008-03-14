@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 19:26+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,7 +89,6 @@ msgid "Every time it is needed"
 msgstr "Сваки пут, када се деси"
 
 #: managepassword.askeverytime.accesskey
-#: encryptExpire.accesskey
 msgid "E"
 msgstr "E"
 
@@ -128,12 +127,16 @@ msgid "Change Master Password"
 msgstr "Промена главне лозинке"
 
 #: changepassword.text
-msgid "Your master password protects sensitive information such as web passwords and certificates."
-msgstr "Ваша главна лозинка штити личне податке (нпр. лозинке за сајтове и сертификате)."
+msgid ""
+"Your master password protects sensitive information such as web passwords "
+"and certificates."
+msgstr ""
+"Ваша главна лозинка штити личне податке (нпр. лозинке за сајтове и "
+"сертификате)."
 
 #: changepassword.button
-msgid "Change Password..."
-msgstr "Измени лозинку..."
+msgid "Change Password…"
+msgstr ""
 
 #: changepassword.accesskey
 msgid "C"
@@ -144,8 +147,10 @@ msgid "Reset Master Password"
 msgstr "Врати главну лозинку"
 
 #: resetpassword.text
-msgid "If you reset your master password, all of your stored Web and e-mail passwords, form data, personal certificates, and private keys will be lost."
-msgstr "Ако обновите главну лозинку, све ваше сачуване лозинке за ел. пошту и веб, садржај формулара, лични сертификати и кључеви биће изгубљени."
+msgid ""
+"If you reset your master password, all of your stored web and e-mail "
+"passwords, form data, personal certificates, and private keys will be lost."
+msgstr ""
 
 #: resetpassword.button
 msgid "Reset Password"
@@ -155,8 +160,16 @@ msgstr "Обнављање шифре"
 msgid "R"
 msgstr "R"
 
-#: encryptExpire.label
-#: encryptExpire.accesskey
-#: managepassword.askeverytime.accesskey
-msgid "&Expire master password after each use."
-msgstr "&Принуди на замену главне лозинке после сваке употребе."
+#~ msgid "Change Password..."
+#~ msgstr "Измени лозинку..."
+
+#~ msgid ""
+#~ "If you reset your master password, all of your stored Web and e-mail "
+#~ "passwords, form data, personal certificates, and private keys will be "
+#~ "lost."
+#~ msgstr ""
+#~ "Ако обновите главну лозинку, све ваше сачуване лозинке за ел. пошту и "
+#~ "веб, садржај формулара, лични сертификати и кључеви биће изгубљени."
+
+#~ msgid "&Expire master password after each use."
+#~ msgstr "&Принуди на замену главне лозинке после сваке употребе."

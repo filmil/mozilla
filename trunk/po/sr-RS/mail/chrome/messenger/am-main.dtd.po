@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 00:57+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,8 +20,7 @@ msgstr ""
 msgid "Account Settings"
 msgstr "Подешавања налога"
 
-#: accountName.label
-#: accountName.accesskey
+#: accountName.label accountName.accesskey
 msgid "Account &Name:"
 msgstr "&Корисничко име:"
 
@@ -34,62 +33,56 @@ msgid "Default Identity"
 msgstr "Подразумевани идентитет"
 
 #: identityDesc.label
-msgid "Each account has an identity, which is the information that other people see when they read your messages."
-msgstr "Сваки налог има идентитет, податке које друге особе виде када читају Ваше поруке."
+msgid ""
+"Each account has an identity, which is the information that other people see "
+"when they read your messages."
+msgstr ""
+"Сваки налог има идентитет, податке које друге особе виде када читају Ваше "
+"поруке."
 
-#: name.label
-#: name.accesskey
+#: name.label name.accesskey
 msgid "&Your Name:"
 msgstr "&Ваше име:"
 
-#: email.label
-#: email.accesskey
+#: email.label email.accesskey
 msgid "&Email Address:"
 msgstr "&Ел. адреса:"
 
-#: replyTo.label
-#: replyTo.accesskey
+#: replyTo.label replyTo.accesskey
 msgid "Reply-to Addre&ss:"
 msgstr "Адреса за &одговор (Reply-to):"
 
-#: organization.label
-#: organization.accesskey
+#: organization.label organization.accesskey
 msgid "&Organization:"
 msgstr "&Установа:"
 
-#: signature.label
-#: signature.accesskey
+#: signature.label signature.accesskey
 msgid "A&ttach this signature:"
 msgstr "&Приложи овај потпис:"
 
 #: edit.label
-msgid "Edit..."
-msgstr "Уреди..."
+msgid "Edit…"
+msgstr ""
 
-#: choose.label
-#: choose.accesskey
-msgid "&Choose..."
-msgstr "&Избор..."
+#: choose.label choose.accesskey
+msgid "&Choose…"
+msgstr ""
 
-#: editVCard.label
-#: editVCard.accesskey
-msgid "E&dit Card..."
-msgstr "&Уреди визиткарту..."
+#: editVCard.label editVCard.accesskey
+msgid "E&dit Card…"
+msgstr ""
 
-#: attachVCard.label
-#: attachVCard.accesskey
+#: attachVCard.label attachVCard.accesskey
 msgid ""
 "_: do not translate \"vCard\" in below line\n"
 "Attach my &vCard to messages"
 msgstr "Приложи моју &визиткарту уз поруку"
 
-#: manageIdentities.label
-#: manageIdentities.accesskey
-msgid "&Manage Identities..."
-msgstr "&Управљање идентитетима..."
+#: manageIdentities.label manageIdentities.accesskey
+msgid "&Manage Identities…"
+msgstr ""
 
-#: smtpName.label
-#: smtpName.accesskey
+#: smtpName.label smtpName.accesskey
 msgid ""
 "_: do not translate \"SMTP\" in below line\n"
 "O&utgoing Server (SMTP):"
@@ -98,3 +91,15 @@ msgstr "Од&лазни сервер (SMTP):"
 #: smtpDefaultServer.label
 msgid "Use Default Server"
 msgstr "Користи изворни сервер"
+
+#~ msgid "Edit..."
+#~ msgstr "Уреди..."
+
+#~ msgid "&Choose..."
+#~ msgstr "&Избор..."
+
+#~ msgid "E&dit Card..."
+#~ msgstr "&Уреди визиткарту..."
+
+#~ msgid "&Manage Identities..."
+#~ msgstr "&Управљање идентитетима..."

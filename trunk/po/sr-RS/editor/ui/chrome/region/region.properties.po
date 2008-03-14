@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 16:44-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,9 +18,14 @@ msgstr ""
 # editor.js
 # editor.properties
 #: editor.throbber.url
-msgid "http://www.mozilla.org/projects/seamonkey/"
-msgstr "http://www.mozilla.org/projects/seamonkey/"
+msgid "http://www.seamonkey-project.org/"
+msgstr ""
 
-#: editor.spellcheckers.url
-msgid "https://addons.mozilla.org/en-US/seamonkey/1.1/dictionaries/"
-msgstr "https://addons.mozilla.org/en-US/seamonkey/1.1/dictionaries/"
+#
+# editor.js
+# editor.properties
+#~ msgid "http://www.mozilla.org/projects/seamonkey/"
+#~ msgstr "http://www.mozilla.org/projects/seamonkey/"
+
+#~ msgid "https://addons.mozilla.org/en-US/seamonkey/1.1/dictionaries/"
+#~ msgstr "https://addons.mozilla.org/en-US/seamonkey/1.1/dictionaries/"

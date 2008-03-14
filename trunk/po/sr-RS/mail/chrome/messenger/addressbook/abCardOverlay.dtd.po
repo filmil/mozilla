@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,6 +13,227 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
+
+# Contact Tab
+#: Contact.tab
+msgid "Contact"
+msgstr "Контакт"
+
+#: Contact.accesskey
+msgid "C"
+msgstr ""
+
+#: Name.box
+msgid "Name"
+msgstr "Име"
+
+#: NameField1.label NameField1.accesskey
+msgid "&First:"
+msgstr "&Име:"
+
+#: NameField2.label NameField2.accesskey
+msgid "&Last:"
+msgstr "&Презиме:"
+
+#: PhoneticField1.label PhoneticField2.label
+msgid "Phonetic:"
+msgstr "Изговор:"
+
+#: DisplayName.label DisplayName.accesskey
+msgid "&Display:"
+msgstr "&Приказано:"
+
+#: NickName.label NickName.accesskey
+msgid "&Nickname:"
+msgstr "&Надимак:"
+
+#: Internet.box
+msgid "Internet"
+msgstr "Интернет"
+
+#: PrimaryEmail.label PrimaryEmail.accesskey
+msgid "&Email:"
+msgstr "&Ел. пошта:"
+
+#: SecondEmail.label SecondEmail.accesskey
+msgid "Add&itional Email:"
+msgstr ""
+
+#: PreferMailFormat.label PreferMailFormat.accesskey
+msgid "P&refers to receive messages formatted as:"
+msgstr "&Жели да прима поруке форматиране као:"
+
+#: PlainText.label
+msgid "Plain Text"
+msgstr "Обичан текст"
+
+#: HTML.label
+msgid "HTML"
+msgstr "HTML"
+
+# # @name IMAP_UNKNOWN_USER
+# # @loc None
+#: Unknown.label
+msgid "Unknown"
+msgstr "Непознато"
+
+#: ScreenName.label ScreenName.accesskey
+msgid "&Screen Name:"
+msgstr "&Екранско име:"
+
+#: allowRemoteContent.label allowRemoteContent.accesskey
+msgid "Allo&w remote images in HTML mail."
+msgstr ""
+
+#: Phones.box
+msgid "Phones"
+msgstr "Телефони"
+
+#: WorkPhone.label WorkPhone.accesskey
+msgid "Wor&k:"
+msgstr ""
+
+#: HomePhone.label HomePhone.accesskey
+msgid "H&ome:"
+msgstr ""
+
+#: FaxNumber.label FaxNumber.accesskey
+msgid "Fa&x:"
+msgstr "&Факс:"
+
+#: PagerNumber.label PagerNumber.accesskey
+msgid "&Pager:"
+msgstr "&Пејџер:"
+
+#: CellularNumber.label CellularNumber.accesskey
+msgid "&Mobile:"
+msgstr "&Мобилни:"
+
+# Address Tab
+#: Address.tab
+msgid "Address"
+msgstr "Адреса"
+
+#: Address.accesskey
+msgid "A"
+msgstr ""
+
+#: Home.box
+msgid "Home"
+msgstr "Кућа"
+
+#: HomeAddress.label HomeAddress.accesskey
+msgid "A&ddress:"
+msgstr ""
+
+#: HomeAddress2.label
+msgid "_: HomeAddress2.label\n"
+msgstr ""
+
+#: HomeAddress2.accesskey
+msgid "_: HomeAddress2.accesskey\n"
+msgstr ""
+
+#: HomeCity.label HomeCity.accesskey
+msgid "Cit&y:"
+msgstr ""
+
+#: HomeState.label HomeState.accesskey
+msgid "&State/Province:"
+msgstr ""
+
+#: HomeZipCode.label HomeZipCode.accesskey
+msgid "&ZIP/Postal Code:"
+msgstr ""
+
+#: HomeCountry.label HomeCountry.accesskey
+msgid "Co&untry:"
+msgstr ""
+
+#: HomeWebPage.label HomeWebPage.accesskey
+msgid "&Web Page:"
+msgstr ""
+
+#: Work.box
+msgid "Work"
+msgstr "Посао"
+
+#: JobTitle.label JobTitle.accesskey
+msgid "Titl&e:"
+msgstr ""
+
+#: Department.label Department.accesskey
+msgid "Depart&ment:"
+msgstr ""
+
+#: Company.label Company.accesskey
+msgid "&Organization:"
+msgstr ""
+
+#: WorkAddress.label WorkAddress.accesskey
+msgid "Add&ress:"
+msgstr ""
+
+#: WorkAddress2.label
+msgid "_: WorkAddress2.label\n"
+msgstr ""
+
+#: WorkAddress2.accesskey
+msgid "_: WorkAddress2.accesskey\n"
+msgstr ""
+
+#: WorkCity.label WorkCity.accesskey
+msgid "C&ity:"
+msgstr ""
+
+#: WorkState.label WorkState.accesskey
+msgid "State/Pro&vince:"
+msgstr ""
+
+#: WorkZipCode.label WorkZipCode.accesskey
+msgid "ZI&P/Postal Code:"
+msgstr ""
+
+#: WorkCountry.label WorkCountry.accesskey
+msgid "Cou&ntry:"
+msgstr ""
+
+#: WorkWebPage.label WorkWebPage.accesskey
+msgid "We&b Page:"
+msgstr ""
+
+# Other Tab
+#: Other.tab
+msgid "Other"
+msgstr "Остало"
+
+#: Other.accesskey
+msgid "h"
+msgstr ""
+
+#: Custom1.label Custom1.accesskey
+msgid "Custom &1:"
+msgstr "Произвољно &1:"
+
+#: Custom2.label Custom2.accesskey
+msgid "Custom &2:"
+msgstr "Произвољно &2:"
+
+#: Custom3.label Custom3.accesskey
+msgid "Custom &3:"
+msgstr "Произвољно &3:"
+
+#: Custom4.label Custom4.accesskey
+msgid "Custom &4:"
+msgstr "Произвољно &4:"
+
+#: Notes.box
+msgid "Notes"
+msgstr "Белешке"
+
+#: Notes.accesskey
+msgid "N"
+msgstr ""
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -51,209 +272,44 @@ msgstr ""
 # 
 # ***** END LICENSE BLOCK *****
 # Labels
-#: chooseAddressBook.label
-#: chooseAddressBook.accesskey
-msgid "&Add to: "
-msgstr "&Додај у:"
+#~ msgid "&Add to: "
+#~ msgstr "&Додај у:"
 
-# Contact Tab
-#: Contact.tab
-msgid "Contact"
-msgstr "Контакт"
+#~ msgid "Additi&onal Email:"
+#~ msgstr "&Додатна ел. пошта:"
 
-#: Name.box
-msgid "Name"
-msgstr "Име"
+#~ msgid "Allow remote ima&ges in HTML mail."
+#~ msgstr "&Дозволи удаљене слике у HTML порукама."
 
-#: NameField1.label
-#: NameField1.accesskey
-msgid "&First:"
-msgstr "&Име:"
+#~ msgid "&Work:"
+#~ msgstr "&Посао:"
 
-#: NameField2.label
-#: NameField2.accesskey
-msgid "&Last:"
-msgstr "&Презиме:"
+#~ msgid "&Home:"
+#~ msgstr "&Кућа:"
 
-#: PhoneticField1.label
-#: PhoneticField2.label
-msgid "Phonetic:"
-msgstr "Изговор:"
+#~ msgid "Address:"
+#~ msgstr "Адреса:"
 
-#: DisplayName.label
-#: DisplayName.accesskey
-msgid "&Display:"
-msgstr "&Приказано:"
+#~ msgid "City:"
+#~ msgstr "Место:"
 
-#: NickName.label
-#: NickName.accesskey
-msgid "&Nickname:"
-msgstr "&Надимак:"
+#~ msgid "State/Province:"
+#~ msgstr "Покрајина/област:"
 
-#: Internet.box
-msgid "Internet"
-msgstr "Интернет"
+#~ msgid "ZIP/Postal Code:"
+#~ msgstr "Поштански број:"
 
-#: PrimaryEmail.label
-#: PrimaryEmail.accesskey
-msgid "&Email:"
-msgstr "&Ел. пошта:"
+#~ msgid "Country:"
+#~ msgstr "Држава:"
 
-#: SecondEmail.label
-#: SecondEmail.accesskey
-msgid "Additi&onal Email:"
-msgstr "&Додатна ел. пошта:"
+#~ msgid "Web Page:"
+#~ msgstr "Мрежна страна:"
 
-#: PreferMailFormat.label
-#: PreferMailFormat.accesskey
-msgid "P&refers to receive messages formatted as:"
-msgstr "&Жели да прима поруке форматиране као:"
+#~ msgid "Title:"
+#~ msgstr "Титула:"
 
-#: PlainText.label
-msgid "Plain Text"
-msgstr "Обичан текст"
+#~ msgid "Department:"
+#~ msgstr "Одељење:"
 
-#: HTML.label
-msgid "HTML"
-msgstr "HTML"
-
-# # @name IMAP_UNKNOWN_USER
-# # @loc None
-#: Unknown.label
-msgid "Unknown"
-msgstr "Непознато"
-
-#: ScreenName.label
-#: ScreenName.accesskey
-msgid "&Screen Name:"
-msgstr "&Екранско име:"
-
-#: allowRemoteContent.label
-#: allowRemoteContent.accesskey
-msgid "Allow remote ima&ges in HTML mail."
-msgstr "&Дозволи удаљене слике у HTML порукама."
-
-#: Phones.box
-msgid "Phones"
-msgstr "Телефони"
-
-#: WorkPhone.label
-#: WorkPhone.accesskey
-msgid "&Work:"
-msgstr "&Посао:"
-
-#: HomePhone.label
-#: HomePhone.accesskey
-msgid "&Home:"
-msgstr "&Кућа:"
-
-#: FaxNumber.label
-#: FaxNumber.accesskey
-msgid "Fa&x:"
-msgstr "&Факс:"
-
-#: PagerNumber.label
-#: PagerNumber.accesskey
-msgid "&Pager:"
-msgstr "&Пејџер:"
-
-#: CellularNumber.label
-#: CellularNumber.accesskey
-msgid "&Mobile:"
-msgstr "&Мобилни:"
-
-# Address Tab
-#: Address.tab
-msgid "Address"
-msgstr "Адреса"
-
-#: Home.box
-msgid "Home"
-msgstr "Кућа"
-
-#: HomeAddress.label
-#: WorkAddress.label
-msgid "Address:"
-msgstr "Адреса:"
-
-#: HomeAddress2.label
-msgid ""
-"_: HomeAddress2.label\n"
-""
-msgstr ""
-
-#: HomeCity.label
-#: WorkCity.label
-msgid "City:"
-msgstr "Место:"
-
-#: HomeState.label
-#: WorkState.label
-msgid "State/Province:"
-msgstr "Покрајина/област:"
-
-#: HomeZipCode.label
-#: WorkZipCode.label
-msgid "ZIP/Postal Code:"
-msgstr "Поштански број:"
-
-#: HomeCountry.label
-#: WorkCountry.label
-msgid "Country:"
-msgstr "Држава:"
-
-#: HomeWebPage.label
-#: WorkWebPage.label
-msgid "Web Page:"
-msgstr "Мрежна страна:"
-
-#: Work.box
-msgid "Work"
-msgstr "Посао"
-
-#: JobTitle.label
-msgid "Title:"
-msgstr "Титула:"
-
-#: Department.label
-msgid "Department:"
-msgstr "Одељење:"
-
-#: Company.label
-msgid "Organization:"
-msgstr "Организација:"
-
-#: WorkAddress2.label
-msgid ""
-"_: WorkAddress2.label\n"
-""
-msgstr ""
-
-# Other Tab
-#: Other.tab
-msgid "Other"
-msgstr "Остало"
-
-#: Custom1.label
-#: Custom1.accesskey
-msgid "Custom &1:"
-msgstr "Произвољно &1:"
-
-#: Custom2.label
-#: Custom2.accesskey
-msgid "Custom &2:"
-msgstr "Произвољно &2:"
-
-#: Custom3.label
-#: Custom3.accesskey
-msgid "Custom &3:"
-msgstr "Произвољно &3:"
-
-#: Custom4.label
-#: Custom4.accesskey
-msgid "Custom &4:"
-msgstr "Произвољно &4:"
-
-#: Notes.box
-msgid "Notes"
-msgstr "Белешке"
+#~ msgid "Organization:"
+#~ msgstr "Организација:"

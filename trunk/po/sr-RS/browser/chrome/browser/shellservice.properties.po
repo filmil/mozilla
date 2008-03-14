@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 00:00+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,8 +27,12 @@ msgid "Default Browser"
 msgstr "Подразумевани клијент"
 
 #: setDefaultBrowserMessage
-msgid "%S is not currently set as your default browser. Would you like to make it your default browser?"
-msgstr "%S није Ваш подразумевани клијент. Да желите да буде постављен као подразумевани?"
+msgid ""
+"%S is not currently set as your default browser. Would you like to make it "
+"your default browser?"
+msgstr ""
+"%S није Ваш подразумевани клијент. Да желите да буде постављен као "
+"подразумевани?"
 
 #: setDefaultBrowserDontAsk
 msgid "Always perform this check when starting %S."
@@ -42,14 +46,16 @@ msgstr "%S је већ Ваш подрзумевани клијент."
 msgid "Desktop Background.bmp"
 msgstr "Позадина радне површине.bmp"
 
-#: DesktopBackgroundNoPreview
-msgid "(no preview available)"
-msgstr "(преглед није доступан)"
-
 #: DesktopBackgroundDownloading
-msgid "Saving Picture..."
-msgstr "Сачувавам слику..."
+msgid "Saving Picture…"
+msgstr ""
 
 #: DesktopBackgroundSet
 msgid "Set Desktop Background"
 msgstr "Постави позадину радне површине"
+
+#~ msgid "(no preview available)"
+#~ msgstr "(преглед није доступан)"
+
+#~ msgid "Saving Picture..."
+#~ msgstr "Сачувавам слику..."

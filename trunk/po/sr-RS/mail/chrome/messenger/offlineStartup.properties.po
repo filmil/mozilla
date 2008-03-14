@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 00:48+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,7 @@ msgstr ""
 
 #
 # Send Messages Prompt
-#: title
-#: workOnline
+#: title workOnline
 msgid "Work Online"
 msgstr "Неповезан рад"
 
@@ -25,10 +24,9 @@ msgstr "Неповезан рад"
 msgid ""
 "Would you like to go online now?\n"
 "\n"
-"(If you choose to work offline, you can go online later by choosing `Work Online' from the `File' menu.)"
-msgstr "Да ли желите да се повежете сада?\n"
-"\n"
-"(Ако изаберете да радите неповезани, можете се повезати касније избором „Повезан рад“ из менија „Датотека“.)"
+"(If you choose to work offline, you can go online later - choose `Offline' "
+"from the `File' menu, then uncheck `Work Offline'.)"
+msgstr ""
 
 #   LOCALIZATION NOTE :
 #   do not localize "\n".  use "\n" to make the text fit nicely in the dialog.
@@ -37,3 +35,14 @@ msgstr "Да ли желите да се повежете сада?\n"
 #: workOffline
 msgid "Work Offline"
 msgstr "Неповезан рад"
+
+#~ msgid ""
+#~ "Would you like to go online now?\n"
+#~ "\n"
+#~ "(If you choose to work offline, you can go online later by choosing `Work "
+#~ "Online' from the `File' menu.)"
+#~ msgstr ""
+#~ "Да ли желите да се повежете сада?\n"
+#~ "\n"
+#~ "(Ако изаберете да радите неповезани, можете се повезати касније избором "
+#~ "„Повезан рад“ из менија „Датотека“.)"

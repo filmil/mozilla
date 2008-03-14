@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,12 +17,16 @@ msgstr ""
 
 # extracted from content/openLocation.xul
 #: enter.label
-msgid "Enter the web location (URL), or specify the local file you would like to open:"
-msgstr "Унесите Интернет адрсу (URL) или укажите датотеку на диску, који желите отворити:"
+msgid ""
+"Enter the web location (URL), or specify the local file you would like to "
+"open:"
+msgstr ""
+"Унесите Интернет адрсу (URL) или укажите датотеку на диску, који желите "
+"отворити:"
 
 #: chooseFile.label
-msgid "Choose File..."
-msgstr "Изаберите датотеку..."
+msgid "Choose File…"
+msgstr ""
 
 #: newWindow.label
 msgid "New Window"
@@ -44,10 +48,12 @@ msgstr "Отварање веб адресе"
 msgid "Open in:"
 msgstr "Отвори у:"
 
-#: example.label
-msgid "Example: &vendorURL;"
-msgstr "Пример: &vendorURL;"
-
 #: openBtn.label
 msgid "Open"
 msgstr "Отвори"
+
+#~ msgid "Choose File..."
+#~ msgstr "Изаберите датотеку..."
+
+#~ msgid "Example: &vendorURL;"
+#~ msgstr "Пример: &vendorURL;"

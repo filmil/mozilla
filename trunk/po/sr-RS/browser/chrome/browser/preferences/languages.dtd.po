@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-12-25 02:04+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,25 +22,26 @@ msgid ""
 msgstr "30em"
 
 #: languages.customize.Header
-#: languages.customize.label
 msgid "Languages"
 msgstr "Језици"
 
 #: languages.customize.prefLangDescript
-msgid "Web pages are sometimes offered in more than one language. Choose languages for displaying these web pages, in order of preference."
-msgstr "Неке веб стране су доступне у више језика.  Изаберите редослед језика за приказивање веб страна, у жељеном редоследу."
+msgid ""
+"Web pages are sometimes offered in more than one language. Choose languages "
+"for displaying these web pages, in order of preference."
+msgstr ""
+"Неке веб стране су доступне у више језика.  Изаберите редослед језика за "
+"приказивање веб страна, у жељеном редоследу."
 
 #: languages.customize.active.label
 msgid "Languages in order of preference:"
 msgstr "Жељени редослед језика:"
 
-#: languages.customize.moveUp.label
-#: languages.customize.moveUp.accesskey
+#: languages.customize.moveUp.label languages.customize.moveUp.accesskey
 msgid "Move &Up"
 msgstr "&Горе"
 
-#: languages.customize.moveDown.label
-#: languages.customize.moveDown.accesskey
+#: languages.customize.moveDown.label languages.customize.moveDown.accesskey
 msgid "Move &Down"
 msgstr "&Доле"
 
@@ -50,10 +51,12 @@ msgid "&Remove"
 msgstr "&Уклони"
 
 #: languages.customize.selectLanguage.label
-msgid "Select a language to add..."
-msgstr "Изаберите језик који желите да додате..."
+msgid "Select a language to add…"
+msgstr ""
 
-#: languages.customize.addButton.label
-#: languages.customize.addButton.accesskey
+#: languages.customize.addButton.label languages.customize.addButton.accesskey
 msgid "&Add"
 msgstr "&Додај"
+
+#~ msgid "Select a language to add..."
+#~ msgstr "Изаберите језик који желите да додате..."

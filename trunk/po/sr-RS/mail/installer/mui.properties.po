@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-06-10 18:47+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,13 +69,17 @@ msgstr "Добродошчли код чаробњака за подешавањ
 msgid ""
 "This wizard will guide you through the installation of $(^NameDA).\n"
 "\n"
-"It is recommended that you close all other applications before starting Setup. This will make it possible to update relevant system files without having to reboot your computer.\n"
+"It is recommended that you close all other applications before starting "
+"Setup. This will make it possible to update relevant system files without "
+"having to reboot your computer.\n"
 "\n"
 "$_CLICK"
 msgstr ""
 "Чаробњак ће Вас провести кроз подешавање програма $(^NameDA).\n"
 "\n"
-"Препоручује се да затворите све остале програме пре него што кренете са инсталацијом. Тако ће рачунар моћи да освежи све битне системске датотеке без потребе за поновним покретањем.\n"
+"Препоручује се да затворите све остале програме пре него што кренете са "
+"инсталацијом. Тако ће рачунар моћи да освежи све битне системске датотеке "
+"без потребе за поновним покретањем.\n"
 "\n"
 "$_CLICK"
 
@@ -85,15 +89,27 @@ msgstr "Споразум о лиценци"
 
 #: MUI_TEXT_LICENSE_SUBTITLE
 msgid "Please review the license terms before installing $(^NameDA)."
-msgstr "Молимо да прегледате услове о лиценци пре него што инсталирате програм $(^NameDA)."
+msgstr ""
+"Молимо да прегледате услове о лиценци пре него што инсталирате програм "
+"$(^NameDA)."
 
 #: MUI_INNERTEXT_LICENSE_TOP
 msgid "Press Page Down to see the rest of the agreement."
 msgstr "Притисните Page Down да бисте видели остатак споразума"
 
+#: MUI_INNERTEXT_LICENSE_BOTTOM_CHECKBOX
+msgid ""
+"If you accept the terms of the agreement, click the check box below. You "
+"must accept the agreement to install $(^NameDA). $_CLICK"
+msgstr ""
+
 #: MUI_INNERTEXT_LICENSE_BOTTOM_RADIOBUTTONS
-msgid "If you accept the terms of the agreement, select the first option below. You must accept the agreement to install $(^NameDA). $_CLICK"
-msgstr "Ако прихватате услове споразума, притисните прву опцију испод.  Морате да прихватите споразум да бисте инсталирали $(^NameDA). $_CLICK"
+msgid ""
+"If you accept the terms of the agreement, select the first option below. You "
+"must accept the agreement to install $(^NameDA). $_CLICK"
+msgstr ""
+"Ако прихватате услове споразума, притисните прву опцију испод.  Морате да "
+"прихватите споразум да бисте инсталирали $(^NameDA). $_CLICK"
 
 #: MUI_TEXT_COMPONENTS_TITLE
 msgid "Choose Components"
@@ -165,8 +181,12 @@ msgstr ""
 "Притисните „&Крај‟ како бисте затворили чаробњака."
 
 #: MUI_TEXT_FINISH_INFO_REBOOT
-msgid "Your computer must be restarted in order to complete the installation of $(^NameDA). Do you want to reboot now?"
-msgstr "Ваш рачунар мора да се поново покрене како би инсталација програма $(^NameDA) била довршена. Да ли желите да то урадите сада?"
+msgid ""
+"Your computer must be restarted in order to complete the installation of "
+"$(^NameDA). Do you want to reboot now?"
+msgstr ""
+"Ваш рачунар мора да се поново покрене како би инсталација програма "
+"$(^NameDA) била довршена. Да ли желите да то урадите сада?"
 
 #: MUI_TEXT_FINISH_REBOOTNOW
 msgid "Reboot now"
@@ -182,15 +202,23 @@ msgstr "Изаберите директоријум са стартним мен
 
 #: MUI_TEXT_STARTMENU_SUBTITLE
 msgid "Choose a Start Menu folder for the $(^NameDA) shortcuts."
-msgstr "Изаберите директоријум са старним менијем за скраћенице ка програму $(^NameDA)."
+msgstr ""
+"Изаберите директоријум са старним менијем за скраћенице ка програму "
+"$(^NameDA)."
 
 #: MUI_INNERTEXT_STARTMENU_TOP
-msgid "Select the Start Menu folder in which you would like to create the program's shortcuts. You can also enter a name to create a new folder."
-msgstr "Изаберите директоријум за покретачки мени у којем желите да направите скраћенице за покретање програма.  Можете и да унесете име да бисте направили нови директоријум."
+msgid ""
+"Select the Start Menu folder in which you would like to create the program's "
+"shortcuts. You can also enter a name to create a new folder."
+msgstr ""
+"Изаберите директоријум за покретачки мени у којем желите да направите "
+"скраћенице за покретање програма.  Можете и да унесете име да бисте "
+"направили нови директоријум."
 
 #: MUI_TEXT_ABORTWARNING
 msgid "Are you sure you want to quit $(^Name) Setup?"
-msgstr "Да ли сигурно желите да завршите рад са инсталатером програма $(^Name)?"
+msgstr ""
+"Да ли сигурно желите да завршите рад са инсталатером програма $(^Name)?"
 
 #: MUI_UNTEXT_WELCOME_INFO_TITLE
 msgid "Welcome to the $(^NameDA) Uninstall Wizard"
@@ -206,7 +234,8 @@ msgid ""
 msgstr ""
 "Овај чаробњак ће вас провести кроз деинсталацију програма $(^NameDA).\n"
 "\n"
-"Пре него што покренете деинсталацију, обезбедите да програм $(^NameDA) није покренут.\n"
+"Пре него што покренете деинсталацију, обезбедите да програм $(^NameDA) није "
+"покренут.\n"
 "\n"
 "$_CLICK"
 
@@ -257,8 +286,12 @@ msgstr ""
 "Притисните „Крај‟ да затворите чаробњака."
 
 #: MUI_UNTEXT_FINISH_INFO_REBOOT
-msgid "Your computer must be restarted in order to complete the uninstallation of $(^NameDA). Do you want to reboot now?"
-msgstr "Рачунар мора да се поново покрене како би деинсталација програма $(^NameDA) била довршена. Да ли желите да то урадите одмах?"
+msgid ""
+"Your computer must be restarted in order to complete the uninstallation of "
+"$(^NameDA). Do you want to reboot now?"
+msgstr ""
+"Рачунар мора да се поново покрене како би деинсталација програма $(^NameDA) "
+"била довршена. Да ли желите да то урадите одмах?"
 
 #: MUI_UNTEXT_ABORTWARNING
 msgid "Are you sure you want to quit $(^Name) Uninstall?"

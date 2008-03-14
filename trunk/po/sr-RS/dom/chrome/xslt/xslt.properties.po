@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 00:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,6 +57,10 @@ msgstr "Растављање XSLT стила није успело."
 #: 2
 msgid "Parsing an XPath expression failed."
 msgstr "Растављање XPath образац није успео."
+
+#: 3
+msgid "_: 3\n"
+msgstr ""
 
 #: 4
 msgid "XSLT transformation failed."
@@ -153,6 +157,22 @@ msgstr "Грешка раставља XPath-а: очекујем бинарни 
 #: 27
 msgid "An XSLT stylesheet load was blocked for security reasons."
 msgstr "XSLT стил је блокиран из безбедносних разлога."
+
+#: 28
+msgid "Evaluating an invalid expression."
+msgstr ""
+
+#: 29
+msgid "Unbalanced curly brace."
+msgstr ""
+
+#: 30
+msgid "Creating an element with an invalid QName."
+msgstr ""
+
+#: 31
+msgid "Variable binding shadows variable binding within the same template."
+msgstr ""
 
 #: LoadingError
 msgid "Error loading stylesheet: %S"

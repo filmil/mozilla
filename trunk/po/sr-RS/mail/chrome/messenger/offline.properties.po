@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 00:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,8 @@ msgstr "Пријем порука"
 
 #: downloadMessagesLabel1
 msgid "Do you want to download messages for offline use before going offline?"
-msgstr "Да ли желите да поруке преузмете пре или после пре прекида везе са мрежом?"
+msgstr ""
+"Да ли желите да поруке преузмете пре или после пре прекида везе са мрежом?"
 
 #: downloadMessagesCheckboxLabel1
 msgid "Always ask me when I go offline"
@@ -29,14 +30,14 @@ msgstr "Увек ме питај када прекидам везу"
 
 # Send Messages Prompt
 # Send Messages Offline Prompt
-#: sendMessagesWindowTitle1
-#: sendMessagesOfflineWindowTitle1
+#: sendMessagesWindowTitle1 sendMessagesOfflineWindowTitle1
 msgid "Unsent Messages"
 msgstr "Непослато"
 
 #: sendMessagesLabel1
 msgid "Do you want to send the messages in your Unsent Messages folder?"
-msgstr "Да ли желите да пошаљете поруке из директоријума са непослатим порукама?"
+msgstr ""
+"Да ли желите да пошаљете поруке из директоријума са непослатим порукама?"
 
 #: sendMessagesCheckboxLabel1
 msgid "Always ask me when I go online"
@@ -50,12 +51,17 @@ msgid "Get Messages"
 msgstr "Преузимање порука"
 
 #: getMessagesOfflineLabel1
-msgid "You are currently offline. Do you want to go online to get new messages?"
-msgstr "Тренутно нисте на вези.  Да ли желите да се повежете и набавите нове поруке?"
+msgid ""
+"You are currently offline. Do you want to go online to get new messages?"
+msgstr ""
+"Тренутно нисте на вези.  Да ли желите да се повежете и набавите нове поруке?"
 
-#: sendMessagesOfflineLabel
-msgid "You are currently offline. Do you want to go online to send unsent messages?"
-msgstr "Тренутно нисте на вези.  Да ли желите да се повежете и пошаљете непослате поруке?"
+#: sendMessagesOfflineLabel1
+msgid ""
+"You are currently offline. Do you want to go online to send unsent messages?"
+msgstr ""
+"Тренутно нисте на вези.  Да ли желите да се повежете и пошаљете непослате "
+"поруке?"
 
 #: offlineTooltip
 msgid "You are currently offline."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 09:48-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,13 +72,11 @@ msgstr "Особине водоравне линије"
 msgid "Dimensions"
 msgstr "Димензије"
 
-#: heightEditField.label
-#: heightEditField.accessKey
+#: heightEditField.label heightEditField.accessKey
 msgid "Hei&ght:"
 msgstr "&Висина:"
 
-#: widthEditField.label
-#: widthEditField.accessKey
+#: widthEditField.label widthEditField.accessKey
 msgid "&Width:"
 msgstr "&Ширина:"
 
@@ -90,40 +88,44 @@ msgstr "тачака"
 msgid "Alignment"
 msgstr "Поравнање"
 
-#: leftRadio.value
-msgid "Left"
-msgstr "Улево"
+#: leftRadio.label leftRadio.accessKey
+msgid "&Left"
+msgstr ""
 
-#: leftRadio.accessKey
-msgid "L"
-msgstr "L"
+#: centerRadio.label centerRadio.accessKey
+msgid "&Center"
+msgstr ""
 
-#: centerRadio.value
-msgid "Center"
-msgstr "Средина"
+#: rightRadio.label rightRadio.accessKey
+msgid "&Right"
+msgstr ""
 
-#: centerRadio.accessKey
-msgid "C"
-msgstr "C"
-
-#: rightRadio.value
-msgid "Right"
-msgstr "Десно"
-
-#: rightRadio.accessKey
-msgid "R"
-msgstr "R"
-
-#: threeDShading.label
-#: threeDShading.accessKey
+#: threeDShading.label threeDShading.accessKey
 msgid "3-D &Shading"
 msgstr "3D &сенчење"
 
-#: saveSettings.label
-#: saveSettings.accessKey
+#: saveSettings.label saveSettings.accessKey
 msgid "Use as &Default"
 msgstr "Кор&исти као подразумевано"
 
 #: saveSettings.tooltip
 msgid "Save these settings to use when inserting new horizontal lines"
 msgstr "Сними ова подешавања за нове водоравне линије"
+
+#~ msgid "Left"
+#~ msgstr "Улево"
+
+#~ msgid "L"
+#~ msgstr "L"
+
+#~ msgid "Center"
+#~ msgstr "Средина"
+
+#~ msgid "C"
+#~ msgstr "C"
+
+#~ msgid "Right"
+#~ msgstr "Десно"
+
+#~ msgid "R"
+#~ msgstr "R"

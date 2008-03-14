@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-06-10 17:19+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,7 @@ msgstr ""
 msgid "RSS Account Settings"
 msgstr "Подешавање RSS налога"
 
-#: biffStart.label
-#: biffStart.accesskey
+#: biffStart.label biffStart.accesskey
 msgid "Chec&k for new articles every "
 msgstr "Проверавај &чланке на"
 
@@ -27,24 +26,20 @@ msgstr "Проверавај &чланке на"
 msgid "minutes"
 msgstr "мин"
 
-#: loginAtStartup.label
-#: loginAtStartup.accesskey
+#: loginAtStartup.label loginAtStartup.accesskey
 msgid "&Check for new articles at startup"
 msgstr "&Провери чланке при покретању"
 
-#: useQuickMode.label
-#: useQuickMode.accesskey
+#: useQuickMode.label useQuickMode.accesskey
 msgid "&By default, show the article summary instead of loading the web page"
 msgstr "&Прикажи сажетак чланка уместо учитавања целе стране"
 
-#: manageSubscriptions.label
-#: manageSubscriptions.accesskey
-msgid "&Manage Subscriptions..."
-msgstr "&Уреди претплате..."
+#: manageSubscriptions.label manageSubscriptions.accesskey
+msgid "&Manage Subscriptions…"
+msgstr ""
 
 # entities from defaults/isp/rss.rdf
-#: rss.accountName
-#: rss.hostName
+#: rss.accountName rss.hostName
 msgid "News &amp; Blogs"
 msgstr "Вести и блогови"
 
@@ -55,3 +50,6 @@ msgstr "РСС"
 #: rss.wizardLongName
 msgid "RSS News &amp; Blogs"
 msgstr "RSS доводи и блогови"
+
+#~ msgid "&Manage Subscriptions..."
+#~ msgstr "&Уреди претплате..."

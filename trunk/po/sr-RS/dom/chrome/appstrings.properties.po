@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-30 10:55-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,27 +70,41 @@ msgid "The connection was refused when attempting to contact %S."
 msgstr "Одбијена је веза са %S."
 
 #: netInterrupt
-msgid "The connection to %S has terminated unexpectedly. Some data may have been transferred."
-msgstr "Веза са %S је прекинута приликом учитавања стране. Подаци су можда делимично пренесени."
+msgid ""
+"The connection to %S has terminated unexpectedly. Some data may have been "
+"transferred."
+msgstr ""
+"Веза са %S је прекинута приликом учитавања стране. Подаци су можда делимично "
+"пренесени."
 
 #: netTimeout
 msgid "The operation timed out when attempting to contact %S."
 msgstr "Серверу на %S је потребно превише времена да одговори."
 
 #: redirectLoop
-msgid "Redirection limit for this URL exceeded.  Unable to load the requested page.  This may be caused by cookies that are blocked."
-msgstr "Лимит за преусмерење је пробијен за овај УРЛ.  Није могуће учитати тражену страну. Узрок могу да буду блокирани колачићи."
+msgid ""
+"Redirection limit for this URL exceeded.  Unable to load the requested "
+"page.  This may be caused by cookies that are blocked."
+msgstr ""
+"Лимит за преусмерење је пробијен за овај УРЛ.  Није могуће учитати тражену "
+"страну. Узрок могу да буду блокирани колачићи."
 
-#: repost
-msgid "The page you are trying to view contains POSTDATA that has expired from cache. If you resend the data, any action the form carried out (such as a search or online purchase) will be repeated. To resend the data, click OK. Otherwise, click Cancel."
-msgstr "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ који су нестали из кеша. Ако поново пошаљете податке, свака акција коју спроводи формулар (као што је претрага или куповина преко интернета) биће поновљена. Како би послали податке, кликните У реду, у противном кликните Одустани."
+#: confirmRepostPrompt
+msgid ""
+"To display this page, the application must send information that will repeat "
+"any action (such as a search or order confirmation) that was performed "
+"earlier."
+msgstr ""
 
-#: repostConfirm
-msgid "The page you are trying to view contains POSTDATA. If you resend the data, any action the form carried out (such as a search or online purchase) will be repeated. To resend the data, click OK. Otherwise, click Cancel."
-msgstr "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ. Ако поново пошаљете податке, свака акција коју спроводи формулар (као што је претрага или куповина преко интернета) биће поновљена. Како би послали податке, кликните У реду, у противном кликните Одустани."
+#: resendButton.label
+msgid "Resend"
+msgstr ""
 
 #: unknownSocketType
-msgid "This document cannot be displayed unless you install the Personal Security Manager (PSM). Download and install PSM and try again, or contact your system administrator."
+msgid ""
+"This document cannot be displayed unless you install the Personal Security "
+"Manager (PSM). Download and install PSM and try again, or contact your "
+"system administrator."
 msgstr "Firefox не зна како да комуницира са сервером."
 
 #: netReset
@@ -98,24 +112,47 @@ msgid "The document contains no data."
 msgstr "Веза са сервером је обновљена приликом учитавања стране."
 
 #: netOffline
-msgid "This document cannot be displayed while offline. To go online, uncheck Work Offline from the File menu."
+msgid ""
+"This document cannot be displayed while offline. To go online, uncheck Work "
+"Offline from the File menu."
 msgstr "Firefox тренутно ради ван мреже и не може да приступа Интернету."
 
 #: isprinting
 msgid "The document cannot change while Printing or in Print Preview."
-msgstr "За време штампе или прегледа стране пре штампе докуменат не може бити измењен."
+msgstr ""
+"За време штампе или прегледа стране пре штампе докуменат не може бити "
+"измењен."
 
 #: deniedPortAccess
 msgid "Access to the port number given has been disabled for security reasons."
-msgstr "Ова адреса користи мрежни порт који се обично користи за друге сврхе које нису сурфовање интернетом. Firefox је прекинуо захтев зарад Ваше сигурности."
+msgstr ""
+"Ова адреса користи мрежни порт који се обично користи за друге сврхе које "
+"нису сурфовање интернетом. Firefox је прекинуо захтев зарад Ваше сигурности."
 
 #: proxyResolveFailure
-msgid "The proxy server you have configured could not be found. Please check your proxy settings and try again."
+msgid ""
+"The proxy server you have configured could not be found. Please check your "
+"proxy settings and try again."
 msgstr "Firefox је подешен да користи прокси сервер који је немогуће пронаћи."
 
 #: proxyConnectFailure
-msgid "The connection was refused when attempting to contact the proxy server you have configured. Please check your proxy settings and try again."
+msgid ""
+"The connection was refused when attempting to contact the proxy server you "
+"have configured. Please check your proxy settings and try again."
 msgstr "Firefox је подешен да користи прокси сервер који одбија везу."
+
+#: contentEncodingError
+msgid ""
+"The page you are trying to view cannot be shown because it uses an invalid "
+"or unsupported form of compression."
+msgstr ""
+
+#: unsafeContentType
+msgid ""
+"The page you are trying to view cannot be shown because it is contained in a "
+"file type that may not be safe to open. Please contact the website owners to "
+"inform them of this problem."
+msgstr ""
 
 #: externalProtocolTitle
 msgid "External Protocol Request"
@@ -133,7 +170,9 @@ msgid ""
 "Application: %3$S\n"
 "\n"
 "\n"
-"If you were not expecting this request it may be an attempt to exploit a weakness in that other program. Cancel this request unless you are sure it is not malicious.\n"
+"If you were not expecting this request it may be an attempt to exploit a "
+"weakness in that other program. Cancel this request unless you are sure it "
+"is not malicious.\n"
 msgstr ""
 "Спољни програм мора бити покренут да би обрадио %1$S: везе. Тражена веза:\n"
 "\n"
@@ -141,9 +180,11 @@ msgstr ""
 "%2$S\n"
 "\n"
 "\n"
-"Ако нисте очекивали овај захтев, то може бити начин да се искористи слабост тог спољног програма, прекините захтев, осим ако сте сигурни да захтев није злонамеран.\n"
+"Ако нисте очекивали овај захтев, то може бити начин да се искористи слабост "
+"тог спољног програма, прекините захтев, осим ако сте сигурни да захтев није "
+"злонамеран.\n"
 
-#LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
+# LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
 # LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
 #: externalProtocolUnknown
 msgid "<Unknown>"
@@ -156,3 +197,37 @@ msgstr "Памти мој избор за све везе овог типа."
 #: externalProtocolLaunchBtn
 msgid "Launch application"
 msgstr "Покрени програм"
+
+#: malwareBlocked
+msgid ""
+"The site at %S has been reported as an attack site and has been blocked "
+"based on your security preferences."
+msgstr ""
+
+#: phishingBlocked
+msgid ""
+"The web site at %S has been reported as a web forgery designed to trick "
+"users into sharing personal or financial information."
+msgstr ""
+
+#~ msgid ""
+#~ "The page you are trying to view contains POSTDATA that has expired from "
+#~ "cache. If you resend the data, any action the form carried out (such as a "
+#~ "search or online purchase) will be repeated. To resend the data, click "
+#~ "OK. Otherwise, click Cancel."
+#~ msgstr ""
+#~ "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ који су нестали "
+#~ "из кеша. Ако поново пошаљете податке, свака акција коју спроводи формулар "
+#~ "(као што је претрага или куповина преко интернета) биће поновљена. Како "
+#~ "би послали податке, кликните У реду, у противном кликните Одустани."
+
+#~ msgid ""
+#~ "The page you are trying to view contains POSTDATA. If you resend the "
+#~ "data, any action the form carried out (such as a search or online "
+#~ "purchase) will be repeated. To resend the data, click OK. Otherwise, "
+#~ "click Cancel."
+#~ msgstr ""
+#~ "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ. Ако поново "
+#~ "пошаљете податке, свака акција коју спроводи формулар (као што је "
+#~ "претрага или куповина преко интернета) биће поновљена. Како би послали "
+#~ "податке, кликните У реду, у противном кликните Одустани."

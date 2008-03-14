@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 23:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,6 +30,10 @@ msgstr "Својства слике"
 msgid "Location:"
 msgstr "Адреса:"
 
+#: image-type.label
+msgid "Type:"
+msgstr ""
+
 #: image-desc.label
 msgid "Description:"
 msgstr "Опис:"
@@ -38,13 +42,9 @@ msgstr "Опис:"
 msgid "Alternate text:"
 msgstr "Текст за замену:"
 
-#: image-width.label
-msgid "Width:"
-msgstr "Ширина:"
-
-#: image-height.label
-msgid "Height:"
-msgstr "Висина:"
+#: image-size.label
+msgid "Image Dimensions:"
+msgstr ""
 
 #: image-filesize.label
 msgid "Size of File:"
@@ -54,8 +54,7 @@ msgstr "Величина датотеке:"
 msgid "Insert/Delete Properties"
 msgstr "Својства уметања/брисања"
 
-#: insdel-cite.label
-#: quote-cite.label
+#: insdel-cite.label quote-cite.label
 msgid "Info:"
 msgstr "Подаци:"
 
@@ -91,6 +90,10 @@ msgstr "Однос:"
 msgid "Reversed relation:"
 msgstr "Обрнути однос:"
 
+#: link-ping.label
+msgid "Will notify:"
+msgstr ""
+
 #: misc-sec.label
 msgid "Miscellaneous Properties"
 msgstr "Разна својства"
@@ -110,3 +113,9 @@ msgstr "Табеларни преглед:"
 #: quote-sec.label
 msgid "Quote Properties"
 msgstr "Својства цитата"
+
+#~ msgid "Width:"
+#~ msgstr "Ширина:"
+
+#~ msgid "Height:"
+#~ msgstr "Висина:"

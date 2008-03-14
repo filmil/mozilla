@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-23 23:51+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,8 +28,8 @@ msgid "Progress:"
 msgstr "Напредак:"
 
 #: preparing
-msgid "Preparing..."
-msgstr "Припрема..."
+msgid "Preparing…"
+msgstr ""
 
 #: printComplete
 msgid "Printing is Completed."
@@ -54,3 +54,6 @@ msgid ""
 "_: \n"
 "#1&#037;"
 msgstr "#1&#037;"
+
+#~ msgid "Preparing..."
+#~ msgstr "Припрема..."

@@ -40,7 +40,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2008-03-05 02:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,13 +51,13 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: pageInfo.title
-msgid "Page Info"
-msgstr "Подаци о страни"
+#: pageInfo.page.title
+msgid "Page Info - %S"
+msgstr ""
 
-#: frameInfo.title
-msgid "Frame Info"
-msgstr "Податци о фрејму"
+#: pageInfo.frame.title
+msgid "Frame Info - %S"
+msgstr ""
 
 #: noPageTitle
 msgid "Untitled Page:"
@@ -71,101 +71,17 @@ msgstr "%S:"
 msgid "Unknown"
 msgstr "Непознато"
 
-#: default
-msgid "Default"
-msgstr "Подразумевано"
-
 #: notset
 msgid "Not specified"
 msgstr "Неодређено"
 
-#: emptystring
-msgid "Empty String"
-msgstr "Празна реченица"
+#: yes
+msgid "Yes"
+msgstr ""
 
-#: generalNotCached
-msgid "Not cached"
-msgstr "Није кеширано"
-
-#: generalNoExpiration
-msgid "No expiration set"
-msgstr "Истек није постављен"
-
-#: generalQuirksMode
-msgid "Quirks mode"
-msgstr "Quirks mode"
-
-#: generalStrictMode
-msgid "Standards compliance mode"
-msgstr "Standards compliance mode"
-
-#: generalNoReferrer
-msgid "no referrer"
-msgstr "без посредника"
-
-#: formTitle
-msgid "Form %S:"
-msgstr "Формулар %S:"
-
-#: formUntitled
-msgid "Unnamed Form:"
-msgstr "Безимени формулар:"
-
-#: formDefaultTarget
-msgid "None (opens in same window)"
-msgstr "Не (исти прозор)"
-
-#: formChecked
-msgid "Checked"
-msgstr "Штиклирано"
-
-#: formUnchecked
-msgid "Unchecked"
-msgstr "Нештиклирано"
-
-#: formPassword
-msgid "********"
-msgstr "********"
-
-#: linkAnchor
-msgid "Anchor"
-msgstr "Сидро"
-
-#: linkArea
-msgid "Area"
-msgstr "Област"
-
-#: linkSubmission
-msgid "Form Submission"
-msgstr "Прослеђење формулара"
-
-#: linkSubmit
-msgid "Submit Query"
-msgstr "Пошаљи захтев"
-
-#: linkRel
-msgid "Related Item"
-msgstr "Повезана ставка"
-
-#: linkStylesheet
-msgid "Stylesheet"
-msgstr "Таблица стилова"
-
-#: linkRev
-msgid "Reverse Link"
-msgstr "Обратна веза"
-
-#: linkX
-msgid "Simple XLink"
-msgstr "Једноставан XLink"
-
-#: linkQuote
-msgid "Quote"
-msgstr "Цитирај"
-
-#: linkMod
-msgid "Modification"
-msgstr "Измена"
+#: no
+msgid "No"
+msgstr ""
 
 #: mediaImg
 msgid "Image"
@@ -174,10 +90,6 @@ msgstr "Слика"
 #: mediaBGImg
 msgid "Background"
 msgstr "Позадинска слика"
-
-#: mediaApplet
-msgid "Applet"
-msgstr "Аплет"
 
 #: mediaObject
 msgid "Object"
@@ -195,9 +107,49 @@ msgstr "Иконица"
 msgid "Input"
 msgstr "Поље уноса"
 
-#: mediaSize
+#: mediaFileSize
+msgid "%S KB"
+msgstr ""
+
+#: mediaSize mediaDimensions
 msgid "%Spx × %Spx"
 msgstr "%S пиксела × %S пиксела"
+
+#: mediaSelectFolder
+msgid "Select a Folder to Save the Images"
+msgstr ""
+
+#: mediaBlockImage
+msgid "Block Images from %S"
+msgstr ""
+
+#: mediaUnknownNotCached
+msgid "Unknown (not cached)"
+msgstr ""
+
+#: mediaImageType
+msgid "%S Image"
+msgstr ""
+
+#: mediaAnimatedImageType
+msgid "%S Image (animated, %S frames)"
+msgstr ""
+
+#: mediaDimensionsScaled
+msgid "%Spx × %Spx (scaled to %Spx × %Spx)"
+msgstr ""
+
+#: generalQuirksMode
+msgid "Quirks mode"
+msgstr "Quirks mode"
+
+#: generalStrictMode
+msgid "Standards compliance mode"
+msgstr "Standards compliance mode"
+
+#: generalNotCached
+msgid "Not cached"
+msgstr "Није кеширано"
 
 #: generalDiskCache
 msgid "Disk cache"
@@ -207,14 +159,123 @@ msgstr "Кеш диска"
 msgid "Memory cache"
 msgstr "Кеш меморија"
 
-#: generalHTTPCache
-msgid "HTTP cache"
-msgstr "Кеш HTTP"
-
-#: generalFTPCache
-msgid "FTP cache"
-msgstr "Кеш FTP"
-
 #: generalSize
 msgid "%S KB (%S bytes)"
 msgstr "%S Кб (%S бајт)"
+
+#: generalMetaTag
+msgid "Meta (1 tag)"
+msgstr ""
+
+#: generalMetaTags
+msgid "Meta (%S tags)"
+msgstr ""
+
+#: generalSiteIdentity
+msgid ""
+"This web site is owned by %S\n"
+"This has been verified by %S"
+msgstr ""
+
+#: feedRss
+msgid "RSS"
+msgstr ""
+
+#: feedAtom
+msgid "Atom"
+msgstr ""
+
+#: feedXML
+msgid "XML"
+msgstr ""
+
+#: securityCertText
+msgid "This web site provides a certificate to verify its identity."
+msgstr ""
+
+#: securityNoIdentity
+msgid "This web site does not supply identity information."
+msgstr ""
+
+#: securityOneVisit
+msgid "Yes, once"
+msgstr ""
+
+#: securityNVisits
+msgid "Yes, %S times"
+msgstr ""
+
+#~ msgid "Page Info"
+#~ msgstr "Подаци о страни"
+
+#~ msgid "Frame Info"
+#~ msgstr "Податци о фрејму"
+
+#~ msgid "Default"
+#~ msgstr "Подразумевано"
+
+#~ msgid "Empty String"
+#~ msgstr "Празна реченица"
+
+#~ msgid "No expiration set"
+#~ msgstr "Истек није постављен"
+
+#~ msgid "no referrer"
+#~ msgstr "без посредника"
+
+#~ msgid "Form %S:"
+#~ msgstr "Формулар %S:"
+
+#~ msgid "Unnamed Form:"
+#~ msgstr "Безимени формулар:"
+
+#~ msgid "None (opens in same window)"
+#~ msgstr "Не (исти прозор)"
+
+#~ msgid "Checked"
+#~ msgstr "Штиклирано"
+
+#~ msgid "Unchecked"
+#~ msgstr "Нештиклирано"
+
+#~ msgid "********"
+#~ msgstr "********"
+
+#~ msgid "Anchor"
+#~ msgstr "Сидро"
+
+#~ msgid "Area"
+#~ msgstr "Област"
+
+#~ msgid "Form Submission"
+#~ msgstr "Прослеђење формулара"
+
+#~ msgid "Submit Query"
+#~ msgstr "Пошаљи захтев"
+
+#~ msgid "Related Item"
+#~ msgstr "Повезана ставка"
+
+#~ msgid "Stylesheet"
+#~ msgstr "Таблица стилова"
+
+#~ msgid "Reverse Link"
+#~ msgstr "Обратна веза"
+
+#~ msgid "Simple XLink"
+#~ msgstr "Једноставан XLink"
+
+#~ msgid "Quote"
+#~ msgstr "Цитирај"
+
+#~ msgid "Modification"
+#~ msgstr "Измена"
+
+#~ msgid "Applet"
+#~ msgstr "Аплет"
+
+#~ msgid "HTTP cache"
+#~ msgstr "Кеш HTTP"
+
+#~ msgid "FTP cache"
+#~ msgstr "Кеш FTP"

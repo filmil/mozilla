@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-08-30 10:39-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,8 +30,7 @@ msgstr "G"
 msgid "VK_F3"
 msgstr "VK_F3"
 
-#: backButton.label
-#: backButton.accesskey
+#: backButton.label backButton.accesskey
 msgid "&Back"
 msgstr "&Назад"
 
@@ -39,8 +38,7 @@ msgstr "&Назад"
 msgid "Go back one page"
 msgstr "Назад за једну страну"
 
-#: forwardButton.label
-#: forwardButton.accesskey
+#: forwardButton.label forwardButton.accesskey
 msgid "&Forward"
 msgstr "&Напред"
 
@@ -48,13 +46,11 @@ msgstr "&Напред"
 msgid "Go forward one page"
 msgstr "Напред за једну страну"
 
-#: copyCmd.label
-#: copyCmd.accesskey
+#: copyCmd.label copyCmd.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
-#: selectAllCmd.label
-#: selectAllCmd.accesskey
+#: selectAllCmd.label selectAllCmd.accesskey
 msgid "Select &All"
 msgstr "Изабери с&ве"
 
@@ -86,38 +82,32 @@ msgstr "Штампај ову страну"
 msgid "W"
 msgstr "W"
 
-#: throbberItem.title
-msgid "Activity Indicator"
-msgstr "Индикатор активности"
-
-#: throbber.tooltip
-msgid "Go to the Help on Help section"
-msgstr "Иди на помоћ у делу помоћи"
-
-#: searchtab.label
-#: searchtab.accesskey
+#: searchtab.label searchtab.accesskey
 msgid "&Search"
 msgstr "&Претрага"
 
-#: toctab.label
-#: toctab.accesskey
+#: searchClose.tooltip
+msgid "Close search results"
+msgstr ""
+
+#: toctab.label toctab.accesskey
 msgid "&Contents"
 msgstr "&Садржај"
 
-#: textZoomReduceCmd.commandkey
+#: fullZoomReduceCmd.commandkey
 msgid "-"
 msgstr "-"
 
-#: textZoomEnlargeCmd.commandkey
+#: fullZoomEnlargeCmd.commandkey
 msgid "+"
 msgstr "+"
 
 # + is above this key on many keyboards
-#: textZoomEnlargeCmd.commandkey2
+#: fullZoomEnlargeCmd.commandkey2
 msgid "="
 msgstr "="
 
-#: textZoomResetCmd.commandkey
+#: fullZoomResetCmd.commandkey
 msgid "0"
 msgstr "0"
 
@@ -125,17 +115,26 @@ msgstr "0"
 msgid "k"
 msgstr "k"
 
-#: zLevel.label
-#: zLevel.accesskey
+#: zLevel.label zLevel.accesskey
 msgid "Always on &Top"
 msgstr "У&век на врху"
 
-#: textZoomReduceBtn.label
-#: textZoomReduceBtn.accesskey
-msgid "&Decrease Text Size"
-msgstr "&Умањи слова"
+#: fullZoomReduceBtn.label fullZoomReduceBtn.accesskey
+msgid "Zoom &Out"
+msgstr ""
 
-#: textZoomEnlargeBtn.label
-#: textZoomEnlargeBtn.accesskey
-msgid "&Increase Text Size"
-msgstr "У&већај слова"
+#: fullZoomEnlargeBtn.label fullZoomEnlargeBtn.accesskey
+msgid "Zoom &In"
+msgstr ""
+
+#~ msgid "Activity Indicator"
+#~ msgstr "Индикатор активности"
+
+#~ msgid "Go to the Help on Help section"
+#~ msgstr "Иди на помоћ у делу помоћи"
+
+#~ msgid "&Decrease Text Size"
+#~ msgstr "&Умањи слова"
+
+#~ msgid "&Increase Text Size"
+#~ msgstr "У&већај слова"

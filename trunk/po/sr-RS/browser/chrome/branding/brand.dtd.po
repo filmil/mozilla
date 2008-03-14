@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-15 00:47+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,11 +14,13 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: brandShortName
-#: brandFullName
-msgid "Bon Echo"
-msgstr "Бон ехо (Bon Echo)"
+#: brandShortName brandFullName
+msgid "Minefield"
+msgstr ""
 
 #: vendorShortName
 msgid "Mozilla"
 msgstr "Mozilla (Мозила)"
+
+#~ msgid "Bon Echo"
+#~ msgstr "Бон ехо (Bon Echo)"

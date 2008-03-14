@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,8 +31,8 @@ msgstr "„Прилагоди заглавља...“"
 #
 # filter stuff
 #: searchingMessage
-msgid "Searching..."
-msgstr "Претрага..."
+msgid "Searching…"
+msgstr ""
 
 #: searchSuccessMessage
 msgid "1 match found"
@@ -54,8 +54,7 @@ msgstr "Стани"
 msgid "Search"
 msgstr "Тражи"
 
-#: labelForStopButton.accesskey
-#: labelForSearchButton.accesskey
+#: labelForStopButton.accesskey labelForSearchButton.accesskey
 msgid "S"
 msgstr "S"
 
@@ -66,3 +65,17 @@ msgstr "Додај ново правило"
 #: lessButtonTooltipText
 msgid "Remove this rule"
 msgstr "Уклони ово правило"
+
+# these are the fields that get inserted in the search line
+# for "and" searches, this looks like:
+#
+# searchAnd0 <attribute> searchAnd1 <operator> searchAnd2 <value> searchAnd4
+#
+# for example, in english this looks like:
+# and the [Sender ] [doesn't contain] [John]
+#
+# TODO: need to special-case the first line (filterindex==0)
+#
+# filter stuff
+#~ msgid "Searching..."
+#~ msgstr "Претрага..."

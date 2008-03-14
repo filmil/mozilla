@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 20:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,3 +51,30 @@ msgstr ""
 #: UnexpectedElement
 msgid "Unexpected <%1$S> element."
 msgstr "Неочекиван елемент <%1$S>."
+
+# LOCALIZATION NOTE: do not localize key="%S" modifiers="%S"
+#: GTK2Conflict
+msgid "Key event not available on GTK2: key=\"%S\" modifiers=\"%S\""
+msgstr ""
+
+#: WinConflict
+msgid ""
+"Key event not available on some keyboard layouts: key=\"%S\" modifiers=\"%S\""
+msgstr ""
+
+#: TooDeepBindingRecursion
+msgid ""
+"The XBL binding \"%S\" is already used by too many ancestor elements; not "
+"applying it to prevent infinite recursion."
+msgstr ""
+
+#: CircularExtendsBinding
+msgid ""
+"Extending the XBL binding \"%S\" with \"%S\" would lead to it extending "
+"itself"
+msgstr ""
+
+# LOCALIZATION NOTE: do not localize <handler command="…">
+#: CommandNotInChrome
+msgid "Use of <handler command=\"…\"> not allowed outside chrome."
+msgstr ""

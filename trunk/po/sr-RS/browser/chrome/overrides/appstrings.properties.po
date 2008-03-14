@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-13 00:35+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,8 +62,12 @@ msgid "Firefox can't find the server at %S."
 msgstr "Firefox не може да пронађе сервер на %S."
 
 #: protocolNotFound
-msgid "Firefox doesn't know how to open this address, because the protocol (%S) isn't associated with any program."
-msgstr "Firefox не зна како да отвори ову адресу, зато што протокол (%S) није додељен ни једном програму."
+msgid ""
+"Firefox doesn't know how to open this address, because the protocol (%S) "
+"isn't associated with any program."
+msgstr ""
+"Firefox не зна како да отвори ову адресу, зато што протокол (%S) није "
+"додељен ни једном програму."
 
 #: connectionFailure
 msgid "Firefox can't establish a connection to the server at %S."
@@ -78,16 +82,23 @@ msgid "The server at %S is taking too long to respond."
 msgstr "Серверу на %S је потребно превише времена да одговори."
 
 #: redirectLoop
-msgid "Firefox has detected that the server is redirecting the request for this address in a way that will never complete."
-msgstr "Firefox је препознао да сервер преусмерава захтев за адресом на начин да га никад неће завршити."
+msgid ""
+"Firefox has detected that the server is redirecting the request for this "
+"address in a way that will never complete."
+msgstr ""
+"Firefox је препознао да сервер преусмерава захтев за адресом на начин да га "
+"никад неће завршити."
 
-#: repost
-msgid "The page you are trying to view contains POSTDATA that has expired from cache. If you resend the data, any action the form carried out (such as a search or online purchase) will be repeated. To resend the data, click OK. Otherwise, click Cancel."
-msgstr "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ који су нестали из кеша. Ако поново пошаљете податке, свака акција коју спроводи формулар (као што је претрага или куповина преко интернета) биће поновљена. Како би послали податке, кликните У реду, у противном кликните Одустани."
+# # LOCALIZATION NOTE (confirmRepostPrompt): In this item, don't translate "%S"
+#: confirmRepostPrompt
+msgid ""
+"To display this page, %S must send information that will repeat any action "
+"(such as a search or order confirmation) that was performed earlier."
+msgstr ""
 
-#: repostConfirm
-msgid "The page you are trying to view contains POSTDATA. If you resend the data, any action the form carried out (such as a search or online purchase) will be repeated. To resend the data, click OK. Otherwise, click Cancel."
-msgstr "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ. Ако поново пошаљете податке, свака акција коју спроводи формулар (као што је претрага или куповина преко интернета) биће поновљена. Како би послали податке, кликните У реду, у противном кликните Одустани."
+#: resendButton.label
+msgid "Resend"
+msgstr ""
 
 #: unknownSocketType
 msgid "Firefox doesn't know how to communicate with the server."
@@ -103,19 +114,39 @@ msgstr "Firefox тренутно ради ван мреже и не може д�
 
 #: isprinting
 msgid "The document cannot change while Printing or in Print Preview."
-msgstr "За време штампе или прегледа стране пре штампе докуменат не може бити измењен."
+msgstr ""
+"За време штампе или прегледа стране пре штампе докуменат не може бити "
+"измењен."
 
 #: deniedPortAccess
-msgid "This address uses a network port which is normally used for purposes other than Web browsing. Firefox has canceled the request for your protection."
-msgstr "Ова адреса користи мрежни порт који се обично користи за друге сврхе које нису сурфовање интернетом. Firefox је прекинуо захтев зарад Ваше сигурности."
+msgid ""
+"This address uses a network port which is normally used for purposes other "
+"than Web browsing. Firefox has canceled the request for your protection."
+msgstr ""
+"Ова адреса користи мрежни порт који се обично користи за друге сврхе које "
+"нису сурфовање интернетом. Firefox је прекинуо захтев зарад Ваше сигурности."
 
 #: proxyResolveFailure
 msgid "Firefox is configured to use a proxy server that can't be found."
 msgstr "Firefox је подешен да користи прокси сервер који је немогуће пронаћи."
 
 #: proxyConnectFailure
-msgid "Firefox is configured to use a proxy server that is refusing connections."
+msgid ""
+"Firefox is configured to use a proxy server that is refusing connections."
 msgstr "Firefox је подешен да користи прокси сервер који одбија везу."
+
+#: contentEncodingError
+msgid ""
+"The page you are trying to view cannot be shown because it uses an invalid "
+"or unsupported form of compression."
+msgstr ""
+
+#: unsafeContentType
+msgid ""
+"The page you are trying to view cannot be shown because it is contained in a "
+"file type that may not be safe to open. Please contact the website owners to "
+"inform them of this problem."
+msgstr ""
 
 #: externalProtocolTitle
 msgid "External Protocol Request"
@@ -133,16 +164,21 @@ msgid ""
 "Application: %3$S\n"
 "\n"
 "\n"
-"If you were not expecting this request it may be an attempt to exploit a weakness in that other program. Cancel this request unless you are sure it is not malicious.\n"
-msgstr "Спољни програм мора бити покренут да би обрадио %1$S: везе. Тражена веза:\n"
+"If you were not expecting this request it may be an attempt to exploit a "
+"weakness in that other program. Cancel this request unless you are sure it "
+"is not malicious.\n"
+msgstr ""
+"Спољни програм мора бити покренут да би обрадио %1$S: везе. Тражена веза:\n"
 "\n"
 "\n"
 "%2$S\n"
 "\n"
 "\n"
-"Ако нисте очекивали овај захтев, то може бити начин да се искористи слабост тог спољног програма, прекините захтев, осим ако сте сигурни да захтев није злобан."
+"Ако нисте очекивали овај захтев, то може бити начин да се искористи слабост "
+"тог спољног програма, прекините захтев, осим ако сте сигурни да захтев није "
+"злобан."
 
-#LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
+# LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
 # LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
 #: externalProtocolUnknown
 msgid "<Unknown>"
@@ -155,3 +191,37 @@ msgstr "Памти мој избор за све везе овог типа."
 #: externalProtocolLaunchBtn
 msgid "Launch application"
 msgstr "Покрени програм"
+
+#: malwareBlocked
+msgid ""
+"The site at %S has been reported as an attack site and has been blocked "
+"based on your security preferences."
+msgstr ""
+
+#: phishingBlocked
+msgid ""
+"The web site at %S has been reported as a web forgery designed to trick "
+"users into sharing personal or financial information."
+msgstr ""
+
+#~ msgid ""
+#~ "The page you are trying to view contains POSTDATA that has expired from "
+#~ "cache. If you resend the data, any action the form carried out (such as a "
+#~ "search or online purchase) will be repeated. To resend the data, click "
+#~ "OK. Otherwise, click Cancel."
+#~ msgstr ""
+#~ "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ који су нестали "
+#~ "из кеша. Ако поново пошаљете податке, свака акција коју спроводи формулар "
+#~ "(као што је претрага или куповина преко интернета) биће поновљена. Како "
+#~ "би послали податке, кликните У реду, у противном кликните Одустани."
+
+#~ msgid ""
+#~ "The page you are trying to view contains POSTDATA. If you resend the "
+#~ "data, any action the form carried out (such as a search or online "
+#~ "purchase) will be repeated. To resend the data, click OK. Otherwise, "
+#~ "click Cancel."
+#~ msgstr ""
+#~ "Страна коју покушавате прегледати садржи ПОДАТКЕ ЗА СЛАЊЕ. Ако поново "
+#~ "пошаљете податке, свака акција коју спроводи формулар (као што је "
+#~ "претрага или куповина преко интернета) биће поновљена. Како би послали "
+#~ "податке, кликните У реду, у противном кликните Одустани."

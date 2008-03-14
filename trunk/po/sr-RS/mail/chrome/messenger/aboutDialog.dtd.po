@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 01:58+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,20 +18,36 @@ msgstr ""
 msgid "About &brandFullName;"
 msgstr "О програму &brandFullName;"
 
-#: credits
-msgid "Credits"
-msgstr "Заслуге"
+#: credits.label credits.accesskey
+msgid "&Credits"
+msgstr ""
 
-#: aboutLink
-msgid "&lt; About &brandFullName;"
-msgstr "&lt; О програму &brandFullName;"
+#: aboutLink.label aboutLink.accesskey
+msgid "&lt; &About &brandFullName;"
+msgstr ""
 
 #: aboutVersion
 msgid "version"
 msgstr "издање"
 
 #: copyrightText
-msgid "&#169;1998-2006 Contributors. All Rights Reserved. Mozilla Thunderbird and the "
-"Thunderbird logos are trademarks of the Mozilla Foundation.  All rights "
+msgid ""
+"&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and "
+"the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights "
 "reserved."
-msgstr "©1998-2006 Приложници. Сва права су придржана. Mozilla Thunderbird и Thunderbird логотипови су робна марка Mozilla Foundation. Сва права су придржана."
+msgstr ""
+
+#~ msgid "Credits"
+#~ msgstr "Заслуге"
+
+#~ msgid "&lt; About &brandFullName;"
+#~ msgstr "&lt; О програму &brandFullName;"
+
+#~ msgid ""
+#~ "&#169;1998-2006 Contributors. All Rights Reserved. Mozilla Thunderbird "
+#~ "and the Thunderbird logos are trademarks of the Mozilla Foundation.  All "
+#~ "rights reserved."
+#~ msgstr ""
+#~ "©1998-2006 Приложници. Сва права су придржана. Mozilla Thunderbird и "
+#~ "Thunderbird логотипови су робна марка Mozilla Foundation. Сва права су "
+#~ "придржана."

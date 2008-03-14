@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 23:23+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,21 +22,37 @@ msgstr "О програму &brandFullName;"
 msgid "Credits"
 msgstr "Заслуге"
 
+#: copyright.accesskey
+msgid "C"
+msgstr ""
+
 #: aboutLink
 msgid "&lt; About &brandFullName;"
 msgstr "&lt; О програму &brandFullName;"
+
+#: aboutLink.accesskey
+msgid "A"
+msgstr ""
 
 #: aboutVersion
 msgid "version"
 msgstr "издање"
 
-#: copyrightText
-msgid "&#169;1998-2006 Contributors. All Rights Reserved. Firefox and the "
-"Firefox logos are trademarks of the Mozilla Foundation.  All rights "
-"reserved. Some trademark rights used under license from The "
-"Charlton Company."
-msgstr "© 1998-2004 Заједница. Сва права загарантована. Firefox и Firefox логотипови су тржишна марка Mozilla фондације. Сва права су загарантована. Неке тржишне марке коришћене под лиценцом Charlton Company."
+#: copyrightInfo
+msgid ""
+"&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the Firefox "
+"logos are trademarks of the Mozilla Foundation.  All rights reserved."
+msgstr ""
 
-#: cmdClose.macKey
-msgid "W"
-msgstr "W"
+#~ msgid ""
+#~ "&#169;1998-2006 Contributors. All Rights Reserved. Firefox and the "
+#~ "Firefox logos are trademarks of the Mozilla Foundation.  All rights "
+#~ "reserved. Some trademark rights used under license from The Charlton "
+#~ "Company."
+#~ msgstr ""
+#~ "© 1998-2004 Заједница. Сва права загарантована. Firefox и Firefox "
+#~ "логотипови су тржишна марка Mozilla фондације. Сва права су "
+#~ "загарантована. Неке тржишне марке коришћене под лиценцом Charlton Company."
+
+#~ msgid "W"
+#~ msgstr "W"

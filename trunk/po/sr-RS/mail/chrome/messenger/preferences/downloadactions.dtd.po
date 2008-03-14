@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 19:22+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,38 +33,34 @@ msgid ""
 msgstr "310"
 
 #: fileTypesDescription.label
-msgid "Automatically perform the associated Action with each of the following file types:"
+msgid ""
+"Automatically perform the associated Action with each of the following file "
+"types:"
 msgstr "Самостално присвоји акцију за сваки од следећих типова датотека:"
 
-#: fileHandlerColumn.label
-#: fileHandlerColumn.accesskey
+#: fileHandlerColumn.label fileHandlerColumn.accesskey
 msgid "&Action"
 msgstr "Акција"
 
-#: fileTypeColumn.label
-#: fileTypeColumn.accesskey
+#: fileTypeColumn.label fileTypeColumn.accesskey
 msgid "File &Type"
 msgstr "File Type"
 
-#: fileMIMETypeColumn.label
-#: fileMIMETypeColumn.accesskey
+#: fileMIMETypeColumn.label fileMIMETypeColumn.accesskey
 msgid "&MIME Type"
 msgstr "&MIME тип"
 
-#: fileExtensionColumn.label
-#: fileExtensionColumn.accesskey
+#: fileExtensionColumn.label fileExtensionColumn.accesskey
 msgid "&Extension"
 msgstr "&Проширење"
 
-#: remove.label
-#: remove.accesskey
+#: remove.label remove.accesskey
 msgid "&Remove Action"
 msgstr "&Уклони акцију"
 
-#: edit.label
-#: edit.accesskey
-msgid "&Change Action..."
-msgstr "&Измени акцију..."
+#: edit.label edit.accesskey
+msgid "&Change Action…"
+msgstr ""
 
 #: windowClose.key
 msgid "w"
@@ -78,17 +74,17 @@ msgstr "f"
 msgid "k"
 msgstr "k"
 
-#: filter.label
-#: filter.accesskey
+#: filter.label filter.accesskey
 msgid "&Search:"
 msgstr "&Пронађи:"
 
-#: clear.label
-#: clear.accesskey
+#: clear.label clear.accesskey
 msgid "C&lear"
 msgstr "О&чисти"
 
-#: button.close.label
-#: button.close.accesskey
+#: button.close.label button.close.accesskey
 msgid "Cl&ose"
 msgstr "&Затвори"
+
+#~ msgid "&Change Action..."
+#~ msgstr "&Измени акцију..."

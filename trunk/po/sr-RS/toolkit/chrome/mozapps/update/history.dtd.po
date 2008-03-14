@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2006-11-23 22:54+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,11 +26,6 @@ msgstr "Следећа унапређења су постављена:"
 msgid "Close"
 msgstr "Затвори"
 
-#: detailsButton.label
-#: detailsButton.accesskey
-msgid "&Details"
-msgstr "&Детаљи"
-
 #: noupdates.label
 msgid "No updates installed yet"
 msgstr "Ни једно унапређење још није постављено"
@@ -50,3 +45,6 @@ msgstr "Врста"
 #: state.header
 msgid "State"
 msgstr "Стање"
+
+#~ msgid "&Details"
+#~ msgstr "&Детаљи"

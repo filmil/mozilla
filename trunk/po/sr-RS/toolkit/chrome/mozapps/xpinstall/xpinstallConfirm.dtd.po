@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-12 18:57+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,16 +19,23 @@ msgstr ""
 msgid "Software Installation"
 msgstr "Поставка програма"
 
-#: warningText2.label
+#: dialog.style
+msgid "width: 45em"
+msgstr ""
+
+#: warningMain.label
+msgid "Only install add-ons from authors whom you trust."
+msgstr ""
+
+#: warningSecondary.label
 msgid "Malicious software can damage your computer or violate your privacy."
 msgstr ""
 "Злонамерни програми могу садржати вирусе, који могу оштетити податке\n"
 "на Вашем рачунару или нарушити Вашу приватност."
 
-#: warningText3.label
-msgid "You should only install software from sources that you trust."
-msgstr "Зато поставите проширење само из тих извора које ви дозволите."
-
 #: from.label
 msgid "from:"
 msgstr "из:"
+
+#~ msgid "You should only install software from sources that you trust."
+#~ msgstr "Зато поставите проширење само из тих извора које ви дозволите."

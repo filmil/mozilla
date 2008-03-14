@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-08-30 16:38-0500\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-30 16:40-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,29 +26,33 @@ msgstr ""
 # such strings when other methods are preferable).
 # Options
 #: pref.menuPath
-msgid "<span class=\"win menuPath\">Tools &gt; Options</span><span "
-"class=\"unix menuPath\">Edit &gt; Preferences</span><span "
-"class=\"mac menuPath\">&brandShortName; &gt; Preferences</span>"
-msgstr "<span class=\"win menuPath\">Алати и опције</span><span class=\"unix menuPath\">Уређивање и поставке</span><span class=\"mac menuPath\">Поставке за &brandShortName;</span>"
+msgid ""
+"<span class=\"win menuPath\">Tools &gt; Options</span><span class=\"unix "
+"menuPath\">Edit &gt; Preferences</span><span class=\"mac menuPath"
+"\">&brandShortName; &gt; Preferences</span>"
+msgstr ""
+"<span class=\"win menuPath\">Алати и опције</span><span class=\"unix menuPath"
+"\">Уређивање и поставке</span><span class=\"mac menuPath\">Поставке за "
+"&brandShortName;</span>"
 
 #: pref.singular
-msgid "<span class=\"win\">option</span><span "
-"class=\"noWin\">preference</span>"
+msgid ""
+"<span class=\"win\">option</span><span class=\"noWin\">preference</span>"
 msgstr "<span class=\"win\">опција</span><span class=\"noWin\">поставка</span>"
 
 #: pref.plural
-msgid "<span class=\"win\">options</span><span "
-"class=\"noWin\">preferences</span>"
+msgid ""
+"<span class=\"win\">options</span><span class=\"noWin\">preferences</span>"
 msgstr "<span class=\"win\">опције</span><span class=\"noWin\">поставке</span>"
 
 #: pref.singularCaps
-msgid "<span class=\"win\">Option</span><span "
-"class=\"noWin\">Preference</span>"
+msgid ""
+"<span class=\"win\">Option</span><span class=\"noWin\">Preference</span>"
 msgstr "<span class=\"win\">Опција</span><span class=\"noWin\">Поставка</span>"
 
 #: pref.pluralCaps
-msgid "<span class=\"win\">Options</span><span "
-"class=\"noWin\">Preferences</span>"
+msgid ""
+"<span class=\"win\">Options</span><span class=\"noWin\">Preferences</span>"
 msgstr "<span class=\"win\">Опције</span><span class=\"noWin\">Поставке</span>"
 
 # Keys
@@ -57,13 +61,11 @@ msgid "<kbd>Ctrl</kbd>"
 msgstr "<kbd>Ctrl</kbd>"
 
 #: accelKey
-msgid "<kbd class=\"noMac\">Ctrl</kbd><kbd "
-"class=\"mac\">Cmd</kbd>"
+msgid "<kbd class=\"noMac\">Ctrl</kbd><kbd class=\"mac\">Cmd</kbd>"
 msgstr "<kbd class=\"noMac\">Ctrl</kbd><kbd class=\"mac\">Cmd</kbd>"
 
 #: altKey
-msgid "<kbd class=\"noMac\">Alt</kbd><kbd "
-"class=\"mac\">Opt</kbd>"
+msgid "<kbd class=\"noMac\">Alt</kbd><kbd class=\"mac\">Opt</kbd>"
 msgstr "<kbd class=\"noMac\">Alt</kbd><kbd class=\"mac\">Opt</kbd>"
 
 #: shiftKey
@@ -71,11 +73,15 @@ msgid "<kbd>Shift</kbd>"
 msgstr "<kbd>Shift</kbd>"
 
 #: enterKey
-msgid "<kbd class=\"noMac\">Enter</kbd><kbd "
-"class=\"mac\">Return</kbd>"
+msgid "<kbd class=\"noMac\">Enter</kbd><kbd class=\"mac\">Return</kbd>"
 msgstr "<kbd class=\"noMac\">Enter</kbd><kbd class=\"mac\">Return</kbd>"
 
 # Image Location Base URL
 #: images.baseURL
 msgid "http://www.mozilla.org/projects/firefox/help/2.0"
 msgstr "http://sr.www.mozilla.org/projects/firefox/help/2.0"
+
+# Copyright years
+#: copyright.years
+msgid "2003-2008"
+msgstr ""

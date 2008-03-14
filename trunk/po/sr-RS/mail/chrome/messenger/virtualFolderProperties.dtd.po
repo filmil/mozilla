@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 00:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,39 +18,46 @@ msgstr ""
 msgid "New Saved Search Folder"
 msgstr "Нови директоријум за чување претрага"
 
-#: name.label
-#: name.accesskey
+#: name.label name.accesskey
 msgid "&Name:"
 msgstr "&Име:"
 
-#: description.label
-#: description.accesskey
+#: description.label description.accesskey
 msgid "&Create as a subfolder of:"
 msgstr "&Направи као поддиректоријум од:"
 
-#: searchCriteriaText.label
-msgid "Modify the search criteria used for this saved search:"
-msgstr "Измени овај сачувани критеријум за претрагу:"
-
-#: searchCriteriaButton.label
-#: searchCriteriaButton.accesskey
-msgid "&Search Criteria..."
-msgstr "&Критеријуми за претрагу..."
-
 #: searchTermCaption.label
 msgid "Configure the search criteria used for this saved search folder: "
-msgstr "Подеси критеријуме за претрагу који се користе за овај директоријум са претрагама:"
+msgstr ""
+"Подеси критеријуме за претрагу који се користе за овај директоријум са "
+"претрагама:"
 
 #: folderSelectionCaption.label
 msgid "Select the folders to search: "
 msgstr "Избор директоријума за претрагу: "
 
-#: chooseFoldersButton.label
-#: chooseFoldersButton.accesskey
-msgid "C&hoose..."
-msgstr "&Избор..."
+#: chooseFoldersButton.label chooseFoldersButton.accesskey
+msgid "C&hoose…"
+msgstr ""
 
-#: searchOnline.label
-#: searchOnline.accesskey
-msgid "Search &Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)"
-msgstr "Претражи на &вези (даје ажурне резултате за IMAP директоријуме и групе, али траје дуже)"
+#: searchOnline.label searchOnline.accesskey
+msgid ""
+"&Search Online (Gives up-to-date results for IMAP and News folders but "
+"increases time to open the folder)"
+msgstr ""
+
+#~ msgid "Modify the search criteria used for this saved search:"
+#~ msgstr "Измени овај сачувани критеријум за претрагу:"
+
+#~ msgid "&Search Criteria..."
+#~ msgstr "&Критеријуми за претрагу..."
+
+#~ msgid "C&hoose..."
+#~ msgstr "&Избор..."
+
+#~ msgid ""
+#~ "Search &Online (Gives up-to-date results for IMAP and News folders but "
+#~ "increases time to open the folder)"
+#~ msgstr ""
+#~ "Претражи на &вези (даје ажурне резултате за IMAP директоријуме и групе, "
+#~ "али траје дуже)"

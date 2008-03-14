@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,17 +22,20 @@ msgstr "Личности придружени овом налогу"
 msgid "Multiple Identities Support"
 msgstr "Подршка за вишеструке личности"
 
-#: identitiesListAdd.label
-#: identitiesListAdd.accesskey
-msgid "&Add..."
-msgstr "&Додај..."
+#: identitiesListAdd.label identitiesListAdd.accesskey
+msgid "&Add…"
+msgstr ""
 
-#: identitiesListEdit.label
-#: identitiesListEdit.accesskey
-msgid "&Edit..."
-msgstr "&Уреди..."
+#: identitiesListEdit.label identitiesListEdit.accesskey
+msgid "&Edit…"
+msgstr ""
 
-#: identitiesListDelete.label
-#: identitiesListDelete.accesskey
+#: identitiesListDelete.label identitiesListDelete.accesskey
 msgid "&Delete"
 msgstr "&Уклони"
+
+#~ msgid "&Add..."
+#~ msgstr "&Додај..."
+
+#~ msgid "&Edit..."
+#~ msgstr "&Уреди..."

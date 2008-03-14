@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-12-25 02:02+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,8 +51,8 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 # Page number formating
-## @page_number The current page number
-#LOCALIZATION NOTE (pageofpages): Do not translate %ld in the following line.
+# # @page_number The current page number
+# LOCALIZATION NOTE (pageofpages): Do not translate %ld in the following line.
 # Place the word %ld where the page number and number of pages should be
 # The first %ld will receive the the page number
 # # @page_number The current page number
@@ -62,9 +62,9 @@ msgid "%1$d"
 msgstr "%1$d"
 
 # Page number formating
-## @page_number The current page number
-## @page_total The total number of pages
-#LOCALIZATION NOTE (pageofpages): Do not translate %ld in the following line.
+# # @page_number The current page number
+# # @page_total The total number of pages
+# LOCALIZATION NOTE (pageofpages): Do not translate %ld in the following line.
 # Place the word %ld where the page number and number of pages should be
 # The first %ld will receive the the page number
 # the second %ld will receive the total number of pages
@@ -74,18 +74,6 @@ msgstr "%1$d"
 #: pageofpages
 msgid "%1$d of %2$d"
 msgstr "%1$d од %2$d"
-
-# Print font
-# The name of the font to be used to print the headers and footers
-#: fontname
-msgid "serif"
-msgstr "са серифима"
-
-# Print font size
-# The size of the font to be used to print the headers and footers
-#: fontsize
-msgid "10"
-msgstr "10"
 
 #: noPrintFilename.title
 msgid "Filename is missing"
@@ -112,12 +100,16 @@ msgid "Print Preview Error"
 msgstr "Грешка претходног прегледа"
 
 #: NS_ERROR_GFX_PRINTER_CMD_NOT_FOUND
-msgid "There was a problem printing. The printer doesn't support a printing command."
+msgid ""
+"There was a problem printing. The printer doesn't support a printing command."
 msgstr "За време штампе се појавио проблем. Штампач не подржава комаду штампе."
 
 #: NS_ERROR_GFX_PRINTER_CMD_FAILURE
-msgid "There was a problem printing. An instruction that was sent to the printer failed."
-msgstr "За време штампе се појавио проблем. Није завршено слање података штампачу."
+msgid ""
+"There was a problem printing. An instruction that was sent to the printer "
+"failed."
+msgstr ""
+"За време штампе се појавио проблем. Није завршено слање података штампачу."
 
 #: NS_ERROR_GFX_PRINTER_NO_PRINTER_AVAILABLE
 msgid "There was a problem printing. No printer could be found."
@@ -132,8 +124,11 @@ msgid "There was a problem printing. Access to the printer was denied."
 msgstr "За време штампе се појавио проблем. Није дозвољен приступ штампачу."
 
 #: NS_ERROR_GFX_PRINTER_INVALID_ATTRIBUTE
-msgid "There was a problem printing. Tried to set an invalid printer attribute."
-msgstr "За време штампе се појавио проблем. Покушај коришћења непостојећег атрибута штампача."
+msgid ""
+"There was a problem printing. Tried to set an invalid printer attribute."
+msgstr ""
+"За време штампе се појавио проблем. Покушај коришћења непостојећег атрибута "
+"штампача."
 
 #: NS_ERROR_GFX_PRINTER_PRINTER_NOT_READY
 msgid "There was a problem printing. The printer not ready."
@@ -145,11 +140,13 @@ msgstr "За време штампе се појавио проблем. У шт
 
 #: NS_ERROR_GFX_PRINTER_PRINTER_IO_ERROR
 msgid "There was a problem printing. Printer I/O error."
-msgstr "За време штампе се појавио проблем. Грешка у систему улаза-излаза на штампач."
+msgstr ""
+"За време штампе се појавио проблем. Грешка у систему улаза-излаза на штампач."
 
 #: NS_ERROR_GFX_PRINTER_COULD_NOT_OPEN_FILE
 msgid "There was a problem printing. The output file could not be opened."
-msgstr "За време штампе се појавио проблем. Не могу да отворим излазну датотеку."
+msgstr ""
+"За време штампе се појавио проблем. Не могу да отворим излазну датотеку."
 
 #: NS_ERROR_GFX_PRINTER_FILE_IO_ERROR
 msgid "There was an error writing the printing output file."
@@ -157,7 +154,8 @@ msgstr "За време записа у излазну датотеку поја
 
 #: NS_ERROR_GFX_PRINTER_PRINTPREVIEW
 msgid "There must be at least one printer available to show Print Preview."
-msgstr "Да би користили преглед пре штампе мора бити доступан бар један штампач."
+msgstr ""
+"Да би користили преглед пре штампе мора бити доступан бар један штампач."
 
 #: NS_ERROR_UNEXPECTED
 msgid "There was an unexpected problem when printing."
@@ -204,34 +202,48 @@ msgid "You cannot print while in print preview."
 msgstr "Не можете штампати докуменат за време његовог прегледа пре штампе."
 
 #: NS_ERROR_GFX_PRINTER_PAPER_SIZE_NOT_SUPPORTED
-msgid "There was a problem printing because the paper size you specified is not supported by your printer."
-msgstr "За време штампе се појавио проблем, зато што штампа на папиру изабраних димензија није подржана од стране Вашег штампача."
+msgid ""
+"There was a problem printing because the paper size you specified is not "
+"supported by your printer."
+msgstr ""
+"За време штампе се појавио проблем, зато што штампа на папиру изабраних "
+"димензија није подржана од стране Вашег штампача."
 
 #: NS_ERROR_GFX_PRINTER_ORIENTATION_NOT_SUPPORTED
-msgid "There was a problem printing because the page orientation you specified is not supported by your printer."
-msgstr "За време штампе се појавио проблем, зато што штампа у изабраној оријентацији није подржана од стране Вашег штампача."
+msgid ""
+"There was a problem printing because the page orientation you specified is "
+"not supported by your printer."
+msgstr ""
+"За време штампе се појавио проблем, зато што штампа у изабраној оријентацији "
+"није подржана од стране Вашег штампача."
 
 #: NS_ERROR_GFX_PRINTER_COLORSPACE_NOT_SUPPORTED
-msgid "There was a problem printing because the print job requires color capabilities that your printer does not support."
-msgstr "За време штампе се појавио проблем, зато што Ваш штампач не подржава штампу неопходних боја."
+msgid ""
+"There was a problem printing because the print job requires color "
+"capabilities that your printer does not support."
+msgstr ""
+"За време штампе се појавио проблем, зато што Ваш штампач не подржава штампу "
+"неопходних боја."
 
 #: NS_ERROR_GFX_PRINTER_TOO_MANY_COPIES
 msgid "There was a problem printing because you requested too many copies."
-msgstr "За време штампе се појавио проблем, зато што сте тражили штампу са превеликим бројем копија."
+msgstr ""
+"За време штампе се појавио проблем, зато што сте тражили штампу са "
+"превеликим бројем копија."
 
 #: NS_ERROR_GFX_PRINTER_DRIVER_CONFIGURATION_ERROR
-msgid "There was a problem printing. The printer driver is not properly configured."
-msgstr "За време штампе се појавио проблем. Драјвер за штампач није добро подешен."
-
-#: NS_ERROR_GFX_PRINTER_XPRINT_BROKEN_XPRT
-msgid "A broken version of the X print server (Xprt) has been detected. Note that printing using this Xprt server may not work properly. Please contact the server vendor for a fixed version."
-msgstr "Откривена је верзија сервера штампе која садржи грешке X Windows (Xprt). Штампа помоћу Xprt-сервера може бити некоректна. Обратите се техничкој подршци која одржава Ваш систем."
+msgid ""
+"There was a problem printing. The printer driver is not properly configured."
+msgstr ""
+"За време штампе се појавио проблем. Драјвер за штампач није добро подешен."
 
 #: NS_ERROR_GFX_PRINTER_DOC_IS_BUSY_PP
 msgid ""
 "The browser cannot print preview right now.\n"
 "Please try again when the page has finished loading."
-msgstr "Преглед стране тренутно не може бити коришћен. Покушајте поново после завршетка учитавања странице."
+msgstr ""
+"Преглед стране тренутно не може бити коришћен. Покушајте поново после "
+"завршетка учитавања странице."
 
 #: NS_ERROR_GFX_PRINTER_DOC_WAS_DESTORYED
 msgid ""
@@ -245,7 +257,9 @@ msgstr ""
 msgid ""
 "Either pluggable dialogs were not properly installed\n"
 "Or this GFX Toolkit no longer supports native Print Dialogs"
-msgstr "Вероватно, није добро постављен модул управљања графиком, или он више не подржава сопствени дијалог система штампе"
+msgstr ""
+"Вероватно, није добро постављен модул управљања графиком, или он више не "
+"подржава сопствени дијалог система штампе"
 
 #: NS_ERROR_GFX_NO_PRINTROMPTSERVICE
 msgid "The Printing Prompt Service is missing."
@@ -255,16 +269,13 @@ msgstr "Не постоји служба за контролу штампе."
 msgid "We are unable to Print or Print Preview this page."
 msgstr "Немогуће је одштампати или прегледати пре штампе ову страну."
 
-#: NS_ERROR_GFX_PRINTER_XPRINT_NO_XPRINT_SERVERS_FOUND
-msgid ""
-"There was a problem printing. No Xprint server(s) could be found.\n"
-"Check whether the XPSERVERLIST environment variable contains any valid Xprint servers.\n"
-"For further information see http://xprint.mozdev.org/ or http://www.mozilla.org/projects/xprint/"
-msgstr "За време штампе се појавио проблем. Сервер штампе  Xprint није пронађен. Проверите да ли садржај променљиве окружења указује на постојећи сервер штампе."
-
 #: NS_ERROR_GFX_PRINTER_PLEX_NOT_SUPPORTED
-msgid "There was a problem printing because the plex mode you specified is not supported by your printer."
-msgstr "За време штампе се појавио проблем, зато што изабрани режим рада није подржан од стране Вашег штампача."
+msgid ""
+"There was a problem printing because the plex mode you specified is not "
+"supported by your printer."
+msgstr ""
+"За време штампе се појавио проблем, зато што изабрани режим рада није "
+"подржан од стране Вашег штампача."
 
 #: NS_ERROR_GFX_PRINTER_DOC_IS_BUSY
 msgid "The browser cannot print the document while it is being loaded."
@@ -279,8 +290,12 @@ msgid "The requested print module cannot be loaded."
 msgstr "Захтевани модул за штампу није могуће покренути."
 
 #: NS_ERROR_GFX_PRINTER_RESOLUTION_NOT_SUPPORTED
-msgid "There was a problem printing because the resolution/quality mode you specified is not supported by your printer."
-msgstr "Произашао је проблем при штампи због изабране резолуције/квалитета који нису подржани од штампача."
+msgid ""
+"There was a problem printing because the resolution/quality mode you "
+"specified is not supported by your printer."
+msgstr ""
+"Произашао је проблем при штампи због изабране резолуције/квалитета који нису "
+"подржани од штампача."
 
 # No printers available
 #: noprinter
@@ -290,3 +305,33 @@ msgstr "Нема доступних штампача."
 #: PrintToFile
 msgid "Print To File"
 msgstr "Штампа у датотеку"
+
+# Print font
+# The name of the font to be used to print the headers and footers
+#~ msgid "serif"
+#~ msgstr "са серифима"
+
+# Print font size
+# The size of the font to be used to print the headers and footers
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid ""
+#~ "A broken version of the X print server (Xprt) has been detected. Note "
+#~ "that printing using this Xprt server may not work properly. Please "
+#~ "contact the server vendor for a fixed version."
+#~ msgstr ""
+#~ "Откривена је верзија сервера штампе која садржи грешке X Windows (Xprt). "
+#~ "Штампа помоћу Xprt-сервера може бити некоректна. Обратите се техничкој "
+#~ "подршци која одржава Ваш систем."
+
+#~ msgid ""
+#~ "There was a problem printing. No Xprint server(s) could be found.\n"
+#~ "Check whether the XPSERVERLIST environment variable contains any valid "
+#~ "Xprint servers.\n"
+#~ "For further information see http://xprint.mozdev.org/ or http://www."
+#~ "mozilla.org/projects/xprint/"
+#~ msgstr ""
+#~ "За време штампе се појавио проблем. Сервер штампе  Xprint није пронађен. "
+#~ "Проверите да ли садржај променљиве окружења указује на постојећи сервер "
+#~ "штампе."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 22:22+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,22 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
-
-#: close
-msgid "Close"
-msgstr "Затвори"
-
-#: unknown
-msgid "Unknown Error"
-msgstr "Непозната грешка"
-
-#: error
-msgid "Close. Press Close button to close dialog."
-msgstr "Затвори. Притисните ово дугме за затварање дијалога."
-
-#: FilePickerTitle
-msgid "Save File"
-msgstr "Сачувај датотеку"
 
 # LOCALIZATION NOTE (BadPluginTitle): 
 #
@@ -46,8 +30,12 @@ msgstr "Недозвољена операција у додатку"
 #   Localizable URLs
 # LOCALIZATION NOTE (BadPluginMessage):
 #: BadPluginMessage
-msgid "The plug-in performed an illegal operation. You are strongly advised to restart %S."
-msgstr "Додатак је извршио недозвољену операцију. Саветујемо Вам да поново покренете %S."
+msgid ""
+"The plug-in performed an illegal operation. You are strongly advised to "
+"restart %S."
+msgstr ""
+"Додатак је извршио недозвољену операцију. Саветујемо Вам да поново покренете "
+"%S."
 
 # LOCALIZATION NOTE (BadPluginCheckboxMessage): 
 #
@@ -59,3 +47,15 @@ msgstr "Додатак је извршио недозвољену операци
 #: BadPluginCheckboxMessage
 msgid "Don't show this message again during this session."
 msgstr "Не приказуј више ову поруку у овој сесији."
+
+#~ msgid "Close"
+#~ msgstr "Затвори"
+
+#~ msgid "Unknown Error"
+#~ msgstr "Непозната грешка"
+
+#~ msgid "Close. Press Close button to close dialog."
+#~ msgstr "Затвори. Притисните ово дугме за затварање дијалога."
+
+#~ msgid "Save File"
+#~ msgstr "Сачувај датотеку"

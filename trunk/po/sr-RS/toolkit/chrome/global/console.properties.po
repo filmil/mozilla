@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 00:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,10 +22,6 @@ msgstr "Грешка:"
 msgid "Warning:"
 msgstr "Упозорење:"
 
-#: typeException
-msgid "Exception:"
-msgstr "Изузетак:"
-
 #: errFile
 msgid "Source File: %S"
 msgstr "Изворна датотека: %S"
@@ -41,3 +37,6 @@ msgstr "Ред: %S, колона: %S"
 #: errCode
 msgid "Source Code:"
 msgstr "Изворни код:"
+
+#~ msgid "Exception:"
+#~ msgstr "Изузетак:"

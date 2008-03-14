@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,13 +15,13 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: addressbookPicker.label
-msgid "Address Book:"
-msgstr "Адресар:"
+#: addressbookPicker.label addressbookPicker.accesskey
+msgid "Address Boo&k:"
+msgstr ""
 
-#: searchInput.label
-msgid "Search For:"
-msgstr "Тражи:"
+#: searchInput.label searchInput.accesskey
+msgid "Search F&or:"
+msgstr ""
 
 #: SearchNameOrEmail.label
 msgid "Name or Email"
@@ -39,10 +39,26 @@ msgstr "Додај у поље Коп"
 msgid "Add to Bcc field"
 msgstr "Додај у поље сКоп"
 
-#: toButton.label
-msgid "Add to To:"
-msgstr "Додај у За:"
+#: toButton.label toButton.accesskey
+msgid "&Add to To:"
+msgstr ""
 
-#: ccButton.label
-msgid "Add to Cc:"
-msgstr "Додај у Коп:"
+#: ccButton.label ccButton.accesskey
+msgid "A&dd to Cc:"
+msgstr ""
+
+#: bccButton.label bccButton.accesskey
+msgid "Add to &Bcc:"
+msgstr ""
+
+#~ msgid "Address Book:"
+#~ msgstr "Адресар:"
+
+#~ msgid "Search For:"
+#~ msgstr "Тражи:"
+
+#~ msgid "Add to To:"
+#~ msgstr "Додај у За:"
+
+#~ msgid "Add to Cc:"
+#~ msgstr "Додај у Коп:"

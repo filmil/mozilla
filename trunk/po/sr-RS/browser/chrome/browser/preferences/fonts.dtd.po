@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2008-03-05 02:22+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,8 +33,7 @@ msgstr "45em"
 msgid "41em"
 msgstr "43em"
 
-#: language.label
-#: language.accesskey
+#: language.label language.accesskey
 msgid "&Fonts for:"
 msgstr "&Фонт за:"
 
@@ -42,49 +41,29 @@ msgstr "&Фонт за:"
 msgid "Size:"
 msgstr "Величина:"
 
-#: size.accesskey1
+#: sizeProportional.accesskey
 msgid "z"
 msgstr "z"
 
-#: size.accesskey2
+#: sizeMonospace.accesskey
 msgid "e"
 msgstr "e"
 
-#: proportional.label
-#: proportional.accesskey
+#: proportional.label proportional.accesskey
 msgid "&Proportional:"
 msgstr "&Пропорционални:"
 
-#: serif.label
-#: serif.accesskey
+#: serif.label serif.accesskey
 msgid "&Serif:"
 msgstr "&Серифни:"
 
-#: sans-serif.label
-#: sans-serif.accesskey
+#: sans-serif.label sans-serif.accesskey
 msgid "Sa&ns-serif:"
 msgstr "Бе&зсерифни:"
 
-#: monospace.label
-#: monospace.accesskey
+#: monospace.label monospace.accesskey
 msgid "&Monospace:"
 msgstr "&Блок:"
-
-#: fantasy.label
-#: fantasy.accesskey
-msgid ""
-"_: 'Fantasy' means 'Ornate'\n"
-"&Fantasy:"
-msgstr "&Китњасти:"
-
-#: cursive.label
-#: cursive.accesskey
-msgid "&Cursive:"
-msgstr "&Курзив:"
-
-#: fontsize.units
-msgid "pixels"
-msgstr "тачака"
 
 #: font.langGroup.latin1
 msgid "Western"
@@ -195,8 +174,7 @@ msgid "Malayalam"
 msgstr "малезијски"
 
 # Minimum font size
-#: minSize.label
-#: minSize.accesskey
+#: minSize.label minSize.accesskey
 msgid "Minimum f&ont size:"
 msgstr "Нај&мања величина фонта:"
 
@@ -213,8 +191,7 @@ msgstr "Серифни"
 msgid "Sans Serif"
 msgstr "Безсерифни"
 
-#: allowPagesToUse.label
-#: allowPagesToUse.accesskey
+#: allowPagesToUse.label allowPagesToUse.accesskey
 msgid "&Allow pages to choose their own fonts, instead of my selections above"
 msgstr "&Дозволи странама да користе своје фонтове, уместо горе датог избора"
 
@@ -226,3 +203,14 @@ msgstr "Кодирање знакова"
 #: languages.customize.DefaultCharset.accesskey
 msgid "Default &Character Encoding:"
 msgstr "Подразумевано &кодирање знакова:"
+
+#~ msgid ""
+#~ "_: 'Fantasy' means 'Ornate'\n"
+#~ "&Fantasy:"
+#~ msgstr "&Китњасти:"
+
+#~ msgid "&Cursive:"
+#~ msgstr "&Курзив:"
+
+#~ msgid "pixels"
+#~ msgstr "тачака"

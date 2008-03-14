@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-25 00:32+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,6 +47,10 @@ msgstr "Веб страна, само HTML"
 msgid "Web Page, XHTML only"
 msgstr "Веб страна, само XHTML"
 
+#: WebPageSVGOnlyFilter
+msgid "Web Page, SVG only"
+msgstr ""
+
 #: WebPageXMLOnlyFilter
 msgid "Web Page, XML only"
 msgstr "Веб страна, само XML"
@@ -61,8 +65,12 @@ msgid "%S_files"
 msgstr "%S_датотеке"
 
 #: saveLinkErrorMsg
-msgid "The link could not be saved.  The web page might have been removed or had its name changed."
-msgstr "Везу је немогуће сачувати. Вероватно је веб страна уклоњена или јој је промењено име."
+msgid ""
+"The link could not be saved.  The web page might have been removed or had "
+"its name changed."
+msgstr ""
+"Везу је немогуће сачувати. Вероватно је веб страна уклоњена или јој је "
+"промењено име."
 
 #: saveLinkErrorTitle
 msgid "Save Link"

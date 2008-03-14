@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 20:28+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,16 +69,21 @@ msgstr "Памти ову одлуку"
 
 #: EnableCapabilityQuery
 msgid ""
-"A script from \"%S\" is requesting enhanced abilities that are UNSAFE and could be used to compromise your machine or data:\n"
+"A script from \"%S\" is requesting enhanced abilities that are UNSAFE and "
+"could be used to compromise your machine or data:\n"
 "\n"
 "%S\n"
 "\n"
-"Allow these abilities only if you trust this source to be free of viruses or malicious programs."
-msgstr "Скрипт са \"%S\" тражи напредне могућности које НИСУ БЕЗБЕДНЕ и могу компромитовати Ваш рачунар или Ваше податке:\n"
+"Allow these abilities only if you trust this source to be free of viruses or "
+"malicious programs."
+msgstr ""
+"Скрипт са \"%S\" тражи напредне могућности које НИСУ БЕЗБЕДНЕ и могу "
+"компромитовати Ваш рачунар или Ваше податке:\n"
 "\n"
 "%S\n"
 "\n"
-"Дозволите ове могућности само ако верујете извору да не садржи вирусе или злонамерне програме."
+"Дозволите ове могућности само ако верујете извору да не садржи вирусе или "
+"злонамерне програме."
 
 #: EnableCapabilityDenied
 msgid "A script from \"%S\" was denied %S privileges."
@@ -111,6 +116,13 @@ msgstr "Дозволе забрањују стварање омота од об�
 #: ExtensionCapability
 msgid "Unknown: %S"
 msgstr "Непознато: %S"
+
+#: ProtocolFlagError
+msgid ""
+"Warning: Protocol handler for '%S' doesn't advertise a security policy.  "
+"While loading of such protocols is allowed for now, this is deprecated.  "
+"Please see the documentation in nsIProtocolHandler.idl."
+msgstr ""
 
 #
 # The following descriptions are shown in the EnableCapabilityQuery dialog

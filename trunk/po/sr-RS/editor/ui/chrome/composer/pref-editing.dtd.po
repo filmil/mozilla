@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 11:08-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,7 @@ msgstr ""
 msgid "New Page Settings"
 msgstr "Поставке нове странице"
 
-#: authorName.label
-#: authorName.accesskey
+#: authorName.label authorName.accesskey
 msgid "A&uthor:"
 msgstr "&Аутор:"
 
@@ -43,28 +42,23 @@ msgstr "Користи посебне боје:"
 msgid "c"
 msgstr "c"
 
-#: normalText.label
-#: normalText.accesskey
+#: normalText.label normalText.accesskey
 msgid "&Normal text"
 msgstr "Н&ормалан текст"
 
-#: linkText.label
-#: linkText.accesskey
+#: linkText.label linkText.accesskey
 msgid "&Link text"
 msgstr "Текст &везе"
 
-#: activeLinkText.label
-#: activeLinkText.accesskey
+#: activeLinkText.label activeLinkText.accesskey
 msgid "&Active link text"
 msgstr "Текст &активне везе"
 
-#: visitedLinkText.label
-#: visitedLinkText.accesskey
+#: visitedLinkText.label visitedLinkText.accesskey
 msgid "&Visited link text"
 msgstr "Текст &посећене везе"
 
-#: background.label
-#: background.accesskey
+#: background.label background.accesskey
 msgid "&Background:"
 msgstr "&Позадина:"
 
@@ -72,12 +66,13 @@ msgstr "&Позадина:"
 msgid ":"
 msgstr ":"
 
-#: backgroundImage.label
-#: backgroundImage.accesskey
+#: backgroundImage.label backgroundImage.accesskey
 msgid "Background i&mage:"
 msgstr "Позадинска &слика:"
 
-#: chooseFile.label
-#: chooseFile.accesskey
-msgid "Ch&oose File..."
-msgstr "Избор дато&теке..."
+#: chooseFile.label chooseFile.accesskey
+msgid "Ch&oose File…"
+msgstr ""
+
+#~ msgid "Ch&oose File..."
+#~ msgstr "Избор дато&теке..."

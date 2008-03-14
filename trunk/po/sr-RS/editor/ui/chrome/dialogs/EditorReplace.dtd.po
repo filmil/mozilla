@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 11:02-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,48 +69,39 @@ msgstr ""
 msgid "Find and Replace"
 msgstr "Нађи и замени"
 
-#: findField.label
-#: findField.accesskey
+#: findField.label findField.accesskey
 msgid "Fi&nd text:"
 msgstr "&Нађи текст:"
 
-#: replaceField.label
-#: replaceField.accesskey
+#: replaceField.label replaceField.accesskey
 msgid "R&eplace with:"
 msgstr "&Замени са:"
 
-#: caseSensitiveCheckbox.label
-#: caseSensitiveCheckbox.accesskey
-msgid "Mat&ch upper/lower case"
-msgstr "Упари &велика и мала слова"
+#: caseSensitiveCheckbox.label caseSensitiveCheckbox.accesskey
+msgid "Mat&ch exact case"
+msgstr ""
 
-#: wrapCheckbox.label
-#: wrapCheckbox.accesskey
+#: wrapCheckbox.label wrapCheckbox.accesskey
 msgid "&Wrap around"
 msgstr "&Премотај"
 
-#: backwardsCheckbox.label
-#: backwardsCheckbox.accesskey
+#: backwardsCheckbox.label backwardsCheckbox.accesskey
 msgid "Search &backwards"
 msgstr "Тражи &уназад"
 
-#: findNextButton.label
-#: findNextButton.accesskey
+#: findNextButton.label findNextButton.accesskey
 msgid "&Find Next"
 msgstr "&Нађи следеће"
 
-#: replaceButton.label
-#: replaceButton.accesskey
+#: replaceButton.label replaceButton.accesskey
 msgid "&Replace"
 msgstr "&Замени"
 
-#: replaceAndFindButton.label
-#: replaceAndFindButton.accesskey
+#: replaceAndFindButton.label replaceAndFindButton.accesskey
 msgid "Replace an&d Find"
 msgstr "Замени и п&ронађи"
 
-#: replaceAllButton.label
-#: replaceAllButton.accesskey
+#: replaceAllButton.label replaceAllButton.accesskey
 msgid "Replace &All"
 msgstr "Замени с&ве"
 
@@ -123,3 +114,6 @@ msgstr "Затвори"
 #: notFoundWarning.label
 msgid "The text you entered was not found."
 msgstr "Текст ког сте унели није пронађен."
+
+#~ msgid "Mat&ch upper/lower case"
+#~ msgstr "Упари &велика и мала слова"

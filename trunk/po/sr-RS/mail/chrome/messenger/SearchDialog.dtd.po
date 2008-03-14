@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 19:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,18 +15,15 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 # for SearchDialog.xul
-#: searchHeading.label
-#: searchHeading.accesskey
+#: searchHeading.label searchHeading.accesskey
 msgid "Searc&h for messages in:"
 msgstr "Т&ражи поруке у:"
 
-#: searchSubfolders.label
-#: searchSubfolders.accesskey
+#: searchSubfolders.label searchSubfolders.accesskey
 msgid "S&earch subfolders"
 msgstr "Тражи &поддиректоријуме"
 
-#: resetButton.label
-#: resetButton.accesskey
+#: resetButton.label resetButton.accesskey
 msgid "&Clear"
 msgstr "&Очисти"
 
@@ -40,13 +37,11 @@ msgstr "Опције"
 msgid "Close"
 msgstr "Затвори"
 
-#: openButton.label
-#: openButton.accesskey
+#: openButton.label openButton.accesskey
 msgid "Ope&n"
 msgstr "&Отвори"
 
-#: deleteButton.label
-#: deleteButton.accesskey
+#: deleteButton.label deleteButton.accesskey
 msgid "&Delete"
 msgstr "&Обриши"
 
@@ -66,13 +61,11 @@ msgstr "Услов"
 msgid "Results"
 msgstr "Резултати"
 
-#: fileHereMenu.label
-#: fileHereMenu.accesskey
+#: fileHereMenu.label fileHereMenu.accesskey
 msgid "&File Here"
 msgstr "Смести ов&де"
 
-#: fileButton.label
-#: fileButton.accesskey
+#: fileButton.label fileButton.accesskey
 msgid "F&ile"
 msgstr "&Датотека"
 
@@ -80,29 +73,24 @@ msgstr "&Датотека"
 msgid "W"
 msgstr "З"
 
-#: goToFolderButton.label
-#: goToFolderButton.accesskey
+#: goToFolderButton.label goToFolderButton.accesskey
 msgid "Open Message Folde&r"
 msgstr "Отвори дире&кторијум са порукама"
 
-#: saveAsVFButton.label
-#: saveAsVFButton.accesskey
+#: saveAsVFButton.label saveAsVFButton.accesskey
 msgid "Sa&ve as Search Folder"
 msgstr "&Сачувај као директоријум за претрагу"
 
 # for ABSearchDialog.xul
-#: abSearchHeading.label
-#: abSearchHeading.accesskey
+#: abSearchHeading.label abSearchHeading.accesskey
 msgid "Searc&h in:"
 msgstr "&Тражи у:"
 
-#: propertiesButton.label
-#: propertiesButton.accesskey
+#: propertiesButton.label propertiesButton.accesskey
 msgid "&Properties"
 msgstr "&Поставке"
 
-#: composeButton.label
-#: composeButton.accesskey
+#: composeButton.label composeButton.accesskey
 msgid "&Write"
 msgstr "&Запиши"
 
@@ -130,9 +118,9 @@ msgstr "Напредна претрага адресара"
 msgid "Thread"
 msgstr "Нит"
 
-#: senderColumn.label
-msgid "Sender"
-msgstr "Од"
+#: fromColumn.label
+msgid "From"
+msgstr ""
 
 #: recipientColumn.label
 msgid "Recipient"
@@ -186,6 +174,10 @@ msgstr "Укупно"
 msgid "Read"
 msgstr "Прочитано"
 
+#: receivedColumn.label
+msgid "Received"
+msgstr ""
+
 #: starredColumn.label
 msgid "Starred"
 msgstr "Са звездом"
@@ -208,9 +200,9 @@ msgstr "Притисните да изабeрете колоне које се �
 msgid "Click to display message threads"
 msgstr "Притисните да прикажете нити порука"
 
-#: senderColumn.tooltip
-msgid "Click to sort by sender"
-msgstr "Притисните да поређате по пошиљаоцу"
+#: fromColumn.tooltip
+msgid "Click to sort by from"
+msgstr ""
 
 #: recipientColumn.tooltip
 msgid "Click to sort by recipient"
@@ -260,6 +252,10 @@ msgstr "Укупан број порука у нити"
 msgid "Click to sort by read"
 msgstr "Притисните да поређате према прочитаним порукама"
 
+#: receivedColumn.tooltip
+msgid "Click to sort by date received"
+msgstr ""
+
 #: starredColumn.tooltip
 msgid "Click to sort by star"
 msgstr "Притисните овде да уредите према звездама"
@@ -271,3 +267,9 @@ msgstr "Притисните да поређате по месту"
 #: idColumn.tooltip
 msgid "Click to sort by order received"
 msgstr "Притисните да поређате по редоследу пријема"
+
+#~ msgid "Sender"
+#~ msgstr "Од"
+
+#~ msgid "Click to sort by sender"
+#~ msgstr "Притисните да поређате по пошиљаоцу"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 20:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,18 +14,15 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: lookInMenuList.label
-#: lookInMenuList.accesskey
+#: lookInMenuList.label lookInMenuList.accesskey
 msgid "&Look in:"
 msgstr "&Погледај у:"
 
-#: textInput.label
-#: textInput.accesskey
+#: textInput.label textInput.accesskey
 msgid "File &name:"
 msgstr "&Име датотеке:"
 
-#: filterMenuList.label
-#: filterMenuList.accesskey
+#: filterMenuList.label filterMenuList.accesskey
 msgid "Files of &type:"
 msgstr "&Типови датотека:"
 
@@ -41,12 +38,7 @@ msgstr "Величина"
 msgid "Last Modified"
 msgstr "Последња измена"
 
-#: permissions.label
-msgid "Permissions"
-msgstr "Овлашћења"
-
-#: showHiddenFiles.label
-#: showHiddenFiles.accesskey
+#: showHiddenFiles.label showHiddenFiles.accesskey
 msgid "&Show hidden files and directories"
 msgstr "Приказ &сакривених датотека и директоријума"
 
@@ -65,3 +57,6 @@ msgstr "Почетак"
 #: folderNew.tooltiptext
 msgid "Create new directory"
 msgstr "Направи нови директоријум"
+
+#~ msgid "Permissions"
+#~ msgstr "Овлашћења"

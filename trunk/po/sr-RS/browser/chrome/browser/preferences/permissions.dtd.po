@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-13 00:53+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,17 +33,11 @@ msgstr "Веб место"
 msgid "Status"
 msgstr "Статус"
 
-#: addpermission.label
-msgid "New Site"
-msgstr "Ново веб место"
-
-#: removepermission.label
-#: removepermission.accesskey
+#: removepermission.label removepermission.accesskey
 msgid "&Remove Site"
 msgstr "&Уклони веб место"
 
-#: removeallpermissions.label
-#: removeallpermissions.accesskey
+#: removeallpermissions.label removeallpermissions.accesskey
 msgid "R&emove All Sites"
 msgstr "Уклони &сва веб места"
 
@@ -51,18 +45,15 @@ msgstr "Уклони &сва веб места"
 msgid "Address of web site:"
 msgstr "Адреса веб места:"
 
-#: block.label
-#: block.accesskey
+#: block.label block.accesskey
 msgid "&Block"
 msgstr "&Блокирај"
 
-#: session.label
-#: session.accesskey
+#: session.label session.accesskey
 msgid "Allow for &Session"
 msgstr "Дожволи за &сесију"
 
-#: allow.label
-#: allow.accesskey
+#: allow.label allow.accesskey
 msgid "&Allow"
 msgstr "&Дозволи"
 
@@ -70,7 +61,9 @@ msgstr "&Дозволи"
 msgid "w"
 msgstr "w"
 
-#: button.close.label
-#: button.close.accesskey
+#: button.close.label button.close.accesskey
 msgid "&Close"
 msgstr "&Затвори"
+
+#~ msgid "New Site"
+#~ msgstr "Ново веб место"

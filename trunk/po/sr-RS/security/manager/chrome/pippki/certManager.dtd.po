@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 19:30+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,17 +58,21 @@ msgstr "Менаџер сертификата"
 msgid "Your Certificates"
 msgstr "Ваши сертификати"
 
-#: certmgr.tab.others
-msgid "Other People's"
-msgstr "Други"
+#: certmgr.tab.others2
+msgid "People"
+msgstr ""
 
-#: certmgr.tab.websites
-msgid "Web Sites"
-msgstr "Сајтови"
+#: certmgr.tab.websites3
+msgid "Servers"
+msgstr ""
 
 #: certmgr.tab.ca
 msgid "Authorities"
 msgstr "Аутор"
+
+#: certmgr.tab.orphan2
+msgid "Others"
+msgstr ""
 
 #: certmgr.ca.builtins
 msgid "Built-in CAs"
@@ -86,21 +90,33 @@ msgstr "You have certificates from these organizations that identify you:"
 msgid "You have certificates on file that identify these people:"
 msgstr "You have certificates on file that identify these people:"
 
-#: certmgr.websites
-msgid "You have certificates on file that identify these web sites:"
-msgstr "You have certificates on file that identify these web sites:"
+#: certmgr.websites2
+msgid "You have certificates on file that identify these servers:"
+msgstr ""
 
 #: certmgr.cas
-msgid "You have certificates on file that identify these certificate authorities:"
-msgstr "You have certificates on file that identify these certificate authorities:"
+msgid ""
+"You have certificates on file that identify these certificate authorities:"
+msgstr ""
+"You have certificates on file that identify these certificate authorities:"
 
-#: certmgr.detail.general_tab.title
-msgid "General"
-msgstr "Опште"
+#: certmgr.orphans
+msgid ""
+"You have certificates on file that do not fit in any of the other categories:"
+msgstr ""
+
+#: certmgr.detail.general_tab.title certmgr.detail.general_tab.accesskey
+msgid "&General"
+msgstr ""
 
 #: certmgr.detail.prettyprint_tab.title
-msgid "Details"
-msgstr "Детаљи"
+#: certmgr.detail.prettyprint_tab.accesskey
+msgid "&Details"
+msgstr ""
+
+#: certmgr.pending.label
+msgid "Currently verifying certificate…"
+msgstr ""
 
 #: certmgr.subjectinfo.label
 msgid "Issued To"
@@ -134,8 +150,7 @@ msgstr "Организација"
 msgid "Organizational Unit (OU)"
 msgstr "Организациона јединица"
 
-#: certmgr.certdetail.serialnumber
-#: certmgr.serial
+#: certmgr.certdetail.serialnumber certmgr.serial
 msgid "Serial Number"
 msgstr "Серијски број"
 
@@ -175,18 +190,15 @@ msgstr "This certificate can identify mail users."
 msgid "This certificate can identify software makers."
 msgstr "This certificate can identify software makers."
 
-#: certmgr.editsslcert.edittrust
-#: certmgr.editemailcert.edittrust
+#: certmgr.editsslcert.edittrust certmgr.editemailcert.edittrust
 msgid "Edit certificate trust settings:"
 msgstr "Параметри веровања сертификатима:"
 
-#: certmgr.editsslcert.dotrust
-#: certmgr.editemailcert.dotrust
+#: certmgr.editsslcert.dotrust certmgr.editemailcert.dotrust
 msgid "Trust the authenticity of this certificate."
 msgstr "Веруј веродостојности овог сертификата."
 
-#: certmgr.editsslcert.donttrust
-#: certmgr.editemailcert.donttrust
+#: certmgr.editsslcert.donttrust certmgr.editemailcert.donttrust
 msgid "Do not trust the authenticity of this certificate."
 msgstr "Не веруј веродостојности овог сертификата."
 
@@ -215,12 +227,28 @@ msgid "You have requested to delete the certificate:"
 msgstr "You have requested to delete the certificate:"
 
 #: certmgr.deleteusercert.aftername
-msgid "Once you have deleted this certificate, you will not be able to read mail that has been encrypted with it."
-msgstr "Once you have deleted this certificate, you will not be able to read mail that has been encrypted with it."
+msgid ""
+"Once you have deleted this certificate, you will not be able to read mail "
+"that has been encrypted with it."
+msgstr ""
+"Once you have deleted this certificate, you will not be able to read mail "
+"that has been encrypted with it."
 
 #: certmgr.certname
 msgid "Certificate Name"
 msgstr "Назив сертификата"
+
+#: certmgr.certserver exceptionMgr.certlocation.caption2
+msgid "Server"
+msgstr ""
+
+#: certmgr.typesofoverrides
+msgid "Exceptions"
+msgstr ""
+
+#: certmgr.override_lifetime
+msgid "Lifetime"
+msgstr ""
 
 #: certmgr.tokenname
 msgid "Security Device"
@@ -242,72 +270,142 @@ msgstr "Рок трајања"
 msgid "E-Mail Address"
 msgstr "Адреса ел. поште"
 
-#: certmgr.ocsp_info
-msgid "Certificates have not been validated with OCSP. Click View to do so."
-msgstr "Certificates have not been validated with OCSP. Click View to do so."
-
-#: certmgr.close.label
-#: certmgr.close.accesskey
-#: certmgr.hierarchy.accesskey
+#: certmgr.close.label certmgr.close.accesskey
 msgid "&Close"
 msgstr "&Затвори"
 
-#: certmgr.view.label
-#: certmgr.view.accesskey
-#: certmgr.fields.accesskey
-msgid "&View"
-msgstr "&Преглед"
+#: certmgr.view2.label certmgr.view2.accesskey
+msgid "&View…"
+msgstr ""
 
-#: certmgr.edit.label
-#: certmgr.edit.accesskey
-msgid "&Edit"
-msgstr "Уреди"
+#: certmgr.edit2.label certmgr.edit2.accesskey
+msgid "&Edit…"
+msgstr ""
 
-#: certmgr.editca.label
-#: certmgr.editca.accesskey
+#: certmgr.editca.label certmgr.editca.accesskey
 msgid "E&dit CA Trust"
 msgstr "Уреди по&верење"
 
-#: certmgr.add.label
-#: certmgr.add.accesskey
+#: certmgr.add.label certmgr.add.accesskey
 msgid "&Add"
 msgstr "&Додај"
 
-#: certmgr.delete.label
-#: certmgr.delete.accesskey
-msgid "&Delete"
-msgstr "&Уклони"
+#: certmgr.export.label certmgr.export.accesskey
+msgid "E&xport…"
+msgstr ""
 
-# Format Toolbar, imported from editorAppShell.xul
-# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
-#: certmgr.backup.label
-#: certmgr.backup.accesskey
-msgid "&Backup"
-msgstr "&Сачувај"
+#: certmgr.delete2.label certmgr.delete2.accesskey
+msgid "&Delete…"
+msgstr ""
 
-#: certmgr.backupall.label
-#: certmgr.backupall.accesskey
-msgid "Bac&kup All"
-msgstr "Сачувај &све"
+#: certmgr.backup2.label certmgr.backup2.accesskey
+msgid "&Backup…"
+msgstr ""
 
-#: certmgr.restore.label
-#: certmgr.restore.accesskey
-msgid "I&mport"
-msgstr "&Увоз"
+#: certmgr.backupall2.label certmgr.backupall2.accesskey
+msgid "Bac&kup All…"
+msgstr ""
 
-#: certmgr.details.label
-#: certmgr.details.accesskey
+#: certmgr.restore2.label certmgr.restore2.accesskey
+msgid "I&mport…"
+msgstr ""
+
+#: certmgr.details.label certmgr.details.accesskey
 msgid "Certificate &Fields"
 msgstr "По&ља сертификата"
 
-#: certmgr.fields.label
-#: certmgr.fields.accesskey
-#: certmgr.view.accesskey
+#: certmgr.fields.label certmgr.fields.accesskey
 msgid "Field &Value"
 msgstr "Вре&дност поља"
 
-#: certmgr.hierarchy.label
-#: certmgr.hierarchy.accesskey
-#: certmgr.close.accesskey
+#: certmgr.hierarchy.label certmgr.hierarchy.accesskey
 msgid "&Certificate Hierarchy"
 msgstr "&Хијерархија сертификата"
+
+#: certmgr.addException.label certmgr.addException.accesskey
+msgid "Add E&xception…"
+msgstr ""
+
+#: exceptionMgr.title
+msgid "Add Security Exception"
+msgstr ""
+
+#: exceptionMgr.exceptionButton
+msgid "Confirm Security Exception"
+msgstr ""
+
+#: exceptionMgr.exceptionButtonAccess
+msgid "C"
+msgstr ""
+
+#: exceptionMgr.supplementalWarning
+msgid ""
+"Legitimate banks, stores, and other public sites will not ask you to do this."
+msgstr ""
+
+#: exceptionMgr.certlocation.url
+msgid "Location:"
+msgstr ""
+
+#: exceptionMgr.certlocation.download
+msgid "Get Certificate"
+msgstr ""
+
+#: exceptionMgr.certlocation.accesskey
+msgid "G"
+msgstr ""
+
+#: exceptionMgr.certstatus.caption
+msgid "Certificate Status"
+msgstr ""
+
+#: exceptionMgr.certstatus.viewCert
+msgid "View…"
+msgstr ""
+
+#: exceptionMgr.certstatus.accesskey
+msgid "V"
+msgstr ""
+
+#: exceptionMgr.permanent.label exceptionMgr.permanent.accesskey
+msgid "&Permanently store this exception"
+msgstr ""
+
+#~ msgid "Other People's"
+#~ msgstr "Други"
+
+#~ msgid "Web Sites"
+#~ msgstr "Сајтови"
+
+#~ msgid "You have certificates on file that identify these web sites:"
+#~ msgstr "You have certificates on file that identify these web sites:"
+
+#~ msgid "General"
+#~ msgstr "Опште"
+
+#~ msgid "Details"
+#~ msgstr "Детаљи"
+
+#~ msgid "Certificates have not been validated with OCSP. Click View to do so."
+#~ msgstr ""
+#~ "Certificates have not been validated with OCSP. Click View to do so."
+
+#~ msgid "&View"
+#~ msgstr "&Преглед"
+
+#~ msgid "&Edit"
+#~ msgstr "Уреди"
+
+#~ msgid "&Delete"
+#~ msgstr "&Уклони"
+
+# Format Toolbar, imported from editorAppShell.xul
+# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
+#~ msgid "&Backup"
+#~ msgstr "&Сачувај"
+
+#~ msgid "Bac&kup All"
+#~ msgstr "Сачувај &све"
+
+#~ msgid "I&mport"
+#~ msgstr "&Увоз"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 22:36+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,13 +83,11 @@ msgstr "Горња:"
 msgid "Bottom:"
 msgstr "Доња:"
 
-#: marginLeft.label
-#: hfLeft.label
+#: marginLeft.label hfLeft.label
 msgid "Left:"
 msgstr "Лево:"
 
-#: marginRight.label
-#: hfRight.label
+#: marginRight.label hfRight.label
 msgid "Right:"
 msgstr "Десно:"
 
@@ -129,51 +127,48 @@ msgstr "Десно подножје"
 msgid "Title"
 msgstr "Заглавље"
 
-#: hfTitle.code
-msgid "[&amp;T]"
-msgstr "[&amp;T]"
-
 #: hfURL
 msgid "URL"
 msgstr "Адреса"
-
-#: hfURL.code
-msgid "[&amp;U]"
-msgstr "[&amp;U]"
 
 #: hfDateAndTime
 msgid "Date/Time"
 msgstr "Датум/време"
 
-#: hfDateAndTime.code
-msgid "&amp;D"
-msgstr "&amp;D"
-
 #: hfPage
 msgid "Page #"
 msgstr "Страна #"
-
-#: hfPage.code
-msgid "[&amp;P]"
-msgstr "[&amp;P]"
 
 #: hfPageAndTotal
 msgid "Page # of #"
 msgstr "Страна бр. # од #"
 
-#: hfPageAndTotal.code
-msgid "[&amp;PT]"
-msgstr "[&amp;PT]"
-
 #: hfBlank
 msgid "--blank--"
 msgstr "--празно--"
 
-#: hfCustom
-#: customPrompt.title
-msgid "Custom..."
-msgstr "Произвољно..."
+#: hfCustom customPrompt.title
+msgid "Custom…"
+msgstr ""
 
 #: customPrompt.prompt
 msgid "Enter your custom header/footer text"
 msgstr "Унесите сопствени текст за заглавље или фусноту"
+
+#~ msgid "[&amp;T]"
+#~ msgstr "[&amp;T]"
+
+#~ msgid "[&amp;U]"
+#~ msgstr "[&amp;U]"
+
+#~ msgid "&amp;D"
+#~ msgstr "&amp;D"
+
+#~ msgid "[&amp;P]"
+#~ msgstr "[&amp;P]"
+
+#~ msgid "[&amp;PT]"
+#~ msgstr "[&amp;PT]"
+
+#~ msgid "Custom..."
+#~ msgstr "Произвољно..."

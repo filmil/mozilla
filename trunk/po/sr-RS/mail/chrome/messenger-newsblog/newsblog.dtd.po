@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-06-10 17:24+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,10 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 # folder pane context menu item
-#: folderContextRSSSubscribe.label
-#: folderContextRSSSubscribe.accesskey
-msgid "Su&bscribe..."
-msgstr "&Претплата..."
+#: folderContextRSSSubscribe.label folderContextRSSSubscribe.accesskey
+msgid "Su&bscribe…"
+msgstr ""
+
+# folder pane context menu item
+#~ msgid "Su&bscribe..."
+#~ msgstr "&Претплата..."

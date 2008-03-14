@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,6 +21,10 @@ msgstr "Исти прозор"
 #: newWindowText
 msgid "New window"
 msgstr "Нови прозор"
+
+#: newTabText
+msgid "New tab"
+msgstr ""
 
 #: parentFrameText
 msgid "Parent frame"
@@ -54,13 +58,27 @@ msgstr "%S KB (%S B)"
 msgid "Unknown (not cached)"
 msgstr "Непознато (није кеширано)"
 
-#: imageWidth
-#: imageHeight
-msgid "%Spx"
-msgstr "%S тачака"
+#: imageType
+msgid "%S image"
+msgstr ""
+
+#: animatedImageType
+msgid "%S image (animated, %S frames)"
+msgstr ""
+
+#: imageDimensions
+msgid "%Spx × %Spx"
+msgstr ""
+
+#: imageDimensionsScaled
+msgid "%Spx × %Spx (scaled to %Spx × %Spx)"
+msgstr ""
 
 # LOCALIZATION NOTE: Next two strings are for language name representations
 #                    %1$S = language name, %2$S = region name
 #: languageRegionFormat
 msgid "%1$S (%2$S)"
 msgstr "%1$S (%2$S)"
+
+#~ msgid "%Spx"
+#~ msgstr "%S тачака"

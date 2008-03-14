@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 20:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,19 +48,6 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
-
-#-----------------------------------------------------------
-# Note: IMPORTANT!
-#
-# Set "extend" to false to get the native platform dialog
-#
-# Set "extend" to true to have the native dialog extended with
-#   the "Print Frames" Frame group box
-#-----------------------------------------------------------
-# -----------------------------------------------------------
-#: extend
-msgid "true"
-msgstr "да"
 
 #: PrintFrames
 msgid "Print Frames"
@@ -81,3 +68,15 @@ msgstr "Посебно &сваки оквир"
 #: options
 msgid "Options"
 msgstr "Опције"
+
+# -----------------------------------------------------------
+# Note: IMPORTANT!
+#
+# Set "extend" to false to get the native platform dialog
+#
+# Set "extend" to true to have the native dialog extended with
+#   the "Print Frames" Frame group box
+# -----------------------------------------------------------
+# -----------------------------------------------------------
+#~ msgid "true"
+#~ msgstr "да"

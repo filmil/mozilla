@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-24 20:23+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,45 +29,64 @@ msgstr "Отварање #1"
 # 
 #
 #: intro.label
-msgid "The file &quot;#3&quot; is of type #2 (#1), and #4 does not know how to handle this file type. This file is located at:"
-msgstr "Датотека „#3‟ је типа #2 (#1), и програм #4 не зна шта да ради са овим типом. Датотека се налази на:"
+msgid ""
+"The file &quot;#3&quot; is of type #2 (#1), and #4 does not know how to "
+"handle this file type. This file is located at:"
+msgstr ""
+"Датотека „#3‟ је типа #2 (#1), и програм #4 не зна шта да ради са овим "
+"типом. Датотека се налази на:"
 
 #: intro.noDesc.label
-msgid "The file &quot;#3&quot; is of type #2, and #4 does not know how to handle this file type. This file is located at:"
-msgstr "Датотека „#3‟ је типа #2, и програм #4 не зна шта да ради са овим типом. Датотека се налази на:"
+msgid ""
+"The file &quot;#3&quot; is of type #2, and #4 does not know how to handle "
+"this file type. This file is located at:"
+msgstr ""
+"Датотека „#3‟ је типа #2, и програм #4 не зна шта да ради са овим типом. "
+"Датотека се налази на:"
 
 #: intro.attachment.label
-msgid "The site has suggested that &quot;#3&quot; be handled as an attachment. It is of type #2 (#1) and located at:"
-msgstr "Сајт је назначио да „#3‟ буде третиран као прилог. Он је типа #2 (#1) и налази се на:"
+msgid ""
+"The site has suggested that &quot;#3&quot; be handled as an attachment. It "
+"is of type #2 (#1) and located at:"
+msgstr ""
+"Сајт је назначио да „#3‟ буде третиран као прилог. Он је типа #2 (#1) и "
+"налази се на:"
 
 #: intro.attachment.noDesc.label
-msgid "The site has suggested that &quot;#3&quot; be handled as an attachment. It is of type #2 and located at:"
-msgstr "Сајт је назначио да „#3‟ буде третиран као прилог. Он је типа #2 и налази се на:"
+msgid ""
+"The site has suggested that &quot;#3&quot; be handled as an attachment. It "
+"is of type #2 and located at:"
+msgstr ""
+"Сајт је назначио да „#3‟ буде третиран као прилог. Он је типа #2 и налази се "
+"на:"
 
 #: intro.sniffed.label
-msgid "#4 has detected that the file &quot;#3&quot; is likely to be of type #2 (#1). The file is located at:"
-msgstr "#4 је пронашао да датотека „#3‟ је типа #2 (#1). Датотека се налази на:"
+msgid ""
+"#4 has detected that the file &quot;#3&quot; is likely to be of type #2 "
+"(#1). The file is located at:"
+msgstr ""
+"#4 је пронашао да датотека „#3‟ је типа #2 (#1). Датотека се налази на:"
 
 #: intro.sniffed.noDesc.label
-msgid "#4 has detected that the file &quot;#3&quot; is likely to be of type #2. The file is located at:"
-msgstr "#4 је пронашао да датотека &quot;#3&quot; је типа #2. Датотека се налази на:"
+msgid ""
+"#4 has detected that the file &quot;#3&quot; is likely to be of type #2. The "
+"file is located at:"
+msgstr ""
+"#4 је пронашао да датотека &quot;#3&quot; је типа #2. Датотека се налази на:"
 
 #: prompt.label
 msgid "What should #1 do with this file?"
 msgstr "Шта програм #1 треба да уради са овом датотеком?"
 
-#: alwaysHandle.label
-#: alwaysHandle.accesskey
+#: alwaysHandle.label alwaysHandle.accesskey
 msgid "&Always perform this action when handling files of this type"
 msgstr "Увек &користи ово дејство за датотеке овог типа"
 
-#: saveToDisk.label
-#: saveToDisk.accesskey
+#: saveToDisk.label saveToDisk.accesskey
 msgid "&Save it to disk"
 msgstr "Сачувај &датотеку на диск"
 
-#: useSystemDefault.label
-#: useSystemDefault.accesskey
+#: useSystemDefault.label useSystemDefault.accesskey
 msgid "&Open it with the default application (#1)"
 msgstr "&Отвори помоћу подразумеваног програма (#1)"
 
@@ -76,24 +95,29 @@ msgid "Open it with the default application"
 msgstr "Отвори помоћу подразумеваног програма"
 
 # LOCALIZATION NOTE:  do not localize "#1"
-#: openUsing.label
-#: openUsing.accesskey
+#: openUsing.label openUsing.accesskey
 msgid "Open it &with"
 msgstr "Отвори &помоћу"
 
-#: chooseApp.label
-#: chooseApp.accesskey
-msgid "&Choose..."
-msgstr "&Избор..."
+#: chooseApp.label chooseApp.accesskey
+msgid "&Choose…"
+msgstr ""
 
 #: chooseAppFilePickerTitle
 msgid "Choose Helper Application"
 msgstr "Избор помоћног програма"
 
 #: badApp
-msgid "The application you specified (&quot;#1&quot;) could not be found.  Check the file name or select another application."
-msgstr "Не могу да пронађем изабрани програм (&quot;#1&quot;). Проверите име или изаберите други програм."
+msgid ""
+"The application you specified (&quot;#1&quot;) could not be found.  Check "
+"the file name or select another application."
+msgstr ""
+"Не могу да пронађем изабрани програм (&quot;#1&quot;). Проверите име или "
+"изаберите други програм."
 
 #: badApp.title
 msgid "Application not found"
 msgstr "Помоћни програм није пронађен"
+
+#~ msgid "&Choose..."
+#~ msgstr "&Избор..."

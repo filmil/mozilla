@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-23 23:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,37 +66,35 @@ msgstr "Ред:"
 msgid "Column:"
 msgstr "Колона:"
 
-#: all.label
-#: all.accesskey
+#: all.label all.accesskey
 msgid "&All"
 msgstr "&Све"
 
-#: errors.label
-#: errors.accesskey
+#: errors.label errors.accesskey
 msgid "&Errors"
 msgstr "&Грешке"
 
-#: warnings.label
-#: warnings.accesskey
+#: warnings.label warnings.accesskey
 msgid "&Warnings"
 msgstr "&Упозорења"
 
-#: messages.label
-#: messages.accesskey
+#: messages.label messages.accesskey
 msgid "&Messages"
 msgstr "&Поруке"
 
-#: clear.label
-#: clear.accesskey
+#: clear.label clear.accesskey
 msgid "&Clear"
 msgstr "&Очисти"
 
-#: evaluate.label
-msgid "Evaluate"
-msgstr "Израчунај"
+#: codeEval.label codeEval.accesskey
+msgid "C&ode:"
+msgstr ""
 
-#: copyCmd.label
-#: copyCmd.accesskey
+#: evaluate.label evaluate.accesskey
+msgid "E&valuate"
+msgstr ""
+
+#: copyCmd.label copyCmd.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
@@ -104,13 +102,11 @@ msgstr "&Умножи"
 msgid "C"
 msgstr "C"
 
-#: sortFirst.label
-#: sortFirst.accesskey
+#: sortFirst.label sortFirst.accesskey
 msgid "&First > Last Sort Order"
 msgstr "У&реди по растућем редоследу"
 
-#: sortLast.label
-#: sortLast.accesskey
+#: sortLast.label sortLast.accesskey
 msgid "&Last > First Sort Order"
 msgstr "&Уреди по опадајућем редоследу"
 
@@ -125,3 +121,6 @@ msgstr "l"
 #: focus2.commandkey
 msgid "d"
 msgstr "d"
+
+#~ msgid "Evaluate"
+#~ msgstr "Израчунај"

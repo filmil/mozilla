@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,8 +19,12 @@ msgid "Security"
 msgstr "Безбедност"
 
 #: securityHeading.label
-msgid "To send and receive signed or encrypted messages, you should specify both a digital signing certificate and an encryption certificate."
-msgstr "Да бисте примали или слали потписане или шифроване поруке, морате одредити и сертификат за дигитални потпис и сертификат за шифровање."
+msgid ""
+"To send and receive signed or encrypted messages, you should specify both a "
+"digital signing certificate and an encryption certificate."
+msgstr ""
+"Да бисте примали или слали потписане или шифроване поруке, морате одредити и "
+"сертификат за дигитални потпис и сертификат за шифровање."
 
 #: encryptionGroupTitle.label
 msgid "Encryption"
@@ -36,20 +40,23 @@ msgstr "Никада (не користи шифровање)"
 
 #: alwaysEncryptMessage.label
 msgid "Required (can't send message unless all recipients have certificates)"
-msgstr "Неопходно (није могуће послати поруку осим ако сви примаоци имају сертификате)"
+msgstr ""
+"Неопходно (није могуће послати поруку осим ако сви примаоци имају "
+"сертификате)"
 
 #: encryptionCert.message
 msgid "Use this certificate to encrypt &amp; decrypt messages sent to you:"
-msgstr "Употреби овај сертификат за шифровање и дешифровање порука које су ми послате:"
+msgstr ""
+"Употреби овај сертификат за шифровање и дешифровање порука које су ми "
+"послате:"
 
-#: encryptionCert.notselected
-#: signingCert.notselected
+#: encryptionCert.notselected signingCert.notselected
 msgid "No certificate set"
 msgstr "Сертификат није постављен"
 
 #: certificate.button
-msgid "Select..."
-msgstr "Избор..."
+msgid "Select…"
+msgstr ""
 
 #: certificate_clear.button
 msgid "Clear"
@@ -72,12 +79,13 @@ msgstr "Користи овај сертификат за дигитални п�
 msgid "Certificates"
 msgstr "Сертификати"
 
-#: managecerts.label
-#: managecerts.accesskey
+#: managecerts.label managecerts.accesskey
 msgid "&View Certificates"
 msgstr "&Преглед сертификата"
 
-#: managedevices.label
-#: managedevices.accesskey
+#: managedevices.label managedevices.accesskey
 msgid "&Security Devices"
 msgstr "&Безбедносни уређаји"
+
+#~ msgid "Select..."
+#~ msgstr "Избор..."

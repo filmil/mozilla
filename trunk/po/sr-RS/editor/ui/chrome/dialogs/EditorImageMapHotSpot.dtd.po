@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 09:47-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,8 +70,8 @@ msgid "Hotspot Alt Text:"
 msgstr "Алтернативни текст:"
 
 #: browseButton.label
-msgid "Browse..."
-msgstr "Изабери..."
+msgid "Browse…"
+msgstr ""
 
 #: targetFieldset.label
 msgid "Target Setting"
@@ -105,3 +105,6 @@ msgstr "Нови прозор"
 #: parent.value
 msgid "Parent Frame"
 msgstr "Оквир изнад"
+
+#~ msgid "Browse..."
+#~ msgstr "Изабери..."

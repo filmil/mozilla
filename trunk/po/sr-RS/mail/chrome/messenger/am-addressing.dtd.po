@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:22+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,18 +28,15 @@ msgid "When looking up addresses:"
 msgstr "При тражењу адреса:"
 
 # LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line
-#: useGlobal.label
-#: useGlobal.accesskey
+#: useGlobal.label useGlobal.accesskey
 msgid "&Use my global LDAP server preferences for this account"
 msgstr "&Користи глобална LDAP подешавања за овај налог"
 
-#: editDirectories.label
-#: editDirectories.accesskey
-msgid "&Edit Directories..."
-msgstr "&Уреди директоријуме..."
+#: editDirectories.label editDirectories.accesskey
+msgid "&Edit Directories…"
+msgstr ""
 
-#: directories.label
-#: directories.accesskey
+#: directories.label directories.accesskey
 msgid ""
 "_: do not translate \"LDAP\" in below line\n"
 "Use a different L&DAP server:"
@@ -50,20 +47,17 @@ msgstr "Користи &различит LDAP сервер:"
 msgid "Composition"
 msgstr "Састављање"
 
-#: useHtml.label
-#: useHtml.accesskey
+#: useHtml.label useHtml.accesskey
 msgid ""
 "_: do not translate \"html\" in below line\n"
 "&Compose messages in HTML format"
 msgstr "Сас&тављај поруке у HTML формату"
 
-#: autoQuote.label
-#: autoQuote.accesskey
+#: autoQuote.label autoQuote.accesskey
 msgid "Automatically &quote the original message when replying"
 msgstr "Аутоматски &цитирај изворну поруку при одговарању"
 
-#: then.label
-#: then.accesskey
+#: then.label then.accesskey
 msgid ""
 "_: This will concatenate with the 4 strings that follow.\n"
 "&Then,"
@@ -81,8 +75,7 @@ msgstr "почни одговор испод цитата"
 msgid "select the quote"
 msgstr "изабери цитат"
 
-#: place.label
-#: place.accesskey
+#: place.label place.accesskey
 msgid "and &place my signature"
 msgstr "и стави &потпис"
 
@@ -93,3 +86,6 @@ msgstr "испод цитата (препоручено)"
 #: aboveText.label
 msgid "below my reply (above the quote)"
 msgstr "испод мог одговора (изнад цитата)"
+
+#~ msgid "&Edit Directories..."
+#~ msgstr "&Уреди директоријуме..."

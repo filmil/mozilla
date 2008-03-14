@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,38 +18,41 @@ msgstr ""
 msgid "Viewing Feed"
 msgstr "Преглед довода"
 
-#: feedSubscriptionInfo1a
-msgid "This is a &#8220;"
-msgstr "Ово је &#8220;"
-
-#: feedName
-msgid "feed"
-msgstr "довод"
-
-#: feedSubscriptionInfo1b
-msgid "&#8221; of frequently changing content on this site."
-msgstr "&#8221; често мењаног садржаја на овом ел. месту."
-
-#: feedSubscriptionInfo2
-msgid "You can subscribe to this feed to receive updates when this content changes."
-msgstr "Можете да се претплатите на овај довод да бисте добијали обавештења када се садржај промени."
-
 #: feedSubscribeNow
 msgid "Subscribe Now"
 msgstr "Претплати се одмах"
-
-#: subscribeUsing
-msgid "Subscribe to this feed using "
-msgstr "Претплати се на овај довод користећи "
 
 #: feedLiveBookmarks
 msgid "Live Bookmarks"
 msgstr "Живе везе"
 
-#: error.title
-msgid "Error Processing Feed"
-msgstr "Грешка у обради довода"
+#~ msgid "This is a &#8220;"
+#~ msgstr "Ово је &#8220;"
 
-#: error.message
-msgid "There was an error processing this feed. It's our fault. :-( You can still subscribe to the feed if you know what it is. For reference, the error was:"
-msgstr "Дошло је до грешке у обради овог довода. Кривица је наша. :-( Можете и даље да се претплатите на довод ако тачно знате шта је.  Можда ће Вам помоћи да знате да је грешка:"
+#~ msgid "feed"
+#~ msgstr "довод"
+
+#~ msgid "&#8221; of frequently changing content on this site."
+#~ msgstr "&#8221; често мењаног садржаја на овом ел. месту."
+
+#~ msgid ""
+#~ "You can subscribe to this feed to receive updates when this content "
+#~ "changes."
+#~ msgstr ""
+#~ "Можете да се претплатите на овај довод да бисте добијали обавештења када "
+#~ "се садржај промени."
+
+#~ msgid "Subscribe to this feed using "
+#~ msgstr "Претплати се на овај довод користећи "
+
+#~ msgid "Error Processing Feed"
+#~ msgstr "Грешка у обради довода"
+
+#~ msgid ""
+#~ "There was an error processing this feed. It's our fault. :-( You can "
+#~ "still subscribe to the feed if you know what it is. For reference, the "
+#~ "error was:"
+#~ msgstr ""
+#~ "Дошло је до грешке у обради овог довода. Кривица је наша. :-( Можете и "
+#~ "даље да се претплатите на довод ако тачно знате шта је.  Можда ће Вам "
+#~ "помоћи да знате да је грешка:"

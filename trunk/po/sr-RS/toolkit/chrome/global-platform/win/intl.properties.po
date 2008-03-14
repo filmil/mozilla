@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-23 23:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,14 +14,12 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-# moved from navigator/locale/navigator.properties
-# valid collation options are: <empty string> or useCodePointOrder
-#: intl.collationOption
-msgid ""
-"_: intl.collationOption\n"
-""
-msgstr ""
-
 #: intl.charset.default
 msgid "ISO-8859-1"
 msgstr "UTF-8"
+
+# LOCALIZATION NOTE (intl.ellipsis): Use the unicode ellipsis char, \u2026,
+# or use "..." unless \u2026 doesn't suit traditions in your locale.
+#: intl.ellipsis
+msgid "…"
+msgstr ""

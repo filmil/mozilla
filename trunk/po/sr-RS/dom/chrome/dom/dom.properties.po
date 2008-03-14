@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-11 00:12+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,12 +19,27 @@ msgid "Warning: Unresponsive script"
 msgstr "Упозорење: Скрипта не одговара"
 
 #: KillScriptMessage
-msgid "A script on this page may be busy, or it may have stopped responding. You can stop the script now, or you can continue to see if the script will complete."
-msgstr "Скрипта на овој страни је заузета или се заглупела. Можете зауставити скрипту или можете сачекати њен завршетак."
+msgid ""
+"A script on this page may be busy, or it may have stopped responding. You "
+"can stop the script now, or you can continue to see if the script will "
+"complete."
+msgstr ""
+"Скрипта на овој страни је заузета или се заглупела. Можете зауставити "
+"скрипту или можете сачекати њен завршетак."
 
 #: KillScriptWithDebugMessage
-msgid "A script on this page may be busy, or it may have stopped responding. You can stop the script now, open the script in the debugger, or let the script continue."
-msgstr "Скрипт на овој страници је можда заузет, или је можда престао да се одазива. Можете да скрипт зауставите сада, отворите у исправљачу грешака, или да пустите да скрипт настави."
+msgid ""
+"A script on this page may be busy, or it may have stopped responding. You "
+"can stop the script now, open the script in the debugger, or let the script "
+"continue."
+msgstr ""
+"Скрипт на овој страници је можда заузет, или је можда престао да се одазива. "
+"Можете да скрипт зауставите сада, отворите у исправљачу грешака, или да "
+"пустите да скрипт настави."
+
+#: KillScriptLocation
+msgid "Script: %S"
+msgstr ""
 
 #: StopScriptButton
 msgid "Stop script"
@@ -38,12 +53,18 @@ msgstr "Испитај скрипт"
 msgid "Continue"
 msgstr "Наставак"
 
+#: DontAskAgain
+msgid "&Don't ask me again"
+msgstr ""
+
 #: JSURLLoadBlockedWarning
 msgid ""
 "Attempt to load a javascript: URL from one host\n"
 "in a window displaying content from another host\n"
 "was blocked by the security manager."
-msgstr "Покушавам да учитам javascript: адреса са једног хостау прозору приказује садржај са другог хостапа је блокиран менаџером безбедности."
+msgstr ""
+"Покушавам да учитам javascript: адреса са једног хостау прозору приказује "
+"садржај са другог хостапа је блокиран менаџером безбедности."
 
 #: WindowCloseBlockedWarning
 msgid "Scripts may not close windows that were not opened by script."
@@ -55,15 +76,24 @@ msgstr "Да ли сте сигурни да желите да напустит�
 
 #: OnBeforeUnloadPostMessage
 msgid "Press OK to continue, or Cancel to stay on the current page."
-msgstr "Притисните У реду за наставак, или Одустани да останете на текућој страни."
+msgstr ""
+"Притисните У реду за наставак, или Одустани да останете на текућој страни."
 
 #: DocumentAllUsed
-msgid "Non-standard document.all property was used. Use W3C standard document.getElementById() instead."
-msgstr "Не стандардни document.all је коришћен. Уместо тога користи W3C стандард document.getElementById()."
+msgid ""
+"Non-standard document.all property was used. Use W3C standard document."
+"getElementById() instead."
+msgstr ""
+"Не стандардни document.all је коришћен. Уместо тога користи W3C стандард "
+"document.getElementById()."
 
 #: GlobalScopeElementReference
-msgid "Element referenced by ID/NAME in the global scope. Use W3C standard document.getElementById() instead."
-msgstr "Елеменат се ослања на ID/NAME у општој области. Уместо тога користите стандардно W3C document.getElementById()."
+msgid ""
+"Element referenced by ID/NAME in the global scope. Use W3C standard document."
+"getElementById() instead."
+msgstr ""
+"Елеменат се ослања на ID/NAME у општој области. Уместо тога користите "
+"стандардно W3C document.getElementById()."
 
 #: UseOfCaptureEventsWarning
 msgid "Use of captureEvents() is deprecated, see bug 330494."
@@ -78,9 +108,33 @@ msgid "Use of routeEvent() is deprecated, see bug 330494."
 msgstr "Употреба routeEvent() се не саветује, видите грешку 330494."
 
 #: UseOfPreventBubbleWarning
-msgid "Event=%S, use of preventBubble() is deprecated. Use W3C standard stopPropagation() instead."
-msgstr "Догађај=%S, употреба preventBubble() се не саветује. Користите W3C стандардну stopPropagation()."
+msgid ""
+"Event=%S, use of preventBubble() is deprecated. Use W3C standard "
+"stopPropagation() instead."
+msgstr ""
+"Догађај=%S, употреба preventBubble() се не саветује. Користите W3C "
+"стандардну stopPropagation()."
 
 #: UseOfPreventCaptureWarning
-msgid "Event=%S, use of preventCapture() is deprecated. Use W3C standard stopPropagation() instead."
-msgstr "Догађај=%S, употреба preventCapture() се не саветује. Користите W3C стандардну stopPropagation()."
+msgid ""
+"Event=%S, use of preventCapture() is deprecated. Use W3C standard "
+"stopPropagation() instead."
+msgstr ""
+"Догађај=%S, употреба preventCapture() се не саветује. Користите W3C "
+"стандардну stopPropagation()."
+
+#: UseOfGetBoxObjectForWarning
+msgid ""
+"Use of getBoxObjectFor() is deprecated. Try to use element."
+"getBoundingClientRect() if possible."
+msgstr ""
+
+#: UnexpectedCanvasVariantStyle
+msgid ""
+"canvas: an attempt to set strokeStyle or fillStyle to a value that is "
+"neither a string, a CanvasGradient, or a CanvasPattern was ignored."
+msgstr ""
+
+#: EmptyGetElementByIdParam
+msgid "Empty string passed to getElementById()."
+msgstr ""

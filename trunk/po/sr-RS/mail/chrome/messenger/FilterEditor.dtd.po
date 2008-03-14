@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 19:12+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,56 +18,7 @@ msgstr ""
 msgid "Filter Rules"
 msgstr "Обрасци за филтрирање"
 
-#: subject.label
-msgid "subject"
-msgstr "тема"
-
-#: sender.label
-msgid "sender"
-msgstr "шаље"
-
-#: date.label
-msgid "date"
-msgstr "датум"
-
-#: anyText.label
-msgid "any text"
-msgstr "текст"
-
-#: keyword.label
-msgid "keyword"
-msgstr "кључна реч"
-
-#: age.label
-msgid "age in days"
-msgstr "старост у данима"
-
-#: to.label
-msgid "to"
-msgstr "прима"
-
-#: status.label
-msgid "status"
-msgstr "статус"
-
-#: priority.label
-msgid "priority"
-msgstr "приоритет"
-
-#: body.label
-msgid "body"
-msgstr "тело"
-
-#: contains.label
-msgid "contains"
-msgstr "садржи"
-
-#: nocontains.label
-msgid "doesn't contain"
-msgstr "не садржи"
-
-#: filterName.label
-#: filterName.accesskey
+#: filterName.label filterName.accesskey
 msgid "F&ilter name:"
 msgstr "Име &филтера"
 
@@ -102,18 +53,16 @@ msgid "Highest"
 msgstr "Највиши"
 
 #: conditionDesc.label
-msgid "For incoming messages that:"
-msgstr "За долазне поруке које:"
+msgid "For incoming messages which:"
+msgstr ""
 
-#: filterActionDesc.label
-#: filterActionDesc.accesskey
+#: filterActionDesc.label filterActionDesc.accesskey
 msgid "&Perform these actions:"
 msgstr "&Дејства:"
 
-#: newFolderButton.label
-#: newFolderButton.accesskey
-msgid "&New Folder..."
-msgstr "&Нови директоријум..."
+#: newFolderButton.label newFolderButton.accesskey
+msgid "&New Folder…"
+msgstr ""
 
 # New Style Filter Rule Actions
 #: moveMessage.label
@@ -139,10 +88,6 @@ msgstr "Означи као прочитано"
 #: markMessageStarred.label
 msgid "Add Star"
 msgstr "Додај звезду"
-
-#: labelMessage.label
-msgid "Label Message As"
-msgstr "Означи поруку као"
 
 #: setPriority.label
 msgid "Set Priority to"
@@ -175,3 +120,52 @@ msgstr "Занемари нит"
 #: watchThread.label
 msgid "Watch Thread"
 msgstr "Надгледај нит"
+
+#: stopExecution.label
+msgid "Stop Filter Execution"
+msgstr ""
+
+#~ msgid "subject"
+#~ msgstr "тема"
+
+#~ msgid "sender"
+#~ msgstr "шаље"
+
+#~ msgid "date"
+#~ msgstr "датум"
+
+#~ msgid "any text"
+#~ msgstr "текст"
+
+#~ msgid "keyword"
+#~ msgstr "кључна реч"
+
+#~ msgid "age in days"
+#~ msgstr "старост у данима"
+
+#~ msgid "to"
+#~ msgstr "прима"
+
+#~ msgid "status"
+#~ msgstr "статус"
+
+#~ msgid "priority"
+#~ msgstr "приоритет"
+
+#~ msgid "body"
+#~ msgstr "тело"
+
+#~ msgid "contains"
+#~ msgstr "садржи"
+
+#~ msgid "doesn't contain"
+#~ msgstr "не садржи"
+
+#~ msgid "For incoming messages that:"
+#~ msgstr "За долазне поруке које:"
+
+#~ msgid "&New Folder..."
+#~ msgstr "&Нови директоријум..."
+
+#~ msgid "Label Message As"
+#~ msgstr "Означи поруку као"

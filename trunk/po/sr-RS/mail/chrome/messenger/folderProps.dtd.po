@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-01-26 02:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,18 +77,19 @@ msgstr "Поставке"
 msgid "General Information"
 msgstr "Општи подаци"
 
-#: folderCharsetTab.label
-#: folderCharsetTab.accesskey
+#: folderCharsetTab.label folderCharsetTab.accesskey
 msgid "Default Character &Encoding:"
 msgstr "Подразумевано кодирање &знакова"
 
-#: folderCharsetOverride.label
-#: folderCharsetOverride.accesskey
-msgid "&Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)"
-msgstr "&Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)"
+#: folderCharsetOverride.label folderCharsetOverride.accesskey
+msgid ""
+"&Apply default to all messages in the folder (individual message character "
+"encoding settings and auto-detection will be ignored)"
+msgstr ""
+"&Примени изворна подешавања на све поруке у директоријуму (појединачна "
+"подешавања кодне странице и аутоматска детекција биће занемарени)"
 
-#: folderRebuildSummaryFile.label
-#: folderRebuildSummaryFile.accesskey
+#: folderRebuildSummaryFile.label folderRebuildSummaryFile.accesskey
 msgid "&Rebuild Index"
 msgstr "&Преправи индекс"
 
@@ -100,8 +101,7 @@ msgstr "Преправи датотеку са сажецима"
 msgid "Retention Policy"
 msgstr "Полиса чувања порука"
 
-#: retentionUseDefault.label
-#: retentionUseDefault.accesskey
+#: retentionUseDefault.label retentionUseDefault.accesskey
 msgid "Use server &defaults"
 msgstr "Користи изворна &подешавања"
 
@@ -121,23 +121,19 @@ msgstr "поруке"
 msgid "To recover disk space, old messages can be permanently deleted"
 msgstr "Простор на диску се може ослободити брисањем старих порука"
 
-#: retentionKeepMsg.label
-#: retentionKeepMsg.accesskey
+#: retentionKeepMsg.label retentionKeepMsg.accesskey
 msgid "Delete &messages more than"
 msgstr "&Уклони поруке више од"
 
-#: retentionKeepAll.label
-#: retentionKeepAll.accesskey
+#: retentionKeepAll.label retentionKeepAll.accesskey
 msgid "Don't delete &any messages"
 msgstr "Не уклањај ни&једну поруку"
 
-#: retentionKeepNew.label
-#: retentionKeepNew.accesskey
+#: retentionKeepNew.label retentionKeepNew.accesskey
 msgid "De&lete all but the last"
 msgstr "Уклони све осим последњих оволико порука"
 
-#: retentionKeepUnread.label
-#: retentionKeepUnread.accesskey
+#: retentionKeepUnread.label retentionKeepUnread.accesskey
 msgid "Always delete &read messages"
 msgstr "Увек уклони про&читане поруке"
 
@@ -145,25 +141,20 @@ msgstr "Увек уклони про&читане поруке"
 msgid "Offline"
 msgstr "Неповезан рад"
 
-#: folderCheckForNewMessages.label
-#: folderCheckForNewMessages.accesskey
+#: folderCheckForNewMessages.label folderCheckForNewMessages.accesskey
 msgid "&Check this folder for new messages"
 msgstr "&Провери овај директоријум на нове поруке"
 
-#: offlineFolder.check.label
-#: offlineFolder.check.accesskey
+#: offlineFolder.check.label offlineFolder.check.accesskey
 msgid "&Select this folder for offline use"
 msgstr "&Изабери овај директоријум за рад ван мреже"
 
-#: offlineFolder.button.label
-#: offlineFolder.button.accesskey
-#: offlineNewsgroup.button.label
-#: offlineNewsgroup.button.accesskey
+#: offlineFolder.button.label offlineFolder.button.accesskey
+#: offlineNewsgroup.button.label offlineNewsgroup.button.accesskey
 msgid "&Download Now"
 msgstr "&Преузми одмах"
 
-#: selectofflineNewsgroup.check.label
-#: selectofflineNewsgroup.check.accesskey
+#: selectofflineNewsgroup.check.label selectofflineNewsgroup.check.accesskey
 msgid "Select this newsgr&oup for offline use"
 msgstr "Изабери ову групу за рад ван мреже"
 
@@ -175,23 +166,29 @@ msgstr "Користи подразумевана подешавања нало�
 msgid "Information:"
 msgstr "Подаци:"
 
-#: folderProps.name.label
-#: folderProps.name.accesskey
+#: folderProps.name.label folderProps.name.accesskey
 msgid "&Name:"
 msgstr "&Име:"
+
+#: folderProps.location.label folderProps.location.accesskey
+msgid "&Location:"
+msgstr ""
 
 #: folderSharingTab.label
 msgid "Sharing"
 msgstr "Дељење"
 
 #: privilegesDesc.label
-msgid "Share this and other folders with network users and display and set access privileges"
-msgstr "Дели овај и друге директоријуме са мрежним кориснициума и прикажи и постави права приступа"
+msgid ""
+"Share this and other folders with network users and display and set access "
+"privileges"
+msgstr ""
+"Дели овај и друге директоријуме са мрежним кориснициума и прикажи и постави "
+"права приступа"
 
-#: privileges.button.label
-#: privileges.button.accesskey
-msgid "&Privileges..."
-msgstr "&Овлашћења..."
+#: privileges.button.label privileges.button.accesskey
+msgid "&Privileges…"
+msgstr ""
 
 #: permissionsDesc.label
 msgid "You have the following permissions:"
@@ -216,3 +213,6 @@ msgstr "Употреба:"
 #: folderQuotaStatus.label
 msgid "Status:"
 msgstr "Статус:"
+
+#~ msgid "&Privileges..."
+#~ msgstr "&Овлашћења..."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 19:21+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,6 @@ msgid "Tags"
 msgstr "Ознаке"
 
 #: itemFonts.label
-#: fontsCaption.label
 msgid "Fonts"
 msgstr "Писма"
 
@@ -31,13 +30,11 @@ msgstr "Писма"
 msgid "Quoted plain text appearance"
 msgstr "Изглед обичног цитираног текста"
 
-#: style.label
-#: style.accesskey
+#: style.label style.accesskey
 msgid "St&yle:"
 msgstr "&Стил:"
 
-#: regularStyle.label
-#: regularSize.label
+#: regularStyle.label regularSize.label
 msgid "Regular"
 msgstr "Обично"
 
@@ -53,8 +50,7 @@ msgstr "Искошено"
 msgid "Bold Italic"
 msgstr "Подебљано и искошено"
 
-#: size.label
-#: size.accesskey
+#: size.label size.accesskey
 msgid "&Size:"
 msgstr "&Величина:"
 
@@ -66,8 +62,7 @@ msgstr "Већа"
 msgid "Smaller"
 msgstr "Мања"
 
-#: color.label
-#: color.accesskey
+#: color.label color.accesskey
 msgid "&Color:"
 msgstr "&Боја:"
 
@@ -87,13 +82,11 @@ msgstr "При приказивању цитираних обичних текс
 msgid "When displaying plain text messages:"
 msgstr "При приказивању порука у обичном тексту:"
 
-#: fixedWidth.label
-#: fixedWidth.accesskey
+#: fixedWidth.label fixedWidth.accesskey
 msgid "Fi&xed width font"
 msgstr "Писмо &утврђене величине"
 
-#: variableWidth.label
-#: variableWidth.accesskey
+#: variableWidth.label variableWidth.accesskey
 msgid "&Variable width font"
 msgstr "Писмо &променљиве величине"
 
@@ -101,95 +94,91 @@ msgstr "Писмо &променљиве величине"
 msgid "For incoming messages"
 msgstr "За долазеће поруке"
 
-#: messageWrapping.label
-msgid "Message Wrapping"
-msgstr "Прелом поруке"
+#: colors.label
+msgid "Colors"
+msgstr ""
 
-#: wrapInMsg.label
-#: wrapInMsg.accesskey
-msgid "&Wrap text to fit window width"
-msgstr "&Преломи поруку на ширину прозора"
+#: overrideColors.label
+msgid "When displaying messages, use the following colors:"
+msgstr ""
 
-# LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)
-#: convertEmoticons.label
-#: convertEmoticons.accesskey
-msgid "&Display emoticons as graphics"
-msgstr "&Прикажи смешке као сличице"
-
-#: htmlColors.label
-msgid "HTML Messages"
-msgstr "HTML поруке"
-
-#: overrideSender.label
-#: overrideSender.accesskey
-msgid "Whe&n displaying HTML messages, use the following:"
-msgstr "&При приказивању HTML порука, користи:"
-
-#: textColor.label
-#: textColor.accesskey
+#: textColor.label textColor.accesskey
 msgid "&Text Color:"
 msgstr "&Боја текста:"
 
-#: backgroundColor.label
-#: backgroundColor.accesskey
+#: backgroundColor.label backgroundColor.accesskey
 msgid "&Background Color:"
 msgstr "Бо&ја позадине:"
+
+# LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)
+#: convertEmoticons.label convertEmoticons.accesskey
+msgid "&Display emoticons as graphics"
+msgstr "&Прикажи смешке као сличице"
 
 # labels
 #: displayTagsText.label
 msgid "Tags can be used to categorize and prioritize your messages."
 msgstr "Ознаке се могу користити за разврставање и давање приоритета порукама."
 
-#: addTagButton.label
-#: addTagButton.accesskey
+#: addTagButton.label addTagButton.accesskey
 msgid "&Add"
 msgstr "&Додај"
 
-#: editTagButton.label
-#: editTagButton.accesskey
+#: editTagButton.label editTagButton.accesskey
 msgid "&Edit"
 msgstr "&Уреди"
 
-#: removeTagButton.label
-#: removeTagButton.accesskey
+#: removeTagButton.label removeTagButton.accesskey
 msgid "De&lete"
 msgstr "&Уклони"
 
 # Fonts
-#: fontsDescription.label
-msgid "Configure the fonts used by &brandShortName;"
-msgstr "Подешавање писма које користи &brandShortName;"
+#: fontAndEncodingsDescription.label
+msgid "Configure the fonts and encodings used by &brandShortName;"
+msgstr ""
 
-#: fontOptions.label
-#: fontOptions.accesskey
-msgid "&Fonts..."
-msgstr "&Писма..."
+#: fontsAndEncodingsCaption.label
+msgid "Fonts &amp; Encodings"
+msgstr ""
+
+#: fontOptions.label fontOptions.accesskey
+msgid "&Fonts…"
+msgstr ""
+
+#~ msgid "Message Wrapping"
+#~ msgstr "Прелом поруке"
+
+#~ msgid "&Wrap text to fit window width"
+#~ msgstr "&Преломи поруку на ширину прозора"
+
+#~ msgid "HTML Messages"
+#~ msgstr "HTML поруке"
+
+#~ msgid "Whe&n displaying HTML messages, use the following:"
+#~ msgstr "&При приказивању HTML порука, користи:"
+
+# Fonts
+#~ msgid "Configure the fonts used by &brandShortName;"
+#~ msgstr "Подешавање писма које користи &brandShortName;"
+
+#~ msgid "&Fonts..."
+#~ msgstr "&Писма..."
 
 # Language settings
-#: sendDefaultCharset.label
-#: sendDefaultCharset.accesskey
-msgid "O&utgoing Mail:"
-msgstr "&Одлазећа пошта:"
+#~ msgid "O&utgoing Mail:"
+#~ msgstr "&Одлазећа пошта:"
 
-#: languagesTitle.label
-msgid "Character encodings"
-msgstr "Скупови знакова"
+#~ msgid "Character encodings"
+#~ msgstr "Скупови знакова"
 
-#: composingDescription.label
-msgid "Set the default character encodings for sending and receiving mail"
-msgstr "Поставите подразумевани скуп знакова за долазећу и одлазећу пошту"
+#~ msgid "Set the default character encodings for sending and receiving mail"
+#~ msgstr "Поставите подразумевани скуп знакова за долазећу и одлазећу пошту"
 
-#: viewDefaultCharsetList.label
-#: viewDefaultCharsetList.accesskey
-msgid "&Incoming Mail:"
-msgstr "&Долазећа пошта:"
+#~ msgid "&Incoming Mail:"
+#~ msgstr "&Долазећа пошта:"
 
-#: forceCharsetOverride.label
-#: forceCharsetOverride.accesskey
-msgid "A&pply the default character encoding to all incoming messages"
-msgstr "П&римени изворно кодирање за све долазне поруке"
+#~ msgid "A&pply the default character encoding to all incoming messages"
+#~ msgstr "П&римени изворно кодирање за све долазне поруке"
 
-#: replyInDefaultCharset.label
-#: replyInDefaultCharset.accesskey
-msgid "Use t&he default character encoding in replies"
-msgstr "Користи &изворно кодирање у одговорима"
+#~ msgid "Use t&he default character encoding in replies"
+#~ msgstr "Користи &изворно кодирање у одговорима"

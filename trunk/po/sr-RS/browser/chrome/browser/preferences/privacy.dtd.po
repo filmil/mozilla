@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2008-03-05 02:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,28 +19,24 @@ msgid "History"
 msgstr "Историјат"
 
 # LOCALIZATION NOTE:
-# The entities rememberBefore.label and rememberAfter.label appear on a single
+# The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
 # line in preferences as follows:
 # 
-# &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+# &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
 # 
-#
-#: rememberBefore.label
-#: rememberBefore.accesskey
-msgid "Remember &visited pages for the last"
-msgstr "Запамти посећене стране оволико &последњих дана:"
+#: rememberDaysBefore.label rememberDaysBefore.accesskey
+msgid "Keep my &history for at least"
+msgstr ""
 
-#: rememberAfter.label
+#: rememberDaysAfter.label
 msgid "days."
 msgstr "."
 
-#: rememberForms.label
-#: rememberForms.accesskey
+#: rememberForms.label rememberForms.accesskey
 msgid "Remember what I enter in &forms and the search bar"
 msgstr "Памти шта је унесено у &формуларе и траке за претрагу"
 
-#: rememberDownloads.label
-#: rememberDownloads.accesskey
+#: rememberDownloads.label rememberDownloads.accesskey
 msgid "Remember what I've &downloaded"
 msgstr "Памти шта је &примљено"
 
@@ -48,13 +44,15 @@ msgstr "Памти шта је &примљено"
 msgid "Cookies"
 msgstr "Колачићи"
 
-#: acceptCookies.label
-#: acceptCookies.accesskey
+#: acceptCookies.label acceptCookies.accesskey
 msgid "A&ccept cookies from sites"
 msgstr "&Прихватај колачиће са ел. места"
 
-#: keepUntil.label
-#: keepUntil.accesskey
+#: acceptThirdParty.label acceptThirdParty.accesskey
+msgid "Acce&pt third-party cookies"
+msgstr ""
+
+#: keepUntil.label keepUntil.accesskey
 msgid "&Keep until:"
 msgstr "&Чувај док:"
 
@@ -70,40 +68,56 @@ msgstr "не затворим &brandShortName;"
 msgid "ask me every time"
 msgstr "увек ме питај"
 
-#: cookieExceptions.label
-#: cookieExceptions.accesskey
-msgid "&Exceptions..."
-msgstr "&Изузеци..."
+#: cookieExceptions.label cookieExceptions.accesskey
+msgid "&Exceptions…"
+msgstr ""
 
-#: showCookies.label
-#: showCookies.accesskey
-msgid "&Show Cookies..."
-msgstr "Прика&жи колачиће..."
+#: showCookies.label showCookies.accesskey
+msgid "&Show Cookies…"
+msgstr ""
 
 #: privateData.label
 msgid "Private Data"
 msgstr "Приватни подаци"
 
-#: alwaysClear.label
-#: alwaysClear.accesskey
+#: alwaysClear.label alwaysClear.accesskey
 msgid "Al&ways clear my private data when I close &brandShortName;"
 msgstr "&Увек уклањај моје приватне податке када затворим &brandShortName;"
 
-#: askBeforeClear.label
-#: askBeforeClear.accesskey
+#: askBeforeClear.label askBeforeClear.accesskey
 msgid "&Ask me before clearing private data"
 msgstr "&Питај пре уклањања приватних података"
 
-#: clearDataSettings.label
-#: clearDataSettings.accesskey
-msgid "Se&ttings..."
-msgstr "&Поставке..."
+#: clearDataSettings.label clearDataSettings.accesskey
+msgid "Se&ttings…"
+msgstr ""
 
-#: clearDataNow.label
-#: clearDataNow.accesskey
-msgid "Clear &Now..."
-msgstr "Очисти &сад..."
+#: clearDataNow.label clearDataNow.accesskey
+msgid "Clear &Now…"
+msgstr ""
 
 #: clearDataNow.label2
 msgid "Clear Now"
 msgstr "Очисти сад"
+
+# LOCALIZATION NOTE:
+# The entities rememberBefore.label and rememberAfter.label appear on a single
+# line in preferences as follows:
+# 
+# &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+# 
+#
+#~ msgid "Remember &visited pages for the last"
+#~ msgstr "Запамти посећене стране оволико &последњих дана:"
+
+#~ msgid "&Exceptions..."
+#~ msgstr "&Изузеци..."
+
+#~ msgid "&Show Cookies..."
+#~ msgstr "Прика&жи колачиће..."
+
+#~ msgid "Se&ttings..."
+#~ msgstr "&Поставке..."
+
+#~ msgid "Clear &Now..."
+#~ msgstr "Очисти &сад..."

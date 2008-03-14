@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 23:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,20 +36,15 @@ msgstr "Прозор"
 
 # LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
 # for the help button in the menubar but Gnome does not.
-#: helpMenu.label
-#: helpMenu.accesskey
-#: helpMenuWin.label
-#: helpMenuWin.accesskey
+#: helpMenu.label helpMenu.accesskey helpMenuWin.label helpMenuWin.accesskey
 msgid "&Help"
 msgstr "&Помоћ"
 
-#: aboutCmd.label
-#: aboutCmd.accesskey
+#: aboutCmd.label aboutCmd.accesskey
 msgid "&About &brandFullName;"
 msgstr "&О програму &brandFullName;"
 
-#: helpContents.label
-#: helpContents.accesskey
+#: helpContents.label helpContents.accesskey
 msgid "&Help Contents"
 msgstr "&Садржај помоћи"
 
@@ -57,8 +52,7 @@ msgstr "&Садржај помоћи"
 msgid "&brandShortName; Help"
 msgstr "&Помоћ за програм &brandShortName;"
 
-#: helpForIEUsers.label
-#: helpForIEUsers.accesskey
+#: helpForIEUsers.label helpForIEUsers.accesskey
 msgid "For &Internet Explorer Users"
 msgstr "За кориснике &Интернет експлорера"
 
@@ -66,44 +60,37 @@ msgstr "За кориснике &Интернет експлорера"
 msgid "VK_F1"
 msgstr "VK_F1"
 
-#: openHelpMac.commandkey
-msgid "VK_HELP"
-msgstr "VK_HELP"
-
 # LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
 # are all the necessary keys to hit OS X's open-help
 # keyboard (visible) shortcut (that's Cmd+? for most locales)
-#: openHelpMac2.commandkey
+#: openHelpMac.commandkey
 msgid "/"
 msgstr "/"
 
-#: openHelpMac2.modifiers
+#: openHelpMac.modifiers
 msgid "accel,shift"
 msgstr "accel,shift"
 
-#: openHelpMac2.frontendCommandkey
+#: openHelpMac.frontendCommandkey
 msgid "?"
 msgstr "?"
 
-#: openHelpMac2.frontendModifiers
-#: preferencesCmdMac.modifiers
+#: openHelpMac.frontendModifiers preferencesCmdMac.modifiers
 #: hideThisAppCmdMac.modifiers
 msgid "accel"
 msgstr "accel"
 
-#: helpReleaseNotes.label
-#: helpReleaseNotes.accesskey
+#: helpReleaseNotes.label helpReleaseNotes.accesskey
 msgid "Release &Notes"
 msgstr "Белешке о &издању"
 
-#: updateCmd.label
-#: updateCmd.accesskey
-msgid "Check f&or Updates..."
-msgstr "Провери &доградње..."
+#: updateCmd.label updateCmd.accesskey
+msgid "Check f&or Updates…"
+msgstr ""
 
 #: preferencesCmdMac.label
-msgid "Preferences..."
-msgstr "Поставке..."
+msgid "Preferences…"
+msgstr ""
 
 #: preferencesCmdMac.commandkey
 msgid ","
@@ -117,8 +104,7 @@ msgstr "Услуге"
 msgid "Hide &brandShortName;"
 msgstr "Сакриј &brandShortName;"
 
-#: hideThisAppCmdMac.commandkey
-#: hideOtherAppsCmdMac.commandkey
+#: hideThisAppCmdMac.commandkey hideOtherAppsCmdMac.commandkey
 msgid "H"
 msgstr "H"
 
@@ -133,3 +119,12 @@ msgstr "accel,alt"
 #: showAllAppsCmdMac.label
 msgid "Show All"
 msgstr "Прикажи све"
+
+#~ msgid "VK_HELP"
+#~ msgstr "VK_HELP"
+
+#~ msgid "Check f&or Updates..."
+#~ msgstr "Провери &доградње..."
+
+#~ msgid "Preferences..."
+#~ msgstr "Поставке..."

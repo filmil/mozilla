@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-06-10 19:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,33 +74,27 @@ msgstr "Статус"
 msgid "Version"
 msgstr "Верзија"
 
-#: devmgr.button.changeslotname.label
-#: devmgr.button.changeslotname.accesskey
+#: devmgr.button.changeslotname.label devmgr.button.changeslotname.accesskey
 msgid "&Change Slot Name"
 msgstr "&Промена имена прореза"
 
-#: devmgr.button.login.label
-#: devmgr.button.login.accesskey
+#: devmgr.button.login.label devmgr.button.login.accesskey
 msgid "Log I&n"
 msgstr "П&ријава"
 
-#: devmgr.button.logout.label
-#: devmgr.button.logout.accesskey
+#: devmgr.button.logout.label devmgr.button.logout.accesskey
 msgid "Log &Out"
 msgstr "&Одјава"
 
-#: devmgr.button.changepw.label
-#: devmgr.button.changepw.accesskey
+#: devmgr.button.changepw.label devmgr.button.changepw.accesskey
 msgid "Change &Password"
 msgstr "Промена &лозинке"
 
-#: devmgr.button.load.label
-#: devmgr.button.load.accesskey
+#: devmgr.button.load.label devmgr.button.load.accesskey
 msgid "&Load"
 msgstr "&Учитај"
 
-#: devmgr.button.unload.label
-#: devmgr.button.unload.accesskey
+#: devmgr.button.unload.label devmgr.button.unload.accesskey
 msgid "&Unload"
 msgstr "У&клони"
 
@@ -133,8 +127,8 @@ msgid "f"
 msgstr "f"
 
 #: loaddevice.browse
-msgid "Browse..."
-msgstr "Избор..."
+msgid "Browse…"
+msgstr ""
 
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
@@ -145,3 +139,6 @@ msgstr "B"
 #: loaddevice.title
 msgid "Load PKCS#11 Device"
 msgstr "Учитај PKCS#11 уређај"
+
+#~ msgid "Browse..."
+#~ msgstr "Избор..."

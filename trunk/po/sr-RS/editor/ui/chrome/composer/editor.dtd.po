@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 11:10-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,6 @@ msgstr ""
 #: editorWindow.titlemodifiermenuseparator
 msgid " - "
 msgstr " - "
-
-#: textEditorWindow.titlemodifier
-msgid "Text Editor"
-msgstr "Уређивач текста"
 
 # Menu items:  the . means that the menu item isn't implemented yet
 # View menu items
@@ -56,8 +52,7 @@ msgstr "Трака за начин уређивања"
 msgid "E"
 msgstr "E"
 
-#: taskbarCmd.label
-#: taskbarCmd.accesskey
+#: taskbarCmd.label taskbarCmd.accesskey
 msgid "&Status Bar"
 msgstr "&Статусна трака"
 
@@ -86,3 +81,6 @@ msgstr "Начин уређивања:"
 #: statusText.label
 msgid "Done loading page"
 msgstr "Страна је учитана"
+
+#~ msgid "Text Editor"
+#~ msgstr "Уређивач текста"

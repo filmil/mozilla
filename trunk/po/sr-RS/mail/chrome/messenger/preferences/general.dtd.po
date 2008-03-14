@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-12-28 08:53-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,58 +18,54 @@ msgstr ""
 msgid "System Defaults"
 msgstr "Изворна подешавања"
 
-#: alwaysCheckDefault.label
-#: alwaysCheckDefault.accesskey
-msgid "A&lways check to see if &brandShortName; is the default mail client on startup"
-msgstr "&Увек при покретању провери да ли је програм &brandShortName; подразумевани читач поште"
+#: alwaysCheckDefault.label alwaysCheckDefault.accesskey
+msgid ""
+"A&lways check to see if &brandShortName; is the default mail client on "
+"startup"
+msgstr ""
+"&Увек при покретању провери да ли је програм &brandShortName; подразумевани "
+"читач поште"
 
 # There's some sort of bug which makes wrapping checkboxes not properly reflow,
 # causing the bottom border of the groupbox to be cut off; set this
 # appropriately if your localization causes this checkbox to wrap.
 # 
-#
 #: alwaysCheckDefault.height
 msgid ""
 "_: \n"
-""
+" Do not translate this.  Only change the numeric values if you need this "
+"dialogue box to appear bigger.\n"
+"3em"
 msgstr ""
 
-#: checkNow.label
-#: checkNow.accesskey
+#: checkNow.label checkNow.accesskey
 msgid "Check &Now"
 msgstr "Провери &сад"
-
-#: windowSettings.label
-msgid "Window Configuration"
-msgstr "Подешавање прозора"
-
-#: selectWindowLayout.label
-#: selectWindowLayout.accesskey
-#: showAnimatedAlert.accesskey
-msgid "&Select the window layout you prefer for Mail."
-msgstr "И&збор распореда прозора за пошту."
 
 #: messengerStartPage.label
 msgid "&brandShortName; Start Page"
 msgstr "Прва страна за &brandShortName;"
 
-#: enableStartPage.label
-#: enableStartPage.accesskey
-msgid "&When &brandShortName; launches, show the Start Page in the message area"
-msgstr "Када се програм &brandShortName; покрене, прика&жи почетну страну у прозору за поруке"
+#: enableStartPage.label enableStartPage.accesskey
+msgid ""
+"&When &brandShortName; launches, show the Start Page in the message area"
+msgstr ""
+"Када се програм &brandShortName; покрене, прика&жи почетну страну у прозору "
+"за поруке"
 
 #: location.label
-#: location.accesskey
-msgid "&Location:"
-msgstr "&Место:"
+msgid "Location:"
+msgstr ""
 
-#: useDefault.label
-#: useDefault.accesskey
+#: location1.accesskey
+msgid "o"
+msgstr ""
+
+#: useDefault.label useDefault.accesskey
 msgid "&Restore Default"
 msgstr "&Врати изворно"
 
-#: bounceSystemDockIcon.label
-#: bounceSystemDockIcon.accesskey
+#: bounceSystemDockIcon.label bounceSystemDockIcon.accesskey
 msgid "An&imate the dock icon"
 msgstr "Ани&мација сличице у обавештајној зони"
 
@@ -78,30 +74,65 @@ msgid "When new messages arrive:"
 msgstr "Када поруке стигну:"
 
 #: playSound.label
-#: playSound.accesskey
-msgid "&Play a sound"
-msgstr "&Пусти звук"
+msgid "Play a sound"
+msgstr ""
 
-#: showAnimatedAlert.label
-#: showAnimatedAlert.accesskey
-#: selectWindowLayout.accesskey
+#: playSound1.accesskey
+msgid "d"
+msgstr ""
+
+#: showAnimatedAlert.label showAnimatedAlert.accesskey
 msgid "&Show an alert"
 msgstr "&Прикажи обавештење"
 
-#: customizeNewMailBehavior.label
-#: customizeNewMailBehavior.accesskey
-msgid "&Advanced..."
-msgstr "На&предно..."
+#: customizeMailAlert.label customizeMailAlert.accesskey
+msgid "&Customize…"
+msgstr ""
 
-#: showConnections.label
-#: showConnections.accesskey
-msgid "C&onnection Settings..."
-msgstr "Подеша&вања интернет везе..."
+#: soundNotification1.caption
+msgid "Sound"
+msgstr ""
 
-#: proxiesInfo.label
-msgid "Determine how &brandShortName; connects to the Internet."
-msgstr "Одреди како се &brandShortName; повезује на интернет."
+#: play.label play.accesskey
+msgid "&Play"
+msgstr ""
 
-#: connectionsInfo.caption
-msgid "Connection"
-msgstr "Веза"
+#: systemsound.label systemsound.accesskey
+msgid "Default s&ystem sound for new mail"
+msgstr ""
+
+#: systemsoundMac.label systemsoundMac.accesskey
+msgid "S&ystem Alert Sound"
+msgstr ""
+
+#: customsound.label customsound.accesskey
+msgid "&Use the following sound file"
+msgstr ""
+
+#: browse.label browse.accesskey
+msgid "&Browse…"
+msgstr ""
+
+#~ msgid "Window Configuration"
+#~ msgstr "Подешавање прозора"
+
+#~ msgid "&Select the window layout you prefer for Mail."
+#~ msgstr "И&збор распореда прозора за пошту."
+
+#~ msgid "&Location:"
+#~ msgstr "&Место:"
+
+#~ msgid "&Play a sound"
+#~ msgstr "&Пусти звук"
+
+#~ msgid "&Advanced..."
+#~ msgstr "На&предно..."
+
+#~ msgid "C&onnection Settings..."
+#~ msgstr "Подеша&вања интернет везе..."
+
+#~ msgid "Determine how &brandShortName; connects to the Internet."
+#~ msgstr "Одреди како се &brandShortName; повезује на интернет."
+
+#~ msgid "Connection"
+#~ msgstr "Веза"

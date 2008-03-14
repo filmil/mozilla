@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
 "PO-Revision-Date: 2007-08-29 10:31-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,8 +57,7 @@ msgstr "Својства поља формулара"
 msgid "Form Image Properties"
 msgstr "Својства слике формулара"
 
-#: InputType.label
-#: InputType.accesskey
+#: InputType.label InputType.accesskey
 msgid "Field &Type"
 msgstr "&Врста поља:"
 
@@ -130,52 +129,45 @@ msgstr "Почетна вредност:"
 msgid "V"
 msgstr "V"
 
-#: InputChecked.label
-#: InputChecked.accesskey
+#: InputChecked.label InputChecked.accesskey
 msgid "Initially &Checked"
 msgstr "Изабрано на &почетку"
 
-#: InputSelected.label
-#: InputSelected.accesskey
+#: InputSelected.label InputSelected.accesskey
 msgid "Initially &Selected"
 msgstr "Изабрано на по&четку"
 
-#: InputReadOnly.label
-#: InputReadOnly.accesskey
+#: InputReadOnly.label InputReadOnly.accesskey
 msgid "&Read Only"
 msgstr "Са&мо читање"
 
-#: InputDisabled.label
-#: InputDisabled.accesskey
+#: InputDisabled.label InputDisabled.accesskey
 msgid "&Disabled"
 msgstr "&Искључено"
 
-#: tabIndex.label
-#: tabIndex.accesskey
+#: tabIndex.label tabIndex.accesskey
 msgid "Tab &Index:"
 msgstr "Инде&кс језичка"
 
-#: TextSize.label
-#: TextSize.accesskey
+#: TextSize.label TextSize.accesskey
 msgid "&Field Size:"
 msgstr "Величина по&ља:"
 
-#: TextLength.label
-#: TextLength.accesskey
+#: TextLength.label TextLength.accesskey
 msgid "Maximum &Length:"
 msgstr "Највећа ду&жина"
 
-#: AccessKey.label
-#: AccessKey.accesskey
+#: AccessKey.label AccessKey.accesskey
 msgid "Access &Key:"
 msgstr "Тастер за прист&уп:"
 
-#: Accept.label
-#: Accept.accesskey
+#: Accept.label Accept.accesskey
 msgid "&Accept Types:"
 msgstr "&Дозвољене врсте:"
 
-#: ImageProperties.label
-#: ImageProperties.accesskey
-msgid "Imag&e Properties..."
-msgstr "&Особине слике..."
+#: ImageProperties.label ImageProperties.accesskey
+msgid "Imag&e Properties…"
+msgstr ""
+
+#~ msgid "Imag&e Properties..."
+#~ msgstr "&Особине слике..."

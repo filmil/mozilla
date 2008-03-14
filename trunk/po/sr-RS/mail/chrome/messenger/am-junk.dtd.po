@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
 "PO-Revision-Date: 2007-04-15 18:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,41 +19,55 @@ msgid "Junk Settings"
 msgstr "Подешавање за нежељену пошту"
 
 #: trainingWarning.label
-msgid "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages."
-msgstr "Ако је укључен, потребно је прво обучити &brandShortName; да препознаје отпадну пошту употребом алатне траке, тако што ћете означавати поруке као отпадне. Потребно је да дате примере и жељене и нежељене поште."
+msgid ""
+"If enabled, you must first train &brandShortName; to identify junk mail by "
+"using the Junk toolbar button to mark messages as junk or not. You need to "
+"identify both junk and non junk messages."
+msgstr ""
+"Ако је укључен, потребно је прво обучити &brandShortName; да препознаје "
+"отпадну пошту употребом алатне траке, тако што ћете означавати поруке као "
+"отпадне. Потребно је да дате примере и жељене и нежељене поште."
 
-#: level.label
-#: level.accesskey
+#: level.label level.accesskey
 msgid "&Enable adaptive junk mail controls for this account"
 msgstr "&Укључи адаптивну контролу нежељене поште за овај налог"
 
-#: move.label
-msgid "Move new junk messages to:"
-msgstr "Премести нове нежељене поруке у:"
+#: move.label move.accesskey
+msgid "&Move new junk messages to:"
+msgstr ""
 
-#: junkFolderOn.label
-msgid "&quot;Junk&quot; folder on:"
-msgstr "директоријум „Отпад“ на:"
+#: junkFolderOn.label junkFolderOn.accesskey
+msgid "&quot;J&unk&quot; folder on:"
+msgstr ""
 
-#: otherFolder.label
-msgid "Other:"
-msgstr "Друго:"
+#: otherFolder.label otherFolder.accesskey
+msgid "Othe&r:"
+msgstr ""
 
-#: purge1.label
-#: purge1.accesskey
-msgid "A&utomatically delete junk mail older than"
-msgstr "А&утоматски уклони нежељену пошту старију од"
+#: purge1.label purge1.accesskey
+msgid "&Automatically delete junk mail older than"
+msgstr ""
 
 #: purge2.label
 msgid "days"
 msgstr "дан(а)"
 
-#: whitelist.label
-#: whitelist.accesskey
+#: whitelist.label whitelist.accesskey
 msgid "&Do not mark mail as junk if the sender is in: "
 msgstr "&Не означавај пошту као нежељену ако је пошиљалац у: "
 
-#: ispHeaders.label
-#: ispHeaders.accesskey
+#: ispHeaders.label ispHeaders.accesskey
 msgid "&Trust junk mail headers set by: "
 msgstr "&Веруј заглављима о нежељеној пошти које поставља: "
+
+#~ msgid "Move new junk messages to:"
+#~ msgstr "Премести нове нежељене поруке у:"
+
+#~ msgid "&quot;Junk&quot; folder on:"
+#~ msgstr "директоријум „Отпад“ на:"
+
+#~ msgid "Other:"
+#~ msgstr "Друго:"
+
+#~ msgid "A&utomatically delete junk mail older than"
+#~ msgstr "А&утоматски уклони нежељену пошту старију од"
