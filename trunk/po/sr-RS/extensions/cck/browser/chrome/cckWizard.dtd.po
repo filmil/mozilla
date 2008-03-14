@@ -1,0 +1,726 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/extensions/cck/browser/chrome/cckWizard.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: l 10n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: cckWizard.title
+msgid "Firefox Client Customization Kit (CCK)"
+msgstr ""
+
+#: cckWizard.description
+msgid ""
+"This tool helps you create an extension that customizes Firefox. This "
+"extension can either be installed by the user or included in an install "
+"package."
+msgstr ""
+
+#: beforeYouBegin.label
+msgid "Before You Begin"
+msgstr ""
+
+#: beforeYouBegin.description
+msgid ""
+"Decide which customizations you want to make and create/collect the "
+"customized files, such as: <html:ul> <html:li>Custom animation files for "
+"browser&apos;s animated logo</html:li> <html:li>Search engines</html:li> "
+"<html:li>Browser plug-ins</html:li> <html:li>Extensions/themes</html:li> </"
+"html:ul>"
+msgstr ""
+
+#: configurePage.label
+msgid "Extension Configurations"
+msgstr ""
+
+#: selectConfig.label
+msgid "Select an Existing Configuration or Create a New One"
+msgstr ""
+
+#: selectConfig.description
+msgid ""
+"Select an existing configuration, or click &apos;New&apos; to create a new "
+"configuration and workspace in which to store your custom files. To edit an "
+"existing configuration without overwriting the original configuration, "
+"select it from the list and click &apos;Copy&apos;."
+msgstr ""
+
+#: showConfig.label
+msgid "Show Config Info"
+msgstr ""
+
+#: newConfig.label
+msgid "New"
+msgstr ""
+
+#: copyConfig.label
+msgid "Copy"
+msgstr ""
+
+#: deleteConfig.label
+msgid "Delete"
+msgstr ""
+
+#: createConfig.title
+msgid "Create New Configuration"
+msgstr ""
+
+#: copyConfig.title
+msgid "Copy Existing Configuration"
+msgstr ""
+
+#: configName.label
+msgid "Name of configuration"
+msgstr ""
+
+#: configLocation.label
+msgid "Location of configuration"
+msgstr ""
+
+#: saveOnExit.label
+msgid "Save configuration automatically on exit"
+msgstr ""
+
+#: zipLocation.label
+msgid ""
+"<html:b>Important:</html:b> In order to create the XPI, we need to use ZIP "
+"or 7-Zip. Use the 'Choose File' button to locate one of these executables. "
+"Note we will also attempt to use ZIP.EXE if it is in the path."
+msgstr ""
+
+#: customizeExt.label
+msgid "Customize Extension"
+msgstr ""
+
+#: id.label
+msgid "Unique ID:"
+msgstr ""
+
+#: id.format
+msgid "Format: companyname-cck@extensions.domainname.tld"
+msgstr ""
+
+#: name.label
+msgid "Name:"
+msgstr ""
+
+#: version.label
+msgid "Version:"
+msgstr ""
+
+#: description.label
+msgid "Description:"
+msgstr ""
+
+#: creator.label
+msgid "Creator:"
+msgstr ""
+
+#: homepageURL.label
+msgid "Homepage URL:"
+msgstr ""
+
+#: updateURL.label
+msgid "Update URL:"
+msgstr ""
+
+#: icon.label
+msgid "Icon:"
+msgstr ""
+
+#: chooseFile.label
+msgid "Choose File..."
+msgstr ""
+
+#: chooseDir.label
+msgid "Choose Dir..."
+msgstr ""
+
+#: filename.label
+msgid "Filename:"
+msgstr ""
+
+#: hidden.label
+msgid "Do not show this extension in the extension manager."
+msgstr ""
+
+#: locked.label
+msgid "Prevent the uninstall of this extension (it can still be disabled)."
+msgstr ""
+
+#: aboutconfig.label
+msgid "Do not allow access to about:config"
+msgstr ""
+
+#: customizePartOne.label
+msgid "Customize the Browser - Part One"
+msgstr ""
+
+#: orgName.description
+msgid ""
+"The Company Identifier is included as part of the browser&apos;s user agent "
+"string which appears when you open the Help menu and select About Mozilla "
+"Firefox. It is required."
+msgstr ""
+
+#: orgName.label
+msgid "Enter Your Company Identifier (up to 10 characters; no spaces):"
+msgstr ""
+
+#: orgName.caption
+msgid "Company Identifier"
+msgstr ""
+
+#: homePage.caption
+msgid "Home Page"
+msgstr ""
+
+#: homePage.label
+msgid "Default Home Page URL:"
+msgstr ""
+
+#: homePage.description
+msgid ""
+"This page is displayed when users first start the Firefox browser, or when "
+"they click the Home button."
+msgstr ""
+
+#: homePageWelcome.caption
+msgid "Welcome Page"
+msgstr ""
+
+#: homePageWelcome.description
+msgid ""
+"On the very first invocation of Firefox after a new profile is created, a "
+"welcome page is displayed. You can choose to replace this page or to not "
+"display it at all."
+msgstr ""
+
+#: homePageWelcome.label
+msgid "Replacement Welcome Page URL:"
+msgstr ""
+
+#: noWelcomePage.label
+msgid "Do not display the welcome page"
+msgstr ""
+
+#: homePageOverride.caption
+msgid "Upgrade Page"
+msgstr ""
+
+#: homePageOverride.description
+msgid ""
+"After upgrading to a new version of Firefox, an override page is displayed. "
+"You can choose to replace this page or to not display it at all."
+msgstr ""
+
+#: homePageOverride.label
+msgid "Upgrade Page URL:"
+msgstr ""
+
+#: noOverridePage.label
+msgid "Do not display the upgrade page"
+msgstr ""
+
+#: titleBar.caption
+msgid "Browser Window&apos;s Title Bar Text"
+msgstr ""
+
+#: titleBar.label
+msgid "Custom Title Bar Text:"
+msgstr ""
+
+#: titleBar.description
+msgid ""
+"The text you enter (for example, your company name) appears after the page "
+"title in the title bar. It is recommended that you use the format <html:"
+"i>Mozilla Firefox: Companyname Edition</html:i>"
+msgstr ""
+
+#: customizePartTwo.label
+msgid "Customize the Browser - Part Two"
+msgstr ""
+
+#: animLogo.caption
+msgid "Animated Logo"
+msgstr ""
+
+#: animLogoURL.label
+msgid "Logo Button URL:"
+msgstr ""
+
+#: animLogoURL.description
+msgid ""
+"Enter the URL that users will go to when they click the animated logo button."
+msgstr ""
+
+#: animLogoTooltip.description
+msgid ""
+"Enter the tooltip that users will see when they mouse over the animated logo "
+"button."
+msgstr ""
+
+#: animLogoTooltip.label
+msgid "Logo Button Tooltip:"
+msgstr ""
+
+#: animLogoAnim.description
+msgid "Path to Your Animated GIF File (16x16 pixels):"
+msgstr ""
+
+#: animLogoStill.description
+msgid "Path to Your At Rest GIF or PNG File (16x16 pixels):"
+msgstr ""
+
+#: customizePartThree.label
+msgid "Customize the Browser - Part Three"
+msgstr ""
+
+#: helpMenu.caption
+msgid "Help Menu"
+msgstr ""
+
+#: helpMenu.description
+msgid ""
+"You can add an item to the Help Menu which provides a link to your online "
+"customer support page."
+msgstr ""
+
+#: helpMenuText.label
+msgid "Menu Item Text:"
+msgstr ""
+
+#: helpMenuURL.label
+msgid "Help Menu Item URL:"
+msgstr ""
+
+#: helpMenuAccesskey.label
+msgid "Help Menu Item Accesskey:"
+msgstr ""
+
+#: customizePartFour.label
+msgid "Customize the Browser - Part Four"
+msgstr ""
+
+#: allowedSites.caption
+msgid "Allowed Sites"
+msgstr ""
+
+#: popupAllowedSites.label
+msgid ""
+"You can specify domains for which popups are allowed. List the domains, "
+"separated by a comma."
+msgstr ""
+
+#: installAllowedSites.label
+msgid ""
+"You can specify domains for which software installations (XPIs) are allowed. "
+"List the domains, separated by a comma."
+msgstr ""
+
+#: customizeBrowserPlugins.label
+msgid "Customize Browser Plug-ins"
+msgstr ""
+
+#: browserPlugins.description
+msgid "Use the buttons below to add browser plug-ins."
+msgstr ""
+
+#: plugins.label
+msgid "Browser Plug-ins"
+msgstr ""
+
+#: plugins.description
+msgid "Please select a browser plug-in and the platform it is written for."
+msgstr ""
+
+#: customizeSearchEngines.label
+msgid "Customize Search Engines"
+msgstr ""
+
+#: searchEngines.description
+msgid "Use the buttons below to add search engines."
+msgstr ""
+
+#: defaultSearchEngine.label
+msgid "Default Search Engine"
+msgstr ""
+
+#: engines.label
+msgid "Search Engines"
+msgstr ""
+
+#: engines.description
+msgid "Please select a search engine and (if applicable) corresponding image."
+msgstr ""
+
+#: engine.label
+msgid "Search Engine:"
+msgstr ""
+
+#: engineIcon.label
+msgid "Image File:"
+msgstr ""
+
+#: file.label
+msgid "File:"
+msgstr ""
+
+#: folderTitle.label
+msgid "Folder Title:"
+msgstr ""
+
+#: customizeToolbarOne.label
+msgid "Customize the Bookmarks Toolbar - Part One"
+msgstr ""
+
+#: addToolbarFolder.caption
+msgid "Add a folder to the bookmarks toolbar"
+msgstr ""
+
+#: addToolbarFolder.description
+msgid ""
+"Use the buttons below to add bookmarks to a folder on the bookmarks toolbar."
+msgstr ""
+
+#: addToolbarBookmark.caption
+msgid "Add bookmarks to the bookmarks toolbar"
+msgstr ""
+
+#: addToolbarBookmark.description
+msgid "Use the buttons below to add bookmarks to the bookmarks toolbar."
+msgstr ""
+
+#: customizeToolbarTwo.label
+msgid "Customize the Bookmarks Toolbar - Part Two"
+msgstr ""
+
+#: customizeBookmarksOne.label
+msgid "Customize Bookmarks - Part One"
+msgstr ""
+
+#: customizeBookmarksTwo.label
+msgid "Customize Bookmarks - Part Two"
+msgstr ""
+
+#: addBookmarkFolder.caption
+msgid "Add a folder to bookmarks"
+msgstr ""
+
+#: addBookmarkFolder.description
+msgid "Use the buttons below to create a folder with boomarks."
+msgstr ""
+
+#: addBookmark.caption
+msgid "Add bookmarks"
+msgstr ""
+
+#: addBookmark.description
+msgid "Use the buttons below to add bookmarks."
+msgstr ""
+
+#: toolbarLocation.label
+msgid "Location of toolbar items"
+msgstr ""
+
+#: toolbarLocationBegin.label
+msgid "Place toolbar items at the beginning"
+msgstr ""
+
+#: toolbarLocationEnd.label
+msgid "Place toolbar items at the end"
+msgstr ""
+
+#: bookmarkLocation.label
+msgid "Location of bookmark items"
+msgstr ""
+
+#: bookmarkLocationBegin.label
+msgid "Place bookmark items at the beginning"
+msgstr ""
+
+#: bookmarkLocationEnd.label
+msgid "Place bookmark items at the end"
+msgstr ""
+
+#: bookmark.label
+msgid "Bookmark"
+msgstr ""
+
+#: bookmark.description
+msgid "Enter a Bookmark"
+msgstr ""
+
+#: bookmarkTitle.label
+msgid "Title:"
+msgstr ""
+
+#: bookmarkURL.label
+msgid "URL:"
+msgstr ""
+
+#: liveBookmark.label
+msgid "Live Bookmark"
+msgstr ""
+
+#: separator.label
+msgid "Separator"
+msgstr ""
+
+#: customizePrefs.label
+msgid "Customize Preferences"
+msgstr ""
+
+#: customizePrefs.description
+msgid "Use the buttons below to add default preferences."
+msgstr ""
+
+#: prefs.label
+msgid "Preferences"
+msgstr ""
+
+#: prefName.label
+msgid "Preference Name:"
+msgstr ""
+
+#: prefValue.label
+msgid "Value: "
+msgstr ""
+
+#: prefLock.label
+msgid "Lock Preference"
+msgstr ""
+
+#: newButton.label newButton.accesskey
+msgid "Ne&w"
+msgstr ""
+
+#: deleteButton.label deleteButton.accesskey
+msgid "&Delete"
+msgstr ""
+
+#: editButton.label editButton.accesskey
+msgid "&Edit"
+msgstr ""
+
+#: moveUpButton.label moveUpButton.accesskey
+msgid "Move &Up"
+msgstr ""
+
+#: moveDownButton.label moveDownButton.accesskey
+msgid "M&ove Down"
+msgstr ""
+
+#: customizeRegistry.label
+msgid "Customize Registry (Windows Only)"
+msgstr ""
+
+#: registry.label
+msgid "Registry"
+msgstr ""
+
+#: registry.description
+msgid ""
+"Use the buttons below to add entries to the Windows registry. Note these "
+"items will be added/updated every time the browser starts."
+msgstr ""
+
+#: regDescription.label
+msgid "Description"
+msgstr ""
+
+#: regRootKey.label
+msgid "Root Key"
+msgstr ""
+
+#: regKey.label
+msgid "Key"
+msgstr ""
+
+#: regName.label
+msgid "Name"
+msgstr ""
+
+#: regNameValue.label
+msgid "Name Value"
+msgstr ""
+
+#: regType.label
+msgid "Type"
+msgstr ""
+
+#: customizeCerts.label
+msgid "Customize Certificates"
+msgstr ""
+
+#: customizeCerts.description
+msgid ""
+"Use the buttons below to select certificates to be preinstalled (PEM format "
+"only)."
+msgstr ""
+
+#: customizeCerts.warning
+msgid ""
+"<html:b>IMPORTANT: If you add certificates to Firefox, you CANNOT ship a "
+"browser outside of your company or institution and call it Firefox. This "
+"feature is intended primarily for corporate and institutional users that "
+"will be deploying Firefox inside their organization.</html:b>"
+msgstr ""
+
+#: certs.label
+msgid "Certificates"
+msgstr ""
+
+#: cert.label
+msgid "Certificate"
+msgstr ""
+
+#: cert.trustSSL
+msgid "Trust this CA to identify web sites."
+msgstr ""
+
+#: cert.trustEmail
+msgid "Trust this CA to identify email users."
+msgstr ""
+
+#: cert.trustObjSign
+msgid "Trust this CA to identify software developers."
+msgstr ""
+
+#: customizeBundles.label
+msgid "Customize Extensions/Themes"
+msgstr ""
+
+#: customizeBundles.description
+msgid ""
+"Use the buttons below to select extensions and themes to be installed with "
+"your CCK."
+msgstr ""
+
+#: customizeBundles.warning
+msgid ""
+"<html:b>IMPORTANT: If you add extensions and/or themes to your CCK, you can "
+"no longer install the CCK as part of a Firefox install. You must install "
+"through the browser. </html:b>"
+msgstr ""
+
+#: bundles.label
+msgid "Extensions/Themes"
+msgstr ""
+
+#: customizeProxy.label
+msgid "Customize Proxy Configurations"
+msgstr ""
+
+#: proxyTitle.label
+msgid "Configure Proxies to Access the Internet"
+msgstr ""
+
+#: directTypeRadio.label directTypeRadio.accesskey
+msgid "&Direct connection to the Internet"
+msgstr ""
+
+#: WPADTypeRadio.label WPADTypeRadio.accesskey
+msgid "Auto-detect proxy settings for this net&work"
+msgstr ""
+
+#: manualTypeRadio.label manualTypeRadio.accesskey
+msgid "&Manual proxy configuration:"
+msgstr ""
+
+#: autoTypeRadio.label autoTypeRadio.accesskey
+msgid "&Automatic proxy configuration URL:"
+msgstr ""
+
+#: configAutoconfigText.label configAutoconfigText.accesskey
+msgid "Configuration location (&URL):"
+msgstr ""
+
+#: autoCCKTypeRadio.label autoCCKTypeRadio.accesskey
+msgid "Store proxy conf&iguration file in the CCK:"
+msgstr ""
+
+#: reload.label reload.accesskey
+msgid "Re&load"
+msgstr ""
+
+#: ftp.label ftp.accesskey
+msgid "&FTP Proxy:"
+msgstr ""
+
+#: gopher.label gopher.accesskey
+msgid "&Gopher Proxy:"
+msgstr ""
+
+#: http.label http.accesskey
+msgid "&HTTP Proxy:"
+msgstr ""
+
+#: ssl.label ssl.accesskey
+msgid "&SSL Proxy:"
+msgstr ""
+
+#: socks.label socks.accesskey
+msgid "SO&CKS Host:"
+msgstr ""
+
+#: socks4.label socks4.accesskey
+msgid "SOC&KS v4"
+msgstr ""
+
+#: socks5.label socks5.accesskey
+msgid "SOCKS &v5"
+msgstr ""
+
+#: port.label
+msgid "Port:"
+msgstr ""
+
+#: HTTPport.accesskey
+msgid "p"
+msgstr ""
+
+#: SSLport.accesskey
+msgid "o"
+msgstr ""
+
+#: FTPport.accesskey
+msgid "r"
+msgstr ""
+
+#: SOCKSport.accesskey
+msgid "t"
+msgstr ""
+
+#: noproxy.label noproxy.accesskey
+msgid "&No Proxy for:"
+msgstr ""
+
+#: noproxyExplain.label
+msgid "Example: .mozilla.org, .net.nz, 192.168.1.0/24"
+msgstr ""
+
+#: shareproxy.label shareproxy.accesskey
+msgid "Use this pro&xy server for all protocols"
+msgstr ""
+
+#: showConfig.title
+msgid "Show Configuration"
+msgstr ""
+
+#: cckWizard.oncancel
+msgid "All changed data will be saved"
+msgstr ""
+
+#: cckWizardFinish.description
+msgid "Click Finish to create your CCK package."
+msgstr ""
