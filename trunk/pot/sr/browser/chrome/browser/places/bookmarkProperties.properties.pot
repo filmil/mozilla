@@ -1,0 +1,64 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/places/bookmarkProperties.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: dialogAcceptLabelAddItem
+msgid "Add"
+msgstr ""
+
+#: dialogAcceptLabelAddMulti
+msgid "Add Bookmarks"
+msgstr ""
+
+#: dialogAcceptLabelEdit
+msgid "Save Changes"
+msgstr ""
+
+#: dialogTitleAddBookmark
+msgid "Add Bookmark"
+msgstr ""
+
+#: dialogTitleAddLivemark
+msgid "Add Live Bookmark"
+msgstr ""
+
+#: dialogTitleAddFolder
+msgid "Add Folder"
+msgstr ""
+
+#: dialogTitleAddMulti
+msgid "Bookmark All Tabs"
+msgstr ""
+
+#: dialogTitleEdit
+msgid "Properties for \"%S\""
+msgstr ""
+
+#: bookmarkAllTabsDefault
+msgid "[Folder Name]"
+msgstr ""
+
+#: newFolderDefault
+msgid "New Folder"
+msgstr ""
+
+#: newBookmarkDefault
+msgid "New Bookmark"
+msgstr ""
+
+#: newLivemarkDefault
+msgid "New Live Bookmark"
+msgstr ""

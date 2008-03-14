@@ -1,0 +1,276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:1
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:2
+msgid "Managing Cookies"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:3
+msgid ""
+"This document explains what cookies are, how they are used, and how you can "
+"gain   control over the cookies stored on your computer by using the Cookie "
+"Manager in   &brandFullName;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:4
+msgid "In this section:   <ul>"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:5
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:10
+msgid "What is a Cookie?"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:6
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:15
+msgid "Setting Up Cookie Rules"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:7
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:28
+msgid "Accepting and Blocking Cookies"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:8
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:38
+msgid "The Cookies Exceptions Window"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:9
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:42
+msgid "The View Cookies Window"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:11
+msgid ""
+"A cookie is a file created by an Internet site to store information on your "
+"  computer, such as your preferences when visiting that site. When you "
+"visit a site   that uses cookies, the site might ask &brandShortName; to "
+"place one or more cookies   on your hard disk."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:12
+msgid ""
+"Later, when you return to the site, &brandShortName; sends back the cookies "
+"that   belong to the site. This allows the site to present you with "
+"information customized   to fit your needs."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:13
+msgid ""
+"Cookies can also store personally identifiable information. Personally "
+"identifiable   information is information that can be used to identify or "
+"contact you, such as   your name, e-mail address, home or work address, or "
+"telephone number. However, a   web site only has access to the personal "
+"information that you provide. For   example, a web site cannot determine "
+"your e-mail address unless you provide it. Also,   a web site cannot gain "
+"access to other information on your computer."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:14
+msgid ""
+"When you use the default cookie settings, this activity is invisible to you, "
+"  and you won't know when a web site is setting a cookie or when "
+"&brandShortName;   is sending a web site its cookie. However, you can set "
+"your cookies   &pref.plural; so that you will be asked before a cookie is "
+"set. You can also   restrict the lifetime of cookies to your current "
+"&brandShortName; session."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:16
+msgid ""
+"By default &brandShortName; accepts all cookies, including cookies which   "
+"would allow a site to recognize you effectively forever. If this doesn't "
+"suit   you, you can tell &brandShortName; to delete all cookies when you "
+"close   &brandShortName;:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:17
+msgid "Select &pref.menuPath; and open the <em>Privacy</em> panel."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:18
+msgid ""
+"Select the <em>I close &brandShortName;</em> &pref.singular; from the     "
+"<em>Keep until</em> menu."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:19
+msgid ""
+"If you want to grant sites you trust the ability to store cookies "
+"permanently   (e.g., to allow you to log in automatically to a site), click "
+"<a   href=\"#cookies_exceptions\"><em>Exceptions…</em></a>, enter the site "
+"address,   and click <em>Allow</em>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:20
+msgid "All the Settings"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:21
+msgid ""
+"These are the &pref.plural; that affect how cookies are managed by   "
+"&brandShortName;:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:22
+msgid "Accept cookies from sites"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:23
+msgid ""
+"If you don't want any sites to store cookies on your computer, uncheck     "
+"this &pref.singular;. Note that some sites may not work properly when     "
+"cookies are disabled. If you want to grant certain sites the ability to     "
+"store cookies, open the <a href=\"#cookies_exceptions\">Cookies Exceptions</a> "
+"    window by clicking <em>Exceptions…</em>, enter the site address, and "
+"click     <em>Allow</em> or <em>Allow for Session</em>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:24
+msgid "Keep until"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:25
+msgid ""
+"<em>they expire</em><br/>       If this &pref.singular; is selected, each "
+"cookie will be removed when the       site that set it has determined the "
+"cookie should expire."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:26
+msgid ""
+"<em>I close &brandShortName;</em><br/>       If this &pref.singular; is "
+"selected, cookies will be removed when you       restart &brandShortName;.  "
+"Web sites requiring the use of cookies will       still work, but if you "
+"restart &brandShortName;, the web site will think       that you logged into "
+"the site for the first time again."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:27
+msgid ""
+"<em>ask me every time</em><br/>       Display an alert every time a web site "
+"tries to store a cookie asking you       if you want that cookie stored."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:29
+msgid ""
+"If you've chosen <em>ask me every time</em> from the <em>Keep until</em>   "
+"menu, you'll see a dialog whenever a site tries to store a cookie on your   "
+"computer providing the following options:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:30
+msgid "Allow"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:31
+msgid ""
+"To allow this particular cookie, just click <em>Allow</em>. Use this if     "
+"you trust the site."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:32
+msgid "Allow for Session"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:33
+msgid ""
+"If you want to allow this cookie for now, but have it deleted when you     "
+"exit &brandShortName;, click <em>Allow for Session</em>. Use this if the "
+"    site doesn't work without cookies, but you don't want to have a "
+"permanent     cookie stored for it."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:34
+msgid "Deny"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:35
+msgid ""
+"If you don't want this cookie to be stored, click <em>Deny</em>. Use this "
+"    if you don't trust the site or suspect that it's compromising your "
+"privacy."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:36
+msgid "Use my choice for all cookies from this site"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:37
+msgid ""
+"Select this checkbox before clicking any of the buttons if you want     "
+"&brandShortName; to remember your decision and not ask again. The site will "
+"    be added to the <a href=\"#cookies_exceptions\">Cookie Exceptions</a> "
+"window,     where you can revert your choice should you wish to do so later."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:39
+msgid ""
+"Access this window by clicking the <em>Exceptions…</em> button in cookies   "
+"&pref.plural;. Here you can make exceptions from your general cookies   "
+"&pref.plural; for specific sites. Using exceptions, you can allow all "
+"cookies,   reject all cookies, or allow all cookies but have them deleted "
+"when you exit   &brandShortName;, regardless of your other cookie settings."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:40
+msgid ""
+"To add a site to this list, simply type the site's domain name in the field "
+"  labeled <em>Address of web site</em>. Then click <em>Block</em> to reject "
+"  cookies from the site, click <em>Allow</em> to allow cookies from the "
+"site,   or click <em>Allow for Session</em> to allow cookies from the site "
+"but have   them deleted when you exit &brandShortName;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:41
+msgid ""
+"To remove a site from this list, select it and click <em>Remove Site</em>. "
+"To   clear the list completely, click <em>Remove All Sites</em>. This will "
+"clear   the exceptions list so your general cookies &pref.plural; apply."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:43
+msgid ""
+"Use the <em>View Cookies</em> window to view and remove cookies. To access "
+"it,   click the <em>View Cookies</em> button in cookies &pref.plural;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:44
+msgid ""
+"This window lists all cookies currently stored on your   computer, grouped "
+"by site. You can expand the sites and select a cookie to   display more "
+"information about it. You can also search for a site or a cookie   name by "
+"typing in the search bar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:45
+msgid ""
+"To remove a cookie from the list, select it and click <em>Remove "
+"Cookie</em>.   To remove a site's cookies, select the site and click "
+"<em>Remove   Cookie(s)</em>. To wipe all cookies, click <em>Remove All "
+"Cookies</em>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:46
+msgid "12 September 2006"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/cookies.xhtml:47
+msgid ""
+"Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer "
+"Project."
+msgstr ""

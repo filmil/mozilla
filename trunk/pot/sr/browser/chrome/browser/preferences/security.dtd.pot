@@ -1,0 +1,85 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/preferences/security.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: warnAddonInstall.label
+#: warnAddonInstall.accesskey
+msgid "&Warn me when sites try to install add-ons"
+msgstr ""
+
+# LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+# The methods by which forged (phished) and attack sites will be detected by
+# phishing providers will vary from human review to machine-based heuristics to a
+# combination of both, so it's important that these strings and
+# useDownloadedList.label convey the meaning "suspected" (and not something like
+# "known").
+# 
+#: tellMaybeAttackSite.label
+#: tellMaybeAttackSite.accesskey
+msgid "Tell me if the site I'm visiting is a suspected attac&k site"
+msgstr ""
+
+#: tellMaybeForgery.label
+#: tellMaybeForgery.accesskey
+msgid "&Tell me if the site I'm visiting is a suspected forgery"
+msgstr ""
+
+#: addonExceptions.label
+#: addonExceptions.accesskey
+msgid "&Exceptions…"
+msgstr ""
+
+#: passwords.label
+msgid "Passwords"
+msgstr ""
+
+#: rememberPasswords.label
+#: rememberPasswords.accesskey
+msgid "&Remember passwords for sites"
+msgstr ""
+
+#: passwordExceptions.label
+#: passwordExceptions.accesskey
+msgid "E&xceptions…"
+msgstr ""
+
+#: useMasterPassword.label
+#: useMasterPassword.accesskey
+msgid "&Use a master password"
+msgstr ""
+
+#: changeMasterPassword.label
+#: changeMasterPassword.accesskey
+msgid "Change &Master Password…"
+msgstr ""
+
+#: savedPasswords.label
+#: savedPasswords.accesskey
+msgid "Saved &Passwords…"
+msgstr ""
+
+#: warnings.label
+msgid "Warning Messages"
+msgstr ""
+
+#: chooseWarnings.label
+msgid "Choose which warning messages you want to see while browsing the web"
+msgstr ""
+
+#: warningSettings.label
+#: warningSettings.accesskey
+msgid "&Settings…"
+msgstr ""

@@ -1,0 +1,80 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/plugins/plugins.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: pluginWizard.title
+msgid "Plugin Finder Service"
+msgstr ""
+
+#: pluginWizard.firstPage.title
+msgid "Welcome to the &pluginWizard.title;"
+msgstr ""
+
+#: pluginWizard.checkingForPlugins.description.label
+msgid "&brandShortName; is now checking for available plugins…"
+msgstr ""
+
+#: pluginWizard.availablePluginsPage.title
+msgid "Available Plugin Downloads"
+msgstr ""
+
+#: pluginWizard.availablePluginsPage.description.label
+msgid "The following plugins are available:"
+msgstr ""
+
+#: pluginWizard.availablePluginsPage.continueMsg.label
+msgid "Press Next to install these plugins."
+msgstr ""
+
+#: pluginWizard.availablePluginsPage.installerUI
+msgid "Some plugins may require additional information from you during installation."
+msgstr ""
+
+#: pluginWizard.licensePage.title
+msgid "Plugin Licenses"
+msgstr ""
+
+#: pluginWizard.licensePage.accept.label
+msgid "I agree."
+msgstr ""
+
+#: pluginWizard.licensePage.deny.label
+msgid "I do not agree (plugin will not be installed)."
+msgstr ""
+
+#: pluginWizard.installPluginsPage.title
+msgid "Installing Plugins"
+msgstr ""
+
+#: pluginWizard.installPluginsPage.description.label
+msgid "&brandShortName; is installing plugins…"
+msgstr ""
+
+#: pluginWizard.finalPage.description.label
+msgid "&brandShortName; finished installing the missing plugins:"
+msgstr ""
+
+#: pluginWizard.finalPage.moreInfo.label
+msgid "Find out more about Plugins or manually find missing plugins."
+msgstr ""
+
+#: pluginWizard.finalPage.restart.label
+msgid "&brandShortName; needs to be restarted for the plugin(s) to work."
+msgstr ""
+
+#: missingPlugin.label
+msgid "Click here to download plugin."
+msgstr ""

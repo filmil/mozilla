@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:1
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:2
+msgid "&brandFullName; Mouse Shortcuts"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:3
+msgid "This is a list of the most common mouse shortcuts in   &brandFullName;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:4
+msgid "Command"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:5
+msgid "Shortcut"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:6
+msgid "Back"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:7
+msgid ""
+"&altKey;+Scroll Down</span>         <span class=\"noMac\">&shiftKey;+Scroll "
+"Down"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:8
+msgid "Close Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:9
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:25
+msgid "Middle-click on Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:10
+msgid "Decrease Text Size"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:11
+msgid "&ctrlKey;+Scroll up"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:12
+msgid "Forward"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:13
+msgid ""
+"&altKey;+Scroll up</span>         <span class=\"noMac\">&shiftKey;+Scroll up"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:14
+msgid "Increase Text Size"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:15
+msgid "&ctrlKey;+Scroll down"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:16
+msgid "New Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:17
+msgid "Double-Click on Tab Bar"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:18
+msgid "Open in Background Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:19
+msgid "&accelKey;+Left-click<br/>Middle-click"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:20
+msgid "Open in Foreground Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:21
+msgid "&accelKey;+&shiftKey;+Left-click<br/>&shiftKey;+         Middle-click"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:22
+msgid "Open in New Window"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:23
+msgid "&shiftKey;+Left-click"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:24
+msgid "Paste URL and Go"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:26
+msgid "Reload (override cache)"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:27
+msgid "&shiftKey;+Reload button"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:28
+msgid "Save Page As"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:29
+msgid "&altKey;+Left-click"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:30
+msgid "Scroll line by line"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:31
+msgid "&accelKey;+Scroll</span>         <span class=\"noMac\">&altKey;+Scroll"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:32
+msgid "14 October 2005"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/mouse_shortcuts.xhtml:33
+msgid ""
+"Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer "
+"Project."
+msgstr ""

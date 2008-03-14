@@ -1,0 +1,1741 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/messenger.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: messengerWindow.title
+msgid "Mail &amp; Newsgroups"
+msgstr ""
+
+#: titledefault.label
+msgid "&brandFullName;"
+msgstr ""
+
+#: titleSeparator.label
+msgid " - "
+msgstr ""
+
+# File Menu
+#: newFolderCmd.label
+#: newFolderCmd.accesskey
+msgid "&Folder…"
+msgstr ""
+
+#: newTabCmd.label
+#: newTabCmd.accesskey
+msgid "New &Tab"
+msgstr ""
+
+#: closeTabCmd.label
+#: closeTabCmd.accesskey
+msgid "Clos&e Tab"
+msgstr ""
+
+#: newVirtualFolderCmd.label
+#: newVirtualFolderCmd.accesskey
+msgid "&Saved Search…"
+msgstr ""
+
+#: newAccountCmd.label
+#: newAccountCmd.accesskey
+msgid "&Account…"
+msgstr ""
+
+#: openMessageMenu.label
+msgid "Open"
+msgstr ""
+
+#: openMessageFileCmd.label
+#: openMessageFileCmd.accesskey
+msgid "&Open Saved Message…"
+msgstr ""
+
+#: openAttachmentCmd.label
+#: openAttachmentCmd.accesskey
+#: sortByAttachmentsCmd.label
+#: sortByAttachmentsCmd.accesskey
+msgid "&Attachments"
+msgstr ""
+
+#: saveAsMenu.label
+#: saveAsMenu.accesskey
+msgid "&Save As"
+msgstr ""
+
+#: saveAsFileCmd.label
+#: saveAsFileCmd.accesskey
+msgid "&File"
+msgstr ""
+
+#: saveAsFileCmd.key
+msgid "s"
+msgstr ""
+
+#: saveAsTemplateCmd.label
+#: saveAsTemplateCmd.accesskey
+msgid "&Template"
+msgstr ""
+
+#: getNewMsgCmd.label
+#: getNewMsgCmd.accesskey
+msgid "&Get New Messages"
+msgstr ""
+
+#: getNewMsgCmd.key
+#: getAllNewMsgCmd.key
+#: nextUnreadThreadCmd.key
+msgid "t"
+msgstr ""
+
+#: getNewMsgForCmd.label
+#: getNewMsgForCmd.accesskey
+msgid "Get Ne&w Messages for"
+msgstr ""
+
+#: getAllNewMsgCmd.label
+msgid "Get All New Messages"
+msgstr ""
+
+#: getNextNMsgCmd.label
+#: getNextNMsgCmd.accesskey
+msgid "Ge&t Next 500 News Messages"
+msgstr ""
+
+#: sendUnsentCmd.label
+#: sendUnsentCmd.accesskey
+#: folderContextSendUnsentMessages.label
+#: folderContextSendUnsentMessages.accesskey
+msgid "Sen&d Unsent Messages"
+msgstr ""
+
+#: subscribeCmd.label
+#: subscribeCmd.accesskey
+#: folderContextSubscribe.label
+#: folderContextSubscribe.accesskey
+msgid "Su&bscribe…"
+msgstr ""
+
+#: renameFolder.label
+#: renameFolder.accesskey
+msgid "&Rename Folder…"
+msgstr ""
+
+#: renameFolder.key
+msgid "VK_F2"
+msgstr ""
+
+#: compactFolders.label
+msgid "Compact Folders"
+msgstr ""
+
+#: compactFolder.accesskey
+msgid "F"
+msgstr ""
+
+#: emptyTrashCmd.label
+#: emptyTrashCmd.accesskey
+#: folderContextEmptyTrash.label
+#: folderContextEmptyTrash.accesskey
+msgid "Empt&y Trash"
+msgstr ""
+
+#: importCmd.label
+#: importCmd.accesskey
+msgid "&Import…"
+msgstr ""
+
+#: offlineMenu.label
+#: offlineMenu.accesskey
+msgid "Off&line"
+msgstr ""
+
+#: offlineGoOfflineCmd.label
+#: offlineGoOfflineCmd.accesskey
+msgid "&Work Offline"
+msgstr ""
+
+#: synchronizeOfflineCmd.label
+#: synchronizeOfflineCmd.accesskey
+msgid "Download/&Sync Now…"
+msgstr ""
+
+#: settingsOfflineCmd.label
+#: settingsOfflineCmd.accesskey
+msgid "Offlin&e Settings…"
+msgstr ""
+
+#: downloadSelectedCmd.label
+#: downloadSelectedCmd.accesskey
+msgid "Get Se&lected Messages"
+msgstr ""
+
+#: downloadStarredCmd.label
+#: downloadStarredCmd.accesskey
+msgid "Get St&arred Messages"
+msgstr ""
+
+#: printCmd.label
+#: printCmd.accesskey
+#: contextPrint.label
+#: contextPrint.accesskey
+msgid "&Print…"
+msgstr ""
+
+#: printCmd.key
+#: prevUnreadMsgCmd.key
+msgid "p"
+msgstr ""
+
+#: printPreviewCmd.label
+#: printPreviewCmd.accesskey
+#: contextPrintPreview.label
+#: contextPrintPreview.accesskey
+msgid "Print Pre&view"
+msgstr ""
+
+#: printPreviewCmd.key
+msgid "v"
+msgstr ""
+
+#: printSetupCmd.label
+#: printSetupCmd.accesskey
+msgid "Page Set&up…"
+msgstr ""
+
+# Edit Menu
+#: deleteMsgCmd.label
+#: deleteMsgCmd.accesskey
+msgid "&Delete Message"
+msgstr ""
+
+#: undeleteMsgCmd.label
+#: undeleteMsgCmd.accesskey
+msgid "Un&delete Message"
+msgstr ""
+
+#: cancelNewsMsgCmd.label
+#: cancelNewsMsgCmd.accesskey
+msgid "Cancel &Message"
+msgstr ""
+
+#: deleteMsgsCmd.label
+#: deleteMsgsCmd.accesskey
+msgid "&Delete Selected Messages"
+msgstr ""
+
+#: undeleteMsgsCmd.label
+#: undeleteMsgsCmd.accesskey
+msgid "Un&delete Selected Messages"
+msgstr ""
+
+#: cancelNewsMsgsCmd.label
+#: cancelNewsMsgsCmd.accesskey
+msgid "Ca&ncel Selected Messages"
+msgstr ""
+
+#: deleteFolderCmd.label
+#: deleteFolderCmd.accesskey
+msgid "&Delete Folder"
+msgstr ""
+
+#: unsubscribeNewsgroupCmd.label
+#: unsubscribeNewsgroupCmd.accesskey
+msgid "U&nsubscribe"
+msgstr ""
+
+#: selectMenu.label
+#: selectMenu.accesskey
+msgid "&Select"
+msgstr ""
+
+#: all.label
+#: all.accesskey
+#: allFolders.label
+#: allFolders.accesskey
+#: allMsgsCmd.label
+#: allMsgsCmd.accesskey
+#: headersAllCmd.label
+#: headersAllCmd.accesskey
+msgid "&All"
+msgstr ""
+
+#: selectThreadCmd.label
+#: selectThreadCmd.accesskey
+msgid "&Thread"
+msgstr ""
+
+#: selectThreadCmd.key
+msgid "a"
+msgstr ""
+
+#: menuFavoriteFolder.label
+#: menuFavoriteFolder.accesskey
+#: folderContextFavoriteFolder.label
+#: folderContextFavoriteFolder.accesskey
+msgid "F&avorite Folder"
+msgstr ""
+
+#: folderPropsCmd.label
+#: folderPropsCmd.accesskey
+msgid "Pr&operties…"
+msgstr ""
+
+#: folderPropsFolderCmd.label
+msgid "Folder Properties…"
+msgstr ""
+
+#: folderPropsNewsgroupCmd.label
+msgid "Newsgroup Properties…"
+msgstr ""
+
+#: accountManagerCmd.label
+#: accountManagerCmd.accesskey
+msgid "A&ccount Settings…"
+msgstr ""
+
+#: accountManagerCmdUnix.accesskey
+msgid "A"
+msgstr ""
+
+#: undoDeleteMsgCmd.label
+msgid "Undo Delete Message"
+msgstr ""
+
+#: redoDeleteMsgCmd.label
+msgid "Redo Delete Message"
+msgstr ""
+
+#: undoMoveMsgCmd.label
+msgid "Undo Move Message"
+msgstr ""
+
+#: redoMoveMsgCmd.label
+msgid "Redo Move Message"
+msgstr ""
+
+#: undoCopyMsgCmd.label
+msgid "Undo Copy Message"
+msgstr ""
+
+#: redoCopyMsgCmd.label
+msgid "Redo Copy Message"
+msgstr ""
+
+#: undoDefaultCmd.label
+#: undoDefaultCmd.accesskey
+msgid "&Undo"
+msgstr ""
+
+#: redoDefaultCmd.label
+#: redoDefaultCmd.accesskey
+msgid "&Redo"
+msgstr ""
+
+# View Menu
+#: showMessengerToolbarCmd.label
+#: showMessengerToolbarCmd.accesskey
+msgid "Mail T&oolbar"
+msgstr ""
+
+#: customizeToolbar.label
+#: customizeToolbar.accesskey
+msgid "&Customize…"
+msgstr ""
+
+#: messagePaneLayoutStyle.label
+#: messagePaneLayoutStyle.accesskey
+msgid "&Layout"
+msgstr ""
+
+#: messagePaneClassic.label
+#: messagePaneClassic.accesskey
+msgid "&Classic View"
+msgstr ""
+
+#: messagePaneWide.label
+#: messagePaneWide.accesskey
+msgid "&Wide View"
+msgstr ""
+
+#: messagePaneVertical.label
+#: messagePaneVertical.accesskey
+msgid "&Vertical View"
+msgstr ""
+
+#: threadPaneWide.label
+#: threadPaneWide.accesskey
+msgid "W&ide List View"
+msgstr ""
+
+#: showMessageCmd.label
+#: showMessageCmd.accesskey
+msgid "&Message Pane"
+msgstr ""
+
+#: folderView.label
+#: folderView.accesskey
+msgid "&Folders"
+msgstr ""
+
+#: unreadFolders.label
+#: unreadFolders.accesskey
+#: unreadMsgsCmd.label
+#: unreadMsgsCmd.accesskey
+msgid "&Unread"
+msgstr ""
+
+#: favoriteFolders.label
+#: favoriteFolders.accesskey
+msgid "&Favorite"
+msgstr ""
+
+#: recentFolders.label
+#: recentFolders.accesskey
+#: moveCopyMsgRecentMenu.label
+#: moveCopyMsgRecentMenu.accesskey
+#: contextMoveCopyMsgRecentMenu.label
+#: contextMoveCopyMsgRecentMenu.accesskey
+msgid "&Recent"
+msgstr ""
+
+# Sort Menu
+#: sortMenu.label
+#: sortMenu.accesskey
+msgid "&Sort by"
+msgstr ""
+
+#: sortByDateCmd.label
+#: sortByDateCmd.accesskey
+msgid "Dat&e"
+msgstr ""
+
+#: sortByReceivedCmd.label
+#: sortByReceivedCmd.accesskey
+msgid "Recei&ved"
+msgstr ""
+
+#: sortByStarCmd.label
+#: sortByStarCmd.accesskey
+msgid "&Star"
+msgstr ""
+
+#: sortByPriorityCmd.label
+#: sortByPriorityCmd.accesskey
+msgid "&Priority"
+msgstr ""
+
+#: sortBySizeCmd.label
+#: sortBySizeCmd.accesskey
+msgid "Si&ze"
+msgstr ""
+
+#: sortByStatusCmd.label
+#: sortByStatusCmd.accesskey
+msgid "Stat&us"
+msgstr ""
+
+#: sortByTagsCmd.label
+#: sortByTagsCmd.accesskey
+msgid "Ta&gs"
+msgstr ""
+
+#: sortByJunkStatusCmd.label
+#: sortByJunkStatusCmd.accesskey
+msgid "&Junk Status"
+msgstr ""
+
+#: sortBySubjectCmd.label
+#: sortBySubjectCmd.accesskey
+msgid "Su&bject"
+msgstr ""
+
+#: sortByFromCmd.label
+#: sortByFromCmd.accesskey
+msgid "&From"
+msgstr ""
+
+#: sortByRecipientCmd.label
+#: sortByRecipientCmd.accesskey
+msgid "Re&cipient"
+msgstr ""
+
+#: sortByUnreadCmd.label
+#: sortByUnreadCmd.accesskey
+msgid "&Read"
+msgstr ""
+
+#: sortByOrderReceivedCmd.label
+#: sortByOrderReceivedCmd.accesskey
+msgid "&Order Received"
+msgstr ""
+
+#: sortAscending.label
+#: sortAscending.accesskey
+msgid "&Ascending"
+msgstr ""
+
+#: sortDescending.label
+#: sortDescending.accesskey
+msgid "&Descending"
+msgstr ""
+
+#: sortThreaded.label
+#: sortThreaded.accesskey
+msgid "&Threaded"
+msgstr ""
+
+#: sortUnthreaded.label
+#: sortUnthreaded.accesskey
+msgid "Unt&hreaded"
+msgstr ""
+
+#: groupBySort.label
+#: groupBySort.accesskey
+msgid "&Grouped By Sort"
+msgstr ""
+
+#: groupBySortCmd.key
+msgid "G"
+msgstr ""
+
+#: msgsMenu.label
+#: msgsMenu.accesskey
+msgid "&Messages"
+msgstr ""
+
+#: threads.label
+#: threads.accesskey
+msgid "Thr&eads"
+msgstr ""
+
+#: expandOrCollapseMenu.label
+#: expandOrCollapseMenu.accesskey
+msgid "E&xpand/Collapse"
+msgstr ""
+
+#: expandAllThreadsCmd.label
+#: expandAllThreadsCmd.accesskey
+msgid "&Expand All Threads"
+msgstr ""
+
+#: expandAllThreadsCmd.key
+msgid "*"
+msgstr ""
+
+#: collapseAllThreadsCmd.label
+#: collapseAllThreadsCmd.accesskey
+msgid "&Collapse All Threads"
+msgstr ""
+
+#: collapseAllThreadsCmd.key
+msgid "\\"
+msgstr ""
+
+#: threadsWithUnreadCmd.label
+#: threadsWithUnreadCmd.accesskey
+msgid "&Threads with Unread"
+msgstr ""
+
+#: watchedThreadsWithUnreadCmd.label
+#: watchedThreadsWithUnreadCmd.accesskey
+msgid "&Watched Threads with Unread"
+msgstr ""
+
+#: ignoredThreadsCmd.label
+#: ignoredThreadsCmd.accesskey
+msgid "&Ignored Threads"
+msgstr ""
+
+#: headersMenu.label
+#: headersMenu.accesskey
+msgid "&Headers"
+msgstr ""
+
+#: headersNormalCmd.label
+#: headersNormalCmd.accesskey
+#: textZoomResetCmd.label
+#: textZoomResetCmd.accesskey
+msgid "&Normal"
+msgstr ""
+
+#: bodyMenu.label
+#: bodyMenu.accesskey
+msgid "Message &Body As"
+msgstr ""
+
+#: bodyAllowHTML.label
+#: bodyAllowHTML.accesskey
+msgid "Original &HTML"
+msgstr ""
+
+#: bodySanitized.label
+#: bodySanitized.accesskey
+msgid "&Simple HTML"
+msgstr ""
+
+#: bodyAsPlaintext.label
+#: bodyAsPlaintext.accesskey
+msgid "&Plain Text"
+msgstr ""
+
+#: viewAttachmentsInlineCmd.label
+#: viewAttachmentsInlineCmd.accesskey
+msgid "Display &Attachments Inline"
+msgstr ""
+
+#: reloadCmd.label
+#: reloadCmd.accesskey
+msgid "&Reload"
+msgstr ""
+
+#: stopCmd.label
+#: stopCmd.accesskey
+msgid "&Stop"
+msgstr ""
+
+#: textZoomEnlargeCmd.label
+#: textZoomEnlargeCmd.accesskey
+msgid "&Increase"
+msgstr ""
+
+#: textZoomEnlargeCmd.commandkey
+msgid "+"
+msgstr ""
+
+# + is above this key on many keyboards
+#: textZoomEnlargeCmd.commandkey2
+msgid "="
+msgstr ""
+
+#: textZoomReduceCmd.label
+#: textZoomReduceCmd.accesskey
+msgid "&Decrease"
+msgstr ""
+
+#: textZoomReduceCmd.commandkey
+msgid "-"
+msgstr ""
+
+#: textZoomResetCmd.commandkey
+#: tagCmd0.key
+msgid "0"
+msgstr ""
+
+#: textSize.label
+#: textSize.accesskey
+msgid "Te&xt Size"
+msgstr ""
+
+#: pageSourceCmd.label
+#: pageSourceCmd.accesskey
+msgid "Message S&ource"
+msgstr ""
+
+#: pageSourceCmd.key
+msgid "u"
+msgstr ""
+
+# Search Menu
+#: searchMenu.label
+#: searchMenu.accesskey
+msgid "&Search"
+msgstr ""
+
+#: findMenu.label
+#: findMenu.accesskey
+msgid "&Find"
+msgstr ""
+
+#: findCmd.label
+#: findCmd.accesskey
+msgid "&Find in This Message…"
+msgstr ""
+
+#: findCmd.key
+#: searchMailCmd.key
+#: nextMsgCmd.key
+msgid "f"
+msgstr ""
+
+#: findAgainCmd.label
+#: findAgainCmd.accesskey
+msgid "Find A&gain"
+msgstr ""
+
+#: findAgainCmd.key
+#: findPrevCmd.key
+msgid "g"
+msgstr ""
+
+#: findAgainCmd.key2
+#: findPrevCmd.key2
+msgid "VK_F3"
+msgstr ""
+
+#: searchMailCmd.label
+#: searchMailCmd.accesskey
+msgid "Search &Messages…"
+msgstr ""
+
+#: searchAddressesCmd.label
+#: searchAddressesCmd.accesskey
+msgid "&Search Addresses…"
+msgstr ""
+
+# Go Menu
+#: goMenu.label
+#: goMenu.accesskey
+msgid "&Go"
+msgstr ""
+
+#: nextMenu.label
+#: nextMenu.accesskey
+msgid "&Next"
+msgstr ""
+
+#: nextMsgCmd.label
+#: nextMsgCmd.accesskey
+#: prevMsgCmd.label
+#: prevMsgCmd.accesskey
+#: msgMenu.label
+#: msgMenu.accesskey
+#: newNewMsgCmd.label
+#: newNewMsgCmd.accesskey
+msgid "&Message"
+msgstr ""
+
+#: nextUnreadMsgCmd.label
+#: nextUnreadMsgCmd.accesskey
+#: prevUnreadMsgCmd.label
+#: prevUnreadMsgCmd.accesskey
+msgid "&Unread Message"
+msgstr ""
+
+#: nextUnreadMsgCmd.key
+msgid "n"
+msgstr ""
+
+#: nextStarredMsgCmd.label
+#: nextStarredMsgCmd.accesskey
+#: prevStarredMsgCmd.label
+#: prevStarredMsgCmd.accesskey
+msgid "&Starred Message"
+msgstr ""
+
+#: nextUnreadThread.label
+msgid "Unread Thread"
+msgstr ""
+
+#: nextUnreadThreadCmd.accesskey
+msgid "T"
+msgstr ""
+
+#: prevMenu.label
+#: prevMenu.accesskey
+msgid "&Previous"
+msgstr ""
+
+#: prevMsgCmd.key
+msgid "b"
+msgstr ""
+
+#: goForwardCmd.label
+#: goForwardCmd.accesskey
+#: forwardMsgCmd.label
+#: forwardMsgCmd.accesskey
+#: contextForward.label
+#: contextForward.accesskey
+msgid "&Forward"
+msgstr ""
+
+#: goForwardCmd.commandKey
+msgid "]"
+msgstr ""
+
+#: goBackCmd.label
+#: goBackCmd.accesskey
+msgid "&Back"
+msgstr ""
+
+#: goBackCmd.commandKey
+msgid "["
+msgstr ""
+
+#: startPageCmd.label
+#: startPageCmd.accesskey
+msgid "Mail &Start Page"
+msgstr ""
+
+#: newMsgCmd.label
+#: newMsgCmd.accesskey
+msgid "&New Message"
+msgstr ""
+
+#: replyMsgCmd.label
+#: replyMsgCmd.accesskey
+msgid "&Reply"
+msgstr ""
+
+#: replyMsgCmd.key
+#: replyToAllMsgCmd.key
+#: markThreadAsReadCmd.key
+msgid "r"
+msgstr ""
+
+#: replySenderCmd.label
+#: replySenderCmd.accesskey
+#: contextReplySender.label
+#: contextReplySender.accesskey
+msgid "&Reply to Sender Only"
+msgstr ""
+
+#: replyNewsgroupCmd.label
+#: replyNewsgroupCmd.accesskey
+#: contextReplyNewsgroup.label
+#: contextReplyNewsgroup.accesskey
+msgid "Repl&y to Newsgroup"
+msgstr ""
+
+#: replyToAllMsgCmd.label
+#: replyToAllMsgCmd.accesskey
+msgid "Re&ply to All"
+msgstr ""
+
+#: forwardMsgCmd.key
+msgid "l"
+msgstr ""
+
+#: forwardAsMenu.label
+#: forwardAsMenu.accesskey
+msgid "For&ward As"
+msgstr ""
+
+#: forwardAsInline.label
+#: forwardAsInline.accesskey
+msgid "&Inline"
+msgstr ""
+
+#: forwardAsAttachmentCmd.label
+#: forwardAsAttachmentCmd.accesskey
+msgid "&Attachment"
+msgstr ""
+
+#: editMsgAsNewCmd.label
+#: editMsgAsNewCmd.accesskey
+msgid "&Edit Message As New"
+msgstr ""
+
+#: editMsgAsNewCmd.key
+msgid "e"
+msgstr ""
+
+#: createFilter.label
+#: createFilter.accesskey
+msgid "Cre&ate Filter From Message…"
+msgstr ""
+
+#: moveMsgMenu.label
+#: moveMsgMenu.accesskey
+msgid "&Move"
+msgstr ""
+
+#: copyMessageLocation.label
+#: copyMessageLocation.accesskey
+msgid "Copy &Message Location"
+msgstr ""
+
+#: copyMsgMenu.label
+#: copyMsgMenu.accesskey
+#: copyCmd.label
+#: copyCmd.accesskey
+msgid "&Copy"
+msgstr ""
+
+#: moveToFolderAgain.label
+#: moveToFolderAgain.accesskey
+msgid "Move Aga&in"
+msgstr ""
+
+#: moveToFolderAgainCmd.key
+#: markAsReadCmd.key
+#: minimizeWindow.key
+msgid "m"
+msgstr ""
+
+#: killThreadMenu.label
+#: killThreadMenu.accesskey
+msgid "&Ignore Thread"
+msgstr ""
+
+# Quick Search Bar
+#: killThreadMenu.key
+#: quickSearchCmd.key
+msgid "k"
+msgstr ""
+
+#: watchThreadMenu.label
+#: watchThreadMenu.accesskey
+msgid "&Watch Thread"
+msgstr ""
+
+#: watchThreadMenu.key
+msgid "w"
+msgstr ""
+
+#: fileHereMenu.label
+#: fileHereMenu.accesskey
+msgid "&File Here"
+msgstr ""
+
+#: copyHereMenu.label
+#: copyHereMenu.accesskey
+msgid "&Copy Here"
+msgstr ""
+
+#: tagMenu.label
+#: tagMenu.accesskey
+msgid "Ta&g"
+msgstr ""
+
+#: tagCmd1.key
+#: messengerCmd.commandkey
+msgid "1"
+msgstr ""
+
+#: tagCmd2.key
+#: addressBookCmd.commandkey
+msgid "2"
+msgstr ""
+
+#: tagCmd3.key
+msgid "3"
+msgstr ""
+
+#: tagCmd4.key
+msgid "4"
+msgstr ""
+
+#: tagCmd5.key
+msgid "5"
+msgstr ""
+
+#: tagCmd6.key
+msgid "6"
+msgstr ""
+
+#: tagCmd7.key
+msgid "7"
+msgstr ""
+
+#: tagCmd8.key
+msgid "8"
+msgstr ""
+
+#: tagCmd9.key
+msgid "9"
+msgstr ""
+
+#: markMenu.label
+#: markMenu.accesskey
+msgid "Mar&k"
+msgstr ""
+
+#: markAsReadCmd.label
+#: markAsReadCmd.accesskey
+msgid "As &Read"
+msgstr ""
+
+#: markAsUnreadCmd.label
+#: markAsUnreadCmd.accesskey
+msgid "As &Unread"
+msgstr ""
+
+#: markThreadAsReadCmd.label
+#: markThreadAsReadCmd.accesskey
+msgid "&Thread As Read"
+msgstr ""
+
+#: markReadByDateCmd.label
+#: markReadByDateCmd.accesskey
+msgid "As Read by &Date…"
+msgstr ""
+
+#: markReadByDateCmd.key
+#: markAllReadCmd.key
+msgid "c"
+msgstr ""
+
+#: markAllReadCmd.label
+#: markAllReadCmd.accesskey
+msgid "&All Read"
+msgstr ""
+
+#: markStarredCmd.label
+#: markStarredCmd.accesskey
+msgid "Add &Star"
+msgstr ""
+
+#: markStarredCmd.key
+msgid "S"
+msgstr ""
+
+#: markAsJunkCmd.label
+#: markAsJunkCmd.accesskey
+msgid "As &Junk"
+msgstr ""
+
+#: markAsJunkCmd.key
+#: markAsNotJunkCmd.key
+msgid "j"
+msgstr ""
+
+#: markAsNotJunkCmd.label
+#: markAsNotJunkCmd.accesskey
+msgid "As &Not Junk"
+msgstr ""
+
+#: recalculateJunkScoreCmd.label
+#: recalculateJunkScoreCmd.accesskey
+msgid "Run Junk Mail &Controls"
+msgstr ""
+
+#: openMessageWindowCmd.label
+#: openMessageWindowCmd.accesskey
+msgid "&Open Message"
+msgstr ""
+
+#: openMessageWindowCmd.key
+msgid "o"
+msgstr ""
+
+# Windows Menu
+#: windowMenu.label
+#: windowMenu.accesskey
+msgid "&Window"
+msgstr ""
+
+# Tools Menu
+#: tasksMenu.label
+#: tasksMenu.accesskey
+msgid "&Tools"
+msgstr ""
+
+#: addons.label
+#: addons.accesskey
+msgid "A&dd-ons"
+msgstr ""
+
+#: messengerCmd.label
+#: messengerCmd.accesskey
+msgid "&Mail &amp; Newsgroups"
+msgstr ""
+
+#: addressBookCmd.label
+#: addressBookCmd.accesskey
+msgid "&Address Book"
+msgstr ""
+
+#: junkMailCmd.label
+#: junkMailCmd.accesskey
+msgid "&Junk Mail Controls…"
+msgstr ""
+
+#: runJunkControls.label
+#: runJunkControls.accesskey
+msgid "R&un Junk Mail Controls on Folder"
+msgstr ""
+
+#: deleteJunk.label
+#: deleteJunk.accesskey
+msgid "De&lete Mail Marked as Junk in Folder"
+msgstr ""
+
+#: errorConsoleCmd.label
+#: errorConsoleCmd.accesskey
+msgid "Error Co&nsole"
+msgstr ""
+
+#: filtersCmd.label
+#: filtersCmd.accesskey
+msgid "Message &Filters…"
+msgstr ""
+
+#: filtersApply.label
+#: filtersApply.accesskey
+msgid "&Run Filters on Folder"
+msgstr ""
+
+# Help Menu
+# LOCALIZATION NOTE some localizations of Windows use "?"
+# for the help button in the menubar but Gnome does not.
+#: helpMenu.label
+#: helpMenu.accesskey
+#: helpMenuWin.label
+#: helpMenuWin.accesskey
+msgid "&Help"
+msgstr ""
+
+#: releaseCmd.label
+#: releaseCmd.accesskey
+msgid "&Release Notes"
+msgstr ""
+
+#: hintsAndTips.label
+#: hintsAndTips.accesskey
+msgid "&brandFullName; &Help"
+msgstr ""
+
+#: hintsAndTipsMac.commandkey
+#: junkInfoButton.label
+msgid "?"
+msgstr ""
+
+#: updateCmd.label
+#: updateCmd.accesskey
+msgid "Check f&or Updates…"
+msgstr ""
+
+#: aboutCmd.label
+#: aboutCmd.accesskey
+msgid "&About &brandFullName;"
+msgstr ""
+
+# Mail Toolbar
+#: getMsgButton.label
+msgid "Get Mail"
+msgstr ""
+
+#: newMsgButton.label
+msgid "Write"
+msgstr ""
+
+#: replyButton.label
+msgid "Reply"
+msgstr ""
+
+#: replyAllButton.label
+msgid "Reply All"
+msgstr ""
+
+#: forwardButton.label
+#: goForwardButton1.label
+msgid "Forward"
+msgstr ""
+
+#: fileButton.label
+msgid "File"
+msgstr ""
+
+#: nextButton.label
+msgid "Next"
+msgstr ""
+
+#: previousButton.label
+msgid "Previous"
+msgstr ""
+
+#: backButton1.label
+msgid "Back"
+msgstr ""
+
+#: deleteButton.label
+msgid "Delete"
+msgstr ""
+
+#: markButton.label
+msgid "Mark"
+msgstr ""
+
+#: printButton.label
+msgid "Print"
+msgstr ""
+
+#: stopButton.label
+msgid "Stop"
+msgstr ""
+
+#: throbberItem.title
+msgid "Activity Indicator"
+msgstr ""
+
+#: updatesItem.title
+msgid "Updates"
+msgstr ""
+
+#: junkButton.label
+msgid "Junk"
+msgstr ""
+
+#: notJunkButton.label
+#: junkBarButton1.label
+msgid "Not Junk"
+msgstr ""
+
+#: addressBookButton.label
+msgid "Address Book"
+msgstr ""
+
+#: searchItem.title
+msgid "Quick Search"
+msgstr ""
+
+#: mailViewsToolbarItem.title
+msgid "Mail Views"
+msgstr ""
+
+#: folderLocationToolbarItem.title
+msgid "Folder Location"
+msgstr ""
+
+#: tagButton.label
+#: tagsColumn.label
+msgid "Tag"
+msgstr ""
+
+# Mail Toolbar Tooltips
+#: advancedButton.tooltip
+msgid "Advanced message search"
+msgstr ""
+
+#: clearButton.tooltip
+msgid "Clear the search criteria and show all messages"
+msgstr ""
+
+#: getMsgButton.tooltip
+msgid "Get new messages"
+msgstr ""
+
+#: newMsgButton.tooltip
+msgid "Create a new message"
+msgstr ""
+
+#: replyButton.tooltip
+msgid "Reply to the message"
+msgstr ""
+
+#: replyAllButton.tooltip
+msgid "Reply to sender and all recipients"
+msgstr ""
+
+#: forwardButton.tooltip
+msgid "Forward selected message"
+msgstr ""
+
+#: fileButton.tooltip
+msgid "File selected message"
+msgstr ""
+
+#: nextButton.tooltip
+msgid "Move to the next unread message"
+msgstr ""
+
+#: previousButton.tooltip
+msgid "Move to the previous unread message"
+msgstr ""
+
+#: goForwardButton.tooltip
+msgid "Go forward one message"
+msgstr ""
+
+#: goBackButton.tooltip
+msgid "Go back one message"
+msgstr ""
+
+#: deleteButton.tooltip
+msgid "Delete selected message or folder"
+msgstr ""
+
+#: markButton.tooltip
+msgid "Mark messages"
+msgstr ""
+
+#: printButton.tooltip
+msgid "Print this message"
+msgstr ""
+
+#: stopButton.tooltip
+msgid "Stop the current transfer"
+msgstr ""
+
+#: junkButton.tooltip
+msgid "Mark the selected messages as junk"
+msgstr ""
+
+#: notJunkButton.tooltip
+msgid "Mark the selected messages as not junk"
+msgstr ""
+
+#: addressBookButton.tooltip
+msgid "Go to the address book"
+msgstr ""
+
+#: tagButton.tooltip
+msgid "Tag messages"
+msgstr ""
+
+# Tags Menu Popup
+#: addNewTag.label
+#: addNewTag.accesskey
+msgid "&New Tag…"
+msgstr ""
+
+# Folder Pane
+#: folderColumn.label
+msgid "Name"
+msgstr ""
+
+#: folderSizeColumn.label
+#: sizeColumn.label
+msgid "Size"
+msgstr ""
+
+# Folder Pane Context Menu
+#: folderContextGetMessages.label
+#: folderContextGetMessages.accesskey
+msgid "&Get Messages"
+msgstr ""
+
+#: folderContextOpenNewWindow.label
+#: folderContextOpenNewWindow.accesskey
+msgid "&Open"
+msgstr ""
+
+#: folderContextOpenNewTab.label
+#: folderContextOpenNewTab.accesskey
+msgid "Open in New &Tab"
+msgstr ""
+
+#: folderContextNew.label
+#: folderContextNew.accesskey
+msgid "&New Subfolder…"
+msgstr ""
+
+#: folderContextRename.label
+#: folderContextRename.accesskey
+msgid "&Rename"
+msgstr ""
+
+#: folderContextRemove.label
+#: folderContextRemove.accesskey
+#: contextDelete.label
+#: contextDelete.accesskey
+msgid "&Delete"
+msgstr ""
+
+#: folderContextCompact.label
+#: folderContextCompact.accesskey
+msgid "&Compact"
+msgstr ""
+
+#: folderContextEmptyJunk.label
+#: folderContextEmptyJunk.accesskey
+msgid "Empty &Junk"
+msgstr ""
+
+#: folderContextUnsubscribe.label
+#: folderContextUnsubscribe.accesskey
+msgid "&Unsubscribe"
+msgstr ""
+
+#: folderContextMarkNewsgroupRead.label
+#: folderContextMarkNewsgroupRead.accesskey
+msgid "Mar&k Newsgroup Read"
+msgstr ""
+
+#: folderContextMarkMailFolderRead.label
+#: folderContextMarkMailFolderRead.accesskey
+msgid "Mar&k Folder Read"
+msgstr ""
+
+#: folderContextSearchMessages.label
+#: folderContextSearchMessages.accesskey
+msgid "&Search…"
+msgstr ""
+
+#: folderContextProperties.label
+#: folderContextProperties.accesskey
+msgid "&Properties…"
+msgstr ""
+
+# Search Bar
+#: SearchNameOrEmail.label
+#: SearchNameOrEmail.accesskey
+msgid "&Name or Email contains:"
+msgstr ""
+
+#: clearButton.label
+#: clearButton.accesskey
+msgid "&Clear"
+msgstr ""
+
+# Quick Search Menu Bar
+#: searchSubjectMenu.label
+#: subjectColumn.label
+msgid "Subject"
+msgstr ""
+
+#: searchFromMenu.label
+#: fromColumn.label
+msgid "From"
+msgstr ""
+
+#: searchSubjectOrFromMenu.label
+msgid "Subject or From"
+msgstr ""
+
+#: searchRecipient.label
+msgid "To or Cc"
+msgstr ""
+
+#: searchMessageBody.label
+msgid "Entire Message"
+msgstr ""
+
+#: saveAsVirtualFolderMenu.label
+msgid "Save Search as a Folder…"
+msgstr ""
+
+# Thread Pane
+#: threadColumn.label
+msgid "Thread"
+msgstr ""
+
+#: recipientColumn.label
+msgid "Recipient"
+msgstr ""
+
+#: dateColumn.label
+msgid "Date"
+msgstr ""
+
+#: priorityColumn.label
+msgid "Priority"
+msgstr ""
+
+#: accountColumn.label
+msgid "Account"
+msgstr ""
+
+#: statusColumn.label
+msgid "Status"
+msgstr ""
+
+#: junkStatusColumn.label
+msgid "Junk Status"
+msgstr ""
+
+#: linesColumn.label
+msgid "Lines"
+msgstr ""
+
+#: unreadColumn.label
+msgid "Unread"
+msgstr ""
+
+#: totalColumn.label
+msgid "Total"
+msgstr ""
+
+#: readColumn.label
+msgid "Read"
+msgstr ""
+
+#: receivedColumn.label
+msgid "Received"
+msgstr ""
+
+#: starredColumn.label
+msgid "Starred"
+msgstr ""
+
+#: locationColumn.label
+msgid "Location"
+msgstr ""
+
+#: idColumn.label
+msgid "Order Received"
+msgstr ""
+
+#: attachmentColumn.label
+msgid "Attachments"
+msgstr ""
+
+# Thread Pane Tooltips
+#: columnChooser.tooltip
+msgid "Click to select columns to display"
+msgstr ""
+
+#: threadColumn.tooltip
+msgid "Click to display message threads"
+msgstr ""
+
+#: fromColumn.tooltip
+msgid "Click to sort by from"
+msgstr ""
+
+#: recipientColumn.tooltip
+msgid "Click to sort by recipient"
+msgstr ""
+
+#: subjectColumn.tooltip
+msgid "Click to sort by subject"
+msgstr ""
+
+#: dateColumn.tooltip
+msgid "Click to sort by date"
+msgstr ""
+
+#: priorityColumn.tooltip
+msgid "Click to sort by priority"
+msgstr ""
+
+#: tagsColumn.tooltip
+msgid "Click to sort by tags"
+msgstr ""
+
+#: accountColumn.tooltip
+msgid "Click to sort by account"
+msgstr ""
+
+#: statusColumn.tooltip
+msgid "Click to sort by status"
+msgstr ""
+
+#: sizeColumn.tooltip
+msgid "Click to sort by size"
+msgstr ""
+
+#: junkStatusColumn.tooltip
+msgid "Click to sort by junk status"
+msgstr ""
+
+#: unreadColumn.tooltip
+msgid "Number of unread messages in thread"
+msgstr ""
+
+#: totalColumn.tooltip
+msgid "Total number of messages in thread"
+msgstr ""
+
+#: readColumn.tooltip
+msgid "Click to sort by read"
+msgstr ""
+
+#: receivedColumn.tooltip
+msgid "Click to sort by date received"
+msgstr ""
+
+#: starredColumn.tooltip
+msgid "Click to sort by star"
+msgstr ""
+
+#: locationColumn.tooltip
+msgid "Click to sort by location"
+msgstr ""
+
+#: idColumn.tooltip
+msgid "Click to sort by order received"
+msgstr ""
+
+#: attachmentColumn.tooltip
+msgid "Click to sort by attachments"
+msgstr ""
+
+# Thread Pane Context Menu
+#: contextOpenNewWindow.label
+#: contextOpenNewWindow.accesskey
+msgid "Open Message in New &Window"
+msgstr ""
+
+#: contextOpenNewTab.label
+#: contextOpenNewTab.accesskey
+msgid "Open Message in New &Tab"
+msgstr ""
+
+#: contextEditAsNew.label
+#: contextEditAsNew.accesskey
+msgid "&Edit As New…"
+msgstr ""
+
+#: contextReplyAll.label
+#: contextReplyAll.accesskey
+msgid "Reply to &All"
+msgstr ""
+
+#: contextForwardAsAttachment.label
+#: contextForwardAsAttachment.accesskey
+msgid "F&orward as Attachments"
+msgstr ""
+
+#: contextMoveMsgMenu.label
+#: contextMoveMsgMenu.accesskey
+msgid "&Move To"
+msgstr ""
+
+#: contextCopyMsgMenu.label
+#: contextCopyMsgMenu.accesskey
+msgid "&Copy To"
+msgstr ""
+
+#: contextSaveAs.label
+#: contextSaveAs.accesskey
+msgid "&Save As…"
+msgstr ""
+
+# Junk Bar
+#: junkBarMessage1.label
+msgid "Junk Mail"
+msgstr ""
+
+# Remote Content Bar
+#: remoteContentMessage1.label
+msgid "To protect your privacy, remote images have been blocked."
+msgstr ""
+
+#: loadRemoteContentButton1.label
+msgid "Load Images"
+msgstr ""
+
+# Phishing Bar
+#: phishingBarMessage1.label
+msgid "Suspected Email Scam"
+msgstr ""
+
+#: removePhishingBarButton1.label
+msgid "Ignore Warning"
+msgstr ""
+
+#: reportPhishingError.label
+msgid "This isn't an email scam"
+msgstr ""
+
+# Message Header Context Menu
+#: AddToAddressBook.label
+#: AddToAddressBook.accesskey
+msgid "Add to Address &Book…"
+msgstr ""
+
+#: SendMailTo.label
+#: SendMailTo.accesskey
+msgid "Compo&se Mail To"
+msgstr ""
+
+#: CopyEmailAddress.label
+#: CopyEmailAddress.accesskey
+msgid "&Copy Email Address"
+msgstr ""
+
+#: CreateFilter.label
+#: CreateFilter.accesskey
+msgid "Create &Filter from Message…"
+msgstr ""
+
+#: BlockAddress.label
+#: BlockAddress.accesskey
+msgid "Block &Address"
+msgstr ""
+
+#: reportPhishingURL.label
+#: reportPhishingURL.accesskey
+msgid "Rep&ort Email Scam"
+msgstr ""
+
+# Content Pane Context Menu
+#: saveLinkCmd.label
+#: saveLinkCmd.accesskey
+msgid "Save Link Ta&rget"
+msgstr ""
+
+#: saveImageCmd.label
+#: saveImageCmd.accesskey
+msgid "Sa&ve Image"
+msgstr ""
+
+#: selectAllCmd.label
+#: selectAllCmd.accesskey
+msgid "Select &All"
+msgstr ""
+
+#: copyLinkCmd.label
+#: copyLinkCmd.accesskey
+msgid "&Copy Link Location"
+msgstr ""
+
+#: copyImageCmd.label
+#: copyImageCmd.accesskey
+msgid "C&opy Image Location"
+msgstr ""
+
+#: copyEmailCmd.label
+#: copyEmailCmd.accesskey
+msgid "Copy &Email Address"
+msgstr ""
+
+# Statusbar
+#: statusText.label
+msgid "Done"
+msgstr ""
+
+# Mac OS X Window Menu
+#: minimizeWindow.label
+msgid "Minimize"
+msgstr ""
+
+#: bringAllToFront.label
+msgid "Bring All to Front"
+msgstr ""
+
+#: zoomWindow.label
+msgid "Zoom"
+msgstr ""
+
+# Mac OS X Application Menu (Cocoa widgets)
+#: preferencesCmdMac.label
+msgid "Preferences…"
+msgstr ""
+
+#: preferencesCmdMac.commandkey
+msgid ","
+msgstr ""
+
+#: preferencesCmdMac.modifiers
+#: hideThisAppCmdMac.modifiers
+msgid "accel"
+msgstr ""
+
+#: servicesMenuMac.label
+msgid "Services"
+msgstr ""
+
+#: hideThisAppCmdMac.label
+msgid "Hide &brandShortName;"
+msgstr ""
+
+#: hideThisAppCmdMac.commandkey
+#: hideOtherAppsCmdMac.commandkey
+msgid "H"
+msgstr ""
+
+#: hideOtherAppsCmdMac.label
+msgid "Hide Others"
+msgstr ""
+
+#: hideOtherAppsCmdMac.modifiers
+msgid "accel,alt"
+msgstr ""
+
+#: showAllAppsCmdMac.label
+msgid "Show All"
+msgstr ""

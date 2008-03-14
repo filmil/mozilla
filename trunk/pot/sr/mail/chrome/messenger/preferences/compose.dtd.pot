@@ -1,0 +1,190 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/preferences/compose.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: itemGeneral.label
+msgid "General"
+msgstr ""
+
+#: itemAutoComplete.label
+msgid "Addressing"
+msgstr ""
+
+#: itemSpellCheck.label
+msgid "Spelling"
+msgstr ""
+
+#: itemSendFormat.label
+msgid "Send Format"
+msgstr ""
+
+#: forwardReply.label
+msgid "Forwarding Messages"
+msgstr ""
+
+#: forwardMsg.label
+#: forwardMsg.accesskey
+msgid "For&ward messages:"
+msgstr ""
+
+#: inline.label
+#: inline.accesskey
+msgid "&Inline"
+msgstr ""
+
+#: asAttachment.label
+#: asAttachment.accesskey
+msgid "&As Attachment"
+msgstr ""
+
+#: addExtension.label
+#: addExtension.accesskey
+msgid "add extension to &file name"
+msgstr ""
+
+#: htmlComposeHeader.label
+msgid "HTML"
+msgstr ""
+
+#: font.label
+#: font.accesskey
+msgid "Fo&nt:"
+msgstr ""
+
+#: size.label
+#: size.accesskey
+msgid "Si&ze:"
+msgstr ""
+
+#: fontColor.label
+#: fontColor.accesskey
+msgid "Te&xt Color:"
+msgstr ""
+
+#: bgColor.label
+#: bgColor.accesskey
+msgid "&Background Color:"
+msgstr ""
+
+#: restoreHTMLDefaults.label
+#: restoreHTMLDefaults.accesskey
+msgid "&Restore Defaults"
+msgstr ""
+
+#: sendingMessagesHeader.label
+msgid "Composing Messages"
+msgstr ""
+
+#: spellCheck.label
+#: spellCheck.accesskey
+msgid "&Check spelling before sending"
+msgstr ""
+
+#: spellCheckInline.label
+msgid "Enable spell check as you type"
+msgstr ""
+
+#: spellCheckInline1.accesskey
+msgid "k"
+msgstr ""
+
+#: languagePopup.label
+#: languagePopup.accessKey
+msgid "Lan&guage:"
+msgstr ""
+
+#: downloadDictionaries.label
+msgid "Download More Dictionaries"
+msgstr ""
+
+#: useMIME.label
+#: useMIME.accesskey
+msgid "F&or messages that contain 8-bit characters, use 'quoted printable' MIME encoding"
+msgstr ""
+
+#: warnOnSendAccelKey.label
+#: warnOnSendAccelKey.accesskey
+msgid "Conf&irm when using keyboard shortcut to send message"
+msgstr ""
+
+#: autoSave.label
+#: autoSave.accesskey
+msgid "A&uto Save every"
+msgstr ""
+
+#: autoSaveEnd.label
+msgid "minutes"
+msgstr ""
+
+#: wrapOutMsg.label
+#: wrapOutMsg.accesskey
+msgid ""
+"_: This will concatenate with \"xxx characters\", using a number and (char.label).\n"
+"Wrap p&lain text messages at"
+msgstr ""
+
+#: char.label
+msgid "characters"
+msgstr ""
+
+#: emailCollectionPicker.label
+#: emailCollectionPicker.accesskey
+msgid "Au&tomatically add outgoing e-mail addresses to my:"
+msgstr ""
+
+#: addressingTitle.label
+msgid "Address Autocompletion"
+msgstr ""
+
+#: autocompleteText.label
+msgid "When addressing messages, look for matching entries in:"
+msgstr ""
+
+#: addressingEnable.label
+#: addressingEnable.accesskey
+msgid "Local &Address Books"
+msgstr ""
+
+#: directories.label
+#: directories.accesskey
+msgid "&Directory Server:"
+msgstr ""
+
+#: editDirectories.label
+#: editDirectories.accesskey
+msgid "&Edit Directories…"
+msgstr ""
+
+#: matchText.label
+msgid "If there is a match in your local address books:"
+msgstr ""
+
+#: skipDirectory.label
+msgid "Do not search in the directory"
+msgstr ""
+
+#: sendOptionsCaption.label
+msgid "Send and HTML Options"
+msgstr ""
+
+#: sendOptionsDescription.label
+msgid "Configure text format behavior"
+msgstr ""
+
+#: sendOptions.label
+#: sendOptions.accesskey
+msgid "&Send Options…"
+msgstr ""

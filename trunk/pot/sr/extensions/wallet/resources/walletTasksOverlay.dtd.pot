@@ -1,0 +1,88 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/extensions/wallet/resources/walletTasksOverlay.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: walletPasswordManager.label
+#: walletPasswordManager.accesskey
+msgid "&Password Manager"
+msgstr ""
+
+#: walletSafeFillCmd.label
+#: walletSafeFillCmd.accesskey
+msgid "Prefill &Form"
+msgstr ""
+
+#: walletQuickFillCmd.label
+#: walletQuickFillCmd.accesskey
+msgid "Prefill Form &Quickly"
+msgstr ""
+
+#: walletRequestToCaptureCmd.label
+#: walletRequestToCaptureCmd.accesskey
+msgid "&Save Form Data"
+msgstr ""
+
+#: walletDisplaySignonsCmd.label
+#: walletDisplaySignonsCmd.accesskey
+msgid "&Manage Stored Passwords"
+msgstr ""
+
+#: walletInterviewCmd.label
+#: walletInterviewCmd.accesskey
+msgid "&Interview"
+msgstr ""
+
+#: walletSamplesCmd.label
+#: walletSamplesCmd.accesskey
+msgid "&Demonstration"
+msgstr ""
+
+#: walletChangePasswordCmd.label
+#: walletChangePasswordCmd.accesskey
+msgid "&Change Master Password…"
+msgstr ""
+
+#: walletExpirePasswordCmd.label
+#: walletExpirePasswordCmd.accesskey
+msgid "&Log Out"
+msgstr ""
+
+#: walletEncryptCmd.label
+#: walletEncryptCmd.accesskey
+msgid "&Encrypt Sensitive Information"
+msgstr ""
+
+#: walletObscureCmd.label
+#: walletObscureCmd.accesskey
+msgid "&Obscure Sensitive Information"
+msgstr ""
+
+#: walletClearCmd.label
+#: walletClearCmd.accesskey
+msgid "&Reset Master Password"
+msgstr ""
+
+#: PasswordNotChanged
+msgid "Unable to change your master password."
+msgstr ""
+
+#: PasswordExpired
+msgid "You are now logged out."
+msgstr ""
+
+#: PasswordNotExpired
+msgid "Unable to log out."
+msgstr ""

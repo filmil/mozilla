@@ -1,0 +1,210 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:1
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:2
+msgid "Tabbed Browsing"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:3
+msgid ""
+"Tabbed browsing lets you open tabs, each displaying a web page, within a   "
+"single &brandShortName; window.  You can open links in new tabs, where they "
+"  will load while you read the current page.  You don't have to use tabbed "
+"  browsing, but if you do you might find tabbed browsing is a better, "
+"faster   way to browse the Web."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:4
+msgid "In this section:   <ul>"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:5
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:10
+msgid "Creating and Loading Tabs"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:6
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:18
+msgid "Moving Tabs Within a Window"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:7
+msgid "Closing Tabs"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:8
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:23
+msgid "Customizing Tabbed Browsing"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:9
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:25
+msgid "Tips and Tricks"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:11
+msgid ""
+"To open a new tab, press &accelKey;+<kbd>T</kbd>, select <span   "
+"class=\"menuPath\">File &gt; New Tab</span>, or double-click an empty space in "
+"  the Tab Bar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:12
+msgid "To load a link in a tab, you can do one of the following:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:13
+msgid ""
+"Middle-click the link. (If you have a mouse wheel, clicking the wheel is "
+"    equivalent to middle-clicking.)"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:14
+msgid ""
+"Drag the link and drop it on an empty space in the Tab Bar. (If only one "
+"    web page is open, the Tab Bar may be hidden. See <a     "
+"href=\"#customizing\">Customizing Tabbed Browsing</a> for information on how "
+"    to change this.)"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:15
+msgid "Drag and drop the link onto a tab to open the link in that tab."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:16
+msgid ""
+"<span class=\"noMac\">Right-click</span><span class=\"mac\">Press &ctrlKey;, "
+"    click on</span> the link, and choose <span     class=\"menuPath\">Open "
+"Link in New Tab</span> from the context menu."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:17
+msgid ""
+"To open a URL in the Location Bar in a new tab, enter the URL and press   "
+"&altKey;+&enterKey;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:19
+msgid ""
+"Tabs are displayed in the order you open them, which may not always be what "
+"  you want.  To move a tab to a different location within a "
+"&brandShortName;   window, simply drag it there using your mouse.  While you "
+"are dragging the   tab, &brandShortName; displays a small indicator to show "
+"where the tab will be   moved.  Alternately, you can use <a   "
+"href=\"shortcuts.xhtml#windows_tabs\">keyboard shortcuts</a> to move tabs "
+"within   a window if desired."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:20
+msgid "Closing and Restoring Tabs"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:21
+msgid ""
+"To close the current tab, press &accelKey;+<kbd>W</kbd>, click the Close Tab "
+"  button, middle-click the tab, or select <span class=\"menuPath\">File &gt; "
+"  Close Tab</span>.  To close all tabs other than the current one, <span   "
+"class=\"noMac\">right-click</span><span class=\"mac\">press &ctrlKey;,   "
+"click</span> on the tab and choose <span class=\"menuPath\">Close Other   "
+"Tabs</span>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:22
+msgid ""
+"&brandShortName; windows keep a list of tabs you closed recently. You can   "
+"restore any tab by selecting it from <span class=\"menuPath\">History &gt;   "
+"Recently Closed Tabs</span>. You can restore all tabs by selecting <span   "
+"class=\"menuPath\">History &gt; Recently Closed Tabs &gt; Open All in Tabs   "
+"</span>. Press &accelKey;+&shiftKey;+<kbd>T</kbd> to open them one by one in "
+"  reverse order."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:24
+msgid ""
+"To change tabbed browsing &pref.plural; select &pref.menuPath; and open the "
+"    <a href=\"prefs.xhtml#tabs_options\"><em>Tabs</em> panel</a>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:26
+msgid "Bookmarks and Tabbed Browsing"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:27
+msgid "To bookmark a set of tabs:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:28
+msgid ""
+"<span class=\"noUnix\">Press &accelKey;+&shiftKey;+<kbd>D</kbd> or         "
+"select</span><span class=\"unix\">Select</span>         <span "
+"class=\"menuPath\">Bookmarks &gt; Bookmark All Tabs</span> to add         all "
+"the tabs in the current window to a new bookmark folder."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:29
+msgid ""
+"To open bookmarks in tabs, open a bookmark folder menu and choose         "
+"<span class=\"menuPath\">Open in Tabs</span>.  You can also middle-click "
+"        on the folder to open its contents in tabs.  The bookmarks will "
+"open in         existing tabs, not new ones."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:30
+msgid "Home Page as Tabs"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:31
+msgid ""
+"Instead of using only one web page as your homepage, you can make your     "
+"home page a set of tabs. Select your favorite web sites and open them in "
+"    tabs in a single window. Select &pref.menuPath; and open the <a     "
+"href=\"prefs.xhtml#main_options\"><em>Main</em> panel</a>.  Under     "
+"<em>Startup</em>, press the <em>Use Current Pages</em> button. Now     when "
+"you press the Home button, your favorite web sites will load with just     a "
+"click."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:32
+msgid "Adding a New Tab Toolbar Button"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:33
+msgid ""
+"You can add a New Tab button on the toolbar to easily open new tabs by <a "
+"    href=\"customization.xhtml#rearranging_toolbar_items\">customizing your "
+"    toolbars</a>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:34
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:35
+msgid ""
+"&brandShortName; has an extensive set of shortcuts related to tabbed     "
+"browsing; see the full list in <a     "
+"href=\"shortcuts.xhtml#windows_tabs\">Keyboard Shortcuts</a>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:36
+msgid "12 September 2006"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/tabbed_browsing.xhtml:37
+msgid ""
+"Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer "
+"Project."
+msgstr ""

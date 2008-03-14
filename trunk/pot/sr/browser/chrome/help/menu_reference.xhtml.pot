@@ -1,0 +1,847 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:1
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:2
+msgid "&brandFullName; Menu Reference"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:3
+msgid ""
+"This menu reference describes each menu item in the main     &brandFullName; "
+"window."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:4
+msgid "In this section:     <ul>"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:5
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:14
+msgid "&brandShortName;"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:6
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:21
+msgid "File"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:7
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:50
+msgid "Edit"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:8
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:71
+msgid "View"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:9
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:85
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:112
+msgid "History"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:10
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:83
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:124
+msgid "Bookmarks"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:11
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:134
+msgid "Tools"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:12
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:149
+msgid "Window"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:13
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:156
+msgid "Help"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:15
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:171
+msgid "About &brandFullName;"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:16
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:172
+msgid ""
+"Displays a dialog box with information about &brandShortName;, including "
+"      the current version and a brief list of credits."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:17
+msgid "Preferences…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:18
+msgid ""
+"Displays the <a href=\"prefs.xhtml\">&pref.pluralCaps; window</a>,       where "
+"you can change many &pref.plural; in &brandShortName;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:19
+msgid "Quit &brandShortName;"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:20
+msgid ""
+"Closes all &brandShortName; windows, cancels any active downloads, and exits "
+"      &brandShortName; completely. If you happen to select this menu item "
+"with       more than one tab or window open, &brandShortName; will ask you "
+"to confirm       your choice to prevent accidental exits. You can switch off "
+"this warning       by deselecting the <em>Warn me when closing multiple "
+"tabs</em> checkbox in       the <em>Tabs</em> panel of &pref.menuPath;. "
+"&brandShortName; will also       warn you if you are currently downloading "
+"any files."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:22
+msgid "New Window"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:23
+msgid "Opens a new &brandShortName; window."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:24
+msgid "New Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:25
+msgid "Opens a new browser tab in the current &brandShortName; window."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:26
+msgid "Open Location…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:27
+msgid ""
+"Focuses on the &brandShortName; URL bar so you can type in a new location to "
+"    visit."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:28
+msgid "Open File…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:29
+msgid ""
+"Displays an Open File dialog where you can select a file from your     local "
+"disks or network. You can view many file types in &brandShortName;,     "
+"including HTML/XML files, image files, text files and more."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:30
+msgid "Close (Window)"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:31
+msgid "Closes the current window."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:32
+msgid "Close Tab"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:33
+msgid ""
+"Closes the current tab and selects the rightmost tab. This menu item is     "
+"visible only if more than one browser tab is currently open."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:34
+msgid "Save Page As…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:35
+msgid ""
+"Saves the page you are currently browsing. You can choose to save the     "
+"whole page (complete with graphics), just the current HTML page, or the     "
+"page text only."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:36
+msgid "Send Link…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:37
+msgid ""
+"Opens an email composition window using your computer's default email "
+"program     so you can send a message with a link to the current page."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:38
+msgid "Page Setup…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:39
+msgid ""
+"Displays a Page Setup dialog where you can specify printing settings such as "
+"    margins, headers and footers, and page orientation."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:40
+msgid "Print Preview"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:41
+msgid ""
+"Displays a preview of how the current document will appear when printed. It "
+"      reflects the settings in the Page Setup dialog and the page author's "
+"      intentions."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:42
+msgid "Print…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:43
+msgid ""
+"Displays the Print dialog, where you can specify the number of printed "
+"copies,     etc. Click <em>OK</em> to print the page."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:44
+msgid "Import…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:45
+msgid ""
+"Opens the Import Wizard dialog, which allows you to import &pref.plural;, "
+"bookmarks,     history, passwords and other data from browsers like "
+"Microsoft Internet     Explorer, Netscape, Mozilla or Opera."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:46
+msgid "Work Offline"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:47
+msgid ""
+"Toggles between online and offline mode. Offline mode allows you to view "
+"    web pages you've previously visited without being connected to the     "
+"Internet."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:48
+msgid "Exit</span>     <span class=\"noWin\">Quit"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:49
+msgid ""
+"Closes all &brandShortName; windows, cancels any active downloads, and exits "
+"    &brandShortName; completely. If you happen to select this menu item "
+"with     more than one tab or window open, &brandShortName; will ask you to "
+"confirm     your choice to prevent accidental exits. You can switch off this "
+"warning     by deselecting the <em>Warn me when closing multiple tabs</em> "
+"checkbox in     the <em>Tabs</em> panel of &pref.menuPath;. &brandShortName; "
+"will also     warn you if you are currently downloading any files."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:51
+msgid "Undo"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:52
+msgid ""
+"Undoes the last action in a text field. If you later decide you don't want "
+"to     undo an action, use the Redo command."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:53
+msgid "Redo"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:54
+msgid "Redoes the last Undo command."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:55
+msgid "Cut"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:56
+msgid ""
+"Cuts the selected text from a text field and stores it in the clipboard. "
+"Paste     the text elsewhere by using the Paste command."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:57
+msgid "Copy"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:58
+msgid ""
+"Copies the selected text to the clipboard. Paste the text in a text field by "
+"    using the Paste command."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:59
+msgid "Paste"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:60
+msgid "Pastes text stored in the clipboard into a text field."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:61
+msgid "Delete"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:62
+msgid "Deletes the selected text from a text field."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:63
+msgid "Select All"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:64
+msgid "Selects all text and other items on the page."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:65
+msgid "Find in This Page…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:66
+msgid ""
+"Displays the Find Toolbar at the bottom of the browser window.  Enter the "
+"    text you wish to find in the toolbar, and as you type &brandShortName; "
+"will     automatically find and select the first occurrence of the entered "
+"text on     the page.  Click <em>Find Next</em> or <em>Find Previous</em> to "
+"find the     text at other locations in the page, and click "
+"<em>Highlight</em> to     highlight all occurrences of the text on the page."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:67
+msgid "Find Again"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:68
+msgid ""
+"Searches for the next occurrence of the text specified when using the   "
+"<em>Find in This Page…</em> command."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:69
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:147
+msgid "&pref.pluralCaps;"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:70
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:148
+msgid ""
+"Displays the <a href=\"prefs.xhtml\">&pref.pluralCaps; window</a>,     where "
+"you can change many &pref.plural; in &brandShortName;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:72
+msgid "Toolbars"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:73
+msgid "Navigation Toolbar"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:74
+msgid ""
+"Toggles the visibility of the navigation toolbar, which usually contains "
+"      standard navigation buttons (Back, Forward, Stop, etc.)."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:75
+msgid "Bookmarks Toolbar"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:76
+msgid ""
+"Toggles the visibility of the bookmarks toolbar, which contains bookmarks "
+"      to various sites."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:77
+msgid "Customize…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:78
+msgid ""
+"Displays the toolbar customization dialog.  You can drag and drop toolbar "
+"      buttons to or from the toolbars here. You can also <span       "
+"class=\"noMac\">right-click</span><span class=\"mac\">press &ctrlKey;,       "
+"click</span> on the navigation toolbar and select <em>Customize…</em>       "
+"to show this dialog."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:79
+msgid "Status Bar"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:80
+msgid ""
+"Toggles the visibility of the status bar, located at the bottom of the "
+"window.     The status bar displays useful information about the page but "
+"may not be     needed by everyone."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:81
+msgid "Sidebar"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:82
+msgid ""
+"The Sidebar can display your bookmarks or the browsing history.  You can "
+"    always close the Sidebar by clicking on the X in the upper-right     "
+"corner."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:84
+msgid ""
+"Displays the Bookmarks Sidebar, which keeps your bookmarks visible all "
+"      the time. This can be very useful if you use bookmarks often."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:86
+msgid ""
+"Displays the History Sidebar, which keeps track of the sites you have       "
+"visited. To change how many days a site should be remembered, select       "
+"&pref.menuPath; and select the <em>Privacy</em> panel."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:87
+msgid "Stop"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:88
+msgid ""
+"Stops loading of the current page you're browsing. This is the same as     "
+"clicking on the <em>Stop</em> button on the toolbar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:89
+msgid "Reload"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:90
+msgid ""
+"Gets the most up-to-date version of the current page.  This is the same     "
+"as clicking the <em>Reload</em> button on the toolbar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:91
+msgid "Text Size"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:92
+msgid ""
+"If the text on a web page is too small or too large, you can change it to "
+"    a more comfortable size."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:93
+msgid "Increase"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:94
+msgid ""
+"Displays the text on the web page one size larger. You can also do this "
+"      with the mouse (see <a href=\"mouse_shortcuts.xhtml\">Mouse "
+"Shortcuts</a>       for instructions)."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:95
+msgid "Decrease"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:96
+msgid ""
+"Displays the text on the web page one size smaller. You can also do this "
+"      with the mouse (see <a href=\"mouse_shortcuts.xhtml\">Mouse "
+"Shortcuts</a>       for instructions)."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:97
+msgid "Normal"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:98
+msgid "Displays the text on the web page at its normal size."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:99
+msgid "Page Style"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:100
+msgid ""
+"Allows you to select a style for the current web page. By default,     "
+"&quot;Basic Page Style&quot; is selected unless the author specifies a     "
+"different default."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:101
+msgid "No Style"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:102
+msgid "Removes style formatting from the page."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:103
+msgid "Basic Page Style"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:104
+msgid "Displays the page with a general style specified by the author."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:105
+msgid ""
+"If the author has specified additional page styles, &brandShortName;      "
+"will list them here for you to select."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:106
+msgid "Character Encoding"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:107
+msgid ""
+"Allows you to manually change the character encoding on a web page.     "
+"&brandShortName; usually does this automatically."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:108
+msgid "Page Source"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:109
+msgid "Displays the source code for the current document."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:110
+msgid "Full Screen"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:111
+msgid ""
+"Displays the window in full screen. If you have the navigation toolbar "
+"      hidden, you can always restore the window anyway by pressing       "
+"<kbd>F11</kbd>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:113
+msgid ""
+"The History menu contains a list of the most recently visited web sites and "
+"    closed tabs."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:114
+msgid "Back"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:115
+msgid ""
+"Navigates back one page in history. This is the same as clicking on the     "
+"<em>Back</em> button on the toolbar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:116
+msgid "Forward"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:117
+msgid ""
+"Navigates forward one page in history. This is the same as clicking on     "
+"the <em>Forward</em> button on the toolbar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:118
+msgid "Home"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:119
+msgid ""
+"Displays your home page. This is the same as clicking on the     "
+"<em>Home</em> button on the navigation toolbar. To change the home page, "
+"    select &pref.menuPath; and open the <em>Main</em> panel.  You     can "
+"specify to use a blank page, the current page (or tab group), a     "
+"bookmark, or a manually entered address."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:120
+msgid "Recently Closed Tabs"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:121
+msgid ""
+"Allows you to restore a tab you closed recently in the current window by "
+"    selecting it from the list. See the <a href=     "
+"\"tabbed_browsing.xhtml#closing_tabs\">Closing and Restoring Tabs</a> topic "
+"    for more information."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:122
+msgid "Show in Sidebar"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:123
+msgid ""
+"Displays the History Sidebar, which keeps track of the sites you have     "
+"visited. To change how many days a site should be remembered, select     "
+"&pref.menuPath; and select the <em>Privacy</em> panel."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:125
+msgid "This menu contains all your stored bookmarks."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:126
+msgid "Bookmark This Page"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:127
+msgid ""
+"Adds the current page to your bookmarks. A dialog will be displayed,     "
+"allowing you to choose a title for the bookmark and specify where you     "
+"want it to be stored."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:128
+msgid "Subscribe to This Page…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:129
+msgid ""
+"Shows a preview of the <a href=\"glossary.xhtml#feed\">feed</a> offered by "
+"    the current site. From the preview page, you can subscribe to the feed "
+"using     a <a href=\"glossary.xhtml#live_bookmark\">Live Bookmark</a>, a feed "
+"reader     on your computer, or a web service. If you have chosen to always "
+"subscribe     using a Live Bookmark or a feed reader in the     <a "
+"href=\"prefs.xhtml#applications_options\">Applications panel</a> of     "
+"&pref.menuPath;, the preview page will be skipped."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:130
+msgid "Bookmark All Tabs…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:131
+msgid ""
+"Adds all the tabs in the current window to a new bookmark folder. A dialog "
+"    will be displayed, allowing you to choose the name of the folder and "
+"specify     where you want it to be stored."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:132
+msgid "Organize Bookmarks…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:133
+msgid ""
+"Displays the Bookmarks Manager, a window where you can modify your     "
+"bookmarks. You can sort, rename and change the properties for your     "
+"bookmarks as well as add, remove, and move them."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:135
+msgid "Web Search"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:136
+msgid ""
+"Highlights the Web Search box. You can then type in the terms you     wish "
+"to find on the Web."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:137
+msgid "Downloads"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:138
+msgid ""
+"Opens the Download Manager, where you can see the current, as well as     "
+"finished downloads."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:139
+msgid "Add-ons"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:140
+msgid ""
+"Opens the Add-ons manager, where you can view, install, configure, update, "
+"    and uninstall your extensions and themes. For more information, see the "
+"    <a href=\"customization.xhtml#add_ons\">Add-ons</a> help topic."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:141
+msgid "Error Console"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:142
+msgid ""
+"Opens the Error Console, which tracks problems with JavaScript code.     "
+"JavaScript is a scripting language commonly used to construct web pages. "
+"    Programmers use JavaScript to make web pages more interactive; "
+"JavaScript     is often used to dynamically validate forms and select "
+"buttons."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:143
+msgid "Page Info"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:144
+msgid ""
+"Displays extensive information about the current web page, such as the     "
+"document type, encoding, size, and security information.  The dialog also "
+"    displays lists of the media and links used on the page."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:145
+msgid "Clear Private Data…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:146
+msgid ""
+"Clears the items which are selected in the Clear Private Data dialog in     "
+"the <em>Privacy</em> panel of &pref.menuPath;.     Displays a confirmation "
+"dialog by default."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:150
+msgid "Minimize"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:151
+msgid "Minimizes the current window."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:152
+msgid "Zoom"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:153
+msgid "Enlarges or restores the current window."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:154
+msgid "(Open Windows)"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:155
+msgid "Displays all the open windows by their title."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:157
+msgid "Help Contents</span>     <span class=\"mac\">&brandShortName; Help"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:158
+msgid ""
+"Opens the &brandShortName; Help window, which contains useful information "
+"    that can help you browse the web."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:159
+msgid "For Internet Explorer Users"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:160
+msgid ""
+"Opens this Help window displaying information that can       help Internet "
+"Explorer users transition to &brandShortName;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:161
+msgid "Release Notes"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:162
+msgid ""
+"Provides information about installing, uninstalling and configuring     "
+"&brandShortName;, as well as other important information and late-breaking "
+"    notices. Requires an active Internet connection."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:163
+msgid "Report Broken Web Site…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:164
+msgid ""
+"Allows you to report web sites that do not work correctly in     "
+"&brandShortName; to the &brandShortName; developers."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:165
+msgid "Report Web Forgery… / This isn't a web forgery…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:166
+msgid ""
+"<em>Report Web Forgery…</em> allows you to report what you believe are     "
+"forged or \"phishing\" sites. Phishing sites pretend to be sites you trust, "
+"    like your bank or online shopping or auction sites, to trick you into "
+"    submitting sensitive information (username/password, credit card "
+"information,     etc.) to them."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:167
+msgid ""
+"When displaying sites suspected for \"phishing\", the menu item is replaced "
+"    by <em>\"This isn't a web forgery…\"</em>, letting you report legitimate "
+"    sites which have been incorrectly marked as \"phishing\" sites."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:168
+msgid ""
+"Phishing Protection in &brandShortName; is powered by Google, and the     "
+"information you submit will be sent to Google and used to improve this     "
+"feature. Your report will be anonymous in accordance with Google's privacy "
+"    policy. Requires an active Internet connection."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:169
+msgid "Check for Updates…"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:170
+msgid ""
+"Displays a dialog which checks for updates to &brandShortName; and asks     "
+"you whether you want to download updates if any are available. After an     "
+"update has been downloaded, the dialog asks you to restart &brandShortName; "
+"    so that the update can be installed. Note that the name of this menu "
+"item     will change when an update is being downloaded or is ready to be "
+"installed."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:173
+msgid "29 September 2007"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/menu_reference.xhtml:174
+msgid ""
+"Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer "
+"Project."
+msgstr ""

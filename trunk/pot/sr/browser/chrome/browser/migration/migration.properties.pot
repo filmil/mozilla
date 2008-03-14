@@ -1,0 +1,178 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/migration/migration.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: profileName_format
+msgid "%S %S"
+msgstr ""
+
+# Browser Specific
+#: sourceNameIE
+msgid "Internet Explorer"
+msgstr ""
+
+#: sourceNameSeamonkey
+msgid "Netscape 6/7/Mozilla"
+msgstr ""
+
+#: sourceNameDogbert
+msgid "Netscape 4"
+msgstr ""
+
+#: sourceNameOpera
+msgid "Opera"
+msgstr ""
+
+#: sourceNameSafari
+msgid "Safari"
+msgstr ""
+
+#: sourceNameOmniWeb
+msgid "OmniWeb"
+msgstr ""
+
+#: sourceNameCamino
+msgid "Camino"
+msgstr ""
+
+#: sourceNameICab
+msgid "iCab"
+msgstr ""
+
+#: sourceNameKonqueror
+msgid "Konqueror"
+msgstr ""
+
+#: sourceNameEpiphany
+msgid "Epiphany"
+msgstr ""
+
+#: sourceNameGaleon
+msgid "Galeon"
+msgstr ""
+
+#: importedBookmarksFolder
+msgid "From %S"
+msgstr ""
+
+#: importedSearchURLsFolder
+msgid "Keyword Searches (From %S)"
+msgstr ""
+
+#: importedSearchURLsTitle
+msgid "Search on %S"
+msgstr ""
+
+#: importedSearchUrlDesc
+msgid "Type \"%S <search query>\" in the Location Bar to perform a search on %S."
+msgstr ""
+
+#: importedDogbertBookmarksTitle
+msgid "From Netscape 4"
+msgstr ""
+
+#: importedSeamonkeyBookmarksTitle
+msgid "From Netscape 6/7/Mozilla"
+msgstr ""
+
+#: importedSafariBookmarks
+msgid "From Safari"
+msgstr ""
+
+#: importedOperaHotlistTitle
+msgid "From Opera"
+msgstr ""
+
+#: importedOperaSearchUrls
+msgid "Keyword Searches (From Opera)"
+msgstr ""
+
+# Import Sources
+#: 1_ie
+msgid "Internet Options"
+msgstr ""
+
+#: 1_opera
+#: 1_dogbert
+#: 1_seamonkey
+#: 1_phoenix
+#: 1_safari
+#: 1_macie
+msgid "Preferences"
+msgstr ""
+
+#: 2_ie
+#: 2_opera
+#: 2_dogbert
+#: 2_seamonkey
+#: 2_phoenix
+#: 2_safari
+#: 2_macie
+msgid "Cookies"
+msgstr ""
+
+#: 4_ie
+#: 4_opera
+#: 4_dogbert
+#: 4_seamonkey
+#: 4_phoenix
+#: 4_safari
+#: 4_macie
+msgid "Browsing History"
+msgstr ""
+
+#: 8_ie
+#: 8_opera
+#: 8_dogbert
+#: 8_seamonkey
+#: 8_phoenix
+#: 8_safari
+#: 8_macie
+msgid "Saved Form History"
+msgstr ""
+
+#: 16_ie
+#: 16_opera
+#: 16_dogbert
+#: 16_seamonkey
+#: 16_phoenix
+#: 16_safari
+#: 16_macie
+msgid "Saved Passwords"
+msgstr ""
+
+#: 32_ie
+#: 32_macie
+msgid "Favorites"
+msgstr ""
+
+#: 32_opera
+#: 32_dogbert
+#: 32_seamonkey
+#: 32_phoenix
+#: 32_safari
+msgid "Bookmarks"
+msgstr ""
+
+#: 64_ie
+#: 64_opera
+#: 64_dogbert
+#: 64_seamonkey
+#: 64_phoenix
+#: 64_safari
+#: 64_macie
+msgid "Other Data"
+msgstr ""

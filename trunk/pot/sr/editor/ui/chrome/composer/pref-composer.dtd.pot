@@ -1,0 +1,104 @@
+# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/editor/ui/chrome/composer/pref-composer.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: saving
+msgid "Saving"
+msgstr ""
+
+#: AutoSaveCheck
+msgid "Automatically save every"
+msgstr ""
+
+#: minText
+msgid "minutes"
+msgstr ""
+
+#: exterLegend.label
+msgid "External Editors"
+msgstr ""
+
+#: htmlSource
+msgid "HTML Source:"
+msgstr ""
+
+#: imageeditor
+msgid "Images:"
+msgstr ""
+
+#: chooseButton.label
+msgid "Choose"
+msgstr ""
+
+#: recentFiles.title
+msgid "Recent Pages Menu"
+msgstr ""
+
+#: documentsInMenu.label
+#: documentsInMenu.accesskey
+msgid "Maximum &number of pages listed:"
+msgstr ""
+
+#: savingFiles.title
+msgid "When Saving or Publishing Pages"
+msgstr ""
+
+#: preserveExisting.label
+#: preserveExisting.accesskey
+msgid "&Preserve original source formatting"
+msgstr ""
+
+#: preserveExisting.tooltip
+msgid "Preserves line breaks and page's original formatting"
+msgstr ""
+
+#: saveAssociatedFiles.label
+#: saveAssociatedFiles.accesskey
+msgid "&Save images and other associated files when saving pages"
+msgstr ""
+
+#: showPublishDialog.label
+#: showPublishDialog.accesskey
+msgid "&Always show Publish dialog when publishing pages"
+msgstr ""
+
+#: composerEditing.label
+msgid "Editing"
+msgstr ""
+
+#: spellCheckInline.label
+#: spellCheckInline.accesskey
+msgid "&Check spelling as you type"
+msgstr ""
+
+#: maintainStructure.label
+#: maintainStructure.accesskey
+msgid "&Maintain table layout when inserting or deleting cells"
+msgstr ""
+
+#: maintainStructure.tooltip
+msgid "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells"
+msgstr ""
+
+#: useCSS.label
+#: useCSS.accesskey
+msgid "&Use CSS styles instead of HTML elements and attributes"
+msgstr ""
+
+#: crInPCreatesNewP.label
+#: crInPCreatesNewP.accesskey
+msgid "&Return in a paragraph always creates a new paragraph"
+msgstr ""

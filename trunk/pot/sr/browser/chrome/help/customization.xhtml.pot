@@ -1,0 +1,307 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 1.0.1\n"
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:1
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:2
+msgid "Customizing &brandFullName;"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:3
+msgid "In this section:  <ul>"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:4
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:6
+msgid "Toolbars"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:5
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:26
+msgid "Add-ons (extensions and themes)"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:7
+msgid ""
+"This will tell you how to rearrange, hide, add, and remove toolbars in   "
+"&brandShortName;. For those who are unfamiliar with the terminology, a "
+"toolbar   is the (usually gray) box above the area that the web site is "
+"displayed."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:8
+msgid ""
+"<strong>Menu Bar</strong>: This is the toolbar that contains     the browser "
+"menus (File, Edit, Help, etc.)."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:9
+msgid ""
+"<strong>Navigation Bar</strong>: This is the toolbar that contains the     "
+"Location Bar and the buttons used to navigate web sites."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:10
+msgid ""
+"<strong>Bookmarks Toolbar</strong>: This is the toolbar that contains     "
+"your Bookmarks Toolbar Folder bookmarks."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:11
+msgid ""
+"There are two basic methods of customizing the toolbars in   "
+"&brandShortName;:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:12
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:14
+msgid "Rearranging Toolbar Items"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:13
+msgid "Hiding, Adding, and Removing     Toolbars"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:15
+msgid ""
+"To rearrange the items (icons, buttons, text boxes, etc.) on your toolbar, "
+"  <span class=\"noMac\">right-click</span><span class=\"mac\">press &ctrlKey; "
+"and   click</span> on any part of the toolbar that is not a text box and "
+"select   <span class=\"menuPath\">Customize…</span>. This will bring up the "
+"toolbar   customization dialog."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:16
+msgid ""
+"Drag and drop any items you want to and from the toolbars <span class=   "
+"\"noMac\">(excluding the menu items)</span>. You can also rearrange icons   "
+"already on the toolbars by dragging and dropping them wherever you wish. "
+"When   the toolbars and items are arranged the way you want them, click   "
+"<em>Done</em>."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:17
+msgid "Special Toolbar Items"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:18
+msgid ""
+"There are a few special items that are available to you when customizing the "
+"  toolbar. They are as follows:"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:19
+msgid ""
+"<strong>Separators:</strong> These allow you to separate items on the     "
+"toolbars with a small vertical line."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:20
+msgid ""
+"<strong>Spacers:</strong> These allow you to separate items on the     "
+"toolbars with a fixed-size space, usually around 20 pixels on most     "
+"themes."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:21
+msgid ""
+"<strong>Flexible spacers:</strong> Spacers allow you to separate items     "
+"on the toolbars with a space.  These spacers automatically resize to fill "
+"    all of the empty space on the toolbar.  These are good for positioning "
+"    items on the right of a toolbar."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:22
+msgid "Hiding, Adding, and Removing Toolbars"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:23
+msgid ""
+"You can hide the Navigation Toolbar and the Bookmarks Toolbar if you do not "
+"  wish to keep them on your screen. <span class=\"noMac\">You cannot hide the "
+"Menu   Bar because you cannot move the menu items (File, Edit, Help, etc.) "
+"to a   different toolbar, and they must stay on the screen at all "
+"times.</span>"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:24
+msgid ""
+"To show or hide a toolbar, select <span class=\"menuPath\">View &gt; "
+"Toolbars</span>   and click the name of the toolbar you want to show or "
+"hide."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:25
+msgid ""
+"To add a custom toolbar, select <span class=\"menuPath\">View &gt; Toolbars   "
+"&gt; Customize</span>. Click on <em>Add New Toolbar</em> (in the bottom of "
+"the   dialog). This will give you a dialog to enter a name. If you enter a "
+"name and   click <em>OK</em>, your new toolbar appears. Now you can drag and "
+"drop items   to it. To remove a custom toolbar, drag and drop all the items "
+"from it, and   click Done. You can also hide a custom toolbar as described "
+"in the previous   paragraph."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:27
+msgid ""
+"Add-ons are small pieces of software which change or add to the appearance "
+"or   functionality of &brandShortName;. There are two kinds of add-ons: "
+"extensions   and themes."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:28
+msgid "Extensions"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:29
+msgid ""
+"Extensions add new functionality to &brandShortName;. They can add     "
+"anything from a toolbar button to a completely new feature. They allow the "
+"    application to be customized to fit the personal needs of each user "
+"while     minimizing the size and appearance of the application itself."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:30
+msgid "Themes"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:31
+msgid ""
+"Themes modify &brandShortName;'s appearance. They allow you to change the "
+"    look and feel of &brandShortName; and personalize it to your tastes. A "
+"    theme can simply change button images, or it can change every piece of "
+"    &brandShortName; appearance."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:32
+msgid "Getting and Installing Add-ons"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:33
+msgid ""
+"You can download and install many add-ons from <a   "
+"href=\"https://addons.mozilla.org/firefox/\" target=\"_blank\">&brandShortName; "
+"  Add-ons</a>. Internet searches will find many other add-ons as well."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:34
+msgid ""
+"When you click on a link to install an add-on, &brandShortName; displays a "
+"  dialog asking you for permission to install the add-on. You can choose to "
+"  allow the download and installation or to cancel the process."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:35
+msgid "Using the Add-ons manager"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:36
+msgid ""
+"Add-ons are managed in the Add-ons manager. Select <span   "
+"class=\"menuPath\">Tools &gt; Add-ons</span> to open it."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:37
+msgid "Updating Add-ons"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:38
+msgid ""
+"By default, &brandShortName; will periodically check when a new version for "
+"  one of your installed add-ons is available. If any are available, it will "
+"  prompt you at the next start to install any updates. You can change this "
+"  behavior in the <a href=\"prefs.xhtml#advanced_update\"><em>Update</em> "
+"tab</a>   of the <em>Advanced</em> panel of &pref.pluralCaps;."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:39
+msgid ""
+"You can check for updates manually by selecting the <em>Extensions</em> or "
+"  <em>Themes</em> panel and clicking the <em>Find Updates</em> button. If "
+"  updates are available, the Add-ons manager displays an <em>Updates</em> "
+"  panel, where you can choose the updates you want to install. Click the   "
+"<em>Install Updates</em> button to update those add-ons.   You need to "
+"restart &brandShortName; for changes to take effect."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:40
+msgid "Disabling, Enabling, and Uninstalling Add-ons"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:41
+msgid ""
+"If you want to get rid of an extension, you can either disable it "
+"temporarily,   so it is easily available should you want to enable it again "
+"in the future,   or uninstall it. Themes can only be uninstalled since all "
+"themes except the   current one are disabled automatically."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:42
+msgid ""
+"To disable or enable an extension, select the extension of your choice and "
+"  click its <em>Disable</em> or <em>Enable</em> button. To remove an add-on "
+"from   &brandShortName;, select the add-on you wish to remove and click its "
+"  <em>Uninstall</em> button. You need to restart &brandShortName; for "
+"changes to   take effect."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:43
+msgid "Further functionality"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:44
+msgid ""
+"Further functionality such as <em>Visit Home Page</em> and <em>About</em> is "
+"  available by selecting the add-on of your choice, <span "
+"class=\"mac\">pressing   &ctrlKey; and clicking on</span><span class=\"noMac"
+"\">right-clicking</span> the   add-on and selecting the respective item from "
+"the context menu."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:45
+msgid "Tasks specific to extensions or themes"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:46
+msgid "Configuring Extensions"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:47
+msgid ""
+"Extensions often provide a dialog to configure their functionality. To open "
+"  the &pref.plural; dialog of an extension, select the Extensions panel, "
+"select   the extension of your choice, and click its "
+"<em>&pref.pluralCaps;</em> button,   or simply double-click the extension."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:48
+msgid "Switching Themes"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:49
+msgid ""
+"To switch between your installed themes, select the Themes panel, select the "
+"  theme of your choice, and click its <em>Use Theme</em> button. You need "
+"to   restart &brandShortName; for changes to take effect."
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:50
+msgid "12 September 2006"
+msgstr ""
+
+#: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/help/customization.xhtml:51
+msgid ""
+"Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer "
+"Project."
+msgstr ""
