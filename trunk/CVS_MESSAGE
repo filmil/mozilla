@@ -1,5 +1,10 @@
 Updated Serbian l10n.
 
-Updated following the suggestions from Boris Zegarac.
+This is a major update of the l10n.  First commit to the trunk, and
+first time that the translation files are updated for Firefox 3.  
+
+I suppose somethings will break, mosdt of the things have not yet been
+checked against compare locales, but that time is coming just as well.
+
 
 
