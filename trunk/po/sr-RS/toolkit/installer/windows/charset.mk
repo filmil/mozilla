@@ -1,4 +1,4 @@
-WIN_INSTALLER_CHARSET = CP1252
+WIN_INSTALLER_CHARSET = CP1251
 
 # possibilities are:
 # ANSI_CHARSET                    CP1252

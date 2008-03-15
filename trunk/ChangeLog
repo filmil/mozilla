@@ -1,3 +1,13 @@
+2008-03-15  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/installer/override.properties.po: Updated, hopefully to get the encoding straight
+
+	* po/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd.po: Updated translation.
+
+2008-03-14  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/toolkit/installer/windows/charset.mk (WIN_INSTALLER_CHARSET): Corrected the installer charset
+
 2008-03-05  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/browser/chrome/browser/sanitize.dtd.po: Updated following the suggestions from Boris Zegarac.

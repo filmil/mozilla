@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2006-11-23 21:11+0100\n"
+"PO-Revision-Date: 2008-03-15 00:12+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -61,11 +61,11 @@ msgstr "Провера усклађених додатака"
 
 #: checking.top.label
 msgid "Checking your incompatible add-ons for updates…"
-msgstr ""
+msgstr "Тражење доградњи за несагласне додатке…"
 
 #: checking.status versioninfo.waiting
 msgid "This may take a few minutes…"
-msgstr ""
+msgstr "Ово може да потраје…"
 
 #: found.wizard.title
 msgid "Found Compatible Add-ons"
@@ -93,7 +93,7 @@ msgstr "Постављање усклађених додатака"
 
 #: installing.top.label
 msgid "Downloading and installing updates to your add-ons…"
-msgstr ""
+msgstr "Пријем и инсталација доградњи за додатке…"
 
 #: noupdates.wizard.title
 msgid "No Compatible Add-ons Found"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: clickFinish.labelMac
 msgid "Click Done to continue starting &brandShortName;."
-msgstr ""
+msgstr "Притисните „Готово‟ да бисте наставили са покретањем програма &brandShortName;."
 
 #: enableChecking.label
 msgid "Allow &brandShortName; to check for updates."
@@ -195,7 +195,7 @@ msgstr "Дозволи програму &brandShortName; да проверава
 
 #: details.label details.accesskey
 msgid "&Details…"
-msgstr ""
+msgstr "&Детаљи…"
 
 #~ msgid "Checking your incompatible add-ons for updates..."
 #~ msgstr "Провера Ваших неусклађених додатака на доградње..."

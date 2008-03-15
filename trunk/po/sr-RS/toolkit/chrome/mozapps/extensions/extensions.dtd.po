@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2006-11-23 20:12+0100\n"
+"PO-Revision-Date: 2008-03-14 23:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -48,7 +48,7 @@ msgstr "w"
 # View labels
 #: search.label
 msgid "Get Add-ons"
-msgstr ""
+msgstr "Набави додатке"
 
 # View labels
 #: extensions.label
@@ -90,7 +90,7 @@ msgstr "Тражење доградњи за Ваше теме"
 
 #: cmd.installLocalFile.label cmd.installLocalFile.accesskey
 msgid "I&nstall…"
-msgstr ""
+msgstr "&Инсталирај…"
 
 #: cmd.installFileAddon.tooltip
 msgid "Install an Add-on"
@@ -114,11 +114,11 @@ msgstr "&Поново покрени програм &brandShortName;"
 
 #: cmd.restartApp2.tooltip
 msgid "Restart &brandShortName; to apply changes"
-msgstr ""
+msgstr "Поново покрените програм &brandShortName; да бисте применили измене"
 
 #: cmd.skip.label cmd.skip.accesskey
 msgid "S&kip"
-msgstr ""
+msgstr "&Прескочи"
 
 #: cmd.skip.tooltip
 msgid "Skip these updates"
@@ -211,19 +211,19 @@ msgstr "Поништи уклањање овог додатка"
 
 #: cmd.cancelInstall.label cmd.cancelInstall.accesskey
 msgid "&Cancel Install"
-msgstr ""
+msgstr "&Откажи инсталацију"
 
 #: cmd.cancelInstall.tooltip
 msgid "Cancel the install of this Add-on"
-msgstr ""
+msgstr "Отказује инсталацију овог додатка"
 
 #: cmd.cancelUpgrade.label cmd.cancelUpgrade.accesskey
 msgid "&Cancel Upgrade"
-msgstr ""
+msgstr "Откажи &доградњу"
 
 #: cmd.cancelUpgrade.tooltip
 msgid "Cancel the upgrade of this Add-on"
-msgstr ""
+msgstr "Отказује доградњу овог додатка"
 
 #: cmd.installUpdate.label cmd.installUpdate.accesskey
 msgid "&Install Update"
@@ -235,27 +235,27 @@ msgstr "Постави доградњу за овај додатак"
 
 #: cmd.showUpdateInfo.label cmd.showUpdateInfo.accesskey
 msgid "&Show Information"
-msgstr ""
+msgstr "&Приказ података"
 
 #: cmd.showUpdateInfo.tooltip
 msgid "Show more information about these updates"
-msgstr ""
+msgstr "Приказује више података о овим доградњама"
 
 #: cmd.hideUpdateInfo.label cmd.hideUpdateInfo.accesskey
 msgid "&Hide Information"
-msgstr ""
+msgstr "&Сакриј податке"
 
 #: cmd.hideUpdateInfo.tooltip
 msgid "Hide information about these updates"
-msgstr ""
+msgstr "Сакривање података о овим доградњама"
 
 #: cmd.installSearchResult.label cmd.installSearchResult.accesskey
 msgid "&Add to &brandShortName;…"
-msgstr ""
+msgstr "&Додавање у програм &brandShortName;…"
 
 #: cmd.installSearchResult.tooltip
 msgid "Download and install this add-on"
-msgstr ""
+msgstr "Преузми и инсталирај овај додатак"
 
 # The selected add-on's cancel action button label
 #: cancel.label cancel.accesskey cancelInstall.label cancelInstall.accesskey
@@ -295,7 +295,7 @@ msgstr "Укључи овај додатак при постављању дог�
 # Status Messsages
 #: insecureUpdate.label
 msgid "Does not provide secure updates."
-msgstr ""
+msgstr "Не нуди безбедносне доградње."
 
 # Status Messsages
 #: needsDependencies.label
@@ -330,7 +330,7 @@ msgstr ""
 
 #: toBeUpdated.label
 msgid "This add-on will be updated when &brandShortName; is restarted."
-msgstr ""
+msgstr "Овај додатак ће бити дограђен када се програм &brandShortName; поново покрене."
 
 #: getExtensions.label
 msgid "Get Extensions"
@@ -342,91 +342,91 @@ msgstr "Набавка тема"
 
 #: getPlugins.label
 msgid "Get Plugins"
-msgstr ""
+msgstr "Набавка прикључака"
 
 #: searchAddons.label searchBox.label
 msgid "Search All Add-ons"
-msgstr ""
+msgstr "Претрага додатака"
 
 #: browseAddons.label
 msgid "Browse All Add-ons"
-msgstr ""
+msgstr "Преглед свих додатака"
 
 #: searchFailed.label
 msgid "&brandShortName; couldn't retrieve add-ons"
-msgstr ""
+msgstr "Програм &brandShortName; није могао да преузме додатке"
 
 #: recommendedHeader.label
 msgid "Recommended"
-msgstr ""
+msgstr "Препоручен"
 
 #: recommendedThrobber.label
 msgid "Retrieving recommended add-ons"
-msgstr ""
+msgstr "Пријем препоручених додатака"
 
 #: searchThrobber.label
 msgid "Searching add-ons"
-msgstr ""
+msgstr "Претрага додатака"
 
 #: resetSearch.label
 msgid "Clear Results"
-msgstr ""
+msgstr "Очисти резултате"
 
 #: noSearchResults.label
 msgid "All results are already installed or incompatible."
-msgstr ""
+msgstr "Сви резултати су или већ инсталирани или несагласни."
 
 #: noRecommendedResults.label
 msgid "All recommendations are already installed or incompatible."
-msgstr ""
+msgstr "Сви препоручени додаци су или већ инсталирани или су несагласни."
 
 #: emptySearch.label
 msgid "No matching add-ons"
-msgstr ""
+msgstr "Ниједан додатак не одговара"
 
 #: emptySearch.button searchFailed.button
 msgid "OK"
-msgstr ""
+msgstr "У реду"
 
 #: cancelSearch.button
 msgid "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 #: searchResultHomepage.value
 msgid "Learn More"
-msgstr ""
+msgstr "Више података"
 
 #: recommendedResults.label
 msgid "See All Recommended Add-ons"
-msgstr ""
+msgstr "Преглед свих препоручених додатака"
 
 #: searchResultConnecting.label
 msgid "Connecting…"
-msgstr ""
+msgstr "Повезивање…"
 
 #: searchResultInstalling.label installFinishing.label
 msgid "Installing…"
-msgstr ""
+msgstr "Инсталација…"
 
 #: searchResultFailed.label
 msgid "Install Failed"
-msgstr ""
+msgstr "Инсталација није успела"
 
 #: searchResultInstalled.label
 msgid "Install Complete"
-msgstr ""
+msgstr "Инсталација је завршена"
 
 #: addonTypeExtension.label
 msgid "Extension"
-msgstr ""
+msgstr "Продужетак"
 
 #: addonTypeTheme.label
 msgid "Theme"
-msgstr ""
+msgstr "Тема"
 
 #: missingThumbnail.label
 msgid "No Preview"
-msgstr ""
+msgstr "Нема предглед"
 
 #: previewNoThemeSelected.label
 msgid "No Theme Selected"
@@ -442,15 +442,15 @@ msgstr "Више података"
 
 #: infoNoAddonSelected.label
 msgid "No Update Selected"
-msgstr ""
+msgstr "Ниједна доградња није изабрана"
 
 #: infoNoUpdateInfo.label
 msgid "This update does not have any additional information"
-msgstr ""
+msgstr "Ова доградња не садржи детаљне податке"
 
 #: infoUpdateInfoError.label
 msgid "There was an error loading the information about this update"
-msgstr ""
+msgstr "Дошло је до грешке при пријему података о овој доградњи"
 
 #: updateSuccess.label
 msgid "Update completed successfully."
@@ -466,15 +466,15 @@ msgstr "Покрените поново програм да бисте довр�
 
 #: updateSuccessRestart.label
 msgid "Restart to complete the update."
-msgstr ""
+msgstr "Поново покрените програм да бисте довршили доградњу."
 
 #: installWaiting.label
 msgid "Waiting…"
-msgstr ""
+msgstr "Чекање…"
 
 #: installIncompatibleUpdate.label
 msgid "Checking compatibility…"
-msgstr ""
+msgstr "Провера сагласности…"
 
 #: installFailure.label
 msgid "Install failed."
@@ -482,18 +482,18 @@ msgstr "Постављање није успело."
 
 #: progressStatus.label
 msgid "Checking For Updates"
-msgstr ""
+msgstr "Провера доградњи"
 
 #: eula.title
 msgid "End-User License Agreement"
-msgstr ""
+msgstr "Споразум са крајњим корисником"
 
 #: eula.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "560px"
-msgstr ""
+msgstr "560px"
 
 #: eula.height
 msgid ""

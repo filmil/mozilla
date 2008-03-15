@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-30 15:50-0500\n"
+"PO-Revision-Date: 2008-03-15 01:40+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -66,11 +66,11 @@ msgstr ""
 # beginning and end of the string (e.g. ""This will include quotes"").
 #: SetupCaption
 msgid "$BrandFullName Setup"
-msgstr ""
+msgstr "Подешавање програма $BrandFullName"
 
 #: UninstallCaption
 msgid "$BrandFullName Uninstall"
-msgstr ""
+msgstr "Деинсталација програма $BrandFullName"
 
 #: BackBtn
 msgid "< &Back"
@@ -108,7 +108,7 @@ msgstr "&Затвори"
 
 #: BrowseBtn
 msgid "B&rowse…"
-msgstr ""
+msgstr "&Преглед..."
 
 #: ShowDetailsBtn
 msgid "Show &details"
@@ -134,7 +134,7 @@ msgstr "Готово"
 msgid ""
 "Please review the license agreement before installing $BrandFullNameDA. If "
 "you accept all terms of the agreement, select the first option below. $_CLICK"
-msgstr ""
+msgstr "Молимо да прегледатес споразум о лиценцирањз пре инсталације програма $BrandFullNameDA.  Ако прихватите услове споразума, изаберите прву опцију испод. $_CLICK"
 
 #: ComponentsText
 msgid ""
@@ -152,7 +152,7 @@ msgstr "Избор компонената за инсталацију:"
 msgid ""
 "Setup will install $BrandFullNameDA in the following folder. To install in a "
 "different folder, click Browse and select another folder. $_CLICK"
-msgstr ""
+msgstr "Инсталатер ће инсталирати програм $BrandFullNameDA у наведени директоријум. Да бисте инсталирали у други директоријум, притисните Преглед и изаберите други директоријум. $_CLICK"
 
 #: DirSubText
 msgid "Destination Folder"
@@ -160,19 +160,19 @@ msgstr "Циљни директоријум"
 
 #: DirBrowseText
 msgid "Select the folder to install $BrandFullNameDA in:"
-msgstr ""
+msgstr "Изаберите директоријум за инсталацију програма $BrandFullNameDA:"
 
 #: SpaceAvailable
 msgid "\"Space available: \""
-msgstr "\"Потребан простор: \""
+msgstr "\"Доступан простор: \""
 
 #: SpaceRequired
 msgid "\"Space required: \""
-msgstr "\"Доступан простор: \""
+msgstr "\"Потребан простор: \""
 
 #: UninstallingText
 msgid "$BrandFullNameDA will be uninstalled from the following folder. $_CLICK"
-msgstr ""
+msgstr "Програм $BrandFullNameDA ће бити деинсталиран из наведеног директоријума. $_CLICK"
 
 #: UninstallingSubText
 msgid "Uninstalling from:"
