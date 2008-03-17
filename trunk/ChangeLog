@@ -1,3 +1,9 @@
+2008-03-17  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/installer/override.properties.po: Made the file convertible to CP1251
+
+	* po/sr-RS/mail/installer/override.properties.po: Made the file convertible to CP1251
+
 2008-03-15  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/browser/installer/override.properties.po: Updated, hopefully to get the encoding straight

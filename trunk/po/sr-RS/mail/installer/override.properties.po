@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 18:20+0200\n"
+"PO-Revision-Date: 2008-03-17 02:35+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -115,15 +115,15 @@ msgstr "Приказ &детаља"
 
 #: ClickNext
 msgid "Click Next to continue."
-msgstr "Притисните „Даље‟ да наставите."
+msgstr "Притисните \"Даље\" да наставите."
 
 #: ClickInstall
 msgid "Click Install to start the installation."
-msgstr "Притисните „Инсталирај‟ да покренете инсталацију."
+msgstr "Притисните \"Инсталирај\" да покренете инсталацију."
 
 #: ClickUninstall
 msgid "Click Uninstall to start the uninstallation."
-msgstr "Притисните „Деинсталирај‟ да покренете инсталацију."
+msgstr "Притисните \"Деинсталирај\" да покренете инсталацију."
 
 #: Completed
 msgid "Completed"
@@ -197,9 +197,9 @@ msgstr ""
 "\\r\n"
 "$0\\r\n"
 "\\r\n"
-"Притисните „Откажи‟ да прекинете инсталацију,\\r\n"
-"„Понови‟ да пробате опет, или\\r\n"
-"„Занемари‟ да прескочите ову датотеку."
+"Притисните \"Откажи\" да прекинете инсталацију,\\r\n"
+"\"Понови\" да пробате опет, или\\r\n"
+"\"Занемари\" да прескочите ову датотеку."
 
 #: FileError_NoIgnore
 msgid ""

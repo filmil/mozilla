@@ -1,4 +1,6 @@
 Updated Serbian l10n.
 
 Correcting the encoding problems with the windows installer.
+Made the override.properties convertible to CP1251.
+
 
