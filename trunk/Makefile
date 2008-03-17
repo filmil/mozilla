@@ -12,16 +12,18 @@
 
 include Makefile.inc
 
-.PHONY: all clean pot cleanpot stats  initpo match populate output
+.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy
 
 all: stats publish
 
 # Слање измена у Мозилин ЦВС
-publish: clean $(OUTPUT_DIR)
-	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
+publish: clean $(OUTPUT_DIR) tryconv publishcopy 
 	( MSG=`cat $(CVS_MSG)` ; \
 	  $(CD) $(MOZILLA_CVS) ; \
           $(CVS) -z3 commit -m "$$MSG" )
+
+publishcopy:
+	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 
 # Чишћење генерисаних датотека
 clean:
@@ -86,7 +88,7 @@ populate:
 	. $(SCRIPTS_DIR)/process-copyonly.sh
 	. $(SCRIPTS_DIR)/blind-copy.sh
 
-# Рачуна статистике датотека и уписује у статс.тхт
+# Computes file statistics and updates the statistics file
 stats:
 	. $(SCRIPTS_DIR)/stats.sh &> $(STATS_DIR)/stats.txt
 
@@ -101,5 +103,21 @@ check:
 compare-locales:
 	( cd $(MOZILLA_CVS)/.. ; \
 	  $(CPLOC)  $(LOCALE_NAME) )
+
+tryconv:
+	@echo "Try the conversion from UTF-8 to CP1251"
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/updater/updater.ini > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/updater/updater.ini > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/installer/override.properties > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/override.properties > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/installer/mui.properties > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/mui.properties > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/chrome/messenger/custom.properties > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/installer/custom.properties > /dev/null
+	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/custom.properties > /dev/null
+
+
+
+
 
 

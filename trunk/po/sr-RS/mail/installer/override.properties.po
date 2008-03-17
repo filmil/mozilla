@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-17 02:37+0100\n"
+"PO-Revision-Date: 2008-03-17 23:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -107,7 +107,7 @@ msgstr "&Затвори"
 
 #: BrowseBtn
 msgid "B&rowse…"
-msgstr ""
+msgstr "&Преглед..."
 
 #: ShowDetailsBtn
 msgid "Show &details"
@@ -154,10 +154,7 @@ msgstr "Изаберите делове за инсталацију:"
 msgid ""
 "Setup will install $(^NameDA) in the following folder. To install in a "
 "different folder, click Browse and select another folder. $_CLICK"
-msgstr ""
-"Инсталатер ће поставити програм $(^NameDA) у наведени директоријум.  Да "
-"бисте инсталирали у неки други директоријум, притисните „Преглед‟ и "
-"изаберите неки други директоријум. $_CLICK"
+msgstr "Инсталатер ће поставити програм $(^NameDA) у наведени директоријум.  Да бисте инсталирали у неки други директоријум, притисните \"Преглед\" и изаберите неки други директоријум. $_CLICK"
 
 #: DirSubText
 msgid "Destination Folder"

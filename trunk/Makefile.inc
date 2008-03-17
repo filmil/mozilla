@@ -1,11 +1,8 @@
 # -*- Makefile -*-
-## Дефиниције програма које користимо
-#  Програми за претварање Мозилиних датотека у ПО датотеке и обратно
 MOZ2PO:=moz2po
 PO2MOZ:=po2moz
 POMERGE:=pomerge
 MSGMERGE:=msgmerge
-#  Брисање датотека
 RM:=rm -f
 RMDIR:=rm -fr
 MKDIR:=mkdir
@@ -13,7 +10,8 @@ CD:=cd
 CP:=cp
 ZIP:=zip
 CVS:=cvs
-POMIGRATE=pomigrate2
+POMIGRATE:=pomigrate2
+ICONV:=iconv
 
 # # Directory configuration
 LOCALE_NAME:=sr

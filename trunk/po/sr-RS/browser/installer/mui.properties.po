@@ -87,7 +87,7 @@ msgstr ""
 
 #: MUI_INNERTEXT_LICENSE_TOP
 msgid "Press Page Down to see the rest of the agreement."
-msgstr "Притисните тастер „Page Down‟ како бисте видели остатак споразума."
+msgstr "Притисните тастер \"Page Down\" како бисте видели остатак споразума."
 
 #: MUI_INNERTEXT_LICENSE_BOTTOM_CHECKBOX
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 #~ msgstr ""
 #~ "Програм $(^NameDA) је инсталиран на Ваш рачунар.\n"
 #~ "\n"
-#~ "Притисните „Крај‟ да затворите чаробњака."
+#~ "Притисните \"Крај\" да затворите чаробњака."
 
 #~ msgid ""
 #~ "Your computer must be restarted in order to complete the installation of "
@@ -389,7 +389,7 @@ msgstr ""
 #~ msgstr ""
 #~ "Програм $(^NameDA) је уклоњен са Вашег рачунара.\n"
 #~ "\n"
-#~ "Притисните „Крај‟ да затворите чаробњака."
+#~ "Притисните \"Крај\" да затворите чаробњака."
 
 #~ msgid ""
 #~ "Your computer must be restarted in order to complete the uninstallation "

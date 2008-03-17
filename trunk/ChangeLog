@@ -1,5 +1,9 @@
 2008-03-17  Filip Miletic  <filmil@gmail.com>
 
+	* scripts/stats.sh: Corrected the bug with stats generation where stats were first printed out, and then the file name itself.
+
+	* po/sr-RS/mail/chrome/messenger/mime.properties.po: Removed double header
+
 	* po/sr-RS/browser/installer/override.properties.po: Made the file convertible to CP1251
 
 	* po/sr-RS/mail/installer/override.properties.po: Made the file convertible to CP1251

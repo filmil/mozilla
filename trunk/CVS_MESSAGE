@@ -1,6 +1,9 @@
 Updated Serbian l10n.
 
 Correcting the encoding problems with the windows installer.
-Made the override.properties convertible to CP1251.
+Made several files convertible to CP1251 --- by eliminating the correct
+Serbian quotes („‟) and replacing them with incorrect quotes ("") for
+Serbian language.  Also wrote a script to check whether the output
+files conform to the CP1251 code page, to eliminate this error in the future.
 
 

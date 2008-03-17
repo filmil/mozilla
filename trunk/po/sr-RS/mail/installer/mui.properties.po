@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 18:47+0200\n"
+"PO-Revision-Date: 2008-03-17 23:16+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -101,7 +101,7 @@ msgstr "Притисните Page Down да бисте видели остата
 msgid ""
 "If you accept the terms of the agreement, click the check box below. You "
 "must accept the agreement to install $(^NameDA). $_CLICK"
-msgstr ""
+msgstr "Ако прихватате услове споразума, штиклирајте кућицу испод.  Морате да прихватите споразум да бисте инсталирали програм $(^NameDA). $_CLICK"
 
 #: MUI_INNERTEXT_LICENSE_BOTTOM_RADIOBUTTONS
 msgid ""
@@ -178,7 +178,7 @@ msgid ""
 msgstr ""
 "Програм $(^NameDA) је инсталиран на ваш рачунар.\n"
 "\n"
-"Притисните „&Крај‟ како бисте затворили чаробњака."
+"Притисните \"Крај\" како бисте затворили чаробњака."
 
 #: MUI_TEXT_FINISH_INFO_REBOOT
 msgid ""
@@ -283,7 +283,7 @@ msgid ""
 msgstr ""
 "Програм $(^NameDA) је деинсталиран са вашег рачунара.\n"
 "\n"
-"Притисните „Крај‟ да затворите чаробњака."
+"Притисните \"Крај\" да затворите чаробњака."
 
 #: MUI_UNTEXT_FINISH_INFO_REBOOT
 msgid ""
