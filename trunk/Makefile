@@ -17,7 +17,7 @@ include Makefile.inc
 all: stats publish
 
 # Слање измена у Мозилин ЦВС
-publish: clean $(OUTPUT_DIR) tryconv publishcopy 
+publish: clean tryconv publishcopy 
 	( MSG=`cat $(CVS_MSG)` ; \
 	  $(CD) $(MOZILLA_CVS) ; \
           $(CVS) -z3 commit -m "$$MSG" )
@@ -104,7 +104,7 @@ compare-locales:
 	( cd $(MOZILLA_CVS)/.. ; \
 	  $(CPLOC)  $(LOCALE_NAME) )
 
-tryconv:
+tryconv: $(OUTPUT_DIR)
 	@echo "Try the conversion from UTF-8 to CP1251"
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/updater/updater.ini > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/updater/updater.ini > /dev/null

@@ -1,7 +1,7 @@
 # -*- Makefile -*-
-MOZ2PO:=moz2po
-PO2MOZ:=po2moz
-POMERGE:=pomerge
+MOZ2PO:=moz2po --progress=names
+PO2MOZ:=po2moz --progress=names
+POMERGE:=pomerge --progress=names
 MSGMERGE:=msgmerge
 RM:=rm -f
 RMDIR:=rm -fr

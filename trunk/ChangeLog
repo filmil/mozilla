@@ -1,6 +1,10 @@
+2008-03-18  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties.po: Removed extra header.
+
 2008-03-17  Filip Miletic  <filmil@gmail.com>
 
-	* scripts/stats.sh: Corrected the bug with stats generation where stats were first printed out, and then the file name itself.
+'	* scripts/stats.sh: Corrected the bug with stats generation where stats were first printed out, and then the file name itself.
 
 	* po/sr-RS/mail/chrome/messenger/mime.properties.po: Removed double header
 
