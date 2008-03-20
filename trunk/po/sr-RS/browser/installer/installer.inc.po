@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:33+0100\n"
+"PO-Revision-Date: 2008-03-20 23:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +24,11 @@ msgstr "Инсталатер програма $ProductShortName$"
 
 #: SETUP_WELCOME
 msgid "Welcome to %s"
-msgstr "Добродошли у %s"
+msgstr "Добродошли у програм %s"
 
 #: SETUP_MESSAGE0
 msgid "You are about to install %s."
-msgstr "Ускоро ћете да инсталирате %s."
+msgstr "Само што нисте инсталирали програм %s."
 
 #: SETUP_MESSAGE1
 msgid ""

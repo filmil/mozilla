@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-30 16:01-0500\n"
+"PO-Revision-Date: 2008-03-21 00:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -65,7 +65,7 @@ msgid ""
 "$BrandShortName delivers safe, easy web browsing. A familiar user interface, "
 "enhanced security features including protection from online identity theft, "
 "and integrated search let you get the most out of the web."
-msgstr ""
+msgstr "Програм $BrandShortName омогућава лако и безбедно читање мрежног садржаја.  Познато корисничко сучеље, побољшане безбедносне мере укључујућу заштиту од крађе идентитета на мрежи, и интегрисана претрага омогућавају Вам да извучете максимум из интернета."
 
 #: OPTIONAL_COMPONENTS_TITLE
 msgid "Choose Optional Components"
@@ -73,7 +73,7 @@ msgstr "Изборне компоненте"
 
 #: OPTIONAL_COMPONENTS_SUBTITLE
 msgid "Choose which features of $BrandShortName you want to install."
-msgstr ""
+msgstr "Изаберите које делове програма $BrandShortName желите да инсталирате."
 
 #: OPTIONAL_COMPONENTS_LABEL
 msgid "Optional Components:"
@@ -89,11 +89,11 @@ msgstr "Прегледа структуру и особине прозора и 
 
 #: CONTEXT_OPTIONS
 msgid "$BrandShortName &Options"
-msgstr ""
+msgstr "&Опције програма $BrandShortName"
 
 #: CONTEXT_SAFE_MODE
 msgid "$BrandShortName &Safe Mode"
-msgstr ""
+msgstr "Безбедни начин рада у програму $BrandShortName"
 
 #: SAFE_MODE
 msgid "Safe Mode"
@@ -109,7 +109,7 @@ msgstr "Избор опција за инсталацију"
 
 #: OPTIONS_MAKE_DEFAULT
 msgid "&Use $BrandShortName as my default web browser"
-msgstr ""
+msgstr "&Користи програм $BrandShortName као подразумевани прегледач"
 
 #: SHORTCUTS_PAGE_TITLE
 msgid "Set Up Shortcuts"
@@ -121,40 +121,40 @@ msgstr "Прављење сличица за програме"
 
 #: SUMMARY_PAGE_TITLE
 msgid "Summary"
-msgstr ""
+msgstr "Сажетак"
 
 #: SUMMARY_PAGE_SUBTITLE
 msgid "Ready to start installing $BrandShortName"
-msgstr ""
+msgstr "Све је спремно за инсталацију програма $BrandShortName"
 
 #: SUMMARY_INSTALLED_TO
 msgid "$BrandShortName will be installed to the following location:"
-msgstr ""
+msgstr "Програм $BrandShortName ће бити инсталиран на наведено место: "
 
 #: SUMMARY_REBOOT_REQUIRED_INSTALL
 msgid ""
 "A restart of your computer may be required to complete the installation."
-msgstr ""
+msgstr "Мораћете да поново покренете рачунар како бисте довршили инсталацију."
 
 #: SUMMARY_REBOOT_REQUIRED_UNINSTALL
 msgid "A restart of your computer may be required to complete the uninstall."
-msgstr ""
+msgstr "Мораћете да поново покренете рачунар како бисте довршили деинсталацију."
 
 #: SUMMARY_MAKE_DEAFULT
 msgid "$BrandShortName will be set as your default web browser."
-msgstr ""
+msgstr "Програм $BrandShortName ће бити постављен као подразумевани читач."
 
 #: SUMMARY_CLICK
 msgid "Click Install to continue."
-msgstr ""
+msgstr "Притисните \"Инсталирај\" да бисте наставили."
 
 #: SURVEY_TEXT
 msgid "&Tell us what you thought of $BrandShortName"
-msgstr ""
+msgstr "&Реците нам шта мислите о програму $BrandShortName"
 
 #: LAUNCH_TEXT
 msgid "&Launch $BrandShortName now"
-msgstr ""
+msgstr "&Покрени одмах програм $BrandShortName"
 
 #: WARN_APP_RUNNING_INSTALL
 msgid ""
@@ -162,10 +162,13 @@ msgid ""
 "\n"
 "Click \"OK\" to exit $BrandShortName automatically and continue."
 msgstr ""
+"Програм $BrandShortName мора да се затвори да би инсталација могла да настави.\n"
+"\n"
+"Притисните \"У реду\" да бисте аутоматски затворили програм $BrandShortName и наставили."
 
 #: CREATE_ICONS_DESC
 msgid "Create icons for $BrandShortName:"
-msgstr ""
+msgstr "Направи иконе за $BrandShortName:"
 
 #: ICONS_DESKTOP
 msgid "On my &Desktop"
@@ -185,6 +188,9 @@ msgid ""
 "\n"
 "Please close $BrandShortName to continue."
 msgstr ""
+"$BrandShortName мора да буде затворен како би се инсталација наставила.\n"
+"\n"
+"Молимо да затворите програм $BrandShortName за наставак."
 
 #: WARN_MANUALLY_CLOSE_APP_UNINSTALL
 msgid ""
@@ -192,6 +198,9 @@ msgid ""
 "\n"
 "Please close $BrandShortName to continue."
 msgstr ""
+"$BrandShortName мора да буде затворен како би се деинсталација наставила.\n"
+"\n"
+"Молимо да затворите програм $BrandShortName да бисте наставили."
 
 #: WARN_MANUALLY_CLOSE_APP_LAUNCH
 msgid ""
@@ -200,6 +209,9 @@ msgid ""
 "Please close $BrandShortName prior to launching the version you have just "
 "installed."
 msgstr ""
+"Програм $BrandShortName је већ покренут.\n"
+"\n"
+"Молимо да затворите $BrandShortName пре него што покренете издање које сте управо инсталирали."
 
 #: WARN_WRITE_ACCESS
 msgid ""
@@ -225,80 +237,82 @@ msgstr ""
 msgid ""
 "Sorry, $BrandShortName can't be installed. This version of $BrandShortName "
 "requires ${MinUnsupportedVer} or newer."
-msgstr ""
+msgstr "Нажалост, $BrandShortName није могао да се инсталира. Ово издање програма $BrandShortName захтева издање ${MinUnsupportedVer} или новије."
 
 #: WARN_RESTART_REQUIRED_UNINSTALL
 msgid ""
 "Your computer must be restarted to complete a previous uninstall of "
 "$BrandShortName. Do you want to reboot now?"
-msgstr ""
+msgstr "Ваш рачунар мора да буде поново покренут да би претходна инсталација програма $BrandShortName била довршена. Да ли желите да га поново покренете сада?"
 
 #: WARN_RESTART_REQUIRED_UPGRADE
 msgid ""
 "Your computer must be restarted to complete a previous upgrade of "
 "$BrandShortName. Do you want to reboot now?"
-msgstr ""
+msgstr "Ваш рачунар мора да буде поново покренут да би претходна доградња $BrandShortName била довршена. Да ли желите да га поново покренете сада?"
 
 #: ERROR_CREATE_DIRECTORY_PREFIX
 msgid "Error creating directory:"
-msgstr ""
+msgstr "Грешка при прављењу директоријума:"
 
 #: ERROR_CREATE_DIRECTORY_SUFFIX
 msgid ""
 "Click Cancel to stop the installation or\n"
 "Retry to try again."
 msgstr ""
+"Притисните \"Откажи\" да обуставите инсталацију или \"Понови\"\n"
+"да пробате опет."
 
 #: UN_CONFIRM_PAGE_TITLE
 msgid "Uninstall $BrandFullName"
-msgstr ""
+msgstr "Деинсталирај $BrandFullName"
 
 #: UN_CONFIRM_PAGE_SUBTITLE
 msgid "Remove $BrandFullName from your computer."
-msgstr ""
+msgstr "Уклања $BrandFullName са Вашег рачунара."
 
 #: UN_CONFIRM_UNINSTALLED_FROM
 msgid "$BrandShortName will be uninstalled from the following location:"
-msgstr ""
+msgstr "$BrandShortName ће бити уклоњен са овог места:"
 
 #: UN_CONFIRM_CLICK
 msgid "Click Uninstall to continue."
-msgstr ""
+msgstr "Притисните \"Деинсталирај\" да наставите."
 
 #: UN_REMOVE_PROFILES
 msgid "&Remove my $BrandShortName personal data and customizations"
-msgstr ""
+msgstr "&Уклони моје личне податке и прилагођења програма $BrandShortName"
 
 #: UN_REMOVE_PROFILES_DESC
 msgid ""
 "This will permanently remove your bookmarks, saved passwords, cookies and "
 "customizations. You may wish to keep this information if you plan on "
 "installing another version of $BrandShortName in the future."
-msgstr ""
+msgstr "Ово трајно уклања забелешке, сачуване лозинке, колачиће и прилагођења. Можда желите да сачувате ове податке ако намеравате да убудуће инсталирате неко друго издање програма $BrandShortName."
 
 #: BANNER_CHECK_EXISTING
 msgid "Checking existing installation…"
-msgstr ""
+msgstr "Провера постојеће инсталације…"
 
 #: STATUS_INSTALL_APP
 msgid "Installing $BrandShortName…"
-msgstr ""
+msgstr "Инсталација програма $BrandShortName…"
 
 #: STATUS_INSTALL_LANG
 msgid "Installing Language Files (${AB_CD})…"
-msgstr ""
+msgstr "Инсталација језичких датотека (${AB_CD})…"
 
 #: STATUS_INSTALL_OPTIONAL
 msgid "Installing Optional Components…"
-msgstr ""
+msgstr "Инсталација опционих делова…"
 
 #: STATUS_UNINSTALL_MAIN
 msgid "Uninstalling $BrandShortName…"
-msgstr ""
+msgstr "Деинсталација програма $BrandShortName…"
 
 #: STATUS_CLEANUP
 msgid "A Little Housekeeping…"
-msgstr ""
+msgstr "Сређивање…"
 
 # _DESC strings support approximately 65 characters per line.
 # One line
@@ -309,7 +323,7 @@ msgstr "Изаберите жељену врсту инсталације, а з
 # One line
 #: OPTION_STANDARD_DESC
 msgid "$BrandShortName will be installed with the most common options."
-msgstr ""
+msgstr "$BrandShortName ће бити инсталиран са најнеопходнијим опцијама."
 
 #: OPTION_STANDARD_RADIO
 msgid "&Standard"
@@ -318,7 +332,7 @@ msgstr "&Стандардна"
 # One line
 #: OPTION_COMPLETE_DESC
 msgid "$BrandShortName will be installed with all available options."
-msgstr ""
+msgstr "$BrandShortName ће бити инсталиран са свим доступним опцијама."
 
 #: OPTION_COMPLETE_RADIO
 msgid "C&omplete"
@@ -329,9 +343,7 @@ msgstr "&Потпуна"
 msgid ""
 "You may choose individual options to be installed. Recommended for "
 "experienced users."
-msgstr ""
-"Можете да изаберете опције које ће бити инсталиране.  Препоручује се за "
-"искусним корисницима."
+msgstr "Можете да изаберете опције које ће бити инсталиране.  Препоручује се искусним корисницима."
 
 #: OPTION_CUSTOM_RADIO
 msgid "&Custom"

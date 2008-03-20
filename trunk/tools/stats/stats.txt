@@ -310,9 +310,9 @@ po/sr-RS/browser/chrome/overrides/netError.dtd.po:	29 translated messages, 15 un
 po/sr-RS/browser/chrome/overrides/settingsChange.dtd.po:	0 translated messages, 2 untranslated messages.
 po/sr-RS/browser/chrome/overrides/appstrings.properties.po:	20 translated messages, 6 untranslated messages.
 po/sr-RS/browser/installer/installer.inc.po:	144 translated messages.
-po/sr-RS/browser/installer/mui.properties.po:	21 translated messages, 22 untranslated messages.
+po/sr-RS/browser/installer/mui.properties.po:	43 translated messages.
 po/sr-RS/browser/installer/override.properties.po:	61 translated messages.
-po/sr-RS/browser/installer/custom.properties.po:	19 translated messages, 38 untranslated messages.
+po/sr-RS/browser/installer/custom.properties.po:	57 translated messages.
 po/sr-RS/browser/defines.inc.po:	2 translated messages.
 po/sr-RS/other-licenses/branding/firefox/brand.dtd.po:	3 translated messages.
 po/sr-RS/other-licenses/branding/firefox/brand.properties.po:	6 translated messages, 1 untranslated message.
