@@ -1,21 +1,21 @@
 po/sr-RS/security/manager/chrome/pipnss/nsserrors.properties.po:	0 translated messages, 264 untranslated messages.
 po/sr-RS/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
 po/sr-RS/security/manager/chrome/pipnss/pipnss.properties.po:	291 translated messages, 34 untranslated messages.
-po/sr-RS/security/manager/chrome/pippki/deviceManager.dtd.po:	21 translated messages, 1 untranslated message.
+po/sr-RS/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
 po/sr-RS/security/manager/chrome/pippki/pref-ssl.dtd.po:	26 translated messages.
 po/sr-RS/security/manager/chrome/pippki/certManager.dtd.po:	48 translated messages, 30 untranslated messages.
-po/sr-RS/security/manager/chrome/pippki/pref-validation.dtd.po:	32 translated messages, 7 untranslated messages.
-po/sr-RS/security/manager/chrome/pippki/pref-masterpass.dtd.po:	16 translated messages, 2 untranslated messages.
+po/sr-RS/security/manager/chrome/pippki/pref-validation.dtd.po:	39 translated messages.
+po/sr-RS/security/manager/chrome/pippki/pref-masterpass.dtd.po:	18 translated messages.
 po/sr-RS/security/manager/chrome/pippki/newserver.dtd.po:	9 translated messages.
 po/sr-RS/security/manager/chrome/pippki/pippki.properties.po:	105 translated messages, 36 untranslated messages.
-po/sr-RS/security/manager/chrome/pippki/pref-security.dtd.po:	9 translated messages, 3 untranslated messages.
+po/sr-RS/security/manager/chrome/pippki/pref-security.dtd.po:	12 translated messages.
 po/sr-RS/security/manager/chrome/pippki/PrefOverlay.dtd.po:	5 translated messages.
-po/sr-RS/security/manager/chrome/pippki/pippki.dtd.po:	57 translated messages, 5 untranslated messages.
-po/sr-RS/security/manager/chrome/pippki/PageInfoOverlay.dtd.po:	3 translated messages, 1 untranslated message.
+po/sr-RS/security/manager/chrome/pippki/pippki.dtd.po:	62 translated messages.
+po/sr-RS/security/manager/chrome/pippki/PageInfoOverlay.dtd.po:	4 translated messages.
 po/sr-RS/security/manager/chrome/pippki/newserver.properties.po:	3 translated messages.
-po/sr-RS/mail/updater/updater.ini.po:	1 translated message, 1 untranslated message.
-po/sr-RS/mail/chrome/branding/brand.dtd.po:	2 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/branding/brand.properties.po:	2 translated messages, 1 untranslated message.
+po/sr-RS/mail/updater/updater.ini.po:	2 translated messages.
+po/sr-RS/mail/chrome/branding/brand.dtd.po:	3 translated messages.
+po/sr-RS/mail/chrome/branding/brand.properties.po:	3 translated messages.
 po/sr-RS/mail/chrome/messenger-mapi/mapi.properties.po:	17 translated messages.
 po/sr-RS/mail/chrome/mozldap/ldap.properties.po:	62 translated messages.
 po/sr-RS/mail/chrome/global-platform/win/nsWindowsHooks.properties.po:	6 translated messages.
@@ -28,13 +28,13 @@ po/sr-RS/mail/chrome/messenger-smime/msgCompSMIMEOverlay.dtd.po:	9 translated me
 po/sr-RS/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd.po:	11 translated messages.
 po/sr-RS/mail/chrome/messenger-smime/msgSecurityInfo.properties.po:	50 translated messages.
 po/sr-RS/mail/chrome/messenger-smime/msgCompSMIMEOverlay.properties.po:	1 translated message.
-po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po:	56 translated messages, 4 untranslated messages.
-po/sr-RS/mail/chrome/communicator/contentAreaCommands.properties.po:	12 translated messages, 1 untranslated message.
+po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po:	58 translated messages, 2 untranslated messages.
+po/sr-RS/mail/chrome/communicator/contentAreaCommands.properties.po:	13 translated messages.
 po/sr-RS/mail/chrome/communicator/wallet/SignonViewer.properties.po:	8 translated messages.
 po/sr-RS/mail/chrome/communicator/wallet/wallet.properties.po:	41 translated messages.
 po/sr-RS/mail/chrome/communicator/wallet/SignonViewer.dtd.po:	15 translated messages.
 po/sr-RS/mail/chrome/communicator/utilityOverlay.properties.po:	5 translated messages.
-po/sr-RS/mail/chrome/communicator/utilityOverlay.dtd.po:	26 translated messages, 10 untranslated messages.
+po/sr-RS/mail/chrome/communicator/utilityOverlay.dtd.po:	27 translated messages, 9 untranslated messages.
 po/sr-RS/mail/chrome/global/charset.dtd.po:	9 translated messages, 1 untranslated message.
 po/sr-RS/mail/chrome/messenger/importMsgs.properties.po:	83 translated messages, 4 untranslated messages.
 po/sr-RS/mail/chrome/messenger/markByDate.dtd.po:	3 translated messages.
@@ -227,7 +227,7 @@ po/sr-RS/browser/updater/updater.ini.po:	2 translated messages.
 po/sr-RS/browser/crashreporter/crashreporter-override.ini.po:	0 translated messages, 2 untranslated messages.
 po/sr-RS/browser/chrome/branding/brand.dtd.po:	1 translated message, 1 untranslated message.
 po/sr-RS/browser/chrome/branding/brand.properties.po:	1 translated message, 1 untranslated message.
-po/sr-RS/browser/chrome/browser-region/region.properties.po:	8 translated messages, 3 untranslated messages.
+po/sr-RS/browser/chrome/browser-region/region.properties.po:	7 translated messages, 3 untranslated messages.
 po/sr-RS/browser/chrome/help/platformStrings.dtd.po:	11 translated messages, 1 untranslated message.
 po/sr-RS/browser/chrome/browser/engineManager.dtd.po:	8 translated messages, 4 untranslated messages.
 po/sr-RS/browser/chrome/browser/searchbar.dtd.po:	1 translated message, 1 untranslated message.
@@ -241,7 +241,7 @@ po/sr-RS/browser/chrome/browser/search.properties.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po:	4 translated messages, 3 untranslated messages.
 po/sr-RS/browser/chrome/browser/openLocation.properties.po:	1 translated message.
 po/sr-RS/browser/chrome/browser/tabbrowser.dtd.po:	7 translated messages, 3 untranslated messages.
-po/sr-RS/browser/chrome/browser/browser.dtd.po:	193 translated messages.
+po/sr-RS/browser/chrome/browser/browser.dtd.po:	182 translated messages.
 po/sr-RS/browser/chrome/browser/history/history.dtd.po:	13 translated messages, 1 untranslated message.
 po/sr-RS/browser/chrome/browser/sanitize.dtd.po:	9 translated messages.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties.po:	103 translated messages.
@@ -300,9 +300,9 @@ po/sr-RS/browser/chrome/browser/tabbrowser.properties.po:	9 translated messages,
 po/sr-RS/browser/chrome/browser/metaData.properties.po:	11 translated messages, 5 untranslated messages.
 po/sr-RS/browser/chrome/browser/pageInfo.properties.po:	17 translated messages, 21 untranslated messages.
 po/sr-RS/browser/chrome/browser/safeMode.dtd.po:	11 translated messages.
-po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po:	12 translated messages, 8 untranslated messages.
-po/sr-RS/browser/chrome/browser/safebrowsing/blockedSite.properties.po:	0 translated messages, 6 untranslated messages.
-po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po:	0 translated messages, 2 untranslated messages.
+po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po:	20 translated messages.
+po/sr-RS/browser/chrome/browser/safebrowsing/blockedSite.properties.po:	6 translated messages.
+po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po:	2 translated messages.
 po/sr-RS/browser/chrome/browser/quitDialog.properties.po:	0 translated messages, 10 untranslated messages.
 po/sr-RS/browser/chrome/browser/pageReportFirstTime.dtd.po:	1 translated message, 3 untranslated messages.
 po/sr-RS/browser/chrome/browser/shellservice.properties.po:	8 translated messages, 1 untranslated message.
@@ -484,9 +484,5 @@ po/sr-RS/toolkit/chrome/mozapps/profile/profileSelection.properties.po:	26 trans
 po/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.properties.po:	7 translated messages, 2 untranslated messages.
 po/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po:	3 translated messages, 2 untranslated messages.
 po/sr-RS/toolkit/installer/unix/install.it.po:	76 translated messages.
-po/sr-RS/toolkit/installer/windows/install.it.po:	po/sr-RS/toolkit/installer/windows/install.it.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                           Message conversion to user's charset might not work.
-po/sr-RS/toolkit/installer/windows/install.it.po:17: dubbele melding definitie...
-po/sr-RS/toolkit/installer/windows/install.it.po:7: ...this is the location of the first definition
-msgfmt: found 1 fatal error
+po/sr-RS/toolkit/installer/windows/install.it.po:	121 translated messages.
 po/sr-RS/toolkit/defines.inc.po:	1 translated message.

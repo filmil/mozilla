@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:26+0200\n"
+"PO-Revision-Date: 2008-03-19 03:06+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: changepassword.button
 msgid "Change Password…"
-msgstr ""
+msgstr "Промена лозинке…"
 
 #: changepassword.accesskey
 msgid "C"
@@ -150,7 +150,7 @@ msgstr "Врати главну лозинку"
 msgid ""
 "If you reset your master password, all of your stored web and e-mail "
 "passwords, form data, personal certificates, and private keys will be lost."
-msgstr ""
+msgstr "Ако укинете главну лозинку, све сачуване лозинке за мрежне и електронске адресе, подаци из формулара, лични сертификати и приватни кључеви биће изгубљени."
 
 #: resetpassword.button
 msgid "Reset Password"

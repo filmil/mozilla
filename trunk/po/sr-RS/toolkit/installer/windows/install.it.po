@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:48+0100\n"
+"PO-Revision-Date: 2008-03-20 22:24+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -63,11 +63,11 @@ msgstr "14"
 # font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
 #: WELCOMETITLEFONTSIZE_THUNDERBIRD
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: WELCOMETITLEFONTWEIGHT
 msgid "700"
-msgstr ""
+msgstr "700"
 
 #Here is a partial list font weight
 #  FW_NORMAL = 400

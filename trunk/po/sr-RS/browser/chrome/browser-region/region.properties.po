@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-01-21 22:58+0100\n"
+"PO-Revision-Date: 2008-03-19 22:08+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,10 +20,6 @@ msgstr ""
 #: browser.contentHandlers.types.2.title
 msgid "Google"
 msgstr "Google"
-
-#: browser.search.order.2
-msgid "Yahoo"
-msgstr "Yahoo"
 
 # These are the default web service based feed readers
 #: browser.contentHandlers.types.0.title

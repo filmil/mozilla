@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:34+0200\n"
+"PO-Revision-Date: 2008-03-19 03:11+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "Безбедност"
 
 #: pageInfo.securityTab.accesskey
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: pageInfo.securityHeader
 msgid "Security information for this page"

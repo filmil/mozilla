@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-25 00:38+0100\n"
+"PO-Revision-Date: 2008-03-19 03:13+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -109,7 +109,7 @@ msgstr "Погледај MathML изворни код"
 
 #: viewPartialSourceCmd.accesskey
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: viewPageSourceCmd.label
 #: viewPageSourceCmd.accesskey
@@ -177,7 +177,7 @@ msgstr "&Сачувај страну"
 
 #: savePageCmd.commandkey
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: saveFrameAsCmd.label
 msgid "Save Frame As..."

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:34+0200\n"
+"PO-Revision-Date: 2008-03-19 03:10+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -313,11 +313,11 @@ msgstr "Стварање затвореног кључа"
 
 #: createCertInfo.msg1
 msgid "Key Generation in progress… This may take a few minutes…."
-msgstr ""
+msgstr "Кључ се генерише…  Ово може да потраје неколико минута…"
 
 #: createCertInfo.msg2
 msgid "Please wait…"
-msgstr ""
+msgstr "Молимо сачекајте…"
 
 # Form Signing confirmation prompt
 #: formSigning.title
@@ -339,17 +339,17 @@ msgstr ""
 # Strings for protectedAuth dialog
 #: protectedAuth.title
 msgid "Protected Token Authentication"
-msgstr ""
+msgstr "Аутентикација заштићеним новчићем"
 
 #: protectedAuth.msg
 msgid ""
 "Please authenticate to the token. Authentication method depends on the type "
 "of your token."
-msgstr ""
+msgstr "Молимо да се пријавите знаком распознавања (token).  Врста аутентикације зависи од врсте знака распознавања."
 
 #: protectedAuth.tokenName.label
 msgid "Token:"
-msgstr ""
+msgstr "Знак:"
 
 # Strings for the MismatchDomain dialog
 #~ msgid "Security Error: Domain Name Mismatch"

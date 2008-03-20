@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-25 02:19+0100\n"
+"PO-Revision-Date: 2008-03-19 03:17+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: validation.managecrls.button
 msgid "Manage CRLs…"
-msgstr ""
+msgstr "Управљање ЦРЛовима…"
 
 #: validation.managecrls.accesskey
 msgid "M"
@@ -96,7 +96,7 @@ msgstr "Уређење ЛПС"
 msgid ""
 "These Certificate Revocation Lists (CRL) are stored in your certificate "
 "database:"
-msgstr ""
+msgstr "Ови спискови опозива сертификата (CRL) су сачувани у Вашој бази података:"
 
 #: validation.crlname.label
 msgid "Name"
@@ -202,15 +202,15 @@ msgstr "OCSP"
 msgid ""
 "&Use the Online Certificate Status Protocol (OCSP) to confirm the current "
 "validity of certificates"
-msgstr ""
+msgstr "&Користи протокол за мрежни статус сертификата (OCSP) за потврду тренутне важности сертификата"
 
 #: certOCSP2.label certOCSP2.accesskey
 msgid "&Validate a certificate if it specifies an OCSP server"
-msgstr ""
+msgstr "&Провери сертификат ако назначује сервер за OCSP"
 
 #: proxyOCSP2.label proxyOCSP2.accesskey
 msgid "V&alidate all certificates using the following OCSP server:"
-msgstr ""
+msgstr "П&ровери све сертификате користећи овај сервер за OCSP:"
 
 #: serviceURL.label serviceURL.accesskey
 msgid "&Service URL:"
@@ -222,11 +222,11 @@ msgstr "&Потписник одговора:"
 
 #: validation.requireOCSP.description
 msgid "When an OCSP server connection fails, treat the certificate as invalid"
-msgstr ""
+msgstr "Ако се веза са сервером за OCSP прекине, сматрај да је сертификат неважећи"
 
 #: validation.requireOCSP.accesskey
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #~ msgid "Manage CRLs..."
 #~ msgstr "Уреди ЛПС...."

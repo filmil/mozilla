@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-25 00:31+0100\n"
+"PO-Revision-Date: 2008-03-19 03:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -122,7 +122,7 @@ msgstr "На вези (заступник подешен аутоматски)"
 
 #: proxy.label proxy.accesskey
 msgid "Proxy &Configuration…"
-msgstr ""
+msgstr "Подешавање по&средника…"
 
 #: findTypeTextCmd.key
 msgid "/"

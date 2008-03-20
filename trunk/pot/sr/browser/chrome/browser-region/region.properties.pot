@@ -23,10 +23,6 @@ msgstr ""
 msgid "Google"
 msgstr ""
 
-#: browser.search.order.2
-msgid "Yahoo"
-msgstr ""
-
 # This is the default set of web based feed handlers shown in the reader
 # selection UI
 #: browser.contentHandlers.types.0.title
