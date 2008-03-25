@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 18:22+0200\n"
+"PO-Revision-Date: 2008-03-25 23:36+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,13 +34,13 @@ msgstr "&Користи глобална LDAP подешавања за овај
 
 #: editDirectories.label editDirectories.accesskey
 msgid "&Edit Directories…"
-msgstr ""
+msgstr "&Уреди директоријуме…"
 
 #: directories.label directories.accesskey
 msgid ""
 "_: do not translate \"LDAP\" in below line\n"
 "Use a different L&DAP server:"
-msgstr "Користи &различит LDAP сервер:"
+msgstr "Користи &други сервер за LDAP:"
 
 # am-addressing.xul
 #: compositionGroupTitle.label

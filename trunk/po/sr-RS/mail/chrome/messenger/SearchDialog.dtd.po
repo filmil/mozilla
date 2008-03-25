@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:14+0200\n"
+"PO-Revision-Date: 2008-03-25 23:44+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -120,11 +120,11 @@ msgstr "Нит"
 
 #: fromColumn.label
 msgid "From"
-msgstr ""
+msgstr "Шаље"
 
 #: recipientColumn.label
 msgid "Recipient"
-msgstr "Прималац"
+msgstr "Прима"
 
 #: subjectColumn.label
 msgid "Subject"
@@ -176,7 +176,7 @@ msgstr "Прочитано"
 
 #: receivedColumn.label
 msgid "Received"
-msgstr ""
+msgstr "Примљена"
 
 #: starredColumn.label
 msgid "Starred"
@@ -202,7 +202,7 @@ msgstr "Притисните да прикажете нити порука"
 
 #: fromColumn.tooltip
 msgid "Click to sort by from"
-msgstr ""
+msgstr "Притисните да поређате по"
 
 #: recipientColumn.tooltip
 msgid "Click to sort by recipient"
@@ -254,7 +254,7 @@ msgstr "Притисните да поређате према прочитани
 
 #: receivedColumn.tooltip
 msgid "Click to sort by date received"
-msgstr ""
+msgstr "Притисните да поређате по датуму пријема"
 
 #: starredColumn.tooltip
 msgid "Click to sort by star"

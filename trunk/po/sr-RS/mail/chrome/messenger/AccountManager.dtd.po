@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:56+0100\n"
+"PO-Revision-Date: 2008-03-25 23:37+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Подешавања налога"
 
 #: addAccountButton.label addAccountButton.accesskey
 msgid "&Add Account…"
-msgstr ""
+msgstr "&Додај налог…"
 
 #: setDefaultButton.label setDefaultButton.accesskey
 msgid "Set as De&fault"

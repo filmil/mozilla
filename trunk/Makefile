@@ -14,7 +14,7 @@ include Makefile.inc
 
 .PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy
 
-all: stats clean tryconv
+all: clean tryconv stats 
 
 # Слање измена у Мозилин ЦВС
 publish: clean tryconv publishcopy 

@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:14+0100\n"
+"PO-Revision-Date: 2008-03-25 23:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -101,7 +101,7 @@ msgstr "Готово"
 # LOCALIZATION NOTE (4002): Do not translate %lu in the following line.
 #: 4002
 msgid "Downloading message %S of %S"
-msgstr ""
+msgstr "Пријем поруке %S од %S"
 
 # Status - pop3 server error
 ## @name POP3_SERVER_ERROR
@@ -368,7 +368,7 @@ msgstr "Сервер за пошту не подржава безбедну ау
 #: 4031
 msgid ""
 "Mail server does not support secure authentication or you have entered an incorrect password. Please check your password, or turn off secure authentication in the account settings for your mail server.\n"
-msgstr ""
+msgstr "Сервер за пошту не подржава безбедносну аутентикацију или сте унели неисправну лозинку.  Молимо да проверите лозинку, или да искључите безбедносну аутентикацију у подешавањима налога за Ваш сервер за пошту.\n"
 
 ## @name MOVEMAIL_SPOOL_FILE_LOCKED
 ## @loc None
@@ -429,6 +429,10 @@ msgid ""
 "   Subject: %S\n"
 " This message may contain a virus or there is not enough disk space. Skip this message?"
 msgstr ""
+"Дошло је до грешке при пријему наведене поруке:\n"
+"Шаље: %S\n"
+"   Тема: %S\n"
+" Ова порука можда садржи вирус или нема довољно места на диску.  Да ли ову поруку треба прескочити?"
 
 ## @name NS_ERROR_COULD_NOT_CONNECT_VIA_TLS
 ## @loc None
@@ -436,4 +440,4 @@ msgstr ""
 # # @loc None
 #: 4039
 msgid "Unable to establish TLS connection to POP3 server. The server may be down or may be incorrectly configured. Please verify that your Mail/News account settings are correct and try again."
-msgstr ""
+msgstr "Није могуће успоставити везу путем ТЛСа са сервером за ПОП3.  Сервер је можда искључен или неисправно подешен.  Молимо да проверите да ли су Ваши налози за пошту и вести исправно подешени и да пробате поново."

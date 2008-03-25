@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 17:06+0200\n"
+"PO-Revision-Date: 2008-03-25 23:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "&Смести одговоре у директоријум поруке 
 
 #: chooseFolderButton.label
 msgid "Choose Folder…"
-msgstr ""
+msgstr "Избор директоријума…"
 
 # Yeah right, like I will listen to _you_ whether to translate something or not.
 #: bccAddress.label bccAddress.accesskey

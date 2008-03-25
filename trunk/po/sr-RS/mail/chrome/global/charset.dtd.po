@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-12-25 01:50+0100\n"
+"PO-Revision-Date: 2008-03-25 23:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "&Кодирање знакова"
 
 #: charsetMenuAutodet.label charsetMenuAutodet.accesskey
 msgid "&Auto-Detect"
-msgstr "&Аутоматски"
+msgstr "&Аутоматско"
 
 #: charsetMenuMore.label charsetMenuMore.accesskey
 msgid "&More"
@@ -40,7 +40,7 @@ msgstr "&Далекоисточно"
 
 #: charsetMenuMore4.label charsetMenuMore4.accesskey
 msgid "&SE &amp; SW Asian"
-msgstr "&Југоисточно азијско"
+msgstr "&Југоисточно-азијско"
 
 #: charsetMenuMore5.label charsetMenuMore5.accesskey
 msgid "&Middle Eastern"
@@ -52,7 +52,7 @@ msgstr "&Уникод"
 
 #: charsetCustomize.label charsetCustomize.accesskey
 msgid "&Customize…"
-msgstr ""
+msgstr "&Прилагоди…"
 
 #~ msgid "&Customize..."
 #~ msgstr "&Прилагоди..."

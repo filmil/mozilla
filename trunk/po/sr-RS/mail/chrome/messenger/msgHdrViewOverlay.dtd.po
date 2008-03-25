@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:50+0100\n"
+"PO-Revision-Date: 2008-03-25 23:41+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -113,19 +113,19 @@ msgstr "Кориснички-агент: "
 
 #: referencesField.label
 msgid "References: "
-msgstr ""
+msgstr "Референце: "
 
 #: messageIdField.label
 msgid "Message-ID: "
-msgstr ""
+msgstr "ИД-поруке: "
 
 #: inReplyToField.label
 msgid "In-Reply-To: "
-msgstr ""
+msgstr "У-одговор-на:"
 
 #: originalWebsite.label
 msgid "Website: "
-msgstr "Ел-место: "
+msgstr "Веб-сајт:"
 
 #: saveAll.label
 msgid "Save All.."
@@ -133,7 +133,7 @@ msgstr "Сачувај све..."
 
 #: editMessage.label
 msgid "Edit Draft…"
-msgstr ""
+msgstr "Уреди нацрт…"
 
 #: openAttachmentCmd.label openAttachmentCmd.accesskey
 msgid "&Open"
@@ -141,11 +141,11 @@ msgstr "&Отвори"
 
 #: saveAsAttachmentCmd.label saveAsAttachmentCmd.accesskey
 msgid "Save &As…"
-msgstr ""
+msgstr "Сачувај &као…"
 
 #: detachAttachmentCmd.label
 msgid "Detach…"
-msgstr ""
+msgstr "Откачи…"
 
 #: deleteAttachmentCmd.label
 msgid "Delete"
@@ -153,15 +153,15 @@ msgstr "Уклони"
 
 #: saveAllAttachmentsCmd.label saveAllAttachmentsCmd.accesskey
 msgid "&Save All…"
-msgstr ""
+msgstr "&Сачувај све…"
 
 #: detachAllAttachmentsCmd.label detachAllAttachmentsCmd.accesskey
 msgid "&Detach All…"
-msgstr ""
+msgstr "&Откачи све…"
 
 #: deleteAllAttachmentsCmd.label deleteAllAttachmentsCmd.accesskey
 msgid "D&elete All…"
-msgstr ""
+msgstr "&Уклони све…"
 
 #: copyLinkCmd.label copyLinkCmd.accesskey
 msgid "&Copy Link Location"
@@ -169,15 +169,15 @@ msgstr "Умножи &везу"
 
 #: CopyMessageId.label
 msgid "Copy Message-ID"
-msgstr ""
+msgstr "Умножи ИД поруке"
 
 #: OpenMessageForMsgId.label
 msgid "Open Message For ID"
-msgstr ""
+msgstr "Отвори поруку по ИДу"
 
 #: OpenBrowserWithMsgId.label
 msgid "Open Browser With Message-ID"
-msgstr ""
+msgstr "Отвори читач са поруком ИД"
 
 #~ msgid "Edit Draft..."
 #~ msgstr "Уреди нацрт..."

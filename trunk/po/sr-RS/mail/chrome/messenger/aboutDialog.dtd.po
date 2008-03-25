@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 01:58+0100\n"
+"PO-Revision-Date: 2008-03-25 23:51+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +20,11 @@ msgstr "О програму &brandFullName;"
 
 #: credits.label credits.accesskey
 msgid "&Credits"
-msgstr ""
+msgstr "&Заслуге"
 
 #: aboutLink.label aboutLink.accesskey
 msgid "&lt; &About &brandFullName;"
-msgstr ""
+msgstr "&lt; &О програму &brandFullName;"
 
 #: aboutVersion
 msgid "version"
@@ -35,7 +35,7 @@ msgid ""
 "&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and "
 "the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights "
 "reserved."
-msgstr ""
+msgstr "&#169;1998-2008 Приложници. Сва права су задржана. Мозилин тандерберд (Mozilla Thunderbird) и тандербердови заштитни знаци су робне марке Мозилине задужбине (Mozilla Foundation).  Сва права су задржана."
 
 #~ msgid "Credits"
 #~ msgstr "Заслуге"
