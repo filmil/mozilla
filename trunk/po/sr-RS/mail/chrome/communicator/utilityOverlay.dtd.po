@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-19 03:14+0100\n"
+"PO-Revision-Date: 2008-03-25 22:54+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr "&Опозови"
 
 #: undoCmd.key
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #: redoCmd.label redoCmd.accesskey
 msgid "&Redo"
@@ -42,7 +42,7 @@ msgstr "&Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: cutCmd.label cutCmd.accesskey
 msgid "Cu&t"
@@ -50,7 +50,7 @@ msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: copyCmd.label copyCmd.accesskey
 msgid "&Copy"
@@ -58,7 +58,7 @@ msgstr "Умн&ожи"
 
 #: copyCmd.key
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: pasteCmd.label pasteCmd.accesskey
 msgid "&Paste"
@@ -66,7 +66,7 @@ msgstr "У&баци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: deleteCmd.label deleteCmd.accesskey
 msgid "&Delete"
@@ -74,7 +74,7 @@ msgstr "&Обриши"
 
 #: deleteCmd.key
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #: selectAllCmd.label selectAllCmd.accesskey
 msgid "Select &All"
@@ -86,7 +86,7 @@ msgstr "П"
 
 #: preferencesCmd.label preferencesCmd.accesskey
 msgid "&Options…"
-msgstr ""
+msgstr "&Опције…"
 
 #: preferencesCmdUnix.label preferencesCmdUnix.accesskey
 msgid "Prefere&nces"
@@ -144,7 +144,7 @@ msgstr "W"
 
 #: closeWindow.label
 msgid "Close Window"
-msgstr ""
+msgstr "Затвори прозор"
 
 #: quitApplicationCmd.label quitApplicationCmd.accesskey
 msgid "E&xit"
@@ -160,7 +160,7 @@ msgstr "&Крај"
 
 #: quitApplicationCmdMac.label quitApplicationCmdMac.accesskey
 msgid "&Quit &brandShortName;"
-msgstr ""
+msgstr "&Крај рада: &brandShortName;"
 
 #~ msgid "&Options..."
 #~ msgstr "&Подешавања..."

@@ -28,22 +28,27 @@ po/sr-RS/mail/chrome/messenger-smime/msgCompSMIMEOverlay.dtd.po:	9 translated me
 po/sr-RS/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd.po:	11 translated messages.
 po/sr-RS/mail/chrome/messenger-smime/msgSecurityInfo.properties.po:	50 translated messages.
 po/sr-RS/mail/chrome/messenger-smime/msgCompSMIMEOverlay.properties.po:	1 translated message.
-po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po:	58 translated messages, 2 untranslated messages.
+po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po:	po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po:26: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+po/sr-RS/mail/chrome/communicator/contentAreaCommands.dtd.po:36: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+msgfmt: found 2 fatal errors
+60 translated messages.
 po/sr-RS/mail/chrome/communicator/contentAreaCommands.properties.po:	13 translated messages.
 po/sr-RS/mail/chrome/communicator/wallet/SignonViewer.properties.po:	8 translated messages.
 po/sr-RS/mail/chrome/communicator/wallet/wallet.properties.po:	41 translated messages.
 po/sr-RS/mail/chrome/communicator/wallet/SignonViewer.dtd.po:	15 translated messages.
 po/sr-RS/mail/chrome/communicator/utilityOverlay.properties.po:	5 translated messages.
-po/sr-RS/mail/chrome/communicator/utilityOverlay.dtd.po:	27 translated messages, 9 untranslated messages.
+po/sr-RS/mail/chrome/communicator/utilityOverlay.dtd.po:	36 translated messages.
 po/sr-RS/mail/chrome/global/charset.dtd.po:	9 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/messenger/importMsgs.properties.po:	83 translated messages, 4 untranslated messages.
+po/sr-RS/mail/chrome/messenger/importMsgs.properties.po:	87 translated messages.
 po/sr-RS/mail/chrome/messenger/markByDate.dtd.po:	3 translated messages.
 po/sr-RS/mail/chrome/messenger/comm4xMailImportMsgs.properties.po:	5 translated messages.
-po/sr-RS/mail/chrome/messenger/msgViewPickerOverlay.dtd.po:	1 translated message, 6 untranslated messages.
-po/sr-RS/mail/chrome/messenger/messengercompose/askSendFormat.properties.po:	0 translated messages, 4 untranslated messages.
-po/sr-RS/mail/chrome/messenger/messengercompose/sendProgress.properties.po:	0 translated messages, 5 untranslated messages.
+po/sr-RS/mail/chrome/messenger/msgViewPickerOverlay.dtd.po:	7 translated messages.
+po/sr-RS/mail/chrome/messenger/messengercompose/askSendFormat.properties.po:	4 translated messages.
+po/sr-RS/mail/chrome/messenger/messengercompose/sendProgress.properties.po:	5 translated messages.
 po/sr-RS/mail/chrome/messenger/messengercompose/addressingWidgetOverlay.dtd.po:	6 translated messages.
-po/sr-RS/mail/chrome/messenger/messengercompose/askSendFormat.dtd.po:	3 translated messages, 4 untranslated messages.
+po/sr-RS/mail/chrome/messenger/messengercompose/askSendFormat.dtd.po:	7 translated messages.
 po/sr-RS/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	119 translated messages, 34 untranslated messages.
 po/sr-RS/mail/chrome/messenger/messengercompose/composeMsgs.properties.po:	74 translated messages, 34 untranslated messages.
 po/sr-RS/mail/chrome/messenger/messengercompose/mailComposeEditorOverlay.dtd.po:	2 translated messages.

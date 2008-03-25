@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 01:08+0100\n"
+"PO-Revision-Date: 2008-03-25 22:59+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,19 +34,19 @@ msgstr ""
 
 #: plainTextAndHtml.label plainTextAndHtml.accesskey
 msgid "Send in Pl&ain Text and HTML"
-msgstr ""
+msgstr "Пошаљи као &обичан текст и ХТМЛ"
 
 #: plainTextOnly.label plainTextOnly.accesskey
 msgid "Send in &Plain Text Only"
-msgstr ""
+msgstr "Пошаљи само као обичан &текст"
 
 #: htmlOnly.label htmlOnly.accesskey
 msgid "Send in &HTML Only"
-msgstr ""
+msgstr "Пошаљи само као &ХТМЛ"
 
 #: send.label send.accesskey
 msgid "&Send"
-msgstr ""
+msgstr "&Шаљи"
 
 #~ msgid ""
 #~ "Your message can be converted to plain text without losing information."

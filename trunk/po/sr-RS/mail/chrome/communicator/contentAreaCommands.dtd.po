@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-19 03:13+0100\n"
+"PO-Revision-Date: 2008-03-25 22:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr "Забрани искачуће прозоре с овог ел.мест
 msgid ""
 "_: popupWindowRejectCmd.accesskey\n"
 ""
-msgstr ""
+msgstr "з"
 
 #: popupWindowAllowCmd.label
 msgid "Allow popup windows from this site"
@@ -33,7 +33,7 @@ msgstr "Дозволи искачуће прозоре с овог ел.мест
 msgid ""
 "_: popupWindowAllowCmd.accesskey\n"
 ""
-msgstr ""
+msgstr "д"
 
 #: openLinkCmd.label
 #: openLinkCmd.accesskey

@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:17+0200\n"
+"PO-Revision-Date: 2008-03-25 22:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -579,22 +579,22 @@ msgstr "Адресе су успешно увезене из %S."
 # Error string for filters import
 #: ImportFiltersBadModule
 msgid "Unable to load filters import module."
-msgstr ""
+msgstr "Није могуће учитати модул за увоз филтера."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: ImportFiltersFailed
 msgid "An error occurred importing filters from %S."
-msgstr ""
+msgstr "Дошло је до грешке при увозу филтера (%S)."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: ImportFiltersSuccess
 msgid "Filters successfully imported from %S."
-msgstr ""
+msgstr "Филтери су успешно увезени (%S)."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: ImportFiltersPartial
 msgid "Filters partially imported from %S.  Warnings below:"
-msgstr ""
+msgstr "Филтери су делимично увезени (%S).  Упозорења су дата испод:"
 
 # Progress strings
 # Progress strings

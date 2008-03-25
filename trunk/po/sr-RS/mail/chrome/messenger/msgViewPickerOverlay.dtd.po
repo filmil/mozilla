@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-12-25 01:47+0100\n"
+"PO-Revision-Date: 2008-03-25 22:58+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,27 +21,27 @@ msgstr "&Преглед:"
 
 #: viewAll.label viewAll.accesskey
 msgid "&All"
-msgstr ""
+msgstr "&Све"
 
 #: viewUnread.label viewUnread.accesskey
 msgid "&Unread"
-msgstr ""
+msgstr "&Непрочитане"
 
 #: viewTags.label viewTags.accesskey
 msgid "&Tags"
-msgstr ""
+msgstr "&Ознаке"
 
 #: viewCustomViews.label viewCustomViews.accesskey
 msgid "Custom &Views"
-msgstr ""
+msgstr "&Прилагођени погледи"
 
 #: viewVirtualFolder.label viewVirtualFolder.accesskey
 msgid "&Save View as a Folder…"
-msgstr ""
+msgstr "&Сачувај поглед као директоријум…"
 
 #: viewCustomizeView.label viewCustomizeView.accesskey
 msgid "&Customize…"
-msgstr ""
+msgstr "&Прилагоди…"
 
 #~ msgid "Customize..."
 #~ msgstr "Прилагоди..."

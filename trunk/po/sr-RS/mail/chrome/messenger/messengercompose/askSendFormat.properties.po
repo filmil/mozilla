@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-25 23:02+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,21 +16,21 @@ msgstr ""
 
 #: convertibleYes
 msgid "Your message can be converted to plain text without losing information."
-msgstr ""
+msgstr "Порука може да буде пребачена у обичан текст без губитка података."
 
 #: convertibleAltering
 msgid ""
 "Your message can be converted to plain text without losing important "
 "information. However, the plain text version might look different from what "
 "you saw in the composer."
-msgstr ""
+msgstr "Порука може да буде пребачена у обичан текст без губитка важних података.  Међутим, издање поруке у обичном тексту може да изгледа другачије од оног што сте видели у Композитору."
 
 #: convertibleNo
 msgid ""
 "However, you used formatting (e.g. colors) that will not be converted to "
 "plain text."
-msgstr ""
+msgstr "Па ипак, користили сте форматирања (нпр. боје) које неће бити пребачене у обичан текст."
 
 #: recommended
 msgid "(recommended)"
-msgstr ""
+msgstr "(препоручено)"
