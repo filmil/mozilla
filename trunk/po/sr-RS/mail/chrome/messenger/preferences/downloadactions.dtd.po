@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:22+0200\n"
+"PO-Revision-Date: 2008-03-26 00:05+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,11 +56,11 @@ msgstr "&Проширење"
 
 #: remove.label remove.accesskey
 msgid "&Remove Action"
-msgstr "&Уклони акцију"
+msgstr "&Уклони дејство"
 
 #: edit.label edit.accesskey
 msgid "&Change Action…"
-msgstr ""
+msgstr "&Промени дејство…"
 
 #: windowClose.key
 msgid "w"
@@ -76,7 +76,7 @@ msgstr "k"
 
 #: filter.label filter.accesskey
 msgid "&Search:"
-msgstr "&Пронађи:"
+msgstr "&Тражи:"
 
 #: clear.label clear.accesskey
 msgid "C&lear"

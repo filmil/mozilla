@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 02:14+0100\n"
+"PO-Revision-Date: 2008-03-26 00:12+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "Ко&рисничко име:"
 
 #: useSecAuth.label useSecAuth.accesskey
 msgid "Use secure authent&ication"
-msgstr ""
+msgstr "Користи &безбедну аутентикацију"
 
 #: isSecure.label
 msgid "Use secure connection:"
@@ -56,15 +56,15 @@ msgstr "&Не"
 
 #: sometimesSTARTTLS.label sometimesSTARTTLS.accesskey
 msgid "ST&ARTTLS, if available"
-msgstr ""
+msgstr "ST&ARTTLS, ако је доступан"
 
 #: alwaysSTARTTLS.label alwaysSTARTTLS.accesskey
 msgid "S&TARTTLS"
-msgstr ""
+msgstr "S&TARTTLS"
 
 #: alwaysSMTPOverSSL.label alwaysSMTPOverSSL.accesskey
 msgid "SMTP-over-SS&L"
-msgstr ""
+msgstr "СМТП-преко-СС&Ла"
 
 #: smtpEditTitle.label
 msgid "SMTP Server"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:12+0200\n"
+"PO-Revision-Date: 2008-03-26 00:12+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,15 +54,15 @@ msgstr "Највиши"
 
 #: conditionDesc.label
 msgid "For incoming messages which:"
-msgstr ""
+msgstr "За долазеће поруке чије"
 
 #: filterActionDesc.label filterActionDesc.accesskey
 msgid "&Perform these actions:"
-msgstr "&Дејства:"
+msgstr "&Уради следеће:"
 
 #: newFolderButton.label newFolderButton.accesskey
 msgid "&New Folder…"
-msgstr ""
+msgstr "&Нови директоријум…"
 
 # New Style Filter Rule Actions
 #: moveMessage.label
@@ -123,7 +123,7 @@ msgstr "Надгледај нит"
 
 #: stopExecution.label
 msgid "Stop Filter Execution"
-msgstr ""
+msgstr "Заустави извршење филтера"
 
 #~ msgid "subject"
 #~ msgstr "тема"

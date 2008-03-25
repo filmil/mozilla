@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 17:03+0200\n"
+"PO-Revision-Date: 2008-03-26 00:10+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Прослеђивање порука"
 
 #: forwardMsg.label forwardMsg.accesskey
 msgid "For&ward messages:"
-msgstr ""
+msgstr "Про&слеђене поруке:"
 
 #: inline.label inline.accesskey
 msgid "&Inline"
@@ -48,31 +48,31 @@ msgstr "Као &прилог"
 
 #: addExtension.label addExtension.accesskey
 msgid "add extension to &file name"
-msgstr ""
+msgstr "додај &наставак за тип датотеке"
 
 #: htmlComposeHeader.label
 msgid "HTML"
-msgstr ""
+msgstr "ХТМЛ"
 
 #: font.label font.accesskey
 msgid "Fo&nt:"
-msgstr ""
+msgstr "&Писмо:"
 
 #: size.label size.accesskey
 msgid "Si&ze:"
-msgstr ""
+msgstr "&Величина:"
 
 #: fontColor.label fontColor.accesskey
 msgid "Te&xt Color:"
-msgstr ""
+msgstr "&Боја:"
 
 #: bgColor.label bgColor.accesskey
 msgid "&Background Color:"
-msgstr ""
+msgstr "&Позадина:"
 
 #: restoreHTMLDefaults.label restoreHTMLDefaults.accesskey
 msgid "&Restore Defaults"
-msgstr ""
+msgstr "&Врати изворно"
 
 #: sendingMessagesHeader.label
 msgid "Composing Messages"
@@ -84,11 +84,11 @@ msgstr "&Провери правопис пре слања"
 
 #: spellCheckInline.label
 msgid "Enable spell check as you type"
-msgstr ""
+msgstr "Укључи симултану проверу правописа"
 
 #: spellCheckInline1.accesskey
 msgid "k"
-msgstr ""
+msgstr "с"
 
 #: languagePopup.label languagePopup.accessKey
 msgid "Lan&guage:"
@@ -116,7 +116,7 @@ msgstr "&Аутоматски чувај на"
 
 #: autoSaveEnd.label
 msgid "minutes"
-msgstr ""
+msgstr "минута"
 
 #: wrapOutMsg.label wrapOutMsg.accesskey
 msgid ""
@@ -151,7 +151,7 @@ msgstr "&Именику на серверу:"
 
 #: editDirectories.label editDirectories.accesskey
 msgid "&Edit Directories…"
-msgstr ""
+msgstr "&Уреди речнике…"
 
 #: matchText.label
 msgid "If there is a match in your local address books:"
@@ -171,7 +171,7 @@ msgstr "Подешавање понашања формата текста"
 
 #: sendOptions.label sendOptions.accesskey
 msgid "&Send Options…"
-msgstr ""
+msgstr "&Опције за слање…"
 
 #~ msgid "&Forward messages:"
 #~ msgstr "&Прослеђивање порука:"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-25 23:56+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,28 +16,28 @@ msgstr ""
 
 #: untitledTab
 msgid "(Untitled)"
-msgstr ""
+msgstr "(без наслова)"
 
 #: newTab.label newTab.accesskey
 msgid "&New Tab"
-msgstr ""
+msgstr "Нови &језичак"
 
 #: closeTab.label closeTab.accesskey
 msgid "&Close Tab"
-msgstr ""
+msgstr "&Затвори језичак"
 
 #: closeOtherTabs.label closeOtherTabs.accesskey
 msgid "Close &Other Tabs"
-msgstr ""
+msgstr "Затвори &друге језичке"
 
 #: reloadAllTabs.label reloadAllTabs.accesskey
 msgid "Reload &All Tabs"
-msgstr ""
+msgstr "&Поново учитај све језичке"
 
 #: reloadTab.label reloadTab.accesskey
 msgid "&Reload Tab"
-msgstr ""
+msgstr "&Поново учитај језичак"
 
 #: listAllTabs.label
 msgid "List all tabs"
-msgstr ""
+msgstr "Списак свих језичака"

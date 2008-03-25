@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-26 00:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,52 +16,52 @@ msgstr ""
 
 #: offlineDialog.title
 msgid "Offline Settings"
-msgstr ""
+msgstr "Подешавања за рад ван мреже"
 
 #: textStartUp
 msgid "When starting up:"
-msgstr ""
+msgstr "При покретању:"
 
 #: radioRememberPrevState.label radioRememberPrevState.accesskey
 msgid "&Remember previous online state"
-msgstr ""
+msgstr "&Запамти претходни статус везе"
 
 #: radioAskMe.label radioAskMe.accesskey
 msgid "Ask me for online state at start&up"
-msgstr ""
+msgstr "Питај ме о статусу везе при &покретању"
 
 #: radioAlwaysOnline.label radioAlwaysOnline.accesskey
 msgid "A&lways start up online"
-msgstr ""
+msgstr "&Увек покрени на вези"
 
 #: textGoingOnline
 msgid "Send unsent messages when going online?"
-msgstr ""
+msgstr "Да ли непослате поруке треба послати при успостави везе?"
 
 #: radioAutoSend.label radioAutoSend.accesskey
 msgid "&Yes"
-msgstr ""
+msgstr "&Да"
 
 #: radioNotSend.label radioNotSend.accesskey
 msgid "&No"
-msgstr ""
+msgstr "&Не"
 
 #: radioAskUnsent.label radioAskUnsent.accesskey
 msgid "A&sk me"
-msgstr ""
+msgstr "&Питај ме"
 
 #: textGoingOffline
 msgid "Download messages for offline use when going offline?"
-msgstr ""
+msgstr "Да ли преузети поруке за читање у локалу при раскидању везе?"
 
 #: radioAutoDownload.label radioAutoDownload.accesskey
 msgid "Y&es"
-msgstr ""
+msgstr "Д&а"
 
 #: radioNotDownload.label radioNotDownload.accesskey
 msgid "N&o"
-msgstr ""
+msgstr "Н&е"
 
 #: radioAskDownload.label radioAskDownload.accesskey
 msgid "&Ask me"
-msgstr ""
+msgstr "П&итај ме"

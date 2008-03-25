@@ -81,41 +81,44 @@ po/sr-RS/mail/chrome/messenger/am-smime.dtd.po:	16 translated messages.
 po/sr-RS/mail/chrome/messenger/search-operators.properties.po:	18 translated messages.
 po/sr-RS/mail/chrome/messenger/virtualFolderListDialog.dtd.po:	2 translated messages.
 po/sr-RS/mail/chrome/messenger/mailEditorOverlay.dtd.po:	1 translated message.
-po/sr-RS/mail/chrome/messenger/tabmail.dtd.po:	0 translated messages, 7 untranslated messages.
+po/sr-RS/mail/chrome/messenger/tabmail.dtd.po:	7 translated messages.
 po/sr-RS/mail/chrome/messenger/imapMsgs.properties.po:	85 translated messages, 1 untranslated message.
 po/sr-RS/mail/chrome/messenger/localMsgs.properties.po:	41 translated messages.
 po/sr-RS/mail/chrome/messenger/am-offline.dtd.po:	23 translated messages.
-po/sr-RS/mail/chrome/messenger/subscribe.properties.po:	2 translated messages, 4 untranslated messages.
+po/sr-RS/mail/chrome/messenger/subscribe.properties.po:	6 translated messages.
 po/sr-RS/mail/chrome/messenger/credits.dtd.po:	23 translated messages.
-po/sr-RS/mail/chrome/messenger/am-server-advanced.dtd.po:	15 translated messages, 3 untranslated messages.
-po/sr-RS/mail/chrome/messenger/smtpEditOverlay.dtd.po:	11 translated messages, 4 untranslated messages.
+po/sr-RS/mail/chrome/messenger/am-server-advanced.dtd.po:	18 translated messages.
+po/sr-RS/mail/chrome/messenger/smtpEditOverlay.dtd.po:	15 translated messages.
 po/sr-RS/mail/chrome/messenger/msgFolderPickerOverlay.dtd.po:	9 translated messages.
-po/sr-RS/mail/chrome/messenger/msgSynchronize.dtd.po:	11 translated messages, 1 untranslated message.
+po/sr-RS/mail/chrome/messenger/msgSynchronize.dtd.po:	12 translated messages.
 po/sr-RS/mail/chrome/messenger/mimeheader.properties.po:	25 translated messages.
 po/sr-RS/mail/chrome/messenger/outlookImportMsgs.properties.po:	9 translated messages.
 po/sr-RS/mail/chrome/messenger/offline.properties.po:	11 translated messages.
 po/sr-RS/mail/chrome/messenger/mailTurboMenu.properties.po:	2 translated messages.
 po/sr-RS/mail/chrome/messenger/mime.properties.po:	46 translated messages.
-po/sr-RS/mail/chrome/messenger/am-junk.dtd.po:	6 translated messages, 4 untranslated messages.
+po/sr-RS/mail/chrome/messenger/am-junk.dtd.po:	10 translated messages.
 po/sr-RS/mail/chrome/messenger/eudoraImportMsgs.properties.po:	12 translated messages, 14 untranslated messages.
-po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:	2 translated messages, 1 untranslated message.
+po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:	po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:29: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+msgfmt: found 1 fatal error
+3 translated messages.
 po/sr-RS/mail/chrome/messenger/viewLog.dtd.po:	5 translated messages.
-po/sr-RS/mail/chrome/messenger/FilterEditor.dtd.po:	24 translated messages, 3 untranslated messages.
+po/sr-RS/mail/chrome/messenger/FilterEditor.dtd.po:	27 translated messages.
 po/sr-RS/mail/chrome/messenger/newTagDialog.dtd.po:	2 translated messages.
 po/sr-RS/mail/chrome/messenger/oeImportMsgs.properties.po:	10 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/junkLog.dtd.po:	4 translated messages.
-po/sr-RS/mail/chrome/messenger/preferences/preferences.dtd.po:	9 translated messages, 3 untranslated messages.
+po/sr-RS/mail/chrome/messenger/preferences/preferences.dtd.po:	12 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po:	43 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/changeaction.dtd.po:	12 translated messages.
-po/sr-RS/mail/chrome/messenger/preferences/downloadactions.dtd.po:	15 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/messenger/preferences/general.dtd.po:	9 translated messages, 12 untranslated messages.
+po/sr-RS/mail/chrome/messenger/preferences/downloadactions.dtd.po:	16 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/general.dtd.po:	21 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/advanced.dtd.po:	47 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/downloads.dtd.po:	14 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/viewpasswords.dtd.po:	10 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/htmlcompose.dtd.po:	8 translated messages.
-po/sr-RS/mail/chrome/messenger/preferences/sendoptions.dtd.po:	20 translated messages, 4 untranslated messages.
-po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po:	25 translated messages, 13 untranslated messages.
-po/sr-RS/mail/chrome/messenger/preferences/offline.dtd.po:	0 translated messages, 13 untranslated messages.
+po/sr-RS/mail/chrome/messenger/preferences/sendoptions.dtd.po:	24 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po:	38 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/offline.dtd.po:	13 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po:	18 translated messages, 3 untranslated messages.
 po/sr-RS/mail/chrome/messenger/preferences/notifications.dtd.po:	5 translated messages, 1 untranslated message.
 po/sr-RS/mail/chrome/messenger/preferences/fonts.dtd.po:	44 translated messages, 9 untranslated messages.

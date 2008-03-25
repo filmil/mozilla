@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-12-28 08:53-0600\n"
+"PO-Revision-Date: 2008-03-26 00:07+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgid ""
 " Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "3em"
-msgstr ""
+msgstr "3em"
 
 #: checkNow.label checkNow.accesskey
 msgid "Check &Now"
@@ -55,11 +55,11 @@ msgstr ""
 
 #: location.label
 msgid "Location:"
-msgstr ""
+msgstr "Место:"
 
 #: location1.accesskey
 msgid "o"
-msgstr ""
+msgstr "М"
 
 #: useDefault.label useDefault.accesskey
 msgid "&Restore Default"
@@ -75,11 +75,11 @@ msgstr "Када поруке стигну:"
 
 #: playSound.label
 msgid "Play a sound"
-msgstr ""
+msgstr "Пусти звук"
 
 #: playSound1.accesskey
 msgid "d"
-msgstr ""
+msgstr "з"
 
 #: showAnimatedAlert.label showAnimatedAlert.accesskey
 msgid "&Show an alert"
@@ -87,31 +87,31 @@ msgstr "&Прикажи обавештење"
 
 #: customizeMailAlert.label customizeMailAlert.accesskey
 msgid "&Customize…"
-msgstr ""
+msgstr "&Прилагоди…"
 
 #: soundNotification1.caption
 msgid "Sound"
-msgstr ""
+msgstr "Звук"
 
 #: play.label play.accesskey
 msgid "&Play"
-msgstr ""
+msgstr "Пу&сти"
 
 #: systemsound.label systemsound.accesskey
 msgid "Default s&ystem sound for new mail"
-msgstr ""
+msgstr "Подразуме&вани системски звук за нову пошту"
 
 #: systemsoundMac.label systemsoundMac.accesskey
 msgid "S&ystem Alert Sound"
-msgstr ""
+msgstr "&Системски звук"
 
 #: customsound.label customsound.accesskey
 msgid "&Use the following sound file"
-msgstr ""
+msgstr "Користи овај звучни запис"
 
 #: browse.label browse.accesskey
 msgid "&Browse…"
-msgstr ""
+msgstr "&Преглед…"
 
 #~ msgid "Window Configuration"
 #~ msgstr "Подешавање прозора"

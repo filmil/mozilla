@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:48+0100\n"
+"PO-Revision-Date: 2008-03-26 00:03+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,6 +27,9 @@ msgid ""
 "(If you choose to work offline, you can go online later - choose `Offline' "
 "from the `File' menu, then uncheck `Work Offline'.)"
 msgstr ""
+"Да ли желите да се сада повежете?\n"
+"\n"
+"(Ако одлучите да радите ван мреже, можете да се повежете касније - изаберите „Неповезан рад‟ из менија „Датотека‟, затим одбележите „Неповезан рад‟.)\n"
 
 #   LOCALIZATION NOTE :
 #   do not localize "\n".  use "\n" to make the text fit nicely in the dialog.

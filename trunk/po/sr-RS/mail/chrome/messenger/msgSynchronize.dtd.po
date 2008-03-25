@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-12-25 12:29+0100\n"
+"PO-Revision-Date: 2008-03-26 00:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +55,7 @@ msgstr "&Искључи везу кад је све примљено и ускл
 
 #: selectButton.label selectButton.accesskey
 msgid "S&elect…"
-msgstr ""
+msgstr "&Избор…"
 
 #: MsgSelectDesc.label
 msgid "Choose mail folders and newsgroups for offline use."

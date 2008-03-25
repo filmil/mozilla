@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:28+0100\n"
+"PO-Revision-Date: 2008-03-25 23:58+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,13 +22,13 @@ msgstr "Напредна подешавања налога"
 msgid ""
 "_: Do not translate \"IMAP\"\n"
 "Advanced IMAP Server Settings"
-msgstr ""
+msgstr "Напредна подешавања за сервер ИМАПа"
 
 #: serverDirectory.label serverDirectory.accesskey
 msgid ""
 "_: Do not translate \"IMAP\"\n"
 "IMAP server &directory:"
-msgstr ""
+msgstr "&Директоријум за сервер ИМАПа:"
 
 #: usingSubscription.label usingSubscription.accesskey
 msgid "Sho&w only subscribed folders"
@@ -50,7 +50,7 @@ msgstr "&Максимални број серверских веза које ћ
 msgid ""
 "_: Do not translate \"IMAP\"\n"
 "These preferences specify the namespaces on your IMAP server"
-msgstr ""
+msgstr "Ова подешавања одређују именске просторе на Вашем серверу за ИМАП"
 
 #: personalNamespace.label personalNamespace.accesskey
 msgid "&Personal namespace:"
