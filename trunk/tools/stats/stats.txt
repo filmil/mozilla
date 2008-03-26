@@ -241,6 +241,7 @@ po/sr-RS/browser/chrome/help/platformStrings.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/engineManager.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr-RS/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
+po/sr-RS/browser/chrome/browser/.#engineManager.properties.po:	msgfmt: fout tijdens openen om te lezen van "po/sr-RS/browser/chrome/browser/.#engineManager.properties.po": Bestand of map bestaat niet
 po/sr-RS/browser/chrome/browser/openLocation.dtd.po:	8 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd.po:	14 translated messages.
@@ -251,6 +252,7 @@ po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po:	po/sr-RS/browser/chrome/brow
 '
 msgfmt: found 1 fatal error
 7 translated messages.
+po/sr-RS/browser/chrome/browser/.#tabbrowser.properties.po:	msgfmt: fout tijdens openen om te lezen van "po/sr-RS/browser/chrome/browser/.#tabbrowser.properties.po": Bestand of map bestaat niet
 po/sr-RS/browser/chrome/browser/openLocation.properties.po:	1 translated message.
 po/sr-RS/browser/chrome/browser/tabbrowser.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/browser.dtd.po:	182 translated messages.
@@ -274,8 +276,8 @@ po/sr-RS/browser/chrome/browser/feeds/subscribe.dtd.po:	3 translated messages.
 po/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd.po:	4 translated messages.
 po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po:	31 translated messages.
 po/sr-RS/browser/chrome/browser/pageInfo.dtd.po:	69 translated messages.
-po/sr-RS/browser/chrome/browser/preferences/content.dtd.po:	6 translated messages, 9 untranslated messages.
-po/sr-RS/browser/chrome/browser/preferences/preferences.dtd.po:	8 translated messages, 4 untranslated messages.
+po/sr-RS/browser/chrome/browser/preferences/content.dtd.po:	15 translated messages.
+po/sr-RS/browser/chrome/browser/preferences/preferences.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/preferences.properties.po:	66 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/tabs.dtd.po:	7 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/changeaction.dtd.po:	12 translated messages.
@@ -302,37 +304,37 @@ po/sr-RS/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated me
 po/sr-RS/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
-po/sr-RS/browser/chrome/browser/browser.properties.po:	33 translated messages, 51 untranslated messages.
-po/sr-RS/browser/chrome/browser/sessionstore.properties.po:	3 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/browser/browser.properties.po:	84 translated messages.
+po/sr-RS/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
 po/sr-RS/browser/chrome/browser/engineManager.properties.po:	0 translated messages, 5 untranslated messages.
-po/sr-RS/browser/chrome/browser/places/bookmarkProperties.properties.po:	0 translated messages, 12 untranslated messages.
-po/sr-RS/browser/chrome/browser/places/bookmarkProperties.dtd.po:	0 translated messages, 12 untranslated messages.
-po/sr-RS/browser/chrome/browser/places/moveBookmarks.dtd.po:	0 translated messages, 4 untranslated messages.
+po/sr-RS/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
+po/sr-RS/browser/chrome/browser/places/bookmarkProperties.dtd.po:	12 translated messages.
+po/sr-RS/browser/chrome/browser/places/moveBookmarks.dtd.po:	4 translated messages.
 po/sr-RS/browser/chrome/browser/places/places.dtd.po:	0 translated messages, 125 untranslated messages.
 po/sr-RS/browser/chrome/browser/places/places.properties.po:	0 translated messages, 74 untranslated messages.
 po/sr-RS/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	0 translated messages, 15 untranslated messages.
 po/sr-RS/browser/chrome/browser/tabbrowser.properties.po:	9 translated messages, 1 untranslated message.
-po/sr-RS/browser/chrome/browser/metaData.properties.po:	11 translated messages, 5 untranslated messages.
-po/sr-RS/browser/chrome/browser/pageInfo.properties.po:	17 translated messages, 21 untranslated messages.
+po/sr-RS/browser/chrome/browser/metaData.properties.po:	16 translated messages.
+po/sr-RS/browser/chrome/browser/pageInfo.properties.po:	38 translated messages.
 po/sr-RS/browser/chrome/browser/safeMode.dtd.po:	11 translated messages.
 po/sr-RS/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po:	20 translated messages.
 po/sr-RS/browser/chrome/browser/safebrowsing/blockedSite.properties.po:	6 translated messages.
 po/sr-RS/browser/chrome/browser/safebrowsing/report-phishing.dtd.po:	2 translated messages.
-po/sr-RS/browser/chrome/browser/quitDialog.properties.po:	0 translated messages, 10 untranslated messages.
-po/sr-RS/browser/chrome/browser/pageReportFirstTime.dtd.po:	1 translated message, 3 untranslated messages.
-po/sr-RS/browser/chrome/browser/shellservice.properties.po:	8 translated messages, 1 untranslated message.
-po/sr-RS/browser/chrome/overrides/netError.dtd.po:	29 translated messages, 15 untranslated messages.
-po/sr-RS/browser/chrome/overrides/settingsChange.dtd.po:	0 translated messages, 2 untranslated messages.
-po/sr-RS/browser/chrome/overrides/appstrings.properties.po:	20 translated messages, 6 untranslated messages.
+po/sr-RS/browser/chrome/browser/quitDialog.properties.po:	10 translated messages.
+po/sr-RS/browser/chrome/browser/pageReportFirstTime.dtd.po:	4 translated messages.
+po/sr-RS/browser/chrome/browser/shellservice.properties.po:	9 translated messages.
+po/sr-RS/browser/chrome/overrides/netError.dtd.po:	43 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/overrides/settingsChange.dtd.po:	2 translated messages.
+po/sr-RS/browser/chrome/overrides/appstrings.properties.po:	26 translated messages.
 po/sr-RS/browser/installer/installer.inc.po:	144 translated messages.
 po/sr-RS/browser/installer/mui.properties.po:	43 translated messages.
 po/sr-RS/browser/installer/override.properties.po:	61 translated messages.
 po/sr-RS/browser/installer/custom.properties.po:	57 translated messages.
 po/sr-RS/browser/defines.inc.po:	2 translated messages.
 po/sr-RS/other-licenses/branding/firefox/brand.dtd.po:	3 translated messages.
-po/sr-RS/other-licenses/branding/firefox/brand.properties.po:	6 translated messages, 1 untranslated message.
-po/sr-RS/other-licenses/branding/thunderbird/brand.dtd.po:	2 translated messages, 1 untranslated message.
-po/sr-RS/other-licenses/branding/thunderbird/brand.properties.po:	2 translated messages, 1 untranslated message.
+po/sr-RS/other-licenses/branding/firefox/brand.properties.po:	7 translated messages.
+po/sr-RS/other-licenses/branding/thunderbird/brand.dtd.po:	3 translated messages.
+po/sr-RS/other-licenses/branding/thunderbird/brand.properties.po:	3 translated messages.
 po/sr-RS/extensions/reporter/chrome/reporterOverlay.dtd.po:	3 translated messages.
 po/sr-RS/extensions/reporter/chrome/reportResults.dtd.po:	14 translated messages, 1 untranslated message.
 po/sr-RS/extensions/reporter/chrome/reportWizard.properties.po:	6 translated messages, 3 untranslated messages.
