@@ -62,14 +62,14 @@ po/sr-RS/mail/chrome/messenger/aboutDialog.dtd.po:	5 translated messages.
 po/sr-RS/mail/chrome/messenger/am-addressing.dtd.po:	16 translated messages.
 po/sr-RS/mail/chrome/messenger/filter.properties.po:	38 translated messages.
 po/sr-RS/mail/chrome/messenger/mailviews.properties.po:	5 translated messages.
-po/sr-RS/mail/chrome/messenger/AccountManager.dtd.po:	6 translated messages, 3 untranslated messages.
+po/sr-RS/mail/chrome/messenger/AccountManager.dtd.po:	9 translated messages.
 po/sr-RS/mail/chrome/messenger/downloadheaders.dtd.po:	4 translated messages.
 po/sr-RS/mail/chrome/messenger/fieldMapExport.dtd.po:	4 translated messages.
 po/sr-RS/mail/chrome/messenger/threadpane.dtd.po:	36 translated messages.
 po/sr-RS/mail/chrome/messenger/am-server-top.dtd.po:	51 translated messages.
 po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po:	58 translated messages.
 po/sr-RS/mail/chrome/messenger/msgHdrViewOverlay.dtd.po:	29 translated messages.
-po/sr-RS/mail/chrome/messenger/migration/migration.dtd.po:	14 translated messages, 4 untranslated messages.
+po/sr-RS/mail/chrome/messenger/migration/migration.dtd.po:	18 translated messages.
 po/sr-RS/mail/chrome/messenger/migration/migration.properties.po:	16 translated messages.
 po/sr-RS/mail/chrome/messenger/virtualFolderName.dtd.po:	2 translated messages.
 po/sr-RS/mail/chrome/messenger/folderProps.dtd.po:	34 translated messages.
@@ -97,11 +97,8 @@ po/sr-RS/mail/chrome/messenger/offline.properties.po:	11 translated messages.
 po/sr-RS/mail/chrome/messenger/mailTurboMenu.properties.po:	2 translated messages.
 po/sr-RS/mail/chrome/messenger/mime.properties.po:	46 translated messages.
 po/sr-RS/mail/chrome/messenger/am-junk.dtd.po:	10 translated messages.
-po/sr-RS/mail/chrome/messenger/eudoraImportMsgs.properties.po:	12 translated messages, 14 untranslated messages.
-po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:	po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:29: `msgid' en `msgstr' ingangen eindigen niet allebei met '
-'
-msgfmt: found 1 fatal error
-3 translated messages.
+po/sr-RS/mail/chrome/messenger/eudoraImportMsgs.properties.po:	26 translated messages.
+po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po:	3 translated messages.
 po/sr-RS/mail/chrome/messenger/viewLog.dtd.po:	5 translated messages.
 po/sr-RS/mail/chrome/messenger/FilterEditor.dtd.po:	27 translated messages.
 po/sr-RS/mail/chrome/messenger/newTagDialog.dtd.po:	2 translated messages.
@@ -119,19 +116,19 @@ po/sr-RS/mail/chrome/messenger/preferences/htmlcompose.dtd.po:	8 translated mess
 po/sr-RS/mail/chrome/messenger/preferences/sendoptions.dtd.po:	24 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/compose.dtd.po:	38 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/offline.dtd.po:	13 translated messages.
-po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po:	18 translated messages, 3 untranslated messages.
-po/sr-RS/mail/chrome/messenger/preferences/notifications.dtd.po:	5 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/messenger/preferences/fonts.dtd.po:	44 translated messages, 9 untranslated messages.
-po/sr-RS/mail/chrome/messenger/preferences/display.dtd.po:	27 translated messages, 5 untranslated messages.
-po/sr-RS/mail/chrome/messenger/preferences/privacy.dtd.po:	13 translated messages, 14 untranslated messages.
+po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po:	21 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/notifications.dtd.po:	6 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/fonts.dtd.po:	53 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/display.dtd.po:	32 translated messages.
+po/sr-RS/mail/chrome/messenger/preferences/privacy.dtd.po:	27 translated messages.
 po/sr-RS/mail/chrome/messenger/preferences/receipts.dtd.po:	14 translated messages.
-po/sr-RS/mail/chrome/messenger/am-serverwithnoidentities.dtd.po:	7 translated messages, 1 untranslated message.
+po/sr-RS/mail/chrome/messenger/am-serverwithnoidentities.dtd.po:	8 translated messages.
 po/sr-RS/mail/chrome/messenger/defaultClientDialog.dtd.po:	6 translated messages.
 po/sr-RS/mail/chrome/messenger/msgmdn.properties.po:	14 translated messages.
-po/sr-RS/mail/chrome/messenger/importDialog.dtd.po:	14 translated messages, 11 untranslated messages.
-po/sr-RS/mail/chrome/messenger/am-dsn.properties.po:	0 translated messages, 1 untranslated message.
+po/sr-RS/mail/chrome/messenger/importDialog.dtd.po:	25 translated messages.
+po/sr-RS/mail/chrome/messenger/am-dsn.properties.po:	1 translated message.
 po/sr-RS/mail/chrome/messenger/news.properties.po:	26 translated messages.
-po/sr-RS/mail/chrome/messenger/AccountWizard.dtd.po:	55 translated messages, 1 untranslated message.
+po/sr-RS/mail/chrome/messenger/AccountWizard.dtd.po:	56 translated messages.
 po/sr-RS/mail/chrome/messenger/am-mdn.dtd.po:	16 translated messages.
 po/sr-RS/mail/chrome/messenger/messenger.dtd.po:	277 translated messages, 79 untranslated messages.
 po/sr-RS/mail/chrome/messenger/start.dtd.po:	16 translated messages, 8 untranslated messages.
@@ -232,41 +229,51 @@ po/sr-RS/editor/ui/chrome/dialogs/EditorSaveAsCharset.dtd.po:	5 translated messa
 po/sr-RS/editor/ui/chrome/dialogs/EditorListProperties.dtd.po:	11 translated messages.
 po/sr-RS/editor/ui/chrome/dialogs/EditorSnapToGrid.dtd.po:	4 translated messages.
 po/sr-RS/browser/updater/updater.ini.po:	2 translated messages.
-po/sr-RS/browser/crashreporter/crashreporter-override.ini.po:	0 translated messages, 2 untranslated messages.
-po/sr-RS/browser/chrome/branding/brand.dtd.po:	1 translated message, 1 untranslated message.
-po/sr-RS/browser/chrome/branding/brand.properties.po:	1 translated message, 1 untranslated message.
-po/sr-RS/browser/chrome/browser-region/region.properties.po:	7 translated messages, 3 untranslated messages.
-po/sr-RS/browser/chrome/help/platformStrings.dtd.po:	11 translated messages, 1 untranslated message.
-po/sr-RS/browser/chrome/browser/engineManager.dtd.po:	8 translated messages, 4 untranslated messages.
-po/sr-RS/browser/chrome/browser/searchbar.dtd.po:	1 translated message, 1 untranslated message.
+po/sr-RS/browser/crashreporter/crashreporter-override.ini.po:	2 translated messages.
+po/sr-RS/browser/chrome/branding/brand.dtd.po:	po/sr-RS/browser/chrome/branding/brand.dtd.po:22: dubbele melding definitie...
+po/sr-RS/browser/chrome/branding/brand.dtd.po:19: ...this is the location of the first definition
+msgfmt: found 1 fatal error
+po/sr-RS/browser/chrome/branding/brand.properties.po:	po/sr-RS/browser/chrome/branding/brand.properties.po:22: dubbele melding definitie...
+po/sr-RS/browser/chrome/branding/brand.properties.po:19: ...this is the location of the first definition
+msgfmt: found 1 fatal error
+po/sr-RS/browser/chrome/browser-region/region.properties.po:	10 translated messages.
+po/sr-RS/browser/chrome/help/platformStrings.dtd.po:	12 translated messages.
+po/sr-RS/browser/chrome/browser/engineManager.dtd.po:	12 translated messages.
+po/sr-RS/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr-RS/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
-po/sr-RS/browser/chrome/browser/openLocation.dtd.po:	7 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/browser/openLocation.dtd.po:	8 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd.po:	14 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.properties.po:	5 translated messages.
-po/sr-RS/browser/chrome/browser/aboutRobots.dtd.po:	0 translated messages, 10 untranslated messages.
+po/sr-RS/browser/chrome/browser/aboutRobots.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/search.properties.po:	12 translated messages.
-po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po:	4 translated messages, 3 untranslated messages.
+po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po:	po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po:45: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+msgfmt: found 1 fatal error
+7 translated messages.
 po/sr-RS/browser/chrome/browser/openLocation.properties.po:	1 translated message.
-po/sr-RS/browser/chrome/browser/tabbrowser.dtd.po:	7 translated messages, 3 untranslated messages.
+po/sr-RS/browser/chrome/browser/tabbrowser.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/browser.dtd.po:	182 translated messages.
-po/sr-RS/browser/chrome/browser/history/history.dtd.po:	13 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/browser/history/history.dtd.po:	14 translated messages.
 po/sr-RS/browser/chrome/browser/sanitize.dtd.po:	9 translated messages.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.properties.po:	103 translated messages.
 po/sr-RS/browser/chrome/browser/bookmarks/addBookmark.dtd.po:	18 translated messages.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarksProperties.dtd.po:	9 translated messages.
 po/sr-RS/browser/chrome/browser/bookmarks/bookmarks.dtd.po:	41 translated messages.
-po/sr-RS/browser/chrome/browser/migration/migration.dtd.po:	26 translated messages, 2 untranslated messages.
+po/sr-RS/browser/chrome/browser/migration/migration.dtd.po:	28 translated messages.
 po/sr-RS/browser/chrome/browser/migration/migration.properties.po:	30 translated messages.
-po/sr-RS/browser/chrome/browser/credits.dtd.po:	4 translated messages, 3 untranslated messages.
+po/sr-RS/browser/chrome/browser/credits.dtd.po:	po/sr-RS/browser/chrome/browser/credits.dtd.po:41: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+msgfmt: found 1 fatal error
+7 translated messages.
 po/sr-RS/browser/chrome/browser/page-drawer.dtd.po:	2 translated messages.
-po/sr-RS/browser/chrome/browser/metaData.dtd.po:	22 translated messages, 3 untranslated messages.
+po/sr-RS/browser/chrome/browser/metaData.dtd.po:	25 translated messages.
 po/sr-RS/browser/chrome/browser/sidebar/sidebar.properties.po:	2 translated messages.
-po/sr-RS/browser/chrome/browser/pageReport.dtd.po:	2 translated messages, 2 untranslated messages.
+po/sr-RS/browser/chrome/browser/pageReport.dtd.po:	4 translated messages.
 po/sr-RS/browser/chrome/browser/feeds/subscribe.dtd.po:	3 translated messages.
 po/sr-RS/browser/chrome/browser/feeds/addFeedReader.dtd.po:	4 translated messages.
-po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po:	6 translated messages, 25 untranslated messages.
-po/sr-RS/browser/chrome/browser/pageInfo.dtd.po:	27 translated messages, 42 untranslated messages.
+po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po:	31 translated messages.
+po/sr-RS/browser/chrome/browser/pageInfo.dtd.po:	69 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/content.dtd.po:	6 translated messages, 9 untranslated messages.
 po/sr-RS/browser/chrome/browser/preferences/preferences.dtd.po:	8 translated messages, 4 untranslated messages.
 po/sr-RS/browser/chrome/browser/preferences/preferences.properties.po:	66 translated messages.
@@ -274,28 +281,28 @@ po/sr-RS/browser/chrome/browser/preferences/tabs.dtd.po:	7 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/changeaction.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/downloadactions.dtd.po:	16 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/fallbackEULA.dtd.po:	1 translated message.
-po/sr-RS/browser/chrome/browser/preferences/applications.dtd.po:	0 translated messages, 6 untranslated messages.
+po/sr-RS/browser/chrome/browser/preferences/applications.dtd.po:	6 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/sanitize.dtd.po:	9 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/colors.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/advanced.dtd.po:	43 translated messages.
-po/sr-RS/browser/chrome/browser/preferences/phishEULA.dtd.po:	5 translated messages, 2 untranslated messages.
-po/sr-RS/browser/chrome/browser/preferences/advanced-scripts.dtd.po:	8 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/browser/preferences/phishEULA.dtd.po:	7 translated messages.
+po/sr-RS/browser/chrome/browser/preferences/advanced-scripts.dtd.po:	9 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/feeds.dtd.po:	5 translated messages.
-po/sr-RS/browser/chrome/browser/preferences/languages.dtd.po:	8 translated messages, 1 untranslated message.
-po/sr-RS/browser/chrome/browser/preferences/security.dtd.po:	6 translated messages, 7 untranslated messages.
+po/sr-RS/browser/chrome/browser/preferences/languages.dtd.po:	9 translated messages.
+po/sr-RS/browser/chrome/browser/preferences/security.dtd.po:	13 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/securityWarnings.dtd.po:	7 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/cookies.dtd.po:	19 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/feeds.properties.po:	1 translated message.
-po/sr-RS/browser/chrome/browser/preferences/connection.dtd.po:	22 translated messages, 4 untranslated messages.
-po/sr-RS/browser/chrome/browser/preferences/selectBookmark.dtd.po:	0 translated messages, 2 untranslated messages.
+po/sr-RS/browser/chrome/browser/preferences/connection.dtd.po:	25 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/browser/preferences/selectBookmark.dtd.po:	2 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/fonts.dtd.po:	46 translated messages.
-po/sr-RS/browser/chrome/browser/preferences/applicationManager.properties.po:	0 translated messages, 6 untranslated messages.
-po/sr-RS/browser/chrome/browser/preferences/applicationManager.dtd.po:	0 translated messages, 3 untranslated messages.
+po/sr-RS/browser/chrome/browser/preferences/applicationManager.properties.po:	6 translated messages.
+po/sr-RS/browser/chrome/browser/preferences/applicationManager.dtd.po:	3 translated messages.
 po/sr-RS/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated messages.
-po/sr-RS/browser/chrome/browser/preferences/privacy.dtd.po:	14 translated messages, 6 untranslated messages.
-po/sr-RS/browser/chrome/browser/preferences/main.dtd.po:	15 translated messages, 6 untranslated messages.
-po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po:	23 translated messages, 2 untranslated messages.
-po/sr-RS/browser/chrome/browser/browser.properties.po:	32 translated messages, 52 untranslated messages.
+po/sr-RS/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
+po/sr-RS/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
+po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
+po/sr-RS/browser/chrome/browser/browser.properties.po:	33 translated messages, 51 untranslated messages.
 po/sr-RS/browser/chrome/browser/sessionstore.properties.po:	3 translated messages, 1 untranslated message.
 po/sr-RS/browser/chrome/browser/engineManager.properties.po:	0 translated messages, 5 untranslated messages.
 po/sr-RS/browser/chrome/browser/places/bookmarkProperties.properties.po:	0 translated messages, 12 untranslated messages.

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-25 00:26+0100\n"
+"PO-Revision-Date: 2008-03-26 23:46+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,12 +16,12 @@ msgstr ""
 
 #: brandShortName
 msgid "Firefox"
-msgstr "Firefox"
+msgstr "фајерфокс"
 
 #: brandFullName
 msgid "Mozilla Firefox"
-msgstr "Mozilla Firefox"
+msgstr "Мозилин фајерфокс (Mozilla Firefox)"
 
 #: vendorShortName
 msgid "Mozilla"
-msgstr "Mozilla"
+msgstr "Мозила (Mozilla)"

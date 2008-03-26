@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-25 00:26+0100\n"
+"PO-Revision-Date: 2008-03-26 23:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,31 +16,31 @@ msgstr ""
 
 #: brandShortName
 msgid "Firefox"
-msgstr "Firefox"
+msgstr "фајерфокс"
 
 #: brandFullName
 msgid "Mozilla Firefox"
-msgstr "Mozilla Firefox"
+msgstr "Мозилин фајерфокс (Mozilla Firefox)"
 
 #: vendorShortName
 msgid "Mozilla"
-msgstr "Mozilla"
+msgstr "Мозила (Mozilla)"
 
 #: homePageSingleStartMain
 msgid "Firefox Start, a fast home page with built-in search"
-msgstr ""
+msgstr "Старт фајерфокса, брза почетна страна са уграђеном претрагом"
 
 #: homePageImport
 msgid "Import your home page from %S"
-msgstr "Увезите Вашу домаћу страну %S"
+msgstr "Увезите Вашу почетну страну: %S"
 
 #: homePageMigrationPageTitle
 msgid "Home Page Selection"
-msgstr "Избор домаће стране"
+msgstr "Избор почетне стране"
 
 #: homePageMigrationDescription
 msgid "Please select the home page you wish to use:"
-msgstr "Молимо изаберите домаћу страну коју желите да користите:"
+msgstr "Молимо изаберите почетну страну коју желите да користите:"
 
 #~ msgid "Firefox Start, a fast search page with search results by Google"
 #~ msgstr ""

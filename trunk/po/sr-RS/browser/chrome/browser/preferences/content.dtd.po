@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-25 02:20+0100\n"
+"PO-Revision-Date: 2008-03-26 22:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "&Блокирај искачуће прозоре"
 
 #: popupExceptions.label popupExceptions.accesskey
 msgid "&Exceptions…"
-msgstr ""
+msgstr "&Изузеци…"
 
 #: loadImages.label loadImages.accesskey
 msgid "Load &images automatically"
@@ -30,7 +30,7 @@ msgstr "&Аутоматски учитај слике"
 
 #: exceptions.label exceptions.accesskey
 msgid "E&xceptions…"
-msgstr ""
+msgstr "И&зузеци…"
 
 #: enableJavaScript.label enableJavaScript.accesskey
 msgid "Enable &JavaScript"
@@ -38,7 +38,7 @@ msgstr "Укључи Java&Script"
 
 #: advancedJS.label advancedJS.accesskey
 msgid "Ad&vanced…"
-msgstr ""
+msgstr "&Напредно…"
 
 #: enableJava.label enableJava.accesskey
 msgid "E&nable Java"
@@ -54,27 +54,27 @@ msgstr "Изворно &писмо:"
 
 #: defaultSize.label defaultSize.accesskey
 msgid "&Size:"
-msgstr ""
+msgstr "&Величина:"
 
 #: advancedFonts.label advancedFonts.accesskey
 msgid "&Advanced…"
-msgstr ""
+msgstr "&Напредно…"
 
 #: colors.label colors.accesskey
 msgid "&Colors…"
-msgstr ""
+msgstr "&Боје…"
 
 #: languages.label
 msgid "Languages"
-msgstr ""
+msgstr "Језици"
 
 #: chooseLanguage.label
 msgid "Choose your preferred language for displaying pages"
-msgstr ""
+msgstr "Изаберите омиљени језик за приказ страна"
 
 #: chooseButton.label chooseButton.accesskey
 msgid "Ch&oose…"
-msgstr ""
+msgstr "&Избор…"
 
 #~ msgid "&Exceptions..."
 #~ msgstr "&Изузеци"

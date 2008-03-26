@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/sessionstore.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-11 02:15+0200\n"
+"PO-Revision-Date: 2008-03-26 22:59+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +32,7 @@ msgstr ""
 # so that hitting the more prominent button doesn't lead to dataloss (see bug 346264).
 #: okTitle
 msgid "Restore Previous Session"
-msgstr ""
+msgstr "Обнови претходну сесију"
 
 #: cancelTitle
 msgid "Start New Session"

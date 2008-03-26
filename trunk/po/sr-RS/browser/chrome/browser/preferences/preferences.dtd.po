@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-13 01:05+0200\n"
+"PO-Revision-Date: 2008-03-26 22:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,15 +26,15 @@ msgstr "Поставке за програм &brandShortName;"
 # Luna since widget heights are different based on the OS theme
 #: prefWin.styleWin2
 msgid "width: 42em; min-height: 39em;"
-msgstr ""
+msgstr "width: 42em; min-height: 39em;"
 
 #: prefWin.styleMac2
 msgid "width: 47em; min-height: 40em;"
-msgstr ""
+msgstr "width: 47em; min-height: 40em;"
 
 #: prefWin.styleGNOME2
 msgid "width: 42em; min-height: 39.5em;"
-msgstr ""
+msgstr "width: 42em; min-height: 39.5em;"
 
 #: paneMain.title
 msgid "Main"
@@ -50,7 +50,7 @@ msgstr "Садржај"
 
 #: paneApplications.title
 msgid "Applications"
-msgstr ""
+msgstr "Програми"
 
 #: panePrivacy.title
 msgid "Privacy"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 23:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,16 +16,16 @@ msgstr ""
 
 #: window.title
 msgid "Choose Folder"
-msgstr ""
+msgstr "Изаберите директоријум"
 
 #: window.style
 msgid "width: 36em; height: 18em;"
-msgstr ""
+msgstr "width: 36em; height: 18em;"
 
 #: moveTo.label
 msgid "Move to:"
-msgstr ""
+msgstr "Премести у:"
 
 #: newFolderButton.label newFolderButton.accesskey
 msgid "&New Folder"
-msgstr ""
+msgstr "&Нови директоријум"

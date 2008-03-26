@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-05 02:28+0100\n"
+"PO-Revision-Date: 2008-03-26 23:22+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,11 +53,11 @@ msgstr ""
 
 #: pageInfo.page.title
 msgid "Page Info - %S"
-msgstr ""
+msgstr "Подаци о страни - %S"
 
 #: pageInfo.frame.title
 msgid "Frame Info - %S"
-msgstr ""
+msgstr "Подаци о оквиру - %S"
 
 #: noPageTitle
 msgid "Untitled Page:"
@@ -77,11 +77,11 @@ msgstr "Неодређено"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: mediaImg
 msgid "Image"
@@ -109,43 +109,43 @@ msgstr "Поље уноса"
 
 #: mediaFileSize
 msgid "%S KB"
-msgstr ""
+msgstr "%S KB"
 
 #: mediaSize mediaDimensions
 msgid "%Spx × %Spx"
-msgstr "%S пиксела × %S пиксела"
+msgstr "%S тач. × %S тач."
 
 #: mediaSelectFolder
 msgid "Select a Folder to Save the Images"
-msgstr ""
+msgstr "Изаберите директоријум за чување слика"
 
 #: mediaBlockImage
 msgid "Block Images from %S"
-msgstr ""
+msgstr "Блокирај слике са: %S"
 
 #: mediaUnknownNotCached
 msgid "Unknown (not cached)"
-msgstr ""
+msgstr "Непознат (није кеширан)"
 
 #: mediaImageType
 msgid "%S Image"
-msgstr ""
+msgstr "Слика: %S"
 
 #: mediaAnimatedImageType
 msgid "%S Image (animated, %S frames)"
-msgstr ""
+msgstr "Слика: %S (анимирана, кадрова %S)"
 
 #: mediaDimensionsScaled
 msgid "%Spx × %Spx (scaled to %Spx × %Spx)"
-msgstr ""
+msgstr "%Sт. × %Sт. (скалирано на %Sт. × %Sт.)"
 
 #: generalQuirksMode
 msgid "Quirks mode"
-msgstr "Quirks mode"
+msgstr "Толерантан начин рада"
 
 #: generalStrictMode
 msgid "Standards compliance mode"
-msgstr "Standards compliance mode"
+msgstr "Поштовање стандарда"
 
 #: generalNotCached
 msgid "Not cached"
@@ -161,49 +161,51 @@ msgstr "Кеш меморија"
 
 #: generalSize
 msgid "%S KB (%S bytes)"
-msgstr "%S Кб (%S бајт)"
+msgstr "%S KB (бајтова: %S)"
 
 #: generalMetaTag
 msgid "Meta (1 tag)"
-msgstr ""
+msgstr "Мета (1 ознака)"
 
 #: generalMetaTags
 msgid "Meta (%S tags)"
-msgstr ""
+msgstr "Мета (ознака: %S)"
 
 #: generalSiteIdentity
 msgid ""
 "This web site is owned by %S\n"
 "This has been verified by %S"
 msgstr ""
+"Власник веб сајта: %S\n"
+"Контролор веб сајта: %S"
 
 #: feedRss
 msgid "RSS"
-msgstr ""
+msgstr "РСС"
 
 #: feedAtom
 msgid "Atom"
-msgstr ""
+msgstr "Атом"
 
 #: feedXML
 msgid "XML"
-msgstr ""
+msgstr "ИксМЛ"
 
 #: securityCertText
 msgid "This web site provides a certificate to verify its identity."
-msgstr ""
+msgstr "Овај сајт обезбеђује сертификат о идентитету."
 
 #: securityNoIdentity
 msgid "This web site does not supply identity information."
-msgstr ""
+msgstr "Овај веб сајт не обезбеђује податке о идентитету."
 
 #: securityOneVisit
 msgid "Yes, once"
-msgstr ""
+msgstr "Да, једном"
 
 #: securityNVisits
 msgid "Yes, %S times"
-msgstr ""
+msgstr "Да, оволико пута: %S"
 
 #~ msgid "Page Info"
 #~ msgstr "Подаци о страни"

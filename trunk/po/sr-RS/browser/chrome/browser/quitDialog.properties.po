@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 23:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,41 +16,41 @@ msgstr ""
 
 #: quitDialogTitle
 msgid "Quit %S"
-msgstr ""
+msgstr "Крај: %S"
 
 #: restartDialogTitle
 msgid "Restart %S"
-msgstr ""
+msgstr "Поновни старт: %S"
 
 #: quitTitle
 msgid "&Quit"
-msgstr ""
+msgstr "&Крај"
 
 #: restartTitle
 msgid "&Restart"
-msgstr ""
+msgstr "&Поновни старт"
 
 #: cancelTitle
 msgid "&Cancel"
-msgstr ""
+msgstr "&Откажи"
 
 #: saveTitle
 msgid "&Save and Quit"
-msgstr ""
+msgstr "&Сачувај и заврши"
 
 #: neverAsk
 msgid "Do not ask next time"
-msgstr ""
+msgstr "Не питај идући пут"
 
 #: message
 msgid ""
 "Do you want %S to save your tabs and windows for the next time it starts?"
-msgstr ""
+msgstr "Да ли желите да програм %S сачува језичке и прозоре за наредно покретање?"
 
 #: messageNoWindows
 msgid "Do you want %S to save your tabs for the next time it starts?"
-msgstr ""
+msgstr "Да ли желите да програм %S сачува језичке за наредно покретање?"
 
 #: messageRestart
 msgid "%S will try to restore your tabs and windows when it restarts."
-msgstr ""
+msgstr "Програм %S ће покушати да врати језичке и прозоре при наредном покретању."

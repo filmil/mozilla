@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-18 01:32+0100\n"
+"PO-Revision-Date: 2008-03-26 23:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,23 +55,23 @@ msgstr "Адреса није исправна и не може бити учи�
 
 #: fileNotFound
 msgid "Firefox can't find the file at %S."
-msgstr "Firefox не може да пронађе датотеку на %S."
+msgstr "фајерфокс не може да пронађе датотеку на %S."
 
 #: dnsNotFound
 msgid "Firefox can't find the server at %S."
-msgstr "Firefox не може да пронађе сервер на %S."
+msgstr "фајерфокс не може да пронађе сервер на %S."
 
 #: protocolNotFound
 msgid ""
 "Firefox doesn't know how to open this address, because the protocol (%S) "
 "isn't associated with any program."
 msgstr ""
-"Firefox не зна како да отвори ову адресу, зато што протокол (%S) није "
+"фајерфокс не зна како да отвори ову адресу, зато што протокол (%S) није "
 "додељен ни једном програму."
 
 #: connectionFailure
 msgid "Firefox can't establish a connection to the server at %S."
-msgstr "Firefox не може да оствари везу на сервер на %S."
+msgstr "фајерфокс не може да оствари везу на сервер на %S."
 
 #: netInterrupt
 msgid "The connection to %S was interrupted while the page was loading."
@@ -86,7 +86,7 @@ msgid ""
 "Firefox has detected that the server is redirecting the request for this "
 "address in a way that will never complete."
 msgstr ""
-"Firefox је препознао да сервер преусмерава захтев за адресом на начин да га "
+"фајерфокс је препознао да сервер преусмерава захтев за адресом на начин да га "
 "никад неће завршити."
 
 # # LOCALIZATION NOTE (confirmRepostPrompt): In this item, don't translate "%S"
@@ -94,15 +94,15 @@ msgstr ""
 msgid ""
 "To display this page, %S must send information that will repeat any action "
 "(such as a search or order confirmation) that was performed earlier."
-msgstr ""
+msgstr "Да би ова страна била приказана, %S мора да пошаље податке који ће поновити свако дејство (попут претраге или потврде наруџбе) која је претходно изведено."
 
 #: resendButton.label
 msgid "Resend"
-msgstr ""
+msgstr "Шаљи поново"
 
 #: unknownSocketType
 msgid "Firefox doesn't know how to communicate with the server."
-msgstr "Firefox не зна како да комуницира са сервером."
+msgstr "фајерфокс не зна како да комуницира са сервером."
 
 #: netReset
 msgid "The connection to the server was reset while the page was loading."
@@ -110,7 +110,7 @@ msgstr "Веза са сервером је обновљена приликом 
 
 #: netOffline
 msgid "Firefox is currently in offline mode and can't browse the Web."
-msgstr "Firefox тренутно ради ван мреже и не може да приступа Интернету."
+msgstr "фајерфокс тренутно ради ван мреже и не може да приступа Интернету."
 
 #: isprinting
 msgid "The document cannot change while Printing or in Print Preview."
@@ -122,31 +122,29 @@ msgstr ""
 msgid ""
 "This address uses a network port which is normally used for purposes other "
 "than Web browsing. Firefox has canceled the request for your protection."
-msgstr ""
-"Ова адреса користи мрежни порт који се обично користи за друге сврхе које "
-"нису сурфовање интернетом. Firefox је прекинуо захтев зарад Ваше сигурности."
+msgstr "Ова адреса користи мрежни порт који се обично не користи за сурфовање интернетом. Фајерфокс је прекинуо захтев ради Ваше сигурности."
 
 #: proxyResolveFailure
 msgid "Firefox is configured to use a proxy server that can't be found."
-msgstr "Firefox је подешен да користи прокси сервер који је немогуће пронаћи."
+msgstr "Фајерфокс је подешен да користи заступнички сервер који је немогуће пронаћи."
 
 #: proxyConnectFailure
 msgid ""
 "Firefox is configured to use a proxy server that is refusing connections."
-msgstr "Firefox је подешен да користи прокси сервер који одбија везу."
+msgstr "Фајерфокс је подешен да користи заступнички сервер који одбија везу."
 
 #: contentEncodingError
 msgid ""
 "The page you are trying to view cannot be shown because it uses an invalid "
 "or unsupported form of compression."
-msgstr ""
+msgstr "Страна коју желите да видите не може бити приказана јер користи неисправан или неподржан вид компресије."
 
 #: unsafeContentType
 msgid ""
 "The page you are trying to view cannot be shown because it is contained in a "
 "file type that may not be safe to open. Please contact the website owners to "
 "inform them of this problem."
-msgstr ""
+msgstr "Страна коју желите да видите не може бити приказана јер се налази унутар врсте датотеке која се не може безбедно отворити.  Молимо да се обратите власницима сајта и обавестите их о овом проблему."
 
 #: externalProtocolTitle
 msgid "External Protocol Request"
@@ -194,13 +192,13 @@ msgstr "Покрени програм"
 msgid ""
 "The site at %S has been reported as an attack site and has been blocked "
 "based on your security preferences."
-msgstr ""
+msgstr "Сајт на адреси %S је пријављен као злонамеран сајт и приступ њему је блокиран на основу безбедносних подешавања."
 
 #: phishingBlocked
 msgid ""
 "The web site at %S has been reported as a web forgery designed to trick "
 "users into sharing personal or financial information."
-msgstr ""
+msgstr "Сајт на адреси %S је пријављен као мрежни фалсификат направљен како би кориснике навео на откривање личних или финансијских података."
 
 #~ msgid ""
 #~ "The page you are trying to view contains POSTDATA that has expired from "

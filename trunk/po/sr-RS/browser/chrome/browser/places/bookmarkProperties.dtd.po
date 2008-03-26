@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 23:06+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,48 +16,48 @@ msgstr ""
 
 #: bookmarks.name.label bookmarks.name.accesskey
 msgid "&Name:"
-msgstr ""
+msgstr "&Име:"
 
 #: bookmarks.location.label bookmarks.location.accesskey
 msgid "&Location:"
-msgstr ""
+msgstr "&Место:"
 
 #: bookmarks.keyword.label bookmarks.keyword.accesskey
 msgid "&Keyword:"
-msgstr ""
+msgstr "&Кључна реч:"
 
 #: bookmarks.description.label bookmarks.description.accesskey
 msgid "&Description:"
-msgstr ""
+msgstr "&Опис:"
 
 #: bookmarks.liveTitlesSeparator.label
 msgid "Live Titles"
-msgstr ""
+msgstr "Живи наслови"
 
 #: bookmarks.createIn.label bookmarks.createIn.accesskey
 msgid "&Create in:"
-msgstr ""
+msgstr "&Направи у:"
 
 #: bookmarks.feed_location.label bookmarks.feed_location.accesskey
 msgid "&Feed Location:"
-msgstr ""
+msgstr "Место &довода:"
 
 #: bookmarks.site_location.label bookmarks.site_location.accesskey
 msgid "&Site Location:"
-msgstr ""
+msgstr "Место са&јта:"
 
 #: bookmarks.loadInSidebar.label bookmarks.loadInSidebar.accesskey
 msgid "L&oad this bookmark in the sidebar"
-msgstr ""
+msgstr "У&читај ову забелешку у бочну траку"
 
 #: bookmarks.expanderDown.tooltip
 msgid "Show all the bookmarks folders"
-msgstr ""
+msgstr "Прикажи све директоријуме са забелешкама"
 
 #: bookmarks.expanderUp.tooltip
 msgid "Hide"
-msgstr ""
+msgstr "Сакриј"
 
 #: bookmarks.newFolderButton.label bookmarks.newFolderButton.accesskey
 msgid "N&ew Folder"
-msgstr ""
+msgstr "Нови ди&ректоријум"

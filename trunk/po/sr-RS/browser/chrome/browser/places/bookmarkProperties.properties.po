@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 23:02+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,48 +16,48 @@ msgstr ""
 
 #: dialogAcceptLabelAddItem
 msgid "Add"
-msgstr ""
+msgstr "Додај"
 
 #: dialogAcceptLabelAddMulti
 msgid "Add Bookmarks"
-msgstr ""
+msgstr "Додај забелешке"
 
 #: dialogAcceptLabelEdit
 msgid "Save Changes"
-msgstr ""
+msgstr "Сачувај измене"
 
 #: dialogTitleAddBookmark
 msgid "Add Bookmark"
-msgstr ""
+msgstr "Додај забелешку"
 
 #: dialogTitleAddLivemark
 msgid "Add Live Bookmark"
-msgstr ""
+msgstr "Додај живу забелешку"
 
 #: dialogTitleAddFolder
 msgid "Add Folder"
-msgstr ""
+msgstr "Додај директоријум"
 
 #: dialogTitleAddMulti
 msgid "Bookmark All Tabs"
-msgstr ""
+msgstr "Забележи све језичке"
 
 #: dialogTitleEdit
 msgid "Properties for \"%S\""
-msgstr ""
+msgstr "Својства за „%S‟"
 
 #: bookmarkAllTabsDefault
 msgid "[Folder Name]"
-msgstr ""
+msgstr "[Име директоријума]"
 
 #: newFolderDefault
 msgid "New Folder"
-msgstr ""
+msgstr "Нови директоријум"
 
 #: newBookmarkDefault
 msgid "New Bookmark"
-msgstr ""
+msgstr "Нова забелешка"
 
 #: newLivemarkDefault
 msgid "New Live Bookmark"
-msgstr ""
+msgstr "Нова жива забелешка"

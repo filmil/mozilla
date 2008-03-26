@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-25 00:59+0100\n"
+"PO-Revision-Date: 2008-03-26 23:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,18 +20,18 @@ msgid ""
 "&brandShortName; has automatically closed the pop-up window.  Whenever "
 "&brandShortName; blocks these pop-ups, you will see an icon on the status "
 "bar."
-msgstr ""
+msgstr "Веб сајт је покушао да отвори искачући прозор без Ваше дозволе.  Програм &brandShortName; је аутоматски затворио искачући прозор.  Увек када &brandShortName; блокира ове прозоре, видећете сличицу на статусној траци."
 
 #: endDescription.label
 msgid ""
 "You can click on this icon to see which sites &brandShortName; blocked and "
 "to allow those sites to open pop-ups if they are required for the site to "
 "function correctly."
-msgstr ""
+msgstr "Можете притиснути ту иконицу да видите које сајтове &brandShortName; блокира и да дозволите сајтовима да отварају искачуће прозоре, ако су неопходни за исправан рад сајта."
 
 #: caption.label
 msgid "About Pop-up Blocking"
-msgstr ""
+msgstr "О блокирању искачућих прозора"
 
 #: done.label
 msgid "Done"
