@@ -1,3 +1,13 @@
+2008-03-26  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr-RS/browser/chrome/browser/preferences/connection.dtd.po: Updated.
+
+	* po/sr-RS/browser/chrome/browser/feeds/subscribe.properties.po: Updated.
+
+	* po/sr-RS/mail/chrome/messenger/preferences/connection.dtd.po: Update.
+
+	* po/sr-RS/mail/chrome/messenger/offlineStartup.properties.po: Updated translation.
+
 2008-03-25  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/mail/chrome/messenger/SearchDialog.dtd.po: Fully translated.

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-11 01:27+0200\n"
+"PO-Revision-Date: 2008-03-26 21:36+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Велико хвала нашим"
 
 #: credit.contributors2
 msgid "contributors"
-msgstr ""
+msgstr "приложници"
 
 # localization credits look like this:
 # 
@@ -38,7 +38,7 @@ msgstr ""
 #
 #: credit.translation
 msgid "_: credit.translation\n"
-msgstr ""
+msgstr "<h3>Преводиоци</h3><ul><li>Никола Радовановић</li><li>Горан Ракић</li><li>Игор Милетић</li><li>Љубиша Радовановић</li><li>Филип Милетић</li><li>Иван Ичин</li><li>„Наше писмо‟</li></ul>"
 
 #: credit.memory
 msgid "In Fond Memory Of"
@@ -46,7 +46,7 @@ msgstr "У сећање на"
 
 #: credit.poweredByGeckoReg
 msgid "Powered by Gecko&reg;"
-msgstr ""
+msgstr "Покреће геко (Gecko&reg;)"
 
 #~ msgid "Engineering Leads"
 #~ msgstr "Водећи инжењери"

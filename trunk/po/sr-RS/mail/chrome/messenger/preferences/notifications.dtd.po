@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-12-25 01:50+0100\n"
+"PO-Revision-Date: 2008-03-26 20:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: notificationsDialog2.title
 msgid "Customize New Mail Alert"
-msgstr ""
+msgstr "Прилагођено обавештење о пошти"
 
 #: window.width
 msgid ""

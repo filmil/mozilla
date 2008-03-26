@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 22:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,10 +16,10 @@ msgstr ""
 
 #: selectBookmark.title
 msgid "Set Home Page"
-msgstr ""
+msgstr "Подеси почетну страну"
 
 #: selectBookmark.label
 msgid ""
 "Choose a Bookmark to be your Home Page. If you choose a folder, the "
 "Bookmarks in that folder will be opened in Tabs."
-msgstr ""
+msgstr "Изаберите забелешку која ће да постане Ваша почетна страна.  Ако изаберете директоријум, забелешке из тог директоријума биће отворене у језичцима."

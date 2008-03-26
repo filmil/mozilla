@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 23:14+0200\n"
+"PO-Revision-Date: 2008-03-26 22:04+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -86,11 +86,11 @@ msgstr "Белешке о &издању"
 
 #: updateCmd.label updateCmd.accesskey
 msgid "Check f&or Updates…"
-msgstr ""
+msgstr "Потражи &доградње…"
 
 #: preferencesCmdMac.label
 msgid "Preferences…"
-msgstr ""
+msgstr "Поставке…"
 
 #: preferencesCmdMac.commandkey
 msgid ","

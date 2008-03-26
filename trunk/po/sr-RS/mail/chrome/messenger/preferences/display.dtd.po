@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:21+0200\n"
+"PO-Revision-Date: 2008-03-26 20:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -96,11 +96,11 @@ msgstr "За долазеће поруке"
 
 #: colors.label
 msgid "Colors"
-msgstr ""
+msgstr "Боје"
 
 #: overrideColors.label
 msgid "When displaying messages, use the following colors:"
-msgstr ""
+msgstr "При приказивању порука, користи следеће боје:"
 
 #: textColor.label textColor.accesskey
 msgid "&Text Color:"
@@ -135,15 +135,15 @@ msgstr "&Уклони"
 # Fonts
 #: fontAndEncodingsDescription.label
 msgid "Configure the fonts and encodings used by &brandShortName;"
-msgstr ""
+msgstr "Подешавање боја и знакова које користи &brandShortName;"
 
 #: fontsAndEncodingsCaption.label
 msgid "Fonts &amp; Encodings"
-msgstr ""
+msgstr "Писма и кодирања"
 
 #: fontOptions.label fontOptions.accesskey
 msgid "&Fonts…"
-msgstr ""
+msgstr "&Писма…"
 
 #~ msgid "Message Wrapping"
 #~ msgstr "Прелом поруке"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-12 01:21+0200\n"
+"PO-Revision-Date: 2008-03-26 20:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,11 +21,11 @@ msgstr "Чаробњак за увоз"
 #: importFrom.label
 msgid ""
 "Import Options, Account Settings, Address Book, Filters and other data from:"
-msgstr ""
+msgstr "Увоз опција, подешавања налога, адресара, филтера и осталих података из:"
 
 #: importFromUnix.label
 msgid "Import Preferences, Account Settings, Address Book and other data from:"
-msgstr ""
+msgstr "Увоз поставки, подешавања налога, адресара и других података из:"
 
 #: importFromNothing.label importFromNothing.accesskey
 msgid "&Don't import anything"
@@ -78,11 +78,11 @@ msgstr "Изаберите ставке за увоз:"
 
 #: migrating.title
 msgid "Importing…"
-msgstr ""
+msgstr "Увоз…"
 
 #: migrating.label
 msgid "The following items are currently being imported…"
-msgstr ""
+msgstr "Наредне ставке се тренутно увозе…"
 
 #: selectProfile.title
 msgid "Select Profile"

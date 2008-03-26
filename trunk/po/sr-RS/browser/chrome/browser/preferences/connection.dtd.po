@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-13 01:17+0200\n"
+"PO-Revision-Date: 2008-03-26 21:59+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,11 +35,11 @@ msgstr "Избор посредника (proxy) за приступ Интерн
 
 #: noProxyTypeRadio.label noProxyTypeRadio.accesskey
 msgid "No prox&y"
-msgstr ""
+msgstr "&Без посредника (proxy)"
 
 #: systemTypeRadio.label systemTypeRadio.accesskey
 msgid "&Use system proxy settings"
-msgstr ""
+msgstr "Користи &системска подешавања посредника"
 
 #: WPADTypeRadio.label WPADTypeRadio.accesskey
 msgid "Auto-detect proxy settings for this net&work"
@@ -67,23 +67,23 @@ msgstr "Пос&редник за &Gopher:"
 
 #: http.label http.accesskey
 msgid "&HTTP Proxy:"
-msgstr ""
+msgstr "Посредник за &ХТТП:"
 
 #: ssl.label ssl.accesskey
 msgid "&SSL Proxy:"
-msgstr "Посре&дник за &SSL:"
+msgstr "Посредник за &ССЛ:"
 
 #: socks.label socks.accesskey
 msgid "SO&CKS Host:"
-msgstr "Доме&н за SOCKS:"
+msgstr "Доме&н за СОКС (SOCKS):"
 
 #: socks4.label socks4.accesskey
 msgid "SOC&KS v4"
-msgstr "SOCKS в&4"
+msgstr "СОКС в&4"
 
 #: socks5.label socks5.accesskey
 msgid "SOCKS &v5"
-msgstr "SOCKS в&5"
+msgstr "СОКС в&5"
 
 #: port.label
 msgid "Port:"
@@ -91,15 +91,15 @@ msgstr "Порт:"
 
 #: HTTPport.accesskey
 msgid "P"
-msgstr "P"
+msgstr "П"
 
 #: SSLport.accesskey
 msgid "o"
-msgstr "o"
+msgstr "с"
 
 #: FTPport.accesskey
 msgid "r"
-msgstr "r"
+msgstr "р"
 
 # No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window
 #: gopherPort.accesskey

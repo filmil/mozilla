@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 23:23+0200\n"
+"PO-Revision-Date: 2008-03-26 21:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "Заслуге"
 
 #: copyright.accesskey
 msgid "C"
-msgstr ""
+msgstr "З"
 
 #: aboutLink
 msgid "&lt; About &brandFullName;"
@@ -32,7 +32,7 @@ msgstr "&lt; О програму &brandFullName;"
 
 #: aboutLink.accesskey
 msgid "A"
-msgstr ""
+msgstr "О"
 
 #: aboutVersion
 msgid "version"
@@ -42,7 +42,7 @@ msgstr "издање"
 msgid ""
 "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the Firefox "
 "logos are trademarks of the Mozilla Foundation.  All rights reserved."
-msgstr ""
+msgstr "&#169;1998-2008 Приложници. Сва права су задржана.  Фајерфокс (Firefox) и фајерфоксови логотипови су робна марка Мозилине задужбине.  Сва права су задржана.\n"
 
 #~ msgid ""
 #~ "&#169;1998-2006 Contributors. All Rights Reserved. Firefox and the "

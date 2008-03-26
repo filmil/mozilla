@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-11 01:25+0200\n"
+"PO-Revision-Date: 2008-03-26 21:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,14 +57,14 @@ msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "600"
-msgstr ""
+msgstr "600"
 
 #: pageInfoWindow.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "500"
-msgstr ""
+msgstr "500"
 
 #: copy.key
 msgid "C"
@@ -136,11 +136,11 @@ msgstr "Садржај"
 
 #: generalSecurityMore
 msgid "More"
-msgstr ""
+msgstr "Још"
 
 #: generalSecurityMore.accesskey
 msgid "o"
-msgstr ""
+msgstr "ј"
 
 #: mediaTab
 msgid "Media"
@@ -152,15 +152,15 @@ msgstr "M"
 
 #: mediaLocation
 msgid "Location:"
-msgstr ""
+msgstr "Место:"
 
 #: mediaText
 msgid "Associated Text:"
-msgstr ""
+msgstr "Придружени текст:"
 
 #: mediaAltHeader
 msgid "Alternate Text"
-msgstr "Допунски текст"
+msgstr "Текст за замену"
 
 #: mediaAddress
 msgid "Address"
@@ -172,7 +172,7 @@ msgstr "Врста"
 
 #: mediaSize
 msgid "Size"
-msgstr ""
+msgstr "Величина"
 
 #: mediaCount
 msgid "Count"
@@ -180,7 +180,7 @@ msgstr "Укупно"
 
 #: mediaDimension
 msgid "Dimensions:"
-msgstr ""
+msgstr "Димензије:"
 
 #: mediaLongdesc
 msgid "Long Description:"
@@ -188,15 +188,15 @@ msgstr "Дуги опис:"
 
 #: mediaBlockImage.accesskey
 msgid "B"
-msgstr ""
+msgstr "б"
 
 #: mediaSaveAs
 msgid "Save As…"
-msgstr ""
+msgstr "Сачувај као…"
 
 #: mediaSaveAs2.accesskey
 msgid "e"
-msgstr ""
+msgstr "ч"
 
 #: mediaPreview
 msgid "Media Preview:"
@@ -204,135 +204,135 @@ msgstr "Преглед медија:"
 
 #: feedTab
 msgid "Feeds"
-msgstr ""
+msgstr "Доводи"
 
 #: feedTab.accesskey
 msgid "F"
-msgstr "F"
+msgstr "Д"
 
 #: feedSubscribe
 msgid "Subscribe"
-msgstr ""
+msgstr "Претплата"
 
 #: feedSubscribe.accesskey
 msgid "u"
-msgstr ""
+msgstr "п"
 
 #: permTab
 msgid "Permissions"
-msgstr ""
+msgstr "Дозволе"
 
 #: permTab.accesskey
 msgid "P"
-msgstr ""
+msgstr "Д"
 
 #: permUseDefault
 msgid "Use Default"
-msgstr ""
+msgstr "Користи изворно"
 
 #: permAllow
 msgid "Allow"
-msgstr ""
+msgstr "Дозволи"
 
 #: permAllowSession
 msgid "Allow for Session"
-msgstr ""
+msgstr "Дозволи за сесију"
 
 #: permBlock
 msgid "Block"
-msgstr ""
+msgstr "Блокирај"
 
 #: permissionsFor
 msgid "Permissions for:"
-msgstr ""
+msgstr "Дозволе за:"
 
 #: permImage
 msgid "Load Images"
-msgstr ""
+msgstr "Учитавај слике"
 
 #: permPopup
 msgid "Open Pop-up Windows"
-msgstr ""
+msgstr "Отварај искачуће прозоре"
 
 #: permCookie
 msgid "Set Cookies"
-msgstr ""
+msgstr "Постави колачиће"
 
 #: permInstall
 msgid "Install Extensions or Themes"
-msgstr ""
+msgstr "Инсталација продужетака и тема"
 
 #: securityTab
 msgid "Security"
-msgstr ""
+msgstr "Безбедност"
 
 #: securityTab.accesskey
 msgid "S"
-msgstr "S"
+msgstr "н"
 
 #: securityHeader
 msgid "Security information for this page"
-msgstr ""
+msgstr "Безбедносни подаци о овој страни"
 
 #: securityView.certView
 msgid "View Certificate"
-msgstr ""
+msgstr "Преглед сертификата"
 
 #: securityView.accesskey
 msgid "V"
-msgstr ""
+msgstr "ф"
 
 #: securityView.unknown
 msgid "Unknown"
-msgstr ""
+msgstr "Непознат"
 
 #: securityView.identity.header
 msgid "Web Site Identity"
-msgstr ""
+msgstr "Идентитет сајта"
 
 #: securityView.identity.owner
 msgid "Owner: "
-msgstr ""
+msgstr "Власник: "
 
 #: securityView.identity.domain
 msgid "Web site: "
-msgstr ""
+msgstr "Веб сајт: "
 
 #: securityView.identity.verifier
 msgid "Verified by: "
-msgstr ""
+msgstr "Проверио: "
 
 #: securityView.privacy.header
 msgid "Privacy &amp; History"
-msgstr ""
+msgstr "Приватност и историјат"
 
 #: securityView.privacy.history
 msgid "Have I visited this web site before today?"
-msgstr ""
+msgstr "Да ли сам овај сајт посетио раније?"
 
 #: securityView.privacy.cookies
 msgid "Is this web site storing information (cookies) on my computer?"
-msgstr ""
+msgstr "Да лиовај сајт чува податке (колачиће) на мом рачунару?"
 
 #: securityView.privacy.viewCookies
 msgid "View Cookies"
-msgstr ""
+msgstr "Преглед колачића"
 
 #: securityView.privacy.viewCookies.accessKey
 msgid "k"
-msgstr ""
+msgstr "г"
 
 #: securityView.privacy.passwords
 msgid "Have I saved any passwords for this web site?"
-msgstr ""
+msgstr "Да ли чувам иједну лозинку за овај сајт?"
 
 #: securityView.privacy.viewPasswords
 msgid "View Saved Passwords"
-msgstr ""
+msgstr "Преглед сачуваних лозинки"
 
 #: securityView.technical.header
 msgid "Technical Details"
-msgstr ""
+msgstr "Технички детаљи"
 
 # 
 # # ***** BEGIN LICENSE BLOCK *****

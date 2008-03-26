@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/openLocation.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-03-26 21:27+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,13 +19,11 @@ msgstr ""
 msgid ""
 "Enter the web location (URL), or specify the local file you would like to "
 "open:"
-msgstr ""
-"Унесите Интернет адрсу (URL) или укажите датотеку на диску, који желите "
-"отворити:"
+msgstr "Унесите адресу са интернета (URL) или име датотеке на диску које желите да отворите:"
 
 #: chooseFile.label
 msgid "Choose File…"
-msgstr ""
+msgstr "Избор датотеке…"
 
 #: newWindow.label
 msgid "New Window"
@@ -38,7 +35,7 @@ msgstr "Нови језичак"
 
 #: topWindow.label
 msgid "Current Window"
-msgstr "У овом прозору Навигатора"
+msgstr "У тренутном прозору"
 
 #: caption.label
 msgid "Open Web Location"

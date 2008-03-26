@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-15 00:43+0200\n"
+"PO-Revision-Date: 2008-03-26 21:57+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,15 +27,15 @@ msgstr "&Упозори ме ако ел. места пробају да инс�
 # 
 #: tellMaybeAttackSite.label tellMaybeAttackSite.accesskey
 msgid "Tell me if the site I'm visiting is a suspected attac&k site"
-msgstr ""
+msgstr "Обавести ме ако је сајт ког посећујем потенцијално &опасан"
 
 #: tellMaybeForgery.label tellMaybeForgery.accesskey
 msgid "&Tell me if the site I'm visiting is a suspected forgery"
-msgstr ""
+msgstr "&Обавести ме ако је сајт ког посећујем могући фалсификат"
 
 #: addonExceptions.label addonExceptions.accesskey
 msgid "&Exceptions…"
-msgstr ""
+msgstr "&Изузеци…"
 
 #: passwords.label
 msgid "Passwords"
@@ -47,7 +47,7 @@ msgstr "&Запамти лозинке за ел. места"
 
 #: passwordExceptions.label passwordExceptions.accesskey
 msgid "E&xceptions…"
-msgstr ""
+msgstr "И&зузеци…"
 
 #: useMasterPassword.label useMasterPassword.accesskey
 msgid "&Use a master password"
@@ -55,11 +55,11 @@ msgstr "&Користи главну лозинку"
 
 #: changeMasterPassword.label changeMasterPassword.accesskey
 msgid "Change &Master Password…"
-msgstr ""
+msgstr "Измена &главне лозинке…"
 
 #: savedPasswords.label savedPasswords.accesskey
 msgid "Saved &Passwords…"
-msgstr ""
+msgstr "Сачуване &лозинке…"
 
 #: warnings.label
 msgid "Warning Messages"
@@ -71,7 +71,7 @@ msgstr "Изаберите поруке упозорења које желите
 
 #: warningSettings.label warningSettings.accesskey
 msgid "&Settings…"
-msgstr ""
+msgstr "&Подешавања…"
 
 # The methods by which forged (phished) sites will be detected by phishing
 # providers will vary from human review to machine-based heuristics to a

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-25 02:04+0100\n"
+"PO-Revision-Date: 2008-03-26 21:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgstr "&Уклони"
 
 #: languages.customize.selectLanguage.label
 msgid "Select a language to add…"
-msgstr ""
+msgstr "Избор језика ког треба додати…"
 
 #: languages.customize.addButton.label languages.customize.addButton.accesskey
 msgid "&Add"

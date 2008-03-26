@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 01:03+0100\n"
+"PO-Revision-Date: 2008-03-26 21:05+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "Увоз"
 
 #: importDialog.allTitle
 msgid "Import everything"
-msgstr ""
+msgstr "Увпоз свега"
 
 #: importDialog.mailTitle
 msgid "Mail"
@@ -95,43 +95,43 @@ msgstr "Подешавања"
 
 #: importDialog.filtersTitle
 msgid "Filters"
-msgstr ""
+msgstr "Филтери"
 
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "40em"
-msgstr ""
+msgstr "40em"
 
 #: window.macWidth
 msgid "45em"
-msgstr ""
+msgstr "45em"
 
 #: importTitle.label
 msgid "&brandShortName; Import Wizard"
-msgstr ""
+msgstr "Чаробњак за увоз за програм &brandShortName;"
 
 #: importDesc.label
 msgid "Import Mail, Address Books, Settings, and Filters from other programs"
-msgstr ""
+msgstr "Увоз поште, адресара, подешавања и филтера из других програма"
 
 #: importDescription.label
 msgid ""
 "This wizard will import mail messages, address book entries, preferences, "
 "and/or filters from other mail programs and common address book formats into "
 "&brandShortName;."
-msgstr ""
+msgstr "Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или филтере из других програма за ел. пошту и опште познате формате адресара у &brandShortName;."
 
 #: importDescription2.label
 msgid ""
 "Once they have been imported, you will be able to access them from within "
 "&brandShortName;."
-msgstr ""
+msgstr "Када су једном увезени, моћи ћете да им приступите из програма &brandShortName;."
 
 #: selectDescription.label
 msgid "Please select the type of file that you would like to import:"
-msgstr ""
+msgstr "Молимо да изаберете врсту датотека које желите да увезете:"
 
 #: back.label
 msgid "&lt; Back"
@@ -151,7 +151,7 @@ msgstr "Откажи"
 
 #: select.label
 msgid "or select the type of material to import:"
-msgstr ""
+msgstr "или изаберите врсту материјала за увоз:"
 
 #: title.label
 msgid "Title"
@@ -159,7 +159,7 @@ msgstr "Наслов"
 
 #: processing.label
 msgid "Importing…"
-msgstr ""
+msgstr "Увоз…"
 
 #: FieldDiscInputText1.label
 msgid ""

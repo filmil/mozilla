@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 22:01+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -18,24 +18,24 @@ msgstr ""
 # in descriptionApplications, %S will be replaced by one of the 3 following strings
 #: descriptionApplications
 msgid "The following applications can be used to handle %S."
-msgstr ""
+msgstr "Наведени програми могу да се користе за %S."
 
 #: handleProtocol
 msgid "%S links"
-msgstr ""
+msgstr "везе %S"
 
 #: handleWebFeeds
 msgid "Web Feeds"
-msgstr ""
+msgstr "Мрежни доводи"
 
 #: handleFile
 msgid "%S content"
-msgstr ""
+msgstr "садржај %S"
 
 #: descriptionWebApp
 msgid "This web application is hosted at:"
-msgstr ""
+msgstr "Овај мрежни програм је удомљен на:"
 
 #: descriptionLocalApp
 msgid "This application is located at:"
-msgstr ""
+msgstr "Овај програм се налази на:"

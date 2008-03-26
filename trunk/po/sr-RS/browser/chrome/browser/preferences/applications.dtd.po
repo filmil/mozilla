@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-26 21:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,24 +16,24 @@ msgstr ""
 
 #: typeColumn.label typeColumn.accesskey
 msgid "Content &Type"
-msgstr ""
+msgstr "Врста &садржаја"
 
 #: actionColumn2.label actionColumn2.accesskey
 msgid "&Action"
-msgstr ""
+msgstr "&Дејство"
 
 #: focusSearch1.key
 msgid "f"
-msgstr ""
+msgstr "п"
 
 #: focusSearch2.key
 msgid "k"
-msgstr ""
+msgstr "р"
 
 #: filter.label filter.accesskey
 msgid "&Search:"
-msgstr ""
+msgstr "&Тражи:"
 
 #: clear.label clear.accesskey
 msgid "C&lear"
-msgstr ""
+msgstr "&Очисти"

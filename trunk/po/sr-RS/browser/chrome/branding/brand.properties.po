@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-15 00:47+0200\n"
+"PO-Revision-Date: 2008-03-26 21:21+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -14,9 +14,13 @@ msgstr ""
 "X-Generator: Translate Toolkit 0.10.1\n"
 "X-Accelerator-Marker: &\n"
 
-#: brandShortName brandFullName
+#: brandShortName 
 msgid "Minefield"
-msgstr ""
+msgstr "мајнфилд"
+
+#: brandFullName
+msgid "Minefield"
+msgstr "мајнфилд (Minefield)"
 
 #: vendorShortName
 msgid "Mozilla"

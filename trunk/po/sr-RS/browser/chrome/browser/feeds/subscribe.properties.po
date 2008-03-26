@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/browser/chrome/browser/feeds/subscribe.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-11 01:22+0200\n"
+"PO-Revision-Date: 2008-03-26 21:46+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,15 +20,15 @@ msgstr "Иди на %S"
 
 #: addHandler
 msgid "Add \"%S\" (%S) as a Feed Reader?"
-msgstr ""
+msgstr "Додавање „%S‟ (%S) као читача довода?"
 
 #: addHandlerAddButton
 msgid "Add Feed Reader"
-msgstr ""
+msgstr "Додај читач довода"
 
 #: addHandlerAddButtonAccesskey
 msgid "A"
-msgstr ""
+msgstr "Д"
 
 #: handlerRegistered
 msgid "\"%S\" is already registered as a Feed Reader"
@@ -45,7 +44,7 @@ msgstr "Претплати се сад"
 
 #: chooseApplicationMenuItem
 msgid "Choose Application…"
-msgstr ""
+msgstr "Избор програма…"
 
 #: chooseApplicationDialogTitle
 msgid "Choose Application"
@@ -57,7 +56,7 @@ msgstr "Увек користи „%S‟ за претплату на довод
 
 #: mediaLabel
 msgid "Media files"
-msgstr ""
+msgstr "Датотеке са медијима"
 
 # LOCALIZATION NOTE: The next string is for the size of the enclosed media.
 #   e.g. enclosureSizeText : "50.23 MB"
@@ -65,23 +64,23 @@ msgstr ""
 #   %2$S = unit of measure (bytes, KB, MB, ...)
 #: enclosureSizeText
 msgid "%1$S %2$S"
-msgstr ""
+msgstr "%1$S %2$S"
 
 #: bytes
 msgid "bytes"
-msgstr ""
+msgstr "бајт(ов)(а)"
 
 #: kilobyte
 msgid "KB"
-msgstr ""
+msgstr "KiB"
 
 #: megabyte
 msgid "MB"
-msgstr ""
+msgstr "MiB"
 
 #: gigabyte
 msgid "GB"
-msgstr ""
+msgstr "GiB"
 
 # LOCALIZATION NOTE: The next three strings explains to the user what they're 
 # doing.
@@ -89,72 +88,72 @@ msgstr ""
 #   %S = application to use (Miro, iTunes, ...)
 #: alwaysUseForFeeds
 msgid "Always use %S to subscribe to feeds."
-msgstr ""
+msgstr "Увек користи програм %S за претплату на доводе."
 
 #: alwaysUseForAudioPodcasts
 msgid "Always use %S to subscribe to podcasts."
-msgstr ""
+msgstr "Увек користи програм %S за претплату на подкастове."
 
 #: alwaysUseForVideoPodcasts
 msgid "Always use %S to subscribe to video podcasts."
-msgstr ""
+msgstr "Увек користи програм %S за претплату на видео-подкастове."
 
 #: subscribeFeedUsing
 msgid "Subscribe to this feed using"
-msgstr ""
+msgstr "Претплата на овај довод помоћу"
 
 #: subscribeAudioPodcastUsing
 msgid "Subscribe to this podcast using"
-msgstr ""
+msgstr "Претплата на овај подкаст помоћу"
 
 #: subscribeVideoPodcastUsing
 msgid "Subscribe to this video podcast using"
-msgstr ""
+msgstr "Претплата на овај видео-подкаст помоћу"
 
 #: feedSubscriptionFeed1
 msgid "This is a \"feed\" of frequently changing content on this site."
-msgstr ""
+msgstr "Ово је „довод‟ садржаја са овог сајта који се често мења."
 
 #: feedSubscriptionAudioPodcast1
 msgid "This is a \"podcast\" of frequently changing content on this site."
-msgstr ""
+msgstr "Ово је „подкаст‟ садржаја са овог сајта који се често мења."
 
 #: feedSubscriptionVideoPodcast1
 msgid ""
 "This is a \"video podcast\" of frequently changing content on this site."
-msgstr ""
+msgstr "Ово је „видео-подкаст‟ садржаја са овог сајта који се често мења."
 
 #: feedSubscriptionFeed2
 msgid ""
 "You can subscribe to this feed to receive updates when this content changes."
-msgstr ""
+msgstr "Можете да се претплатите на овај довод како бисте добијали обавештења када се садржај промени."
 
 #: feedSubscriptionAudioPodcast2
 msgid ""
 "You can subscribe to this podcast to receive updates when this content "
 "changes."
-msgstr ""
+msgstr "Можете да се претплатите на овај подкаст како бисте добијали обавештења када се садржај промени."
 
 #: feedSubscriptionVideoPodcast2
 msgid ""
 "You can subscribe to this video podcast to receive updates when this content "
 "changes."
-msgstr ""
+msgstr "Можете да се претплатите на овај видео-подкаст како бисте добијали обавештења када се садржај промени."
 
 # Protocol Handling
 # "Add %appName (%appDomain) as an application for %protocolType links?"
 #: addProtocolHandler
 msgid "Add %S (%S) as an application for %S links?"
-msgstr ""
+msgstr "Додавање програма %S (%S) као програма који обрађује везе: %S?"
 
 #: addProtocolHandlerAddButton
 msgid "Add Application"
-msgstr ""
+msgstr "Додај програм"
 
 # "%appName has already been added as an application for %protocolType links."
 #: protocolHandlerRegistered
 msgid "%S has already been added as an application for %S links."
-msgstr ""
+msgstr "Програм %S је већ додат као програм који обрађује везе: %S."
 
 #~ msgid "Add \"%S\" as a feed reader?"
 #~ msgstr "Да ли да додам „%S‟ као читача довода?"

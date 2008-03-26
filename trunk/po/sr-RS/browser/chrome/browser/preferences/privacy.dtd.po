@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-05 02:25+0100\n"
+"PO-Revision-Date: 2008-03-26 22:02+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr "Историјат"
 # 
 #: rememberDaysBefore.label rememberDaysBefore.accesskey
 msgid "Keep my &history for at least"
-msgstr ""
+msgstr "&Чувај мој историјат бар оволико дана:"
 
 #: rememberDaysAfter.label
 msgid "days."
@@ -50,7 +50,7 @@ msgstr "&Прихватај колачиће са ел. места"
 
 #: acceptThirdParty.label acceptThirdParty.accesskey
 msgid "Acce&pt third-party cookies"
-msgstr ""
+msgstr "&Прихвати колачиће од трећих лица"
 
 #: keepUntil.label keepUntil.accesskey
 msgid "&Keep until:"
@@ -70,11 +70,11 @@ msgstr "увек ме питај"
 
 #: cookieExceptions.label cookieExceptions.accesskey
 msgid "&Exceptions…"
-msgstr ""
+msgstr "&Изузеци…"
 
 #: showCookies.label showCookies.accesskey
 msgid "&Show Cookies…"
-msgstr ""
+msgstr "Прикажи &колачиће…"
 
 #: privateData.label
 msgid "Private Data"
@@ -90,11 +90,11 @@ msgstr "&Питај пре уклањања приватних података"
 
 #: clearDataSettings.label clearDataSettings.accesskey
 msgid "Se&ttings…"
-msgstr ""
+msgstr "По&дешавања…"
 
 #: clearDataNow.label clearDataNow.accesskey
 msgid "Clear &Now…"
-msgstr ""
+msgstr "О&чисти сад…"
 
 #: clearDataNow.label2
 msgid "Clear Now"

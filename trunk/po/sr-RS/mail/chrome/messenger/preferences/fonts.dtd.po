@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:35+0200\n"
+"PO-Revision-Date: 2008-03-26 20:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: fontsAndEncodingsDialog.title
 msgid "Fonts &amp; Encodings"
-msgstr ""
+msgstr "Писма и кодирања"
 
 #: window.width
 msgid ""
@@ -47,18 +47,18 @@ msgstr "Величина (у тачкама)"
 
 #: proportionalSize.accesskey
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #
 # LOCALIZATION NOTE "RemoveTextStylesAccesskey" is used for both
 #  menu items: "RemoveTextStyles" and "StopTextStyles"
 #: monospaceSize.accesskey
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: proportional.label proportional.accesskey
 msgid "&Proportional:"
-msgstr "&Пропорц.:"
+msgstr "&Пропорционални:"
 
 #: serif.label serif.accesskey
 msgid "&Serif:"
@@ -66,7 +66,7 @@ msgstr "&Серифни:"
 
 #: sans-serif.label sans-serif.accesskey
 msgid "Sa&ns-serif:"
-msgstr "Бе&зсерини:"
+msgstr "Бе&зсерифни:"
 
 #: monospace.label monospace.accesskey
 msgid "&Monospace:"
@@ -213,27 +213,27 @@ msgstr "Поруке могу да користе &друга писма"
 # Language settings
 #: sendDefaultCharset.label sendDefaultCharset.accesskey
 msgid "O&utgoing Mail:"
-msgstr ""
+msgstr "&Одлазна пошта:"
 
 #: languagesTitle1.label
 msgid "Character Encodings"
-msgstr ""
+msgstr "Кодирање знакова"
 
 #: composingDescription.label
 msgid "Set the default character encodings for sending and receiving mail"
-msgstr ""
+msgstr "Поставка подразумеваног кодирања знакова за долазну и одлазну пошту"
 
 #: viewDefaultCharsetList.label viewDefaultCharsetList.accesskey
 msgid "&Incoming Mail:"
-msgstr ""
+msgstr "&Долазна пошта:"
 
 #: forceCharsetOverride.label forceCharsetOverride.accesskey
 msgid "&Apply the default character encoding to all incoming messages"
-msgstr ""
+msgstr "&Примени подразумевано кодирање знакова на све долазне поруке"
 
 #: replyInDefaultCharset.label replyInDefaultCharset.accesskey
 msgid "Use t&he default character encoding in replies"
-msgstr ""
+msgstr "Користи по&дразумевано кодирање у одговорима"
 
 #~ msgid "Fonts"
 #~ msgstr "Писма"

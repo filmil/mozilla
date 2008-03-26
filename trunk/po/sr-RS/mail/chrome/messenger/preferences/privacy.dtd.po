@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 19:29+0200\n"
+"PO-Revision-Date: 2008-03-26 21:02+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,23 +35,23 @@ msgstr "Анти-вирус"
 msgid ""
 "Set your default junk mail settings. Account-specific junk mail settings can "
 "be configured in Account Settings."
-msgstr ""
+msgstr "Изворна подешавања за нежељену пошту.  Подешавања за нежељену пошту за одређени налог могу се мењати помоћу подешавања налога."
 
 #: manualMark.label manualMark.accesskey
 msgid "&When I mark messages as junk:"
-msgstr ""
+msgstr "&Када поруку означим као нежељену:"
 
 #: manualMarkModeMove.label manualMarkModeMove.accesskey
 msgid "M&ove them to the account's &quot;Junk&quot; folder"
-msgstr ""
+msgstr "&Помери је у директоријум са нежељеном поштом"
 
 #: manualMarkModeDelete.label manualMarkModeDelete.accesskey
 msgid "Dele&te them"
-msgstr ""
+msgstr "&Уклони је"
 
 #: markAsReadOnSpam.label markAsReadOnSpam.accesskey
 msgid "Mar&k messages determined to be Junk as read"
-msgstr ""
+msgstr "&Означи да је нежељена порука прочитана"
 
 #: enableJunkLogging.label enableJunkLogging.accesskey
 msgid "Enable junk filter lo&gging"
@@ -71,15 +71,15 @@ msgstr "Очисти податке о &тренингу"
 msgid ""
 "&brandShortName; can analyze messages for suspected email scams by looking "
 "for common techniques used to deceive you."
-msgstr ""
+msgstr "Програм &brandShortName; може да размотри поруку и утврди да ли се ради о превари, тражењем техника које се обично користе за обману."
 
 #: enablePhishingDetector1.label enablePhishingDetector1.accesskey
 msgid "T&ell me if the message I'm reading is a suspected email scam"
-msgstr ""
+msgstr "О&бавести ме ако је порука коју читам осумњичена за превару"
 
 #: useDownloadedList.label useDownloadedList.accesskey
 msgid "&Use a downloaded list of suspected email scams"
-msgstr ""
+msgstr "&Користи преузет списак познатих превара"
 
 # Passwords
 #: savedPasswords.intro
@@ -108,11 +108,11 @@ msgstr "&Главна лозинка"
 
 #: removeMasterPassword.label removeMasterPassword.accesskey
 msgid "&Remove Master Password…"
-msgstr ""
+msgstr "&Уклони главну лозинку…"
 
 #: editPasswords.label editPasswords.accesskey
 msgid "Ed&it Saved Passwords"
-msgstr ""
+msgstr "&Уреди сачуване лозинке"
 
 # Anti Virus
 #: antiVirus.intro
@@ -130,19 +130,19 @@ msgstr ""
 
 #: emailScams.label
 msgid "Email Scams"
-msgstr ""
+msgstr "Преваре"
 
 #: junkMail.label itemJunkMail.label
 msgid "Junk Mail"
-msgstr ""
+msgstr "Нежељена пошта"
 
 #: itemIntrusions.label
 msgid "Intrusions"
-msgstr ""
+msgstr "Провале"
 
 #: itemIntrusionsAndPasswords.label
 msgid "Intrusions &amp; Passwords"
-msgstr ""
+msgstr "Провале и лозинке"
 
 #~ msgid "General"
 #~ msgstr "Опште"
