@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-27 00:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 # should go into netError.dtd
 #: securityOverride.linkText
 msgid "Or you can add an exception…"
-msgstr ""
+msgstr "Или можете да додате изузетак…"
 
 #: securityOverride.warningText
 msgid ""
@@ -27,4 +27,4 @@ msgid ""
 "that you do not trust completely or if you are not used to seeing a warning "
 "for this server.</p> <p>If you still wish to add an exception for this site, "
 "you can do so in your advanced encryption settings.</p>"
-msgstr ""
+msgstr "<p>Не треба да додајете изузетак ако користите везу са интернетом којој не верујете у потпуности или ако нисте навикли да видите ово упозорење за овај сервер.</p> <p>Ако још увек желите да додате изузетак за овај сајт, можете да урадите то у напредним подршавањима за шифровање.</p>"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-27 00:08+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,48 +16,48 @@ msgstr ""
 
 #: formbarCmd.label formbarCmd.accesskey
 msgid "&Form Toolbar"
-msgstr ""
+msgstr "Алатна трака за &формуларе"
 
 #: formPrefill.label
 msgid "Prefill Form"
-msgstr ""
+msgstr "Попуњавање формулара"
 
 #: formCapture.label
 msgid "Save Form Data"
-msgstr ""
+msgstr "Чувај податке о формуларима"
 
 #: formView.label
 msgid "Manage Saved Data"
-msgstr ""
+msgstr "Управљање сачуваним подацима"
 
 #: formPrefill.tooltip
 msgid "Prefill this form with previously-saved data"
-msgstr ""
+msgstr "Испуни формулар претходно сачуваним подацима"
 
 #: formCapture.tooltip
 msgid "Save data found on this form"
-msgstr ""
+msgstr "Сачувај податке из овог формулара"
 
 #: formView.tooltip
 msgid "View previously-saved data for this form"
-msgstr ""
+msgstr "Преглед претходно сачуваних података за овај формулар"
 
 #: captureCmd.label captureCmd.accesskey
 msgid "&Save Form Info"
-msgstr ""
+msgstr "&Сачувај податке о формулару"
 
 #: prefillCmd.label prefillCmd.accesskey
 msgid "Fill i&n Form"
-msgstr ""
+msgstr "И&спуни формулар"
 
 #: walletContentsCmd.label walletContentsCmd.accesskey
 msgid "&Edit Form Info"
-msgstr ""
+msgstr "&Уреди податке о формулару"
 
 #: walletSitesCmd.label walletSitesCmd.accesskey
 msgid "&Manage Sites"
-msgstr ""
+msgstr "Управљање &сајтовима"
 
 #: walletFormManager.label walletFormManager.accesskey
 msgid "&Form Manager"
-msgstr ""
+msgstr "У&правник формуларима"

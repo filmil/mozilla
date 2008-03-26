@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 20:23+0200\n"
+"PO-Revision-Date: 2008-03-27 00:27+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: contentEncodingError.title
 msgid "Content Encoding Error"
-msgstr ""
+msgstr "Грешка у кодирању садржаја"
 
 #: contentEncodingError.longDesc
 msgid ""

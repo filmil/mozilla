@@ -8,13 +8,12 @@
 # converted from #defines file
 # filter emptyLines
 # extracted from 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-24 01:19+0100\n"
+"PO-Revision-Date: 2008-03-27 00:16+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,27 +34,19 @@ msgstr ""
 
 #: MOZ_LANGPACK_CREATOR
 msgid "The JavaScript Debugger Team"
-msgstr ""
+msgstr "Тим дебагера за јаваскрипт"
 
 #: MOZ_LANGPACK_HOMEPAGE
 msgid "http://www.hacksrus.com/~ginda/venkman/"
-msgstr ""
+msgstr "http://www.hacksrus.com/~ginda/venkman/"
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
 #: MOZ_LANGPACK_CONTRIBUTORS
-#, fuzzy
 msgid ""
 "<em:contributor>Joe Solon</em:contributor> <em:contributor>Suzy Solon</em:"
 "contributor>"
-msgstr ""
-"#-#-#-#-#  defines.inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"<em:contributor>Љубиша Радовановић</em:contributor> <em:contributor>Филип "
-"Милетић</em:contributor> <em:contributor>Наше писмо</em:contributor>\n"
-"#-#-#-#-#  defines.inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"<em:contributor>Никола Радовановић</em:contributor> <em:contributor>Љубиша "
-"Радовановић</em:contributor> <em:contributor>Филип Милетић</em:contributor> "
-"<em:contributor>Наше писмо</em:contributor>"
+msgstr "<em:contributor>Филип Милетић</em:contributor> <em:contributor>Наше писмо</em:contributor>\n"
 
 # converted from #defines file
 #~ msgid "English (US)"

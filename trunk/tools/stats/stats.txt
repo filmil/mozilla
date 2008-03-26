@@ -241,7 +241,6 @@ po/sr-RS/browser/chrome/help/platformStrings.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/engineManager.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr-RS/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
-po/sr-RS/browser/chrome/browser/.#engineManager.properties.po:	msgfmt: fout tijdens openen om te lezen van "po/sr-RS/browser/chrome/browser/.#engineManager.properties.po": Bestand of map bestaat niet
 po/sr-RS/browser/chrome/browser/openLocation.dtd.po:	8 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieExceptions.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/cookieviewer/CookieViewer.dtd.po:	14 translated messages.
@@ -252,7 +251,6 @@ po/sr-RS/browser/chrome/browser/aboutDialog.dtd.po:	po/sr-RS/browser/chrome/brow
 '
 msgfmt: found 1 fatal error
 7 translated messages.
-po/sr-RS/browser/chrome/browser/.#tabbrowser.properties.po:	msgfmt: fout tijdens openen om te lezen van "po/sr-RS/browser/chrome/browser/.#tabbrowser.properties.po": Bestand of map bestaat niet
 po/sr-RS/browser/chrome/browser/openLocation.properties.po:	1 translated message.
 po/sr-RS/browser/chrome/browser/tabbrowser.dtd.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/browser.dtd.po:	182 translated messages.
@@ -306,14 +304,14 @@ po/sr-RS/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr-RS/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
 po/sr-RS/browser/chrome/browser/browser.properties.po:	84 translated messages.
 po/sr-RS/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
-po/sr-RS/browser/chrome/browser/engineManager.properties.po:	0 translated messages, 5 untranslated messages.
+po/sr-RS/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr-RS/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/places/bookmarkProperties.dtd.po:	12 translated messages.
 po/sr-RS/browser/chrome/browser/places/moveBookmarks.dtd.po:	4 translated messages.
 po/sr-RS/browser/chrome/browser/places/places.dtd.po:	0 translated messages, 125 untranslated messages.
 po/sr-RS/browser/chrome/browser/places/places.properties.po:	0 translated messages, 74 untranslated messages.
 po/sr-RS/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	0 translated messages, 15 untranslated messages.
-po/sr-RS/browser/chrome/browser/tabbrowser.properties.po:	9 translated messages, 1 untranslated message.
+po/sr-RS/browser/chrome/browser/tabbrowser.properties.po:	10 translated messages.
 po/sr-RS/browser/chrome/browser/metaData.properties.po:	16 translated messages.
 po/sr-RS/browser/chrome/browser/pageInfo.properties.po:	38 translated messages.
 po/sr-RS/browser/chrome/browser/safeMode.dtd.po:	11 translated messages.
@@ -336,9 +334,9 @@ po/sr-RS/other-licenses/branding/firefox/brand.properties.po:	7 translated messa
 po/sr-RS/other-licenses/branding/thunderbird/brand.dtd.po:	3 translated messages.
 po/sr-RS/other-licenses/branding/thunderbird/brand.properties.po:	3 translated messages.
 po/sr-RS/extensions/reporter/chrome/reporterOverlay.dtd.po:	3 translated messages.
-po/sr-RS/extensions/reporter/chrome/reportResults.dtd.po:	14 translated messages, 1 untranslated message.
-po/sr-RS/extensions/reporter/chrome/reportWizard.properties.po:	6 translated messages, 3 untranslated messages.
-po/sr-RS/extensions/reporter/chrome/reportWizard.dtd.po:	27 translated messages, 4 untranslated messages.
+po/sr-RS/extensions/reporter/chrome/reportResults.dtd.po:	15 translated messages.
+po/sr-RS/extensions/reporter/chrome/reportWizard.properties.po:	9 translated messages.
+po/sr-RS/extensions/reporter/chrome/reportWizard.dtd.po:	31 translated messages.
 po/sr-RS/extensions/reporter/chrome/about.dtd.po:	3 translated messages.
 po/sr-RS/extensions/reporter/chrome/reporter.dtd.po:	2 translated messages.
 po/sr-RS/extensions/irc/chrome/channels.dtd.po:	0 translated messages, 11 untranslated messages.
@@ -349,29 +347,32 @@ po/sr-RS/extensions/irc/chrome/pref-irc.dtd.po:	0 translated messages, 5 untrans
 po/sr-RS/extensions/irc/chrome/chatzilla.dtd.po:	0 translated messages, 12 untranslated messages.
 po/sr-RS/extensions/irc/chrome/browserOverlay.dtd.po:	0 translated messages, 2 untranslated messages.
 po/sr-RS/extensions/irc/defines.inc.po:	0 translated messages, 1 fuzzy translation, 2 untranslated messages.
-po/sr-RS/extensions/metrics/prefs.dtd.po:	0 translated messages, 4 untranslated messages.
+po/sr-RS/extensions/metrics/prefs.dtd.po:	4 translated messages.
 po/sr-RS/extensions/cck/browser/chrome/cckwizard.properties.po:	0 translated messages, 21 untranslated messages.
 po/sr-RS/extensions/cck/browser/chrome/cckWizard.dtd.po:	0 translated messages, 165 untranslated messages.
-po/sr-RS/extensions/wallet/resources/walletNavigatorOverlay.dtd.po:	0 translated messages, 12 untranslated messages.
-po/sr-RS/extensions/wallet/resources/walletPrefsOverlay.dtd.po:	0 translated messages, 2 untranslated messages.
-po/sr-RS/extensions/wallet/resources/walletTasksOverlay.dtd.po:	0 translated messages, 15 untranslated messages.
-po/sr-RS/extensions/wallet/resources/pref-wallet.dtd.po:	0 translated messages, 6 untranslated messages.
-po/sr-RS/extensions/wallet/resources/pref-passwords.dtd.po:	0 translated messages, 8 untranslated messages.
-po/sr-RS/extensions/cview/resources/cviewOverlay.dtd.po:	0 translated messages, 1 untranslated message.
-po/sr-RS/extensions/venkman/chrome/venkman-overlay.dtd.po:	0 translated messages, 3 untranslated messages.
+po/sr-RS/extensions/wallet/resources/walletNavigatorOverlay.dtd.po:	12 translated messages.
+po/sr-RS/extensions/wallet/resources/walletPrefsOverlay.dtd.po:	2 translated messages.
+po/sr-RS/extensions/wallet/resources/walletTasksOverlay.dtd.po:	15 translated messages.
+po/sr-RS/extensions/wallet/resources/pref-wallet.dtd.po:	6 translated messages.
+po/sr-RS/extensions/wallet/resources/pref-passwords.dtd.po:	8 translated messages.
+po/sr-RS/extensions/cview/resources/cviewOverlay.dtd.po:	1 translated message.
+po/sr-RS/extensions/venkman/chrome/venkman-overlay.dtd.po:	3 translated messages.
 po/sr-RS/extensions/venkman/chrome/venkman.dtd.po:	0 translated messages, 46 untranslated messages.
 po/sr-RS/extensions/venkman/chrome/venkman.properties.po:	0 translated messages, 596 untranslated messages.
-po/sr-RS/extensions/venkman/defines.inc.po:	0 translated messages, 1 fuzzy translation, 2 untranslated messages.
+po/sr-RS/extensions/venkman/defines.inc.po:	po/sr-RS/extensions/venkman/defines.inc.po:49: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+msgfmt: found 1 fatal error
+3 translated messages.
 po/sr-RS/extensions/signonviewer/resources/SignonViewer.properties.po:	7 translated messages.
-po/sr-RS/extensions/signonviewer/resources/SignonViewer.dtd.po:	13 translated messages, 3 untranslated messages.
-po/sr-RS/dom/chrome/accessibility/unix/accessible.properties.po:	12 translated messages, 1 untranslated message.
-po/sr-RS/dom/chrome/accessibility/win/accessible.properties.po:	12 translated messages, 1 untranslated message.
-po/sr-RS/dom/chrome/accessibility/mac/accessible.properties.po:	12 translated messages, 1 untranslated message.
-po/sr-RS/dom/chrome/netErrorApp.dtd.po:	0 translated messages, 2 untranslated messages.
-po/sr-RS/dom/chrome/prompts.properties.po:	0 translated messages, 4 untranslated messages.
-po/sr-RS/dom/chrome/security/caps.properties.po:	20 translated messages, 1 untranslated message.
+po/sr-RS/extensions/signonviewer/resources/SignonViewer.dtd.po:	16 translated messages.
+po/sr-RS/dom/chrome/accessibility/unix/accessible.properties.po:	13 translated messages.
+po/sr-RS/dom/chrome/accessibility/win/accessible.properties.po:	13 translated messages.
+po/sr-RS/dom/chrome/accessibility/mac/accessible.properties.po:	13 translated messages.
+po/sr-RS/dom/chrome/netErrorApp.dtd.po:	2 translated messages.
+po/sr-RS/dom/chrome/prompts.properties.po:	4 translated messages.
+po/sr-RS/dom/chrome/security/caps.properties.po:	21 translated messages.
 po/sr-RS/dom/chrome/xml/prettyprint.dtd.po:	1 translated message.
-po/sr-RS/dom/chrome/netError.dtd.po:	32 translated messages, 11 untranslated messages.
+po/sr-RS/dom/chrome/netError.dtd.po:	33 translated messages, 10 untranslated messages.
 po/sr-RS/dom/chrome/webservices/security.properties.po:	8 translated messages.
 po/sr-RS/dom/chrome/charsetTitles.properties.po:	99 translated messages.
 po/sr-RS/dom/chrome/printdialog.properties.po:	5 translated messages.

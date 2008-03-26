@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-27 00:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,60 +16,60 @@ msgstr ""
 
 #: walletPasswordManager.label walletPasswordManager.accesskey
 msgid "&Password Manager"
-msgstr ""
+msgstr "&Управник лозинкама"
 
 #: walletSafeFillCmd.label walletSafeFillCmd.accesskey
 msgid "Prefill &Form"
-msgstr ""
+msgstr "Попуни &формулар"
 
 #: walletQuickFillCmd.label walletQuickFillCmd.accesskey
 msgid "Prefill Form &Quickly"
-msgstr ""
+msgstr "&Брза попуна формулара"
 
 #: walletRequestToCaptureCmd.label walletRequestToCaptureCmd.accesskey
 msgid "&Save Form Data"
-msgstr ""
+msgstr "&Сачувај податке о формулару"
 
 #: walletDisplaySignonsCmd.label walletDisplaySignonsCmd.accesskey
 msgid "&Manage Stored Passwords"
-msgstr ""
+msgstr "&Управљање сачуваним лозинкама"
 
 #: walletInterviewCmd.label walletInterviewCmd.accesskey
 msgid "&Interview"
-msgstr ""
+msgstr "&Интервју"
 
 #: walletSamplesCmd.label walletSamplesCmd.accesskey
 msgid "&Demonstration"
-msgstr ""
+msgstr "&Пример"
 
 #: walletChangePasswordCmd.label walletChangePasswordCmd.accesskey
 msgid "&Change Master Password…"
-msgstr ""
+msgstr "П&ромена главне лозинке…"
 
 #: walletExpirePasswordCmd.label walletExpirePasswordCmd.accesskey
 msgid "&Log Out"
-msgstr ""
+msgstr "&Одјава"
 
 #: walletEncryptCmd.label walletEncryptCmd.accesskey
 msgid "&Encrypt Sensitive Information"
-msgstr ""
+msgstr "&Шифруј поверљиве податке"
 
 #: walletObscureCmd.label walletObscureCmd.accesskey
 msgid "&Obscure Sensitive Information"
-msgstr ""
+msgstr "&Сакриј поверљиве податке"
 
 #: walletClearCmd.label walletClearCmd.accesskey
 msgid "&Reset Master Password"
-msgstr ""
+msgstr "&Ресетуј главну лозинку"
 
 #: PasswordNotChanged
 msgid "Unable to change your master password."
-msgstr ""
+msgstr "Промена главне лозинке није могућа."
 
 #: PasswordExpired
 msgid "You are now logged out."
-msgstr ""
+msgstr "Одјављени сте."
 
 #: PasswordNotExpired
 msgid "Unable to log out."
-msgstr ""
+msgstr "Одјава није могућа."

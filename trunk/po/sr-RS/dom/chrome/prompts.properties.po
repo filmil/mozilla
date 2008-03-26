@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-27 00:22+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -57,17 +57,17 @@ msgstr ""
 #: EnterLoginForRealm
 msgid ""
 "A username and password are being requested by %2$S. The site says: \"%1$S\""
-msgstr ""
+msgstr "%2$S захтева корисничко име и лозинку. Сајт поручује: „%1$S‟"
 
 #: EnterLoginForProxy
 msgid ""
 "The proxy %2$S is requesting a username and password. The site says: \"%1$S\""
-msgstr ""
+msgstr "Заступник %2$S тражи корисничко име и лозинку. Сајт поручује: „%1$S‟"
 
 #: EnterUserPasswordFor
 msgid "Enter username and password for %1$S"
-msgstr ""
+msgstr "Унесите корисничко име и лозинку за %1$S"
 
 #: EnterPasswordFor
 msgid "Enter password for %1$S on %2$S"
-msgstr ""
+msgstr "Унесите корисничко име за: %1$S на: %2$S"

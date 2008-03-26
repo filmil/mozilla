@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-08-29 17:44-0500\n"
+"PO-Revision-Date: 2008-03-26 23:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "S"
 
 #: sendingReport
 msgid "Sending Report…"
-msgstr ""
+msgstr "Слање извештаја…"
 
 #: reportSent
 msgid "Report Sent"
@@ -48,12 +48,12 @@ msgstr ""
 
 #: defaultError
 msgid "Unable to make a successful connection to the server."
-msgstr ""
+msgstr "Веза са сервером није могла да буде успостављена."
 
 #: invalidResponse
 msgid ""
 "An invalid response was received from the server.  Please try again later."
-msgstr ""
+msgstr "Сервер је послао неисправан одговор.  Молимо да пробате касније."
 
 #~ msgid "Sending Report..."
 #~ msgstr "Слање извештаја..."

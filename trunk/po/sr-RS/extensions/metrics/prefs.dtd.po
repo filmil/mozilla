@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-26 23:57+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,16 +16,16 @@ msgstr ""
 
 #: prefs.title
 msgid "Metrics Preferences"
-msgstr ""
+msgstr "Поставке метрика"
 
 #: prefs.label.msg
 msgid "Help us make Firefox better by sending anonymous usage statistics."
-msgstr ""
+msgstr "Молимо Вас да нам помогнете да побољшамо фајерфокс тако што ћете нам послати анонимне податке о употреби."
 
 #: prefs.checkbox.enable
 msgid "Enable Metrics"
-msgstr ""
+msgstr "Укључи метрике"
 
 #: prefs.button.close
 msgid "Close"
-msgstr ""
+msgstr "Затвори"

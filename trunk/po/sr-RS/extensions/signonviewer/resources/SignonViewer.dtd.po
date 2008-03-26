@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-25 00:33+0100\n"
+"PO-Revision-Date: 2008-03-27 00:17+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -75,15 +75,15 @@ msgstr "Лозинка"
 
 #: remove.label remove.accesskey
 msgid "&Remove"
-msgstr ""
+msgstr "&Уклони"
 
 #: removeall.label removeall.accesskey
 msgid "Remove &All"
-msgstr ""
+msgstr "Уклони &све"
 
 #: togglePasswords.accesskey
 msgid "P"
-msgstr ""
+msgstr "Л"
 
 #~ msgid "Remove"
 #~ msgstr "Уклони"
