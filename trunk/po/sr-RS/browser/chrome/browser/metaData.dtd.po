@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 23:15+0200\n"
+"PO-Revision-Date: 2008-03-26 22:29+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "Адреса:"
 
 #: image-type.label
 msgid "Type:"
-msgstr ""
+msgstr "Врста:"
 
 #: image-desc.label
 msgid "Description:"
@@ -44,7 +44,7 @@ msgstr "Текст за замену:"
 
 #: image-size.label
 msgid "Image Dimensions:"
-msgstr ""
+msgstr "Величина слике:"
 
 #: image-filesize.label
 msgid "Size of File:"
@@ -92,7 +92,7 @@ msgstr "Обрнути однос:"
 
 #: link-ping.label
 msgid "Will notify:"
-msgstr ""
+msgstr "Обавештава:"
 
 #: misc-sec.label
 msgid "Miscellaneous Properties"
