@@ -40,7 +40,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-11 00:32+0200\n"
+"PO-Revision-Date: 2008-03-27 02:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -160,19 +160,19 @@ msgstr "XSLT стил је блокиран из безбедносних раз
 
 #: 28
 msgid "Evaluating an invalid expression."
-msgstr ""
+msgstr "Израчунавање неисправног израза."
 
 #: 29
 msgid "Unbalanced curly brace."
-msgstr ""
+msgstr "Неуравнотежене витичасте заграде."
 
 #: 30
 msgid "Creating an element with an invalid QName."
-msgstr ""
+msgstr "Прављење елемента са неважећим QName."
 
 #: 31
 msgid "Variable binding shadows variable binding within the same template."
-msgstr ""
+msgstr "Додела променљиве засењује доделу у оквиру истог обрасца."
 
 #: LoadingError
 msgid "Error loading stylesheet: %S"

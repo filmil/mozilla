@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-28 08:49-0600\n"
+"PO-Revision-Date: 2008-03-27 02:27+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,23 +19,23 @@ msgstr ""
 
 #: title_label
 msgid "About Plugins"
-msgstr ""
+msgstr "О прикључцима"
 
 #: installedplugins_label
 msgid "Installed plugins"
-msgstr ""
+msgstr "Инсталирани прикључци"
 
 #: nopluginsareinstalled_label
 msgid "No plugins are installed"
-msgstr ""
+msgstr "Ниједан прикључак није инсталиран"
 
 #: findmore_label
 msgid "Find more information about browser plugins at"
-msgstr ""
+msgstr "Добавите више података о прикључцима за читач на:"
 
 #: installhelp_label
 msgid "Help for installing plugins is available from"
-msgstr ""
+msgstr "Помоћ за инсталацију прикључака доступна је на:"
 
 #: filename_label
 msgid "File name:"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-27 00:27+0100\n"
+"PO-Revision-Date: 2008-03-27 02:22+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -148,17 +148,17 @@ msgid ""
 "<p>The page you are trying to view cannot be shown because it uses an "
 "invalid or unsupported form of compression.</p><ul><li>Please contact the "
 "website owners to inform them of this problem.</li></ul>"
-msgstr ""
+msgstr "<p>Страна коју покушавате да прегледате не може бити приказана јер користи неисправан или неподржан вид компресије.</p><ul><li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li></ul>"
 
 #: unsafeContentType.title
 msgid "Unsafe File Type"
-msgstr ""
+msgstr "Небезбедна врста датотеке"
 
 #: unsafeContentType.longDesc
 msgid ""
 "<ul> <li>Please contact the website owners to inform them of this problem.</"
 "li> </ul>"
-msgstr ""
+msgstr "<ul> <li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li> </ul>"
 
 #: netReset.title
 msgid "Connection Interrupted"
@@ -265,14 +265,14 @@ msgstr ""
 
 #: nssFailure2.title nssBadCert.title
 msgid "Secure Connection Failed"
-msgstr ""
+msgstr "Безбедна веза није успела"
 
 #: nssFailure2.longDesc
 msgid ""
 "<p>The page you are trying to view can not be shown because the authenticity "
 "of the received data could not be verified.</p><ul><li>Please contact the "
 "web site owners to inform them of this problem.</li></ul>"
-msgstr ""
+msgstr "<p>Страна коју покушавате да погледате не може бити приказана јер се аутентичност примљених података не може потврдити.</p><ul><li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.</li></ul>"
 
 #: nssBadCert.longDesc2
 msgid ""
@@ -280,11 +280,11 @@ msgid ""
 "could be someone trying to impersonate the server.</li> <li>If you have "
 "connected to this server successfully in the past, the error may be "
 "temporary, and you can try again later.</li> </ul>"
-msgstr ""
+msgstr "<ul> <li>Ово може да буде проблем са подешавањем сервера, или неко можда покушава да се представи као тај сервер.</li> <li>Ако сте се успешно повезали на овај сервер у прошлости, ова грешка може бити привремена па има смисла да касније покушате поново.</li> </ul>"
 
 #: malwareBlocked.title
 msgid "Suspected Attack Site!"
-msgstr ""
+msgstr "Могући злонамеран сајт!"
 
 #: malwareBlocked.longDesc
 msgid ""
@@ -293,11 +293,11 @@ msgid ""
 "owners who believe their site has been reported as an attack site in error "
 "may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</"
 "a>.</p>"
-msgstr ""
+msgstr "<p>Злонамерни сајтови покушавају да инсталирају програме који отимају приватне податке, користе Ваш рачунар за напад на друге, или оштећују Ваш систем.</p> <p>Власници веб сајтова који верују да је њихов сајт пријављен грешком могу да <a href='http://www.stopbadware.org/home/reviewinfo' >захтевају ревизију</a>.</p>"
 
 #: phishingBlocked.title
 msgid "Suspected Web Forgery!"
-msgstr ""
+msgstr "Могућ мрежни фалсификат!"
 
 #: phishingBlocked.longDesc
 msgid ""
@@ -305,4 +305,4 @@ msgid ""
 "theft or other fraud.</p> <p>These types of web forgeries are used in scams "
 "known as phishing attacks, in which fraudulent web pages and emails are used "
 "to imitate sources you may trust.</p>"
-msgstr ""
+msgstr "<p>Унос ма каквих личних података на овој страни може да доведе до крађе идентитета или другог облика преваре.</p> <p>Ова врста мрежних фалсификата се користи у преварама познатим као фишинг (phishing), у којима фалсификоване веб стране опонашају изворе којима верујете.</p>"
