@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 18:18+0200\n"
+"PO-Revision-Date: 2008-03-27 02:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,11 +34,11 @@ msgstr ""
 
 #: smtpListAdd.label smtpListAdd.accesskey
 msgid "A&dd…"
-msgstr ""
+msgstr "&Додај…"
 
 #: smtpListEdit.label smtpListEdit.accesskey
 msgid "&Edit…"
-msgstr ""
+msgstr "&Уреди…"
 
 #: smtpListDelete.label smtpListDelete.accesskey
 msgid "Re&move"
@@ -70,7 +70,7 @@ msgstr "Безбедна веза: "
 
 #: useSecureAuthentication.label
 msgid "Secure Authentication: "
-msgstr ""
+msgstr "Безбедна аутентикација:"
 
 #~ msgid "A&dd..."
 #~ msgstr "&Додај..."

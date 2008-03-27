@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:53+0100\n"
+"PO-Revision-Date: 2008-03-27 02:48+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -38,13 +38,13 @@ msgstr "Избор директоријума за претрагу: "
 
 #: chooseFoldersButton.label chooseFoldersButton.accesskey
 msgid "C&hoose…"
-msgstr ""
+msgstr "&Избор…"
 
 #: searchOnline.label searchOnline.accesskey
 msgid ""
 "&Search Online (Gives up-to-date results for IMAP and News folders but "
 "increases time to open the folder)"
-msgstr ""
+msgstr "Мрежна &претрага (даје ажурне резултате за директоријуме за ИМАП и вести, али повећава време потребно за отварање директоријума)"
 
 #~ msgid "Modify the search criteria used for this saved search:"
 #~ msgstr "Измени овај сачувани критеријум за претрагу:"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 02:33+0100\n"
+"PO-Revision-Date: 2008-03-27 02:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -72,7 +72,7 @@ msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "width: 40em; height: 30em;"
-msgstr ""
+msgstr "width: 40em; height: 30em;"
 
 #: fieldMapImport.recordNumber
 msgid "Imported data for Record: "
@@ -80,11 +80,11 @@ msgstr "Увезени подаци за слог:"
 
 #: fieldMapImport.next.label fieldMapImport.next.accesskey
 msgid "&Next"
-msgstr ""
+msgstr "&Следеће"
 
 #: fieldMapImport.previous.label fieldMapImport.previous.accesskey
 msgid "&Previous"
-msgstr ""
+msgstr "&Претходно"
 
 #: fieldMapImport.text
 msgid ""
@@ -97,11 +97,11 @@ msgstr ""
 
 #: fieldMapImport.up.label fieldMapImport.up.accesskey
 msgid "Move &Up"
-msgstr ""
+msgstr "На &горе"
 
 #: fieldMapImport.down.label fieldMapImport.down.accesskey
 msgid "Move &Down"
-msgstr ""
+msgstr "На &доле"
 
 #: fieldMapImport.fieldListTitle
 msgid "Address Book fields"
@@ -114,7 +114,7 @@ msgstr "Подаци у слогу за увоз"
 #: fieldMapImport.skipFirstRecord.label
 #: fieldMapImport.skipFirstRecord.accessKey
 msgid "&First record contains field names"
-msgstr ""
+msgstr "&Први слог садржи имена поља"
 
 #~ msgid "Next"
 #~ msgstr "Следеће"

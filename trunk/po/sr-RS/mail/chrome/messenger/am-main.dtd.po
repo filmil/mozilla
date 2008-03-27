@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:57+0100\n"
+"PO-Revision-Date: 2008-03-27 02:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,15 +62,15 @@ msgstr "&Приложи овај потпис:"
 
 #: edit.label
 msgid "Edit…"
-msgstr ""
+msgstr "Уреди…"
 
 #: choose.label choose.accesskey
 msgid "&Choose…"
-msgstr ""
+msgstr "&Избор…"
 
 #: editVCard.label editVCard.accesskey
 msgid "E&dit Card…"
-msgstr ""
+msgstr "У&реди картицу…"
 
 #: attachVCard.label attachVCard.accesskey
 msgid ""
@@ -80,7 +80,7 @@ msgstr "Приложи моју &визиткарту уз поруку"
 
 #: manageIdentities.label manageIdentities.accesskey
 msgid "&Manage Identities…"
-msgstr ""
+msgstr "Управљање &идентитетима…"
 
 #: smtpName.label smtpName.accesskey
 msgid ""

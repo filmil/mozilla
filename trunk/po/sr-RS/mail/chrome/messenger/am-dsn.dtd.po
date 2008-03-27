@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-27 02:51+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,12 +16,12 @@ msgstr ""
 
 #: pane.title
 msgid "Delivery Status Notification"
-msgstr ""
+msgstr "Обавештење о испоруци"
 
 #: useGlobalPrefs.label useGlobalPrefs.accesskey
 msgid ""
 "&Use my global Delivery Status Notification preferences for this account"
-msgstr ""
+msgstr "&Користи моја глобална подешавања обавештења о испоруци за овај налог"
 
 #: useCustomPrefs.label useCustomPrefs.accesskey
 msgid "&Customize Delivery Status Notification for this account"

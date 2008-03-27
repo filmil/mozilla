@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/start.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-12-25 02:02+0100\n"
+"PO-Revision-Date: 2008-03-27 02:41+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,27 +52,27 @@ msgstr "Заштита приватности"
 
 #: startpage.junkControlURL
 msgid "http://www.mozilla.org/products/thunderbird/junkmail.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/junkmail.html"
 
 #: startpage.rssReaderURL
 msgid "http://www.mozilla.org/products/thunderbird/rss.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/rss.html"
 
 #: startpage.globalInboxURL
 msgid "http://www.mozilla.org/products/thunderbird/global-inbox.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/global-inbox.html"
 
 #: startpage.searchFoldersURL
 msgid "http://www.mozilla.org/products/thunderbird/search-folders.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/search-folders.html"
 
 #: startpage.messageGroupsURL
 msgid "http://www.mozilla.org/products/thunderbird/message-grouping.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/message-grouping.html"
 
 #: startpage.privacyProtectURL
 msgid "http://www.mozilla.org/products/thunderbird/privacy-protection.html"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/privacy-protection.html"
 
 #: startpage.moreInfo
 msgid "More Information"
@@ -101,7 +100,7 @@ msgstr "За податке о производу посетите"
 
 #: startpage.pageURL
 msgid "http://www.mozilla.org/products/thunderbird/"
-msgstr ""
+msgstr "http://www.mozilla.org/products/thunderbird/"
 
 #: startpage.extra
 msgid ""
