@@ -372,18 +372,18 @@ po/sr-RS/dom/chrome/netErrorApp.dtd.po:	2 translated messages.
 po/sr-RS/dom/chrome/prompts.properties.po:	4 translated messages.
 po/sr-RS/dom/chrome/security/caps.properties.po:	21 translated messages.
 po/sr-RS/dom/chrome/xml/prettyprint.dtd.po:	1 translated message.
-po/sr-RS/dom/chrome/netError.dtd.po:	33 translated messages, 10 untranslated messages.
+po/sr-RS/dom/chrome/netError.dtd.po:	43 translated messages.
 po/sr-RS/dom/chrome/webservices/security.properties.po:	8 translated messages.
 po/sr-RS/dom/chrome/charsetTitles.properties.po:	99 translated messages.
 po/sr-RS/dom/chrome/printdialog.properties.po:	5 translated messages.
-po/sr-RS/dom/chrome/dom/dom.properties.po:	17 translated messages, 5 untranslated messages.
+po/sr-RS/dom/chrome/dom/dom.properties.po:	22 translated messages.
 po/sr-RS/dom/chrome/global.dtd.po:	1 translated message.
-po/sr-RS/dom/chrome/xslt/xslt.properties.po:	28 translated messages, 5 untranslated messages.
-po/sr-RS/dom/chrome/storage.properties.po:	0 translated messages, 1 untranslated message.
+po/sr-RS/dom/chrome/xslt/xslt.properties.po:	32 translated messages, 1 untranslated message.
+po/sr-RS/dom/chrome/storage.properties.po:	1 translated message.
 po/sr-RS/dom/chrome/global-strres.properties.po:	1 translated message.
-po/sr-RS/dom/chrome/plugins.properties.po:	7 translated messages, 5 untranslated messages.
-po/sr-RS/dom/chrome/layout/layout_errors.properties.po:	3 translated messages, 2 untranslated messages.
-po/sr-RS/dom/chrome/layout/xul.properties.po:	1 translated message, 3 untranslated messages.
+po/sr-RS/dom/chrome/plugins.properties.po:	12 translated messages.
+po/sr-RS/dom/chrome/layout/layout_errors.properties.po:	5 translated messages.
+po/sr-RS/dom/chrome/layout/xul.properties.po:	4 translated messages.
 po/sr-RS/dom/chrome/layout/xmlparser.properties.po:	26 translated messages, 9 untranslated messages.
 po/sr-RS/dom/chrome/layout/css.properties.po:	86 translated messages, 6 untranslated messages.
 po/sr-RS/dom/chrome/layout/HtmlForm.properties.po:	7 translated messages, 1 untranslated message.
