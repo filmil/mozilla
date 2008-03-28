@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 20:31+0200\n"
+"PO-Revision-Date: 2008-03-28 22:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -316,23 +316,23 @@ msgstr "Недостаје аргуменат за савлађивање псе
 
 #: PEPseudoClassArgEOF
 msgid "argument to pseudo-class selector"
-msgstr ""
+msgstr "аргумент за селектора псеудо-класе"
 
 #: PEPseudoClassArgNotIdent
 msgid "Expected identifier for pseudo-class parameter but found '%1$S'."
-msgstr ""
+msgstr "Очекиван је идентификатор параметра псеудо-класе али је нађено: „%1$S‟."
 
 #: PEPseudoClassArgNotNth
 msgid "Expected part of argument to pseudo-class but found '%1$S'."
-msgstr ""
+msgstr "Очекиван је део аргумента псеудо-класе али је нађено: „%1$S‟."
 
 #: PEPseudoClassNoClose
 msgid "Missing closing ')' in pseudo-class, found '%1$S' instead."
-msgstr ""
+msgstr "Затворен знак „)‟ недостаје у псеудо-класи, уместо тога нађено је: „%1$S‟."
 
 #: PEPseudoClassNoArg
 msgid "Missing argument in pseudo-class '%1$S'."
-msgstr ""
+msgstr "Недостаје аргумент у псеудо-класи „%1$S‟."
 
 #: PESelectorEOF
 msgid "selector"
@@ -432,7 +432,7 @@ msgstr "Уместо ';' или '}' за прекид дефиниције пр�
 
 #: PEInaccessibleProperty2
 msgid "Cannot specify value for internal property."
-msgstr ""
+msgstr "Није могуће задати вредност за интерно својство."
 
 #: PECommentEOF
 msgid "end of comment"

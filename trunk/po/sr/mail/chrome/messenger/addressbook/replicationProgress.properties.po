@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 18:43+0200\n"
+"PO-Revision-Date: 2008-03-28 22:33+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,11 +53,11 @@ msgstr ""
 # ***** END LICENSE BLOCK *****
 #: replicationStarted
 msgid "Replication started…"
-msgstr ""
+msgstr "Умножавање је покренуто…"
 
 #: changesStarted
 msgid "Started finding changes to replicate…"
-msgstr ""
+msgstr "Покренута је претрага измена за умножавање…"
 
 #: replicationSucceeded
 msgid "Replication succeeded"
@@ -69,7 +69,7 @@ msgstr "Умножавање није успело"
 
 #: replicationCancelled
 msgid "Replication cancelled"
-msgstr "Репликација је отказана"
+msgstr "Умножавање је отказано"
 
 # LOCALIZATION NOTE
 # do not localize %S.  %S is the current entry number (an integer)
@@ -83,7 +83,7 @@ msgstr "Преузми одмах"
 
 #: downloadButton.accesskey
 msgid "D"
-msgstr ""
+msgstr "П"
 
 #: cancelDownloadButton
 msgid "Cancel Download"
@@ -91,7 +91,7 @@ msgstr "Откажи пријем"
 
 #: cancelDownloadButton.accesskey
 msgid "C"
-msgstr ""
+msgstr "О"
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1

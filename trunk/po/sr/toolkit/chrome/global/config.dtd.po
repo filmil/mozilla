@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-24 22:50+0100\n"
+"PO-Revision-Date: 2008-03-28 23:43+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,22 +57,22 @@ msgstr "about:config"
 # LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful
 #: aboutWarningTitle.label
 msgid "This might void your warranty!"
-msgstr ""
+msgstr "Ово може да Вам поништи гаранцију!"
 
 #: aboutWarningText.label
 msgid ""
 "Changing these advanced settings can be harmful to the stability, security, "
 "and performance of this application. You should only continue if you are "
 "sure of what you are doing."
-msgstr ""
+msgstr "Промена ових напредних подешавања може да нашкоди стабилности, безбедности и брзини овог програма.  Наставите само ако сте сигурни да знате шта радите."
 
 #: aboutWarningButton.label
 msgid "I'll be careful, I promise!"
-msgstr ""
+msgstr "Пазићу, часна реч!"
 
 #: aboutWarningCheckbox.label
 msgid "Show this warning next time"
-msgstr ""
+msgstr "Прикажи ово упозорење и следећи пут"
 
 #: filterPrefs.label filterPrefs.accesskey
 msgid "F&ilter:"
@@ -111,15 +111,15 @@ msgstr "Кликните како би изабрали колону за при
 # Context Menu
 #: copyPref.key
 msgid "C"
-msgstr ""
+msgstr "У"
 
 #: copyPref.label copyPref.accesskey
 msgid "&Copy"
-msgstr ""
+msgstr "&Умножи"
 
 #: copyName.label copyName.accesskey
 msgid "Copy &Name"
-msgstr ""
+msgstr "Умножи &име"
 
 #: copyValue.label copyValue.accesskey
 msgid "Copy &Value"
@@ -139,7 +139,7 @@ msgstr "О&бнови"
 
 #: new.label new.accesskey
 msgid "Ne&w"
-msgstr ""
+msgstr "&Ново"
 
 #: string.label string.accesskey
 msgid "&String"
@@ -149,6 +149,7 @@ msgstr "&Стринг"
 msgid "&Integer"
 msgstr "Цео &број"
 
+# FIXME Boolean
 #: boolean.label boolean.accesskey
 msgid "&Boolean"
 msgstr "&Булово (boolean)"

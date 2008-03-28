@@ -1,9 +1,2 @@
-po/sr-RS/mail/chrome/messenger/am-dsn.dtd.po:	0 translated messages, 9 untranslated messages.
-po/sr-RS/mail/chrome/messenger/addressbook/abNewCardDialog.dtd.po:	0 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/messenger/addressbook/abResultsPaneOverlay.dtd.po:	19 translated messages, 2 untranslated messages.
-po/sr-RS/mail/chrome/messenger/addressbook/abSelectAddressesDialog.dtd.po:	13 translated messages, 2 untranslated messages.
-po/sr-RS/mail/chrome/messenger/addressbook/abAddressBookNameDialog.dtd.po:	0 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/messenger/addressbook/replicationProgress.properties.po:	6 translated messages, 4 untranslated messages.
-po/sr-RS/mail/chrome/messenger/addressbook/addressBook.properties.po:	87 translated messages, 1 untranslated message.
-po/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po:	27 translated messages, 27 untranslated messages.
-po/sr-RS/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties.po:	15 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/notification.dtd.po:	0 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/customizeToolbar.dtd.po:	11 translated messages, 1 untranslated message.

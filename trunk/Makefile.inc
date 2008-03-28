@@ -17,13 +17,13 @@ GREP:=grep
 # # Directory configuration
 LOCALE_NAME:=sr
 ROOT_DIR:=/home/filip/personal/l10n/work/mozilla/trunk
-PO_TRANSLATIONS:=po/sr-RS
+PO_TRANSLATIONS:=po/sr
 MOZILLA_CVS:=/home/filip/personal/l10n/mozilla-cvs/3/l10n
 OUTPUT_DIR:=output
 OUTPUT_DIR_FINAL:=$(OUTPUT_DIR)/sr
-MERGED_PO_OUTPUT_DIR:=$(OUTPUT_DIR)/sr-RS
+MERGED_PO_OUTPUT_DIR:=$(OUTPUT_DIR)/sr
 SOURCE_DIR:=$(MOZILLA_CVS)/../template/en-US
-PO_SOURCE_DIR:=po/sr-RS
+PO_SOURCE_DIR:=po/sr
 POT_DIR:=pot/sr
 SCRIPTS_DIR:=scripts
 STATS_DIR:=tools/stats

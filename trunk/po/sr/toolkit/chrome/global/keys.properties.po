@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-08-30 10:42-0500\n"
+"PO-Revision-Date: 2008-03-28 23:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -128,12 +128,13 @@ msgstr "Десно"
 
 #: VK_PAGE_UP
 msgid "Page Up"
-msgstr ""
+msgstr "Стр. горе"
 
 #: VK_PAGE_DOWN
 msgid "Page Down"
-msgstr ""
+msgstr "Стр. доле"
 
+# FIXME Keys
 # LOCALIZATION NOTE : BLOCK end GLYPHS
 # Enter, backspace, and Tab might have both glyphs and text
 # if the keyboards usually have a glyph,
@@ -144,38 +145,40 @@ msgstr ""
 # LOCALIZATION NOTE : BLOCK maybe GLYPHS
 #: VK_ENTER
 msgid "Enter"
-msgstr ""
+msgstr "Нови ред"
 
 #: VK_RETURN
 msgid "Return"
-msgstr ""
+msgstr "Нови ред"
 
 #: VK_TAB
 msgid "Tab"
-msgstr ""
+msgstr "Таб"
 
 #: VK_BACK
 msgid "Backspace"
-msgstr ""
+msgstr "Брисање"
 
 #: VK_DELETE
 msgid "Del"
-msgstr ""
+msgstr "Дел"
 
 # LOCALIZATION NOTE : BLOCK end maybe GLYPHS
 # LOCALIZATION NOTE : BLOCK typing state keys
 #: VK_HOME
 msgid "Home"
-msgstr ""
+msgstr "Почетак"
 
 #: VK_END
 msgid "End"
-msgstr ""
+msgstr "Крај"
 
+# FIXME Escape in Serbian
 #: VK_ESCAPE
 msgid "Esc"
-msgstr ""
+msgstr "Есц"
 
+# FIXME Ins in Serbian
 #: VK_INSERT
 msgid "Ins"
-msgstr ""
+msgstr "Инс"

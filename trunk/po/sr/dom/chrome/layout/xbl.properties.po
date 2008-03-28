@@ -38,7 +38,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 20:33+0200\n"
+"PO-Revision-Date: 2008-03-28 22:49+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,26 +55,26 @@ msgstr "Неочекиван елемент <%1$S>."
 # LOCALIZATION NOTE: do not localize key="%S" modifiers="%S"
 #: GTK2Conflict
 msgid "Key event not available on GTK2: key=\"%S\" modifiers=\"%S\""
-msgstr ""
+msgstr "Тастерски догађај није доступан у ГТК2: key=„%S‟ modifiers=„%S‟"
 
 #: WinConflict
 msgid ""
 "Key event not available on some keyboard layouts: key=\"%S\" modifiers=\"%S\""
-msgstr ""
+msgstr "Тастерски догађај није доступан на неким распоредима тастатуре: key=„%S‟ modifiers=„%S‟"
 
 #: TooDeepBindingRecursion
 msgid ""
 "The XBL binding \"%S\" is already used by too many ancestor elements; not "
 "applying it to prevent infinite recursion."
-msgstr ""
+msgstr "Повезница ИксБеЕла (XBL) „%S‟ већ користи сувише наследних елемената; не примењујемо га да би се спречила бесконачна рекурзија."
 
 #: CircularExtendsBinding
 msgid ""
 "Extending the XBL binding \"%S\" with \"%S\" would lead to it extending "
 "itself"
-msgstr ""
+msgstr "Продужење ИксБеЕл XBL повезнице „%S‟ with „%S‟ би довело до самопродужења"
 
 # LOCALIZATION NOTE: do not localize <handler command="…">
 #: CommandNotInChrome
 msgid "Use of <handler command=\"…\"> not allowed outside chrome."
-msgstr ""
+msgstr "Употреба <handler command=\"…\"> није дозвољена ван хрома (chrome)."

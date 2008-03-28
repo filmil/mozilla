@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 18:37+0200\n"
+"PO-Revision-Date: 2008-03-28 22:27+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr "Изаберите адресе"
 # Buttons
 #: toButton.label toButton.accesskey
 msgid "&To->"
-msgstr "&За->"
+msgstr "&Прима->"
 
 #: ccButton.label ccButton.accesskey
 msgid "&Cc->"
@@ -83,11 +83,11 @@ msgstr "&сКоп->"
 
 #: newButton.label newButton.accesskey
 msgid "&New…"
-msgstr ""
+msgstr "&Ново…"
 
 #: editButton.label editButton.accesskey
 msgid "&Edit…"
-msgstr ""
+msgstr "&Уреди…"
 
 #: removeButton.label removeButton.accesskey
 msgid "&Remove"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-28 23:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,12 +16,12 @@ msgstr ""
 
 #: NoAppFound.label
 msgid "No applications were found for this file type."
-msgstr ""
+msgstr "Ниједан програм није пронађен за ову врсту датотека."
 
 #: BrowseButton.label
 msgid "Browse…"
-msgstr ""
+msgstr "&Преглед…"
 
 #: SendMsg.label
 msgid "Send this item to:"
-msgstr ""
+msgstr "Проследи ову ставку:"

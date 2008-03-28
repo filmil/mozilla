@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:35+0200\n"
+"PO-Revision-Date: 2008-03-28 23:04+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,23 +56,23 @@ msgstr ""
 # TransferringDataFrom=Transferring data from 
 #: 3
 msgid "Looking up %1$S…"
-msgstr ""
+msgstr "Тражење %1$S…"
 
 #: 4
 msgid "Connected to %1$S…"
-msgstr ""
+msgstr "Веза са %1$S…"
 
 #: 5
 msgid "Sending request to %1$S…"
-msgstr ""
+msgstr "Слање захтева ка %1$S…"
 
 #: 6
 msgid "Transferring data from %1$S…"
-msgstr ""
+msgstr "Пријем података са %1$S…"
 
 #: 7
 msgid "Connecting to %1$S…"
-msgstr ""
+msgstr "Повезивање са %1$S…"
 
 #: 8
 msgid "Read %1$S"
@@ -84,11 +84,11 @@ msgstr "Записано %1$S"
 
 #: 10
 msgid "Waiting for %1$S…"
-msgstr ""
+msgstr "Чекање на %1$S…"
 
 #: 27
 msgid "Beginning FTP transaction…"
-msgstr ""
+msgstr "Почетак ФТП трансакције…"
 
 #: 28
 msgid "Finished FTP transaction"
@@ -117,23 +117,23 @@ msgstr "Пређи у директоријум на нивоу више"
 
 #: ShowHidden
 msgid "Show hidden objects"
-msgstr ""
+msgstr "Прикажи сакривене објекте"
 
 #: DirColName
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: DirColSize
 msgid "Size"
-msgstr ""
+msgstr "Величина"
 
 #: DirColMTime
 msgid "Last Modified"
-msgstr ""
+msgstr "Последња измена"
 
 #: DirFileLabel
 msgid "File:"
-msgstr ""
+msgstr "Датотека:"
 
 # Gopher Search Prompt
 # Gopher Search Prompt
@@ -165,11 +165,14 @@ msgid ""
 "\n"
 "Is \"%1$S\" the site you want to visit?"
 msgstr ""
+"Покушавате да се пријавите на сајт „%1$S‟ под корисничким именом „%2$S‟, али овај веб сајт не захтева аутентикацију.  Ово може да буде покушај преваре.\n"
+"\n"
+"Да ли заиста желите да посетите сајт „%1$S‟?"
 
 #: AutomaticAuth
 msgid ""
 "You are about to log in to the site \"%1$S\" with the username \"%2$S\"."
-msgstr ""
+msgstr "Бићете одјављени са сајта „%1$S‟ под корисничким именом „%2$S‟."
 
 # ResolvingHost=Looking up
 # ConnectedTo=Connected to 

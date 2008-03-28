@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 20:32+0200\n"
+"PO-Revision-Date: 2008-03-28 22:42+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -116,7 +116,7 @@ msgstr "веза ка спољном уносу у атрибуту"
 
 #: 17
 msgid "XML or text declaration not at start of entity"
-msgstr ""
+msgstr "ИксЕмЕл (XML) или декларација текста се не налазе на почетку ентитета"
 
 #: 18
 msgid "unknown encoding"
@@ -152,29 +152,29 @@ msgstr "префикс није ограничен именом"
 
 #: 28
 msgid "must not undeclare prefix"
-msgstr ""
+msgstr "не може да се оддекларише префикс"
 
 #: 29
 msgid "incomplete markup in parameter entity"
-msgstr ""
+msgstr "непотпуно означавање у параметарском ентитету"
 
 #: 30
 msgid "XML declaration not well-formed"
-msgstr ""
+msgstr "Декларација ИксЕмЕла (XML) није добро обликована"
 
 #: 31
 msgid "text declaration not well-formed"
-msgstr ""
+msgstr "декларација текста није добро обликована"
 
 #: 32
 msgid "illegal character(s) in public id"
-msgstr ""
+msgstr "недозвољени знаци у јавном идентификатору"
 
 #: 38
 msgid ""
 "reserved prefix (xml) must not be undeclared or bound to another namespace "
 "name"
-msgstr ""
+msgstr "резервисаи префикс (xml) не сме да се оддекларише или веже за други именски простор"
 
 #: 39
 msgid "reserved prefix (xmlns) must not be declared or undeclared"
@@ -182,7 +182,7 @@ msgstr "резервисан префикс (xmlns) не може бити об�
 
 #: 40
 msgid "prefix must not be bound to one of the reserved namespace names"
-msgstr ""
+msgstr "префикс не сме да се веже за неки од резервисаних именских простора"
 
 # %1$S is replaced by the Expat error string, may be followed by Expected (see below)
 # %2$S is replaced by URL
@@ -194,12 +194,15 @@ msgid ""
 "Location: %2$S\n"
 "Line Number %3$u, Column %4$u:"
 msgstr ""
+"Грешка у рашчлањавању ИксЕмЕла (XML): %1$S\n"
+"Место: %2$S\n"
+"Ред %3$u, колона %4$u:"
 
 # %S is replaced by a tag name.
 # This gets appended to the error string if the error is mismatched tag.
 #: Expected
 msgid ". Expected: </%S>."
-msgstr ". Очекујем: </%S>."
+msgstr ". Очекује се: </%S>."
 
 #~ msgid "xml declaration not at start of external entity"
 #~ msgstr "објављивање xml-а није почетак спољног уноса"

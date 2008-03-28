@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 18:51+0200\n"
+"PO-Revision-Date: 2008-03-28 22:37+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Контакт"
 
 #: Contact.accesskey
 msgid "C"
-msgstr ""
+msgstr "К"
 
 #: Name.box
 msgid "Name"
@@ -53,11 +53,11 @@ msgstr "Интернет"
 
 #: PrimaryEmail.label PrimaryEmail.accesskey
 msgid "&Email:"
-msgstr "&Ел. пошта:"
+msgstr "&Ел. адреса:"
 
 #: SecondEmail.label SecondEmail.accesskey
 msgid "Add&itional Email:"
-msgstr ""
+msgstr "&Додатна ел. адреса:"
 
 #: PreferMailFormat.label PreferMailFormat.accesskey
 msgid "P&refers to receive messages formatted as:"
@@ -83,7 +83,7 @@ msgstr "&Екранско име:"
 
 #: allowRemoteContent.label allowRemoteContent.accesskey
 msgid "Allo&w remote images in HTML mail."
-msgstr ""
+msgstr "Дозволи да&љинске слике у пошти са ХТМЛом."
 
 #: Phones.box
 msgid "Phones"
@@ -91,11 +91,11 @@ msgstr "Телефони"
 
 #: WorkPhone.label WorkPhone.accesskey
 msgid "Wor&k:"
-msgstr ""
+msgstr "По&сао:"
 
 #: HomePhone.label HomePhone.accesskey
 msgid "H&ome:"
-msgstr ""
+msgstr "&Кућа:"
 
 #: FaxNumber.label FaxNumber.accesskey
 msgid "Fa&x:"
@@ -116,7 +116,7 @@ msgstr "Адреса"
 
 #: Address.accesskey
 msgid "A"
-msgstr ""
+msgstr "А"
 
 #: Home.box
 msgid "Home"
@@ -124,7 +124,7 @@ msgstr "Кућа"
 
 #: HomeAddress.label HomeAddress.accesskey
 msgid "A&ddress:"
-msgstr ""
+msgstr "А&дреса:"
 
 #: HomeAddress2.label
 msgid "_: HomeAddress2.label\n"
@@ -136,23 +136,23 @@ msgstr ""
 
 #: HomeCity.label HomeCity.accesskey
 msgid "Cit&y:"
-msgstr ""
+msgstr "&Место:"
 
 #: HomeState.label HomeState.accesskey
 msgid "&State/Province:"
-msgstr ""
+msgstr "&Област/покрајина:"
 
 #: HomeZipCode.label HomeZipCode.accesskey
 msgid "&ZIP/Postal Code:"
-msgstr ""
+msgstr "По&штански број:"
 
 #: HomeCountry.label HomeCountry.accesskey
 msgid "Co&untry:"
-msgstr ""
+msgstr "Др&жава:"
 
 #: HomeWebPage.label HomeWebPage.accesskey
 msgid "&Web Page:"
-msgstr ""
+msgstr "&Мрежна страна:"
 
 #: Work.box
 msgid "Work"
@@ -160,19 +160,19 @@ msgstr "Посао"
 
 #: JobTitle.label JobTitle.accesskey
 msgid "Titl&e:"
-msgstr ""
+msgstr "&Титула:"
 
 #: Department.label Department.accesskey
 msgid "Depart&ment:"
-msgstr ""
+msgstr "Оде&љење:"
 
 #: Company.label Company.accesskey
 msgid "&Organization:"
-msgstr ""
+msgstr "&Огранизација:"
 
 #: WorkAddress.label WorkAddress.accesskey
 msgid "Add&ress:"
-msgstr ""
+msgstr "&Ад&реса:"
 
 #: WorkAddress2.label
 msgid "_: WorkAddress2.label\n"
@@ -184,23 +184,23 @@ msgstr ""
 
 #: WorkCity.label WorkCity.accesskey
 msgid "C&ity:"
-msgstr ""
+msgstr "Мес&то:"
 
 #: WorkState.label WorkState.accesskey
 msgid "State/Pro&vince:"
-msgstr ""
+msgstr "Област/По&крајина:"
 
 #: WorkZipCode.label WorkZipCode.accesskey
 msgid "ZI&P/Postal Code:"
-msgstr ""
+msgstr "Поштан&ски број:"
 
 #: WorkCountry.label WorkCountry.accesskey
 msgid "Cou&ntry:"
-msgstr ""
+msgstr "Држа&ва:"
 
 #: WorkWebPage.label WorkWebPage.accesskey
 msgid "We&b Page:"
-msgstr ""
+msgstr "Мреж&на страна:"
 
 # Other Tab
 #: Other.tab
@@ -209,7 +209,7 @@ msgstr "Остало"
 
 #: Other.accesskey
 msgid "h"
-msgstr ""
+msgstr "т"
 
 #: Custom1.label Custom1.accesskey
 msgid "Custom &1:"
@@ -233,7 +233,7 @@ msgstr "Белешке"
 
 #: Notes.accesskey
 msgid "N"
-msgstr ""
+msgstr "Б"
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1

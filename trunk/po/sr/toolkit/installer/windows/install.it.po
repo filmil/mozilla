@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-20 22:24+0100\n"
+"PO-Revision-Date: 2008-03-28 22:32+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -180,7 +180,7 @@ msgstr "Посто&јећи директоријуми:"
 
 #: SETUPMESSAGE
 msgid "Setup has finished copying files to your computer.  Before you can use $ProductNameInternal$, you must restart Windows or your computer. Choose one of the following options and click OK to finish setup."
-msgstr "Инсталатер је завршио са пребацивањем датотека на Ваш рачунар.  Пре него што можете да користите програм $ProductNameInternal$, морате да поново покренете Виндовс или Ваш рачунар. Изаберите једну од наредних могућности и притисните „У реду‟ како бисте довршили инсталацију."
+msgstr "Инсталатер је завршио са пребацивањем датотека на Ваш рачунар.  Пре него што можете да користите програм $ProductNameInternal$, морате да поново покренете Виндовс или Ваш рачунар. Изаберите једну од наредних могућности и притисните \"У реду\" како бисте довршили инсталацију."
 
 #: RESTART
 msgid "Restart"
@@ -423,7 +423,7 @@ msgstr "Пажња"
 
 #: MSG_CREATE_DIRECTORY
 msgid "The following directory does not exist:%sWould you like to create it?"
-msgstr "Овај директоријум не постоји:%sДа ли желите да га направите?"
+msgstr "Овај директоријум не постоји:%s Да ли желите да га направите?"
 
 #: STR_CREATE_DIRECTORY
 msgid "Create Directory?"

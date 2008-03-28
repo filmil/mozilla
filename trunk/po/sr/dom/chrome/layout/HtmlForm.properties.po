@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 20:32+0200\n"
+"PO-Revision-Date: 2008-03-28 22:45+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgstr "Проследи упит"
 
 #: Browse
 msgid "Browse…"
-msgstr ""
+msgstr "Преглед…"
 
 #: FileUpload
 msgid "File Upload"

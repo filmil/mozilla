@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-04-15 18:37+0200\n"
+"PO-Revision-Date: 2008-03-28 22:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -124,15 +124,15 @@ msgstr "&Обриши"
 
 #: newAddrBookCard.label newAddrBookCard.accesskey
 msgid "&New Card…"
-msgstr ""
+msgstr "&Нова картица…"
 
 #: newAddrBookMailingList.label newAddrBookMailingList.accesskey
 msgid "New &Mailing List…"
-msgstr ""
+msgstr "&Ново дописно друштво…"
 
 #: addrBookCardProperties.label addrBookCardProperties.accesskey
 msgid "&Properties"
-msgstr "&Поставке"
+msgstr "&Својства"
 
 #~ msgid "&New Card..."
 #~ msgstr "&Нова картица..."

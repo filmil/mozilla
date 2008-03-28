@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-30 10:55-0500\n"
+"PO-Revision-Date: 2008-03-28 23:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -94,69 +94,65 @@ msgid ""
 "To display this page, the application must send information that will repeat "
 "any action (such as a search or order confirmation) that was performed "
 "earlier."
-msgstr ""
+msgstr "Да би ова страна била приказана, програм мора да пошаље податке који ће поновити било које дејство (на пример претрагу или потврду наруџбине) које је већ извршено."
 
 #: resendButton.label
 msgid "Resend"
-msgstr ""
+msgstr "Пошаљи опет"
 
 #: unknownSocketType
 msgid ""
 "This document cannot be displayed unless you install the Personal Security "
 "Manager (PSM). Download and install PSM and try again, or contact your "
 "system administrator."
-msgstr "Firefox не зна како да комуницира са сервером."
+msgstr "Овај документ не може бити приказан док не инсталирате Личног управника безбедности (ЛУБ, PSM).  Преузмите и инсталирајте ЛУБ и пробајте поново, или се обратите администратору система."
 
 #: netReset
 msgid "The document contains no data."
-msgstr "Веза са сервером је обновљена приликом учитавања стране."
+msgstr "Документ не садржи податке."
 
 #: netOffline
 msgid ""
 "This document cannot be displayed while offline. To go online, uncheck Work "
 "Offline from the File menu."
-msgstr "Firefox тренутно ради ван мреже и не може да приступа Интернету."
+msgstr "Овај документ не може бити приказан док радите ван мреже.  ДА бисте се повезали, из менија „Датотека‟ одбележите кућицу „Рад ван мреже‟."
 
 #: isprinting
 msgid "The document cannot change while Printing or in Print Preview."
-msgstr ""
-"За време штампе или прегледа стране пре штампе докуменат не може бити "
-"измењен."
+msgstr "За време штампе или прегледа стране пре штампе документ не може бити измењен."
 
 #: deniedPortAccess
 msgid "Access to the port number given has been disabled for security reasons."
-msgstr ""
-"Ова адреса користи мрежни порт који се обично користи за друге сврхе које "
-"нису сурфовање интернетом. Firefox је прекинуо захтев зарад Ваше сигурности."
+msgstr "Приступ задатом порту је искључен из безбедносних разлога."
 
 #: proxyResolveFailure
 msgid ""
 "The proxy server you have configured could not be found. Please check your "
 "proxy settings and try again."
-msgstr "Firefox је подешен да користи прокси сервер који је немогуће пронаћи."
+msgstr "Посредник (proxy) ког сте подесили није нађен.  Молимо проверите подешавања посредника и пробајте поново."
 
 #: proxyConnectFailure
 msgid ""
 "The connection was refused when attempting to contact the proxy server you "
 "have configured. Please check your proxy settings and try again."
-msgstr "Firefox је подешен да користи прокси сервер који одбија везу."
+msgstr "Веза је одбијена приликом покушаја повезивања са посредником ког сте задали.  Молимо да проверите подешавања посредника и да пробате поново."
 
 #: contentEncodingError
 msgid ""
 "The page you are trying to view cannot be shown because it uses an invalid "
 "or unsupported form of compression."
-msgstr ""
+msgstr "Страна коју покушавате да погледате није могла бити приказана јер користи неисправну или неподржану компресију."
 
 #: unsafeContentType
 msgid ""
 "The page you are trying to view cannot be shown because it is contained in a "
 "file type that may not be safe to open. Please contact the website owners to "
 "inform them of this problem."
-msgstr ""
+msgstr "Страна коју покушавате да погледате није могла бити приказана јер је садржана у врсти датотека које нису безбедне за отварање.  Молимо да обавестите власнике сајта о овом проблему."
 
 #: externalProtocolTitle
 msgid "External Protocol Request"
-msgstr "Затражен је спољни протокол"
+msgstr "Захтев за спољашњим протоколом"
 
 #: externalProtocolPrompt
 msgid ""
@@ -174,15 +170,13 @@ msgid ""
 "weakness in that other program. Cancel this request unless you are sure it "
 "is not malicious.\n"
 msgstr ""
-"Спољни програм мора бити покренут да би обрадио %1$S: везе. Тражена веза:\n"
+"Спољни програм мора бити покренут да би обрадио везе %1$S:. Тражена веза:\n"
 "\n"
 "\n"
 "%2$S\n"
 "\n"
 "\n"
-"Ако нисте очекивали овај захтев, то може бити начин да се искористи слабост "
-"тог спољног програма, прекините захтев, осим ако сте сигурни да захтев није "
-"злонамеран.\n"
+"Ако нисте очекивали овај захтев, то може бити начин да се искористи слабост тог спољног програма, прекините захтев, осим ако сте сигурни да захтев није злонамеран.\n"
 
 # LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
 # LOCALIZATION NOTE (externalProtocolUnknown): The following string is shown if the application name can't be determined
@@ -202,13 +196,13 @@ msgstr "Покрени програм"
 msgid ""
 "The site at %S has been reported as an attack site and has been blocked "
 "based on your security preferences."
-msgstr ""
+msgstr "Сајт %S је пријављен као злонамеран и приступ њему је онемогућен на основу Ваших безбедносних поставки."
 
 #: phishingBlocked
 msgid ""
 "The web site at %S has been reported as a web forgery designed to trick "
 "users into sharing personal or financial information."
-msgstr ""
+msgstr "Веб сајт %S је пријављен као мрежни фалсификат направљен да кориснике наведе на дељење личних или финансијских података."
 
 #~ msgid ""
 #~ "The page you are trying to view contains POSTDATA that has expired from "
