@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-24 22:17+0100\n"
+"PO-Revision-Date: 2008-03-28 23:51+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr "sr"
 # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
 #: pluralRule
 msgid "1"
-msgstr ""
+msgstr "7"
 
 # Localization Note: font.language.group controls the initial setting of the
 # language drop-down in the fonts pref panel. Set it to the value of one of the

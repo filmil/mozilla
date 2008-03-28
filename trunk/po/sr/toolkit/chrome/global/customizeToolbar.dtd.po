@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-12-25 01:46+0100\n"
+"PO-Revision-Date: 2008-03-28 23:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,15 +20,15 @@ msgstr "Прилагоди алатну траку"
 
 #: dialog.style
 msgid "width: 635px; height: 400px;"
-msgstr ""
+msgstr "width: 635px; height: 400px;"
 
 #: instructions.description
 msgid "You can add or remove items by dragging to or from the toolbars."
-msgstr "Можете да додате или одузмете ставке превлачећи их са или на алатну траку."
+msgstr "Можете да додате или уклоните ставке превлачећи их до или од алатне траке."
 
 #: show.label
 msgid "Show:"
-msgstr "Прикажи:"
+msgstr "Приказ:"
 
 #: iconsAndText.label
 msgid "Icons and Text"

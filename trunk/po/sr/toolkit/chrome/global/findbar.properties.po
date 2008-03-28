@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-24 22:58+0100\n"
+"PO-Revision-Date: 2008-03-28 23:48+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgstr "Брзо тражење:"
 
 #: FastFindLinksLabel
 msgid "Quick Find (links only):"
-msgstr ""
+msgstr "Брза претрага (само везе):"
 
 #: CaseSensitive
 msgid "(Case sensitive)"
@@ -45,12 +45,12 @@ msgstr "(Величина слова је битна)"
 
 #: FoundMatchCount
 msgid "%S match"
-msgstr ""
+msgstr "погодака: %S"
 
 #: FoundMatchesCount
 msgid "%S matches"
-msgstr ""
+msgstr "погодака: %S"
 
 #: FoundTooManyMatches
 msgid "More than %S matches"
-msgstr ""
+msgstr "Више од оволико погодака: %S"
