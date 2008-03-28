@@ -12,6 +12,7 @@ ZIP:=zip
 CVS:=cvs
 POMIGRATE:=pomigrate2
 ICONV:=iconv
+GREP:=grep
 
 # # Directory configuration
 LOCALE_NAME:=sr

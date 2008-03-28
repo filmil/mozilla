@@ -91,6 +91,7 @@ populate:
 # Computes file statistics and updates the statistics file
 stats:
 	. $(SCRIPTS_DIR)/stats.sh &> $(STATS_DIR)/stats.txt
+	$(GREP) -i untranslated $(STATS_DIR)/stats.txt &> $(STATS_DIR)/untranslated.txt
 
 check:
 	@echo Files in pot/

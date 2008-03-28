@@ -1,3 +1,7 @@
+2008-03-28  Filip Miletic  <filmil@gmail.com>
+
+	* Added help translations to Serbian, from http://mozilla.elfak.net
+
 2008-03-26  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr-RS/browser/chrome/browser/preferences/connection.dtd.po: Updated.

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-08-30 10:46-0500\n"
+"PO-Revision-Date: 2008-03-28 20:27+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -48,7 +48,7 @@ msgstr "Посебна захвалност"
 msgid ""
 "_: credit.translation\n"
 ""
-msgstr "<h3>Преводиоци</h3><ul><li>Филип Милетић</li><li>Љубиша Радовановић</li></ul>\n"
+msgstr "<h3>Преводиоци</h3><ul><li>Филип Милетић</li><li>Љубиша Радовановић</li><li>проф. др Владан Јанковић</li><li>Владана Михаиловић</li><li>Драган Митровић</li><li>дипл. инж. Душан Вучковић</li><li>проф. др Милорад Тошић</li></ul>"
 
 #: credit.visuals
 msgid "Visual Design Coordinator"
@@ -68,11 +68,11 @@ msgstr "Веб дизајн"
 
 #: credit.update
 msgid "Mozilla Update"
-msgstr "Mozilla унапређење"
+msgstr "Мозилине доградње"
 
 #: credit.qalead
 msgid "Quality Assurance Lead"
-msgstr "Шеф провере квалитета"
+msgstr "Вођа контроле квалитета"
 
 #: credit.qa
 msgid "Quality Assurance"
@@ -80,7 +80,7 @@ msgstr "Провера квалитета"
 
 #: credit.build
 msgid "Build and Release"
-msgstr "Издање"
+msgstr "Изградња и издавање"
 
 #: credit.infra
 msgid "Infrastructure Support"
@@ -88,15 +88,15 @@ msgstr "Подршка инфраструктуре"
 
 #: credit.support
 msgid "Support Resources"
-msgstr "Подршка"
+msgstr "Ресурси подршке"
 
 #: credit.manage
 msgid "Project Management"
-msgstr "Менаџери пројекта"
+msgstr "Управници пројекта"
 
 #: credit.marketleads
 msgid "Marketing Leads"
-msgstr "Шеф маркетинга"
+msgstr "Вође маркетинга"
 
 #: credit.market
 msgid "Marketing"
@@ -108,8 +108,8 @@ msgstr "Направио"
 
 #: credit.memory
 msgid "In Fond Memory Of"
-msgstr "Оснивач"
+msgstr "У сећање на"
 
 #: credit.poweredByGecko
 msgid "Powered by Gecko&trade;"
-msgstr "Подржан од Gecko&trade;"
+msgstr "Покреће геко (Gecko&trade;)"

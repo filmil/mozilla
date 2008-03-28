@@ -131,7 +131,7 @@ po/sr-RS/mail/chrome/messenger/news.properties.po:	26 translated messages.
 po/sr-RS/mail/chrome/messenger/AccountWizard.dtd.po:	56 translated messages.
 po/sr-RS/mail/chrome/messenger/am-mdn.dtd.po:	16 translated messages.
 po/sr-RS/mail/chrome/messenger/messenger.dtd.po:	277 translated messages, 79 untranslated messages.
-po/sr-RS/mail/chrome/messenger/start.dtd.po:	16 translated messages, 8 untranslated messages.
+po/sr-RS/mail/chrome/messenger/start.dtd.po:	23 translated messages, 1 untranslated message.
 po/sr-RS/mail/chrome/messenger/am-identity-edit.dtd.po:	5 translated messages.
 po/sr-RS/mail/chrome/messenger/fieldMapImport.dtd.po:	5 translated messages, 6 untranslated messages.
 po/sr-RS/mail/chrome/messenger/am-advanced.dtd.po:	9 translated messages, 3 untranslated messages.
