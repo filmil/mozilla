@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-29 00:33+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,95 +16,95 @@ msgstr ""
 
 #: printTitle
 msgid "Print"
-msgstr ""
+msgstr "Штампање"
 
 #: optionsTabLabel
 msgid "Options"
-msgstr ""
+msgstr "Опције"
 
 #: printFramesTitle
 msgid "Print Frames"
-msgstr ""
+msgstr "Штампај оквире"
 
 # TRANSLATOR NOTE: For radio button labels and check button labels, an underscore _
 # before a character will turn that character into an accesskey.
 # e.g. "_As laid out" will make A the accesskey.
 #: asLaidOut
 msgid "_As Laid Out on the Screen"
-msgstr ""
+msgstr "_Као на екрану"
 
 #: selectedFrame
 msgid "The _Selected Frame"
-msgstr ""
+msgstr "_Изабрани оквир"
 
 #: separateFrames
 msgid "Each Frame on Separate _Pages"
-msgstr ""
+msgstr "_Сваки оквир на посебној страни"
 
 #: shrinkToFit
 msgid "Ignore Scaling and S_hrink To Fit Page Width"
-msgstr ""
+msgstr "_Занемари скалирање и уклопи на ширину стране"
 
 #: selectionOnly
 msgid "Print Selection _Only"
-msgstr ""
+msgstr "Штампај само _избор"
 
 #: printBGOptions
 msgid "Print Backgrounds"
-msgstr ""
+msgstr "Штампај позадине"
 
 #: printBGColors
 msgid "Print Background _Colors"
-msgstr ""
+msgstr "Штампај _боје позадина"
 
 #: printBGImages
 msgid "Print Background I_mages"
-msgstr ""
+msgstr "Штампај позадинске с_лике"
 
 #: headerFooter
 msgid "Header and Footer"
-msgstr ""
+msgstr "Заглавље и фуснота"
 
 #: left
 msgid "Left"
-msgstr ""
+msgstr "Лево"
 
 #: center
 msgid "Center"
-msgstr ""
+msgstr "Средина"
 
 #: right
 msgid "Right"
-msgstr ""
+msgstr "Десно"
 
 #: headerFooterBlank
 msgid "--blank--"
-msgstr ""
+msgstr "--празно--"
 
 #: headerFooterTitle
 msgid "Title"
-msgstr ""
+msgstr "Наслов"
 
 #: headerFooterURL
 msgid "URL"
-msgstr ""
+msgstr "УРЛ"
 
 #: headerFooterDate
 msgid "Date/Time"
-msgstr ""
+msgstr "Датум/време"
 
 #: headerFooterPage
 msgid "Page #"
-msgstr ""
+msgstr "Бр. стране"
 
 #: headerFooterPageTotal
 msgid "Page # of #"
-msgstr ""
+msgstr "Страна # од #"
 
 #: headerFooterCustom
 msgid "Custom..."
-msgstr ""
+msgstr "Прилагођено..."
 
 #: customHeaderFooterPrompt
 msgid "Please enter your custom header/footer text"
-msgstr ""
+msgstr "Молимо да унесете прилагођени текст за заглавље или фусноту"
