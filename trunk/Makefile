@@ -12,7 +12,7 @@
 
 include Makefile.inc
 
-.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy
+.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy fixme
 
 all: clean tryconv stats 
 
@@ -29,6 +29,9 @@ publishcopy:
 clean:
 	$(RM) *~
 	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)*
+# Finds all the FIXME strings in files
+fixme:
+	$(FIND) $(PO_TRANSLATIONS) -name '*' -a ! -name '*.svn*' | $(XARGS) $(GREP) -n FIXME
 
 # Прављење превода од образаца и ПО датотека
 $(OUTPUT_DIR):

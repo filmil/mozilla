@@ -13,6 +13,8 @@ CVS:=cvs
 POMIGRATE:=pomigrate2
 ICONV:=iconv
 GREP:=grep
+FIND:=find
+XARGS:=xargs
 
 # # Directory configuration
 LOCALE_NAME:=sr
