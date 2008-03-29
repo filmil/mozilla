@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-12 20:29+0100\n"
+"PO-Revision-Date: 2008-03-29 01:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: unverified
 msgid "(Author not verified)"
-msgstr ""
+msgstr "(Аутор није проверен)"
 
 #: signed
 msgid "(%S)"
-msgstr ""
+msgstr "(%S)"
 
 #: itemWarnIntroMultiple
 msgid "You have asked to install the following %S items:"

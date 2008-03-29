@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2006-11-23 22:26+0100\n"
+"PO-Revision-Date: 2008-03-29 01:52+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -83,15 +83,16 @@ msgstr "&Унесите име новог профила:"
 msgid ""
 "Your user settings, preferences and other user-related data will be stored "
 "in:"
-msgstr ""
+msgstr "Ваша корисничка подешавања, поставке и остали подаци везани за Вас биће чувани у:"
 
+# FIXME This can and should be shorter to translate
 #: profileDefaultName
 msgid "Default User"
 msgstr "Подразумевани корисник"
 
 #: button.choosefolder.label button.choosefolder.accesskey
 msgid "&Choose Folder…"
-msgstr ""
+msgstr "&Избор директоријума…"
 
 #: button.usedefault.label button.usedefault.accesskey
 msgid "&Use Default Folder"

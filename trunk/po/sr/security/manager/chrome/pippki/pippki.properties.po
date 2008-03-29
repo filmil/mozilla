@@ -40,7 +40,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:26+0200\n"
+"PO-Revision-Date: 2008-03-29 02:07+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -122,21 +122,21 @@ msgstr "Није пронађен сертификат за овог власн�
 # For Deleting Certificates
 #: deleteSslCertConfirm3
 msgid "Are you sure you want to delete these server exceptions?"
-msgstr ""
+msgstr "Да ли сигурно желите да уклоните ове серверске изузетке?"
 
 #: deleteSslCertImpact3
 msgid ""
 "If you delete a server exception, you restore the usual security checks for "
 "that server and require it uses a valid certificate."
-msgstr ""
+msgstr "Ако уклоните серверски изузетак, враћате уобичајену проверу безбедности за сервер и захтевате да поседује важећи сертификат."
 
 #: deleteSslCertTitle3
 msgid "Delete Server Certificate Exceptions"
-msgstr ""
+msgstr "Уклони изузетак о серверском сертификату"
 
 #: deleteUserCertConfirm deleteOrphanCertConfirm
 msgid "Are you sure you want to delete these certificates?"
-msgstr "Are you sure you want to delete these certificates?"
+msgstr "Да ли сигурно желите да уклоните ове сертификате?"
 
 #: deleteUserCertImpact
 msgid ""
@@ -154,15 +154,17 @@ msgstr "Брисање ваших сертификата"
 msgid "Are you sure you want to delete these CA certificates?"
 msgstr "Да ли сте сигурни да желите да избришете ПС сертификате?"
 
+# FIXME CA
 #: deleteCaCertImpactX
 msgid ""
 "If you delete a certificate authority (CA) certificate, this application "
 "will no longer trust any certificates issued by that CA."
-msgstr ""
+msgstr "Ако избришете ауторитет за сертификат (ЦА, CA), овај програм више неће веровати сертификатима које је издао тај ЦА."
 
+# FIXME CA
 #: deleteCaCertTitle
 msgid "Delete CA Certificates"
-msgstr "Избриши ПС сертификат"
+msgstr "Избриши ЦА сертификат"
 
 #: deleteEmailCertConfirm
 msgid "Are you sure you want to delete these people's e-mail certificates?"
@@ -174,7 +176,7 @@ msgstr ""
 msgid ""
 "If you delete a person's e-mail certificate, you will no longer be able to "
 "send encrypted e-mail to that person."
-msgstr ""
+msgstr "Ако уклоните сертификат за ел. пошту неке особе, више нећете моћи да јој шаљете ел. пошту."
 
 #: deleteEmailCertTitle
 msgid "Delete E-Mail Certificates"
@@ -182,7 +184,7 @@ msgstr "Избришите сертификат ел. поште"
 
 #: deleteOrphanCertTitle
 msgid "Delete Certificates"
-msgstr ""
+msgstr "Уклањање сертификата"
 
 # PKCS#12 file dialogs
 # PKCS#12 file dialogs
@@ -532,11 +534,11 @@ msgstr "Самоунапређење је омогућено за ову ЛПС.
 
 #: crlAutoupdateQuestion1
 msgid "Would you like to enable automatic update?"
-msgstr ""
+msgstr "Да ли желите да укључите аутоматску доградњу?"
 
 #: crlAutoupdateQuestion2
 msgid "Would you like to view the automatic update settings?"
-msgstr ""
+msgstr "Да ли желите да прегледате подешавања аутоматске доградње?"
 
 #: undefinedValStr
 msgid "<Not Defined>"
@@ -598,7 +600,7 @@ msgstr "Изабери датотеку који садржи ПС сертиф�
 
 #: importServerCertPrompt
 msgid "Select File containing Server certificate to import"
-msgstr ""
+msgstr "Изаберите датотеку која садржи серверски сертификат за увоз"
 
 #: file_browse_Certificate_spec
 msgid "Certificate Files"
@@ -612,122 +614,124 @@ msgstr "Веб место '%S' тражи да потврдите следећу
 # Cert export
 #: SaveCertAs
 msgid "Save Certificate To File"
-msgstr ""
+msgstr "Чување сертификата у датотеци"
 
 #: CertFormatBase64
 msgid "X.509 Certificate (PEM)"
-msgstr ""
+msgstr "Сертификат X.509 (PEM)"
 
 #: CertFormatBase64Chain
 msgid "X.509 Certificate with chain (PEM)"
-msgstr ""
+msgstr "Сертификат X.509 са ланцем (PEM)"
 
 #: CertFormatDER
 msgid "X.509 Certificate (DER)"
-msgstr ""
+msgstr "Сертификат X.509 (DER)"
 
 #: CertFormatPKCS7
 msgid "X.509 Certificate (PKCS#7)"
-msgstr ""
+msgstr "Сертификат X.509 (PKCS#7)"
 
 #: CertFormatPKCS7Chain
 msgid "X.509 Certificate with chain (PKCS#7)"
-msgstr ""
+msgstr "Сертификат X.509 са ланцем (PKCS#7)"
 
 #: writeFileFailure
 msgid "File Error"
-msgstr ""
+msgstr "Грешка у датотеци"
 
 #: writeFileFailed
 msgid ""
 "Can't write to file %S:\n"
 "%S."
 msgstr ""
+"Није могућ упис у датотеку %S:\n"
+"%S."
 
 #: writeFileAccessDenied
 msgid "Access denied"
-msgstr ""
+msgstr "Приступ није дозвољен"
 
 #: writeFileIsLocked
 msgid "File is locked"
-msgstr ""
+msgstr "Датотека је закључана"
 
 #: writeFileNoDeviceSpace
 msgid "No space left on device"
-msgstr ""
+msgstr "Нема простора на уређају"
 
 #: writeFileUnknownError
 msgid "Unknown error"
-msgstr ""
+msgstr "Непозната грешка"
 
 # Add Security Exception dialog
 #: addExceptionBrandedWarning2
 msgid "You are about to override how %S identifies this site."
-msgstr ""
+msgstr "Само што нисте преиначили механизам за идентификацију сајта за програм %S."
 
 #: addExceptionInvalidHeader
 msgid "This site attempts to identity itself with invalid information."
-msgstr ""
+msgstr "Сајт покушава да се представи помоћу неважећих информација."
 
 #: addExceptionDomainMismatchShort
 msgid "Wrong Site"
-msgstr ""
+msgstr "Погрешан сајт"
 
 #: addExceptionDomainMismatchLong
 msgid ""
 "Certificate belongs to a different site, which could indicate an identity "
 "theft."
-msgstr ""
+msgstr "Сертификат припада другом сајту, то може да указује на крађу идентитета."
 
 #: addExceptionExpiredShort
 msgid "Outdated Information"
-msgstr ""
+msgstr "Застарели подаци"
 
 #: addExceptionExpiredLong
 msgid ""
 "Certificate is not currently valid. It is impossible to verify whether this "
 "identity was reported as stolen or lost."
-msgstr ""
+msgstr "Сертификат је тренутно неважећи.  Није могуће проверити да ли је овај идентитет пријављен као украден или изгубљен."
 
 #: addExceptionUnverifiedShort
 msgid "Unknown Identity"
-msgstr ""
+msgstr "Непознат идентитет"
 
 #: addExceptionUnverifiedLong
 msgid ""
 "Certificate is not trusted, because it hasn't been verified by a recognized "
 "authority."
-msgstr ""
+msgstr "Сертификат није од поверења, јер га није признао познати ауторитет."
 
 #: addExceptionValidShort
 msgid "Valid Certificate"
-msgstr ""
+msgstr "Важећи сертификат"
 
 #: addExceptionValidLong
 msgid ""
 "This site provides valid, verified identification.  There is no need to add "
 "an exception."
-msgstr ""
+msgstr "Сајт је дао важећи, проверени сертификат.  Нема потребе да додајете изузетак."
 
 #: addExceptionCheckingShort
 msgid "Checking Information"
-msgstr ""
+msgstr "Провера података"
 
 #: addExceptionCheckingLong
 msgid "Attempting to identify the site…"
-msgstr ""
+msgstr "Покушај да се идентификује сајт…"
 
 #: addExceptionNoCertShort
 msgid "No Information Available"
-msgstr ""
+msgstr "Нема доступних података"
 
 #: addExceptionNoCertLong
 msgid "Unable to obtain identification status for the given site."
-msgstr ""
+msgstr "Није могуће добавити статус о идентитету наведеног сајта."
 
 #: addExceptionConnectionFailed
 msgid "Connection Failed"
-msgstr ""
+msgstr "Веза је прекинута"
 
 # For Deleting Certificates
 # For Deleting Certificates

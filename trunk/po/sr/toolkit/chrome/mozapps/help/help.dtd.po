@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-08-30 10:39-0500\n"
+"PO-Revision-Date: 2008-03-29 01:44+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr "&Претрага"
 
 #: searchClose.tooltip
 msgid "Close search results"
-msgstr ""
+msgstr "Затвори резултате претраге"
 
 #: toctab.label toctab.accesskey
 msgid "&Contents"
@@ -121,11 +121,11 @@ msgstr "У&век на врху"
 
 #: fullZoomReduceBtn.label fullZoomReduceBtn.accesskey
 msgid "Zoom &Out"
-msgstr ""
+msgstr "У&мањи"
 
 #: fullZoomEnlargeBtn.label fullZoomEnlargeBtn.accesskey
 msgid "Zoom &In"
-msgstr ""
+msgstr "У&већај"
 
 #~ msgid "Activity Indicator"
 #~ msgstr "Индикатор активности"

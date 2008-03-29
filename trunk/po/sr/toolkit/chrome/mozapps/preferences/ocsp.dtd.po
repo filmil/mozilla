@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-12 20:32+0100\n"
+"PO-Revision-Date: 2008-03-29 01:46+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,21 +16,21 @@ msgstr ""
 
 #: ocspDialog.title
 msgid "Certificate Validation"
-msgstr ""
+msgstr "Валидација сертификата"
 
 #: enableOCSP.label enableOCSP.accesskey
 msgid ""
 "&Use the Online Certificate Status Protocol (OCSP) to confirm the current "
 "validity of certificates"
-msgstr ""
+msgstr "&Користи мрежни протокол за сертификацију (ОЦСП, OCSP) за потврду тренутне важности сертификата"
 
 #: certOCSP2.label certOCSP2.accesskey
 msgid "&Validate a certificate if it specifies an OCSP server"
-msgstr ""
+msgstr "&Потврди све сертификате који користе ма који сервер за ОЦСП:"
 
 #: proxyOCSP2.label proxyOCSP2.accesskey
 msgid "V&alidate all certificates using the following OCSP server:"
-msgstr ""
+msgstr "По&тврди све сертификате који користе наведени сервер за ОЦСП:"
 
 #: serviceURL.label serviceURL.accesskey
 msgid "&Service URL:"
@@ -42,7 +42,7 @@ msgstr "&Одговорни потписник:"
 
 #: requireOCSP.label requireOCSP.accesskey
 msgid "&When an OCSP server connection fails, treat the certificate as invalid"
-msgstr ""
+msgstr "&Када веза са сервером за ОЦСП не успе, сматрај да је сертификат неважећи"
 
 #~ msgid ""
 #~ "_: Do not translate this.  Only change the numeric values if you need "

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:30+0200\n"
+"PO-Revision-Date: 2008-03-29 02:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -60,19 +60,19 @@ msgstr "Ваши сертификати"
 
 #: certmgr.tab.others2
 msgid "People"
-msgstr ""
+msgstr "Људи"
 
 #: certmgr.tab.websites3
 msgid "Servers"
-msgstr ""
+msgstr "Сервери"
 
 #: certmgr.tab.ca
 msgid "Authorities"
-msgstr "Аутор"
+msgstr "Ауторитети"
 
 #: certmgr.tab.orphan2
 msgid "Others"
-msgstr ""
+msgstr "Остали"
 
 #: certmgr.ca.builtins
 msgid "Built-in CAs"
@@ -84,39 +84,38 @@ msgstr "Кориснички одређене ПС"
 
 #: certmgr.mine
 msgid "You have certificates from these organizations that identify you:"
-msgstr "You have certificates from these organizations that identify you:"
+msgstr "Имате сертификате наведених организација које Вас препознају:"
 
 #: certmgr.others
 msgid "You have certificates on file that identify these people:"
-msgstr "You have certificates on file that identify these people:"
+msgstr "Имате сертификате који идентификују ове особе:"
 
 #: certmgr.websites2
 msgid "You have certificates on file that identify these servers:"
-msgstr ""
+msgstr "Имате сертификате који идентификују ове сервере:"
 
 #: certmgr.cas
 msgid ""
 "You have certificates on file that identify these certificate authorities:"
-msgstr ""
-"You have certificates on file that identify these certificate authorities:"
+msgstr "Имате сертификате који идентификују ове ауторитете:"
 
 #: certmgr.orphans
 msgid ""
 "You have certificates on file that do not fit in any of the other categories:"
-msgstr ""
+msgstr "Имате сертификате који се не уклапају ни у једну другу категорију:"
 
 #: certmgr.detail.general_tab.title certmgr.detail.general_tab.accesskey
 msgid "&General"
-msgstr ""
+msgstr "&Опште"
 
 #: certmgr.detail.prettyprint_tab.title
 #: certmgr.detail.prettyprint_tab.accesskey
 msgid "&Details"
-msgstr ""
+msgstr "&Детаљи"
 
 #: certmgr.pending.label
 msgid "Currently verifying certificate…"
-msgstr ""
+msgstr "Провера сертификата је у току…"
 
 #: certmgr.subjectinfo.label
 msgid "Issued To"
@@ -172,7 +171,7 @@ msgstr "Мења подешавање поверења ПС"
 
 #: certmgr.editsslcert.title
 msgid "Edit web site certificate trust settings"
-msgstr "Edit web site certificate trust settings"
+msgstr "Уређивање поставки о поверењу сертификату за веб сајт"
 
 #: certmgr.editcert.edittrust
 msgid "Edit trust settings:"
@@ -180,15 +179,15 @@ msgstr "Измени поставке поверења:"
 
 #: certmgr.editcert.trustssl
 msgid "This certificate can identify web sites."
-msgstr "This certificate can identify web sites."
+msgstr "Овај сертификат може да идентификује веб сајтове."
 
 #: certmgr.editcert.trustemail
 msgid "This certificate can identify mail users."
-msgstr "This certificate can identify mail users."
+msgstr "Овај сертификат може да идентификује кориснике ел. поште."
 
 #: certmgr.editcert.trustobjsign
 msgid "This certificate can identify software makers."
-msgstr "This certificate can identify software makers."
+msgstr "Овај сертификат може да идентификује произвођаче софтвера."
 
 #: certmgr.editsslcert.edittrust certmgr.editemailcert.edittrust
 msgid "Edit certificate trust settings:"
@@ -212,11 +211,11 @@ msgstr "Избриши сертификат"
 
 #: certmgr.deletecert.beforename
 msgid "You have requested to delete this certificate:"
-msgstr "You have requested to delete this certificate:"
+msgstr "Захтевали сте уклањање овог сертификата:"
 
 #: certmgr.deletecert.aftername
 msgid "Are you sure you want to delete this certificate?"
-msgstr "Are you sure you want to delete this certificate?"
+msgstr "Да ли сигурно желите да уклоните овај сертификат?"
 
 #: certmgr.deleteusercert.title
 msgid "Delete Your Certificate"
@@ -224,15 +223,13 @@ msgstr "Избриши Ваш сертификат"
 
 #: certmgr.deleteusercert.beforename
 msgid "You have requested to delete the certificate:"
-msgstr "You have requested to delete the certificate:"
+msgstr "Захтевали сте уклањање сертификата:"
 
 #: certmgr.deleteusercert.aftername
 msgid ""
 "Once you have deleted this certificate, you will not be able to read mail "
 "that has been encrypted with it."
-msgstr ""
-"Once you have deleted this certificate, you will not be able to read mail "
-"that has been encrypted with it."
+msgstr "Када једном уклоните овај сертификат, нећете моћи да читате пошту која је шифрована помоћу њега."
 
 #: certmgr.certname
 msgid "Certificate Name"
@@ -240,15 +237,15 @@ msgstr "Назив сертификата"
 
 #: certmgr.certserver exceptionMgr.certlocation.caption2
 msgid "Server"
-msgstr ""
+msgstr "Сервер"
 
 #: certmgr.typesofoverrides
 msgid "Exceptions"
-msgstr ""
+msgstr "Изузеци"
 
 #: certmgr.override_lifetime
 msgid "Lifetime"
-msgstr ""
+msgstr "Животни век"
 
 #: certmgr.tokenname
 msgid "Security Device"
@@ -256,15 +253,15 @@ msgstr "Формирање заштите"
 
 #: certmgr.purpose
 msgid "Purposes"
-msgstr "Сврха"
+msgstr "Сврхе"
 
 #: certmgr.issued
 msgid "Issued On"
-msgstr "Издато на"
+msgstr "Издато"
 
 #: certmgr.expires
 msgid "Expires On"
-msgstr "Рок трајања"
+msgstr "Истиче"
 
 #: certmgr.email
 msgid "E-Mail Address"
@@ -276,11 +273,11 @@ msgstr "&Затвори"
 
 #: certmgr.view2.label certmgr.view2.accesskey
 msgid "&View…"
-msgstr ""
+msgstr "&Преглед…"
 
 #: certmgr.edit2.label certmgr.edit2.accesskey
 msgid "&Edit…"
-msgstr ""
+msgstr "&Уреди…"
 
 #: certmgr.editca.label certmgr.editca.accesskey
 msgid "E&dit CA Trust"
@@ -292,23 +289,23 @@ msgstr "&Додај"
 
 #: certmgr.export.label certmgr.export.accesskey
 msgid "E&xport…"
-msgstr ""
+msgstr "&Извоз…"
 
 #: certmgr.delete2.label certmgr.delete2.accesskey
 msgid "&Delete…"
-msgstr ""
+msgstr "&Уклони…"
 
 #: certmgr.backup2.label certmgr.backup2.accesskey
 msgid "&Backup…"
-msgstr ""
+msgstr "&Архивирај…"
 
 #: certmgr.backupall2.label certmgr.backupall2.accesskey
 msgid "Bac&kup All…"
-msgstr ""
+msgstr "Ар&хивирај све…"
 
 #: certmgr.restore2.label certmgr.restore2.accesskey
 msgid "I&mport…"
-msgstr ""
+msgstr "&Увоз…"
 
 #: certmgr.details.label certmgr.details.accesskey
 msgid "Certificate &Fields"
@@ -324,52 +321,52 @@ msgstr "&Хијерархија сертификата"
 
 #: certmgr.addException.label certmgr.addException.accesskey
 msgid "Add E&xception…"
-msgstr ""
+msgstr "Додај &изузетак…"
 
 #: exceptionMgr.title
 msgid "Add Security Exception"
-msgstr ""
+msgstr "Додавање безбедносног изузетка"
 
 #: exceptionMgr.exceptionButton
 msgid "Confirm Security Exception"
-msgstr ""
+msgstr "Потврда безбедносног изузетка"
 
 #: exceptionMgr.exceptionButtonAccess
 msgid "C"
-msgstr ""
+msgstr "П"
 
 #: exceptionMgr.supplementalWarning
 msgid ""
 "Legitimate banks, stores, and other public sites will not ask you to do this."
-msgstr ""
+msgstr "Легитимне банке, продавнице и други јавни сајтови вас неће питати да ово радите."
 
 #: exceptionMgr.certlocation.url
 msgid "Location:"
-msgstr ""
+msgstr "Местио:"
 
 #: exceptionMgr.certlocation.download
 msgid "Get Certificate"
-msgstr ""
+msgstr "Добави сертификат"
 
 #: exceptionMgr.certlocation.accesskey
 msgid "G"
-msgstr ""
+msgstr "Д"
 
 #: exceptionMgr.certstatus.caption
 msgid "Certificate Status"
-msgstr ""
+msgstr "Статус сертификата"
 
 #: exceptionMgr.certstatus.viewCert
 msgid "View…"
-msgstr ""
+msgstr "Преглед…"
 
 #: exceptionMgr.certstatus.accesskey
 msgid "V"
-msgstr ""
+msgstr "П"
 
 #: exceptionMgr.permanent.label exceptionMgr.permanent.accesskey
 msgid "&Permanently store this exception"
-msgstr ""
+msgstr "&Трајно сачувај овај изузетак"
 
 #~ msgid "Other People's"
 #~ msgstr "Други"

@@ -1,12 +1,6 @@
-po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	25 translated messages, 3 untranslated messages.
-po/sr/toolkit/chrome/mozapps/preferences/ocsp.dtd.po:	2 translated messages, 5 untranslated messages.
-po/sr/toolkit/chrome/mozapps/plugins/plugins.dtd.po:	13 translated messages, 3 untranslated messages.
-po/sr/toolkit/chrome/mozapps/profile/profileSelection.dtd.po:	8 translated messages, 3 untranslated messages.
-po/sr/toolkit/chrome/mozapps/profile/createProfileWizard.dtd.po:	11 translated messages, 2 untranslated messages.
-po/sr/toolkit/chrome/mozapps/profile/profileSelection.properties.po:	26 translated messages, 1 untranslated message.
-po/sr/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.properties.po:	7 translated messages, 2 untranslated messages.
-po/sr/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po:	3 translated messages, 2 untranslated messages.
-po/sr/security/manager/chrome/pippki/certManager.dtd.po:	48 translated messages, 30 untranslated messages.
-po/sr/security/manager/chrome/pippki/pippki.properties.po:	105 translated messages, 36 untranslated messages.
+po/sr/browser/chrome/browser/places/places.dtd.po:	0 translated messages, 125 untranslated messages.
+po/sr/browser/chrome/browser/places/places.properties.po:	0 translated messages, 74 untranslated messages.
+po/sr/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	0 translated messages, 15 untranslated messages.
+po/sr/browser/chrome/overrides/netError.dtd.po:	43 translated messages, 1 untranslated message.
 po/sr/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	119 translated messages, 34 untranslated messages.
 po/sr/mail/chrome/messenger/messengercompose/composeMsgs.properties.po:	74 translated messages, 34 untranslated messages.
