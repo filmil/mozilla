@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-29 02:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -18,113 +18,113 @@ msgstr ""
 msgid ""
 "_: use \"Library\", \"Archive\" or \"Repository\"\n"
 "Library"
-msgstr ""
+msgstr "Библиотека"
 
 #: places.library.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "700"
-msgstr ""
+msgstr "700"
 
 #: places.library.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "500"
-msgstr ""
+msgstr "500"
 
 #: organize.label organize.accesskey
 msgid "&Organize"
-msgstr ""
+msgstr "&Среди"
 
 #: file.accesskey cmd.context_new_folder.accesskey
 msgid "F"
-msgstr ""
+msgstr "Д"
 
 #: file.close.label file.close.accesskey
 msgid "&Close"
-msgstr ""
+msgstr "&Затвори"
 
 #: cmd.close.key
 msgid "w"
-msgstr ""
+msgstr "w"
 
 #: edit.label edit.accesskey
 msgid "&Edit"
-msgstr ""
+msgstr "&Уреди"
 
 #: views.label views.accesskey
 msgid "&Views"
-msgstr ""
+msgstr "&Погледи"
 
 #: view.toolbar.label view.toolbar.accesskey
 msgid "T&oolbar"
-msgstr ""
+msgstr "&Алатна трака"
 
 #: view.columns.label view.columns.accesskey
 msgid "Show &Columns"
-msgstr ""
+msgstr "Приказ &колона"
 
 #: view.sort.label view.sort.accesskey
 msgid "&Sort"
-msgstr ""
+msgstr "&Поређај"
 
 #: view.unsorted.label view.unsorted.accesskey
 msgid "&Unsorted"
-msgstr ""
+msgstr "&Неуређено"
 
 #: view.sortAscending.label view.sortAscending.accesskey
 msgid "&A > Z Sort Order"
-msgstr ""
+msgstr "Ра&стући редослед"
 
 #: view.sortDescending.label view.sortDescending.accesskey
 msgid "&Z > A Sort Order"
-msgstr ""
+msgstr "О&падајући редослед"
 
 #: help.usingBookmarks.label help.usingBookmarks.accesskey
 msgid "Using &Bookmarks"
-msgstr ""
+msgstr "Употреба &забелешки"
 
 #: help.usingHistory.label help.usingHistory.accesskey
 msgid "Us&ing History"
-msgstr ""
+msgstr "Употреба &историјата"
 
 #: help.advancedTips.label help.advancedTips.accesskey
 msgid "Advanced &Tips &amp; Tricks"
-msgstr ""
+msgstr "Напредни савети и трикови"
 
 #: cmd.findInBookmarks.label cmd.findInBookmarks.accesskey
 msgid "&Find in Bookmarks…"
-msgstr ""
+msgstr "Нађи међу за&белешкама…"
 
 #: cmd.findCurrent.label cmd.findCurrent.accesskey
 msgid "F&ind in Current Collection…"
-msgstr ""
+msgstr "Нађи у &важећој збирци…"
 
 #: cmd.export.label cmd.export.accesskey
 msgid "&Export…"
-msgstr ""
+msgstr "&Извоз…"
 
 #: cmd.import.label cmd.import.accesskey
 msgid "&Import…"
-msgstr ""
+msgstr "&Увоз…"
 
 #: cmd.backup.label cmd.backup.accesskey
 msgid "&Backup…"
-msgstr ""
+msgstr "&Архивирање…"
 
 #: cmd.restore.label cmd.restore.accesskey
 msgid "&Restore…"
-msgstr ""
+msgstr "Вра&ћање…"
 
 #: cmd.restoreFromFile.label cmd.restoreFromFile.accesskey
 msgid "&Choose File…"
-msgstr ""
+msgstr "&Избор датотеке"
 
 #: cmd.select_all.label cmd.select_all.accesskey
 msgid "Select &All"
-msgstr ""
+msgstr "Изабери &све"
 
 #: cmd.select_all.key
 msgid "a"
