@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-29 03:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -38,19 +38,19 @@ msgstr ""
 
 #: noTitle
 msgid "(no title)"
-msgstr ""
+msgstr "(без наслова)"
 
 #: bookmarksMenuName
 msgid "Bookmarks Menu"
-msgstr ""
+msgstr "Мени са забелешкама"
 
 #: bookmarksToolbarName
 msgid "Bookmarks Toolbar"
-msgstr ""
+msgstr "Алатна трака са забелешкама"
 
 #: bookmarksMenuEmptyFolder
 msgid "(Empty)"
-msgstr ""
+msgstr "(празно)"
 
 # LOCALIZATION NOTE (bookmarksBackupFilename) :
 # %S will be replaced by the current date in ISO 8601 format, YYYY-MM-DD.
