@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-29 01:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -15,21 +15,21 @@ msgstr ""
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:1
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:2
 msgid "Using the Help Window"
-msgstr ""
+msgstr "Употреба прозора са помоћи"
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:3
 msgid "In this section:   <ul>"
-msgstr ""
+msgstr "У овом одељку:   <ul>"
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:4
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:6
 msgid "Finding the Topic You Want"
-msgstr ""
+msgstr "Налажење жељене теме"
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:5
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:10
 msgid "Search Tips"
-msgstr ""
+msgstr "Савети за тражење"
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:7
 msgid ""
@@ -37,8 +37,9 @@ msgid ""
 "<em>Contents</em> sidebar. Click the <span class=\"noMac\">plus icon</"
 "span>   <span class=\"mac\">triangle</span> next to a topic to see its "
 "subtopics."
-msgstr ""
+msgstr "Да бисте приказали помоћ у овом прозору, притисните тему у бочној траци <em>Садржај</em>. Притисните <span class=\"noMac\">сличицу у облику знака плус</span>   <span class=\"mac\">троуглић</span> поред теме да бисте видели њене подтеме."
 
+# FIXME Search bar (synchronize with what applies)
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:8
 msgid ""
 "To search for a help topic, type a word or phrase in the <em>Search</em> "
@@ -48,7 +49,7 @@ msgid ""
 "sidebar as you   type. To display the contents in the sidebar again, click "
 "the close button on   the <em>Search</em> sidebar, clear the <em>Search</em> "
 "bar, or press   <kbd>Esc</kbd>."
-msgstr ""
+msgstr "Да бисте тражили неку одређену тему за помоћ укуцајте реч или израз у траци <em>Претрага</em> да бисте видели сродне теме.  Притисните тему да бисте читали о њој.  Ако претрага не нађе ниједну тему, пробајте да укуцате мање речи или различиту комбинацију речи.  Резултати ће бити приказани у бочној траци <em>Претрага</em> док куцате.  Да бисте поново приказали садржај бочне траке, притисните дугме за затварање на бочној траци <em>Претрага</em>, очистите бочну траку <em>Претрага</em>, или притисните  <kbd>Esc</kbd>."
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:9
 msgid ""
@@ -56,35 +57,35 @@ msgid ""
 "in   the Help window just as you would in a regular web page.  You can also "
 "move   back and forth between pages you've already seen using the Back and "
 "Forward   buttons."
-msgstr ""
+msgstr "Да бисте видели податке о теми помоћи коју читате, притисните везе у прозору са помоћи као што бисте урадили на обичној веб страни.  Можете такође да се крећете напред и назад кроз стране које сте већ посетили употребом дугмади Напред и Назад."
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:11
 msgid "If you don't find what you want, here are a few helpful tips:"
-msgstr ""
+msgstr "Ако не нађете оно што Вам треба, ево неколико корисних савета:"
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:12
 msgid ""
 "Be sure that you are searching for something that relates to     "
 "&brandShortName;; this is not a general Internet search."
-msgstr ""
+msgstr "Проверите да ли тражите нешто што се односи на програм  &brandShortName;; ово није општа претрага Интернета."
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:13
 msgid ""
 "Try to broaden your search - don't be too specific; terms could be "
 "worded     differently than your search."
-msgstr ""
+msgstr "Пробајте да снизите критеријум претраге - немојте да будете сувише одређени; изрази могу да буду срочени на другачији начин."
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:14
 msgid ""
 "Avoid being too broad with your search.  For example, a common word like     "
 "&quot;page&quot; will likely return more topics than you want."
-msgstr ""
+msgstr "Избегавајте да будете преопшти у претрази.  На пример, честе речи попут „страна‟ ће врло вероватно дати више тема него што Вам треба."
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:15
 msgid "09 July 2005"
-msgstr ""
+msgstr "9. јул 2005."
 
 #: /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/help/welcome.xhtml:16
 msgid ""
 "Copyright &copy; 2003-2008 Contributors to the Mozilla Help Viewer Project."
-msgstr ""
+msgstr "Copyright &copy; 2003-2008 Приложници пројекту Мозилиног прегледача помоћи."

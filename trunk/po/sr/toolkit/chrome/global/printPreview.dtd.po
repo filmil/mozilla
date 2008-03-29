@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-24 00:02+0100\n"
+"PO-Revision-Date: 2008-03-29 01:06+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,11 +52,11 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: print.label print.accesskey
 msgid "&Print…"
-msgstr ""
+msgstr "&Штампа…"
 
 #: pageSetup.label pageSetup.accesskey
 msgid "Page Set&up…"
-msgstr ""
+msgstr "&Подешавање стране…"
 
 #: page.label page.accesskey
 msgid "P&age:"
@@ -132,7 +132,7 @@ msgstr "200&#037;"
 
 #: Custom.label
 msgid "Custom…"
-msgstr ""
+msgstr "Прилагођено…"
 
 #: ShrinkToFit.label
 msgid "Shrink To Fit"
@@ -140,7 +140,7 @@ msgstr "Уклопи на страну"
 
 #: customPrompt.title
 msgid "Custom Scale…"
-msgstr ""
+msgstr "Произвољна величина…"
 
 #: homearrow.tooltip
 msgid "First page"

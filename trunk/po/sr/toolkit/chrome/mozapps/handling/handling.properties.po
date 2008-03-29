@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-29 01:28+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,28 +16,28 @@ msgstr ""
 
 #: protocol.title
 msgid "Launch Application"
-msgstr ""
+msgstr "Покрени програм"
 
 #: protocol.description
 msgid "This link needs to be opened with an application."
-msgstr ""
+msgstr "Ову везу мора да отвори неки програм."
 
 #: protocol.choices.label
 msgid "Send to:"
-msgstr ""
+msgstr "Пошаљи за програм:"
 
 #: protocol.checkbox.label
 msgid "Remember my choice for %S links."
-msgstr ""
+msgstr "Запамти избор за везе типа %S."
 
 #: protocol.checkbox.accesskey
 msgid "R"
-msgstr ""
+msgstr "З"
 
 #: protocol.checkbox.extra
 msgid "This can be changed in %S's preferences."
-msgstr ""
+msgstr "Ово може да се промени у поставкама програма %S."
 
 #: choose.application.title
 msgid "Another Application…"
-msgstr ""
+msgstr "Неки други програм…"

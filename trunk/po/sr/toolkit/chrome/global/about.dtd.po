@@ -2,13 +2,12 @@
 # extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/about.dtd
 # #-#-#-#-#  about.dtd.po (PACKAGE VERSION)  #-#-#-#-#
 # extracted from source/sr-RS/extensions/reporter/chrome/about.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-25 00:21+0100\n"
+"PO-Revision-Date: 2008-03-29 01:13+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,55 +24,55 @@ msgstr ""
 
 #: about.version
 msgid "version"
-msgstr ""
+msgstr "издање"
 
 #: about.copy.beforeLink
 msgid "Copyright &copy; 1998-2008 by"
-msgstr ""
+msgstr "Copyright &copy; 1998-2008"
 
 #: about.copy.linkTitle
 msgid "contributors"
-msgstr ""
+msgstr "приложници"
 
 #: about.copy.afterLink
 msgid "to the Mozilla Project."
-msgstr ""
+msgstr "пројекта Мозила."
 
 #: about.license.beforeLink about.relnotes.beforeLink
 msgid "Read the"
-msgstr ""
+msgstr "Прочитајте"
 
 #: about.license.linkTitle
 msgid "licensing information"
-msgstr ""
+msgstr "податке о лиценцирању"
 
 #: about.license.afterLink
 msgid "for this product."
-msgstr ""
+msgstr "овог производа."
 
 #: about.relnotes.linkTitle
 msgid "release notes"
-msgstr ""
+msgstr "белешке о издању"
 
 #: about.relnotes.afterLink
 msgid "for this version."
-msgstr ""
+msgstr "за ово издање"
 
 #: about.buildconfig.beforeLink
 msgid "See the"
-msgstr ""
+msgstr "Погледајте"
 
 #: about.buildconfig.linkTitle
 msgid "build configuration"
-msgstr ""
+msgstr "конфигурацију за изградњу"
 
 #: about.buildconfig.afterLink
 msgid "used for this version."
-msgstr ""
+msgstr "коришћену за ово издање"
 
 #: about.buildIdentifier
 msgid "Build identifier: "
-msgstr ""
+msgstr "Идентитет изградње:"
 
 #~ msgid "Created By:"
 #~ msgstr "Аутор:"

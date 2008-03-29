@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2006-11-23 21:20+0100\n"
+"PO-Revision-Date: 2008-03-29 01:23+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -71,11 +71,11 @@ msgstr "&Отвори помоћу"
 
 #: other.label
 msgid "Other…"
-msgstr ""
+msgstr "Друго…"
 
 #: saveFile.label saveFile.accesskey
 msgid "&Save File"
-msgstr ""
+msgstr "&Сачувај датотеку"
 
 #: rememberChoice.label rememberChoice.accesskey
 msgid "Do this &automatically for files like this from now on."
@@ -87,11 +87,11 @@ msgstr "врста:"
 
 #: chooseHandlerMac.label chooseHandlerMac.accesskey
 msgid "&Choose…"
-msgstr ""
+msgstr "&Избор…"
 
 #: chooseHandler.label chooseHandler.accesskey
 msgid "&Browse…"
-msgstr ""
+msgstr "&Преглед…"
 
 #: unknownPromptText.label
 msgid "Would you like to save this file?"

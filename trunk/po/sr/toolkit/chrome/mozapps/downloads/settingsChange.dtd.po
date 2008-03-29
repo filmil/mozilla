@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-29 01:27+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -55,8 +55,8 @@ msgstr ""
 # 
 #: settingsChangePreferences.label
 msgid "Settings can be changed in &brandShortName;'s Preferences."
-msgstr ""
+msgstr "Подешавања могу да се промене у поставкама програма &brandShortName;."
 
 #: settingsChangeOptions.label
 msgid "Settings can be changed in &brandShortName;'s Options."
-msgstr ""
+msgstr "Подешавања могу да се промене у опцијама програма &brandShortName;."
