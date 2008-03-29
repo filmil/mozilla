@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-29 03:00+0100\n"
+"PO-Revision-Date: 2008-03-29 03:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: sanitizeDialog.title
 msgid "Clear Private Data"
-msgstr "Избриши приватне податке"
+msgstr "Уклони приватне податке"
 
 #: sanitizeItems.label
 msgid "Clear the following items now:"
-msgstr "Избриши следеће ставке:"
+msgstr "Уклони следеће ставке:"
 
 # XXX rearrange entities to match physical layout when l10n isn't an issue
 #: itemHistory.label
@@ -41,12 +41,16 @@ msgstr "Сачуване &лозинке"
 #: itemCookies.label
 #: itemCookies.accesskey
 msgid "&Cookies"
-msgstr "&Колачиће"
+msgstr "Ко&лачиће"
 
 #: itemCache.label
 #: itemCache.accesskey
 msgid "C&ache"
 msgstr "&Кеш"
+#: itemOfflineApps.label
+#: itemOfflineApps.accesskey
+msgid "&Offline Website Data"
+msgstr "П&римљене податке са сајтова"
 
 #: itemDownloads.label
 #: itemDownloads.accesskey
