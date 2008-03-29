@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:28+0100\n"
+"PO-Revision-Date: 2008-03-29 02:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -212,7 +212,7 @@ msgstr "Датотека %file% није нађена."
 
 #: SubdirDoesNotExist
 msgid "The subdirectory \"%dir%\" doesn't exist on this site or the filename \"%file%\" is already in use by another subdirectory."
-msgstr "Директоријум „%dir%“ не постоји на овом ел. месту или се датотека „%file%“ већ користи у другом директоријуму."
+msgstr "Директоријум „%dir%“ не постоји на овом веб сајту или се датотека „%file%“ већ користи у другом директоријуму."
 
 #: FilenameIsSubdir
 msgid "The filename \"%file%\" is already in use by another subdirectory."
@@ -294,7 +294,7 @@ msgstr "Објава: %title%"
 
 #: PublishToSite
 msgid "Publishing to Site: %title%"
-msgstr "Објава на ел. месту: %title%"
+msgstr "Објављивање на веб сајту: %title%"
 
 #: AbandonChanges
 msgid "Abandon unsaved changes to \"%title%\" and reload page?"
@@ -608,7 +608,7 @@ msgstr "Знак"
 
 #: MissingSiteNameError
 msgid "Please enter a name for this publishing site."
-msgstr "Унесите име за ел. место за објављивање."
+msgstr "Унесите име веб сајта за објављивање."
 
 #: MissingPublishUrlError
 msgid "Please enter a location for publishing this page."
@@ -626,11 +626,11 @@ msgstr "Нису унети подаци о месту за објављивањ
 # LOCALIZATION NOTE (DuplicateSiteNameError): Don't translate %name%
 #: DuplicateSiteNameError
 msgid "\"%name%\" already exists. Please enter a different site name."
-msgstr "„%name%“ већ постоји. Унесите друго име за ел. место."
+msgstr "„%name%“ већ постоји. Унесите друго име за веб сајт."
 
 #: AdvancedProperties
 msgid "Advanced Properties..."
-msgstr "Напредне особине..."
+msgstr "Напредна својства..."
 
 #: AdvancedEditForCellMsg
 msgid "Advanced Edit is unavailable when multiple cells are selected"
@@ -761,7 +761,7 @@ msgstr "Пријем речника"
 
 #: DictDownldConfirmMsg
 msgid "%brand% will close the current window and redirect you to a spellchecker download site."
-msgstr "%brand% ће затворити тренутни прозор и преусмерити вас на ел. место одакле може да се набави правописар."
+msgstr "%brand% ће затворити тренутни прозор и преусмерити вас на веб сајт одакле може да се набави правописар."
 
 #
 #: NoHeadTag

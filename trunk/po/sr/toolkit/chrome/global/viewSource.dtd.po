@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-28 23:44+0100\n"
+"PO-Revision-Date: 2008-03-29 03:19+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -92,11 +92,11 @@ msgstr "r"
 
 #: menu_wrapLongLines.title menu_wrapLongLines.accesskey
 msgid "&Wrap Long Lines"
-msgstr "Прекини дуге реченице"
+msgstr "&Премотај дуге линије"
 
 #: menu_highlightSyntax.label menu_highlightSyntax.accesskey
 msgid "Syntax &Highlighting"
-msgstr "Бојење синтаксе"
+msgstr "Бојење &синтаксе"
 
 #: menu_textSize.label menu_textSize.accesskey
 msgid "Text Si&ze"

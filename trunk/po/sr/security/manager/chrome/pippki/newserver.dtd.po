@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-10 19:35+0200\n"
+"PO-Revision-Date: 2008-03-29 02:35+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgstr ""
 # Values for newserver.xul
 #: newserver.title
 msgid "Website Certified by an Unknown Authority"
-msgstr "Ел. место је одобрио непознат ауторитет"
+msgstr "Веб сајт је одобрио непознат ауторитет"
 
 #: newserver.reasons
 msgid "Possible reasons for this error:"

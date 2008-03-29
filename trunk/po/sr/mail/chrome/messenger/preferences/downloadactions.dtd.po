@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-26 00:05+0100\n"
+"PO-Revision-Date: 2008-03-29 03:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -40,11 +40,11 @@ msgstr "Самостално присвоји акцију за сваки од 
 
 #: fileHandlerColumn.label fileHandlerColumn.accesskey
 msgid "&Action"
-msgstr "Акција"
+msgstr "&Дејство"
 
 #: fileTypeColumn.label fileTypeColumn.accesskey
 msgid "File &Type"
-msgstr "File Type"
+msgstr "&Врста датотеке"
 
 #: fileMIMETypeColumn.label fileMIMETypeColumn.accesskey
 msgid "&MIME Type"

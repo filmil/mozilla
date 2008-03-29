@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-25 23:30+0100\n"
+"PO-Revision-Date: 2008-03-29 03:08+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "&Прикажи прозорче са потврдом када се п�
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;S&ent&quot; Folder on:"
-msgstr "Директоријум за послате поруке на:"
+msgstr "&Директоријум за послате поруке на:"
 
 #: sentInOtherFolder.label sentInOtherFolder.accesskey
 msgid "&Other:"
@@ -72,7 +72,7 @@ msgstr "&Други:"
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;&Drafts&quot; Folder on:"
-msgstr "Директоријум за нацрте на:"
+msgstr "Директоријум за &нацрте на:"
 
 #: draftInOtherFolder.label draftInOtherFolder.accesskey
 msgid "O&ther:"
@@ -82,7 +82,7 @@ msgstr "Дру&ги:"
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;Te&mplates&quot; Folder on:"
-msgstr "Директроријум за скице на:"
+msgstr "Директоријум за &скице на:"
 
 #: templateInOtherFolder.label templateInOtherFolder.accesskey
 msgid "Othe&r:"

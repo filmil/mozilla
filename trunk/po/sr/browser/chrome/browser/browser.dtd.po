@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-20 23:58+0100\n"
+"PO-Revision-Date: 2008-03-29 03:17+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -144,7 +144,7 @@ msgstr "Забележи све језичке…"
 
 #: showAllBookmarksCmd2.label
 msgid "Organize Bookmarks"
-msgstr "&Уреди забелешке…"
+msgstr "Уреди забелешке"
 
 #: backCmd.label backCmd.accesskey
 msgid "&Back"
@@ -255,7 +255,7 @@ msgstr "Додај &кључну реч за ову претрагу…"
 
 #: search.label search.accesskey
 msgid "Web &Search"
-msgstr "Претрага &веб места"
+msgstr "Претрага &веб сајта"
 
 #: downloads.label downloads.accesskey
 msgid "&Downloads"
@@ -393,7 +393,7 @@ msgstr "&Историјат"
 
 #: historyUndoMenu.label
 msgid "Recently Closed Tabs"
-msgstr "&Недавно затворени језичци"
+msgstr "Недавно затворени језичци"
 
 #: showAllHistoryCmd2.label
 msgid "Show All History"
@@ -613,7 +613,7 @@ msgstr "0"
 
 #: fullZoomResetCmd.label fullZoomResetCmd.accesskey
 msgid "&Reset"
-msgstr "Врати"
+msgstr "&Врати"
 
 #: fullZoomToggleCmd.label fullZoomToggleCmd.accesskey
 msgid "Zoom &Text Only"

@@ -40,7 +40,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:07+0100\n"
+"PO-Revision-Date: 2008-03-29 02:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -262,7 +262,7 @@ msgstr "Издат под: \"%S\""
 # Page Info
 #: pageInfo_SiteNotVerified
 msgid "Web Site Identity Not Verified"
-msgstr "Идентитет веб места није потврђен"
+msgstr "Идентитет веб сајта није потврђен"
 
 #: pageInfo_WebSiteVerified
 msgid "Web Site Identity Verified"
@@ -273,9 +273,7 @@ msgid ""
 "The web site %S supports authentication for the page you are viewing. The "
 "identity of this web site has been verified by %S, a certificate authority "
 "you trust for this purpose."
-msgstr ""
-"Веб место %S подржава проверу за преглед ове стране. Идентитет веб места  је "
-"проверен помоћу %S, као место од поверења за ову намену."
+msgstr "Веб место %S подржава проверу за преглед ове стране. Идентитет веб сајта  је проверен помоћу %S, као место од поверења за ову намену."
 
 #: pageInfo_ViewCertificate
 msgid "View the security certificate that verifies this web site's identity."

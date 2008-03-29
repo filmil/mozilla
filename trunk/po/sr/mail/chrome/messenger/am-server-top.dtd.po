@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:13+0100\n"
+"PO-Revision-Date: 2008-03-29 03:09+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -188,7 +188,7 @@ msgstr "Одмах је уклони"
 msgid ""
 "_: do not translate two of \"&quot;\" in below line\n"
 "Clean up (&quot;&Expunge&quot;) Inbox on Exit"
-msgstr "Прочисти долазну пошту при крају рада"
+msgstr "Про&чисти долазну пошту при крају рада"
 
 #: emptyTrashOnExit.label
 #: emptyTrashOnExit.accesskey

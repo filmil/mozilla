@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-12-25 01:48+0100\n"
+"PO-Revision-Date: 2008-03-29 03:12+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -396,7 +396,7 @@ msgstr "&Прочитано"
 
 #: sortByOrderReceivedCmd.label sortByOrderReceivedCmd.accesskey
 msgid "&Order Received"
-msgstr "Редослед доставе"
+msgstr "&Редослед доставе"
 
 #: sortAscending.label sortAscending.accesskey
 msgid "&Ascending"
@@ -489,7 +489,7 @@ msgstr "&Обичан текст"
 
 #: viewAttachmentsInlineCmd.label viewAttachmentsInlineCmd.accesskey
 msgid "Display &Attachments Inline"
-msgstr "Прикажи прилоге у оквиру поруке"
+msgstr "Прикажи прилоге у о&квиру поруке"
 
 #: reloadCmd.label reloadCmd.accesskey
 msgid "&Reload"

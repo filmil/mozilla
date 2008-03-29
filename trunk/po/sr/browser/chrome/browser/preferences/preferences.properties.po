@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:31+0100\n"
+"PO-Revision-Date: 2008-03-29 02:39+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr "Изузеци - Колачићи"
 
 #: addonspermissionstext
 msgid "You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow."
-msgstr "Можете да одредите којим ел. местима је дозвољено да постављају додатке. Укуцајте тачну адресу ел. места коме желите да дозволите постављање и притисните „Дозволи‟"
+msgstr "Можете да одредите којим веб сајтовима је дозвољено да постављају додатке. Укуцајте тачну адресу веб сајта коме желите да дозволите постављање и притисните „Дозволи‟"
 
 #: addons_permissions_title
 msgid "Allowed Sites - Add-ons Installation"

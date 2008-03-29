@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-26 20:56+0100\n"
+"PO-Revision-Date: 2008-03-29 02:54+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr "43em"
 
 #: language.label language.accesskey
 msgid "Fon&ts for:"
-msgstr "&Фонт за:"
+msgstr "&Намена:"
 
 #: typefaces.label
 msgid "Typeface"
@@ -47,7 +47,7 @@ msgstr "Величина (у тачкама)"
 
 #: proportionalSize.accesskey
 msgid "e"
-msgstr "e"
+msgstr "е"
 
 #
 # LOCALIZATION NOTE "RemoveTextStylesAccesskey" is used for both

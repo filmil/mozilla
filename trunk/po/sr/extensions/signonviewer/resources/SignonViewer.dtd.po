@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-27 00:17+0100\n"
+"PO-Revision-Date: 2008-03-29 02:43+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "Управник лозинки"
 
 #: windowalttitle.label
 msgid "Form Manager: Sites"
-msgstr "Управник формулара: Ел. места"
+msgstr "Управник формуларима: сајтови"
 
 #: tab.signonsstored.label
 msgid "Passwords Saved"
@@ -40,30 +40,26 @@ msgstr "Формулари који се не снимају"
 
 #: spiel.signonsstored.label
 msgid "Password Manager has saved login information for the following sites:"
-msgstr "Управљач лозинки чува податке о следећим ел. местима:"
+msgstr "Управљач лозинки чува податке о следећим веб сајтовима:"
 
 #: spiel.signonsnotstored.label
 msgid ""
 "Password Manager will never save login information for the following sites:"
-msgstr "Управљач лозинки неће памтити податке о следећим ел. местима:"
+msgstr "Управљач лозинки неће памтити податке о овим сајтовима:"
 
 #: spiel.nopreview.label
 msgid ""
 "Form Manager will never preview forms from the following sites before pre-"
 "filling them for you:"
-msgstr ""
-"Управљач формуларима неће давати формуларе на преглед са следећих ел. места "
-"пре него што их испуни за Вас:"
+msgstr "Управљач формуларима неће давати формуларе на преглед са следећих сајтова пре него што их испуни за Вас:"
 
 #: spiel.nocapture.label
 msgid "Form Manager will never ask to save forms from the following sites:"
-msgstr ""
-"Управљач формуларима никада неће питати да ли да чува формуларе са следећих "
-"ел. места:"
+msgstr "Управљач формуларима никада неће питати да ли да чува формуларе са следећих сајтова:"
 
 #: treehead.site.label
 msgid "Site"
-msgstr "Ел. место"
+msgstr "Сајт"
 
 #: treehead.username.label
 msgid "Username"

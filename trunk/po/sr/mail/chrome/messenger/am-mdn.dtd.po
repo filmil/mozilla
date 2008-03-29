@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-12-25 01:48+0100\n"
+"PO-Revision-Date: 2008-03-29 03:11+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -82,12 +82,12 @@ msgstr "&Никад не шаљи потврду"
 #: notInToCc.label
 #: notInToCc.accesskey
 msgid "If I'm not in the &To or Cc of the message:"
-msgstr "Ако нисам у пољима &За и Коп поруке:"
+msgstr "Ако нисам у пољима &Прима и Коп поруке:"
 
 #: outsideDomain.label
 #: outsideDomain.accesskey
 msgid "If the &sender is outside my domain:"
-msgstr "Ако је пошиљалац ван мог домена:"
+msgstr "Ако је пошиљалац &ван мог домена:"
 
 #: otherCases.label
 #: otherCases.accesskey

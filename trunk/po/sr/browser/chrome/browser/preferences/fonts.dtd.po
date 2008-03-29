@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-05 02:22+0100\n"
+"PO-Revision-Date: 2008-03-29 02:53+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr "43em"
 
 #: language.label language.accesskey
 msgid "&Fonts for:"
-msgstr "&Фонт за:"
+msgstr "&Намена:"
 
 #: size.label
 msgid "Size:"
@@ -43,11 +43,11 @@ msgstr "Величина:"
 
 #: sizeProportional.accesskey
 msgid "z"
-msgstr "z"
+msgstr "В"
 
 #: sizeMonospace.accesskey
 msgid "e"
-msgstr "e"
+msgstr "е"
 
 #: proportional.label proportional.accesskey
 msgid "&Proportional:"
@@ -180,7 +180,7 @@ msgstr "Нај&мања величина фонта:"
 
 #: minSize.none
 msgid "None"
-msgstr "Нема"
+msgstr "без"
 
 # default font type
 #: useDefaultFontSerif.label

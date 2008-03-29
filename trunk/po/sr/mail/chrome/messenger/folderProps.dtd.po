@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-25 23:47+0100\n"
+"PO-Revision-Date: 2008-03-29 03:10+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -131,7 +131,7 @@ msgstr "Не уклањај ни&једну поруку"
 
 #: retentionKeepNew.label retentionKeepNew.accesskey
 msgid "De&lete all but the last"
-msgstr "Уклони све осим последњих оволико порука"
+msgstr "Уклони све осим последњих о&волико порука"
 
 #: retentionKeepUnread.label retentionKeepUnread.accesskey
 msgid "Always delete &read messages"
@@ -156,7 +156,7 @@ msgstr "&Преузми одмах"
 
 #: selectofflineNewsgroup.check.label selectofflineNewsgroup.check.accesskey
 msgid "Select this newsgr&oup for offline use"
-msgstr "Изабери ову групу за рад ван мреже"
+msgstr "Изабери ову &групу за рад ван мреже"
 
 #: UseDefaultofflineNewsgroup.check.label
 msgid "Use the default from account settings "
@@ -172,7 +172,7 @@ msgstr "&Име:"
 
 #: folderProps.location.label folderProps.location.accesskey
 msgid "&Location:"
-msgstr "&Место…"
+msgstr "&Место:"
 
 #: folderSharingTab.label
 msgid "Sharing"

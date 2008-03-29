@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-20 23:56+0100\n"
+"PO-Revision-Date: 2008-03-29 02:41+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -406,11 +406,11 @@ msgstr "за пријаву података о краху програма $Pro
 
 #: RPT_SHORT
 msgid "Website Reporter"
-msgstr "Репортер за ел. места"
+msgstr "Пријављивање веб сајтова"
 
 #: RPT_LONG
 msgid "for reporting $ProductShortName$ website compatibility problems"
-msgstr "за пријаву несагласности ел. места и програма $ProductShortName$"
+msgstr "за пријаву несагласности веб сајта и програма $ProductShortName$"
 
 #: CORE_PREPARING
 msgid "Preparing Install, please wait..."

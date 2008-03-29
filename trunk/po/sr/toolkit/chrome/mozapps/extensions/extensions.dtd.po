@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-15 02:37+0100\n"
+"PO-Revision-Date: 2008-03-29 02:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -167,7 +167,7 @@ msgstr "Постави опције за изабрано проширење"
 
 #: cmd.optionsUnix.label cmd.optionsUnix.accesskey
 msgid "P&references"
-msgstr "&Подешавања"
+msgstr "&Поставке"
 
 #: cmd.optionsUnix.tooltip
 msgid "Edit Preferences for the selected Extension"
@@ -175,19 +175,19 @@ msgstr "Измена подешавања ваших преоширења"
 
 #: cmd.enable.label cmd.enable.accesskey
 msgid "&Enable"
-msgstr "О&могући"
+msgstr "&Укључи"
 
 #: cmd.enable.tooltip
 msgid "Enable this Add-on when &brandShortName; is restarted"
-msgstr "Укључи ове додатке када се програм &brandShortName; поново покрене"
+msgstr "Укључи ове додатке када се &brandShortName; поново покрене"
 
 #: cmd.disable.label cmd.disable.accesskey
 msgid "&Disable"
-msgstr "О&немогући"
+msgstr "&Искључи"
 
 #: cmd.disable.tooltip
 msgid "Disable this Add-on when &brandShortName; is restarted"
-msgstr "Искључи овај додатак када се програм &brandShortName; поново покрене"
+msgstr "Искључи овај додатак када се &brandShortName; поново покрене"
 
 #: cmd.uninstall.label
 msgid "Uninstall"
@@ -199,7 +199,7 @@ msgstr "U"
 
 #: cmd.uninstall2.tooltip
 msgid "Uninstall this Add-on when &brandShortName; is restarted"
-msgstr "Уклони овај додатак када се програм &brandShortName; поново покрене"
+msgstr "Уклони овај додатак када се &brandShortName; поново покрене"
 
 #: cmd.cancelUninstall.label cmd.cancelUninstall.accesskey
 msgid "&Cancel Uninstall"

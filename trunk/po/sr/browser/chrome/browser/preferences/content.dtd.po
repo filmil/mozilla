@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-26 22:45+0100\n"
+"PO-Revision-Date: 2008-03-29 02:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr "И&зузеци…"
 
 #: enableJavaScript.label enableJavaScript.accesskey
 msgid "Enable &JavaScript"
-msgstr "Укључи Java&Script"
+msgstr "Укључи јава&скрипт (JavaScript)"
 
 #: advancedJS.label advancedJS.accesskey
 msgid "Ad&vanced…"
@@ -42,7 +42,7 @@ msgstr "&Напредно…"
 
 #: enableJava.label enableJava.accesskey
 msgid "E&nable Java"
-msgstr "Укључи &Јаву"
+msgstr "Укључи &јаву"
 
 #: fontsAndColors.label
 msgid "Fonts &amp; Colors"

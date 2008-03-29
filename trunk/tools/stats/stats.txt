@@ -122,7 +122,11 @@ po/sr/mail/chrome/messenger/preferences/offline.dtd.po:	13 translated messages.
 po/sr/mail/chrome/messenger/preferences/connection.dtd.po:	21 translated messages.
 po/sr/mail/chrome/messenger/preferences/notifications.dtd.po:	6 translated messages.
 po/sr/mail/chrome/messenger/preferences/fonts.dtd.po:	53 translated messages.
-po/sr/mail/chrome/messenger/preferences/display.dtd.po:	32 translated messages.
+po/sr/mail/chrome/messenger/preferences/display.dtd.po:	po/sr/mail/chrome/messenger/preferences/display.dtd.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                                 Message conversion to user's charset might not work.
+po/sr/mail/chrome/messenger/preferences/display.dtd.po:17: dubbele melding definitie...
+po/sr/mail/chrome/messenger/preferences/display.dtd.po:7: ...this is the location of the first definition
+msgfmt: found 1 fatal error
 po/sr/mail/chrome/messenger/preferences/privacy.dtd.po:	27 translated messages.
 po/sr/mail/chrome/messenger/preferences/receipts.dtd.po:	14 translated messages.
 po/sr/mail/chrome/messenger/am-serverwithnoidentities.dtd.po:	8 translated messages.

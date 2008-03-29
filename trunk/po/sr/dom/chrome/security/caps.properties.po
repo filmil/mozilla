@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-27 00:26+0100\n"
+"PO-Revision-Date: 2008-03-29 02:28+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -129,7 +129,7 @@ msgstr "Упозорење: обрађивач протокола за „%S‟ 
 #
 #: capdesc.UniversalBrowserRead
 msgid "Read private data from any site or window"
-msgstr "Читај приватне податке са свих веб места и прозора"
+msgstr "Читај приватне податке са свих веб сајтова или прозора"
 
 #: capdesc.UniversalBrowserWrite
 msgid "Modify any open window"
@@ -137,15 +137,15 @@ msgstr "Измени отворене прозоре"
 
 #: capdesc.UniversalXPConnect
 msgid "Run or install software on your machine"
-msgstr "Покрећо и постављај програме на вашем рачунару"
+msgstr "Покрећи и постављај програме на мом рачунару"
 
 #: capdesc.UniversalFileRead
 msgid "Read and upload local files"
-msgstr "Читај и постављај локалне датотеке"
+msgstr "Читај и шаљи локалне датотеке"
 
 #: capdesc.CapabilityPreferencesAccess
 msgid "By-pass core security settings"
-msgstr "Промена основних безбедносних подешавања"
+msgstr "Заобиђи главна безбедносна подешавања"
 
 #: capdesc.UniversalPreferencesRead
 msgid "Read program settings"
@@ -153,4 +153,4 @@ msgstr "Читај подешавање програма"
 
 #: capdesc.UniversalPreferencesWrite
 msgid "Modify program settings"
-msgstr "Измени подешавања програма"
+msgstr "Мењај подешавања програма"

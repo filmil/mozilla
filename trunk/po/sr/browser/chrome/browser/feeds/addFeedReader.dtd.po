@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-06-11 00:07+0200\n"
+"PO-Revision-Date: 2008-03-29 02:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Означи овај читач довода као &подразуме
 
 #: forSite.label
 msgid "Site:"
-msgstr "Ел. место:"
+msgstr "Веб сајт:"
 
 #: feedReaderRegistered.title
 msgid "Feed Reader Already Registered"

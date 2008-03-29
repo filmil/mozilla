@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-13 00:53+0200\n"
+"PO-Revision-Date: 2008-03-29 02:26+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,11 +39,11 @@ msgstr "&Уклони веб место"
 
 #: removeallpermissions.label removeallpermissions.accesskey
 msgid "R&emove All Sites"
-msgstr "Уклони &сва веб места"
+msgstr "Уклони &све веб сајтове"
 
 #: address.label
 msgid "Address of web site:"
-msgstr "Адреса веб места:"
+msgstr "Адреса веб сајта:"
 
 #: block.label block.accesskey
 msgid "&Block"
@@ -51,7 +51,7 @@ msgstr "&Блокирај"
 
 #: session.label session.accesskey
 msgid "Allow for &Session"
-msgstr "Дожволи за &сесију"
+msgstr "Дозволи за &сесију"
 
 #: allow.label allow.accesskey
 msgid "&Allow"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-26 23:56+0100\n"
+"PO-Revision-Date: 2008-03-29 02:42+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 # Entities for the Sample Extension Options Dialog go here
 #: reportWizard.title
 msgid "Report A Broken Web Site"
-msgstr "Пријави неисправно ел. место"
+msgstr "Пријави неисправан веб сајт"
 
 #: privacyNotice.label reportForm.privacyPolicy.title
 msgid "Privacy Policy"
@@ -62,7 +62,7 @@ msgstr "&УРЛ веб сајта:"
 # No ":" at the end
 #: reportForm.behind_login.title reportForm.behind_login.accesskey
 msgid "Web site is &password-protected"
-msgstr "Ел. место је &заштићено лозинком"
+msgstr "Веб сајт је &заштићен лозинком"
 
 #: reportForm.problem_type.title reportForm.problem_type.accesskey
 msgid "Problem &Type:"

@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:27+0100\n"
+"PO-Revision-Date: 2008-03-29 02:37+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -913,11 +913,11 @@ msgstr "Можда је превара"
 # LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
 #: confirmPhishingUrl1
 msgid "%1$S thinks this site is suspicious! It may be trying to impersonate the web page you want to visit. Most legitimate sites use names instead of numbers. Are you sure you want to visit %2$S?"
-msgstr "Програм %1$S сматра да је ово ел. место сумњиво.  Можда је направљено тако да имитира мрежне странице које желите да посетите.  Већина обичних ел. места користе имена уместо бројева.  Да ли сигурно желите да посетите адресу: %2$S?"
+msgstr "Програм %1$S сматра да је овај веб сајт сумњив.  Можда је направљено тако да имитира мрежне странице које желите да посетите.  Већина обичних веб сајтова користе имена уместо бројева.  Да ли сигурно желите да посетите адресу: %2$S?"
 
 #: confirmPhishingUrl2
 msgid "%1$S thinks this site is suspicious! It may be trying to impersonate the web page you want to visit. Are you sure you want to visit %2$S?"
-msgstr "Програм %1$S сматра да је ово ел. место сумњиво!  Можда покушава да опонаша место које бисте желели да посетите.  Да ли сигурно желите да посетите %2$S?"
+msgstr "Програм %1$S сматра да је овај веб сајт сумњив!  Можда покушава да опонаша место које бисте желели да посетите.  Да ли сигурно желите да посетите %2$S?"
 
 # Check for Updates
 #: updatesItem_default

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-15 00:12+0100\n"
+"PO-Revision-Date: 2008-03-29 02:44+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: found.enableXPInstall.label found.enableXPInstall.accesskey
 msgid "&Allow web sites to install software"
-msgstr "&Дозволи ел. местима да постављају софтвер"
+msgstr "&Дозволи веб сајтовима да инсталирају софтвер"
 
 #: installing.wizard.title
 msgid "Installing Compatible Add-ons"

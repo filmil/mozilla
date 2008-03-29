@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-26 00:07+0100\n"
+"PO-Revision-Date: 2008-03-29 03:14+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -107,7 +107,7 @@ msgstr "&Системски звук"
 
 #: customsound.label customsound.accesskey
 msgid "&Use the following sound file"
-msgstr "Користи овај звучни запис"
+msgstr "&Користи овај звучни запис"
 
 #: browse.label browse.accesskey
 msgid "&Browse…"

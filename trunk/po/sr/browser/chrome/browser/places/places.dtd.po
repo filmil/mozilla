@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:12+0100\n"
+"PO-Revision-Date: 2008-03-29 03:18+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -92,7 +92,7 @@ msgstr "Употреба &историјата"
 
 #: help.advancedTips.label help.advancedTips.accesskey
 msgid "Advanced &Tips &amp; Tricks"
-msgstr "Напредни савети и трикови"
+msgstr "Напредни &савети и трикови"
 
 #: cmd.findInBookmarks.label cmd.findInBookmarks.accesskey
 msgid "&Find in Bookmarks…"

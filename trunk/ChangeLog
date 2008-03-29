@@ -1,3 +1,7 @@
+2008-03-29  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po: Changed ел. место to веб сајт throughout.  Some added extension window pretyness.
+
 2008-03-28  Filip Miletic  <filmil@gmail.com>
 
 	* Added help translations to Serbian, from http://mozilla.elfak.net
