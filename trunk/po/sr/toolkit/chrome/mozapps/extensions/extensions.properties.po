@@ -1,20 +1,21 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/extensions.properties
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 23:32+0100\n"
+"PO-Revision-Date: 2008-03-30 19:40+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
-#: aboutWindowTitle aboutAddon
+
+#: aboutWindowTitle
+#: aboutAddon
+msgctxt "aboutWindowTitle"
 msgid "About %S"
 msgstr "О програму %S"
 
@@ -26,6 +27,12 @@ msgstr "Затвори"
 msgid "version %S"
 msgstr "издање %S"
 
+#: aboutAddon
+#: aboutWindowTitle
+msgctxt "aboutAddon"
+msgid "About %S"
+msgstr "О програму %S"
+
 #: updatingMsg
 msgid "Looking for updates…"
 msgstr "Тражење унапређења…"
@@ -34,7 +41,9 @@ msgstr "Тражење унапређења…"
 msgid "A compatibility update has been applied."
 msgstr "Примењена је доградња за усаглашавање."
 
-#: updateNoUpdateMsg noUpdatesMsg
+#: updateNoUpdateMsg
+#: noUpdatesMsg
+msgctxt "updateNoUpdateMsg"
 msgid "No updates were found."
 msgstr "Није пронађена ниједна доградња"
 
@@ -142,11 +151,15 @@ msgstr "Откажи инсталацију програма %S"
 msgid "Are you sure you want to cancel the install of %S?"
 msgstr "Да ли сигурно желите да откажете инсталацију програма %S?"
 
-#: cancelInstallButton cancelUpgradeButton
+#: cancelInstallButton
+#: cancelUpgradeButton
+msgctxt "cancelInstallButton"
 msgid "Yes"
 msgstr "Да"
 
-#: cancelCancelInstallButton cancelCancelUpgradeButton
+#: cancelCancelInstallButton
+#: cancelCancelUpgradeButton
+msgctxt "cancelCancelInstallButton"
 msgid "No"
 msgstr "Не"
 
@@ -157,6 +170,18 @@ msgstr "Откажи доградњу програма %S"
 #: cancelUpgradeQueryMessage
 msgid "Are you sure you want to cancel the upgrade of %S?"
 msgstr "Да ли сигурно желите да откажете доградњу програма %S?"
+
+#: cancelUpgradeButton
+#: cancelInstallButton
+msgctxt "cancelUpgradeButton"
+msgid "Yes"
+msgstr "Да"
+
+#: cancelCancelUpgradeButton
+#: cancelCancelInstallButton
+msgctxt "cancelCancelUpgradeButton"
+msgid "No"
+msgstr "Не"
 
 #: disableTitle
 msgid "Disable %S"
@@ -229,8 +254,8 @@ msgstr "„%S‟ неће бити инсталиран јер не обезбе
 #: invalidGUIDMessage
 msgid ""
 "\"%S\" could not be installed because of an error in its Install Manifest "
-"(\"%S\" is not a valid GUID). Please contact the author of this item about "
-"the problem."
+"(\"%S\" is not a valid GUID). Please contact the author of this item about the "
+"problem."
 msgstr ""
 "Не могу да поставим „%S‟ због грешке у mанифесту постављања (GUID није "
 "исправан за \"%S\"). За решење проблема обратите се аутору ове ставке."
@@ -238,16 +263,16 @@ msgstr ""
 #: invalidVersionMessage
 msgid ""
 "\"%S\" could not be installed because of an error in its Install Manifest "
-"(\"%S\" is not a valid Version String). Please contact the author of this "
-"item about the problem."
+"(\"%S\" is not a valid Version String). Please contact the author of this item "
+"about the problem."
 msgstr ""
 "Не могу да поставим „%S‟ због грешке у манифесту постављања (\"%S\" није "
 "исправно издање). За решење проблема обратите се аутору ове ставке."
 
 #: incompatiblePlatformMessage
 msgid ""
-"\"%S\" could not be installed because it is not compatible with your %S "
-"build type (%S). Please contact the author of this item about the problem."
+"\"%S\" could not be installed because it is not compatible with your %S build "
+"type (%S). Please contact the author of this item about the problem."
 msgstr ""
 "Не могу да поставим \"%S\" зато што није прилагођен Вашој %S верзији читача "
 "(%S). За решење проблема обратите се аутору."
@@ -261,22 +286,18 @@ msgid "The extension %S is known to be dangerous, and can't be installed."
 msgstr ""
 "За проширење %S је познато да није безбедно па зато не може бити постављено."
 
-#: blocklistNotifyTitle
-msgid "Some of your extensions aren't secure"
-msgstr "Нека од проширења нису безбедна"
+#: blocklistNotifyTitle2
+msgid "Add-ons may be causing problems"
+msgstr "Додаци су можда узрок проблема"
 
-#: blocklistNotifyMsg
+#: blocklistNotifyMsg2
 msgid ""
-"A security update to %S has indicated that one or more of your extensions "
-"are no longer considered safe."
-msgstr ""
-"Безбедносна доградња за %S показује да једна или неколико проширења које "
-"користите више нису безбедна."
+"%S has determined that the following add-ons may be unstable or insecure."
+msgstr "Програм %S је утврдио да су наведени додаци нестабилни или небезбедни."
 
-#: blocklistRestartMsg
-msgid "You should restart %S so that these extensions can be disabled."
-msgstr ""
-"Морате да поново покренете програм %S како би ова проширења била искључена."
+#: blocklistRestartMsg2
+msgid "You should restart %S so that these add-ons can be disabled."
+msgstr "Потребно је да поново покренете програм %S да би ови додаци били искључени."
 
 #: missingFileTitle
 msgid "Missing File"
@@ -316,9 +337,9 @@ msgstr "Неисправан наставак датотеке"
 
 #: invalidFileExtMessage
 msgid ""
-"\"%S\" could not be installed because this item has an invalid file "
-"extension (%S is not a valid file extension for a %S). Please contact the "
-"author about this problem."
+"\"%S\" could not be installed because this item has an invalid file extension "
+"(%S is not a valid file extension for a %S). Please contact the author about "
+"this problem."
 msgstr ""
 "Не могу да поставим \"%S\" зато што он садржи погрешан наставак (%S није "
 "исправан наставак за %S). За решење проблема обратите се аутору."
@@ -333,9 +354,8 @@ msgid ""
 "%S must contain at least one extension or theme). Please contact the author "
 "about this problem."
 msgstr ""
-"Не могу да поставим \"%S\" зато што не садржи исправан пакет (%S мора "
-"садржати макар једно проширење или тему). За решење проблема обратите се "
-"аутору."
+"Не могу да поставим \"%S\" зато што не садржи исправан пакет (%S мора садржати "
+"макар једно проширење или тему). За решење проблема обратите се аутору."
 
 #: errorInstallTitle
 msgid "Error"
@@ -396,6 +416,8 @@ msgstr ""
 
 # LOCALIZATION NOTE: Semi-colon list of plural forms.
 # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # LOCALIZATION NOTE: Semi-colon list of plural forms.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
 #: newAddonsNotificationMsg2
 msgid "%S new add-on has been installed.;%S new add-ons have been installed."
 msgstr "постављен је %S додатак.;постављено је оволико додатака: %S"
@@ -406,7 +428,8 @@ msgstr "Сви додаци су искључени у безбедном нач
 
 #: disabledCompatMsg
 msgid ""
-"Add-on compatibility checking is disabled. You may have incompatible add-ons."
+"Add-on compatibility checking is disabled. You may have incompatible add-"
+"ons."
 msgstr ""
 "Провера усклађености додатака је искључена.  Можда имате некомпатибилне "
 "додатке."
@@ -415,7 +438,15 @@ msgstr ""
 msgid ""
 "Add-on update security checking is disabled. You may be compromised by "
 "updates."
-msgstr "Безбедносна провера додатака је искључена.  Неисправни додаци могу да наруше безбедност система."
+msgstr ""
+"Безбедносна провера додатака је искључена.  Неисправни додаци могу да наруше "
+"безбедност система."
+
+#: noUpdatesMsg
+#: updateNoUpdateMsg
+msgctxt "noUpdatesMsg"
+msgid "No updates were found."
+msgstr "Није пронађена ниједна доградња"
 
 #: offlineUpdateMsg
 msgid ""
@@ -429,7 +460,9 @@ msgstr ""
 msgid ""
 "%S is currently in offline mode and is unable to search for add-ons. Click "
 "Go Online and try again."
-msgstr "Програм %S тренутно не одржава везу са Интернетом и зато не може да претражује додатке.  Притисните „Повежи се‟ и пробајте поново."
+msgstr ""
+"Програм %S тренутно не одржава везу са Интернетом и зато не може да "
+"претражује додатке.  Притисните „Повежи се‟ и пробајте поново."
 
 #: enableButtonLabel
 msgid "Enable"
@@ -463,163 +496,6 @@ msgstr "Преглед свих резултата (%S)"
 msgid ""
 "%S requires that you accept the following End User License Agreement before "
 "installation can proceed:"
-msgstr "Програм %S захтева да прихватите наредни споразум са крајњим корисником пре него што се инсталација настави:"
-
-#~ msgid "Looking for updates..."
-#~ msgstr "Тражење доградњи..."
-
-#~ msgid "Updates to %S are performed when %S is updated."
-#~ msgstr "Доградња за %S се примењује када догради %S."
-
-#~ msgid "Enable Extension"
-#~ msgstr "Укључи проширење"
-
-#~ msgid "Disable Extension"
-#~ msgstr "Искључи проширење"
-
-#~ msgid "Waiting..."
-#~ msgstr "Чекам..."
-
-#~ msgid "Installing..."
-#~ msgstr "Постављам..."
-
-#~ msgid ""
-#~ "https://addons.mozilla.org/update/VersionCheck.php?reqVersion=%REQ_VERSION"
-#~ "%&id=%ITEM_ID%&version=%ITEM_VERSION%&maxAppVersion=%ITEM_MAXAPPVERSION%"
-#~ "&status=%ITEM_STATUS%&appID=%APP_ID%&appVersion=%APP_VERSION%&appOS=%"
-#~ "APP_OS%&appABI=%APP_ABI%"
-#~ msgstr ""
-#~ "https://addons.mozilla.org/update/VersionCheck.php?reqVersion=%REQ_VERSION"
-#~ "%&id=%ITEM_ID%&version=%ITEM_VERSION%&maxAppVersion=%ITEM_MAXAPPVERSION%"
-#~ "&appID=%APP_ID%&appVersion=%APP_VERSION%&appOS=%APP_OS%&appABI=%APP_ABI%"
-
-#~ msgid ""
-#~ "http://%LOCALE%.add-ons.mozilla.com/%LOCALE%/%APP%/%VERSION%/extensions/"
-#~ msgstr "http://update.mozilla.org/extensions/?application=%APPID%"
-
-#~ msgid "http://%LOCALE%.add-ons.mozilla.com/%LOCALE%/%APP%/%VERSION%/themes/"
-#~ msgstr "http://update.mozilla.org/themes/?application=%APPID%"
-
-#~ msgid ""
-#~ "The following items are available to all users. \n"
-#~ "You can start Firefox with -lock-item \"{GUID}\" to prevent users from "
-#~ "uninstalling or disabling an item. To unlock an item, start Firefox with -"
-#~ "unlock-item \"{GUID}\""
-#~ msgstr ""
-#~ "Следеће компоненте су доступне свим корисницима. Како би онемогућили да "
-#~ "корисници уклањају или онемогућују елементе покрените Firefox са "
-#~ "параметром -lock-item \"{GUID}\". Како би искључили дату могућност "
-#~ "покрените Firefox са параметром -unlock-item \"{GUID}\""
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "Globally Available Extensions:\n"
-#~ "==============================\n"
-#~ "\n"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "Опште доступна проширења: \n"
-#~ "==============================\n"
-#~ "\n"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "Globally Available Themes:\n"
-#~ "==========================\n"
-#~ "\n"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "Опште доступне теме: \n"
-#~ "==========================\n"
-#~ "\n"
-#~ "\n"
-
-#~ msgid "#1 of #2 KB"
-#~ msgstr "#1 од #2 KB"
-
-#~ msgid "#1 KB of #2 MB"
-#~ msgstr "#1 Кб од #2 MB"
-
-#~ msgid "#1 of #2 MB"
-#~ msgstr "#1 из #2 MB"
-
-#~ msgid "Old Extensions"
-#~ msgstr "Стара проширења"
-
-#~ msgid "Any old extensions that you have installed have been disabled."
-#~ msgstr "Сва старија проширења која сте поставили су онемогућена."
-
-#~ msgid ""
-#~ "%S %S could not be installed because it is not compatible with %S %S. (%S "
-#~ "%S will only work with %S versions from %S to %S)"
-#~ msgstr ""
-#~ "%S %S не може бити постављено зато што оно није подударно са верзијом %S %"
-#~ "S. (%S %S може да ради само са верзијама %S од %S до %S)"
-
-#~ msgid ""
-#~ "%S %S could not be installed because it is not compatible with %S %S. (%S "
-#~ "%S will only work with %S %S)"
-#~ msgstr ""
-#~ "%S %S не може бити постављено зато што није подударно са верзијом %S.%S. "
-#~ "(%S %S може да ради само са %S %S)"
-
-#~ msgid "%S %S could not be installed because it is not compatible with %S."
-#~ msgstr "%S %S неможе бити постављен зато што не одговара верзији %S-а."
-
-#~ msgid "versions 0.8 or older."
-#~ msgstr "верзија 0.8 или старије."
-
-#~ msgid "Disabled for your protection"
-#~ msgstr "Искључено ради Ваше безбедности"
-
-#~ msgid ""
-#~ "Failed to install from %S because %S was not provided at the top level of "
-#~ "the jar/xpi file."
-#~ msgstr "Неуспело постављање %S зато што %S не постоји у jar/xpi датотека."
-
-#~ msgid "Uninstalls the selected Theme"
-#~ msgstr "Избриши изабрану тему"
-
-#~ msgid "Checks for updates to your Add-ons"
-#~ msgstr "Проверите доградње за додатке"
-
-#~ msgid "Install an Add-on"
-#~ msgstr "Постави додатак"
-
-#~ msgid "Checks for updates to your Themes"
-#~ msgstr "Провери постојање унапређења теме"
-
-#~ msgid "Install a Theme"
-#~ msgstr "Постави тему"
-
-#~ msgid "Update failed for this item."
-#~ msgstr "Унапређење није успело."
-
-#~ msgid "Update is disabled for this item."
-#~ msgstr "Унапређење је онемогућено."
-
-#~ msgid "%S found updates to the following items:"
-#~ msgstr "%S је пронашао унапређења за следећа проширеша:"
-
-#~ msgid "Click Install Now to download and install the updates."
-#~ msgstr "Кликните на \"Постави\" како би поставили унапређења."
-
-#~ msgid "Install Now"
-#~ msgstr "Постави"
-
-#~ msgid "Updates Found"
-#~ msgstr "Пронађена унапређења"
-
-#~ msgid "%S %S (New version: %S)"
-#~ msgstr "%S %S (Нова верзија: %S)"
-
-#~ msgid ""
-#~ "%S is currently in offline mode and is unable to install Add-ons. Click "
-#~ "Go Online and try again."
-#~ msgstr ""
-#~ "Програм %S ради тренутно ван мреже па не може да постави додатке. "
-#~ "Притисните „Повежи се‟ и пробајте поново. "
+msgstr ""
+"Програм %S захтева да прихватите наредни споразум са крајњим корисником пре "
+"него што се инсталација настави:"

@@ -1,5 +1,16 @@
 2008-03-30  Filip Miletic  <filmil@gmail.com>
 
+	* scripts/make-pot-from-file.sh (SOURCE): Fetches the updated file
+	from the template directory, and converts it into POT.  The output
+	is saved as NEWPOT.pot in the working directory.
+
+	* scripts/merge-newpot.sh (OUT_PO): Merges the newly made
+	NEWPOT.pot file with the corresponding po file from the
+	translation tree.
+
+	* scripts/install-newpo.sh: Installs the file NEWPO.po which has
+	previously been merged according to the other scripts.
+
 	* po/sr/mail/chrome/messenger/msgAccountCentral.dtd.po: Changed
 	globally the translation for "Subscribe" from "претплата" to
 	"праћење".  The first one in Serbian implies *paid* reading.  The

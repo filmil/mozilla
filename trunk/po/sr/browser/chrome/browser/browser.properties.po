@@ -1,18 +1,31 @@
-# extracted from source/sr-RS/browser/chrome/browser/browser.properties
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:48+0100\n"
+"PO-Revision-Date: 2008-03-30 19:37+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+
+# SessionHistory.js
+# Localization Note: Use 'true' or 'false' to control the pref:theme to
+# show the English description or not
+# for example, in Japanese build, instead of showing English description
+# set the following value to false so it won't show up.
+# LOCALIZATION NOTE (filesFolder):
+#    This is the name of the folder that is created parallel to a HTML file
+#    when it is saved "With Images". The %S section is replaced with the
+#    leaf name of the file being saved (minus extension).
+# Default name for the Web Panels sidebar
+# Sanitize
+# Check for Updates
+# RSS Pretty Print
+# tab context menu additions
 
 #: nv_done
 msgid "Done"
@@ -64,6 +77,7 @@ msgstr "Да ли желите да овај докуменат постане �
 #   "Seach " + search_engine_name + " for " + user_input
 #   e.g. "Search Google for abc"
 # DO NOT change the %S order when translate, the first %S must be the search engine name.
+#. # context menu strings
 #: contextMenuSearchText
 msgid "Search %S for \"%S\""
 msgstr "Претражи %S са „%S“"
@@ -73,6 +87,7 @@ msgid "Block Images from %S"
 msgstr "Блокирај слике са %S"
 
 # bookmark dialog strings
+#. # bookmark dialog strings
 #: bookmarkAllTabsDefault
 msgid "[Folder Name]"
 msgstr "[Назив каталога]"
@@ -81,18 +96,28 @@ msgstr "[Назив каталога]"
 msgid ""
 "%S prevented this site (%S) from asking you to install software on your "
 "computer."
-msgstr "Програм %S је спречио овај сајт (%S) да вас пита за инсталацију програма на Ваш рачунар."
+msgstr ""
+"Програм %S је спречио овај сајт (%S) да вас пита за инсталацију програма на "
+"Ваш рачунар."
 
 # Block autorefresh
-#: xpinstallPromptAllowButton refreshBlocked.goButton offlineApps.allow
+#: xpinstallPromptAllowButton
+#: refreshBlocked.goButton
+#: offlineApps.allow
+msgctxt "xpinstallPromptAllowButton"
 msgid "Allow"
 msgstr "Дозволи"
 
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See http://www.mozilla.org/access/keyboard/accesskey for details
-#: xpinstallPromptAllowButton.accesskey refreshBlocked.goButton.accesskey
+#. # Accessibility Note:
+#. # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+#. # See http://www.mozilla.org/access/keyboard/accesskey for details
+#: xpinstallPromptAllowButton.accesskey
+#: refreshBlocked.goButton.accesskey
 #: offlineApps.allowAccessKey
+msgctxt "xpinstallPromptAllowButton.accesskey"
 msgid "A"
 msgstr "Д"
 
@@ -121,7 +146,9 @@ msgstr "Програм %S је спречио сајт да отвори иск�
 
 #: popupWarningMultiple
 msgid "%S prevented this site from opening %S pop-up windows."
-msgstr "Програм %S је спречио овај сајт да отвори неколико (укупно: %S) искачућих прозора."
+msgstr ""
+"Програм %S је спречио овај сајт да отвори неколико (укупно: %S) искачућих "
+"прозора."
 
 #: popupWarningButton
 msgid "Options"
@@ -175,11 +202,14 @@ msgstr "%S ће сада да дозвољава приказ слика са %S
 msgid "Undo"
 msgstr "Опозови"
 
-#: undo.accessKey blockedpluginsMessage.searchButton.accesskey
+#: undo.accessKey
+#: blockedpluginsMessage.searchButton.accesskey
+msgctxt "undo.accessKey"
 msgid "U"
 msgstr "U"
 
 # missing plugin installer
+#. # missing plugin installer
 #: missingpluginsMessage.title
 msgid "Additional plugins are required to display all the media on this page."
 msgstr "Потребни су додатци како би био видљив целокупан садржај стране."
@@ -209,7 +239,14 @@ msgstr "т"
 msgid "Update Plugins…"
 msgstr "Догради прикључке…"
 
+#: blockedpluginsMessage.searchButton.accesskey
+#: undo.accessKey
+msgctxt "blockedpluginsMessage.searchButton.accesskey"
+msgid "U"
+msgstr "U"
+
 # Sanitize
+#. # Sanitize
 #: sanitizeWithPromptLabel
 msgid "Clear Private Data…"
 msgstr "Очисти приватне податке…"
@@ -219,7 +256,17 @@ msgid "Clear Private Data Now"
 msgstr "Уклони приватне податке"
 
 # Check for Updates
-#: updatesItem_default updatesItem_defaultFallback
+#. # Check for Updates
+#: updatesItem_default
+#: updatesItem_defaultFallback
+msgctxt "updatesItem_default"
+msgid "Check for Updates…"
+msgstr "Провера доградњи…"
+
+# Check for Updates
+#: updatesItem_defaultFallback
+#: updatesItem_default
+msgctxt "updatesItem_defaultFallback"
 msgid "Check for Updates…"
 msgstr "Провера доградњи…"
 
@@ -239,10 +286,19 @@ msgstr "Наставак пријема: %S…"
 msgid "Resume Downloading Update…"
 msgstr "Наставак пријема доградње…"
 
-#: updatesItem_pending updatesItem_pendingFallback
+#: updatesItem_pending
+#: updatesItem_pendingFallback
+msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
 msgstr "Примени одмах примљену доградњу…"
 
+#: updatesItem_pendingFallback
+#: updatesItem_pending
+msgctxt "updatesItem_pendingFallback"
+msgid "Apply Downloaded Update Now…"
+msgstr "Примени одмах примљену доградњу…"
+
+#. # RSS Pretty Print
 #: feedNoFeeds
 msgid "Page has no feeds"
 msgstr "Страна не садржи вести уживо"
@@ -256,6 +312,7 @@ msgid "Subscribe to this page…"
 msgstr "Претплата на ову страну…"
 
 # History menu
+#. # History menu
 #: menuOpenAllInTabs.label
 msgid "Open All in Tabs"
 msgstr "Отвори све у језичцима"
@@ -265,6 +322,7 @@ msgid "o"
 msgstr "О"
 
 # Unified Back-/Forward Popup
+#. # Unified Back-/Forward Popup
 #: tabHistory.current
 msgid "Stay on this page"
 msgstr "Остани на овој страни"
@@ -277,15 +335,36 @@ msgstr "Врати се на ову страну"
 msgid "Go forward to this page"
 msgstr "Иди напред до ове стране"
 
+# Block autorefresh
+#. # Block autorefresh
+#: refreshBlocked.goButton
+#: xpinstallPromptAllowButton
+#: offlineApps.allow
+msgctxt "refreshBlocked.goButton"
+msgid "Allow"
+msgstr "Дозволи"
+
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See http://www.mozilla.org/access/keyboard/accesskey for details
+#: refreshBlocked.goButton.accesskey
+#: xpinstallPromptAllowButton.accesskey
+#: offlineApps.allowAccessKey
+msgctxt "refreshBlocked.goButton.accesskey"
+msgid "A"
+msgstr "Д"
+
 #: refreshBlocked.refreshLabel
 msgid "%S prevented this page from automatically reloading."
 msgstr "Програм %S је спречио ову страну да се аутоматски освежи."
 
 #: refreshBlocked.redirectLabel
 msgid "%S prevented this page from automatically redirecting to another page."
-msgstr "Програм %S је спречио ову страну да аутоматски проследи на другу страну."
+msgstr ""
+"Програм %S је спречио ову страну да аутоматски проследи на другу страну."
 
 # Star button
+#. # Star button
 #: starButtonOn.tooltip
 msgid "Edit this bookmark"
 msgstr "Уреди ову забелешку"
@@ -295,10 +374,31 @@ msgid "Bookmark this page"
 msgstr "Забележи ову страну"
 
 # Offline web applications
+#. # Offline web applications
 #: offlineApps.available
 msgid ""
 "This website (%S) is asking to store data on your computer for offline use."
-msgstr "Овај веб сајт (%S) тражи да сачува податке на Вашем рачунару за неповезан рад."
+msgstr ""
+"Овај веб сајт (%S) тражи да сачува податке на Вашем рачунару за неповезан "
+"рад."
+
+# Block autorefresh
+#: offlineApps.allow
+#: xpinstallPromptAllowButton
+#: refreshBlocked.goButton
+msgctxt "offlineApps.allow"
+msgid "Allow"
+msgstr "Дозволи"
+
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See http://www.mozilla.org/access/keyboard/accesskey for details
+#: offlineApps.allowAccessKey
+#: xpinstallPromptAllowButton.accesskey
+#: refreshBlocked.goButton.accesskey
+msgctxt "offlineApps.allowAccessKey"
+msgid "A"
+msgstr "Д"
 
 #: offlineApps.never
 msgid "Never for This Site"
@@ -320,7 +420,9 @@ msgstr "Н"
 msgid ""
 "This website (%S) is now storing more than %SMB of data on your computer for "
 "offline use."
-msgstr "Овај веб сајт (%S) тренутно чува више од %SMiB података на Вашем рачунару за неповезан рад."
+msgstr ""
+"Овај веб сајт (%S) тренутно чува више од %SMiB података на Вашем рачунару за "
+"неповезан рад."
 
 #: offlineApps.manageUsage
 msgid "Show settings"
@@ -348,7 +450,8 @@ msgstr "%S (%S)"
 
 #: identity.encrypted
 msgid "Your connection to this web site is encrypted to prevent eavesdropping."
-msgstr "Ваша веза са овим сајтом је шифрована како би се спречило прислушкивање."
+msgstr ""
+"Ваша веза са овим сајтом је шифрована како би се спречило прислушкивање."
 
 #: identity.unencrypted
 msgid "Your connection to this web site is not encrypted."
@@ -367,6 +470,11 @@ msgstr "(непознат)"
 # forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
 # #1 number of downloads; #2 time left
 # examples: One active download (2 minutes remaining); 11 paused downloads
+#. # Downloads Monitor Panel
+#. # LOCALIZATION NOTE (activeDownloads, pausedDownloads): Semi-colon list of plural
+#. # forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of downloads; #2 time left
+#. # examples: One active download (2 minutes remaining); 11 paused downloads
 #: activeDownloads
 msgid "One active download (#2);#1 active downloads (#2)"
 msgstr "Један активан пријем (#2);Више активних пријема: #1 (#2)"
@@ -376,6 +484,7 @@ msgid "One paused download;#1 paused downloads"
 msgstr "Један паузиран пријем;Више паузираних пријема: #1"
 
 # Edit Bookmark UI
+#. # Edit Bookmark UI
 #: editBookmarkPanel.pageBookmarkedTitle
 msgid "Page Bookmarked"
 msgstr "Страна је забележена"
@@ -388,164 +497,6 @@ msgstr "Програм %S ће увек памтити ову страну за 
 msgid "Bookmark Removed"
 msgstr "Забелешка је уклоњена"
 
-#~ msgid "Drop a link or file to open it"
-#~ msgstr "Пренесите везу или датотеку за отварање"
-
-#~ msgid "An error has occurred on this page. Double click here for details."
-#~ msgstr "Појавила се грешка на овој страни. Двапут кликните овде за детаље."
-
-#~ msgid "Link will open in:"
-#~ msgstr "Веза ће бити отворена у:"
-
-#~ msgid "Location:"
-#~ msgstr "Адреса:"
-
-# SessionHistory.js
-# SessionHistory.js
-#~ msgid "(Nothing Available)"
-#~ msgstr "(Недоступно)"
-
-# Localization Note: Use 'true' or 'false' to control the pref:theme to 
-# show the English description or not
-# for example, in Japanese build, instead of showing English description
-# set the following value to false so it won't show up.
-# Localization Note: Use 'true' or 'false' to control the pref:theme to
-#~ msgid "true"
-#~ msgstr "истина"
-
-#~ msgid "Save Web Page"
-#~ msgstr "Чување веб странице"
-
-#~ msgid "Save Picture"
-#~ msgstr "Чување слика"
-
-#~ msgid "Save As"
-#~ msgstr "Сачувај као"
-
-#~ msgid "index"
-#~ msgstr "index"
-
-#~ msgid "Web Page, complete"
-#~ msgstr "Веб-страна, потпуна"
-
-#~ msgid "Web Page, HTML only"
-#~ msgstr "Веб-страна, само HTML"
-
-#~ msgid "Bookmark All Tabs..."
-#~ msgstr "Забележи све језичке..."
-
-#~ msgid "T"
-#~ msgstr "T"
-
-#~ msgid "Bookmark This Tab..."
-#~ msgstr "Забележи овај језичак..."
-
-#~ msgid "B"
-#~ msgstr "B"
-
-# LOCALIZATION NOTE (filesFolder):
-#    This is the name of the folder that is created parallel to a HTML file 
-#    when it is saved "With Images". The %S section is replaced with the
-#    leaf name of the file being saved (minus extension).
-#    This is the name of the folder that is created parallel to a HTML file
-#~ msgid "%S_files"
-#~ msgstr "%S_датотека"
-
-#~ msgid ""
-#~ "The link could not be saved.  The web page might have been removed or had "
-#~ "its name changed."
-#~ msgstr ""
-#~ "Објекат не може бити сачуван. Вероватно је веб-страна удаљена или је "
-#~ "променила назив."
-
-#~ msgid "Save Link"
-#~ msgstr "Чување везе"
-
-# Default name for the Web Panels sidebar
-#~ msgid "Web Panels"
-#~ msgstr "Интернет панели"
-
-#~ msgid "Edit Options..."
-#~ msgstr "Измена опција..."
-
-#~ msgid ""
-#~ "To protect your computer, %S prevented this site (%S) from installing "
-#~ "themes."
-#~ msgstr ""
-#~ "Како би заштитио Ваш компијутер, %S је забранио овој веб страни (%S) да "
-#~ "поставља теме."
-
-#~ msgid "%S prevented this site from opening a popup window."
-#~ msgstr "%S није дозволио овој веб страни да отвори искачући прозор."
-
-#~ msgid "%S prevented this site from opening %S popup windows."
-#~ msgstr "%S није дозволио овој веб страни да отвори %S искачући прозор."
-
-#~ msgid "Allow popups for %S"
-#~ msgstr "Дозволи искачуће прозоре за %S"
-
-#~ msgid "Block popups for %S"
-#~ msgstr "Забрани искачуће прозоре за  %S"
-
-#~ msgid "Don't show this message when popups are blocked"
-#~ msgstr "Не приказуј ову поруку при блокирању искачућих прозора"
-
-#~ msgid "Don't show info message when popups are blocked"
-#~ msgstr "Не приказуј поруку при блокирању искачућих прозора"
-
-#~ msgid ""
-#~ "%S can save information that you enter in web forms to make filling them "
-#~ "out faster in the future. Would you like to save form information from "
-#~ "now on?"
-#~ msgstr ""
-#~ "%S може сачувати податке које уносите у формуларима како би их касније "
-#~ "брже попуњавали. Да ли желите да садржај формулара од сада буде памћен?"
-
-#~ msgid "Save Form Information"
-#~ msgstr "Сачувај садржај формулара"
-
-#~ msgid "Don't Save"
-#~ msgstr "Не уписуј"
-
-#~ msgid "Install Missing Plugins..."
-#~ msgstr "&Инсталирам недостајуће додатке..."
-
-# Sanitize
-#~ msgid "Clear Private Data..."
-#~ msgstr "Избриши приватне податке..."
-
-# Check for Updates
-#~ msgid "Check for Updates..."
-#~ msgstr "Провери постојање унапређења..."
-
-#~ msgid "Downloading %S..."
-#~ msgstr "Преузимам %S..."
-
-#~ msgid "Downloading Update..."
-#~ msgstr "Преузимам унапређења..."
-
-#~ msgid "Resume Downloading %S..."
-#~ msgstr "Настављам преужимање %S..."
-
-#~ msgid "Resume Downloading Update..."
-#~ msgstr "Настављам преужимање унапређења..."
-
-#~ msgid "Apply Downloaded Update Now..."
-#~ msgstr "Примени преузете доградње..."
-
-# RSS Pretty Print
-#~ msgid "Add '%S' as Live Bookmark..."
-#~ msgstr "Додај '%S' као везу ка вестима уживо..."
-
-#~ msgid "Add Live Bookmark..."
-#~ msgstr "Додај вести уживо..."
-
-#~ msgid "Subscribe to '%S'..."
-#~ msgstr "Претплати се на „%S‟..."
-
-#~ msgid "Subscribe to this page..."
-#~ msgstr "Претплати се на ову страну..."
-
-# tab context menu additions
-#~ msgid "Undo Close Tab"
-#~ msgstr "Врати затворени језичак"
+#: editBookmarkPanel.editBookmarkTitle
+msgid "Edit This Bookmark"
+msgstr "Уреди ову забелешку"

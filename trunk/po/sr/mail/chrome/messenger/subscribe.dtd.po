@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-25 23:29+0100\n"
+"PO-Revision-Date: 2008-03-30 18:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,15 +53,15 @@ msgstr ""
 #
 #: subscribeDialog.title subscribedHeader.label
 msgid "Subscribe"
-msgstr "Претплата"
+msgstr "Праћење"
 
 #: subscribeButton.label subscribeButton.accesskey
 msgid "&Subscribe"
-msgstr "&Претплата"
+msgstr "&Прати"
 
 #: unsubscribeButton.label unsubscribeButton.accesskey
 msgid "&Unsubscribe"
-msgstr "&Откажи претплату"
+msgstr "&Откажи праћење"
 
 #: newGroupsTab.label newGroupsTab.accesskey
 msgid "&New Groups"

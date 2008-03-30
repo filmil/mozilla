@@ -28,7 +28,8 @@ publishcopy:
 # Чишћење генерисаних датотека
 clean:
 	$(RM) *~
-	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)*
+	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)* NEWPO.po NEWPOT.pot messages.mo
+
 # Finds all the FIXME strings in files
 fixme:
 	$(FIND) $(PO_TRANSLATIONS) -name '*' -a ! -name '*.svn*' | $(XARGS) $(GREP) -n FIXME
