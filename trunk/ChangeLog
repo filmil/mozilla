@@ -1,6 +1,15 @@
+2008-03-30  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/mail/chrome/messenger/msgAccountCentral.dtd.po: Changed
+	globally the translation for "Subscribe" from "претплата" to
+	"праћење".  The first one in Serbian implies *paid* reading.  The
+	second one does not although it is less precise.
+
 2008-03-29  Filip Miletic  <filmil@gmail.com>
 
-	* po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po: Changed ел. место to веб сајт throughout.  Some added extension window pretyness.
+	* po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po:
+	Changed ел. место to веб сајт throughout.  Some added extension
+	window pretyness.
 
 2008-03-28  Filip Miletic  <filmil@gmail.com>
 

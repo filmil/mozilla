@@ -40,7 +40,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:40+0100\n"
+"PO-Revision-Date: 2008-03-30 18:07+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "Тражење директоријума..."
 # # @loc None
 #: 5005
 msgid "Subscribing to folder %S..."
-msgstr "Претплата на директоријум %S..."
+msgstr "Праћење директоријума %S..."
 
 # Status - unsubscribing from mailbox
 ## @name IMAP_STATUS_UNSUBSCRIBE_MAILBOX
@@ -126,7 +126,7 @@ msgstr "Претплата на директоријум %S..."
 # # @loc None
 #: 5006
 msgid "Unsubscribing from folder %S..."
-msgstr "Крај претплате на директоријум %S..."
+msgstr "Крај праћења директоријума %S..."
 
 # Status - searching imap folder
 ## @name IMAP_STATUS_SEARCH_MAILBOX
@@ -223,7 +223,7 @@ msgstr "Провера IMAPовог простора имена..."
 # # @loc None
 #: 5021
 msgid "\"The mail server indicates that you may not have any personal mail folders. Please verify your subscriptions."
-msgstr "„Сервер за пошту указује да још увек немате директоријуме за личну пошту. Молимо да проверите претплату."
+msgstr "„Сервер за пошту указује да још увек немате директоријуме за личну пошту. Молимо да проверите Ваша праћења."
 
 ## @name IMAP_UPGRADE_PROMPT_USER_2
 ## @loc None
@@ -231,7 +231,7 @@ msgstr "„Сервер за пошту указује да још увек не
 # # @loc None
 #: 5024
 msgid "Any folders which are left unsubscribed will not appear in your folder lists, but can be subscribed to later by choosing File / Subscribe."
-msgstr "Сви директоријуми на које је прептлата отказана се неће приказивати у списку директоријума, али се на њих касније можете претплатити избором Датотека / Претплата."
+msgstr "Сви директоријуми на које је праћење отказано се неће приказивати у списку директоријума, али се на њих касније можете претплатити избором „Датотека→Праћење‟"
 
 ## @name IMAP_UPGRADE_CUSTOM
 ## @loc None
@@ -239,7 +239,7 @@ msgstr "Сви директоријуми на које је прептлата 
 # # @loc None
 #: 5026
 msgid "Please choose which folders you want subscribed in the Subscribe window..."
-msgstr "Молимо изаберите директоријуме на које се желите претплатити у прозору Претплата..."
+msgstr "Молимо изаберите директоријуме које желите да пратите у прозору Праћење..."
 
 ## @name IMAP_UPGRADE_SUCCESSFUL
 ## @loc None
@@ -723,7 +723,7 @@ msgstr "Пријава није успело."
 # LOCALIZATION NOTE (autoSubscribeText): %1$S is the imap folder.
 #: 5092
 msgid "Would you like to subscribe to %1$S?"
-msgstr "Да ли желите да се претплатите на %1$S?"
+msgstr "Да ли желите да пратите %1$S?"
 
 ## @name IMAP_SERVER_DROPPED_CONNECTION
 ## @loc None

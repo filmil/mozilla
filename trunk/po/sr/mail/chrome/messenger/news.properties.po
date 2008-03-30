@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:25+0100\n"
+"PO-Revision-Date: 2008-03-30 18:09+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -153,13 +153,13 @@ msgstr "Можете отказати само један по један чла
 # LOCALIZATION NOTE (autoUnsubscribeText): %1$S is the newsgroup and %2$S is the newsgroup-server it is being removed from.
 #: autoUnsubscribeText
 msgid "The newsgroup %1$S does not appear to exist on the host %2$S.  Would you like to unsubscribe from it?"
-msgstr "Група %1$S изгледа не постоји на серверу %2$S. Да ли бисте желели да откажете претплату на њу?"
+msgstr "Група %1$S изгледа не постоји на серверу %2$S. Да ли желите да је више не пратите?"
 
 # LOCALIZATION NOTE (autoSubscribeText): %1$S is the newsgroup.
 # LOCALIZATION NOTE (autoSubscribeText): %1$S is the imap folder.
 #: autoSubscribeText
 msgid "Would you like to subscribe to %1$S?"
-msgstr "Да ли желите да се претплатите на %1$S?"
+msgstr "Да ли желите да пратите %1$S?"
 
 # LOCALIZATION NOTE (Error -304): In the following item, don't translate "NNTP"
 # Error - server error

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-25 23:58+0100\n"
+"PO-Revision-Date: 2008-03-30 18:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "&Директоријум за сервер ИМАПа:"
 
 #: usingSubscription.label usingSubscription.accesskey
 msgid "Sho&w only subscribed folders"
-msgstr "Прикажи само директоријуме са &претплатом"
+msgstr "Прикажи само &праћене директоријуме"
 
 #: dualUseFolders.label dualUseFolders.accesskey
 msgid "Server supports &folders that contain sub-folders and messages"
