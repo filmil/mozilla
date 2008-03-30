@@ -41,8 +41,8 @@ po/sr/mail/chrome/messenger/messengercompose/askSendFormat.properties.po:	4 tran
 po/sr/mail/chrome/messenger/messengercompose/sendProgress.properties.po:	5 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/addressingWidgetOverlay.dtd.po:	6 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/askSendFormat.dtd.po:	7 translated messages.
-po/sr/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	119 translated messages, 34 untranslated messages.
-po/sr/mail/chrome/messenger/messengercompose/composeMsgs.properties.po:	74 translated messages, 34 untranslated messages.
+po/sr/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	153 translated messages.
+po/sr/mail/chrome/messenger/messengercompose/composeMsgs.properties.po:	108 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/mailComposeEditorOverlay.dtd.po:	2 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/sendProgress.dtd.po:	3 translated messages.
 po/sr/mail/chrome/messenger/subscribe.dtd.po:	8 translated messages.
@@ -283,15 +283,17 @@ po/sr/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated messa
 po/sr/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
 po/sr/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
-po/sr/browser/chrome/browser/browser.properties.po:	84 translated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	po/sr/browser/chrome/browser/browser.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                             Message conversion to user's charset might not work.
+92 translated messages.
 po/sr/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
 po/sr/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.dtd.po:	12 translated messages.
 po/sr/browser/chrome/browser/places/moveBookmarks.dtd.po:	4 translated messages.
-po/sr/browser/chrome/browser/places/places.dtd.po:	26 translated messages, 99 untranslated messages.
-po/sr/browser/chrome/browser/places/places.properties.po:	4 translated messages, 70 untranslated messages.
-po/sr/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	0 translated messages, 15 untranslated messages.
+po/sr/browser/chrome/browser/places/places.dtd.po:	125 translated messages.
+po/sr/browser/chrome/browser/places/places.properties.po:	74 translated messages.
+po/sr/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	15 translated messages.
 po/sr/browser/chrome/browser/tabbrowser.properties.po:	10 translated messages.
 po/sr/browser/chrome/browser/metaData.properties.po:	16 translated messages.
 po/sr/browser/chrome/browser/pageInfo.properties.po:	38 translated messages.
@@ -329,8 +331,8 @@ po/sr/extensions/irc/chrome/chatzilla.dtd.po:	0 translated messages, 12 untransl
 po/sr/extensions/irc/chrome/browserOverlay.dtd.po:	0 translated messages, 2 untranslated messages.
 po/sr/extensions/irc/defines.inc.po:	0 translated messages, 1 fuzzy translation, 2 untranslated messages.
 po/sr/extensions/metrics/prefs.dtd.po:	4 translated messages.
-po/sr/extensions/cck/browser/chrome/cckwizard.properties.po:	0 translated messages, 21 untranslated messages.
-po/sr/extensions/cck/browser/chrome/cckWizard.dtd.po:	0 translated messages, 165 untranslated messages.
+po/sr/extensions/cck/browser/chrome/cckwizard.properties.po:	21 translated messages.
+po/sr/extensions/cck/browser/chrome/cckWizard.dtd.po:	165 translated messages.
 po/sr/extensions/wallet/resources/walletNavigatorOverlay.dtd.po:	12 translated messages.
 po/sr/extensions/wallet/resources/walletPrefsOverlay.dtd.po:	2 translated messages.
 po/sr/extensions/wallet/resources/walletTasksOverlay.dtd.po:	15 translated messages.
@@ -338,8 +340,8 @@ po/sr/extensions/wallet/resources/pref-wallet.dtd.po:	6 translated messages.
 po/sr/extensions/wallet/resources/pref-passwords.dtd.po:	8 translated messages.
 po/sr/extensions/cview/resources/cviewOverlay.dtd.po:	1 translated message.
 po/sr/extensions/venkman/chrome/venkman-overlay.dtd.po:	3 translated messages.
-po/sr/extensions/venkman/chrome/venkman.dtd.po:	0 translated messages, 46 untranslated messages.
-po/sr/extensions/venkman/chrome/venkman.properties.po:	0 translated messages, 596 untranslated messages.
+po/sr/extensions/venkman/chrome/venkman.dtd.po:	46 translated messages.
+po/sr/extensions/venkman/chrome/venkman.properties.po:	112 translated messages, 484 untranslated messages.
 po/sr/extensions/venkman/defines.inc.po:	po/sr/extensions/venkman/defines.inc.po:49: `msgid' en `msgstr' ingangen eindigen niet allebei met '
 '
 msgfmt: found 1 fatal error
@@ -460,7 +462,9 @@ po/sr/toolkit/chrome/mozapps/update/updates.dtd.po:	47 translated messages.
 po/sr/toolkit/chrome/mozapps/help/welcome.xhtml.po:	13 translated messages.
 po/sr/toolkit/chrome/mozapps/help/help.properties.po:	1 translated message.
 po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	28 translated messages.
-po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po:	93 translated messages.
+po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po:	po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                                           Message conversion to user's charset might not work.
+97 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po:	116 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:	16 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/update.dtd.po:	34 translated messages.

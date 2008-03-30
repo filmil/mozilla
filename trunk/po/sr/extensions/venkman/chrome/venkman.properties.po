@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-31 01:16+0200\n"
+"PO-Revision-Date: 2008-03-31 01:45+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -196,190 +196,192 @@ msgstr "Грешка при учитавању обрасца: нема покл
 msgid "Internal error handling breakpoint."
 msgstr "Интерна грешка при обради преломне тачке."
 
+# FIXME hook
 #: msn.err.internal.hook
 msgid "Internal error processing hook ``%1$S''."
-msgstr ""
+msgstr "Интерна грешка при обради закачке „%1$S‟."
 
 #: msn.err.no.section
 msgid "Missing section before ``%1$S'' in <%2$S>."
-msgstr ""
+msgstr "Недостаје одељак пре „%1$S‟ у <%2$S>."
 
 #: msn.err.no.template
 msgid "No pref for template named ``%1$S''."
-msgstr ""
+msgstr "Не постоји поставка за шаблон назван „%1$S‟."
 
 #: msn.err.not.a.dom.node
 msgid "Expression ``%1$S'' is not a DOM Node."
-msgstr ""
+msgstr "Израз „%1$S‟ није ДОМ (DOM) чвор."
 
 #: msn.err.internal.dispatch
 msgid "Internal error dispatching command ``%1$S''."
-msgstr ""
+msgstr "Интерна грешка при отпремању команде „%1$S‟."
 
 #: msn.err.source.load.failed
 msgid "Error loading URL <%1$S>: %2$S."
-msgstr ""
+msgstr "Грешка при учитавању УРЛа <%1$S>: %2$S."
 
+# FIXME container садржалац, контејнер
 #: msn.err.no.such.container
 msgid "No such container ``%1$S''."
-msgstr ""
+msgstr "Не постоји контејнер „%1$S‟."
 
 #: msg.err.condition.failed
 msgid "Error evaluating breakpoint condition."
-msgstr ""
+msgstr "Грешка при израчунавањз услова за преломну тачку."
 
 #: msg.err.format.not.available
 msgid "Source not available in requested format."
-msgstr ""
+msgstr "Извор није доступан у траженом формату."
 
 #: msn.err.no.function
 msgid "Line %1$S in <%2$S> is not part of an executable function."
-msgstr ""
+msgstr "Ред %1$S у <%2$S> није део извршиве функције."
 
 #: msn.jsdurl.errpage
 msgid ""
 "<html><head><title>Error</title></head><body>Error loading &lt;<b>%1$S</"
 "b>&gt;<br>%2$S</body></html>"
-msgstr ""
+msgstr "<html><head><title>Грешка</title></head><body>грешка при учитавању &lt;<b>%1$S</b>&gt;<br>%2$S</body></html>"
 
 #: msg.err.jsdurl.parse
 msgid "Error parsing URL."
-msgstr ""
+msgstr "Грешка при рашчлањавању УРЛа."
 
 #: msg.err.jsdurl.nosource
 msgid "URL has no textual source."
-msgstr ""
+msgstr "УРЛ нема текстуални извор"
 
 #: msg.err.jsdurl.noservice
 msgid "No such service."
-msgstr ""
+msgstr "Не постоји та услуга."
 
 #: msg.err.jsdurl.search
 msgid "Error in search pattern."
-msgstr ""
+msgstr "Грешка у обрасцу за претрагу."
 
 #: msg.err.jsdurl.sourcetext
 msgid "Error locating source text."
-msgstr ""
+msgstr "Грешка при лоцирању изворног текста."
 
 #: msn.err.jsdurl.template
 msgid "Error loading template named ``%1$S''."
-msgstr ""
+msgstr "Грешка при учитавању обрасца под именом „%1$S‟."
 
 #: msn.err.meta.failed
 msgid "Error processing meta comment ``%1$S'' in <%2$S>, line %3$S."
-msgstr ""
+msgstr "Грешка у обради мета коментара „%1$S‟ у <%2$S>, ред %3$S."
 
 #: msg.err.this.not.object
 msgid "Result of expression must be an object."
-msgstr ""
+msgstr "Резултат израза мора да буде објекат."
 
 #: msn.err.unknown.pref
 msgid "Unknown pref name ``%1$S''."
-msgstr ""
+msgstr "Непозната поставка под именом „%1$S‟."
 
 # # "values" ##
 #: msg.val.unknown
 msgid "<unknown>"
-msgstr ""
+msgstr "<непознато>"
 
 #: msg.val.console
 msgid "x-jsd:interactive-session"
-msgstr ""
+msgstr "x-jsd:interactive-session"
 
 #: msg.val.na
 msgid "<not-available>"
-msgstr ""
+msgstr "<недоступно>"
 
 #: msg.val.none
 msgid "<none>"
-msgstr ""
+msgstr "<ниједан>"
 
 #: msg.val.object
 msgid "<object>"
-msgstr ""
+msgstr "<објекат>"
 
 #: msg.val.expression cmd.copy-qual-name.params cmd.eval.params
 #: cmd.evald.params cmd.props.params cmd.propsd.params cmd.this-expr.params
 msgid "<expression>"
-msgstr ""
+msgstr "<израз>"
 
 #: msg.val.proto
 msgid "[[Prototype]]"
-msgstr ""
+msgstr "[[прототип]]"
 
 #: msg.val.parent
 msgid "[[Parent]]"
-msgstr ""
+msgstr "[[родитељ]]"
 
 # # words ##
 #: msg.val.min
 msgid "min"
-msgstr ""
+msgstr "мин"
 
 #: msg.val.max
 msgid "max"
-msgstr ""
+msgstr "макс"
 
 #: msg.val.this
 msgid "this"
-msgstr ""
+msgstr "ово"
 
 #: msg.val.breakpoint
 msgid "breakpoint"
-msgstr ""
+msgstr "преломна тачка"
 
 #: msg.val.debug
 msgid "error handler"
-msgstr ""
+msgstr "обрада грешке"
 
 #: msg.val.debugger
 msgid "debugger keyword"
-msgstr ""
+msgstr "дебагерова кључна реч"
 
 #: msg.val.throw
 msgid "thrown exception"
-msgstr ""
+msgstr "бачени изузетак"
 
 #: msg.val.global
 msgid "global"
-msgstr ""
+msgstr "глобални"
 
 #: msg.val.scope
 msgid "scope"
-msgstr ""
+msgstr "опсег"
 
 #: msg.val.exception
 msgid "exception"
-msgstr ""
+msgstr "изузетак"
 
 #: msg.val.on
 msgid "on"
-msgstr ""
+msgstr "укљ"
 
 #: msg.val.off
 msgid "off"
-msgstr ""
+msgstr "искљ"
 
 #: msg.val.tlscript
 msgid "__toplevel__"
-msgstr ""
+msgstr "__врх__"
 
 #: msg.val.toscript
 msgid "[TimeoutScript]"
-msgstr ""
+msgstr "[ИстекСкрипт]"
 
 #: msg.val.ivscript
 msgid "[IntervalScript]"
-msgstr ""
+msgstr "[ИнтервалСкрипт]"
 
 #: msg.val.evscript
 msgid "[EvalScript]"
-msgstr ""
+msgstr "[РачунСкрипт]"
 
 #: msg.url.native
 msgid "x-jsd:native-code"
-msgstr ""
+msgstr "x-jsd:native-code"
 
 # # types ##
 #: msg.type.int
@@ -388,92 +390,94 @@ msgstr ""
 
 #: msg.type.boolean
 msgid "boolean"
-msgstr ""
+msgstr "boolean"
 
 #: msg.type.double
 msgid "double"
-msgstr ""
+msgstr "double"
 
 #: msg.type.function
 msgid "function"
-msgstr ""
+msgstr "function"
 
 #: msg.type.null
 msgid "null"
-msgstr ""
+msgstr "null"
 
 #: msg.type.object
 msgid "object"
-msgstr ""
+msgstr "object"
 
 #: msg.type.string
 msgid "string"
-msgstr ""
+msgstr "string"
 
 #: msg.type.unknown
 msgid "unknown"
-msgstr ""
+msgstr "непознат"
 
 #: msg.type.void
 msgid "void"
-msgstr ""
+msgstr "void"
 
 #: msg.class.xpcobj
 msgid "XPComponent"
-msgstr ""
+msgstr "XPComponent"
 
 #: msg.class.const.xpcobj
 msgid "const XPComponent"
-msgstr ""
+msgstr "const XPComponent"
 
+# FIXME native = уграђена
 #: msg.class.native.fun
 msgid "Native Function"
-msgstr ""
+msgstr "Уграђена функција"
 
 #: msg.class.script.fun
 msgid "Script Function"
-msgstr ""
+msgstr "Функција у скрипту"
 
 # # messages ##
 #: msg.query.close
 msgid "Debugging in progress, close anyway?"
-msgstr ""
+msgstr "Дебаговање траје, желите ли ипак да затворите?"
 
 #: msg.status.default
 msgid "Welcome to the JavaScript Debugger"
-msgstr ""
+msgstr "Добродошли у дебагер за јаваскрипт"
 
 #: msn.status.loading
 msgid "Loading source for ``%1$S''"
-msgstr ""
+msgstr "Учитавање изворног кода за „%1$S‟"
 
 #: msn.status.marking
 msgid "Marking source for ``%1$S''"
-msgstr ""
+msgstr "Означавање изворног кода за „%1$S‟"
 
 #: msn.status.stopped
 msgid "Stopped in %1$S, %2$S"
-msgstr ""
+msgstr "Застало се у %1$S, %2$S"
 
 #: msn.floater.title
 msgid "JSD: %1$S"
-msgstr ""
+msgstr "ЈСД (JSD): %1$S"
 
 #: msg.alert
 msgid "Alert"
-msgstr ""
+msgstr "Узбуна"
 
 #: msg.prompt
 msgid "Prompt"
-msgstr ""
+msgstr "Упит"
 
 #: msg.confirm
 msgid "Confirm"
-msgstr ""
+msgstr "Потврда"
 
+# FIXME prettyprint = пресложити
 #: msg.cant.pprint
 msgid "Unable to Pretty Print this function."
-msgstr ""
+msgstr "Није могуће пресложити функцију за приказ"
 
 #: msg.slash.required
 msgid ""
@@ -483,36 +487,36 @@ msgid ""
 "command, type ``/step''.  To evaluate ``1 + 1'', you just need to type ``1 + "
 "1''.  If you prefer the previous behavior, type ``/pref sessionView."
 "requireSlash false''."
-msgstr ""
+msgstr "СТВАРИ СУ ПРОМЕЊЕ:  Изворно, све команде сада почињу са косом цртом („/‟).  Сав текст који не почиње косом цртом се прослеђује команди „eval‟.  На пример, за извршење команде „step‟, куцајте „/step„.  Да бисте израчунали „1 + 1‟, треба само да откуцате „1 + 1‟.  Ако Вам се више допада старо понашање, куцајте „/pref sessionView.requireSlash false‟."
 
 #: msg.commasp
 msgid ", \""
-msgstr ""
+msgstr ", \""
 
 #: msn.eval.in msn.source.line
 msgid "%1$S: %2$S\""
-msgstr ""
+msgstr "%1$S: %2$S\""
 
 #: msn.stop
 msgid "Stopped for %1$S."
-msgstr ""
+msgstr "Заустављено за %1$S."
 
 #: msn.cont
 msgid "Continuing from %1$S."
-msgstr ""
+msgstr "Наставак од %1$S."
 
 #: msn.subscript.loaded
 msgid "Subscript <%1$S> loaded with result ``%2$S''."
-msgstr ""
+msgstr "Под-скрипт <%1$S> учитан са резултатом „%2$S‟."
 
 # 1 exception name, 2 fileName, 3 lineNumber
 #: msn.eval.error
 msgid "%1$S: <%2$S>, line %3$S"
-msgstr ""
+msgstr "%1$S: <%2$S>, ред %3$S"
 
 #: msn.eval.threw
 msgid "Caught exception: ``%1$S''"
-msgstr ""
+msgstr "Ухваћен изузетак: „%1$S‟"
 
 #: msg.hello
 msgid ""
@@ -520,19 +524,19 @@ msgid ""
 "<http://www.hacksrus.com/~ginda/venkman/faq/venkman-faq.html>.  Visit the "
 "Venkman homepage <http://www.mozilla.org/projects/venkman/> for more "
 "information."
-msgstr ""
+msgstr "Добродошли у „венкман‟, дебагер за јаваскрипт.  Молимо да прочитате ЧЕП (FAQ) на <http://www.hacksrus.com/~ginda/venkman/faq/venkman-faq.html>.  Посетите венкманову почетну страну <http://www.mozilla.org/projects/venkman/> за више података."
 
 #: msn.version
 msgid "You are running Venkman version %1$S."
-msgstr ""
+msgstr "Извршава се венкман, издање: %1$S."
 
 #: msn.tip1.help
 msgid "Use ``%1$Shelp <command-name>'' for help on specific commands."
-msgstr ""
+msgstr "Користите „%1$Shelp <име-команде>‟ за помоћ о појединим командама."
 
 #: msg.tip2.help
 msgid "Visit <x-jsd:help> for a searchable command reference."
-msgstr ""
+msgstr "Посетите <x-jsd:help> за претраживо упутство о командама."
 
 #: msg.tip3.help
 msgid ""
@@ -540,27 +544,27 @@ msgid ""
 "start with a forward-slash will be evaluated as JavaScript.  For example, to "
 "execute the ``step'' command, type ``/step''.  To evaluate ``1 + 1'', just "
 "type ``1 + 1''."
-msgstr ""
+msgstr "Команде почињу косом цртом („/‟).  Ма који текст који НЕ ПОЧИЊЕ косом цртом биће израчунат као јаваскрипт.  На пример, да бисте извршили команду „step‟, куцајте„/step‟.  Да бисте израчунали „1 + 1‟, откуцајте само „1 + 1‟."
 
 #: msg.no.breaks.set
 msgid "No breakpoints set."
-msgstr ""
+msgstr "Нема постављених преломних тачака."
 
 #: msg.no.fbreaks.set
 msgid "No future breakpoints set."
-msgstr ""
+msgstr "Нема постављених преломних тачака надаље."
 
 #: msg.no.watches.set
 msgid "No watches set."
-msgstr ""
+msgstr "Нема постављених присмотри."
 
 #: msn.no.properties
 msgid "%1$S has no properties."
-msgstr ""
+msgstr "%1$S нема својства."
 
 #: msn.no.cmdmatch
 msgid "No commands match ``%1$S''."
-msgstr ""
+msgstr "Ниједна команда не одговара „%1$S‟."
 
 #: msn.cmdmatch
 msgid "Commands matching ``%1$S'' are [%2$S]."
