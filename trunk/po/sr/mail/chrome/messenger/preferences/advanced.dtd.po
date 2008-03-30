@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-29 03:22+0100\n"
+"PO-Revision-Date: 2008-03-30 17:58+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,6 @@ msgstr "Показуј само &наденуто име за особе из а
 # (markAsReadEnd.label).
 #: markAsRead.label
 #: markAsRead.accesskey
-#: modeAutoAddonWarn.accesskey
 msgid ""
 "_: This will concatenate with\n"
 "&Wait"
@@ -130,7 +129,6 @@ msgstr "Самостално &прими и постави унапређење"
 
 #: modeAutoAddonWarn.label
 #: modeAutoAddonWarn.accesskey
-#: markAsRead.accesskey
 msgid "&Warn me if this will disable any of my add-ons"
 msgstr "Упо&зори ме ако ће ово да искључи ма који додатак"
 

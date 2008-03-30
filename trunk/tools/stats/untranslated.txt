@@ -38,7 +38,7 @@ po/sr/editor/ui/chrome/dialogs/EditorImageProperties.dtd.po:	45 translated messa
 po/sr/editor/ui/chrome/dialogs/EditorReplace.dtd.po:	11 translated messages, 1 untranslated message.
 po/sr/browser/chrome/browser/preferences/connection.dtd.po:	25 translated messages, 1 untranslated message.
 po/sr/browser/chrome/browser/places/places.dtd.po:	26 translated messages, 99 untranslated messages.
-po/sr/browser/chrome/browser/places/places.properties.po:	0 translated messages, 74 untranslated messages.
+po/sr/browser/chrome/browser/places/places.properties.po:	4 translated messages, 70 untranslated messages.
 po/sr/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	0 translated messages, 15 untranslated messages.
 po/sr/browser/chrome/overrides/netError.dtd.po:	43 translated messages, 1 untranslated message.
 po/sr/extensions/irc/chrome/channels.dtd.po:	0 translated messages, 11 untranslated messages.

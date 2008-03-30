@@ -1,11 +1,10 @@
-# converted from pseudo-properties .it file
 # extracted from 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-24 23:41+0100\n"
+"PO-Revision-Date: 2008-03-30 17:39+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -177,7 +176,7 @@ msgstr "Молимо да изаберете директоријум на ди�
 
 #: CXN_DROPPED
 msgid "A network connection failure occured.  Please check your network connection and press the 'Resume' button.  Alternatively, press the 'Cancel' button to quit the installer."
-msgstr "Дошло је до грешке приликом повезивања на мрежу.  Молимо да проверите мрежну везу и да притисните дугме „Настави‟.  У супротном, притисак на „Откажи‟ прекида инсталацију."
+msgstr "Дошло је до грешке приликом повезивања на мрежу.  Молимо да проверите мрежну везу и да притисните дугме \"Настави\".  У супротном, притисак на \"Откажи\" прекида инсталацију."
 
 #: CRC_CHECK
 msgid "Some files failed to download correctly. Retrying."
