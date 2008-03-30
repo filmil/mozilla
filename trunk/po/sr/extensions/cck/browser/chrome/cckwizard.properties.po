@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-31 00:04+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,93 +16,97 @@ msgstr ""
 
 #: windowTitle
 msgid "Firefox CCK"
-msgstr ""
+msgstr "Фајерфоксов ЦЦК (CCK)"
 
 #: deleteConfirm
 msgid "Are you sure you want to delete this configuration?"
-msgstr ""
+msgstr "Да ли сигурно желите да уклоните ову конфигурацију?"
 
 #: outputLocation
 msgid "Firefox CCK Wizard is completed. XPI is available at:\n"
-msgstr ""
+msgstr "Фајерфоксов чаробњак за ЦЦК је завршен.  ИксПИ (XPI) је доступан овде:\n"
 
 #: cancelConfirm
 msgid "Do you want to save your changes?"
-msgstr ""
+msgstr "Да лижелите да сачувате измене?"
 
 #: zipError
 msgid ""
 "Unable to create JAR or XPI file. Please ensure that a command line version "
 "of ZIP is in your path or that you have specified a path to ZIP."
-msgstr ""
+msgstr "Није могуће направити ЈАР (JAR) или ИксПИ (XPI) датотеке.  Молимо да обезбедите да је издање програма ЗИП из командне линије уврштено у стазу или да сте одредили стазу до ЗИП програма."
 
 #: intError
 msgid "The value must be an integer"
-msgstr ""
+msgstr "Вредност мора да буде целобројна"
 
 #: lockError
 msgid "You cannot set this value here, you can only lock it."
-msgstr ""
+msgstr "Не можете да поставите вредност овде, можете само да је закључате."
 
 #: prefExistsError
 msgid "This preference already exists in the list."
-msgstr ""
+msgstr "Ова поставка већ постоји у списку."
 
 #: chooseFile
 msgid "Choose File..."
-msgstr ""
+msgstr "Избор датотеке..."
 
 #: chooseDirectory
 msgid "Choose Directory..."
-msgstr ""
+msgstr "Избор директоријума..."
 
 #: chooseImage
 msgid "Choose Image..."
-msgstr ""
+msgstr "Избор слике..."
 
 #: createDir
 msgid ""
 "The following directory does not exist: %S\n"
 "Would you like to create it?"
 msgstr ""
+"Овај директоријум не постоји: %S\n"
+"Да ли желите да га направите?"
 
 #: createDirError
 msgid ""
 "Could not create folder: %S\n"
 "Make sure you have access to create the folder."
 msgstr ""
+"Није могуће направити директоријум: %S\n"
+"Проверите да ли имате право да направите директоријум."
 
 #: extensions.cckwizard@extensions.mozilla.org.description
 msgid "XUL Wizard to create CCK Packages"
-msgstr ""
+msgstr "Чаробњак за ИксУЛ (XUL) за прављење ЦЦК (CCK) пакета"
 
 #: id.error
 msgid ""
 "Unique ID is required and is of the format extensionname@organization.tld. "
 "It can only contain the letters a-z, the numbers 0-9, and the following "
 "symbols: . _ -"
-msgstr ""
+msgstr "Јединствени ИБ (ID) је неопходан, он је у формату имепродужетка@организација.тсд. Може да садржи само слова a-z, цифре 0-9, и следеће симболе: . _ -"
 
 #: name.error
 msgid "Name is required"
-msgstr ""
+msgstr "Захтева се име"
 
 #: version.error
 msgid "Version is required"
-msgstr ""
+msgstr "Захтева се ознака издања"
 
 #: OrganizationName.error
 msgid "Company Identifier is required and cannot contain any spaces."
-msgstr ""
+msgstr "Име компаније обавезно и не сме да садржи размаке."
 
 #: BookmarkFolder1.error ToolbarFolder1.error
 msgid "You must specify a folder name"
-msgstr ""
+msgstr "Морате да задате име директоријума"
 
 #: useBrowserDefault
 msgid "(use the browser default)"
-msgstr ""
+msgstr "(користи читачев изворни)"
 
 #: searchEngine.error
 msgid "Search engine source file is invalid"
-msgstr ""
+msgstr "Датотека са изворним кодом претраживача није исправна"

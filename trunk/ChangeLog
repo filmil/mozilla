@@ -1,3 +1,13 @@
+2008-03-31  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/extensions/venkman/chrome/venkman.properties.po: Started
+	translation.
+
+	* po/sr/extensions/venkman/chrome/venkman.dtd.po: Started venkman.
+	And completed.
+
+	* po/sr/extensions/cck/browser/chrome/cckwizard.properties.po: Translated.
+
 2008-03-30  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/browser/chrome/browser/places/places.dtd.po: All translated.

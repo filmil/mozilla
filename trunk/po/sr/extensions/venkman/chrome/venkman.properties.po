@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-31 01:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -73,11 +73,11 @@ msgstr ""
 # profile report, or generated help text.
 #: msg.report.charset
 msgid "utf-8"
-msgstr ""
+msgstr "utf-8"
 
 #: msg.locale.version
 msgid "0.9.87.3"
-msgstr ""
+msgstr "0.9.87.3"
 
 #: msn.bad.locale
 msgid ""
@@ -85,29 +85,29 @@ msgid ""
 "currently using a locale marked ``%2$S''.  Chances are, you're going to have "
 "problems.  Please change to the default locale, or upgrade your language "
 "pack."
-msgstr ""
+msgstr "Ово издање венкмана је намењено да ради са локалитетом „%1$S‟, али тренутно користите локалитет означен као „2$S‟.  Сва је прилика да ћете имати проблема.  Молимо да измените подразумевани локалитет, или да доградите језички пакет."
 
 #: msg.release.url
 msgid "http://www.mozilla.org/releases/"
-msgstr ""
+msgstr "http://www.mozilla.org/releases/"
 
 # # exception descriptions ##
 #: err.notimplemented
 msgid "Not implemented"
-msgstr ""
+msgstr "Није имплементирано"
 
 #: err.required.param msn.err.required.param
 msgid "Missing required parameter %1$S"
-msgstr ""
+msgstr "Недостаје обавезни параметар %1$S"
 
 #: err.invalid.param msn.err.invalid.param
 msgid "Invalid value for parameter %1$S (%2$S)"
-msgstr ""
+msgstr "Неисправна вредност за параметар %1$S (%2$S)"
 
 # 1 url, 2 fileName, 3 lineNumber, 4 reason
 #: err.subscript.load msn.err.scriptload
 msgid "Error loading subscript from <%1$S>."
-msgstr ""
+msgstr "Грешка при учитавању под-скрипта из <%1$S>."
 
 #: err.no.debugger
 msgid ""
@@ -116,82 +116,85 @@ msgid ""
 "support required for Venkman. You can resolve this by recompiling without "
 "that option or complaining to your vendor [who shouldn't be using that "
 "flag].)"
-msgstr ""
+msgstr "Услуга дебагера за ЈС није инсталирана. (Можда је програм изграђен  [в. about:buildconfig] са опцијом --disable-jsd, која спречава изградњу језгра подршке неопходне за венкмана.  Овај проблем можете да решите поновном изградњом без ове опције, или жалбом продавцу [који не треба да користи ову опцију].)"
 
 #: err.failure msn.err.failure
 msgid "Operation Failed: %1$S"
-msgstr ""
+msgstr "Операција није успела: %1$S"
 
 #: err.no.stack
 msgid "No Stack"
-msgstr ""
+msgstr "Нема стека"
 
 # # error messages ##
 #: msn.err.unknown.reason
 msgid "Unknown reason"
-msgstr ""
+msgstr "Разлог је непознат"
 
 #: msn.err.invalid.pref
 msgid "Invalid value for preference %1$S (%2$S)"
-msgstr ""
+msgstr "Неважећа вредност за поставку %1$S (%2$S)"
 
 #: msn.err.no.source
 msgid "No scripts loaded match ``%1$S''."
-msgstr ""
+msgstr "Ниједан учитани скрипт се не поклапа са „%1$S‟."
 
 #: msn.err.no.command
 msgid "No command named ``%1$S''."
-msgstr ""
+msgstr "Ниједна команда нема име „%1$S‟."
 
 #: msn.err.no.such.view
 msgid "No such view ``%1$S''."
-msgstr ""
+msgstr "Поглед „%1$S‟ не постоји."
 
 #: msg.err.no.stack
 msgid "No stack"
-msgstr ""
+msgstr "Нема стека"
 
 #: msg.err.no.eval.object
 msgid "No object selected for evaluations"
-msgstr ""
+msgstr "Ниједан објекат није изабран за израчунавање"
 
 #: msn.err.noscript
 msgid "No debuggable scripts found for ``%1$S''"
-msgstr ""
+msgstr "Нема скриптова који могу да се дебагују за „%1$S‟"
 
 #: msn.err.disabled
 msgid "Sorry, ``%1$S'' is currently disabled"
-msgstr ""
+msgstr "Жао нам је, „%1$S‟ је тренутно искључен"
 
 #: msn.err.notimplemented
 msgid "Sorry, ``%1$S'' has not been implemented"
-msgstr ""
+msgstr "Жао нам је, „%1$S‟ још није дорађен"
 
 #: msn.err.ambigcommand
 msgid "Ambiguous command, ``%1$S'', %2$S commands match [%3$S]"
-msgstr ""
+msgstr "Двосмислена команда, „%1$S‟, Оволико команди је сагласно: %2$S [%3$S]"
 
 #: msn.err.bp.noline
 msgid "No scripts matching <%1$S> contain executable code at line %2$S"
-msgstr ""
+msgstr "Ниједан скрипт који је сагласан са <%1$S> не садржи извршни код, у реду %2$S"
 
 #: msn.err.bp.nodice
 msgid "No breakpoint set at <%1$S> line %2$S"
-msgstr ""
+msgstr "Ниједна преломна тачка није постављена у <%1$S> ред %2$S"
 
+# FIXME initializing
 #: msn.err.startup
 msgid ""
 "An exception occurred while initializing, please file a bug.\n"
 "%1$S"
 msgstr ""
+"Десио се изузетак при установљавању, молимо да пријавите грешку.\n"
+"%1$S"
 
 #: msn.err.cant.match
 msgid "Error loading template: Can't match ``%1$S''."
-msgstr ""
+msgstr "Грешка при учитавању обрасца: нема поклапања са „%1$S‟."
 
 #: msg.err.internal.bpt
 msgid "Internal error handling breakpoint."
-msgstr ""
+msgstr "Интерна грешка при обради преломне тачке."
 
 #: msn.err.internal.hook
 msgid "Internal error processing hook ``%1$S''."

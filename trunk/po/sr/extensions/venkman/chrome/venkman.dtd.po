@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-31 01:03+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -54,197 +54,198 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: MainWindow.title
 msgid "JavaScript Debugger"
-msgstr ""
+msgstr "Дебагер за јаваскрипт"
 
 # floating views
 #: ViewFloat.tooltip
 msgid "Click here to float/unfloat this view"
-msgstr ""
+msgstr "Притисните овде да закачите или откачите овај поглед"
 
 #: ViewGrippy.tooltip
 msgid "Drag titlebar to move this view"
-msgstr ""
+msgstr "Повуците насловну линију да помакнете овај поглед"
 
 #: ViewClose.tooltip
 msgid "Click here to close this view"
-msgstr ""
+msgstr "Притисните овде да затворите овај поглед"
 
 # help menu
 #: Help.commands
 msgid "Command Reference"
-msgstr ""
+msgstr "Приручник о командама"
 
 #: Help.about
 msgid "About Venkman"
-msgstr ""
+msgstr "О венкману"
 
 # toolips
 #: DebugBar.tooltip
 msgid "Debugging Toolbar"
-msgstr ""
+msgstr "Алатна трага за дебагер"
 
 #: MenuBar.tooltip
 msgid "Menu Bar"
-msgstr ""
+msgstr "Трака са менијем"
 
 # breakpoint view
 #: Break.label
 msgid "Breakpoints"
-msgstr ""
+msgstr "преломне тачке (breakpoints)"
 
 #: BreakCol0.label LocalsCol0.header ScriptsCol0.header StackCol0.header
 #: WatchCol0.header
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: BreakCol1.label
 msgid "Line/PC"
-msgstr ""
+msgstr "Ред/ПБ"
 
 # locals view
 #: Locals.label
 msgid "Local Variables"
-msgstr ""
+msgstr "Локалне променљиве"
 
 #: LocalsCol1.header WatchCol1.header
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: LocalsCol2.header WatchCol2.header
 msgid "Value"
-msgstr ""
+msgstr "Вредност"
 
 #: LocalsCol3.header WatchCol3.header
 msgid "Flags"
-msgstr ""
+msgstr "Заставице"
 
 # session view
 #: Session.label
 msgid "Interactive Session"
-msgstr ""
+msgstr "Интерактивна сесија"
 
 # script view
 #: Scripts.label
 msgid "Loaded Scripts"
-msgstr ""
+msgstr "Учитани скриптови"
 
 #: ScriptsSearch.label
 msgid "Search"
-msgstr ""
+msgstr "Претрага"
 
 #: ScriptsSearch.tooltip
 msgid "Click here to clear the search field"
-msgstr ""
+msgstr "Притисните овде да очистите поље за претрагу"
 
 #: ScriptsCol1.header BPProps.Line.label
 msgid "Line"
-msgstr ""
+msgstr "Ред"
 
 #: ScriptsCol2.header
 msgid "Length"
-msgstr ""
+msgstr "Дужина"
 
 # source view
 #: Source.label
 msgid "Source Code"
-msgstr ""
+msgstr "Изворни код"
 
 #: SourceHeader.tip
 msgid "Source Toolbar"
-msgstr ""
+msgstr "Алатна трака изворног кода"
 
 #: SourceCol0.display
 msgid "Margin"
-msgstr ""
+msgstr "Маргина"
 
 #: SourceCol1.display
 msgid "Line Number"
-msgstr ""
+msgstr "Број реда"
 
 # stack view
 #: Stack.label
 msgid "Call Stack"
-msgstr ""
+msgstr "Стек позива"
 
 #: StackCol1.header
 msgid "Location"
-msgstr ""
+msgstr "Место"
 
+# FIXME watch
 # watch view
 #: Watch.label
 msgid "Watches"
-msgstr ""
+msgstr "Присмотре"
 
 # window view
 #: Windows.label
 msgid "Open Windows"
-msgstr ""
+msgstr "Отвори прозоре"
 
 #: WindowsCol0.label
 msgid "File"
-msgstr ""
+msgstr "Датотека"
 
 # breakpoint properties window
 #: BPProps.URL.label
 msgid "URL"
-msgstr ""
+msgstr "УРЛ (URL)"
 
 #: BPProps.PC.label
 msgid "PC"
-msgstr ""
+msgstr "ПБ (PC)"
 
 #: BPProps.FunctionName.label
 msgid "Function"
-msgstr ""
+msgstr "Функција"
 
 #: BPProps.TriggerCount.label
 msgid "Trigger count"
-msgstr ""
+msgstr "Број окидања"
 
 #: BPProps.OneTime.label
 msgid "Clear breakpoint after first trigger"
-msgstr ""
+msgstr "Уклони преломну тачку после првог окидања"
 
 #: BPProps.Then.label
 msgid "Then …"
-msgstr ""
+msgstr "а онда…"
 
 #: BPProps.ConditionalCheck.label
 msgid "When triggered, execute…"
-msgstr ""
+msgstr "Изврши при окидању…"
 
 #: BPProps.NeverStopRadio.label
 msgid "Continue regardless of result"
-msgstr ""
+msgstr "Настави без обзира на резултат"
 
 #: BPProps.AlwaysStopRadio.label
 msgid "Stop regardless of result"
-msgstr ""
+msgstr "Стани без обзира на резултат"
 
 #: BPProps.ConditionalBreakRadio.label
 msgid "Stop if result is true"
-msgstr ""
+msgstr "Стани ако је резултат тачна истинитосна вредност"
 
 #: BPProps.EarlyReturnRadio.label
 msgid "Early return from caller with result"
-msgstr ""
+msgstr "Врати се превремено из функције, са резултатом"
 
 #: BPProps.PassExceptionsCheck.label
 msgid "Pass exceptions to caller"
-msgstr ""
+msgstr "Достави изузетке позивачу"
 
 #: BPProps.LogResultCheck.label
 msgid "Log result"
-msgstr ""
+msgstr "Забележи резултат"
 
 #: BPProps.Apply.label
 msgid "Apply"
-msgstr ""
+msgstr "Примени"
 
 #: BPProps.Revert.label
 msgid "Revert"
-msgstr ""
+msgstr "Врати"
 
 #: BPProps.Close.label
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
