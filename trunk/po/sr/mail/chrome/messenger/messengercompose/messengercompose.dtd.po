@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 03:13+0100\n"
+"PO-Revision-Date: 2008-03-30 23:09+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,15 +35,15 @@ msgstr "&Порука"
 
 #: newMessage.key
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #: newMessageCmd2.key
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: newCard.label newCard.accesskey
 msgid "Address Book &Card…"
-msgstr ""
+msgstr "&Картица из адресара…"
 
 #: attachMenu.label attachMenu.accesskey
 msgid "A&ttach"
@@ -51,11 +51,11 @@ msgstr "&Закачи"
 
 #: attachFileCmd.label attachFileCmd.accesskey
 msgid "&File(s)…"
-msgstr ""
+msgstr "&Датотеке"
 
 #: attachPageCmd.label attachPageCmd.accesskey
 msgid "&Web Page…"
-msgstr ""
+msgstr "&Веб страну…"
 
 # LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard'
 #: attachVCardCmd.label attachVCardCmd.accesskey
@@ -70,7 +70,7 @@ msgstr "&Затвори"
 
 #: closeCmd.key
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: saveCmd.label saveCmd.accesskey
 msgid "&Save"
@@ -78,7 +78,7 @@ msgstr "&Сачувај"
 
 #: saveCmd.key accountManagerCmdUnix.accesskey
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: saveAsCmd.label saveAsCmd.accesskey
 msgid "Save &As"
@@ -86,7 +86,7 @@ msgstr "Сними &као"
 
 #: saveAsFileCmd.label saveAsFileCmd.accesskey
 msgid "&File…"
-msgstr ""
+msgstr "&Датотека"
 
 #: saveAsDraftCmd.label saveAsDraftCmd.accesskey
 msgid "&Draft"
@@ -102,7 +102,7 @@ msgstr "&Шаљи одмах"
 
 #: sendCmd.keycode sendLaterCmd.keycode
 msgid "VK_RETURN"
-msgstr ""
+msgstr "VK_RETURN"
 
 #: sendLaterCmd.label sendLaterCmd.accesskey
 msgid "Send &Later"
@@ -110,15 +110,15 @@ msgstr "Ша&љи касније"
 
 #: printSetupCmd.label printSetupCmd.accesskey
 msgid "Page Set&up…"
-msgstr ""
+msgstr "Поде&шавање стране…"
 
 #: printCmd.label printCmd.accesskey
 msgid "&Print…"
-msgstr ""
+msgstr "Ш&тампа…"
 
 #: printCmd.key
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: quitApplicationCmdWin.label quitApplicationCmdWin.accesskey
 msgid "E&xit"
@@ -130,7 +130,7 @@ msgstr "&Крај"
 
 #: quitApplicationCmd.key
 msgid "Q"
-msgstr ""
+msgstr "Q"
 
 # Edit Menu
 #: editMenu.label editMenu.accesskey
@@ -143,7 +143,7 @@ msgstr "&Опозови"
 
 #: undoCmd.key
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #: redoCmd.label redoCmd.accesskey
 msgid "&Redo"
@@ -151,7 +151,7 @@ msgstr "&Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: cutCmd.label cutCmd.accesskey cut.label cut.accesskey
 msgid "Cu&t"
@@ -159,7 +159,7 @@ msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: copyCmd.label copyCmd.accesskey copy.label copy.accesskey
 msgid "&Copy"
@@ -167,7 +167,7 @@ msgstr "Умн&ожи"
 
 #: copyCmd.key
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: pasteCmd.label pasteCmd.accesskey paste.label paste.accesskey
 msgid "&Paste"
@@ -175,7 +175,7 @@ msgstr "У&баци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: editRewrapCmd.label editRewrapCmd.accesskey
 msgid "Re&wrap"
@@ -183,7 +183,7 @@ msgstr "&Препакуј"
 
 #: editRewrapCmd.key
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: deleteCmd.label deleteCmd.accesskey delete.label delete.accesskey
 msgid "&Delete"
@@ -191,7 +191,7 @@ msgstr "&Уклони"
 
 #: deleteCmd.key
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #: selectAllCmd.label selectAllCmd.accesskey selectAll.label
 #: selectAll.accesskey
@@ -200,15 +200,15 @@ msgstr "Изабери &све"
 
 #: selectAllCmd.key
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: findCmd.label findCmd.accesskey
 msgid "&Find and Replace…"
-msgstr ""
+msgstr "&Нађи и замени…"
 
 #: findCmd.key
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: findAgainCmd.label findAgainCmd.accesskey
 msgid "Find A&gain"
@@ -216,7 +216,7 @@ msgstr "На&ђи поново"
 
 #: findAgainCmd.key findPrevCmd.key
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: findAgainCmd.key2 findPrevCmd.key2
 msgid "VK_F3"
@@ -249,7 +249,7 @@ msgstr "&Статусна трака"
 
 #: customizeToolbar.label customizeToolbar.accesskey
 msgid "&Customize…"
-msgstr ""
+msgstr "&Прилагоди…"
 
 #: addressSidebar.label addressSidebar.accesskey
 msgid "C&ontacts Sidebar"
@@ -267,11 +267,11 @@ msgstr "&Опције"
 
 #: checkSpellingCmd.label checkSpellingCmd.accesskey
 msgid "C&heck Spelling…"
-msgstr ""
+msgstr "&Провера правописа…"
 
 #: checkSpellingCmd.key
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #: checkSpellingCmd.key2
 msgid "VK_F7"
@@ -296,7 +296,7 @@ msgstr "Потврда о п&ријему"
 
 #: dsnMenu.label dsnMenu.accesskey
 msgid "Delivery Status &Notification"
-msgstr ""
+msgstr "Потврда о при&јему"
 
 #: outputFormatMenu.label outputFormatMenu.accesskey
 msgid "&Format"
@@ -377,15 +377,15 @@ msgstr "2"
 
 #: accountManagerCmd.label accountManagerCmd.accesskey
 msgid "A&ccount Settings…"
-msgstr ""
+msgstr "&Подешавање налога…"
 
 #: preferencesCmd.label preferencesCmd.accesskey
 msgid "&Options…"
-msgstr ""
+msgstr "&Опције…"
 
 #: preferencesCmd.key
 msgid "O"
-msgstr ""
+msgstr "O"
 
 #: preferencesCmdUnix.label preferencesCmdUnix.accesskey
 msgid "Prefere&nces"
@@ -394,7 +394,7 @@ msgstr "Поста&вке"
 # Mac OS X Window Menu
 #: minimizeWindow.key
 msgid "m"
-msgstr ""
+msgstr "m"
 
 #: minimizeWindow.label
 msgid "Minimize"
@@ -644,11 +644,11 @@ msgstr "&Отвори"
 
 #: attachFile.label attachFile.accesskey
 msgid "Attach &File(s)…"
-msgstr ""
+msgstr "Закачи &датотеке…"
 
 #: attachPage.label attachPage.accesskey
 msgid "Attach &Web Page…"
-msgstr ""
+msgstr "Закачи &веб страну…"
 
 #~ msgid "Address Book &Card..."
 #~ msgstr "Кар&тица у адресару..."

@@ -1,5 +1,7 @@
 2008-03-30  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/browser/chrome/browser/places/places.dtd.po: All translated.
+
 	* scripts/make-pot-from-file.sh (SOURCE): Fetches the updated file
 	from the template directory, and converts it into POT.  The output
 	is saved as NEWPOT.pot in the working directory.

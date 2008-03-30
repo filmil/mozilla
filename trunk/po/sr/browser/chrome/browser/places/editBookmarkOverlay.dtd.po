@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 02:16+0200\n"
+"PO-Revision-Date: 2008-03-30 23:04+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,64 +16,64 @@ msgstr ""
 
 #: editBookmarkOverlay.name.label editBookmarkOverlay.name.accesskey
 msgid "&Name:"
-msgstr ""
+msgstr "&Име:"
 
 #: editBookmarkOverlay.location.label editBookmarkOverlay.location.accesskey
 msgid "&Location:"
-msgstr ""
+msgstr "&Место:"
 
 #: editBookmarkOverlay.feedLocation.label
 #: editBookmarkOverlay.feedLocation.accesskey
 msgid "&Feed Location:"
-msgstr ""
+msgstr "Место &довода:"
 
 #: editBookmarkOverlay.siteLocation.label
 #: editBookmarkOverlay.siteLocation.accesskey
 msgid "&Site Location:"
-msgstr ""
+msgstr "Место &сајта:"
 
 #: editBookmarkOverlay.liveTitlesSeparator.label
 msgid "Live Titles"
-msgstr ""
+msgstr "Живи наслови"
 
 #: editBookmarkOverlay.folder.label
 msgid "Folder:"
-msgstr ""
+msgstr "Директоријум:"
 
 #: editBookmarkOverlay.foldersExpanderDown.tooltip
 msgid "Show all the bookmarks folders"
-msgstr ""
+msgstr "Прикажи све директоријуме са забелешкама"
 
 #: editBookmarkOverlay.expanderUp.tooltip
 msgid "Hide"
-msgstr ""
+msgstr "Сакриј"
 
 #: editBookmarkOverlay.tags.label editBookmarkOverlay.tags.accesskey
 msgid "&Tags:"
-msgstr ""
+msgstr "&Ознаке:"
 
 #: editBookmarkOverlay.tagsEmptyDesc.label
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Ознаке се раздвајају запетама"
 
 #: editBookmarkOverlay.description.label
 #: editBookmarkOverlay.description.accesskey
 msgid "&Description:"
-msgstr ""
+msgstr "&Опис:"
 
 #: editBookmarkOverlay.keyword.label editBookmarkOverlay.keyword.accesskey
 msgid "&Keyword:"
-msgstr ""
+msgstr "&Кључна реч:"
 
 #: editBookmarkOverlay.tagsExpanderDown.tooltip
 msgid "Show all tags"
-msgstr ""
+msgstr "Прикажи све ознаке"
 
 #: editBookmarkOverlay.loadInSidebar.label
 #: editBookmarkOverlay.loadInSidebar.accesskey
 msgid "Load t&his bookmark in the sidebar"
-msgstr ""
+msgstr "Учитан ову забелешку у &бочну траку"
 
 #: editBookmarkOverlay.choose.label
 msgid "Choose…"
-msgstr ""
+msgstr "Избор…"

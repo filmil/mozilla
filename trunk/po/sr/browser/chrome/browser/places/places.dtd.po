@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 03:18+0100\n"
+"PO-Revision-Date: 2008-03-30 20:31+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -128,397 +128,397 @@ msgstr "Изабери &све"
 
 #: cmd.select_all.key
 msgid "a"
-msgstr ""
+msgstr "a"
 
 #: cmd.edit_cut.label cmd.edit_cut.accesskey
 msgid "Cu&t"
-msgstr ""
+msgstr "&Исеци"
 
 #: cmd.edit_cut.key
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: cmd.edit_copy.label cmd.edit_copy.accesskey
 msgid "&Copy"
-msgstr ""
+msgstr "&Умножи"
 
 #: cmd.edit_copy.key
 msgid "c"
-msgstr ""
+msgstr "c"
 
 #: cmd.edit_paste.label cmd.edit_paste.accesskey
 msgid "&Paste"
-msgstr ""
+msgstr "&Убаци"
 
 #: cmd.edit_paste.key
 msgid "v"
-msgstr ""
+msgstr "v"
 
 #: cmd.edit_delete.label cmd.edit_delete.accesskey
 msgid "&Delete"
-msgstr ""
+msgstr "У&клони"
 
 #: cmd.edit_undo.label cmd.edit_undo.accesskey
 msgid "&Undo"
-msgstr ""
+msgstr "&Опозови"
 
 #: cmd.edit_undo.key
 msgid "z"
-msgstr ""
+msgstr "z"
 
 #: cmd.edit_redo.label cmd.edit_redo.accesskey
 msgid "&Redo"
-msgstr ""
+msgstr "&Понови"
 
 #: cmd.edit_redo.key
 msgid "y"
-msgstr ""
+msgstr "y"
 
 #: cmd.open.label cmd.open.accesskey
 msgid "&Open"
-msgstr ""
+msgstr "&Отвори"
 
 #: cmd.open_window.label cmd.open_window.accesskey
 msgid "Open in a &New Window"
-msgstr ""
+msgstr "Отвори у &новом прозору"
 
 #: cmd.open_tab.label cmd.open_tab.accesskey
 msgid "Open in a Ne&w Tab"
-msgstr ""
+msgstr "Отвори у новом &језичку"
 
 #: cmd.open_all_in_tabs.label cmd.open_all_in_tabs.accesskey
 msgid "&Open All in Tabs"
-msgstr ""
+msgstr "Отвори све у је&зичцима"
 
 #: cmd.properties.label cmd.properties.accesskey
 msgid "Propert&ies"
-msgstr ""
+msgstr "&Својства"
 
 #: cmd.show_info.key
 msgid "i"
-msgstr ""
+msgstr "i"
 
 #: cmd.rename.label cmd.rename.accesskey
 msgid "&Rename"
-msgstr ""
+msgstr "Преи&менуј"
 
 #: cmd.sortby_name.label cmd.sortby_name.accesskey
 msgid "&Sort By Name"
-msgstr ""
+msgstr "&Ређај по имену"
 
 #: cmd.context_sortby_name.accesskey
 msgid "r"
-msgstr ""
+msgstr "r"
 
 #: cmd.new_bookmark.label cmd.new_bookmark.accesskey
 msgid "New &Bookmark…"
-msgstr ""
+msgstr "Нова &забелешка…"
 
 #: cmd.new_livemark.label cmd.new_livemark.accesskey
 msgid "New &Live Bookmark…"
-msgstr ""
+msgstr "Нова &жива забелешка…"
 
 #: cmd.new_folder.label cmd.new_folder.accesskey
 msgid "New F&older…"
-msgstr ""
+msgstr "Нови &директоријум…"
 
 #: cmd.new_separator.label cmd.new_separator.accesskey
 msgid "New &Separator"
-msgstr ""
+msgstr "Нови &раздвајач"
 
 #: cmd.reloadLivebookmark.label cmd.reloadLivebookmark.accesskey
 msgid "&Reload Live Bookmark"
-msgstr ""
+msgstr "&Освежи живу забелешку"
 
 #: cmd.reloadMicrosummary.label cmd.reloadMicrosummary.accesskey
 msgid "&Reload Live Title"
-msgstr ""
+msgstr "О&свежи живи наслов"
 
 #: cmd.groupby_site.label cmd.groupby_site.accesskey
 msgid "Group by &Site"
-msgstr ""
+msgstr "Групиши према &сајту"
 
 #: cmd.groupby_page.label cmd.groupby_page.accesskey
 msgid "Group by &Page"
-msgstr ""
+msgstr "Групиши према с&трани"
 
 #: cmd.groupby_feed.label cmd.groupby_feed.accesskey
 msgid "Group by &Subscription"
-msgstr ""
+msgstr "Групиши према &праћењу"
 
 #: cmd.groupby_post.label cmd.groupby_post.accesskey
 msgid "Group by &Post"
-msgstr ""
+msgstr "Групиши по п&оруци"
 
 #: cmd.moveBookmarks.label cmd.moveBookmarks.accesskey
 msgid "&Move…"
-msgstr ""
+msgstr "&Премести…"
 
 #: col.name.label
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: col.tags.label
 msgid "Tags"
-msgstr ""
+msgstr "Ознаке"
 
 #: col.url.label advancedSearch.subj_location.label
 msgid "Location"
-msgstr ""
+msgstr "Место"
 
 #: col.lastvisit.label
 msgid "Visit Date"
-msgstr ""
+msgstr "Датум посете"
 
 #: col.visitcount.label
 msgid "Visit Count"
-msgstr ""
+msgstr "Број посета"
 
 #: col.keyword.label
 msgid "Keyword"
-msgstr ""
+msgstr "Кључна реч"
 
 #: col.description.label
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 #: col.dateadded.label
 msgid "Added"
-msgstr ""
+msgstr "Додато"
 
 #: col.lastmodified.label
 msgid "Last Modified"
-msgstr ""
+msgstr "Последња измена"
 
 #: search.label search.accesskey
 msgid "&Search:"
-msgstr ""
+msgstr "&Претражи:"
 
 #: search.collection.label search.collection.accesskey
 msgid "&Current Collection Only"
-msgstr ""
+msgstr "По &тренутној збирци"
 
 #: search.allBookmarks.label search.allBookmarks.accesskey
 #: search.scopeAll.label search.scopeAll.accesskey
 msgid "&All Bookmarks"
-msgstr ""
+msgstr "С&ве забелешке"
 
 #: search.scopeFolder.label search.scopeFolder.accesskey
 msgid "Selected &Folder"
-msgstr ""
+msgstr "&Изабрани директоријум"
 
 #: search.scopeMenu.label search.scopeMenu.accesskey
 msgid "Bookmarks &Menu"
-msgstr ""
+msgstr "&Мени забелешки"
 
 #: search.scopeToolbar.label search.scopeToolbar.accesskey
 msgid "Bookmarks &Toolbar"
-msgstr ""
+msgstr "&Траку забелешки"
 
 #: search.scopeDownloads.label search.scopeDownloads.accesskey
 msgid "&Downloads"
-msgstr ""
+msgstr "&Пријеми"
 
 #: search.scopeHistory.label
 msgid "History"
-msgstr ""
+msgstr "Историјат"
 
 #: search.scopeHistory.accesskey
 msgid "A"
-msgstr ""
+msgstr "И"
 
 #: search.scopeBarExpanderDown.tooltip
 msgid "Show search builder"
-msgstr ""
+msgstr "Прикажи градитеља претраге"
 
 #: search.scopeBarExpanderUp.tooltip
 msgid "Hide search builder"
-msgstr ""
+msgstr "Сакриј градитеља претраге"
 
 #: saveSearch.label saveSearch.accesskey
 msgid "&Save"
-msgstr ""
+msgstr "&Сачувај"
 
 #: moreCriteria.label advancedSearch.plus.label
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: advancedSearch.onlybookmarked.label
 msgid "Search Bookmarks only"
-msgstr ""
+msgstr "Претражи само забелешке"
 
 #: advancedSearch.match.label
 msgid "Match "
-msgstr ""
+msgstr "Пореди"
 
 #: advancedSearch.all.label
 msgid "all"
-msgstr ""
+msgstr "сва"
 
 #: advancedSearch.any.label
 msgid "any"
-msgstr ""
+msgstr "ма које"
 
 #: advancedSearch.rules.label
 msgid " of the following rules:"
-msgstr ""
+msgstr " од ових правила:"
 
 #: advancedSearch.subj_keyword.label
 msgid "Containing the text"
-msgstr ""
+msgstr "Садржи текст"
 
 #: advancedSearch.subj_visited.label
 msgid "Visited"
-msgstr ""
+msgstr "Посећено"
 
 #: advancedSearch.location_startswith.label
 msgid "starts with"
-msgstr ""
+msgstr "почиње са"
 
 #: advancedSearch.location_is.label
 msgid "is"
-msgstr ""
+msgstr "јесте"
 
 #: advancedSearch.location_onsite.label
 msgid "is on site"
-msgstr ""
+msgstr "јесте на сајту"
 
 #: advancedSearch.time_is.label
 msgid "on"
-msgstr ""
+msgstr "на"
 
 #: advancedSearch.time_before.label
 msgid "before"
-msgstr ""
+msgstr "пре"
 
 #: advancedSearch.time_after.label
 msgid "after"
-msgstr ""
+msgstr "после"
 
 #: advancedSearch.time_inlast.label
 msgid "in the last"
-msgstr ""
+msgstr "у последњих оволико:"
 
 #: advancedSearch.last_days.label
 msgid "days"
-msgstr ""
+msgstr "дан(а)"
 
 #: advancedSearch.last_weeks.label
 msgid "weeks"
-msgstr ""
+msgstr "недеља"
 
 #: advancedSearch.last_months.label
 msgid "months"
-msgstr ""
+msgstr "месеци"
 
 #: advancedSearch.minus.label
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: advancedSearch.groupby.label
 msgid "Group by: "
-msgstr ""
+msgstr "Групиши по:"
 
 #: advancedSearch.groupby_host.label
 msgid "host"
-msgstr ""
+msgstr "рачунару"
 
 #: advancedSearch.groupby_domain.label
 msgid "domain"
-msgstr ""
+msgstr "домену"
 
 #: advancedSearch.groupby_folder.label
 msgid "folder"
-msgstr ""
+msgstr "директоријуму"
 
 #: advancedSearch.sortby.label
 msgid "Sort by: "
-msgstr ""
+msgstr "Ређај према: "
 
 #: advancedSearch.sortby_title.label
 msgid "title"
-msgstr ""
+msgstr "наслову"
 
 #: advancedSearch.sortby_date.label
 msgid "date"
-msgstr ""
+msgstr "датуму"
 
 #: advancedSearch.sortby_visit.label
 msgid "visit count"
-msgstr ""
+msgstr "броју посета"
 
 #: advancedSearch.sortby_url.label
 msgid "url"
-msgstr ""
+msgstr "УРЛу"
 
 #: advancedSearch.sortby_asc.label
 msgid "ascending"
-msgstr ""
+msgstr "растуће"
 
 #: advancedSearch.sortby_desc.label
 msgid "descending"
-msgstr ""
+msgstr "опадајуће"
 
 #: advancedSearch.max.label
 msgid "Maximum results: "
-msgstr ""
+msgstr "Највише резултата: "
 
 #: cmd.find.key
 msgid "f"
-msgstr ""
+msgstr "т"
 
 #: feed.subscribe.label
 msgid "Feed"
-msgstr ""
+msgstr "Довод"
 
 #: feed.subscribe.tooltip
 msgid "Subscribe"
-msgstr ""
+msgstr "Прати"
 
 #: view.detailsMacOSX.label
 msgid "List"
-msgstr ""
+msgstr "Списак"
 
 #: view.details.label view.details.accesskey
 msgid "&Details"
-msgstr ""
+msgstr "&Детаљи"
 
 #: view.addons.label
 msgid "Get View Add-ons"
-msgstr ""
+msgstr "Добавка додатака за преглед"
 
 #: maintenance.label maintenance.accesskey
 msgid "&Import and Backup"
-msgstr ""
+msgstr "&Увоз и архивирање"
 
 #: backCmd.label backCmd.accesskey
 msgid "&Back"
-msgstr ""
+msgstr "&Назад"
 
 #: backButton.tooltip
 msgid "Go back"
-msgstr ""
+msgstr "Повратак назад"
 
 #: forwardCmd.label forwardCmd.accesskey
 msgid "&Forward"
-msgstr ""
+msgstr "&Напред"
 
 #: forwardButton.tooltip
 msgid "Go forward"
-msgstr ""
+msgstr "Кретање напред"
 
 #: detailsPane.more.label detailsPane.more.accesskey
 msgid "Mor&e"
-msgstr ""
+msgstr "Ви&ше"
 
 #: detailsPane.less.label detailsPane.less.accesskey
 msgid "L&ess"
-msgstr ""
+msgstr "Ма&ње"
 
 #: detailsPane.noPreviewAvailable.label
 msgid "Preview"
-msgstr ""
+msgstr "Преглед"
 
 #: detailsPane.selectAnItemText.description
 msgid "Select an item to view and edit its properties"
-msgstr ""
+msgstr "Изаберите ставку за преглед и уредите њена својства"

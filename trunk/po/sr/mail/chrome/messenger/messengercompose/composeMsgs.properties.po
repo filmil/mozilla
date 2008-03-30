@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 01:56+0100\n"
+"PO-Revision-Date: 2008-03-30 23:39+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -83,12 +83,12 @@ msgstr "Није могуће сачувати Вашу поруку као на
 # # @name NS_MSG_LOAD_ATTACHMNTS
 #: 12504
 msgid "Loading attachments…"
-msgstr ""
+msgstr "Учитавање прилога…"
 
 # # @name NS_MSG_LOAD_ATTACHMNT
 #: 12505
 msgid "Loading attachment…"
-msgstr ""
+msgstr "Учитавање прилога…"
 
 # # @name NS_MSG_COULDNT_OPEN_FCC_FOLDER
 # # @name NS_MSG_COULDNT_OPEN_FCC_FOLDER
@@ -109,12 +109,12 @@ msgstr "Није могуће слати на различите сервере 
 # # @name NS_MSG_ASSEMB_DONE_MSG
 #: 12508
 msgid "Assembling message…Done"
-msgstr ""
+msgstr "Састављање поруке… готово"
 
 # # @name NS_MSG_ASSEMBLING_MSG
 #: 12509
 msgid "Assembling message…"
-msgstr ""
+msgstr "Састављање поруке…"
 
 # # @name NS_MSG_NO_SENDER
 # # @name NS_MSG_NO_SENDER
@@ -178,7 +178,7 @@ msgid ""
 "failed. The server may be unavailable or is refusing connections. Please "
 "verify that your news server settings are correct and try again, or else "
 "contact your network administrator."
-msgstr ""
+msgstr "Порука није могла бити послата јер веза са сервером за вести није успела.  Сервер је можда недоступан или одбија везе.  Молимо да проверите да су подешавања сервера исправна и пробајте поново, или се обратите администратору мреже."
 
 # # @name NS_ERROR_QUEUED_DELIVERY_FAILED
 # # @name NS_ERROR_QUEUED_DELIVERY_FAILED
@@ -195,12 +195,12 @@ msgstr "Слање поруке није успело."
 # # @name SMTP_DELIV_MAIL
 #: 12521
 msgid "Delivering mail…"
-msgstr ""
+msgstr "Испорука поште…"
 
 # # @name SMTP_MESSAGE_SENT_WAITING_MAIL_REPLY
 #: 12522
 msgid "Mail: Message sent; waiting for reply…"
-msgstr ""
+msgstr "Пошта: порука је послата; чека се на одговор…"
 
 # # @name SMTP_PROGRESS_MAILSENT
 # # @name SMTP_PROGRESS_MAILSENT
@@ -288,17 +288,17 @@ msgstr ""
 # # @name NS_MSG_ASSEMBLING_MESSAGE
 #: 12534
 msgid "Assembling mail information…"
-msgstr ""
+msgstr "Састављање података о пошти…"
 
 # # @name NS_MSG_GATHERING_ATTACHMENT
 #: 12535
 msgid "Attaching %s…"
-msgstr ""
+msgstr "Прилагање: %s…"
 
 # # @name NS_MSG_CREATING_MESSAGE
 #: 12536
 msgid "Creating mail message…"
-msgstr ""
+msgstr "Прављење поруке…"
 
 # # @name NS_MSG_FAILURE_ON_OBJ_EMBED_WHILE_SENDING
 # # @name NS_MSG_FAILURE_ON_OBJ_EMBED_WHILE_SENDING
@@ -313,7 +313,7 @@ msgstr ""
 # # @name NS_MSG_START_COPY_MESSAGE
 #: 12538
 msgid "Copying message to %S folder…"
-msgstr ""
+msgstr "Умножавање поруке у директоријум: %S…"
 
 # # @name NS_MSG_START_COPY_MESSAGE_COMPLETE
 # # @name NS_MSG_START_COPY_MESSAGE_COMPLETE
@@ -359,17 +359,17 @@ msgstr "Унесите лозинку за %S на %S:"
 # # @name NS_SMTP_CONNECTING_TO_SERVER
 #: 12545
 msgid "Connecting to server…"
-msgstr ""
+msgstr "Повезивање са сервером…"
 
 # # @name NS_MSG_SENDING_MESSAGE
 #: 12550
 msgid "Sending message…"
-msgstr ""
+msgstr "Слање поруке…"
 
 # # @name NS_MSG_POSTING_MESSAGE
 #: 12551
 msgid "Posting message…"
-msgstr ""
+msgstr "Објављивање поруке…"
 
 # # @name NS_ERROR_MSG_MULTILINGUAL_SEND
 # # @name NS_ERROR_MSG_MULTILINGUAL_SEND
@@ -405,7 +405,7 @@ msgstr "Поруке можете слати само на један серве
 # # @name NS_MSG_CANCELLING
 #: 12555
 msgid "Cancelling…"
-msgstr ""
+msgstr "Отказивање…"
 
 # # @name NS_MSG_SEND_ERROR_TITLE
 # # @name NS_MSG_SEND_ERROR_TITLE
@@ -514,7 +514,7 @@ msgstr ""
 msgid ""
 "An error occurred while sending mail. The mail server responded:  %1$s. "
 "Please check the message recipient %2$s and try again."
-msgstr ""
+msgstr "Дошло је до грешке при слању поруке.  Сервер за пошту је одговорио:  %1$s.  Молимо да проверите примаоца поруке %2$s и пробајте опет."
 
 # # @name NS_ERROR_COULD_NOT_LOGIN_TO_SMTP_SERVER_INSECAUTH
 #: 12579
@@ -523,7 +523,7 @@ msgid ""
 "The server does not support any compatible insecure authentication mechanism "
 "but you have chosen insecure authentication. Try switching on secure "
 "authentication or contact your service provider."
-msgstr ""
+msgstr "Дошло је до грешке при слању поруке: није могуће пријавити се на сервер за СМТП: $S.  Сервер не подржава ниједан сагласан механизам за небезбедну аутентикацију али сте ви изабрали небезбедну аутентикацију.  Пробајте да укључите безбедну аутентикацију или да се обратите добављачу услуге."
 
 # # @name NS_ERROR_COULD_NOT_LOGIN_TO_SMTP_SERVER_SECAUTH
 #: 12580
@@ -532,7 +532,7 @@ msgid ""
 "The server does not support any compatible secure authentication mechanism "
 "but you have chosen secure authentication. Try switching off secure "
 "authentication or contact your service provider."
-msgstr ""
+msgstr "Дошло је до грешке при грешке при слању поште: није могуће пријавити се на сервер за СМТП: %S.  Сервер не подржава ниједан сагласан безбедан механизам за пријаву, али Ви сте изабрали безбедну аутентикацју. Пробајте да искључите безбедносну аутентикацију или се обратите добављачу услуге."
 
 # # @name NS_ERROR_COULD_NOT_LOGIN_TO_SMTP_SERVER_AUTH_NONE
 #: 12581
@@ -541,7 +541,7 @@ msgid ""
 "does not support authentication (SMTP-AUTH) but you have chosen to use "
 "authentication. Uncheck 'Use name and password' for that server or contact "
 "your service provider."
-msgstr ""
+msgstr "Дошло је до грешке при слању поште:  није могуће пријавити се на сервер за СМТП: $S.  Не подржава аутентикацију (SMTP-AUTH) а Ви сте изабрали употребу аутентикације. Одбележите „користи име и лозинку‟ за тај сервер или се обратите добављачу услуге."
 
 # # @name NS_ERROR_STARTTLS_FAILED_EHLO_STARTTLS
 #: 12582
@@ -549,7 +549,7 @@ msgid ""
 "An error occurred sending mail: Unable to establish a secure link with SMTP "
 "server %S using STARTTLS since it doesn't advertise that feature. Switch off "
 "STARTTLS for that server or contact your service provider."
-msgstr ""
+msgstr "Дошло је до грешке при слању поште:  није могуће успоставити безбедну везу са сервером за СМТП %S употребом STARTTLS пошто сервер не објављује ту могућност. Искључите STARTTLS за тај сервер или се обратите добављачу услуге."
 
 # # @name NS_ERROR_COULD_NOT_LOGIN_TO_SMTP_SERVER
 #: 12583
@@ -557,19 +557,19 @@ msgid ""
 "An error occurred sending mail: Unable to log in to SMTP server %S. The "
 "server may be incorrectly configured. Please verify that your SMTP server "
 "settings are correct and try again."
-msgstr ""
+msgstr "Дошло је до грешке при слању поште: није могуће пријавити се на сервер за СМТП %S. Сервер је можда неисправно подешен.  Молимо да проверите да ли је Ваш сервер за СМТП исправно подешен и пробајте поново."
 
 # # @name NS_ERROR_SMTP_PASSWORD_UNDEFINED
 #: 12584
 msgid ""
 "An error occurred sending mail: Could not get password for %S. The message "
 "was not sent."
-msgstr ""
+msgstr "Дошло је до грешке: лозинка није могла бити добављена за %S. Порука није послата."
 
 # # @name NS_SMTP_PASSWORD_PROMPT_TITLE
 #: 12585
 msgid "SMTP Server Password Required"
-msgstr ""
+msgstr "Неопходна је лозинка за сервер за СМТП"
 
 # # @name NS_ERROR_SMTP_TEMP_SIZE_EXCEEDED
 #: 12586
@@ -577,7 +577,7 @@ msgid ""
 "The size of the message you are trying to send exceeds a temporary size "
 "limit of the server. The message was not sent; try to reduce the message "
 "size or wait some time and try again. The server responded:  %s."
-msgstr ""
+msgstr "Величина поруке коју покушавате да пошаљете превазилази величину за привремене датотеке на серверу.  Порука није послата; пробајте да смањите величину поруке или сачекајте мало и пробајте поново.  Сервер је одговорио: %s."
 
 # # @name NS_ERROR_SMTP_PERM_SIZE_EXCEEDED_1
 #: 12587
@@ -585,7 +585,7 @@ msgid ""
 "The size of the message you are trying to send exceeds the global size limit "
 "(%d bytes) of the server. The message was not sent; reduce the message size "
 "and try again."
-msgstr ""
+msgstr "Величина поруке коју сте пробали да пошаљете превазилази глобално ограничење (бајтова: %d) на серверу.  Порука није послата; смањите величину поруке и пробајте поново."
 
 # # @name NS_ERROR_SMTP_PERM_SIZE_EXCEEDED_2
 #: 12588
@@ -593,7 +593,7 @@ msgid ""
 "The size of the message you are trying to send exceeds the global size limit "
 "of the server. The message was not sent; reduce the message size and try "
 "again. The server responded:  %s."
-msgstr ""
+msgstr "Величина поруке коју сте пробали да пошаљете превазилази глобално ограничење величине поруке на серверу.  Порука ниеј послата; смањите величину поруке и пробајте поново. Сервер је одговорио: %s."
 
 # # @name NS_ERROR_SMTP_SEND_FAILED_UNKNOWN_SERVER
 #: 12589
@@ -601,7 +601,7 @@ msgid ""
 "An error occurred sending mail: SMTP server %S is unknown. The server may be "
 "incorrectly configured. Please verify that your SMTP server settings are "
 "correct and try again."
-msgstr ""
+msgstr "Дошло је до грешке при слању поште: сервер СМТП %S је непознат.  Сервер је можда неисправно подешен.  Молимо да проверите да су подешавања СМТПа исправна и пробајте поново."
 
 # # @name NS_ERROR_SMTP_SEND_FAILED_REFUSED
 #: 12590
@@ -610,7 +610,7 @@ msgid ""
 "The server may be unavailable or is refusing SMTP connections. Please verify "
 "that your SMTP server settings are correct and try again, or contact the "
 "server administrator."
-msgstr ""
+msgstr "Порука није могла бити послата јер је веза са сервером за СМТП %S није успела.  Сервер је можда недоступан или одбија везе кроз СМТП.  Молимо да проверите да су подешавања за СМТП исправна и пробајте поново, или се обратите администратору сервера."
 
 # # @name NS_ERROR_SMTP_SEND_FAILED_INTERRUPTED
 #: 12591
@@ -618,14 +618,14 @@ msgid ""
 "The message could not be sent because the connection to SMTP server %S was "
 "lost in the middle of the transaction. Try again or contact your network "
 "administrator."
-msgstr ""
+msgstr "Порука није могла да буде послата јер је веза са СМТП сервером %S изгубљена усред трансакције. Пробајте поново или се обратите администратору мреже."
 
 # # @name NS_ERROR_SMTP_SEND_FAILED_TIMEOUT
 #: 12592
 msgid ""
 "The message could not be sent because the connection to SMTP server %S timed "
 "out. Try again or contact your network administrator."
-msgstr ""
+msgstr "Порука није могла бити послата јер је веза са сервером за СМТП %S истекла.  Пробајте поново или се обратите администратору мреже."
 
 # # @name NS_ERROR_SMTP_SEND_FAILED_UNKNOWN_REASON
 #: 12593
@@ -633,7 +633,7 @@ msgid ""
 "The message could not be sent using SMTP server %S for an unknown reason. "
 "Please verify that your SMTP server settings are correct and try again, or "
 "contact your network administrator."
-msgstr ""
+msgstr "Порука није могла бити послата преко сервера за СМТП %S из непознатог разлога. Молимо да проверите да су подешавања за СМТП исправна и пробајте поново, или се обратите администратору мреже."
 
 # # Strings use for the save message dialog shown when the user close a message compose window
 # # Strings used by Save as Draft/Template dialog
@@ -776,14 +776,16 @@ msgid ""
 "Would you like to wait until the message has been sent before quitting or "
 "quit now?"
 msgstr ""
+"%1$S тренутно шаље поруку.\n"
+"Да ли желите да сачекате док је порука послата пре него што обуставите рад, или желите да обуставите рад одмах?"
 
 #: quitComposeWindowQuitButtonLabel2
 msgid "&Quit"
-msgstr ""
+msgstr "&Крај"
 
 #: quitComposeWindowWaitButtonLabel2
 msgid "&Wait"
-msgstr ""
+msgstr "&Сачекај"
 
 #: sendMessageCheckLabel
 msgid "Are you sure you are ready to send this message?"
@@ -799,11 +801,11 @@ msgstr "Шаљи"
 # # <author> wrote:
 #: mailnews.reply_header_authorwrote
 msgid "%s wrote"
-msgstr "%s написа"
+msgstr "%s пише"
 
 #: mailnews.reply_header_ondate
 msgid "On %s"
-msgstr "На дан %s"
+msgstr "Време: %s"
 
 # # reply header in composeMsg
 # # user specified 

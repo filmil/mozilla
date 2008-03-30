@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 03:40+0100\n"
+"PO-Revision-Date: 2008-03-30 20:45+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,25 +16,25 @@ msgstr ""
 
 #: deleteHost
 msgid "Delete all from %S"
-msgstr ""
+msgstr "Уклони све из %S"
 
 #: deleteDomain
 msgid "Delete entire domain %S"
-msgstr ""
+msgstr "Уклони цео домен %S"
 
 #: deleteHostNoSelection
 msgid "Delete host"
-msgstr ""
+msgstr "Уклони рачунар"
 
 #: deleteDomainNoSelection
 msgid "Delete domain"
-msgstr ""
+msgstr "Уклони домен"
 
 #: load-js-data-url-error
 msgid ""
 "For security reasons, javascript or data urls cannot be loaded from the "
 "history window or sidebar."
-msgstr ""
+msgstr "Из безбедносних разлога, јаваскрипт и УРЛови са подацима не могу да се учитавају из прозора са историјатом или бочне траке."
 
 #: noTitle
 msgid "(no title)"
@@ -59,262 +59,262 @@ msgstr "(празно)"
 # en-US value if you have to use non-ascii characters.
 #: bookmarksBackupFilename
 msgid "Bookmarks %S.html"
-msgstr ""
+msgstr "Забелешке %S.html"
 
 #: bookmarksBackupFilenameJSON
 msgid "Bookmarks %S.json"
-msgstr ""
+msgstr "Забелешке %S.json"
 
 #: bookmarksBackupTitle
 msgid "Bookmarks backup filename"
-msgstr ""
+msgstr "Име архиве забелешки"
 
 #: bookmarksRestoreAlertTitle
 msgid "Revert Bookmarks"
-msgstr ""
+msgstr "Врати забелешке"
 
 #: bookmarksRestoreAlert
 msgid ""
 "This will replace all of your current bookmarks with the backup. Are you "
 "sure?"
-msgstr ""
+msgstr "Ово ће да замени све забелешке које се тренутно користе са онима које стоје у архиви.  Да ли сте сигурни?"
 
 #: bookmarksRestoreAlertTags
 msgid ""
 "This will replace all of your current bookmarks and tags with the backup. "
 "Are you sure?"
-msgstr ""
+msgstr "Ово ће да замени све забелешке и ознаке које се тренутно користе са онима које стоје у архиви.  Да ли сте сигурни?"
 
 #: bookmarksRestoreTitle
 msgid "Select a bookmarks backup"
-msgstr ""
+msgstr "Избор архиве забелешки"
 
 #: headerTextPrefix1
 msgid "Showing"
-msgstr ""
+msgstr "Приказано:"
 
 #: headerTextPrefix2
 msgid "Search Results for"
-msgstr ""
+msgstr "Резултати претраге за"
 
 #: headerTextPrefix3
 msgid "Advanced Search"
-msgstr ""
+msgstr "Напредна претрага"
 
 #: lessCriteria.label
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: moreCriteria.label
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: menuOpenLivemarkOrigin.label
 msgid "Open \"%S\""
-msgstr ""
+msgstr "Отвори „%S‟"
 
 #: defaultGroupOnLabel
 msgid "Group by Site"
-msgstr ""
+msgstr "Групиши према сајту"
 
 #: defaultGroupOnAccesskey
 msgid "S"
-msgstr ""
+msgstr "с"
 
 #: defaultGroupOffLabel livemarkGroupOffLabel
 msgid "No Grouping"
-msgstr ""
+msgstr "Без груписања"
 
 #: defaultGroupOffAccesskey livemarkGroupOffAccesskey
 #: view.sortBy.name.accesskey
 msgid "N"
-msgstr ""
+msgstr "Б"
 
 #: livemarkGroupOnLabel
 msgid "Group By Feed"
-msgstr ""
+msgstr "Групиши по доводу"
 
 #: livemarkGroupOnAccesskey
 msgid "F"
-msgstr ""
+msgstr "Д"
 
 #: livemarkReload
 msgid "Reload"
-msgstr ""
+msgstr "Освежи"
 
 #: livemarkReloadAll
 msgid "Reload All Live Bookmarks"
-msgstr ""
+msgstr "Освежи све живе забелешке"
 
 #: livemarkReloadOne
 msgid "Reload %S"
-msgstr ""
+msgstr "Освежи %S"
 
 #: sortByName
 msgid "Sort '%S' by Name"
-msgstr ""
+msgstr "Поређај по имену: „%S‟"
 
 #: sortByNameGeneric view.sortBy.name.label
 msgid "Sort by Name"
-msgstr ""
+msgstr "Поређај по имену"
 
 #: view.sortBy.url.label
 msgid "Sort by Location"
-msgstr ""
+msgstr "Поређај по месту"
 
 #: view.sortBy.url.accesskey
 msgid "L"
-msgstr ""
+msgstr "м"
 
 #: view.sortBy.date.label
 msgid "Sort by Visit Date"
-msgstr ""
+msgstr "Поређај по датуму посете"
 
 #: view.sortBy.date.accesskey
 msgid "V"
-msgstr ""
+msgstr "д"
 
 #: view.sortBy.visitCount.label
 msgid "Sort by Visit Count"
-msgstr ""
+msgstr "Поређај по броју посета"
 
 #: view.sortBy.visitCount.accesskey
 msgid "C"
-msgstr ""
+msgstr "б"
 
 #: view.sortBy.keyword.label
 msgid "Sort by Keyword"
-msgstr ""
+msgstr "Поређај по кључној речи"
 
 #: view.sortBy.keyword.accesskey
 msgid "K"
-msgstr ""
+msgstr "к"
 
 #: view.sortBy.description.label
 msgid "Sort by Description"
-msgstr ""
+msgstr "Поређај по опису"
 
 #: view.sortBy.description.accesskey
 msgid "D"
-msgstr ""
+msgstr "о"
 
 #: view.sortBy.dateAdded.label
 msgid "Sort by Added"
-msgstr ""
+msgstr "Поређај по датуму додавања"
 
 #: view.sortBy.dateAdded.accesskey
 msgid "e"
-msgstr ""
+msgstr "т"
 
 #: view.sortBy.lastModified.label
 msgid "Sort by Last Modified"
-msgstr ""
+msgstr "Поређај по последњој измени"
 
 #: view.sortBy.lastModified.accesskey
 msgid "M"
-msgstr ""
+msgstr "њ"
 
 #: view.sortBy.tags.label
 msgid "Sort by Tags"
-msgstr ""
+msgstr "Поређај по ознакама"
 
 #: view.sortBy.tags.accesskey
 msgid "T"
-msgstr ""
+msgstr "з"
 
 #: searchBookmarks
 msgid "Search Bookmarks"
-msgstr ""
+msgstr "Претражи забелешке"
 
 #: searchCurrentDefault
 msgid "Search in '%S'"
-msgstr ""
+msgstr "Претражи %S"
 
 #: findInPrefix
 msgid "Find in '%S'…"
-msgstr ""
+msgstr "Нађи у: „%S‟…"
 
 #: tabs.openWarningTitle
 msgid "Confirm open"
-msgstr ""
+msgstr "Потврда за отварање"
 
 #: tabs.openWarningMultipleBranded
 msgid ""
 "You are about to open %S tabs.  This might slow down %S while the pages are "
 "loading.  Are you sure you want to continue?"
-msgstr ""
+msgstr "Само што нисте отворили оволико језичака: %S tabs.  Ово може да успори програм %S док се стране учитавају.  Да ли сигурно желите да наставите?"
 
 #: tabs.openButtonMultiple
 msgid "Open tabs"
-msgstr ""
+msgstr "Отвори језичке"
 
 #: tabs.openWarningPromptMeBranded
 msgid "Warn me when opening multiple tabs might slow down %S"
-msgstr ""
+msgstr "Упозори ме када би отварање више језичака могло да успори %S"
 
 #: status_foldercount
 msgid "%S object(s)"
-msgstr ""
+msgstr "Објеката: %S"
 
 #: SelectImport
 msgid "Import Bookmarks File"
-msgstr ""
+msgstr "Увоз забелешки"
 
 #: EnterExport
 msgid "Export Bookmarks File"
-msgstr ""
+msgstr "Извоз забелешки"
 
 #: saveSearch.title
 msgid "Save Search"
-msgstr ""
+msgstr "Сачувај претрагу"
 
 #: saveSearch.inputLabel
 msgid "Name:"
-msgstr ""
+msgstr "Име:"
 
 #: saveSearch.defaultText
 msgid "New Query"
-msgstr ""
+msgstr "Нови упит"
 
 #: detailsPane.noItems
 msgid "No items"
-msgstr ""
+msgstr "Нема ставки"
 
 #: detailsPane.oneItem
 msgid "One item"
-msgstr ""
+msgstr "Једна ставка"
 
 #: detailsPane.multipleItems
 msgid "%S items"
-msgstr ""
+msgstr "Ставки: %S"
 
 #: smartBookmarksFolderTitle
 msgid "Smart Bookmarks"
-msgstr ""
+msgstr "Паметне забелешке"
 
 #: mostVisitedTitle
 msgid "Most Visited"
-msgstr ""
+msgstr "Најпосећеније"
 
 #: recentlyBookmarkedTitle
 msgid "Recently Bookmarked"
-msgstr ""
+msgstr "Недавно запамћене"
 
 #: recentTagsTitle
 msgid "Recent Tags"
-msgstr ""
+msgstr "Недавне ознаке"
 
 #: OrganizerQueryHistory
 msgid "History"
-msgstr ""
+msgstr "Историјат"
 
 #: OrganizerQueryDownloads
 msgid "Downloads"
-msgstr ""
+msgstr "Пријеми"
 
 #: OrganizerQueryAllBookmarks
 msgid "All Bookmarks"
-msgstr ""
+msgstr "Све забелешке"
 
 # LOCALIZATION NOTE (tagResultLabel) :
 # This is what we use to form the label (for screen readers)
@@ -322,7 +322,7 @@ msgstr ""
 # See createResultLabel() in urlbarBindings.xml 
 #: tagResultLabel
 msgid "Tag"
-msgstr ""
+msgstr "Ознака"
 
 # LOCALIZATION NOTE (bookmarkResultLabel) :
 # This is what we use to form the label (for screen readers)
@@ -330,4 +330,4 @@ msgstr ""
 # See createResultLabel() in urlbarBindings.xml 
 #: bookmarkResultLabel
 msgid "Bookmark"
-msgstr ""
+msgstr "Забелешка"
