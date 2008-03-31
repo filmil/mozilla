@@ -1,5 +1,9 @@
 2008-03-31  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/extensions/cck/browser/chrome/cckWizard.dtd.po: Corrected name.label.
+
+	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po: Startedm translation, to see if buildbot triggers.
+
 	* po/sr/extensions/venkman/chrome/venkman.properties.po: Started
 	translation.
 

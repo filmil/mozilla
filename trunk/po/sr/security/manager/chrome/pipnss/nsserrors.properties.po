@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-03-31 02:31+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 #: SSL_ERROR_EXPORT_ONLY_SERVER
 msgid ""
 "Unable to communicate securely.  Peer does not support high-grade encryption."
-msgstr ""
+msgstr "Није могућа безбедна комуникација.  Удаљени рачунар не подржава шифровање високе категорије."
 
 #: SSL_ERROR_US_ONLY_SERVER
 msgid ""
