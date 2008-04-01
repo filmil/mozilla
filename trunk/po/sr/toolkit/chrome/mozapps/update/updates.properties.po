@@ -297,7 +297,7 @@ msgstr "Неуспешно (непознат разлог)"
 
 #: checker_error-2152398868
 msgid "AUS: No data was received (Please try again)"
-msgstr "AUS: Податци нису примљени (Молим покушајте поново)"
+msgstr "AUS: Подаци нису примљени (Молим покушајте поново)"
 
 #: checker_error-2152398919
 msgid "AUS: Data transfer was interrupted (Please try again)"

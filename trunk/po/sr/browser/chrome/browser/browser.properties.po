@@ -26,7 +26,6 @@ msgstr ""
 # Check for Updates
 # RSS Pretty Print
 # tab context menu additions
-
 #: nv_done
 msgid "Done"
 msgstr "Крај"
@@ -212,7 +211,7 @@ msgstr "U"
 #. # missing plugin installer
 #: missingpluginsMessage.title
 msgid "Additional plugins are required to display all the media on this page."
-msgstr "Потребни су додатци како би био видљив целокупан садржај стране."
+msgstr "Потребни су додаци како би био видљив целокупан садржај стране."
 
 #: missingpluginsMessage.button.label
 msgid "Install Missing Plugins…"

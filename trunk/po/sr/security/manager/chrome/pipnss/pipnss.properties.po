@@ -319,7 +319,7 @@ msgstr "Не после"
 
 #: CertDumpSPKI
 msgid "Subject Public Key Info"
-msgstr "Податци о наслову јавног кључа"
+msgstr "Подаци о наслову јавног кључа"
 
 #: CertDumpSPKIAlg
 msgid "Subject Public Key Algorithm"

@@ -57,27 +57,27 @@ msgstr "Безбедносно упозорење"
 
 #: MixedContentMessage
 msgid "You have requested an encrypted page that contains some unencrypted information. Information that you see or enter on this page could easily be read by a third party."
-msgstr "Посетили сте шифровану страну која садржи податке који нису шифровани. Податци које видите или унесете на овој страни могу бити доступни трећој страни."
+msgstr "Посетили сте шифровану страну која садржи податке који нису шифровани. Подаци које видите или унесете на овој страни могу бити доступни трећој страни."
 
 #: LeaveSecureMessage
 msgid "You are about to leave an encrypted page. Information you send or receive from now on could easily be read by a third party."
-msgstr "Спремате се да напустите шифровану страну. ПОдатци које шаљете или примате од сада могу бити доступни трећој страни."
+msgstr "Спремате се да напустите шифровану страну. Подаци које шаљете или примате од сада могу бити доступни трећој страни."
 
 #: EnterSecureMessage
 msgid "You have requested an encrypted page. The web site has identified itself correctly, and information you see or enter on this page can't easily be read by a third party."
-msgstr "Посетили сте шифровану страну. Веб место је исправно препознато и податци које видите или унесете на овој страни не могу лако бити доступни трећој страни."
+msgstr "Посетили сте шифровану страну. Веб место је исправно препознато и подаци које видите или унесете на овој страни не могу лако бити доступни трећој страни."
 
 #: WeakSecureMessage
 msgid "You have requested a page that uses low-grade encryption. The web site has identified itself correctly, but information you see or enter on this page could be read by a third party."
-msgstr "Посетили сте страну са слабим шифровањем. Веб место је исправно препознато, али податци које видите или унесете на овој страни не могу бити доступни трећој страни."
+msgstr "Посетили сте страну са слабим шифровањем. Веб место је исправно препознато, али подаци које видите или унесете на овој страни не могу бити доступни трећој страни."
 
 #: PostToInsecureFromSecureMessage
 msgid "Although this page is encrypted, the information you have entered is to be sent over an unencrypted connection and could easily be read by a third party.##Are you sure you want to continue sending this information?##"
-msgstr "Иако је страна шифрована, податци које унесете преносе се кроз нешифровану везу и могу бити доступни трећим лицима.##Да ли желите да наставите слање ових података?##"
+msgstr "Иако је страна шифрована, подаци које унесете преносе се кроз нешифровану везу и могу бити доступни трећим лицима.##Да ли желите да наставите слање ових података?##"
 
 #: PostToInsecureFromInsecureMessage
 msgid "The information you have entered is to be sent over an unencrypted connection and could easily be read by a third party.##Are you sure you want to continue sending this information?##"
-msgstr "Податци које унесете преносе се кроз нешифровану везу и могу бити доступни трећим лицима.##Да ли желите да наставите слање ових података?##"
+msgstr "Подаци које унесете преносе се кроз нешифровану везу и могу бити доступни трећим лицима.##Да ли желите да наставите слање ових података?##"
 
 #: MixedContentShowAgain
 msgid "Alert me whenever I'm about to view an encrypted page that contains some unencrypted information."
