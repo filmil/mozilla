@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-01 23:49+0200\n"
+"PO-Revision-Date: 2008-04-02 00:25+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2004,28 +2004,28 @@ msgstr "Приказује објекат изворног текста зада
 msgid ""
 "Functions the same as |find-sourcetext|, except the view is not scrolled if "
 "<target-line> is already visible."
-msgstr ""
+msgstr "Ради исто као и |find-sourcetext|, осим што се поглед не помера ако је ред <target-line> већ видљив."
 
 #: cmd.find-string.label
 msgid "Fin&d in This File…"
-msgstr ""
+msgstr "Нађи у &овој датотеци…"
 
 #: cmd.find-string.key
 msgid "accel F"
-msgstr ""
+msgstr "accel F"
 
 #: cmd.find-string.help
 msgid "Brings up a ``Find Dialog'' for the currently selected tab."
-msgstr ""
+msgstr "Приказује прозор за претрагу за тренутно изабрани језичак."
 
 #: cmd.find-scriptinstance.label
 msgid "&Find File"
-msgstr ""
+msgstr "&Нађи датотеку"
 
 #: cmd.find-scriptinstance.params
 msgid ""
 "<script-instance> [<range-start> [<range-end> [<details> [<target-line>]]]]"
-msgstr ""
+msgstr "<script-instance> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 
 #: cmd.find-scriptinstance.help
 msgid ""
@@ -2035,15 +2035,15 @@ msgid ""
 "details about where the <script-instance> object was derived from.  If "
 "<target-line> is provided, the view will be scrolled to that line, otherwise "
 "the view will be scrolled to <range-start>."
-msgstr ""
+msgstr "Приказује изворни текст у вези са примерком скрипта <script-instance>.  Сав текст између почетка опсега <range-start> и краја опсега <range-end> биће наглашен.  Ако су дати детаљи <details>, то ће бити објекат који представља детаље о томе одакле је изведе примерак <script-instance>.  Ако је одредишни ред <target-line> дат, поглед ће бити померен до тог реда, у супротном поглед ће бити померен до реда <range-start>."
 
 #: cmd.find-url.label
 msgid "&Find URL"
-msgstr ""
+msgstr "Нађи &УРЛ"
 
 #: cmd.find-url.params cmd.find-url-soft.params
 msgid "<url> [<range-start> [<range-end> [<details> [<target-line>]]]]"
-msgstr ""
+msgstr "<url> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 
 #: cmd.find-url.help
 msgid ""
@@ -2052,49 +2052,50 @@ msgid ""
 "provided, it will be an object representing details about where the <url> "
 "object was derived from.  If <target-line> is provided, the view will be "
 "scrolled to that line, otherwise the view will be scrolled to <range-start>."
-msgstr ""
+msgstr "Приказује садржај УРЛа <url> у погледу са изворним кодом.  Сав текст између редова <range-start> и <range-end> биће истакнут.  Ако су дати детаљи <details>, то ће бити објекат који представља детаље о томе одакле је изведен објекат <url>.  Ако је дат ред <target-line>, тај поглед ће бити померен до задатог реда, у супротном поглед ће бити померен до реда <range-start>."
 
 #: cmd.find-url-soft.label
 msgid "&Soft Focus URL"
-msgstr ""
+msgstr "УРЛ за &меки фокус"
 
 #: cmd.find-url-soft.help
 msgid ""
 "Functions the same as |find-url|, except the view is not scrolled if <target-"
 "line> is already visible."
-msgstr ""
+msgstr "Ради исто као |find-url|, осим што се поглед не помера ако је ред <target-line> већ видљив."
 
 #: cmd.finish.label
 msgid "S&tep Out"
-msgstr ""
+msgstr "Искорачи &изван"
 
 #: cmd.finish.key
 msgid "shift VK_F11"
-msgstr ""
+msgstr "shift VK_F11"
 
 #: cmd.finish.tip
 msgid "Step out of the current function"
-msgstr ""
+msgstr "Искорачи ван тренутне фунцкије"
 
 #: cmd.finish.help
 msgid "Execute until the current stack frame returns."
-msgstr ""
+msgstr "Изврши док се не оконча тренутни оквир стека."
 
 #: cmd.focus-input.key
 msgid "VK_ESCAPE"
-msgstr ""
+msgstr "VK_ESCAPE"
 
+# FIXME widget  овде преведено као одељак.  Није превод за виџет али одељак јесте.
 #: cmd.focus-input.help
 msgid "Places focus in the console's text input widget."
-msgstr ""
+msgstr "Поставља у фокус конзолин одељак за унос текста."
 
 #: cmd.frame.label
 msgid "Set &Current Frame"
-msgstr ""
+msgstr "Постави тренутни &оквир"
 
 #: cmd.frame.params
 msgid "[<frame-index>]"
-msgstr ""
+msgstr "[<frame-index>]"
 
 #: cmd.frame.help
 msgid ""
@@ -2102,17 +2103,17 @@ msgid ""
 "summary of the frame.  If <frame-index> is not provided, a summary of the "
 "current frame will be displayed.  Use the where command to list available "
 "frames and frame numbers."
-msgstr ""
+msgstr "Поставља тренутни оквир на оквир са бројем <frame-index>, и приказује сажетак оквира.  Ако се <frame-index> не зада, приказује се сажетак тренутног оквира.  Користите команду |where| да бисте видели списак доступних оквира и бројева оквира."
 
 #: cmd.gc.help
 msgid ""
 "Force the JavaScript garbage collector to run.  This may force unloaded "
 "scripts to be removed from the Loaded Scripts view."
-msgstr ""
+msgstr "Приморава покретање јаваскриптовог скупљача ђубрета.  Ово може да буде узрок уклањања скриптова из погледа са учитаним скриптовима."
 
 #: cmd.help.label
 msgid "&Command Reference"
-msgstr ""
+msgstr "&Помоћ о командама"
 
 #: cmd.help.help
 msgid ""
@@ -2120,89 +2121,89 @@ msgid ""
 "few characters of the command name.  If <pattern> matches more than one "
 "command, help on all matching commands will be displayed.  If <pattern> is "
 "not provided, a command reference will be loaded in a browser window."
-msgstr ""
+msgstr "Приказује помоћ за образац <pattern>, који може да буде пуно име команде, или првих неколико знакова имена команде.  Ако се са обрасцем <pattern> поклапа више команди, исписује се помоћ за све поклопљене команде.  Ако се образац <pattern> не зада, биће учитана помоћ о командама у читачевом прозору."
 
 #: cmd.inspect.label
 msgid "&Inspect in DOM Inspector"
-msgstr ""
+msgstr "&Присмотра помоћу инспектора ДОМа"
 
 #: cmd.inspect.params
 msgid "[<expression>]"
-msgstr ""
+msgstr "[<expression>]"
 
 #: cmd.inspect.help
 msgid "Inspects the result of <expression> in DOM Inspector."
-msgstr ""
+msgstr "Присмотра резултата израза <expression> у инспектору ДОМа."
 
 #: cmd.loadd.label
 msgid "Load Script in Debugger Scope"
-msgstr ""
+msgstr "Учитај скрипт у дебагеров досег"
 
 #: cmd.loadd.help
 msgid ""
 "Executes the contents of the url specified by <url> in the context of the "
 "debugger.  Useful for loading debugger plugins.  See also: The |"
 "initialScripts| pref."
-msgstr ""
+msgstr "Извршава садржај УРЛа одређеног помоћу <url> у дебагеровом контексту.  Корисно је за учитавање прикључака за дебагер.  Видите и: |initialScripts|."
 
 #: cmd.move-view.params
 msgid "<view-id> <location-url>"
-msgstr ""
+msgstr "<view-id> <location-url>"
 
 #: cmd.move-view.help
 msgid ""
 "Moves the view associated with <view-id> to the location specified by "
 "<location-url>."
-msgstr ""
+msgstr "Помера поглед придружен са <view-id> месту одређеном помоћу УРЛа <location-url>."
 
 #: cmd.mozilla-help.label
 msgid "&Help Contents"
-msgstr ""
+msgstr "Садржај &помоћи"
 
 #: cmd.mozilla-help.help
 msgid "Display the table of contents for the Mozilla help system."
-msgstr ""
+msgstr "Приказује садржај Мозилиног система за помоћ"
 
 #: cmd.next.label
 msgid "Step &Over"
-msgstr ""
+msgstr "&Опкорачи"
 
 #: cmd.next.key
 msgid "VK_F12"
-msgstr ""
+msgstr "VK_F12"
 
 #: cmd.next.tip
 msgid "Step over function call"
-msgstr ""
+msgstr "Опкорачи позив функције"
 
 #: cmd.next.help
 msgid ""
 "Executes the next line of script.  If a function call is encountered it is "
 "traced as a single instruction."
-msgstr ""
+msgstr "Извршава наредни ред скрипта.   Ако је у питању позив функције, обрађује се као да је у питању јединствена инструкција."
 
 #: cmd.open-dialog.params
 msgid "<url> [<window-name> [<window-flags>]]"
-msgstr ""
+msgstr "<url> [<window-name> [<window-flags>]]"
 
 #: cmd.open-dialog.help
 msgid ""
 "Opens a dialog window and loads the source from <url>.  This is typically "
 "used to open a new XUL window, though it can be used to load a web page "
 "without chrome."
-msgstr ""
+msgstr "Отвара прозор и учитава изворни код са УРЛа <url>.  Ово се типично користи за отварање новог прозора за ИксУЛ (XUL), иако може да се користи и за учитавање веб страна без хрома (chrome)."
 
 #: cmd.open-url.help
 msgid "Prompts the user for a url to load in the source view."
-msgstr ""
+msgstr "Пита корисника за унос УРЛа који ће се учитати у поглед са изворним кодом."
 
 #: cmd.open-url.label
 msgid "Open Web &Location…"
-msgstr ""
+msgstr "Отвори место на &вебу…"
 
 #: cmd.open-url.key
 msgid "accel shift L"
-msgstr ""
+msgstr "accel shift L"
 
 #: cmd.pprint.help
 msgid ""

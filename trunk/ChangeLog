@@ -1,8 +1,19 @@
+2008-04-02  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:
+	176 to go.
+	
+
+	* po/sr/extensions/venkman/chrome/venkman.properties.po: 289 until
+	the end.
+
 2008-03-31  Filip Miletic  <filmil@gmail.com>
 
-	* po/sr/extensions/cck/browser/chrome/cckWizard.dtd.po: Corrected name.label.
+	* po/sr/extensions/cck/browser/chrome/cckWizard.dtd.po: Corrected
+	name.label.
 
-	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po: Startedm translation, to see if buildbot triggers.
+	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:
+	Startedm translation, to see if buildbot triggers.
 
 	* po/sr/extensions/venkman/chrome/venkman.properties.po: Started
 	translation.
@@ -10,7 +21,8 @@
 	* po/sr/extensions/venkman/chrome/venkman.dtd.po: Started venkman.
 	And completed.
 
-	* po/sr/extensions/cck/browser/chrome/cckwizard.properties.po: Translated.
+	* po/sr/extensions/cck/browser/chrome/cckwizard.properties.po:
+	Translated.
 
 2008-03-30  Filip Miletic  <filmil@gmail.com>
 
@@ -163,13 +175,16 @@
 
 2007-04-15  Filip Miletic  <filmil@gmail.com>
 
-	* po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po:  Још превода.
+	*
+	po/sr-RS/mail/chrome/messenger/preferences/preferences.properties.po:
+	Још превода.
 
 	* Makefile (publish): Додат циљ за објаву превода у ЦВС
 
 2007-04-12  Filip Miletic  <filmil@gmail.com>
 
-	* po/sr-RS/mail/chrome/messenger/search-attributes.properties.po: Још превода. 
+	* po/sr-RS/mail/chrome/messenger/search-attributes.properties.po:
+	Још превода.
 
 2007-01-26  Filip Miletic  <filmil@gmail.com>
 
@@ -203,4 +218,8 @@
 2006-11-14  Filip Miletic  <filmil@gmail.com>
 
 	* Први упис.
+
+Local Variables:
+mode: auto-fill
+End:
 
