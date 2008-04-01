@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-31 01:45+0200\n"
+"PO-Revision-Date: 2008-04-01 23:49+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -386,7 +386,7 @@ msgstr "x-jsd:native-code"
 # # types ##
 #: msg.type.int
 msgid "integer"
-msgstr ""
+msgstr "integer"
 
 #: msg.type.boolean
 msgid "boolean"
@@ -568,315 +568,318 @@ msgstr "Ниједна команда не одговара „%1$S‟."
 
 #: msn.cmdmatch
 msgid "Commands matching ``%1$S'' are [%2$S]."
-msgstr ""
+msgstr "Команде које одговарају „%1$S‟ су [%2$S]."
 
 #: msn.cmdmatch.all
 msgid "Implemented commands are %1$S."
-msgstr ""
+msgstr "Имплементиране команде: %1$S."
 
 #: msn.props.header
 msgid "Properties of %1$S in debug target scope:"
-msgstr ""
+msgstr "Својства за: %1$S у циљном опсегу:"
 
 #: msn.propsd.header
 msgid "Properties of %1$S in debugger scope:"
-msgstr ""
+msgstr "Својства за: %1$S у опсегу дебагера:"
 
 #: msn.bp.header
 msgid "%1$S breakpoints set:"
-msgstr ""
+msgstr "Постављене преломне тачке (укупно: %1$S):"
 
 # 1 index, 2 file name, 3 line
 #: msn.bp.line msn.fbp.line
 msgid "#%1$S <%2$S> line %3$S"
-msgstr ""
+msgstr "#%1$S <%2$S> ред %3$S"
 
 #: msn.bp.created
 msgid "Breakpoint at <%1$S> line %2$S created"
-msgstr ""
+msgstr "Направљена је преломна тачка: <%1$S> ред %2$S"
 
 #: msn.bp.cleared
 msgid "Breakpoint at <%1$S> line %2$S deleted"
-msgstr ""
+msgstr "Преломна тачка је уклоњена: <%1$S> ред %2$S"
 
 #: msn.bp.exists
 msgid "Breakpoint at <%1$S> line %2$S already set."
-msgstr ""
+msgstr "Преломна тачка је већ постављена: <%1$S> ред %2$S"
 
 #: msn.watch.header
 msgid "%1$S watches set:"
-msgstr ""
+msgstr "Постављене присмотре (укупно: %1$S):"
 
 #: msn.enter.expression
 msgid "Enter expression for new value of “%1$S”:"
-msgstr ""
+msgstr "Унесите израз за нову вредност за „%1$S‟:"
 
 #: msn.fbp.created
 msgid "Future breakpoint at <%1$S> line %2$S created."
-msgstr ""
+msgstr "Будућа преломна тачка је направљена.  <%1$S> ред %2$S"
 
 #: msn.fbp.cleared
 msgid "Future breakpoint at <%1$S> line %2$S cleared."
-msgstr ""
+msgstr "Будућа преломна тачка је уклоњена. <%1$S> ред %2$S"
 
 #: msn.fbp.exists
 msgid "Future breakpoint at <%1$S> line %2$S already set."
-msgstr ""
+msgstr "Будућа преломна тачка је већ постављена. <%1$S> ред %2$S."
 
 #: msg.emode.ignore
 msgid "Errors will now be ignored."
-msgstr ""
+msgstr "Грешке ће одсад бити занемариване."
 
 #: msg.emode.trace
 msgid "Errors will now be traced."
-msgstr ""
+msgstr "Грешке ће одсад да буду бележене"
 
+# FIXME debug target
 #: msg.emode.break
 msgid "Errors will now stop the debug target."
-msgstr ""
+msgstr "Грешке ће одсад да заустављају одредишно дебаговање."
 
 #: msg.tmode.ignore
 msgid "Exceptions will now be ignored."
-msgstr ""
+msgstr "Изузеци ће одсад бити занемаривани."
 
 #: msg.tmode.trace
 msgid "Exceptions will now be traced."
-msgstr ""
+msgstr "Изузеци ће одсад бити праћени."
 
+# FIXME debug target
 #: msg.tmode.break
 msgid "Exceptions will now stop the debug target."
-msgstr ""
+msgstr "Изузеци ће одсад да заустављају одредишно дебаговање."
 
 #: msn.iasmode
 msgid "Initialize at Startup is now %1$S."
-msgstr ""
+msgstr "Иницијализација при покретању је сада: %1$S."
 
 #: msn.layout.list
 msgid ""
 "The following layouts have already been saved [%1$S].  Use ``save-layout "
 "<name>'' to save the current layout, or ``restore-layout <name>'' to restore "
 "a specific layout."
-msgstr ""
+msgstr "Наредни распореди су сачувани:  [%1$S].  Користите „save-layout <име>‟ да сачувате тренутни распоред, или „restore-layout <име>‟ да вратите неки одређени распоред."
 
 #: msn.chrome.filter
 msgid "Chrome filtering is now %1$S."
-msgstr ""
+msgstr "Филтрирање хрома (chrome) је сада: %1$S."
 
 # 1 value, 2 frame
 #: msn.exception.trace
 msgid "Exception ``%1$S'' thrown from %2$S."
-msgstr ""
+msgstr "Бачен је изузетак „%1$S‟ из %2$S."
 
 # 1 message, 2 flags, 3 file, 4 line, 5 pos
 #: msn.erpt.error
 msgid "Error ``%1$S'' [%2$S] in file ``%3$S'', line %4$S, character %5$S."
-msgstr ""
+msgstr "Грешка: „%1$S‟ [%2$S] датотека „%3$S‟, ред %4$S, знак %5$S."
 
 #: msn.erpt.warn
 msgid "Warning ``%1$S'' [%2$S] in file ``%3$S'', line %4$S, character %5$S."
-msgstr ""
+msgstr "Упозорење „%1$S‟ [%2$S] у датотеци „%3$S‟, ред %4$S, знак %5$S."
 
 #: msn.profile.lost
 msgid "Lost profile data for script %1$S."
-msgstr ""
+msgstr "Изгубљени су подаци о профилу за скрипт %1$S."
 
 #: msn.profile.state
 msgid "Profile data collection is now %1$S."
-msgstr ""
+msgstr "Сакупљање података о профилу: %1$S."
 
 #: msn.profile.saved
 msgid "Profile data saved to <%1$S>."
-msgstr ""
+msgstr "Подаци о профилу су сачувани у <%1$S>."
 
 #: msg.profile.cleared
 msgid "Profile data cleared."
-msgstr ""
+msgstr "Подаци о профилу су очишћени."
 
 #: msn.profile.saving
 msgid "Generating profile report, file %1$S of %2$S"
-msgstr ""
+msgstr "Прављење извештаја о профилу, датотека %1$S од %2$S"
 
 #: msg.open.file
 msgid "Open File…"
-msgstr ""
+msgstr "Отвори датотеку…"
 
 #: msg.save.file
 msgid "Save As…"
-msgstr ""
+msgstr "Сачувај као…"
 
 #: msg.open.url
 msgid "Enter a URL to Load…"
-msgstr ""
+msgstr "Унесите УРЛ за учитавање…"
 
 #: msn.maxtabs.reached
 msgid ""
 "The maximum number of source views (%1$S) has been reached. Alter the "
 "\"source2View.maxTabs\" preference if you want to change this limit. Source "
 "will now load in an existing tab."
-msgstr ""
+msgstr "Достигнут је највећи број погледа за изворни код (%1$S).  Промените поставку „source2View.maxTabs‟ ако желите да промените ово ограничење.  Изворни код ће бити учитан у постојећи језичак."
 
 #: msg.maxtabs.alert
 msgid "Warn me again next time this happens."
-msgstr ""
+msgstr "Упозори ме следећи пут када се ово деси."
 
 #: msg.save.profile
 msgid "Save Profile Data As…"
-msgstr ""
+msgstr "Сачувај податке о профилу као…"
 
 #: msg.save.source
 msgid "Save Source As…"
-msgstr ""
+msgstr "Сачувај изворни код као…"
 
 #: msg.navigator.xul
 msgid "Navigator Window"
-msgstr ""
+msgstr "Прозор управљача"
 
 #: msg.browser.xul
 msgid "Browser Window"
-msgstr ""
+msgstr "Прозор прегледача"
 
 #: msg.enter.watch
 msgid "Enter expression to watch:"
-msgstr ""
+msgstr "Унесите израз за присмотру:"
 
 # # property value flags ##
 #: msg.vf.enumerable
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: msg.vf.readonly
 msgid "r"
-msgstr ""
+msgstr "r"
 
 #: msg.vf.permanent
 msgid "p"
-msgstr ""
+msgstr "p"
 
 #: msg.vf.alias
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: msg.vf.argument
 msgid "a"
-msgstr ""
+msgstr "a"
 
 #: msg.vf.variable
 msgid "v"
-msgstr ""
+msgstr "v"
 
 #: msg.vf.error
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #: msg.vf.exception
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: msg.vf.hinted
 msgid "h"
-msgstr ""
+msgstr "h"
 
 # # formatting ##
 # 1: argument name, 2: value
 #: msn.fmt.argument
 msgid "%1$S=%2$S\""
-msgstr ""
+msgstr "%1$S=%2$S\""
 
 # 1: property flags, 2: property name, 3: property value
 #: msn.fmt.property
 msgid "[%1$S] %2$S = %3$S\""
-msgstr ""
+msgstr "[%1$S] %2$S = %3$S\""
 
 # 1: function name, 2: filename
 #: msn.fmt.script
 msgid "function %1$S in <%2$S>"
-msgstr ""
+msgstr "функција %1$S у <%2$S>"
 
 # 1: function name, 2: arguments, 3: filename, 4: line number
 #: msn.fmt.frame
 msgid "function %1$S(%2$S) in <%3$S> line %4$S"
-msgstr ""
+msgstr "функција %1$S(%2$S) у <%3$S> ред %4$S"
 
 # 1: type, 2: class name, 3: value
 #: msn.fmt.value.long
 msgid "[%1$S] [class: %2$S] %3$S\""
-msgstr ""
+msgstr "[%1$S] [класа: %2$S] %3$S\""
 
 # 1: type, 2: value
 #: msn.fmt.value.med
 msgid "[%1$S] %2$S\""
-msgstr ""
+msgstr "[%1$S] %2$S\""
 
 # 1: type, 2: value
 #: msn.fmt.value.short
 msgid "%1$S:%2$S\""
-msgstr ""
+msgstr "%1$S:%2$S\""
 
 # 1: property count
 #: msn.fmt.object
 msgid "%1$S properties"
-msgstr ""
+msgstr "својства за %1$S"
 
 # 1: ctor name, 2: property count
 #: msn.fmt.object.value
 msgid "{%1$S:%2$S}"
-msgstr ""
+msgstr "{%1$S:%2$S}"
 
 # 1: JS exception name, 2: error text, 3: file name, 4: line number
 #: msn.fmt.jsexception
 msgid "%1$S: %2$S @ <%3$S> %4$S\""
-msgstr ""
+msgstr "%1$S: %2$S @ <%3$S> %4$S\""
 
+# FIXME: Bad mojo?
 # 1: error number,  2: error text, 3: file name, 4: line number, 5: function name
 #: msn.fmt.badmojo
 msgid "BadMojo %1$S: %2$S @ <%3$S> line %4$S (%5$S)"
-msgstr ""
+msgstr "Лош моџо (BadMojo) %1$S: %2$S @ <%3$S> ред %4$S (%5$S)"
 
 # 1: var number, 2: value
 #: msn.fmt.tmp.assign
 msgid "$[%1$S] = %2$S\""
-msgstr ""
+msgstr "$[%1$S] = %2$S\""
 
 # 1: string length
 #: msn.fmt.longstr
 msgid "%1$S characters"
-msgstr ""
+msgstr "знакова: %1$S"
 
 # 1: command name 2: parameters
 #: msn.fmt.usage
 msgid "%1$S %2$S"
-msgstr ""
+msgstr "%1$S %2$S"
 
 # 1: function name
 # 1: program counter
 #: msn.fmt.guessedname msn.fmt.pc
 msgid "[%1$S]"
-msgstr ""
+msgstr "[%1$S]"
 
 # 1: pref name 2: value
 #: msn.fmt.prefvalue
 msgid "Preference ``%1$S'' is ``%2$S''"
-msgstr ""
+msgstr "Поставка „%1$S‟ је „%2$S‟"
 
 # 1: index, 2: label, 3: value
 #: msn.fmt.watch.item
 msgid "%1$S: %2$S = %3$S\""
-msgstr ""
+msgstr "%1$S: %2$S = %3$S\""
 
 # 1: on|off
 #: msn.fmt.pprint
 msgid "Pretty Print is %1$S."
-msgstr ""
+msgstr "Уредно штампање: %1$S."
 
 # 1: frame number, 2: frame string
 #: msn.fmt.frame.line
 msgid "#%1$S: %2$S\""
-msgstr ""
+msgstr "#%1$S: %2$S\""
 
 # 1: file name, 2: line number, 3: pc
 #: msn.fmt.frame.location
 msgid "%1$S, line %2$S, pc %3$S"
-msgstr ""
+msgstr "%1$S, ред %2$S, прог. бројач %3$S"
 
 # 1: function name, 2: start line, 3: end line, 4: call count, 5: recurse,
 # 6: total, 7: min, 8: max, 9: avg
@@ -884,93 +887,95 @@ msgstr ""
 msgid ""
 "%1$S: %2$S-%3$S, %4$S call(s)%5$S, %6$Sms total, %7$Sms min, %8$Sms max, %9"
 "$Sms avg, excluding calls: %10$S"
-msgstr ""
+msgstr "%1$S: %2$S-%3$S, позива: %4$S %5$S, %6$Sms укупно, %7$Sms мин., %8$Sms макс., %9$Sms средње, изузев позива: %10$S"
 
 #: msn.fmt.profile.str2
 msgid "%1$Sms total, %2$Sms min, %3$Sms max, %4$Sms avg"
-msgstr ""
+msgstr "%1$Sms укупно, %2$Sms мин., %3$Sms макс., %4$Sms средње"
 
 # 1: max recurse depth
 #: msn.fmt.profile.recurse
 msgid "\" (max depth %1$S)"
-msgstr ""
+msgstr "\" (највећа дубина: %1$S)"
 
 # # menu headings ##
 #: msg.mnu.file
 msgid "&File"
-msgstr ""
+msgstr "&Датотека"
 
 #: msg.mnu.edit
 msgid "&Edit"
-msgstr ""
+msgstr "&Уреди"
 
+# FIXME Debug
 #: msg.mnu.debug
 msgid "&Debug"
-msgstr ""
+msgstr "&Дебагер"
 
 #: msg.mnu.profile
 msgid "&Profile"
-msgstr ""
+msgstr "&Профил"
 
 #: msg.mnu.view
 msgid "&View"
-msgstr ""
+msgstr "П&реглед"
 
 #: msg.mnu.help
 msgid "&Help"
-msgstr ""
+msgstr "По&моћ"
 
 #: msg.mnu.tools
 msgid "&Tools"
-msgstr ""
+msgstr "&Алати"
 
 #: msg.mnu.emode
 msgid "&Error Trigger"
-msgstr ""
+msgstr "Окидач за &грешку"
 
 #: msg.mnu.tmode
 msgid "Throw Tri&gger"
-msgstr ""
+msgstr "Окидач за &изузетке"
 
 #: msg.mnu.showhide
 msgid "Sho&w/Hide"
-msgstr ""
+msgstr "Прика&жи/сакриј"
 
 #: msg.mnu.session.colors
 msgid "Interactive Session Co&lors"
-msgstr ""
+msgstr "&Боје за интерактивне сесије"
 
 #: msg.mnu.scripts.instance
 msgid "F&ile Options"
-msgstr ""
+msgstr "Опције за &датотеке"
 
 #: msg.mnu.scripts.wrapper
 msgid "Func&tion Options"
-msgstr ""
+msgstr "Опције за &функције"
 
 #: msn.sourceheader.url
 msgid "<%1$S> Line %2$S"
-msgstr ""
+msgstr "<%1$S> ред %2$S"
 
+# FIXME alias = синоним 
 #: msn.default.alias.help
 msgid "This command is an alias for |%1$S|."
-msgstr ""
+msgstr "Ова команда је синоним за |%1$S|."
 
 #: msn.launch.count
 msgid "Recorded local startup %1$S, global %2$S."
-msgstr ""
+msgstr "Сачувано локално покретање %1$S, глобално %2$S."
 
 #: msg.no.help
 msgid "Help not available."
-msgstr ""
+msgstr "Помоћ није доступна."
 
 #: msn.extra.params
 msgid "Extra parameters ``%1$S'' ignored."
-msgstr ""
+msgstr "Вишак параметара „%1$S‟ је занемарен."
 
 #: msg.files.rec
 msgid "Files"
-msgstr ""
+msgstr "Датотеке"
 
 # msg.doc.consolehdr   = Console Commands
 # msg.doc.menuhdr      = Menus
@@ -983,160 +988,162 @@ msgid ""
 "Firefox, SeaMonkey or Flock, you can copy this URL into the address bar to "
 "show the help: x-jsd:help . You can also use the help command with a "
 "parameter to get help information on a specific command."
-msgstr ""
+msgstr "Покренули сте венкмана у програму који не садржи читач.  Због тога не можемо да Вам прикажемо садржај помоћи.  Ако инсталирате венкмана у фајерфокс (Firefox), симанки (SeaMonkey) или флок (Flock), можете да умножите овај УРЛ у адресну линију да бисте добили помоћ: x-jsd:help . Можете такође да користите команду „help‟ са параметром да бисте добили помоћ о појединој команди."
 
 #: msg.note.console
 msgid "This command is available from the console."
-msgstr ""
+msgstr "Ова команда је доступна из конзоле."
 
 #: msg.note.noconsole
 msgid "This command is NOT available from the console."
-msgstr ""
+msgstr "Ова команда НИЈЕ доступна из конзоле."
 
 #: msg.note.needstack
 msgid "You must be stopped at a breakpoint to use this command."
-msgstr ""
+msgstr "Морате да се зауставите у преломној тачци да бисте користили ову команду."
 
 #: msg.note.nostack
 msgid "You CANNOT be stopped at a breakpoint to use this command."
-msgstr ""
+msgstr "НЕ МОЖЕТЕ бити заустављени у преломној тачки да бисте користили ову команду."
 
 #: msn.doc.commandlabel
 msgid "\"     Command Name: ``%1$S'' (%2$S)"
-msgstr ""
+msgstr "\"     Име команде: „%1$S‟ (%2$S)"
 
 #: msn.doc.key
 msgid "\"Keyboard Shortcut: %1$S"
-msgstr ""
+msgstr "\"Скраћеница са тастатуре: %1$S"
 
 #: msn.doc.syntax
 msgid "\"           Syntax: %1$S %2$S"
-msgstr ""
+msgstr "\"           Синтакса: %1$S %2$S"
 
 #: msg.doc.notes
 msgid "Notes:"
-msgstr ""
+msgstr "Белешке:"
 
 #: msg.doc.description
 msgid "Description:"
-msgstr ""
+msgstr "Опис:"
 
 #: msn.session.css
 msgid "Interactive Session now using CSS from <%1$S>."
-msgstr ""
+msgstr "Интерактивна сесија сада користи ЦСС (CSS) из <%1$S>."
 
+# FIXME scope = досег
 #: msn.session.title
 msgid "Interactive Session [context: %1$S, scope: %2$S]"
-msgstr ""
+msgstr "Интерактивна сесија [контекст: %1$S, досег: %2$S]"
 
 #: msg.source2.help
 msgid "Please select a source file to display."
-msgstr ""
+msgstr "Молимо да изаберете датотеку са изворним кодом за приказ."
 
 #: msg.margin.break
 msgid "\" B \""
-msgstr ""
+msgstr "\" B \""
 
 #: msg.margin.fbreak
 msgid "\" F \""
-msgstr ""
+msgstr "\" F \""
 
 #: msg.margin.breakable
 msgid "\" - \""
-msgstr ""
+msgstr "\" - \""
 
 #: msg.margin.none
 msgid "\"   \""
-msgstr ""
+msgstr "\"   \""
 
 #: msg.bpprops.title
 msgid "Breakpoint Properties"
-msgstr ""
+msgstr "Својства преломне тачке"
 
 #: msg.bpprops.enabled
 msgid "Enable breakpoint"
-msgstr ""
+msgstr "Укључи преломну тачку"
 
 #: msg.fbpprops.title
 msgid "Future Breakpoint Properties"
-msgstr ""
+msgstr "Својства будуће преломне тачке"
 
 #: msg.fbpprops.enabled
 msgid "Enable future breakpoint"
-msgstr ""
+msgstr "Укључи будућу преломну тачку"
 
 # view captions
 #: msg.view.breaks
 msgid "Breakpoints"
-msgstr ""
+msgstr "Преломна тачка"
 
 #: msg.view.stack
 msgid "Call Stack"
-msgstr ""
+msgstr "Позивни стек"
 
 #: msg.view.session
 msgid "Interactive Session"
-msgstr ""
+msgstr "Интерактивна сесија"
 
 #: msg.view.locals
 msgid "Local Variables"
-msgstr ""
+msgstr "Локалне променљиве"
 
 #: msg.view.scripts
 msgid "Loaded Scripts"
-msgstr ""
+msgstr "Учитани скриптови"
 
 #: msg.view.windows
 msgid "Open Windows"
-msgstr ""
+msgstr "Отворени прозори"
 
 #: msg.view.source msg.view.source2
 msgid "Source Code"
-msgstr ""
+msgstr "Изворни код"
 
+# FIXME watch = присмотра
 #: msg.view.watches
 msgid "Watches"
-msgstr ""
+msgstr "Присмотре"
 
 # settings file return values
 #: msg.breakpoints.restored
 msgid "Breakpoints restored."
-msgstr ""
+msgstr "Преломне тачке су враћене."
 
 #: msg.watches.restored
 msgid "Watches restored."
-msgstr ""
+msgstr "Присмотре су враћене."
 
 #: msg.settings.restored
 msgid "Breakpoints and watches restored."
-msgstr ""
+msgstr "Присмотре и преломне тачке су враћене"
 
 # ##################### DO NO LOCALIZE THE *.params STRINGS ######################
 # # hooks ##
 #: cmd.hook-break-clear.params cmd.hook-break-set.params
 #: cmd.break-props.params
 msgid "<break-wrapper>"
-msgstr ""
+msgstr "<break-wrapper>"
 
 #: cmd.hook-break-clear.help
 msgid "Called when a breakpoint instance is cleared."
-msgstr ""
+msgstr "Позива се када се поједина преломна тачка очисти."
 
 #: cmd.hook-break-set.help
 msgid "Called when a breakpoint instance is set."
-msgstr ""
+msgstr "Позива се када се поједина преломна тачка постави."
 
 #: cmd.hook-debug-stop.help
 msgid "Called when the debugger stops execution of the debug target."
-msgstr ""
+msgstr "Позива се када дебагер престане са извршавањем програма."
 
 #: cmd.hook-debug-continue.help
 msgid "Called when the debugger continues execution of the debug target."
-msgstr ""
+msgstr "Позива се када дебагер настави са извршавањем програма."
 
 #: cmd.hook-display-sourcetext.params cmd.hook-display-sourcetext-soft.params
 msgid "<source-text> [<target-line> [<details>]]"
-msgstr ""
+msgstr "<source-text> [<target-line> [<details>]]"
 
 #: cmd.hook-display-sourcetext.help
 msgid ""
@@ -1144,7 +1151,7 @@ msgid ""
 "user.  <target-line> is the line which should appear at or near the top of "
 "the display.  If <details> is provided, it will be an object representing "
 "details about where the <source-text> object was derived from."
-msgstr ""
+msgstr "Позива се када објекат изворног текста <source-text> треба да се прикаже кориснику.  <target-line> је ред који треба да се појави на или близу врху приказа.  Ако је задата опција <details>, то ће бити објекат који представља детаље о томе одакле је објекат <source-text> изведен."
 
 #: cmd.hook-display-sourcetext-soft.help
 msgid ""
@@ -1778,23 +1785,24 @@ msgid ""
 "()) associated with the url <url>.  The value of <toggle> can be |true|, |"
 "on|, |yes|, or |1| to turn the flag on; |false|, |off|, |no|, or |0| to turn "
 "it off; or |toggle| to invert the current state."
-msgstr ""
+msgstr "Укључује или искључује дебагирање транзијентних скриптова (попут setTimeout() или eval()) придружених УРЛу <url>.  Вредност за <toggle> може да буде |true|, |on|, |yes|, или |1| за подизање заставице; |false|, |off|, |no|, или |0| за спуштање заставице; или |toggle| за негацију тренутног стања."
 
+# FIXME dump = попис
 #: cmd.dumpprofile.label
 msgid "Dump Profile Data"
-msgstr ""
+msgstr "Попиши податке о профилу"
 
 #: cmd.dumpprofile.params cmd.find-file.params
 msgid "[<file-name>]"
-msgstr ""
+msgstr "[<file-name>]"
 
 #: cmd.dumptree.params
 msgid "<tree> [<depth>]"
-msgstr ""
+msgstr "<tree> [<depth>]"
 
 #: cmd.emode.params cmd.tmode.params
 msgid "[<mode>]"
-msgstr ""
+msgstr "[<mode>]"
 
 #: cmd.emode.help
 msgid ""
@@ -1804,45 +1812,47 @@ msgid ""
 "thrown.  |emode| without any parameter will display the current error mode.  "
 "Note that |emode| controls what happens when an exception goes uncaught, to "
 "control what happens when an exception is *thrown*, use |tmode|."
-msgstr ""
+msgstr "Поставља која дејства дебагер треба да изврши када се догоди грешка у програму који се извршава.  |emode ignore| занемарује све грешке, |emode trace| приказује дневник грешака у конзоли, а |emode break| зауставља извршавање када се деси грешка.  |emode| без параметара приказује тренутни начин обраде грешке.  Приметите да |emode| одређује шта се дешава када изузетак није ухваћен, ако желите да одредите шта се дешава када је изузетак *бачен*, користите |tmode|."
 
 #: cmd.eval.help
 msgid ""
 "Evaluates <expression> in the scope of the debug target's current frame.  "
 "See also: |frame|, |where|, |props|, and |evald|."
-msgstr ""
+msgstr "Израчунава израз <expression> у тренутном досегу програма.  Видите и: |frame|, |where|, |props|, и |evald|."
 
 #: cmd.evald.help
 msgid "Evaluates <expression> in the debugger's scope.  See also: |eval|."
-msgstr ""
+msgstr "Израчунава израз <expression> у дебагеровом досегу.  Видите и: |eval|."
 
 #: cmd.em-break.label
 msgid "Stop for E&rrors"
-msgstr ""
+msgstr "Стани у случају &грешке"
 
+# FIXME what is this?
 #: cmd.em-cycle.label
 msgid "Cycle Error Mode"
-msgstr ""
+msgstr "Циклично кроз грешке"
 
+# FIXME what is this?
 #: cmd.em-cycle.key
 msgid "accel shift  E"
-msgstr ""
+msgstr "accel shift  E"
 
 #: cmd.em-ignore.label
 msgid "Ig&nore Errors"
-msgstr ""
+msgstr "&Занемари грешке"
 
 #: cmd.em-trace.label
 msgid "Tr&ace Errors"
-msgstr ""
+msgstr "&Прати грешке"
 
 #: cmd.fbreak.label cmd.set-fbreak.label
 msgid "Set &Future Breakpoint"
-msgstr ""
+msgstr "Постави &будућу преломну тачку"
 
 #: cmd.fbreak.params
 msgid "[<url-pattern> <line-number> [<properties>]]"
-msgstr ""
+msgstr "[<url-pattern> <line-number> [<properties>]]"
 
 #: cmd.fbreak.help
 msgid ""
@@ -1853,11 +1863,11 @@ msgid ""
 "<properties> is a JavaScript object representing the properties for this "
 "breakpoint.  This command is the same as |set-fbreak|, except the parameters "
 "are optional.  See also: |break|."
-msgstr ""
+msgstr "Поставља „будућу‟ преломну тачку. Сваки пут када скрипт чије име одговара обрасцу <url-pattern> буде учитан, поставља се преломна тачка <line-number>.  Постављање преломне тачке у линију 1 ће упутити дебагер да прекине скрипт када се учита.  |fbreak| без параметара ће исписати све будуће преломне тачке.  Својство <properties> је објекат јаваскрипта који представља својства за ову преломну тачку.  Ова команда је иста као |set-fbreak|, осим што су параметри опциони.  Видите и: |break|."
 
 #: cmd.set-break.params
 msgid "<url-pattern> <line-number> [<properties> [<parent>]]"
-msgstr ""
+msgstr "<url-pattern> <line-number> [<properties> [<parent>]]"
 
 #: cmd.set-break.help
 msgid ""
@@ -1866,11 +1876,11 @@ msgid ""
 "the breakpoint.  <parent> is a reference to the Future Breakpoint object to "
 "assign as the parent.  This is the same as the |break| command, except the "
 "parameters are required.  See also: |break|, |clear|."
-msgstr ""
+msgstr "Поставља преломну тачку у све УРЛове који одговарају обрасцу <url-pattern> у линији <line-number>.  Својство <properties> је објекат јаваскрипта који прдставља својства преломне тачке.  Објекат <parent> је обраћањњ на објекат будуће преломне тачке који ће бити додељен као родитељ.  Ово је исто као и команда |break|, осим што су параметри обавезни.  Видите и: |break|, |clear|."
 
 #: cmd.set-fbreak.params
 msgid "<url-pattern> <line-number> [<properties>]"
-msgstr ""
+msgstr "<url-pattern> <line-number> [<properties>]"
 
 #: cmd.set-fbreak.help
 msgid ""
@@ -1880,67 +1890,67 @@ msgid ""
 "loaded.  <properties> is a JavaScript object representing the properties for "
 "this breakpoint.  This command is the same as |fbreak|, except the "
 "parameters are not optional.  See also: |break|."
-msgstr ""
+msgstr "Поставља „будућу‟ преломну тачку.  Кад год се  скрипт чије име датотеке се поклапа са обрасцем <url-pattern> учита, поставља се преломна тачка на ред <line-number>.  Постављање преломне тачке у ред 1 ће упутити дебагер да прекине извршавање програма када се скрипт учита.  Својства <properties> су објекат јаваскрипта који представља својства ове преломне тачке.  Ова команда је иста као |fbreak|, осим што параметри нису опциони. Видите и: |break|."
 
 #: cmd.fclear.label
 msgid "Clear F&uture Breakpoint"
-msgstr ""
+msgstr "Уклони &будућу преломну тачку"
 
 #: cmd.fclear.help
 msgid ""
 "Clears the future breakpoint(s) set for <url-pattern>.  If <line-number> is "
 "specified, only future breakpoints at that line are cleared."
-msgstr ""
+msgstr "Уклаља будуће преломне тачке за образац <url-pattern>.  Ако је задат број реда <line-number>, уклањају се само будуће преломне тачке на том реду."
 
 #: cmd.fclear-all.label
 msgid "Clear All Fu&ture Breakpoints"
-msgstr ""
+msgstr "Уклони &све будуће преломне тачке"
 
 #: cmd.fclear-all.help
 msgid "Clears all future breakpoints currently defined."
-msgstr ""
+msgstr "Уклања све будуће преломне тачке које су тренутно дефинисане."
 
 #: cmd.find-bp.label
 msgid "Find &Breakpoint"
-msgstr ""
+msgstr "&Нађи прекомну тачку"
 
 #: cmd.find-bp.params
 msgid "<breakpoint>"
-msgstr ""
+msgstr "<breakpoint>"
 
 #: cmd.find-bp.help
 msgid "Focus the breakpoint specified by the Breakpoint object <breakpoint>."
-msgstr ""
+msgstr "Доведи у фокус преломну тачку коју дефинише објекат преломне тачке <breakpoint>."
 
 #: cmd.find-creator.label
 msgid "Find &Creator"
-msgstr ""
+msgstr "Нађи &творца"
 
 #: cmd.find-creator.params cmd.find-ctor.params cmd.set-eval-obj.params
 msgid "<jsd-value>"
-msgstr ""
+msgstr "<jsd-value>"
 
 #: cmd.find-creator.help
 msgid ""
 "Focus the creator of the object referenced by the jsdIValue <jsd-value>."
-msgstr ""
+msgstr "Доведи у фокус творца објекта који је задат помоћу вредности jsdIValue <jsd-value>."
 
 #: cmd.find-ctor.label
 msgid "Find C&onstructor"
-msgstr ""
+msgstr "Нађи &конструктор"
 
 #: cmd.find-ctor.help
 msgid ""
 "Focus the constructor of the object referenced by the jsdIValue <jsd-value>."
-msgstr ""
+msgstr "Доводи у фокус конструктор објекта који је задат помоћу вредности jsdIValue <jsd-value>."
 
 #: cmd.find-file.label
 msgid "&Open File…"
-msgstr ""
+msgstr "&Отвори датотеку…"
 
 #: cmd.find-file.key
 msgid "accel O"
-msgstr ""
+msgstr "accel O"
 
 #: cmd.find-file.help
 msgid ""
@@ -1948,37 +1958,37 @@ msgid ""
 "where <file-name> is an operating system specific path string.  If <file-"
 "name> is not provided, or is the character '?', a file chooser widget will "
 "be displayed."
-msgstr ""
+msgstr "Приказује садржај датотеке која се налази на месту <file-name> у погледу са скриптом, где је <file-name> ниска која представља стазу, у формату специфичном за оперативни систем који се користи.  Ако се не зада <file-name>, или се зада знак „?‟, биће приказан прозор за избор датотеке."
 
 #: cmd.find-frame.label
 msgid "Find &Frame Source"
-msgstr ""
+msgstr "Нађи извор &оквира"
 
 #: cmd.find-frame.params
 msgid "<frame-index>"
-msgstr ""
+msgstr "<frame-index>"
 
 #: cmd.find-frame.help
 msgid "Focus the stack frame specified by the frame at index <frame-index>."
-msgstr ""
+msgstr "Доведи у фокус рам стека кога одређује рам са индексом <frame-index>."
 
 #: cmd.find-script.label
 msgid "Find F&unction"
-msgstr ""
+msgstr "Нађи &функцију"
 
 #: cmd.find-script.params
 msgid "<script-wrapper> [<target-pc>]"
-msgstr ""
+msgstr "<script-wrapper> [<target-pc>]"
 
 #: cmd.find-script.help
 msgid ""
 "Focus the script wrapped by <script-wrapper>.  If <target-pc> is provided, "
 "the view will be scrolled to display the associated line."
-msgstr ""
+msgstr "Доведи у фокус скрипт кога обмотава <script-wrapper>.  Ако је задат програмски бројач <target-pc>, поглед ће бити померен да би приказао придружени ред."
 
 #: cmd.find-sourcetext.params cmd.find-sourcetext-soft.params
 msgid "<source-text> [<range-start> [<range-end> [<details> [<target-line>]]]]"
-msgstr ""
+msgstr "<source-text> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 
 #: cmd.find-sourcetext.help
 msgid ""
@@ -1988,7 +1998,7 @@ msgid ""
 "text> object was derived from.  If <target-line> is provided, the view will "
 "be scrolled to that line, otherwise the view will be scrolled to <range-"
 "start>."
-msgstr ""
+msgstr "Приказује објекат изворног текста задат са <sourceText>.  Сав текст између вредности <range-start> и <range-end> биће наглашен.  Ако су дати детаљи <details>, то ће бити објекат који представља детаље о томе одакле је изведен објекат <source-text>.  Ако је задата линија <target-line> поглед ће да буде померен до те линије.  У супротном, поглед ће бити померен до <range-start>."
 
 #: cmd.find-sourcetext-soft.help
 msgid ""

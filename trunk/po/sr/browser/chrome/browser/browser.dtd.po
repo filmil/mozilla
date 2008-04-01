@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 03:17+0100\n"
+"PO-Revision-Date: 2008-04-01 22:07+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -588,7 +588,7 @@ msgstr "У о&вом оквиру"
 
 #: fullZoomEnlargeCmd.label fullZoomEnlargeCmd.accesskey
 msgid "Zoom &In"
-msgstr "&Увеличај"
+msgstr "&Увећај"
 
 #: fullZoomEnlargeCmd.commandkey
 msgid "+"
@@ -617,13 +617,13 @@ msgstr "&Врати"
 
 #: fullZoomToggleCmd.label fullZoomToggleCmd.accesskey
 msgid "Zoom &Text Only"
-msgstr "Увеличај само &текст"
+msgstr "Увећај само &текст"
 
 # XXX places only
 # Toolbar items
 #: fullZoom.label fullZoom.accesskey
 msgid "&Zoom"
-msgstr "&Увећај"
+msgstr "&Увећање"
 
 #: newTabButton.tooltip
 msgid "Open a new tab"
