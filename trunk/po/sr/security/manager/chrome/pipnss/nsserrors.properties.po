@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-02 01:36+0200\n"
+"PO-Revision-Date: 2008-04-02 01:47+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -393,67 +393,67 @@ msgstr "Клијентов ИБ за сесију ССЛа није нађен �
 
 #: SSL_ERROR_DECRYPTION_FAILED_ALERT
 msgid "Peer was unable to decrypt an SSL record it received."
-msgstr ""
+msgstr "Удаљени рачунар није могао да дешифрује слог ССЛа ког је примио."
 
 #: SSL_ERROR_RECORD_OVERFLOW_ALERT
 msgid "Peer received an SSL record that was longer than is permitted."
-msgstr ""
+msgstr "Удаљени рачунар је примио слог ССла који је дужи од дозвољеног."
 
 #: SSL_ERROR_UNKNOWN_CA_ALERT
 msgid "Peer does not recognize and trust the CA that issued your certificate."
-msgstr ""
+msgstr "Удаљени рачунар не препознаје и не верује ауторитету за сертификате (CA) који је издао Ваш сертификат."
 
 #: SSL_ERROR_ACCESS_DENIED_ALERT
 msgid "Peer received a valid certificate, but access was denied."
-msgstr ""
+msgstr "Удаљени рачунар је примио важећу сертификат, али је приступ одбијен."
 
 #: SSL_ERROR_DECODE_ERROR_ALERT
 msgid "Peer could not decode an SSL handshake message."
-msgstr ""
+msgstr "Удаљени рачунар није могао да декодира поздравну поруку ССЛа."
 
 #: SSL_ERROR_DECRYPT_ERROR_ALERT
 msgid "Peer reports failure of signature verification or key exchange."
-msgstr ""
+msgstr "Удаљени рачунар јавља грешку при провери потписа или размени кључева."
 
 #: SSL_ERROR_EXPORT_RESTRICTION_ALERT
 msgid "Peer reports negotiation not in compliance with export regulations."
-msgstr ""
+msgstr "Удаљени рачунар пријављује да договор није сагласан са правилима о извозу."
 
 #: SSL_ERROR_PROTOCOL_VERSION_ALERT
 msgid "Peer reports incompatible or unsupported protocol version."
-msgstr ""
+msgstr "Удаљени рачунар јавља несагласно или неподржано издање протокола."
 
 #: SSL_ERROR_INSUFFICIENT_SECURITY_ALERT
 msgid "Server requires ciphers more secure than those supported by client."
-msgstr ""
+msgstr "Server захтева шифре које су сигурније од оних које је доставио клијент."
 
 #: SSL_ERROR_INTERNAL_ERROR_ALERT
 msgid "Peer reports it experienced an internal error."
-msgstr ""
+msgstr "Удаљени рачунар јавља да је искусио интерну грешку."
 
 #: SSL_ERROR_USER_CANCELED_ALERT
 msgid "Peer user canceled handshake."
-msgstr ""
+msgstr "Удаљени корисник је отказао сусрет."
 
 #: SSL_ERROR_NO_RENEGOTIATION_ALERT
 msgid "Peer does not permit renegotiation of SSL security parameters."
-msgstr ""
+msgstr "Удаљени рачунар не дозвољава поновни договор безбедносних параметара ССЛа."
 
 #: SSL_ERROR_SERVER_CACHE_NOT_CONFIGURED
 msgid "SSL server cache not configured and not disabled for this socket."
-msgstr ""
+msgstr "Серверски кеш за ССЛ није подешен и није искључен за овај прикључак (socket)."
 
 #: SSL_ERROR_UNSUPPORTED_EXTENSION_ALERT
 msgid "SSL peer does not support requested TLS hello extension."
-msgstr ""
+msgstr "Удаљени рачунар са ССЛом не подржава тражени продужетак ТЛСа (TLS) за поздрав."
 
 #: SSL_ERROR_CERTIFICATE_UNOBTAINABLE_ALERT
 msgid "SSL peer could not obtain your certificate from the supplied URL."
-msgstr ""
+msgstr "Удаљени рачунар са ССЛом не може да добави Ваш сертификат са прослеђеног УРЛа."
 
 #: SSL_ERROR_UNRECOGNIZED_NAME_ALERT
 msgid "SSL peer has no certificate for the requested DNS name."
-msgstr ""
+msgstr "Удаљени рачунар са ССЛом нема сертификат за тражено име са ДНСа."
 
 #: SSL_ERROR_BAD_CERT_STATUS_RESPONSE_ALERT
 msgid "SSL peer was unable to get an OCSP response for its certificate."
