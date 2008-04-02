@@ -30,7 +30,9 @@ pofilter:
 	$(POFILTER) $(PO_TRANSLATIONS) $(FAIL_DIR)
 
 pomerge:
-	$(POMERGE) $(FAIL_DIR) $(PO_TRANSLATIONS)
+	$(POMERGE) -t $(PO_TRANSLATIONS) -i $(FAIL_DIR) -o $(PO_TRANSLATIONS)
+	@echo "Do not forget to check what $(POMERGE) has done"
+	@echo "In order to prevent screwups"
 
 # Cleanup of all the generated files and dirs
 clean:

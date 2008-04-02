@@ -1,6 +1,8 @@
 2008-04-02  Filip Miletic  <filmil@gmail.com>
 
-	*
+	*Makefile (pomerge): sanitized pomerge.  It now can update the
+	faulty strings.
+	
 	po/sr/browser/chrome/browser/preferences/advanced-scripts.dtd.po:
 	Changed an unchanged string.
 
