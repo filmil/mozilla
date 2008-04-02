@@ -1,5 +1,8 @@
 2008-04-02  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po:
+	Corrected rudeness.
+
 	*Makefile (pomerge): sanitized pomerge.  It now can update the
 	faulty strings.
 	

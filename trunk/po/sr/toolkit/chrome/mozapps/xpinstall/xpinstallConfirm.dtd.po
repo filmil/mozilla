@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 01:54+0100\n"
+"PO-Revision-Date: 2008-04-02 03:18+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "width: 45em"
 
 #: warningMain.label
 msgid "Only install add-ons from authors whom you trust."
-msgstr "Инсталирај додатке само од аутора од поверења."
+msgstr "Инсталирајте само додатке од аутора од поверења."
 
 #: warningSecondary.label
 msgid "Malicious software can damage your computer or violate your privacy."
