@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-02 23:23+0200\n"
+"PO-Revision-Date: 2008-04-02 23:38+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1097,28 +1097,28 @@ msgstr "Назначена је непозната врста објекта."
 
 #: SEC_ERROR_INCOMPATIBLE_PKCS11
 msgid "PKCS #11 driver violates the spec in an incompatible way."
-msgstr ""
+msgstr "Драјвер за ПКЦС #11 (PKCS #11) нарушава спецификацију на несагласан начин."
 
 #: SEC_ERROR_NO_EVENT
 msgid "No new slot event is available at this time."
-msgstr ""
+msgstr "Тренутно не постоји ниједан слободан прорез."
 
 #: SEC_ERROR_CRL_ALREADY_EXISTS
 msgid "CRL already exists."
-msgstr ""
+msgstr "ЦРЛ (CRL) већ постоји."
 
 #: SEC_ERROR_NOT_INITIALIZED
 msgid "NSS is not initialized."
-msgstr ""
+msgstr "НСС (NSS) није успостављен."
 
 #: SEC_ERROR_TOKEN_NOT_LOGGED_IN
 msgid "The operation failed because the PKCS#11 token is not logged in."
-msgstr ""
+msgstr "Дејство није успело јер новчић за ПКЦС #11 (PKCS #11) није пријављен."
 
 #: SEC_ERROR_OCSP_RESPONDER_CERT_INVALID
 msgid "Configured OCSP responder's certificate is invalid."
-msgstr ""
+msgstr "Подешен сертификат респондера за ОЦСП (OCSP) је неважећи."
 
 #: SEC_ERROR_OCSP_BAD_SIGNATURE
 msgid "OCSP response has an invalid signature."
-msgstr ""
+msgstr "Одговор за ОЦСП (OCSP) има неважећи потпис."
