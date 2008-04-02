@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-26 21:53+0100\n"
+"PO-Revision-Date: 2008-04-02 03:48+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgstr "Изабери &све"
 
 #: closeWindow.key securityView.privacy.viewPasswords.accessKey
 msgid "w"
-msgstr "w"
+msgstr "л"
 
 #: generalTab
 msgid "General"
@@ -92,7 +92,7 @@ msgstr "Опште"
 
 #: generalTab.accesskey
 msgid "G"
-msgstr "G"
+msgstr "O"
 
 #: generalURL
 msgid "Address:"
@@ -100,7 +100,7 @@ msgstr "Адреса:"
 
 #: generalType
 msgid "Type:"
-msgstr "Тип:"
+msgstr "Врста:"
 
 #: generalMode
 msgid "Render Mode:"
