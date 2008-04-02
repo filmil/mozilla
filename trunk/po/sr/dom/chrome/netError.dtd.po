@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:44+0100\n"
+"PO-Revision-Date: 2008-04-02 03:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -63,13 +63,7 @@ msgid ""
 "sites?  Check your network connection and DNS server settings.</li><li>Is "
 "your computer or network protected by a firewall or proxy?  Incorrect "
 "settings can interfere with Web browsing.</li></ul>"
-msgstr ""
-"<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com "
-"уместо <strong>www</strong>.example.com</li> <li>Ако нисте у стању да "
-"учитате ни једну страну, проверите подешавања мреже у вашем систему.</li> "
-"<li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, "
-"проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> "
-"</ul>"
+msgstr "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако није могуће учитавање ниједне стране, проверите подешавања мреже на Вашем систему.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или посредником (proxy), проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>"
 
 #: fileNotFound.title
 msgid "File Not Found"
@@ -88,7 +82,7 @@ msgstr ""
 
 #: generic.title
 msgid "Cannot Complete Request"
-msgstr "Упсс!?"
+msgstr "Захтев није могао да буде обрађен"
 
 #: generic.longDesc
 msgid ""
@@ -104,16 +98,14 @@ msgstr "Адреса није исправна"
 msgid ""
 "<p>The provided address is not in a recognized format. Please check the "
 "location bar for mistakes and try again.</p>"
-msgstr ""
-"<ul> <li>Интернет адресе су обично типа <strong>http://www.example.com/</"
-"strong></li> <li>Проберите да ли користите исправне знакове (нпр.<strong>/</"
-"strong>).</li> </ul>"
+msgstr "<ul> <li>Интернет адресе су обично налик на <strong>http://www.example.com/</strong></li> <li>Проверите да ли користите исправне знаке (нпр.<strong>/</strong>).</li> </ul>"
 
 #: netInterrupt.title
 msgid "Data Transfer Interrupted"
 msgstr "Веза са сервером је прекинута"
 
 #: netInterrupt.longDesc
+#, fuzzy
 msgid ""
 "<p>The browser connected successfully, but the connection was interrupted "
 "while transferring information.  Please try again.</p><ul><li>Are you unable "
@@ -242,9 +234,7 @@ msgid ""
 "li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the "
 "problem, it is likely a server configuration issue and not your computer.</"
 "li></ul>"
-msgstr ""
-"<ul> <li>Овај проблем понекад може бити проузрокован не прихватањем колачића."
-"</li> </ul>"
+msgstr "<ul> <li>Овај проблем понекад може бити проузрокован неприхватањем колачића.</li> </ul>"
 
 #: unknownSocketType.title
 msgid "Incorrect Response"
