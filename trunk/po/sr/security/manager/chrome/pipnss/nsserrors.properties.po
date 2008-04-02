@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-02 02:16+0200\n"
+"PO-Revision-Date: 2008-04-02 23:23+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -663,172 +663,176 @@ msgstr "Дешифровање није могуће: алгоритам за ш
 msgid ""
 "Signature verification failed: no signer found, too many signers found, or "
 "improper or corrupted data."
-msgstr ""
+msgstr "Провера потписа није успела: потписник није пронађен, пронађено је превише потписника, или су подаци неодговарајући или покварени."
 
 #: SEC_ERROR_UNSUPPORTED_KEYALG
 msgid "Unsupported or unknown key algorithm."
-msgstr ""
+msgstr "Неподржан или непознат алгоритам за кључеве."
 
 #: SEC_ERROR_DECRYPTION_DISALLOWED
 msgid "Cannot decrypt: encrypted using a disallowed algorithm or key size."
-msgstr ""
+msgstr "Није могуће дешифровање: шифровано помоћу недозвољеног алгоритма или дужине кључа."
 
 #: XP_SEC_FORTEZZA_BAD_CARD
 msgid ""
 "Fortezza card has not been properly initialized.  Please remove it and "
 "return it to your issuer."
-msgstr ""
+msgstr "Фортеца (Fortezza) карта није прописно покренута.  Молимо да је уклоните и вратите издавачу."
 
 #: XP_SEC_FORTEZZA_NO_CARD
 msgid "No Fortezza cards Found"
-msgstr ""
+msgstr "Није нађена ниједна фортеца (Fortezza) карта"
 
 #: XP_SEC_FORTEZZA_NONE_SELECTED
 msgid "No Fortezza card selected"
-msgstr ""
+msgstr "Није изабрана фортеца (Fortezza) карта"
 
 #: XP_SEC_FORTEZZA_MORE_INFO
 msgid "Please select a personality to get more info on"
-msgstr ""
+msgstr "Молимо да изаберете личност о којој треба добавити податке"
 
 #: XP_SEC_FORTEZZA_PERSON_NOT_FOUND
 msgid "Personality not found"
-msgstr ""
+msgstr "Личност није пронађена"
 
+# FIXME personality
 #: XP_SEC_FORTEZZA_NO_MORE_INFO
 msgid "No more information on that Personality"
-msgstr ""
+msgstr "Нема више пдоатака о тој личности"
 
 #: XP_SEC_FORTEZZA_BAD_PIN
 msgid "Invalid Pin"
-msgstr ""
+msgstr "Неисправан ПИН"
 
 #: XP_SEC_FORTEZZA_PERSON_ERROR
 msgid "Couldn't initialize Fortezza personalities."
-msgstr ""
+msgstr "Није могуће покренути фортецине (Fortezza) личности."
 
 #: SEC_ERROR_NO_KRL
 msgid "No KRL for this site's certificate has been found."
-msgstr ""
+msgstr "КРЛ (KRL) за сертификат овог сајта није пронађен."
 
 #: SEC_ERROR_KRL_EXPIRED
 msgid "The KRL for this site's certificate has expired."
-msgstr ""
+msgstr "КРЛ (KRL) за сертификат овог сајта је истекао."
 
 #: SEC_ERROR_KRL_BAD_SIGNATURE
 msgid "The KRL for this site's certificate has an invalid signature."
-msgstr ""
+msgstr "КРЛ (KRL) за сертификат овог сајта има неважећи потпис."
 
 #: SEC_ERROR_REVOKED_KEY
 msgid "The key for this site's certificate has been revoked."
-msgstr ""
+msgstr "Кључ за сертификат овог сајта је опозван."
 
 #: SEC_ERROR_KRL_INVALID
 msgid "New KRL has an invalid format."
-msgstr ""
+msgstr "Нови КРЛ (KRL) има неважећи формат."
 
 #: SEC_ERROR_NEED_RANDOM
 msgid "security library: need random data."
-msgstr ""
+msgstr "библиотека за безбедност: потребни су случајни подаци."
 
 #: SEC_ERROR_NO_MODULE
 msgid ""
 "security library: no security module can perform the requested operation."
-msgstr ""
+msgstr "библиотека за безбедност: ниједан безбедносни модул не може да изврши тражено дејство."
 
 #: SEC_ERROR_NO_TOKEN
 msgid ""
 "The security card or token does not exist, needs to be initialized, or has "
 "been removed."
-msgstr ""
+msgstr "Безбедносна карта или новчић не постоје, потребно је да се поставе, или су уклоњени."
 
 #: SEC_ERROR_READ_ONLY
 msgid "security library: read-only database."
-msgstr ""
+msgstr "библиотека за безбедност: база података је само за читање."
 
 #: SEC_ERROR_NO_SLOT_SELECTED
 msgid "No slot or token was selected."
-msgstr ""
+msgstr "Ниједан прорез ни новчић нису изабрани."
 
 #: SEC_ERROR_CERT_NICKNAME_COLLISION
 msgid "A certificate with the same nickname already exists."
-msgstr ""
+msgstr "Сертификат са истом ознаком већ постоји."
 
 #: SEC_ERROR_KEY_NICKNAME_COLLISION
 msgid "A key with the same nickname already exists."
-msgstr ""
+msgstr "Кључ са истом ознаком већ постоји."
 
 #: SEC_ERROR_SAFE_NOT_CREATED
 msgid "error while creating safe object"
-msgstr ""
+msgstr "грешка при прављењу безбедног објекта"
 
+# FIXME baggage object = ?
 #: SEC_ERROR_BAGGAGE_NOT_CREATED
 msgid "error while creating baggage object"
-msgstr ""
+msgstr "грешка при прављењу објекта пртљага"
 
+# FIXME principal = ?
 #: XP_JAVA_REMOVE_PRINCIPAL_ERROR
 msgid "Couldn't remove the principal"
-msgstr ""
+msgstr "Није могуће уклонити принципал"
 
 #: XP_JAVA_DELETE_PRIVILEGE_ERROR
 msgid "Couldn't delete the privilege"
-msgstr ""
+msgstr "Није могуће уклонити привилегију"
 
 #: XP_JAVA_CERT_NOT_EXISTS_ERROR
 msgid "This principal doesn't have a certificate"
-msgstr ""
+msgstr "Овај принципал нема сертификат"
 
 #: SEC_ERROR_BAD_EXPORT_ALGORITHM
 msgid "Required algorithm is not allowed."
-msgstr ""
+msgstr "Тражени алгоритам није допуштен."
 
 #: SEC_ERROR_EXPORTING_CERTIFICATES
 msgid "Error attempting to export certificates."
-msgstr ""
+msgstr "Грешка при извозу сертификата."
 
 #: SEC_ERROR_IMPORTING_CERTIFICATES
 msgid "Error attempting to import certificates."
-msgstr ""
+msgstr "Грешка при увозу сертификата."
 
 #: SEC_ERROR_PKCS12_DECODING_PFX
 msgid "Unable to import.  Decoding error.  File not valid."
-msgstr ""
+msgstr "Увоз није могуч.  Дошло је до грешке при декодовању.  Датотека је неважећа."
 
 #: SEC_ERROR_PKCS12_INVALID_MAC
 msgid "Unable to import.  Invalid MAC.  Incorrect password or corrupt file."
-msgstr ""
+msgstr "Увоз није могућ.  МАЦ (MAC) је неисправан.  Лозинка је неисправна или је датотека оштећена."
 
 #: SEC_ERROR_PKCS12_UNSUPPORTED_MAC_ALGORITHM
 msgid "Unable to import.  MAC algorithm not supported."
-msgstr ""
+msgstr "Увоз није могућ.  Алгоритам за МАЦ (MAC) није подржан."
 
 #: SEC_ERROR_PKCS12_UNSUPPORTED_TRANSPORT_MODE
 msgid "Unable to import.  Only password integrity and privacy modes supported."
-msgstr ""
+msgstr "Увоз није могућ.  Само су подржани модови са интегритетом лозинке и приватности."
 
+# FIXME corrupt = поремећена
 #: SEC_ERROR_PKCS12_CORRUPT_PFX_STRUCTURE
 msgid "Unable to import.  File structure is corrupt."
-msgstr ""
+msgstr "Увоз није могућ.  Структура датотеке је поремећена."
 
 #: SEC_ERROR_PKCS12_UNSUPPORTED_PBE_ALGORITHM
 msgid "Unable to import.  Encryption algorithm not supported."
-msgstr ""
+msgstr "Увоз није могућ.  Алгоритми за шифровање нису подржани."
 
 #: SEC_ERROR_PKCS12_UNSUPPORTED_VERSION
 msgid "Unable to import.  File version not supported."
-msgstr ""
+msgstr "Увоз није могућ.  Издање датотеке није подржано."
 
 #: SEC_ERROR_PKCS12_PRIVACY_PASSWORD_INCORRECT
 msgid "Unable to import.  Incorrect privacy password."
-msgstr ""
+msgstr "Увоз није могућ.  Неисправна лозинка за приватност."
 
 #: SEC_ERROR_PKCS12_CERT_COLLISION
 msgid "Unable to import.  Same nickname already exists in database."
-msgstr ""
+msgstr "Увоз није могућ.  Исто име већ постоји у бази података."
 
 #: SEC_ERROR_USER_CANCELLED
 msgid "The user pressed cancel."
-msgstr ""
+msgstr "Корисник је отказао дејство."
 
 #: SEC_ERROR_PKCS12_DUPLICATE_DATA
 msgid "Not imported, already in database."
@@ -836,260 +840,260 @@ msgstr ""
 
 #: SEC_ERROR_MESSAGE_SEND_ABORTED
 msgid "Message not sent."
-msgstr ""
+msgstr "Порука није послата."
 
 #: SEC_ERROR_INADEQUATE_KEY_USAGE
 msgid "Certificate key usage inadequate for attempted operation."
-msgstr ""
+msgstr "Употреба кључа сертификата не одговара покушаном дејству."
 
 #: SEC_ERROR_INADEQUATE_CERT_TYPE
 msgid "Certificate type not approved for application."
-msgstr ""
+msgstr "Врста сертификата није одобрена за ову примену."
 
 #: SEC_ERROR_CERT_ADDR_MISMATCH
 msgid ""
 "Address in signing certificate does not match address in message headers."
-msgstr ""
+msgstr "Адреса у потписном сертификату не одговара адреси у заглављима поруке."
 
 #: SEC_ERROR_PKCS12_UNABLE_TO_IMPORT_KEY
 msgid "Unable to import.  Error attempting to import private key."
-msgstr ""
+msgstr "Увоз није могућ.  Грешка при увозу приватног кључа."
 
 #: SEC_ERROR_PKCS12_IMPORTING_CERT_CHAIN
 msgid "Unable to import.  Error attempting to import certificate chain."
-msgstr ""
+msgstr "Увоз није могућ.  Грешка при увозу ланца сертификата."
 
 #: SEC_ERROR_PKCS12_UNABLE_TO_LOCATE_OBJECT_BY_NAME
 msgid "Unable to export.  Unable to locate certificate or key by nickname."
-msgstr ""
+msgstr "Увоз није могућ.  Није могуће пронаћи сертификат или кључ по имену."
 
 #: SEC_ERROR_PKCS12_UNABLE_TO_EXPORT_KEY
 msgid "Unable to export.  Private Key could not be located and exported."
-msgstr ""
+msgstr "Извоз није могућ.  Приватни кључ није пронађен."
 
 #: SEC_ERROR_PKCS12_UNABLE_TO_WRITE
 msgid "Unable to export.  Unable to write the export file."
-msgstr ""
+msgstr "Извоз није могућ.  Није могуће записати извозну датотеку."
 
 #: SEC_ERROR_PKCS12_UNABLE_TO_READ
 msgid "Unable to import.  Unable to read the import file."
-msgstr ""
+msgstr "Увоз није могућ.  Није могуће прочитати увозну датотеку."
 
 #: SEC_ERROR_PKCS12_KEY_DATABASE_NOT_INITIALIZED
 msgid "Unable to export.  Key database corrupt or deleted."
-msgstr ""
+msgstr "Извоз није могућ.  База кључева је оштећена или уклоњена."
 
 #: SEC_ERROR_KEYGEN_FAIL
 msgid "Unable to generate public/private key pair."
-msgstr ""
+msgstr "Није могуће направити пар јавног и тајног кључа."
 
 #: SEC_ERROR_INVALID_PASSWORD
 msgid "Password entered is invalid.  Please pick a different one."
-msgstr ""
+msgstr "Унесена лозинка је неважећа.  Молимо да изаберете неку другу."
 
 #: SEC_ERROR_RETRY_OLD_PASSWORD
 msgid "Old password entered incorrectly.  Please try again."
-msgstr ""
+msgstr "Стара лозинка је неисправно унета.  Молимо да пробате поново."
 
 #: SEC_ERROR_BAD_NICKNAME
 msgid "Certificate nickname already in use."
-msgstr ""
+msgstr "То име за сертификат се већ користи."
 
 #: SEC_ERROR_NOT_FORTEZZA_ISSUER
 msgid "Peer FORTEZZA chain has a non-FORTEZZA Certificate."
-msgstr ""
+msgstr "Удаљени фортеца (Fortezza) ланац има сертификат који није фортеца."
 
 #: SEC_ERROR_CANNOT_MOVE_SENSITIVE_KEY
 msgid "A sensitive key cannot be moved to the slot where it is needed."
-msgstr ""
+msgstr "Поверљив кључ се не може померити до браве за коју је неопходан."
 
 #: SEC_ERROR_JS_INVALID_MODULE_NAME
 msgid "Invalid module name."
-msgstr ""
+msgstr "Неисправно име модула."
 
 #: SEC_ERROR_JS_INVALID_DLL
 msgid "Invalid module path/filename"
-msgstr ""
+msgstr "Неисправна стаза или име датотеке за модул"
 
 #: SEC_ERROR_JS_ADD_MOD_FAILURE
 msgid "Unable to add module"
-msgstr ""
+msgstr "Није могуће додати модул."
 
 #: SEC_ERROR_JS_DEL_MOD_FAILURE
 msgid "Unable to delete module"
-msgstr ""
+msgstr "Није могуће уклонити модул."
 
 #: SEC_ERROR_OLD_KRL
 msgid "New KRL is not later than the current one."
-msgstr ""
+msgstr "Нови КРЛ (KRL) није старији од тренутног."
 
 #: SEC_ERROR_CKL_CONFLICT
 msgid "New CKL has different issuer than current CKL.  Delete current CKL."
-msgstr ""
+msgstr "Нови ЦКЛ (CKL) има другог издавача од тренутног ЦКЛа.  Уклоните тренутни ЦКЛ."
 
 #: SEC_ERROR_CERT_NOT_IN_NAME_SPACE
 msgid ""
 "The Certifying Authority for this certificate is not permitted to issue a "
 "certificate with this name."
-msgstr ""
+msgstr "Ауторитет за сертифицирање за овај сертификат не сме да издаје сертификат са овим именом."
 
 #: SEC_ERROR_KRL_NOT_YET_VALID
 msgid "The key revocation list for this certificate is not yet valid."
-msgstr ""
+msgstr "Списак опозваних кључева за овај сертификат још није важећи."
 
 #: SEC_ERROR_CRL_NOT_YET_VALID
 msgid "The certificate revocation list for this certificate is not yet valid."
-msgstr ""
+msgstr "Списак опозваних сертификата за овај сертификат још није важећи."
 
 #: SEC_ERROR_UNKNOWN_CERT
 msgid "The requested certificate could not be found."
-msgstr ""
+msgstr "Тражени сертификат није пронађен."
 
 #: SEC_ERROR_UNKNOWN_SIGNER
 msgid "The signer's certificate could not be found."
-msgstr ""
+msgstr "Потписников сертификат није пронађен."
 
 #: SEC_ERROR_CERT_BAD_ACCESS_LOCATION
 msgid "The location for the certificate status server has invalid format."
-msgstr ""
+msgstr "Место за статусни сервер сертификата има неисправан формат."
 
 #: SEC_ERROR_OCSP_UNKNOWN_RESPONSE_TYPE
 msgid "The OCSP response cannot be fully decoded; it is of an unknown type."
-msgstr ""
+msgstr "ОЦСП (OCSP) одговор није могуће потпуно декодирати; врста сертификата је непозната."
 
 #: SEC_ERROR_OCSP_BAD_HTTP_RESPONSE
 msgid "The OCSP server returned unexpected/invalid HTTP data."
-msgstr ""
+msgstr "Сервер за ОЦСП (OCSP) је вратио неочекиване или неважеће податке кроз ХТТП."
 
 #: SEC_ERROR_OCSP_MALFORMED_REQUEST
 msgid "The OCSP server found the request to be corrupted or improperly formed."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер је установио да је захтев оштећен или неисправно образован."
 
 #: SEC_ERROR_OCSP_SERVER_ERROR
 msgid "The OCSP server experienced an internal error."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер је искусио интерну грешку."
 
 #: SEC_ERROR_OCSP_TRY_SERVER_LATER
 msgid "The OCSP server suggests trying again later."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер предлаже ад пробате касније опет."
 
 #: SEC_ERROR_OCSP_REQUEST_NEEDS_SIG
 msgid "The OCSP server requires a signature on this request."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер тражи потпи на овом захтеву."
 
 #: SEC_ERROR_OCSP_UNAUTHORIZED_REQUEST
 msgid "The OCSP server has refused this request as unauthorized."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер је одбио овај захтев као неовлашћен."
 
 #: SEC_ERROR_OCSP_UNKNOWN_RESPONSE_STATUS
 msgid "The OCSP server returned an unrecognizable status."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер је вратио статусни код који није препознат."
 
 #: SEC_ERROR_OCSP_UNKNOWN_CERT
 msgid "The OCSP server has no status for the certificate."
-msgstr ""
+msgstr "ОЦСП (OCSP) сервер нема статусни код за овај сертификат."
 
 #: SEC_ERROR_OCSP_NOT_ENABLED
 msgid "You must enable OCSP before performing this operation."
-msgstr ""
+msgstr "Морате да укључите ОЦСП (OCSP) пре него што изведете ово дејство."
 
 #: SEC_ERROR_OCSP_NO_DEFAULT_RESPONDER
 msgid ""
 "You must set the OCSP default responder before performing this operation."
-msgstr ""
+msgstr "Морате да поставите изворни респондер пре него што изведете ово дејство."
 
 #: SEC_ERROR_OCSP_MALFORMED_RESPONSE
 msgid "The response from the OCSP server was corrupted or improperly formed."
-msgstr ""
+msgstr "Одговор сервера за ОЦСП (OCSP) је оштећен или неисправно образован."
 
 #: SEC_ERROR_OCSP_UNAUTHORIZED_RESPONSE
 msgid ""
 "The signer of the OCSP response is not authorized to give status for this "
 "certificate."
-msgstr ""
+msgstr "Потписник овог одговора за ОЦСП (OCSP) није овлашћен да да статус овог сертификата."
 
 #: SEC_ERROR_OCSP_FUTURE_RESPONSE
 msgid "The OCSP response is not yet valid (contains a date in the future)."
-msgstr ""
+msgstr "ОЦСП (OCSP) одговор још увек није важећи (садржи будући датум)."
 
 #: SEC_ERROR_OCSP_OLD_RESPONSE
 msgid "The OCSP response contains out-of-date information."
-msgstr ""
+msgstr "ОЦСП (OCSP) одговор садржи застареле податке."
 
 #: SEC_ERROR_DIGEST_NOT_FOUND
 msgid "The CMS or PKCS #7 Digest was not found in signed message."
-msgstr ""
+msgstr "Сажеци ЦМС (CMS) или ПКЦС #7 (PKCS #7) нису пронађени у потписаној поруци."
 
 #: SEC_ERROR_UNSUPPORTED_MESSAGE_TYPE
 msgid "The CMS or PKCS #7 Message type is unsupported."
-msgstr ""
+msgstr "Врсте порука ЦМС (CMS) или ПКЦС #7 (PKCS #7) нису подржане."
 
 #: SEC_ERROR_MODULE_STUCK
 msgid "PKCS #11 module could not be removed because it is still in use."
-msgstr ""
+msgstr "Модул ПКЦС #11 (PKCS #11) није могао да буде уклоњен јер се још увек користи."
 
 #: SEC_ERROR_BAD_TEMPLATE
 msgid "Could not decode ASN.1 data. Specified template was invalid."
-msgstr ""
+msgstr "Није могуће декодовати податке за АСН.1 (ASN.1).  Назначени образац је неважећи."
 
 #: SEC_ERROR_CRL_NOT_FOUND
 msgid "No matching CRL was found."
-msgstr ""
+msgstr "Ниједан одговарајући ЦРЛ (CRL) није пронађен."
 
 #: SEC_ERROR_REUSED_ISSUER_AND_SERIAL
 msgid ""
 "You are attempting to import a cert with the same issuer/serial as an "
 "existing cert, but that is not the same cert."
-msgstr ""
+msgstr "Покушавате да увезете сертификат који има истог издавача и серијски број као постојећи сертификат, али та два сертификата нису идентична."
 
 #: SEC_ERROR_BUSY
 msgid "NSS could not shutdown. Objects are still in use."
-msgstr ""
+msgstr "НСС (NSS) није могао да буде искључен.  Објекти се и даље користе."
 
 #: SEC_ERROR_EXTRA_INPUT
 msgid "DER-encoded message contained extra unused data."
-msgstr ""
+msgstr "Порука кодирана помоћу ДЕРа (DER) садржала је вишак неискоришћених података."
 
 #: SEC_ERROR_UNSUPPORTED_ELLIPTIC_CURVE
 msgid "Unsupported elliptic curve."
-msgstr ""
+msgstr "Неподржана елиптичка крива."
 
 #: SEC_ERROR_UNSUPPORTED_EC_POINT_FORM
 msgid "Unsupported elliptic curve point form."
-msgstr ""
+msgstr "Неподржан тачкаст облик елиптичке криве."
 
 #: SEC_ERROR_UNRECOGNIZED_OID
 msgid "Unrecognized Object Identifier."
-msgstr ""
+msgstr "Непознат идентификатор објеката."
 
 #: SEC_ERROR_OCSP_INVALID_SIGNING_CERT
 msgid "Invalid OCSP signing certificate in OCSP response."
-msgstr ""
+msgstr "Неисправан ОЦСП (OCSP) потписни сертификат у ОЦСП (OCSP) одговору."
 
 #: SEC_ERROR_REVOKED_CERTIFICATE_CRL
 msgid "Certificate is revoked in issuer's certificate revocation list."
-msgstr ""
+msgstr "Сертификат је опозван помоћу издавачевог списка опозваних сертификата."
 
 #: SEC_ERROR_REVOKED_CERTIFICATE_OCSP
 msgid "Issuer's OCSP responder reports certificate is revoked."
-msgstr ""
+msgstr "Издавачев сертификат за ОЦСП (OCSP) је опозван."
 
 #: SEC_ERROR_CRL_INVALID_VERSION
 msgid "Issuer's Certificate Revocation List has an unknown version number."
-msgstr ""
+msgstr "Издавачев списак опозваних сертификата (ЦРЛ, CRL) носи непознат број издања."
 
 #: SEC_ERROR_CRL_V1_CRITICAL_EXTENSION
 msgid "Issuer's V1 Certificate Revocation List has a critical extension."
-msgstr ""
+msgstr "Издавачев списак опозваних сертификата В1 (V1) има критчно продужење."
 
 #: SEC_ERROR_CRL_UNKNOWN_CRITICAL_EXTENSION
 msgid ""
 "Issuer's V2 Certificate Revocation List has an unknown critical extension."
-msgstr ""
+msgstr "Издавачев списак опозваних сертификата В2 (V2) има непознато критчно продужење."
 
 #: SEC_ERROR_UNKNOWN_OBJECT_TYPE
 msgid "Unknown object type specified."
-msgstr ""
+msgstr "Назначена је непозната врста објекта."
 
 #: SEC_ERROR_INCOMPATIBLE_PKCS11
 msgid "PKCS #11 driver violates the spec in an incompatible way."

@@ -1,5 +1,8 @@
 2008-04-02  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:
+	Completed translation.
+
 	*po/sr/browser/chrome/browser/browser.dtd.po: Updated from CVS.
 	po/sr/toolkit/chrome/mozapps/profile/profileSelection.properties.po:
 	sanitized. 
