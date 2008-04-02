@@ -1,5 +1,9 @@
 2008-04-02  Filip Miletic  <filmil@gmail.com>
 
+	*po/sr/browser/chrome/browser/browser.dtd.po: Updated from CVS.
+	po/sr/toolkit/chrome/mozapps/profile/profileSelection.properties.po:
+	sanitized. 
+
 	* po/sr/toolkit/chrome/mozapps/plugins/plugins.dtd.po: Synced
 	button and static text.
 

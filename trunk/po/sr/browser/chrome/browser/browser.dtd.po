@@ -1,20 +1,22 @@
-# extracted from source/sr-RS/browser/chrome/browser/browser.dtd
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-04-01 22:07+0200\n"
+"PO-Revision-Date: 2008-04-02 21:10+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
-#: tabCmd.label tabCmd.accesskey
+# XXX remove below if places sticks
+# new bookmarks and history
+
+#: tabCmd.label
+#: tabCmd.accesskey
 msgid "New &Tab"
 msgstr "Нови &језичак"
 
@@ -22,11 +24,13 @@ msgstr "Нови &језичак"
 msgid "t"
 msgstr "t"
 
-#: openLocationCmd.label openLocationCmd.accesskey
+#: openLocationCmd.label
+#: openLocationCmd.accesskey
 msgid "Open &Location…"
 msgstr "Отвори &адресу…"
 
-#: openFileCmd.label openFileCmd.accesskey
+#: openFileCmd.label
+#: openFileCmd.accesskey
 msgid "&Open File…"
 msgstr "&Отвори датотеку…"
 
@@ -34,35 +38,44 @@ msgstr "&Отвори датотеку…"
 msgid "o"
 msgstr "o"
 
-#: printSetupCmd.label printSetupCmd.accesskey
+#: printSetupCmd.label
+#: printSetupCmd.accesskey
 msgid "Page Set&up…"
 msgstr "По&деси страницу…"
 
-#: printPreviewCmd.label printPreviewCmd.accesskey
+#: printPreviewCmd.label
+#: printPreviewCmd.accesskey
 msgid "Print Pre&view"
 msgstr "&Преглед пре штампе"
 
-#: printCmd.label printCmd.accesskey
+#: printCmd.label
+#: printCmd.accesskey
 msgid "&Print…"
 msgstr "&Штампа…"
 
-#: printCmd.commandkey allowPopups.accesskey
+#: printCmd.commandkey
+#: allowPopups.accesskey
+msgctxt "printCmd.commandkey"
 msgid "p"
 msgstr "p"
 
-#: import.label import.accesskey
+#: import.label
+#: import.accesskey
 msgid "&Import…"
 msgstr "&Увоз…"
 
-#: goOfflineCmd.label goOfflineCmd.accesskey
+#: goOfflineCmd.label
+#: goOfflineCmd.accesskey
 msgid "&Work Offline"
 msgstr "Рад &ван мреже"
 
-#: navbarCmd.label navbarCmd.accesskey
+#: navbarCmd.label
+#: navbarCmd.accesskey
 msgid "&Navigation Toolbar"
 msgstr "&Трака за навигацију"
 
-#: personalbarCmd.label personalbarCmd.accesskey
+#: personalbarCmd.label
+#: personalbarCmd.accesskey
 msgid "&Bookmarks Toolbar"
 msgstr "Трака са &забелешкама"
 
@@ -70,11 +83,13 @@ msgstr "Трака са &забелешкама"
 msgid "Bookmarks Toolbar Items"
 msgstr "Забележи ставке из алатне траке"
 
-#: taskbarCmd.label taskbarCmd.accesskey
+#: taskbarCmd.label
+#: taskbarCmd.accesskey
 msgid "Status &Bar"
 msgstr "&Статусна трака"
 
-#: pageSourceCmd.label pageSourceCmd.accesskey
+#: pageSourceCmd.label
+#: pageSourceCmd.accesskey
 msgid "Page S&ource"
 msgstr "Изворни &код стране"
 
@@ -82,15 +97,19 @@ msgstr "Изворни &код стране"
 msgid "u"
 msgstr "u"
 
-#: pageInfoCmd.label pageInfoCmd.accesskey
+#: pageInfoCmd.label
+#: pageInfoCmd.accesskey
 msgid "Page &Info"
 msgstr "По&даци о страни"
 
-#: pageInfoCmd.commandkey bookmarksSidebarWinCmd.commandkey
+#: pageInfoCmd.commandkey
+#: bookmarksSidebarWinCmd.commandkey
+msgctxt "pageInfoCmd.commandkey"
 msgid "i"
 msgstr "i"
 
-#: fullScreenCmd.label fullScreenCmd.accesskey
+#: fullScreenCmd.label
+#: fullScreenCmd.accesskey
 msgid "&Full Screen"
 msgstr "Користи &цео екран"
 
@@ -106,19 +125,23 @@ msgstr "Врати"
 msgid "Close"
 msgstr "Затвори"
 
-#: fullScreenAutohide.label fullScreenAutohide.accesskey
+#: fullScreenAutohide.label
+#: fullScreenAutohide.accesskey
 msgid "&Hide Toolbars"
 msgstr "Уклони алатне &траке"
 
-#: fullScreenExit.label fullScreenExit.accesskey
+#: fullScreenExit.label
+#: fullScreenExit.accesskey
 msgid "Exit &Full Screen Mode"
 msgstr "О&бустави приказ на целом екрану"
 
-#: closeWindow.label closeWindow.accesskey
+#: closeWindow.label
+#: closeWindow.accesskey
 msgid "Close Win&dow"
 msgstr "&Затвори прозор"
 
-#: bookmarksMenu.label bookmarksMenu.accesskey
+#: bookmarksMenu.label
+#: bookmarksMenu.accesskey
 msgid "&Bookmarks"
 msgstr "&Забелешке"
 
@@ -126,7 +149,9 @@ msgstr "&Забелешке"
 msgid "Bookmark This Page"
 msgstr "Забележи ову страну"
 
-#: bookmarkThisPageCmd.commandkey urlbar.accesskey
+#: bookmarkThisPageCmd.commandkey
+#: urlbar.accesskey
+msgctxt "bookmarkThisPageCmd.commandkey"
 msgid "d"
 msgstr "b"
 
@@ -138,15 +163,24 @@ msgstr "Претплата на ову страну"
 msgid "Subscribe to This Page…"
 msgstr "Претплата на ову страну…"
 
-#: addCurPagesCmd.label bookmarkAllCmd.label
+#: addCurPagesCmd.label
+#: bookmarkAllCmd.label
+msgctxt "addCurPagesCmd.label"
 msgid "Bookmark All Tabs…"
 msgstr "Забележи све језичке…"
 
-#: showAllBookmarksCmd2.label
-msgid "Organize Bookmarks"
-msgstr "Уреди забелешке"
+#: organizeBookmarks.label
+msgid "Organize Bookmarks…"
+msgstr "Уреди забелешке…"
 
-#: backCmd.label backCmd.accesskey
+#: bookmarkAllCmd.label
+#: addCurPagesCmd.label
+msgctxt "bookmarkAllCmd.label"
+msgid "Bookmark All Tabs…"
+msgstr "Забележи све језичке…"
+
+#: backCmd.label
+#: backCmd.accesskey
 msgid "&Back"
 msgstr "На&зад"
 
@@ -154,7 +188,8 @@ msgstr "На&зад"
 msgid "Go back one page"
 msgstr "На претходну страну"
 
-#: forwardCmd.label forwardCmd.accesskey
+#: forwardCmd.label
+#: forwardCmd.accesskey
 msgid "&Forward"
 msgstr "На&пред"
 
@@ -162,7 +197,12 @@ msgstr "На&пред"
 msgid "Go forward one page"
 msgstr "На наредну страну"
 
-#: reloadCmd.label reloadCmd.accesskey
+#: backForwardMenu.tooltip
+msgid "Recent pages"
+msgstr "Недавне стране"
+
+#: reloadCmd.label
+#: reloadCmd.accesskey
 msgid "&Reload"
 msgstr "&Обнови"
 
@@ -170,7 +210,8 @@ msgstr "&Обнови"
 msgid "Reload current page"
 msgstr "Обнови текућу страну"
 
-#: stopCmd.label stopCmd.accesskey
+#: stopCmd.label
+#: stopCmd.accesskey
 msgid "&Stop"
 msgstr "Зау&стави"
 
@@ -206,27 +247,46 @@ msgstr "Претрага"
 msgid "Activity Indicator"
 msgstr "Показатељ активности"
 
-#: bookmarksItem.title bookmarksButton.label
+#: bookmarksItem.title
+#: bookmarksButton.label
+msgctxt "bookmarksItem.title"
 msgid "Bookmarks"
 msgstr "Забелешке"
 
 # Toolbar items
 # XXX places only
-#: homeButton.label historyHomeCmd.label
+#. Toolbar items
+#: homeButton.label
+#: historyHomeCmd.label
+msgctxt "homeButton.label"
 msgid "Home"
 msgstr "Почетак"
+
+#: bookmarksButton.label
+#: bookmarksItem.title
+msgctxt "bookmarksButton.label"
+msgid "Bookmarks"
+msgstr "Забелешке"
 
 #: bookmarksButton.tooltip
 msgid "Display your bookmarks"
 msgstr "Приказује ваше забелешке"
 
-#: bookmarksSidebarCmd.accesskey blockImageCmd.accesskey
+#: bookmarksSidebarCmd.accesskey
+#: blockImageCmd.accesskey
+msgctxt "bookmarksSidebarCmd.accesskey"
 msgid "B"
 msgstr "B"
 
 #: bookmarksSidebarCmd.commandkey
 msgid "b"
 msgstr "b"
+
+#: bookmarksSidebarWinCmd.commandkey
+#: pageInfoCmd.commandkey
+msgctxt "bookmarksSidebarWinCmd.commandkey"
+msgid "i"
+msgstr "i"
 
 # XXX historyMenu entities are used with or without places (bug 336058)
 #: historyButton.label
@@ -237,7 +297,9 @@ msgstr "Историјат"
 msgid "Display pages you've viewed recently"
 msgstr "Приказује списак недавно посећених страна"
 
-#: historySidebarCmd.accesskey savePageCmd.commandkey
+#: historySidebarCmd.accesskey
+#: savePageCmd.commandkey
+msgctxt "historySidebarCmd.accesskey"
 msgid "s"
 msgstr "s"
 
@@ -245,19 +307,23 @@ msgstr "s"
 msgid "h"
 msgstr "h"
 
-#: toolsMenu.label toolsMenu.accesskey
+#: toolsMenu.label
+#: toolsMenu.accesskey
 msgid "&Tools"
 msgstr "Ала&ти"
 
-#: keywordfield.label keywordfield.accesskey
+#: keywordfield.label
+#: keywordfield.accesskey
 msgid "Add a &Keyword for this Search…"
 msgstr "Додај &кључну реч за ову претрагу…"
 
-#: search.label search.accesskey
+#: search.label
+#: search.accesskey
 msgid "Web &Search"
 msgstr "Претрага &веб сајта"
 
-#: downloads.label downloads.accesskey
+#: downloads.label
+#: downloads.accesskey
 msgid "&Downloads"
 msgstr "&Пријеми"
 
@@ -265,7 +331,10 @@ msgstr "&Пријеми"
 msgid "Display the progress of ongoing downloads"
 msgstr "Прикажи напредак пријема"
 
-#: downloads.commandkey errorConsoleCmd.commandkey searchFocusUnix.commandkey
+#: downloads.commandkey
+#: errorConsoleCmd.commandkey
+#: searchFocusUnix.commandkey
+msgctxt "downloads.commandkey"
 msgid "j"
 msgstr "j"
 
@@ -273,7 +342,8 @@ msgstr "j"
 msgid "y"
 msgstr "y"
 
-#: addons.label addons.accesskey
+#: addons.label
+#: addons.accesskey
 msgid "&Add-ons"
 msgstr "&Додаци"
 
@@ -281,15 +351,25 @@ msgstr "&Додаци"
 msgid "Show and Manage installed Add-ons"
 msgstr "Приказ и управљање постављеним додацима"
 
-#: errorConsoleCmd.label errorConsoleCmd.accesskey
+#: errorConsoleCmd.label
+#: errorConsoleCmd.accesskey
 msgid "Error &Console"
 msgstr "Конзола за &грешке"
 
-#: fileMenu.label fileMenu.accesskey
+#: errorConsoleCmd.commandkey
+#: downloads.commandkey
+#: searchFocusUnix.commandkey
+msgctxt "errorConsoleCmd.commandkey"
+msgid "j"
+msgstr "j"
+
+#: fileMenu.label
+#: fileMenu.accesskey
 msgid "&File"
 msgstr "&Датотека"
 
-#: newNavigatorCmd.label newNavigatorCmd.accesskey
+#: newNavigatorCmd.label
+#: newNavigatorCmd.accesskey
 msgid "&New Window"
 msgstr "&Нови прозор"
 
@@ -297,12 +377,16 @@ msgstr "&Нови прозор"
 msgid "N"
 msgstr "N"
 
-#: editMenu.label editMenu.accesskey
+#: editMenu.label
+#: editMenu.accesskey
 msgid "&Edit"
 msgstr "&Уреди"
 
-#: undoCmd.label undoCmd.accesskey editBookmark.undo.label
+#: undoCmd.label
+#: undoCmd.accesskey
+#: editBookmark.undo.label
 #: editBookmark.undo.accessKey
+msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
 msgstr "Опо&зови"
 
@@ -310,7 +394,8 @@ msgstr "Опо&зови"
 msgid "Z"
 msgstr "z"
 
-#: redoCmd.label redoCmd.accesskey
+#: redoCmd.label
+#: redoCmd.accesskey
 msgid "&Redo"
 msgstr "&Понови"
 
@@ -318,15 +403,19 @@ msgstr "&Понови"
 msgid "Y"
 msgstr "Y"
 
-#: cutCmd.label cutCmd.accesskey
+#: cutCmd.label
+#: cutCmd.accesskey
 msgid "Cu&t"
 msgstr "&Исеци"
 
-#: cutCmd.key bidiSwitchTextDirectionItem.commandkey
+#: cutCmd.key
+#: bidiSwitchTextDirectionItem.commandkey
+msgctxt "cutCmd.key"
 msgid "X"
 msgstr "X"
 
-#: copyCmd.label copyCmd.accesskey
+#: copyCmd.label
+#: copyCmd.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
@@ -334,7 +423,8 @@ msgstr "&Умножи"
 msgid "C"
 msgstr "C"
 
-#: pasteCmd.label pasteCmd.accesskey
+#: pasteCmd.label
+#: pasteCmd.accesskey
 msgid "&Paste"
 msgstr "У&баци"
 
@@ -342,15 +432,19 @@ msgstr "У&баци"
 msgid "V"
 msgstr "V"
 
-#: deleteCmd.label deleteCmd.accesskey
+#: deleteCmd.label
+#: deleteCmd.accesskey
 msgid "&Delete"
 msgstr "&Обриши"
 
-#: deleteCmd.key dontShowMessage.accesskey
+#: deleteCmd.key
+#: dontShowMessage.accesskey
+msgctxt "deleteCmd.key"
 msgid "D"
 msgstr "D"
 
-#: selectAllCmd.label selectAllCmd.accesskey
+#: selectAllCmd.label
+#: selectAllCmd.accesskey
 msgid "Select &All"
 msgstr "Изабери &све"
 
@@ -358,42 +452,58 @@ msgstr "Изабери &све"
 msgid "A"
 msgstr "A"
 
-#: preferencesCmd.label preferencesCmd.accesskey
+#: preferencesCmd.label
+#: preferencesCmd.accesskey
 msgid "&Options…"
 msgstr "&Опције…"
 
-#: preferencesCmdUnix.label preferencesCmdUnix.accesskey
+#: preferencesCmdUnix.label
+#: preferencesCmdUnix.accesskey
 msgid "Prefere&nces"
 msgstr "Поде&шавања"
 
-#: clearPrivateDataCmd.label clearPrivateDataCmd.accesskey
+#: clearPrivateDataCmd.label
+#: clearPrivateDataCmd.accesskey
 msgid "Clear &Private Data"
 msgstr "Уклони &приватне податке"
 
-#: viewMenu.label viewMenu.accesskey
+#: viewMenu.label
+#: viewMenu.accesskey
 msgid "&View"
 msgstr "П&реглед"
 
-#: viewToolbarsMenu.label viewToolbarsMenu.accesskey
+#: viewToolbarsMenu.label
+#: viewToolbarsMenu.accesskey
 msgid "&Toolbars"
 msgstr "П&анели алата"
 
-#: viewSidebarMenu.label viewSidebarMenu.accesskey
+#: viewSidebarMenu.label
+#: viewSidebarMenu.accesskey
 msgid "Sid&ebar"
 msgstr "Бо&чна трака"
 
-#: viewCustomizeToolbar.label viewCustomizeToolbar.accesskey
+#: viewCustomizeToolbar.label
+#: viewCustomizeToolbar.accesskey
 msgid "&Customize…"
 msgstr "&Прилагоди…"
 
 # XXX historyMenu entities are used with or without places (bug 336058)
-#: historyMenu.label historyMenu.accesskey
+#: historyMenu.label
+#: historyMenu.accesskey
 msgid "Hi&story"
 msgstr "&Историјат"
 
 #: historyUndoMenu.label
 msgid "Recently Closed Tabs"
 msgstr "Недавно затворени језичци"
+
+# Toolbar items
+# XXX places only
+#: historyHomeCmd.label
+#: homeButton.label
+msgctxt "historyHomeCmd.label"
+msgid "Home"
+msgstr "Почетак"
 
 #: showAllHistoryCmd2.label
 msgid "Show All History"
@@ -411,53 +521,87 @@ msgstr "l"
 msgid "Search Bookmarks and History"
 msgstr "Прикажи белешке и историјат"
 
-# 
+#: urlbar.accesskey
+#: bookmarkThisPageCmd.commandkey
+msgctxt "urlbar.accesskey"
+msgid "d"
+msgstr "b"
+
+#
 # Comment duplicated from browser-sets.inc:
-# 
+#
 # Search Command Key Logic works like this:
-# 
+#
 # Unix: Ctrl+J (0.8, 0.9 support)
 # Ctrl+K (cross platform binding)
 # Mac:  Ctrl+K (cross platform binding)
 # Win:  Ctrl+K (cross platform binding)
 # Ctrl+E (IE compat)
-# 
+#
 # We support Ctrl+K on all platforms now and advertise it in the menu since it is
 # our standard - it is a "safe" choice since it is near no harmful keys like "W" as
 # "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
 # system setting to use emacs emulation, and we should respect it. Focus-Search-Box
 # is a fundamental keybinding and we are maintaining a XP binding so that it is easy
 # for people to switch to Linux.
-# 
-# Do *not* tamper with these values without talking to ben@mozilla.org
-# 
-# 
 #
+# Do *not* tamper with these values without talking to ben@mozilla.org
+#
+#
+#
+#. Comment duplicated from browser-sets.inc:
+#. Search Command Key Logic works like this:
+#. Unix: Ctrl+J (0.8, 0.9 support)
+#. Ctrl+K (cross platform binding)
+#. Mac:  Ctrl+K (cross platform binding)
+#. Win:  Ctrl+K (cross platform binding)
+#. Ctrl+E (IE compat)
+#. We support Ctrl+K on all platforms now and advertise it in the menu since it is
+#. our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+#. "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+#. system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+#. is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+#. for people to switch to Linux.
+#. Do *not* tamper with these values without talking to ben@mozilla.org
 #: searchFocus.commandkey
 msgid "k"
 msgstr "k"
 
-#: searchFocus.commandkey2 viewPartialSourceCmd.accesskey
+#: searchFocus.commandkey2
+#: viewPartialSourceCmd.accesskey
+msgctxt "searchFocus.commandkey2"
 msgid "e"
 msgstr "e"
 
-#: openLinkCmd.label openLinkCmd.accesskey
+#: searchFocusUnix.commandkey
+#: downloads.commandkey
+#: errorConsoleCmd.commandkey
+msgctxt "searchFocusUnix.commandkey"
+msgid "j"
+msgstr "j"
+
+#: openLinkCmd.label
+#: openLinkCmd.accesskey
 msgid "Open Link in New &Window"
 msgstr "Отвори у новом &прозору"
 
-#: openLinkCmdInTab.label openLinkCmdInTab.accesskey
+#: openLinkCmdInTab.label
+#: openLinkCmdInTab.accesskey
 msgid "Open Link in New &Tab"
 msgstr "Отвори у новом &језичку"
 
-#: openFrameCmd.label openFrameCmd.accesskey
+#: openFrameCmd.label
+#: openFrameCmd.accesskey
 msgid "Open Frame in New &Window"
 msgstr "Отвори оквир у новом &прозору"
 
-#: openFrameCmdInTab.label openFrameCmdInTab.accesskey
+#: openFrameCmdInTab.label
+#: openFrameCmdInTab.accesskey
 msgid "Open Frame in New &Tab"
 msgstr "Отвори о&квир у новом језичку"
 
-#: showOnlyThisFrameCmd.label showOnlyThisFrameCmd.accesskey
+#: showOnlyThisFrameCmd.label
+#: showOnlyThisFrameCmd.accesskey
 msgid "&Show Only This Frame"
 msgstr "При&кажи само овај оквир"
 
@@ -465,7 +609,8 @@ msgstr "При&кажи само овај оквир"
 msgid "r"
 msgstr "r"
 
-#: reloadFrameCmd.label reloadFrameCmd.accesskey
+#: reloadFrameCmd.label
+#: reloadFrameCmd.accesskey
 msgid "&Reload Frame"
 msgstr "&Обнови оквир"
 
@@ -477,116 +622,162 @@ msgstr "Преглед HTML кода изабраног дела"
 msgid "View MathML Source"
 msgstr "Преглед MathML кода"
 
-#: viewPageSourceCmd.label viewPageSourceCmd.accesskey
+#: viewPartialSourceCmd.accesskey
+#: searchFocus.commandkey2
+msgctxt "viewPartialSourceCmd.accesskey"
+msgid "e"
+msgstr "e"
+
+#: viewPageSourceCmd.label
+#: viewPageSourceCmd.accesskey
 msgid "&View Page Source"
 msgstr "&Преглед HTML кода"
 
-#: viewFrameSourceCmd.label viewFrameSourceCmd.accesskey
+#: viewFrameSourceCmd.label
+#: viewFrameSourceCmd.accesskey
 msgid "&View Frame Source"
 msgstr "&Преглед HTML кода у оквиру"
 
-#: viewPageInfoCmd.label viewPageInfoCmd.accesskey
+#: viewPageInfoCmd.label
+#: viewPageInfoCmd.accesskey
 msgid "View Page &Info"
 msgstr "По&даци о страни"
 
-#: viewFrameInfoCmd.label viewFrameInfoCmd.accesskey
+#: viewFrameInfoCmd.label
+#: viewFrameInfoCmd.accesskey
 msgid "View Frame &Info"
 msgstr "По&даци о оквиру"
 
-#: showImageCmd.label showImageCmd.accesskey
+#: showImageCmd.label
+#: showImageCmd.accesskey
 msgid "&Show Image"
 msgstr "Прикажи &слику"
 
-#: viewImageCmd.label viewImageCmd.accesskey
+#: viewImageCmd.label
+#: viewImageCmd.accesskey
 msgid "View &Image"
 msgstr "Прикажи &слику"
 
-#: viewBGImageCmd.label viewBGImageCmd.accesskey
+#: viewBGImageCmd.label
+#: viewBGImageCmd.accesskey
 msgid "Vie&w Background Image"
 msgstr "При&кажи позадинску слику"
 
-#: setDesktopBackgroundCmd.label setDesktopBackgroundCmd.accesskey
+#: setDesktopBackgroundCmd.label
+#: setDesktopBackgroundCmd.accesskey
 msgid "&Set As Desktop Background…"
 msgstr "&Постави на радну површину…"
 
-#: bookmarkPageCmd2.label bookmarkPageCmd2.accesskey
+#: bookmarkPageCmd2.label
+#: bookmarkPageCmd2.accesskey
 msgid "Book&mark This Page"
 msgstr "&Забележи ову страну"
 
-#: bookmarkThisLinkCmd.label bookmarkThisLinkCmd.accesskey
+#: bookmarkThisLinkCmd.label
+#: bookmarkThisLinkCmd.accesskey
 msgid "Bookmark This &Link"
 msgstr "Забележи ову &везу"
 
-#: bookmarkThisFrameCmd.label bookmarkThisFrameCmd.accesskey
+#: bookmarkThisFrameCmd.label
+#: bookmarkThisFrameCmd.accesskey
 msgid "Book&mark This Frame"
 msgstr "Забележи овај о&квир"
 
-#: sendPageCmd.label sendPageCmd.accesskey
+#: sendPageCmd.label
+#: sendPageCmd.accesskey
 msgid "S&end Link…"
 msgstr "По&шаљи везу…"
 
-#: savePageCmd.label savePageCmd.accesskey
+#: savePageCmd.label
+#: savePageCmd.accesskey
 msgid "Save Page &As…"
 msgstr "Сачувај страну &као…"
 
 # alternate for content area context menu
+#. alternate for content area context menu
 #: savePageCmd.accesskey2
 msgid "P"
 msgstr "P"
 
-#: saveFrameCmd.label saveFrameCmd.accesskey
+#: savePageCmd.commandkey
+#: historySidebarCmd.accesskey
+msgctxt "savePageCmd.commandkey"
+msgid "s"
+msgstr "s"
+
+#: saveFrameCmd.label
+#: saveFrameCmd.accesskey
 msgid "Save &Frame As…"
 msgstr "Сачувај &оквир као…"
 
-#: printFrameCmd.label printFrameCmd.accesskey
+#: printFrameCmd.label
+#: printFrameCmd.accesskey
 msgid "&Print Frame…"
 msgstr "&Штампај оквир…"
 
-#: saveLinkCmd.label saveLinkCmd.accesskey
+#: saveLinkCmd.label
+#: saveLinkCmd.accesskey
 msgid "Save Lin&k As…"
 msgstr "Сачувај &везу као…"
 
-#: sendLinkCmd.label sendLinkCmd.accesskey
+#: sendLinkCmd.label
+#: sendLinkCmd.accesskey
 msgid "Sen&d Link…"
 msgstr "По&шаљи везу…"
 
-#: saveImageCmd.label saveImageCmd.accesskey
+#: saveImageCmd.label
+#: saveImageCmd.accesskey
 msgid "Sa&ve Image As…"
 msgstr "&Сачувај слику као…"
 
-#: sendImageCmd.label sendImageCmd.accesskey
+#: sendImageCmd.label
+#: sendImageCmd.accesskey
 msgid "Se&nd Image…"
 msgstr "По&шаљи слику…"
 
-#: copyLinkCmd.label copyLinkCmd.accesskey
+#: copyLinkCmd.label
+#: copyLinkCmd.accesskey
 msgid "Copy Link Loc&ation"
 msgstr "&Умножи везу"
 
-#: copyLinkTextCmd.label copyLinkTextCmd.accesskey
+#: copyLinkTextCmd.label
+#: copyLinkTextCmd.accesskey
 msgid "Copy Link Te&xt"
 msgstr "&Умножи везу"
 
-#: copyImageCmd.label copyImageCmd.accesskey
+#: copyImageCmd.label
+#: copyImageCmd.accesskey
 msgid "C&opy Image Location"
 msgstr "У&множи адресу слике"
 
-#: copyImageContentsCmd.label copyImageContentsCmd.accesskey
+#: copyImageContentsCmd.label
+#: copyImageContentsCmd.accesskey
 msgid "Cop&y Image"
 msgstr "Умножи &слику"
 
-#: metadataCmd.label metadataCmd.accesskey
+#: blockImageCmd.accesskey
+#: bookmarksSidebarCmd.accesskey
+msgctxt "blockImageCmd.accesskey"
+msgid "B"
+msgstr "B"
+
+#: metadataCmd.label
+#: metadataCmd.accesskey
 msgid "&Properties"
 msgstr "&Својства"
 
-#: copyEmailCmd.label copyEmailCmd.accesskey
+#: copyEmailCmd.label
+#: copyEmailCmd.accesskey
 msgid "Copy &Email Address"
 msgstr "Умножи адр&есу ел.поште"
 
-#: thisFrameMenu.label thisFrameMenu.accesskey
+#: thisFrameMenu.label
+#: thisFrameMenu.accesskey
 msgid "T&his Frame"
 msgstr "У о&вом оквиру"
 
-#: fullZoomEnlargeCmd.label fullZoomEnlargeCmd.accesskey
+#: fullZoomEnlargeCmd.label
+#: fullZoomEnlargeCmd.accesskey
 msgid "Zoom &In"
 msgstr "&Увећај"
 
@@ -595,11 +786,13 @@ msgid "+"
 msgstr "+"
 
 # + is above this key on many keyboards
+#. + is above this key on many keyboards
 #: fullZoomEnlargeCmd.commandkey2
 msgid "="
 msgstr "="
 
-#: fullZoomReduceCmd.label fullZoomReduceCmd.accesskey
+#: fullZoomReduceCmd.label
+#: fullZoomReduceCmd.accesskey
 msgid "Zoom &Out"
 msgstr "&Умањи"
 
@@ -611,17 +804,20 @@ msgstr "-"
 msgid "0"
 msgstr "0"
 
-#: fullZoomResetCmd.label fullZoomResetCmd.accesskey
+#: fullZoomResetCmd.label
+#: fullZoomResetCmd.accesskey
 msgid "&Reset"
 msgstr "&Врати"
 
-#: fullZoomToggleCmd.label fullZoomToggleCmd.accesskey
+#: fullZoomToggleCmd.label
+#: fullZoomToggleCmd.accesskey
 msgid "Zoom &Text Only"
 msgstr "Увећај само &текст"
 
 # XXX places only
 # Toolbar items
-#: fullZoom.label fullZoom.accesskey
+#: fullZoom.label
+#: fullZoom.accesskey
 msgid "&Zoom"
 msgstr "&Увећање"
 
@@ -649,7 +845,8 @@ msgstr "Умножи"
 msgid "Paste"
 msgstr "Убаци"
 
-#: quitApplicationCmdWin.label quitApplicationCmdWin.accesskey
+#: quitApplicationCmdWin.label
+#: quitApplicationCmdWin.accesskey
 msgid "E&xit"
 msgstr "&Изађи"
 
@@ -661,7 +858,8 @@ msgstr "["
 msgid "]"
 msgstr "]"
 
-#: quitApplicationCmd.label quitApplicationCmd.accesskey
+#: quitApplicationCmd.label
+#: quitApplicationCmd.accesskey
 msgid "&Quit"
 msgstr "&Крај"
 
@@ -673,7 +871,8 @@ msgstr "Излаз из програма &brandShortName;"
 msgid "Q"
 msgstr "Q"
 
-#: closeCmd.label closeCmd.accesskey
+#: closeCmd.label
+#: closeCmd.accesskey
 msgid "&Close"
 msgstr "&Затвори"
 
@@ -681,15 +880,18 @@ msgstr "&Затвори"
 msgid "W"
 msgstr "W"
 
-#: pageStyleMenu.label pageStyleMenu.accesskey
+#: pageStyleMenu.label
+#: pageStyleMenu.accesskey
 msgid "Page St&yle"
 msgstr "&Стил стране"
 
-#: pageStyleNoStyle.label pageStyleNoStyle.accesskey
+#: pageStyleNoStyle.label
+#: pageStyleNoStyle.accesskey
 msgid "&No Style"
 msgstr "&Без стила"
 
-#: pageStylePersistentOnly.label pageStylePersistentOnly.accesskey
+#: pageStylePersistentOnly.label
+#: pageStylePersistentOnly.accesskey
 msgid "&Basic Page Style"
 msgstr "&Основни стил стране"
 
@@ -697,26 +899,51 @@ msgstr "&Основни стил стране"
 msgid "Change pop-up blocking settings for this web site"
 msgstr "Измена подешавања за блокирање искачућих прозора за овај сајт"
 
+#: allowPopups.accesskey
+#: printCmd.commandkey
+msgctxt "allowPopups.accesskey"
+msgid "p"
+msgstr "p"
+
 # On Windows we use the term "Options" to describe settings, but
 # on Linux and Mac OS X we use "Preferences" - carry that distinction
 # over into this string, which is used in the "popup blocked" info bar .
+#. On Windows we use the term "Options" to describe settings, but
+#. on Linux and Mac OS X we use "Preferences" - carry that distinction
+#. over into this string, which is used in the "popup blocked" info bar .
 #: editPopupSettingsUnix.label
 msgid "Edit Pop-up Blocker Preferences…"
 msgstr "Уређивање поставки за блокирање искачућих прозора…"
 
-#: editPopupSettings.label editPopupSettings.accesskey
+#: editPopupSettings.label
+#: editPopupSettings.accesskey
 msgid "&Edit Pop-up Blocker Options…"
 msgstr "&Уреди блокирање искачућих прозора…"
 
-#: bidiSwitchPageDirectionItem.label bidiSwitchPageDirectionItem.accesskey
+#: dontShowMessage.accesskey
+#: deleteCmd.key
+msgctxt "dontShowMessage.accesskey"
+msgid "D"
+msgstr "D"
+
+#: bidiSwitchPageDirectionItem.label
+#: bidiSwitchPageDirectionItem.accesskey
 msgid "Switch Pa&ge Direction"
 msgstr "Пр&омени усмерење стране"
 
-#: bidiSwitchTextDirectionItem.label bidiSwitchTextDirectionItem.accesskey
+#: bidiSwitchTextDirectionItem.label
+#: bidiSwitchTextDirectionItem.accesskey
 msgid "S&witch Text Direction"
 msgstr "Про&мени усмерење текста"
 
-#: findOnCmd.label findOnCmd.accesskey
+#: bidiSwitchTextDirectionItem.commandkey
+#: cutCmd.key
+msgctxt "bidiSwitchTextDirectionItem.commandkey"
+msgid "X"
+msgstr "X"
+
+#: findOnCmd.label
+#: findOnCmd.accesskey
 msgid "&Find in This Page…"
 msgstr "&Претрага стране…"
 
@@ -724,7 +951,8 @@ msgstr "&Претрага стране…"
 msgid "f"
 msgstr "f"
 
-#: findAgainCmd.label findAgainCmd.accesskey
+#: findAgainCmd.label
+#: findAgainCmd.accesskey
 msgid "Find A&gain"
 msgstr "Тражи п&оново"
 
@@ -736,7 +964,8 @@ msgstr "g"
 msgid "VK_F3"
 msgstr "VK_F3"
 
-#: spellAddDictionaries.label spellAddDictionaries.accesskey
+#: spellAddDictionaries.label
+#: spellAddDictionaries.accesskey
 msgid "&Add Dictionaries…"
 msgstr "&Додај речнике…"
 
@@ -748,11 +977,21 @@ msgstr "Готово"
 msgid "Cancel"
 msgstr "Откажи"
 
-#: editBookmark.removeBookmark.label editBookmark.removeBookmark.accessKey
+#: editBookmark.removeBookmark.label
+#: editBookmark.removeBookmark.accessKey
 msgid "&Remove Bookmark"
 msgstr "&Уклони забелешку"
 
-#: editBookmark.edit.label editBookmark.edit.accessKey
+#: editBookmark.undo.label
+#: editBookmark.undo.accessKey
+#: undoCmd.label
+#: undoCmd.accesskey
+msgctxt "editBookmark.undo.label editBookmark.undo.accessKey"
+msgid "&Undo"
+msgstr "Опо&зови"
+
+#: editBookmark.edit.label
+#: editBookmark.edit.accessKey
 msgid "&Edit…"
 msgstr "&Уреди…"
 
@@ -764,6 +1003,15 @@ msgstr "Овај веб сајт не даје податке о идентит�
 msgid "You are connected to"
 msgstr "Повезани сте на"
 
+#. Localization note (identity.runBy) : This string appears between a
+#. domain name (above) and an organization name (below). E.g.
+#. example.com
+#. which is run by
+#. Example Enterprises, Inc.
+#. The layout of the identity dialog prevents combining this into a single string with
+#. substitution variables.  If it is difficult to translate the sense of the string
+#. with that structure, consider a translation which ignores the preceding domain and
+#. just addresses the organization to follow, e.g. "This site is run by "
 #: identity.runBy
 msgid "which is run by"
 msgstr "којим управља"
@@ -775,105 +1023,3 @@ msgstr "Више података…"
 #: downloadMonitor2.tooltip
 msgid "Click to open downloads window"
 msgstr "Притисните да бисте отворили прозор са пријемима"
-
-#~ msgid "Source for: "
-#~ msgstr "Код за страну: "
-
-#~ msgid "(Nothing Available)"
-#~ msgstr "(Недоступно)"
-
-#~ msgid "&Print..."
-#~ msgstr "Штам&па..."
-
-#~ msgid "Subscribe to This Page..."
-#~ msgstr "Претплата на ову страну..."
-
-#~ msgid "Add Live Bookmark"
-#~ msgstr "Додај живу везу"
-
-#~ msgid "Add Live Bookmark..."
-#~ msgstr "Додај живу везу..."
-
-#~ msgid "Bookmark All &Tabs..."
-#~ msgstr "Забележи &све језичке"
-
-#~ msgid "&Search in Bookmarks..."
-#~ msgstr "&Претражи забелешке..."
-
-#~ msgid "Go"
-#~ msgstr "Крени"
-
-#~ msgid "Updates"
-#~ msgstr "Унапређења"
-
-#~ msgid "Drag and drop this icon to create a link to this page"
-#~ msgstr ""
-#~ "Превуците и пустите ову сличицу да бисте направили везу ка овој страни"
-
-#~ msgid "&Java Console"
-#~ msgstr "&Јава конзола"
-
-#~ msgid "&New"
-#~ msgstr "&Ново"
-
-#~ msgid "&Search in History..."
-#~ msgstr "&Претрага историјата..."
-
-# XXX remove below if places sticks
-#~ msgid "&Go"
-#~ msgstr "&Иди"
-
-#~ msgid "Earlier History"
-#~ msgstr "Ранији историјат"
-
-#~ msgid "Show in Sidebar"
-#~ msgstr "Прикажи у бочној траци"
-
-#~ msgid "&Release Notes"
-#~ msgstr "&Издање"
-
-#~ msgid "O&pen"
-#~ msgstr "&Отвори"
-
-#~ msgid "&Increase"
-#~ msgstr "&Увећај слова"
-
-#~ msgid "&Decrease"
-#~ msgstr "У&мањи слова"
-
-#~ msgid "&Normal"
-#~ msgstr "&Нормално"
-
-#~ msgid "Text Si&ze"
-#~ msgstr "Вели&чина слова"
-
-#~ msgid "Quit"
-#~ msgstr "Крај"
-
-#~ msgid "Page Styles"
-#~ msgstr "Стилови стране"
-
-#~ msgid "Switch to an alternate page style"
-#~ msgstr "Постави други стил стране"
-
-#~ msgid "Add &to dictionary"
-#~ msgstr "Додај у &речник"
-
-#~ msgid "&Spell check this field"
-#~ msgstr "Провера &правописа"
-
-#~ msgid "(No spelling suggestions)"
-#~ msgstr "(Нема предлога за исправку)"
-
-#~ msgid "&Languages"
-#~ msgstr "&Језици"
-
-# new bookmarks and history
-#~ msgid "Star (Off)"
-#~ msgstr "Звезда (искљ.)"
-
-#~ msgid "Star (On)"
-#~ msgstr "Звезда (укљ.)"
-
-#~ msgid "Add a Bookmark to this page"
-#~ msgstr "Забележи ову страну"

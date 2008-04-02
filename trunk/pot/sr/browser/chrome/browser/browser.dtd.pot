@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/browser.dtd
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/browser.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-04-02 21:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: tabCmd.label
@@ -54,7 +53,7 @@ msgid "&Print…"
 msgstr ""
 
 #: printCmd.commandkey
-#: allowPopups.accesskey
+msgctxt "printCmd.commandkey"
 msgid "p"
 msgstr ""
 
@@ -102,7 +101,7 @@ msgid "Page &Info"
 msgstr ""
 
 #: pageInfoCmd.commandkey
-#: bookmarksSidebarWinCmd.commandkey
+msgctxt "pageInfoCmd.commandkey"
 msgid "i"
 msgstr ""
 
@@ -148,7 +147,7 @@ msgid "Bookmark This Page"
 msgstr ""
 
 #: bookmarkThisPageCmd.commandkey
-#: urlbar.accesskey
+msgctxt "bookmarkThisPageCmd.commandkey"
 msgid "d"
 msgstr ""
 
@@ -161,12 +160,17 @@ msgid "Subscribe to This Page…"
 msgstr ""
 
 #: addCurPagesCmd.label
-#: bookmarkAllCmd.label
+msgctxt "addCurPagesCmd.label"
 msgid "Bookmark All Tabs…"
 msgstr ""
 
-#: showAllBookmarksCmd2.label
-msgid "Organize Bookmarks"
+#: organizeBookmarks.label
+msgid "Organize Bookmarks…"
+msgstr ""
+
+#: bookmarkAllCmd.label
+msgctxt "bookmarkAllCmd.label"
+msgid "Bookmark All Tabs…"
 msgstr ""
 
 #: backCmd.label
@@ -185,6 +189,10 @@ msgstr ""
 
 #: forwardButton.tooltip
 msgid "Go forward one page"
+msgstr ""
+
+#: backForwardMenu.tooltip
+msgid "Recent pages"
 msgstr ""
 
 #: reloadCmd.label
@@ -234,14 +242,19 @@ msgid "Activity Indicator"
 msgstr ""
 
 #: bookmarksItem.title
-#: bookmarksButton.label
+msgctxt "bookmarksItem.title"
 msgid "Bookmarks"
 msgstr ""
 
-# Toolbar items
+#. Toolbar items
 #: homeButton.label
-#: historyHomeCmd.label
+msgctxt "homeButton.label"
 msgid "Home"
+msgstr ""
+
+#: bookmarksButton.label
+msgctxt "bookmarksButton.label"
+msgid "Bookmarks"
 msgstr ""
 
 #: bookmarksButton.tooltip
@@ -249,12 +262,17 @@ msgid "Display your bookmarks"
 msgstr ""
 
 #: bookmarksSidebarCmd.accesskey
-#: blockImageCmd.accesskey
+msgctxt "bookmarksSidebarCmd.accesskey"
 msgid "B"
 msgstr ""
 
 #: bookmarksSidebarCmd.commandkey
 msgid "b"
+msgstr ""
+
+#: bookmarksSidebarWinCmd.commandkey
+msgctxt "bookmarksSidebarWinCmd.commandkey"
+msgid "i"
 msgstr ""
 
 #: historyButton.label
@@ -266,7 +284,7 @@ msgid "Display pages you've viewed recently"
 msgstr ""
 
 #: historySidebarCmd.accesskey
-#: savePageCmd.commandkey
+msgctxt "historySidebarCmd.accesskey"
 msgid "s"
 msgstr ""
 
@@ -299,8 +317,7 @@ msgid "Display the progress of ongoing downloads"
 msgstr ""
 
 #: downloads.commandkey
-#: errorConsoleCmd.commandkey
-#: searchFocusUnix.commandkey
+msgctxt "downloads.commandkey"
 msgid "j"
 msgstr ""
 
@@ -320,6 +337,11 @@ msgstr ""
 #: errorConsoleCmd.label
 #: errorConsoleCmd.accesskey
 msgid "Error &Console"
+msgstr ""
+
+#: errorConsoleCmd.commandkey
+msgctxt "errorConsoleCmd.commandkey"
+msgid "j"
 msgstr ""
 
 #: fileMenu.label
@@ -343,8 +365,7 @@ msgstr ""
 
 #: undoCmd.label
 #: undoCmd.accesskey
-#: editBookmark.undo.label
-#: editBookmark.undo.accessKey
+msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
 msgstr ""
 
@@ -367,7 +388,7 @@ msgid "Cu&t"
 msgstr ""
 
 #: cutCmd.key
-#: bidiSwitchTextDirectionItem.commandkey
+msgctxt "cutCmd.key"
 msgid "X"
 msgstr ""
 
@@ -395,7 +416,7 @@ msgid "&Delete"
 msgstr ""
 
 #: deleteCmd.key
-#: dontShowMessage.accesskey
+msgctxt "deleteCmd.key"
 msgid "D"
 msgstr ""
 
@@ -452,6 +473,11 @@ msgstr ""
 msgid "Recently Closed Tabs"
 msgstr ""
 
+#: historyHomeCmd.label
+msgctxt "historyHomeCmd.label"
+msgid "Home"
+msgstr ""
+
 #: showAllHistoryCmd2.label
 msgid "Show All History"
 msgstr ""
@@ -468,34 +494,37 @@ msgstr ""
 msgid "Search Bookmarks and History"
 msgstr ""
 
-# 
-# Comment duplicated from browser-sets.inc:
-# 
-# Search Command Key Logic works like this:
-# 
-# Unix: Ctrl+J (0.8, 0.9 support)
-# Ctrl+K (cross platform binding)
-# Mac:  Ctrl+K (cross platform binding)
-# Win:  Ctrl+K (cross platform binding)
-# Ctrl+E (IE compat)
-# 
-# We support Ctrl+K on all platforms now and advertise it in the menu since it is
-# our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-# "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-# system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-# is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-# for people to switch to Linux.
-# 
-# Do *not* tamper with these values without talking to ben@mozilla.org
-# 
-# 
+#: urlbar.accesskey
+msgctxt "urlbar.accesskey"
+msgid "d"
+msgstr ""
+
+#. Comment duplicated from browser-sets.inc:
+#. Search Command Key Logic works like this:
+#. Unix: Ctrl+J (0.8, 0.9 support)
+#. Ctrl+K (cross platform binding)
+#. Mac:  Ctrl+K (cross platform binding)
+#. Win:  Ctrl+K (cross platform binding)
+#. Ctrl+E (IE compat)
+#. We support Ctrl+K on all platforms now and advertise it in the menu since it is
+#. our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+#. "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+#. system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+#. is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+#. for people to switch to Linux.
+#. Do *not* tamper with these values without talking to ben@mozilla.org
 #: searchFocus.commandkey
 msgid "k"
 msgstr ""
 
 #: searchFocus.commandkey2
-#: viewPartialSourceCmd.accesskey
+msgctxt "searchFocus.commandkey2"
 msgid "e"
+msgstr ""
+
+#: searchFocusUnix.commandkey
+msgctxt "searchFocusUnix.commandkey"
+msgid "j"
 msgstr ""
 
 #: openLinkCmd.label
@@ -538,6 +567,11 @@ msgstr ""
 
 #: viewPartialSourceForMathMLCmd.label
 msgid "View MathML Source"
+msgstr ""
+
+#: viewPartialSourceCmd.accesskey
+msgctxt "viewPartialSourceCmd.accesskey"
+msgid "e"
 msgstr ""
 
 #: viewPageSourceCmd.label
@@ -605,9 +639,14 @@ msgstr ""
 msgid "Save Page &As…"
 msgstr ""
 
-# alternate for content area context menu
+#. alternate for content area context menu
 #: savePageCmd.accesskey2
 msgid "P"
+msgstr ""
+
+#: savePageCmd.commandkey
+msgctxt "savePageCmd.commandkey"
+msgid "s"
 msgstr ""
 
 #: saveFrameCmd.label
@@ -660,6 +699,11 @@ msgstr ""
 msgid "Cop&y Image"
 msgstr ""
 
+#: blockImageCmd.accesskey
+msgctxt "blockImageCmd.accesskey"
+msgid "B"
+msgstr ""
+
 #: metadataCmd.label
 #: metadataCmd.accesskey
 msgid "&Properties"
@@ -684,7 +728,7 @@ msgstr ""
 msgid "+"
 msgstr ""
 
-# + is above this key on many keyboards
+#. + is above this key on many keyboards
 #: fullZoomEnlargeCmd.commandkey2
 msgid "="
 msgstr ""
@@ -795,9 +839,14 @@ msgstr ""
 msgid "Change pop-up blocking settings for this web site"
 msgstr ""
 
-# On Windows we use the term "Options" to describe settings, but
-# on Linux and Mac OS X we use "Preferences" - carry that distinction
-# over into this string, which is used in the "popup blocked" info bar .
+#: allowPopups.accesskey
+msgctxt "allowPopups.accesskey"
+msgid "p"
+msgstr ""
+
+#. On Windows we use the term "Options" to describe settings, but
+#. on Linux and Mac OS X we use "Preferences" - carry that distinction
+#. over into this string, which is used in the "popup blocked" info bar .
 #: editPopupSettingsUnix.label
 msgid "Edit Pop-up Blocker Preferences…"
 msgstr ""
@@ -805,6 +854,11 @@ msgstr ""
 #: editPopupSettings.label
 #: editPopupSettings.accesskey
 msgid "&Edit Pop-up Blocker Options…"
+msgstr ""
+
+#: dontShowMessage.accesskey
+msgctxt "dontShowMessage.accesskey"
+msgid "D"
 msgstr ""
 
 #: bidiSwitchPageDirectionItem.label
@@ -815,6 +869,11 @@ msgstr ""
 #: bidiSwitchTextDirectionItem.label
 #: bidiSwitchTextDirectionItem.accesskey
 msgid "S&witch Text Direction"
+msgstr ""
+
+#: bidiSwitchTextDirectionItem.commandkey
+msgctxt "bidiSwitchTextDirectionItem.commandkey"
+msgid "X"
 msgstr ""
 
 #: findOnCmd.label
@@ -857,6 +916,12 @@ msgstr ""
 msgid "&Remove Bookmark"
 msgstr ""
 
+#: editBookmark.undo.label
+#: editBookmark.undo.accessKey
+msgctxt "editBookmark.undo.label editBookmark.undo.accessKey"
+msgid "&Undo"
+msgstr ""
+
 #: editBookmark.edit.label
 #: editBookmark.edit.accessKey
 msgid "&Edit…"
@@ -870,6 +935,15 @@ msgstr ""
 msgid "You are connected to"
 msgstr ""
 
+#. Localization note (identity.runBy) : This string appears between a
+#. domain name (above) and an organization name (below). E.g.
+#. example.com
+#. which is run by
+#. Example Enterprises, Inc.
+#. The layout of the identity dialog prevents combining this into a single string with
+#. substitution variables.  If it is difficult to translate the sense of the string
+#. with that structure, consider a translation which ignores the preceding domain and
+#. just addresses the organization to follow, e.g. "This site is run by "
 #: identity.runBy
 msgid "which is run by"
 msgstr ""
