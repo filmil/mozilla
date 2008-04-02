@@ -1,4 +1,4 @@
-po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	0 translated messages, 264 untranslated messages.
+po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	263 translated messages, 1 untranslated message.
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
 po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	291 translated messages, 34 untranslated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
@@ -77,10 +77,7 @@ po/sr/mail/chrome/messenger/imapMsgs.properties.po:	85 translated messages, 1 un
 po/sr/mail/chrome/messenger/localMsgs.properties.po:	41 translated messages.
 po/sr/mail/chrome/messenger/am-offline.dtd.po:	23 translated messages.
 po/sr/mail/chrome/messenger/subscribe.properties.po:	6 translated messages.
-po/sr/mail/chrome/messenger/credits.dtd.po:	po/sr/mail/chrome/messenger/credits.dtd.po:51: `msgid' en `msgstr' ingangen eindigen niet allebei met '
-'
-msgfmt: found 1 fatal error
-23 translated messages.
+po/sr/mail/chrome/messenger/credits.dtd.po:	23 translated messages.
 po/sr/mail/chrome/messenger/am-server-advanced.dtd.po:	18 translated messages.
 po/sr/mail/chrome/messenger/smtpEditOverlay.dtd.po:	15 translated messages.
 po/sr/mail/chrome/messenger/msgFolderPickerOverlay.dtd.po:	9 translated messages.
@@ -112,11 +109,7 @@ po/sr/mail/chrome/messenger/preferences/offline.dtd.po:	13 translated messages.
 po/sr/mail/chrome/messenger/preferences/connection.dtd.po:	21 translated messages.
 po/sr/mail/chrome/messenger/preferences/notifications.dtd.po:	6 translated messages.
 po/sr/mail/chrome/messenger/preferences/fonts.dtd.po:	53 translated messages.
-po/sr/mail/chrome/messenger/preferences/display.dtd.po:	po/sr/mail/chrome/messenger/preferences/display.dtd.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                                 Message conversion to user's charset might not work.
-po/sr/mail/chrome/messenger/preferences/display.dtd.po:17: dubbele melding definitie...
-po/sr/mail/chrome/messenger/preferences/display.dtd.po:7: ...this is the location of the first definition
-msgfmt: found 1 fatal error
+po/sr/mail/chrome/messenger/preferences/display.dtd.po:	32 translated messages.
 po/sr/mail/chrome/messenger/preferences/privacy.dtd.po:	27 translated messages.
 po/sr/mail/chrome/messenger/preferences/receipts.dtd.po:	14 translated messages.
 po/sr/mail/chrome/messenger/am-serverwithnoidentities.dtd.po:	8 translated messages.
@@ -239,21 +232,17 @@ po/sr/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
 po/sr/browser/chrome/browser/openLocation.dtd.po:	8 translated messages.
 po/sr/browser/chrome/browser/aboutRobots.dtd.po:	10 translated messages.
 po/sr/browser/chrome/browser/search.properties.po:	12 translated messages.
-po/sr/browser/chrome/browser/aboutDialog.dtd.po:	po/sr/browser/chrome/browser/aboutDialog.dtd.po:45: `msgid' en `msgstr' ingangen eindigen niet allebei met '
-'
-msgfmt: found 1 fatal error
-7 translated messages.
+po/sr/browser/chrome/browser/aboutDialog.dtd.po:	7 translated messages.
 po/sr/browser/chrome/browser/openLocation.properties.po:	1 translated message.
 po/sr/browser/chrome/browser/tabbrowser.dtd.po:	10 translated messages.
-po/sr/browser/chrome/browser/browser.dtd.po:	182 translated messages.
+po/sr/browser/chrome/browser/browser.dtd.po:	po/sr/browser/chrome/browser/browser.dtd.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                      Message conversion to user's charset might not work.
+197 translated messages.
 po/sr/browser/chrome/browser/history/history.dtd.po:	14 translated messages.
 po/sr/browser/chrome/browser/sanitize.dtd.po:	10 translated messages.
 po/sr/browser/chrome/browser/migration/migration.dtd.po:	28 translated messages.
 po/sr/browser/chrome/browser/migration/migration.properties.po:	30 translated messages.
-po/sr/browser/chrome/browser/credits.dtd.po:	po/sr/browser/chrome/browser/credits.dtd.po:41: `msgid' en `msgstr' ingangen eindigen niet allebei met '
-'
-msgfmt: found 1 fatal error
-7 translated messages.
+po/sr/browser/chrome/browser/credits.dtd.po:	7 translated messages.
 po/sr/browser/chrome/browser/metaData.dtd.po:	25 translated messages.
 po/sr/browser/chrome/browser/sidebar/sidebar.properties.po:	2 translated messages.
 po/sr/browser/chrome/browser/pageReport.dtd.po:	4 translated messages.
@@ -283,9 +272,7 @@ po/sr/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated messa
 po/sr/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
 po/sr/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
-po/sr/browser/chrome/browser/browser.properties.po:	po/sr/browser/chrome/browser/browser.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                             Message conversion to user's charset might not work.
-92 translated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	92 translated messages.
 po/sr/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
 po/sr/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
@@ -341,8 +328,8 @@ po/sr/extensions/wallet/resources/pref-passwords.dtd.po:	8 translated messages.
 po/sr/extensions/cview/resources/cviewOverlay.dtd.po:	1 translated message.
 po/sr/extensions/venkman/chrome/venkman-overlay.dtd.po:	3 translated messages.
 po/sr/extensions/venkman/chrome/venkman.dtd.po:	46 translated messages.
-po/sr/extensions/venkman/chrome/venkman.properties.po:	112 translated messages, 484 untranslated messages.
-po/sr/extensions/venkman/defines.inc.po:	po/sr/extensions/venkman/defines.inc.po:49: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+po/sr/extensions/venkman/chrome/venkman.properties.po:	329 translated messages, 267 untranslated messages.
+po/sr/extensions/venkman/defines.inc.po:	po/sr/extensions/venkman/defines.inc.po:31: `msgid' en `msgstr' ingangen eindigen niet allebei met '
 '
 msgfmt: found 1 fatal error
 3 translated messages.
@@ -355,7 +342,7 @@ po/sr/dom/chrome/netErrorApp.dtd.po:	2 translated messages.
 po/sr/dom/chrome/prompts.properties.po:	4 translated messages.
 po/sr/dom/chrome/security/caps.properties.po:	21 translated messages.
 po/sr/dom/chrome/xml/prettyprint.dtd.po:	1 translated message.
-po/sr/dom/chrome/netError.dtd.po:	43 translated messages.
+po/sr/dom/chrome/netError.dtd.po:	42 translated messages, 1 fuzzy translation.
 po/sr/dom/chrome/webservices/security.properties.po:	8 translated messages.
 po/sr/dom/chrome/charsetTitles.properties.po:	99 translated messages.
 po/sr/dom/chrome/printdialog.properties.po:	5 translated messages.
@@ -444,7 +431,7 @@ po/sr/toolkit/chrome/global-region/region.properties.po:	5 translated messages.
 po/sr/toolkit/chrome/global-region/region.dtd.po:	1 translated message.
 po/sr/toolkit/chrome/passwordmgr/passwordManager.dtd.po:	14 translated messages.
 po/sr/toolkit/chrome/passwordmgr/passwordmgr.properties.po:	29 translated messages.
-po/sr/toolkit/chrome/places/places.properties.po:	15 translated messages.
+po/sr/toolkit/chrome/places/places.properties.po:	16 translated messages.
 po/sr/toolkit/chrome/cookie/cookieAcceptDialog.properties.po:	14 translated messages.
 po/sr/toolkit/chrome/cookie/cookieAcceptDialog.dtd.po:	12 translated messages.
 po/sr/toolkit/chrome/mozapps/downloads/downloads.dtd.po:	29 translated messages.
@@ -462,9 +449,7 @@ po/sr/toolkit/chrome/mozapps/update/updates.dtd.po:	47 translated messages.
 po/sr/toolkit/chrome/mozapps/help/welcome.xhtml.po:	13 translated messages.
 po/sr/toolkit/chrome/mozapps/help/help.properties.po:	1 translated message.
 po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	28 translated messages.
-po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po:	po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                                           Message conversion to user's charset might not work.
-97 translated messages.
+po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po:	97 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po:	116 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:	16 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/update.dtd.po:	34 translated messages.

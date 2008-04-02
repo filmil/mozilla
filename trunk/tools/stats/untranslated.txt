@@ -1,4 +1,4 @@
-po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	0 translated messages, 264 untranslated messages.
+po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	263 translated messages, 1 untranslated message.
 po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	291 translated messages, 34 untranslated messages.
 po/sr/mail/chrome/messenger/imapMsgs.properties.po:	85 translated messages, 1 untranslated message.
 po/sr/mail/chrome/messenger/messenger.dtd.po:	277 translated messages, 79 untranslated messages.
@@ -44,7 +44,7 @@ po/sr/extensions/irc/chrome/pref-irc.dtd.po:	0 translated messages, 5 untranslat
 po/sr/extensions/irc/chrome/chatzilla.dtd.po:	0 translated messages, 12 untranslated messages.
 po/sr/extensions/irc/chrome/browserOverlay.dtd.po:	0 translated messages, 2 untranslated messages.
 po/sr/extensions/irc/defines.inc.po:	0 translated messages, 1 fuzzy translation, 2 untranslated messages.
-po/sr/extensions/venkman/chrome/venkman.properties.po:	112 translated messages, 484 untranslated messages.
+po/sr/extensions/venkman/chrome/venkman.properties.po:	329 translated messages, 267 untranslated messages.
 po/sr/dom/chrome/xslt/xslt.properties.po:	32 translated messages, 1 untranslated message.
 po/sr/toolkit/chrome/global-platform/mac/platformKeys.properties.po:	4 translated messages, 1 untranslated message.
 po/sr/toolkit/chrome/global/dialog.properties.po:	4 translated messages, 4 untranslated messages.
