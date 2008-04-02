@@ -1,5 +1,9 @@
 2008-04-02  Filip Miletic  <filmil@gmail.com>
 
+	*
+	po/sr/browser/chrome/browser/preferences/advanced-scripts.dtd.po:
+	Changed an unchanged string.
+
 	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:
 	111 to go.
 
