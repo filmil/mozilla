@@ -15,6 +15,7 @@ ICONV:=iconv
 GREP:=grep
 FIND:=find
 XARGS:=xargs
+POFILTER:=pofilter -t unchanged
 
 # # Directory configuration
 LOCALE_NAME:=sr
@@ -32,3 +33,5 @@ STATS_DIR:=tools/stats
 ZIPNAME:=sr.zip
 CVS_MSG:=./CVS_MESSAGE
 CPLOC:=compare-locales
+FAIL_DIR:=fail-po
+

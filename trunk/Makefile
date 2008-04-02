@@ -12,7 +12,7 @@
 
 include Makefile.inc
 
-.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy fixme
+.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy fixme pofilter pomerge
 
 all: clean tryconv stats 
 
@@ -25,10 +25,18 @@ publish: clean tryconv publishcopy
 publishcopy:
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 
-# Чишћење генерисаних датотека
+# Tests for common mistakes in the translation
+pofilter:
+	$(POFILTER) $(PO_TRANSLATIONS) $(FAIL_DIR)
+
+pomerge:
+	$(POMERGE) $(FAIL_DIR) $(PO_TRANSLATIONS)
+
+# Cleanup of all the generated files and dirs
 clean:
 	$(RM) *~
 	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)* NEWPO.po NEWPOT.pot messages.mo
+	$(RM) -fr $(FAIL_DIR)
 
 # Finds all the FIXME strings in files
 fixme:

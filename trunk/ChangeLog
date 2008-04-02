@@ -1,6 +1,12 @@
 2008-04-02  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:
+	111 to go.
+
+	* Makefile (clean): Added new target: pofilter.  'make pofilter'
+	runs basic tests on the po files and filters out the problematic entries.
+
+	* po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:
 	176 to go.
 	160 to go.
 

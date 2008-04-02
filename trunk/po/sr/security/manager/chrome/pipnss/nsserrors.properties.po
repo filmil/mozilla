@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-02 01:47+0200\n"
+"PO-Revision-Date: 2008-04-02 02:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -457,206 +457,207 @@ msgstr "Удаљени рачунар са ССЛом нема сертифик�
 
 #: SSL_ERROR_BAD_CERT_STATUS_RESPONSE_ALERT
 msgid "SSL peer was unable to get an OCSP response for its certificate."
-msgstr ""
+msgstr "Удаљени рачунар за ССЛ није могао да добије одговор ОЦСП (OCSP) за свој сертификат."
 
 #: SSL_ERROR_BAD_CERT_HASH_VALUE_ALERT
 msgid "SSL peer reported bad certificate hash value."
-msgstr ""
+msgstr "Удаљени рачунар за ССЛ је дојавио лошу вредност хеша за сертификат."
 
 #: SEC_ERROR_IO
 msgid "An I/O error occurred during security authorization."
-msgstr ""
+msgstr "Дошло је до У/И грешке током безбедносне ауторизације."
 
 #: SEC_ERROR_LIBRARY_FAILURE
 msgid "security library failure."
-msgstr ""
+msgstr "грешка у библиотеци за безбедност."
 
 #: SEC_ERROR_BAD_DATA
 msgid "security library: received bad data."
-msgstr ""
+msgstr "библиотека за безбедност: примљени су лоши подаци."
 
 #: SEC_ERROR_OUTPUT_LEN
 msgid "security library: output length error."
-msgstr ""
+msgstr "библиотека за безбедност: грешка са дужином излаза."
 
 #: SEC_ERROR_INPUT_LEN
 msgid "security library has experienced an input length error."
-msgstr ""
+msgstr "библиотека за безбедност је дојавила грешку са дужином излаза."
 
 #: SEC_ERROR_INVALID_ARGS
 msgid "security library: invalid arguments."
-msgstr ""
+msgstr "библиотека за безбедност: неисправни параметри."
 
 #: SEC_ERROR_INVALID_ALGORITHM
 msgid "security library: invalid algorithm."
-msgstr ""
+msgstr "библиотека за безбедност: неисправан алгоритам."
 
 #: SEC_ERROR_INVALID_AVA
 msgid "security library: invalid AVA."
-msgstr ""
+msgstr "библиотека за безбедност: АВА (AVA) је неисправна."
 
 #: SEC_ERROR_INVALID_TIME
 msgid "Improperly formatted time string."
-msgstr ""
+msgstr "Неисправно је форматирана ниска која одређује време."
 
 #: SEC_ERROR_BAD_DER
 msgid "security library: improperly formatted DER-encoded message."
-msgstr ""
+msgstr "библиотека за безбедност: неисправно је форматирана ДЕР-кодирана порука."
 
 #: SEC_ERROR_BAD_SIGNATURE
 msgid "Peer's certificate has an invalid signature."
-msgstr ""
+msgstr "Сертификат удаљеног рачунара има неважећи потпис."
 
 #: SEC_ERROR_EXPIRED_CERTIFICATE
 msgid "Peer's Certificate has expired."
-msgstr ""
+msgstr "Сертификат удаљеног рачунара је истекао."
 
 #: SEC_ERROR_REVOKED_CERTIFICATE
 msgid "Peer's Certificate has been revoked."
-msgstr ""
+msgstr "Сертификат удаљеног рачунара је опозван."
 
 #: SEC_ERROR_UNKNOWN_ISSUER
 msgid "Peer's Certificate issuer is not recognized."
-msgstr ""
+msgstr "Издавач сертификата за удаљени рачунар није препознат."
 
 #: SEC_ERROR_BAD_KEY
 msgid "Peer's public key is invalid."
-msgstr ""
+msgstr "Јавни кључ удаљеног рачунара је неважећи."
 
 #: SEC_ERROR_BAD_PASSWORD
 msgid "The security password entered is incorrect."
-msgstr ""
+msgstr "Унесена безбедносна лозинка је неисправна."
 
 #: SEC_ERROR_RETRY_PASSWORD
 msgid "New password entered incorrectly.  Please try again."
-msgstr ""
+msgstr "Нова лозинка је неисправно унета.  Молимо да пробате поново."
 
+# FIXME nodelock
 #: SEC_ERROR_NO_NODELOCK
 msgid "security library: no nodelock."
-msgstr ""
+msgstr "библиотека за безбедност: нема кључа за нод."
 
 #: SEC_ERROR_BAD_DATABASE
 msgid "security library: bad database."
-msgstr ""
+msgstr "библиотека за безбедност: покварена база података."
 
 #: SEC_ERROR_NO_MEMORY
 msgid "security library: memory allocation failure."
-msgstr ""
+msgstr "библиотека за безбедност: грешка при додели меморије."
 
 #: SEC_ERROR_UNTRUSTED_ISSUER
 msgid "Peer's certificate issuer has been marked as not trusted by the user."
-msgstr ""
+msgstr "Корисник је означио да издавач сертификата за удаљени рачунар није од поверења."
 
 #: SEC_ERROR_UNTRUSTED_CERT
 msgid "Peer's certificate has been marked as not trusted by the user."
-msgstr ""
+msgstr "Корисник је означио да сертификат удаљеног рачунара није од поверења."
 
 #: SEC_ERROR_DUPLICATE_CERT
 msgid "Certificate already exists in your database."
-msgstr ""
+msgstr "Сертификат већ постоји у Вашој бази података."
 
 #: SEC_ERROR_DUPLICATE_CERT_NAME
 msgid "Downloaded certificate's name duplicates one already in your database."
-msgstr ""
+msgstr "Преузето име сертификата већ постоји у Вашој бази података."
 
 #: SEC_ERROR_ADDING_CERT
 msgid "Error adding certificate to database."
-msgstr ""
+msgstr "Грешка при додавању сертификата у базу података."
 
 #: SEC_ERROR_FILING_KEY
 msgid "Error refiling the key for this certificate."
-msgstr ""
+msgstr "Грешка у поновном подношењу кључа за овај сертификат."
 
 #: SEC_ERROR_NO_KEY
 msgid "The private key for this certificate cannot be found in key database"
-msgstr ""
+msgstr "Приватни кључ за овај сертификат није пронађен у бази података."
 
 #: SEC_ERROR_CERT_VALID
 msgid "This certificate is valid."
-msgstr ""
+msgstr "Овај сертификат је важећи."
 
 #: SEC_ERROR_CERT_NOT_VALID
 msgid "This certificate is not valid."
-msgstr ""
+msgstr "Овај сертификат је неважећи."
 
 #: SEC_ERROR_CERT_NO_RESPONSE
 msgid "Cert Library: No Response"
-msgstr ""
+msgstr "библиотека за сертификате: нема одговора"
 
 #: SEC_ERROR_EXPIRED_ISSUER_CERTIFICATE
 msgid ""
 "The certificate issuer's certificate has expired.  Check your system date "
 "and time."
-msgstr ""
+msgstr "Сертификат издавача сертификата је истекао.  Проверите системски датум и време."
 
 #: SEC_ERROR_CRL_EXPIRED
 msgid ""
 "The CRL for the certificate's issuer has expired.  Update it or check your "
 "system date and time."
-msgstr ""
+msgstr "ЦРЛ (CRL) за издавача сертификата је истекао.  Освежите га или проверите системски датум и време."
 
 #: SEC_ERROR_CRL_BAD_SIGNATURE
 msgid "The CRL for the certificate's issuer has an invalid signature."
-msgstr ""
+msgstr "ЦРЛ (CRL) издавача сертификата садржи неважећи потпис."
 
 #: SEC_ERROR_CRL_INVALID
 msgid "New CRL has an invalid format."
-msgstr ""
+msgstr "Нови ЦРЛ (CRL) има неисправан формат."
 
 #: SEC_ERROR_EXTENSION_VALUE_INVALID
 msgid "Certificate extension value is invalid."
-msgstr ""
+msgstr "Сертификатова вредност за продужење је неисправна."
 
 #: SEC_ERROR_EXTENSION_NOT_FOUND
 msgid "Certificate extension not found."
-msgstr ""
+msgstr "Продужење сертификата није пронађено."
 
 #: SEC_ERROR_CA_CERT_INVALID
 msgid "Issuer certificate is invalid."
-msgstr ""
+msgstr "Сертификат издавача је неважећи."
 
 #: SEC_ERROR_PATH_LEN_CONSTRAINT_INVALID
 msgid "Certificate path length constraint is invalid."
-msgstr ""
+msgstr "Ограничење дужине стазе сертификата је неважеће."
 
 #: SEC_ERROR_CERT_USAGES_INVALID
 msgid "Certificate usages field is invalid."
-msgstr ""
+msgstr "Поље употребе сертификата (usages) је неисправно."
 
 #: SEC_INTERNAL_ONLY
 msgid "**Internal ONLY module**"
-msgstr ""
+msgstr "**Искључиво интерни модул**"
 
 #: SEC_ERROR_INVALID_KEY
 msgid "The key does not support the requested operation."
-msgstr ""
+msgstr "Овај кључ не подржава тражено дејство."
 
 #: SEC_ERROR_UNKNOWN_CRITICAL_EXTENSION
 msgid "Certificate contains unknown critical extension."
-msgstr ""
+msgstr "Сертификат садржи непознати критичан продужетак."
 
 #: SEC_ERROR_OLD_CRL
 msgid "New CRL is not later than the current one."
-msgstr ""
+msgstr "Нови ЦРЛ (CRL) није старији од тренутног."
 
 #: SEC_ERROR_NO_EMAIL_CERT
 msgid "Not encrypted or signed: you do not yet have an email certificate."
-msgstr ""
+msgstr "Није шифровано нити потписано: још увек немате сертификат за електронску пошту."
 
 #: SEC_ERROR_NO_RECIPIENT_CERTS_QUERY
 msgid "Not encrypted: you do not have certificates for each of the recipients."
-msgstr ""
+msgstr "Није шифровано: немате сертификате за све примаоце."
 
 #: SEC_ERROR_NOT_A_RECIPIENT
 msgid ""
 "Cannot decrypt: you are not a recipient, or matching certificate and private "
 "key not found."
-msgstr ""
+msgstr "Дешифровање није могуће: нисте прималац, или нису пронађени одговарајући сертификат и приватни кључ."
 
 #: SEC_ERROR_PKCS7_KEYALG_MISMATCH
 msgid ""
 "Cannot decrypt: key encryption algorithm does not match your certificate."
-msgstr ""
+msgstr "Дешифровање није могуће: алгоритам за шифровање кључева не одговара Вашем сертификату."
 
 #: SEC_ERROR_PKCS7_BAD_SIGNATURE
 msgid ""
