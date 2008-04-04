@@ -1,53 +1,25 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is the Mozilla Installer code.
-#
-# The Initial Developer of the Original Code is Mozilla Foundation
-# Portions created by the Initial Developer are Copyright (C) 2006
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#  Robert Strong <robert.bugzilla@gmail.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/browser/installer/custom.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-21 00:38+0100\n"
+"PO-Revision-Date: 2008-04-04 20:12+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+
+# LOCALIZATION NOTE:
+# This file must be saved as UTF8
+# Accesskeys are defined by prefixing the letter that is to be used for the
+# accesskey with an ampersand (e.g. &).
+# Do not replace ${BrandShortName} or ${BrandFullName} with a custom string.
+# You can use \n to create a newline in the string but only when the string
+# from en-US contains a \n.
+# One line
 
 # LOCALIZATION NOTE:
 # This file must be saved as UTF8
@@ -60,12 +32,27 @@ msgstr ""
 # being used as an accesskey.
 # You can use \n to create a newline in the string but only when the string
 # from en-US contains a \n.
+#. # LOCALIZATION NOTE:
+#. # This file must be saved as UTF8
+#. # Accesskeys are defined by prefixing the letter that is to be used for the
+#. # accesskey with an ampersand (e.g. &).
+#. # Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+#. # custom string and always use the same one as used by the en-US files.
+#. # $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+#. # for double ampersand) and prevents the letter following the ampersand from
+#. # being used as an accesskey.
+#. # You can use \n to create a newline in the string but only when the string
+#. # from en-US contains a \n.
 #: REG_APP_DESC
 msgid ""
 "$BrandShortName delivers safe, easy web browsing. A familiar user interface, "
 "enhanced security features including protection from online identity theft, "
 "and integrated search let you get the most out of the web."
-msgstr "Програм $BrandShortName омогућава лако и безбедно читање мрежног садржаја.  Познато корисничко сучеље, побољшане безбедносне мере укључујућу заштиту од крађе идентитета на мрежи, и интегрисана претрага омогућавају Вам да извучете максимум из интернета."
+msgstr ""
+"Програм $BrandShortName омогућава лако и безбедно читање мрежног садржаја.  "
+"Познато корисничко сучеље, побољшане безбедносне мере укључујућу заштиту од "
+"крађе идентитета на мрежи, и интегрисана претрага омогућавају Вам да "
+"извучете максимум из интернета."
 
 #: OPTIONAL_COMPONENTS_TITLE
 msgid "Choose Optional Components"
@@ -140,6 +127,7 @@ msgstr "Мораћете да поново покренете рачунар к�
 msgid "A restart of your computer may be required to complete the uninstall."
 msgstr "Мораћете да поново покренете рачунар како бисте довршили деинсталацију."
 
+#: SUMMARY_MAKE_DEFAULT
 #: SUMMARY_MAKE_DEAFULT
 msgid "$BrandShortName will be set as your default web browser."
 msgstr "Програм $BrandShortName ће бити постављен као подразумевани читач."
@@ -162,9 +150,11 @@ msgid ""
 "\n"
 "Click \"OK\" to exit $BrandShortName automatically and continue."
 msgstr ""
-"Програм $BrandShortName мора да се затвори да би инсталација могла да настави.\n"
+"Програм $BrandShortName мора да се затвори да би инсталација могла да "
+"настави.\n"
 "\n"
-"Притисните \"У реду\" да бисте аутоматски затворили програм $BrandShortName и наставили."
+"Притисните \"У реду\" да бисте аутоматски затворили програм $BrandShortName и "
+"наставили."
 
 #: CREATE_ICONS_DESC
 msgid "Create icons for $BrandShortName:"
@@ -211,7 +201,8 @@ msgid ""
 msgstr ""
 "Програм $BrandShortName је већ покренут.\n"
 "\n"
-"Молимо да затворите $BrandShortName пре него што покренете издање које сте управо инсталирали."
+"Молимо да затворите $BrandShortName пре него што покренете издање које сте "
+"управо инсталирали."
 
 #: WARN_WRITE_ACCESS
 msgid ""
@@ -237,19 +228,26 @@ msgstr ""
 msgid ""
 "Sorry, $BrandShortName can't be installed. This version of $BrandShortName "
 "requires ${MinUnsupportedVer} or newer."
-msgstr "Нажалост, $BrandShortName није могао да се инсталира. Ово издање програма $BrandShortName захтева издање ${MinUnsupportedVer} или новије."
+msgstr ""
+"Нажалост, $BrandShortName није могао да се инсталира. Ово издање програма "
+"$BrandShortName захтева издање ${MinUnsupportedVer} или новије."
 
 #: WARN_RESTART_REQUIRED_UNINSTALL
 msgid ""
 "Your computer must be restarted to complete a previous uninstall of "
 "$BrandShortName. Do you want to reboot now?"
-msgstr "Ваш рачунар мора да буде поново покренут да би претходна инсталација програма $BrandShortName била довршена. Да ли желите да га поново покренете сада?"
+msgstr ""
+"Ваш рачунар мора да буде поново покренут да би претходна инсталација "
+"програма $BrandShortName била довршена. Да ли желите да га поново покренете "
+"сада?"
 
 #: WARN_RESTART_REQUIRED_UPGRADE
 msgid ""
 "Your computer must be restarted to complete a previous upgrade of "
 "$BrandShortName. Do you want to reboot now?"
-msgstr "Ваш рачунар мора да буде поново покренут да би претходна доградња $BrandShortName била довршена. Да ли желите да га поново покренете сада?"
+msgstr ""
+"Ваш рачунар мора да буде поново покренут да би претходна доградња "
+"$BrandShortName била довршена. Да ли желите да га поново покренете сада?"
 
 #: ERROR_CREATE_DIRECTORY_PREFIX
 msgid "Error creating directory:"
@@ -288,7 +286,10 @@ msgid ""
 "This will permanently remove your bookmarks, saved passwords, cookies and "
 "customizations. You may wish to keep this information if you plan on "
 "installing another version of $BrandShortName in the future."
-msgstr "Ово трајно уклања забелешке, сачуване лозинке, колачиће и прилагођења. Можда желите да сачувате ове податке ако намеравате да убудуће инсталирате неко друго издање програма $BrandShortName."
+msgstr ""
+"Ово трајно уклања забелешке, сачуване лозинке, колачиће и прилагођења. Можда "
+"желите да сачувате ове податке ако намеравате да убудуће инсталирате неко "
+"друго издање програма $BrandShortName."
 
 #: BANNER_CHECK_EXISTING
 msgid "Checking existing installation…"
@@ -316,11 +317,14 @@ msgstr "Сређивање…"
 
 # _DESC strings support approximately 65 characters per line.
 # One line
+#. # _DESC strings support approximately 65 characters per line.
+#. # One line
 #: OPTIONS_SUMMARY
 msgid "Choose the type of setup you prefer, then click Next."
 msgstr "Изаберите жељену врсту инсталације, а затим притисните \"Даље\"."
 
 # One line
+#. # One line
 #: OPTION_STANDARD_DESC
 msgid "$BrandShortName will be installed with the most common options."
 msgstr "$BrandShortName ће бити инсталиран са најнеопходнијим опцијама."
@@ -330,6 +334,7 @@ msgid "&Standard"
 msgstr "&Стандардна"
 
 # One line
+#. # One line
 #: OPTION_COMPLETE_DESC
 msgid "$BrandShortName will be installed with all available options."
 msgstr "$BrandShortName ће бити инсталиран са свим доступним опцијама."
@@ -339,101 +344,15 @@ msgid "C&omplete"
 msgstr "&Потпуна"
 
 # Two lines
+#. # Two lines
 #: OPTION_CUSTOM_DESC
 msgid ""
 "You may choose individual options to be installed. Recommended for "
 "experienced users."
-msgstr "Можете да изаберете опције које ће бити инсталиране.  Препоручује се искусним корисницима."
+msgstr ""
+"Можете да изаберете опције које ће бити инсталиране.  Препоручује се "
+"искусним корисницима."
 
 #: OPTION_CUSTOM_RADIO
 msgid "&Custom"
 msgstr "П&роизвољна"
-
-# LOCALIZATION NOTE:
-# This file must be saved as UTF8
-# Accesskeys are defined by prefixing the letter that is to be used for the
-# accesskey with an ampersand (e.g. &).
-# Do not replace ${BrandShortName} or ${BrandFullName} with a custom string.
-# You can use \n to create a newline in the string but only when the string
-# from en-US contains a \n.
-#~ msgid ""
-#~ "${BrandShortName} delivers safe, easy web browsing. A familiar user "
-#~ "interface, enhanced security features including protection from online "
-#~ "identity theft, and integrated search let you get the most out of the web."
-#~ msgstr ""
-#~ "Програм ${BrandShortName} омогућава лак и безбедан преглед веба. "
-#~ "Препознатљиви коирсничко сучеље, напредне безбедносне могућности "
-#~ "укључујучи заштиту од крађе идентитета, и интегрисана претрага "
-#~ "омогућавају Вам да извучете максимум из веба."
-
-#~ msgid "Choose which features of $(^NameDA) you want to install."
-#~ msgstr "Изаберите делове програма $(^NameDA) које желите да инсталирате."
-
-#~ msgid "Required files for the ${BrandShortName} application"
-#~ msgstr "Неопходне датотеке за програм ${BrandShortName}"
-
-#~ msgid "Quality Feedback Agent"
-#~ msgstr "Агент за повратне информације"
-
-#~ msgid "Sends information about program crashes to Mozilla."
-#~ msgstr "Шаље податке о програмским грешкама Мозили."
-
-#~ msgid "$(^NameDA) &Options"
-#~ msgstr "&Опције програма $(^NameDA)"
-
-#~ msgid "&Tell us what you thought of ${BrandShortName}"
-#~ msgstr "О&цените програм ${BrandShortName}"
-
-#~ msgid "&Launch ${BrandFullName} now"
-#~ msgstr "&Покрени програм ${BrandFullName}"
-
-#~ msgid ""
-#~ "${BrandFullName} must be closed to proceed with the installation.\n"
-#~ "\n"
-#~ "Click \"OK\" to exit ${BrandFullName} automatically and continue."
-#~ msgstr ""
-#~ "Програм ${BrandFullName} мора бити затворен да би се инсталација "
-#~ "наставила.\n"
-#~ "\n"
-#~ "Притисните \"У реду\" да окончате програм ${BrandFullName} и аутоматски "
-#~ "наставите."
-
-#~ msgid ""
-#~ "${BrandFullName} must be closed to proceed with the uninstall.\n"
-#~ "\n"
-#~ "Click \"OK\" to exit ${BrandFullName} automatically and continue."
-#~ msgstr ""
-#~ "Програм ${BrandFullName} мора бити затворен да би се деинсталација "
-#~ "наставила.\n"
-#~ "\n"
-#~ "Притисните \"У реду\" да окончате програм ${BrandFullName} и аутоматски "
-#~ "наставите."
-
-#~ msgid "Create icons for ${BrandShortName}:"
-#~ msgstr "Прављење сличица за програм ${BrandShortName}:"
-
-#~ msgid "Installing ${BrandShortName}..."
-#~ msgstr "Инсталација програма ${BrandShortName}..."
-
-#~ msgid "Installing Language Files (${AB_CD})..."
-#~ msgstr "Инсталација језичких датотека (${AB_CD})..."
-
-#~ msgid "Installing Optional Components..."
-#~ msgstr "Инсталација изборних компоненти..."
-
-#~ msgid "Uninstalling ${BrandShortName}..."
-#~ msgstr "Деинсталација програма ${BrandShortName}..."
-
-#~ msgid "A Little Housekeeping..."
-#~ msgstr "Сређивање..."
-
-# One line
-#~ msgid "${BrandShortName} will be installed with the most common options."
-#~ msgstr ""
-#~ "Програм ${BrandShortName} ће бити инсталиран са најчешће коришћеним "
-#~ "опцијама."
-
-# One line
-#~ msgid "${BrandShortName} will be installed with all available options."
-#~ msgstr ""
-#~ "Програм ${BrandShortName} ће бити инсталиран са свим доступним опцијама."

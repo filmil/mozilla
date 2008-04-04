@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/places/places.properties
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/places/places.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-04-04 20:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: deleteHost
@@ -53,11 +52,11 @@ msgstr ""
 msgid "(Empty)"
 msgstr ""
 
-# LOCALIZATION NOTE (bookmarksBackupFilename) :
-# %S will be replaced by the current date in ISO 8601 format, YYYY-MM-DD.
-# The resulting string will be suggested as a filename, so make sure that you're
-# only using characters legal for file names. Consider falling back to the
-# en-US value if you have to use non-ascii characters.
+#. # LOCALIZATION NOTE (bookmarksBackupFilename) :
+#. # %S will be replaced by the current date in ISO 8601 format, YYYY-MM-DD.
+#. # The resulting string will be suggested as a filename, so make sure that you're
+#. # only using characters legal for file names. Consider falling back to the
+#. # en-US value if you have to use non-ascii characters.
 #: bookmarksBackupFilename
 msgid "Bookmarks %S.html"
 msgstr ""
@@ -88,6 +87,22 @@ msgstr ""
 
 #: bookmarksRestoreTitle
 msgid "Select a bookmarks backup"
+msgstr ""
+
+#: bookmarksRestoreFilterName
+msgid "JSON"
+msgstr ""
+
+#: bookmarksRestoreFilterExtension
+msgid "*.json"
+msgstr ""
+
+#: bookmarksRestoreFormatError
+msgid "Unsupported file type."
+msgstr ""
+
+#: bookmarksRestoreParseError
+msgid "Unable to process the backup file."
 msgstr ""
 
 #: headerTextPrefix1
@@ -123,13 +138,12 @@ msgid "S"
 msgstr ""
 
 #: defaultGroupOffLabel
-#: livemarkGroupOffLabel
+msgctxt "defaultGroupOffLabel"
 msgid "No Grouping"
 msgstr ""
 
 #: defaultGroupOffAccesskey
-#: livemarkGroupOffAccesskey
-#: view.sortBy.name.accesskey
+msgctxt "defaultGroupOffAccesskey"
 msgid "N"
 msgstr ""
 
@@ -139,6 +153,16 @@ msgstr ""
 
 #: livemarkGroupOnAccesskey
 msgid "F"
+msgstr ""
+
+#: livemarkGroupOffLabel
+msgctxt "livemarkGroupOffLabel"
+msgid "No Grouping"
+msgstr ""
+
+#: livemarkGroupOffAccesskey
+msgctxt "livemarkGroupOffAccesskey"
+msgid "N"
 msgstr ""
 
 #: livemarkReload
@@ -158,8 +182,18 @@ msgid "Sort '%S' by Name"
 msgstr ""
 
 #: sortByNameGeneric
-#: view.sortBy.name.label
+msgctxt "sortByNameGeneric"
 msgid "Sort by Name"
+msgstr ""
+
+#: view.sortBy.name.label
+msgctxt "view.sortBy.name.label"
+msgid "Sort by Name"
+msgstr ""
+
+#: view.sortBy.name.accesskey
+msgctxt "view.sortBy.name.accesskey"
+msgid "N"
 msgstr ""
 
 #: view.sortBy.url.label
@@ -228,6 +262,10 @@ msgstr ""
 
 #: searchBookmarks
 msgid "Search Bookmarks"
+msgstr ""
+
+#: searchHistory
+msgid "Search History"
 msgstr ""
 
 #: searchCurrentDefault
@@ -320,18 +358,18 @@ msgstr ""
 msgid "All Bookmarks"
 msgstr ""
 
-# LOCALIZATION NOTE (tagResultLabel) :
-# This is what we use to form the label (for screen readers)
-# for url bar autocomplete results of type "tag"
-# See createResultLabel() in urlbarBindings.xml 
+#. # LOCALIZATION NOTE (tagResultLabel) :
+#. # This is what we use to form the label (for screen readers)
+#. # for url bar autocomplete results of type "tag"
+#. # See createResultLabel() in urlbarBindings.xml
 #: tagResultLabel
 msgid "Tag"
 msgstr ""
 
-# LOCALIZATION NOTE (bookmarkResultLabel) :
-# This is what we use to form the label (for screen readers)
-# for url bar autocomplete results of type "bookmark"
-# See createResultLabel() in urlbarBindings.xml 
+#. # LOCALIZATION NOTE (bookmarkResultLabel) :
+#. # This is what we use to form the label (for screen readers)
+#. # for url bar autocomplete results of type "bookmark"
+#. # See createResultLabel() in urlbarBindings.xml
 #: bookmarkResultLabel
 msgid "Bookmark"
 msgstr ""

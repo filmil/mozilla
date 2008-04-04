@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/help/help.dtd
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/mozapps/help/help.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 01:44+0100\n"
+"POT-Creation-Date: 2008-04-04 20:35+0200\n"
+"PO-Revision-Date: 2008-04-04 20:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: printCmd.commandkey
@@ -30,7 +29,8 @@ msgstr "G"
 msgid "VK_F3"
 msgstr "VK_F3"
 
-#: backButton.label backButton.accesskey
+#: backButton.label
+#: backButton.accesskey
 msgid "&Back"
 msgstr "&Назад"
 
@@ -38,7 +38,8 @@ msgstr "&Назад"
 msgid "Go back one page"
 msgstr "Назад за једну страну"
 
-#: forwardButton.label forwardButton.accesskey
+#: forwardButton.label
+#: forwardButton.accesskey
 msgid "&Forward"
 msgstr "&Напред"
 
@@ -46,11 +47,13 @@ msgstr "&Напред"
 msgid "Go forward one page"
 msgstr "Напред за једну страну"
 
-#: copyCmd.label copyCmd.accesskey
+#: copyCmd.label
+#: copyCmd.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
-#: selectAllCmd.label selectAllCmd.accesskey
+#: selectAllCmd.label
+#: selectAllCmd.accesskey
 msgid "Select &All"
 msgstr "Изабери с&ве"
 
@@ -82,7 +85,8 @@ msgstr "Штампај ову страну"
 msgid "W"
 msgstr "W"
 
-#: searchtab.label searchtab.accesskey
+#: searchtab.label
+#: searchtab.accesskey
 msgid "&Search"
 msgstr "&Претрага"
 
@@ -90,51 +94,65 @@ msgstr "&Претрага"
 msgid "Close search results"
 msgstr "Затвори резултате претраге"
 
-#: toctab.label toctab.accesskey
+#: toctab.label
+#: toctab.accesskey
 msgid "&Contents"
 msgstr "&Садржај"
 
+#. LOCALIZATION NOTE :
+#. fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+#. fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+#. If shift key is needed with your locale popular keyboard for them,
+#. you can use these alternative items. Otherwise, their values should be empty.
 #: fullZoomReduceCmd.commandkey
 msgid "-"
 msgstr "-"
+
+#: fullZoomReduceCmd.commandkey2
+msgid ""
+"_: fullZoomReduceCmd.commandkey2\n"
+""
+msgstr ""
 
 #: fullZoomEnlargeCmd.commandkey
 msgid "+"
 msgstr "+"
 
 # + is above this key on many keyboards
+#. + is above this key on many keyboards
 #: fullZoomEnlargeCmd.commandkey2
 msgid "="
 msgstr "="
+
+#: fullZoomEnlargeCmd.commandkey3
+msgctxt "fullZoomEnlargeCmd.commandkey3"
+msgid ""
+msgstr ""
 
 #: fullZoomResetCmd.commandkey
 msgid "0"
 msgstr "0"
 
+#: fullZoomResetCmd.commandkey2
+msgctxt "fullZoomResetCmd.commandkey2"
+msgid ""
+msgstr ""
+
 #: helpSearch.commandkey
 msgid "k"
 msgstr "k"
 
-#: zLevel.label zLevel.accesskey
+#: zLevel.label
+#: zLevel.accesskey
 msgid "Always on &Top"
 msgstr "У&век на врху"
 
-#: fullZoomReduceBtn.label fullZoomReduceBtn.accesskey
+#: fullZoomReduceBtn.label
+#: fullZoomReduceBtn.accesskey
 msgid "Zoom &Out"
 msgstr "У&мањи"
 
-#: fullZoomEnlargeBtn.label fullZoomEnlargeBtn.accesskey
+#: fullZoomEnlargeBtn.label
+#: fullZoomEnlargeBtn.accesskey
 msgid "Zoom &In"
 msgstr "У&већај"
-
-#~ msgid "Activity Indicator"
-#~ msgstr "Индикатор активности"
-
-#~ msgid "Go to the Help on Help section"
-#~ msgstr "Иди на помоћ у делу помоћи"
-
-#~ msgid "&Decrease Text Size"
-#~ msgstr "&Умањи слова"
-
-#~ msgid "&Increase Text Size"
-#~ msgstr "У&већај слова"

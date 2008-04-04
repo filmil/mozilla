@@ -1,25 +1,26 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/places/places.dtd
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/places/places.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-30 20:31+0200\n"
+"POT-Creation-Date: 2008-04-04 20:03+0200\n"
+"PO-Revision-Date: 2008-04-04 20:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
+#. use "Library", "Archive" or "Repository"
 #: places.library.title
 msgid ""
 "_: use \"Library\", \"Archive\" or \"Repository\"\n"
 "Library"
 msgstr "Библиотека"
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: places.library.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -27,6 +28,7 @@ msgid ""
 "700"
 msgstr "700"
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: places.library.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -34,15 +36,19 @@ msgid ""
 "500"
 msgstr "500"
 
-#: organize.label organize.accesskey
+#: organize.label
+#: organize.accesskey
 msgid "&Organize"
 msgstr "&Среди"
 
-#: file.accesskey cmd.context_new_folder.accesskey
+#: file.accesskey
+#: cmd.context_new_folder.accesskey
+msgctxt "file.accesskey"
 msgid "F"
 msgstr "Д"
 
-#: file.close.label file.close.accesskey
+#: file.close.label
+#: file.close.accesskey
 msgid "&Close"
 msgstr "&Затвори"
 
@@ -50,79 +56,98 @@ msgstr "&Затвори"
 msgid "w"
 msgstr "w"
 
-#: edit.label edit.accesskey
+#: edit.label
+#: edit.accesskey
 msgid "&Edit"
 msgstr "&Уреди"
 
-#: views.label views.accesskey
+#: views.label
+#: views.accesskey
 msgid "&Views"
 msgstr "&Погледи"
 
-#: view.toolbar.label view.toolbar.accesskey
+#: view.toolbar.label
+#: view.toolbar.accesskey
 msgid "T&oolbar"
 msgstr "&Алатна трака"
 
-#: view.columns.label view.columns.accesskey
+#: view.columns.label
+#: view.columns.accesskey
 msgid "Show &Columns"
 msgstr "Приказ &колона"
 
-#: view.sort.label view.sort.accesskey
+#: view.sort.label
+#: view.sort.accesskey
 msgid "&Sort"
 msgstr "&Поређај"
 
-#: view.unsorted.label view.unsorted.accesskey
+#: view.unsorted.label
+#: view.unsorted.accesskey
 msgid "&Unsorted"
 msgstr "&Неуређено"
 
-#: view.sortAscending.label view.sortAscending.accesskey
+#: view.sortAscending.label
+#: view.sortAscending.accesskey
 msgid "&A > Z Sort Order"
 msgstr "Ра&стући редослед"
 
-#: view.sortDescending.label view.sortDescending.accesskey
+#: view.sortDescending.label
+#: view.sortDescending.accesskey
 msgid "&Z > A Sort Order"
 msgstr "О&падајући редослед"
 
-#: help.usingBookmarks.label help.usingBookmarks.accesskey
+#: help.usingBookmarks.label
+#: help.usingBookmarks.accesskey
 msgid "Using &Bookmarks"
 msgstr "Употреба &забелешки"
 
-#: help.usingHistory.label help.usingHistory.accesskey
+#: help.usingHistory.label
+#: help.usingHistory.accesskey
 msgid "Us&ing History"
 msgstr "Употреба &историјата"
 
-#: help.advancedTips.label help.advancedTips.accesskey
+#: help.advancedTips.label
+#: help.advancedTips.accesskey
 msgid "Advanced &Tips &amp; Tricks"
 msgstr "Напредни &савети и трикови"
 
-#: cmd.findInBookmarks.label cmd.findInBookmarks.accesskey
+#: cmd.findInBookmarks.label
+#: cmd.findInBookmarks.accesskey
 msgid "&Find in Bookmarks…"
 msgstr "Нађи међу за&белешкама…"
 
-#: cmd.findCurrent.label cmd.findCurrent.accesskey
+#: cmd.findCurrent.label
+#: cmd.findCurrent.accesskey
 msgid "F&ind in Current Collection…"
 msgstr "Нађи у &важећој збирци…"
 
-#: cmd.export.label cmd.export.accesskey
-msgid "&Export…"
-msgstr "&Извоз…"
+#: cmd.exportHTML.label
+#: cmd.exportHTML.accesskey
+msgid "&Export HTML…"
+msgstr "&Извоз ХТМЛа…"
 
-#: cmd.import.label cmd.import.accesskey
-msgid "&Import…"
-msgstr "&Увоз…"
+#: cmd.importHTML.label
+#: cmd.importHTML.accesskey
+msgid "&Import HTML…"
+msgstr "&Увоз ХТМЛа…"
 
-#: cmd.backup.label cmd.backup.accesskey
+#: cmd.backup.label
+#: cmd.backup.accesskey
 msgid "&Backup…"
 msgstr "&Архивирање…"
 
-#: cmd.restore.label cmd.restore.accesskey
-msgid "&Restore…"
-msgstr "Вра&ћање…"
+#: cmd.restore2.label
+#: cmd.restore2.accesskey
+msgid "&Restore"
+msgstr "&Врати"
 
-#: cmd.restoreFromFile.label cmd.restoreFromFile.accesskey
+#: cmd.restoreFromFile.label
+#: cmd.restoreFromFile.accesskey
 msgid "&Choose File…"
 msgstr "&Избор датотеке"
 
-#: cmd.select_all.label cmd.select_all.accesskey
+#: cmd.select_all.label
+#: cmd.select_all.accesskey
 msgid "Select &All"
 msgstr "Изабери &све"
 
@@ -130,7 +155,8 @@ msgstr "Изабери &све"
 msgid "a"
 msgstr "a"
 
-#: cmd.edit_cut.label cmd.edit_cut.accesskey
+#: cmd.edit_cut.label
+#: cmd.edit_cut.accesskey
 msgid "Cu&t"
 msgstr "&Исеци"
 
@@ -138,7 +164,8 @@ msgstr "&Исеци"
 msgid "x"
 msgstr "x"
 
-#: cmd.edit_copy.label cmd.edit_copy.accesskey
+#: cmd.edit_copy.label
+#: cmd.edit_copy.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
@@ -146,7 +173,8 @@ msgstr "&Умножи"
 msgid "c"
 msgstr "c"
 
-#: cmd.edit_paste.label cmd.edit_paste.accesskey
+#: cmd.edit_paste.label
+#: cmd.edit_paste.accesskey
 msgid "&Paste"
 msgstr "&Убаци"
 
@@ -154,11 +182,13 @@ msgstr "&Убаци"
 msgid "v"
 msgstr "v"
 
-#: cmd.edit_delete.label cmd.edit_delete.accesskey
+#: cmd.edit_delete.label
+#: cmd.edit_delete.accesskey
 msgid "&Delete"
 msgstr "У&клони"
 
-#: cmd.edit_undo.label cmd.edit_undo.accesskey
+#: cmd.edit_undo.label
+#: cmd.edit_undo.accesskey
 msgid "&Undo"
 msgstr "&Опозови"
 
@@ -166,7 +196,8 @@ msgstr "&Опозови"
 msgid "z"
 msgstr "z"
 
-#: cmd.edit_redo.label cmd.edit_redo.accesskey
+#: cmd.edit_redo.label
+#: cmd.edit_redo.accesskey
 msgid "&Redo"
 msgstr "&Понови"
 
@@ -174,23 +205,28 @@ msgstr "&Понови"
 msgid "y"
 msgstr "y"
 
-#: cmd.open.label cmd.open.accesskey
+#: cmd.open.label
+#: cmd.open.accesskey
 msgid "&Open"
 msgstr "&Отвори"
 
-#: cmd.open_window.label cmd.open_window.accesskey
+#: cmd.open_window.label
+#: cmd.open_window.accesskey
 msgid "Open in a &New Window"
 msgstr "Отвори у &новом прозору"
 
-#: cmd.open_tab.label cmd.open_tab.accesskey
+#: cmd.open_tab.label
+#: cmd.open_tab.accesskey
 msgid "Open in a Ne&w Tab"
 msgstr "Отвори у новом &језичку"
 
-#: cmd.open_all_in_tabs.label cmd.open_all_in_tabs.accesskey
+#: cmd.open_all_in_tabs.label
+#: cmd.open_all_in_tabs.accesskey
 msgid "&Open All in Tabs"
 msgstr "Отвори све у је&зичцима"
 
-#: cmd.properties.label cmd.properties.accesskey
+#: cmd.properties.label
+#: cmd.properties.accesskey
 msgid "Propert&ies"
 msgstr "&Својства"
 
@@ -198,11 +234,13 @@ msgstr "&Својства"
 msgid "i"
 msgstr "i"
 
-#: cmd.rename.label cmd.rename.accesskey
+#: cmd.rename.label
+#: cmd.rename.accesskey
 msgid "&Rename"
 msgstr "Преи&менуј"
 
-#: cmd.sortby_name.label cmd.sortby_name.accesskey
+#: cmd.sortby_name.label
+#: cmd.sortby_name.accesskey
 msgid "&Sort By Name"
 msgstr "&Ређај по имену"
 
@@ -210,47 +248,64 @@ msgstr "&Ређај по имену"
 msgid "r"
 msgstr "r"
 
-#: cmd.new_bookmark.label cmd.new_bookmark.accesskey
+#: cmd.new_bookmark.label
+#: cmd.new_bookmark.accesskey
 msgid "New &Bookmark…"
 msgstr "Нова &забелешка…"
 
-#: cmd.new_livemark.label cmd.new_livemark.accesskey
+#: cmd.new_livemark.label
+#: cmd.new_livemark.accesskey
 msgid "New &Live Bookmark…"
 msgstr "Нова &жива забелешка…"
 
-#: cmd.new_folder.label cmd.new_folder.accesskey
+#: cmd.new_folder.label
+#: cmd.new_folder.accesskey
 msgid "New F&older…"
 msgstr "Нови &директоријум…"
 
-#: cmd.new_separator.label cmd.new_separator.accesskey
+#: cmd.context_new_folder.accesskey
+#: file.accesskey
+msgctxt "cmd.context_new_folder.accesskey"
+msgid "F"
+msgstr "Д"
+
+#: cmd.new_separator.label
+#: cmd.new_separator.accesskey
 msgid "New &Separator"
 msgstr "Нови &раздвајач"
 
-#: cmd.reloadLivebookmark.label cmd.reloadLivebookmark.accesskey
+#: cmd.reloadLivebookmark.label
+#: cmd.reloadLivebookmark.accesskey
 msgid "&Reload Live Bookmark"
 msgstr "&Освежи живу забелешку"
 
-#: cmd.reloadMicrosummary.label cmd.reloadMicrosummary.accesskey
+#: cmd.reloadMicrosummary.label
+#: cmd.reloadMicrosummary.accesskey
 msgid "&Reload Live Title"
 msgstr "О&свежи живи наслов"
 
-#: cmd.groupby_site.label cmd.groupby_site.accesskey
+#: cmd.groupby_site.label
+#: cmd.groupby_site.accesskey
 msgid "Group by &Site"
 msgstr "Групиши према &сајту"
 
-#: cmd.groupby_page.label cmd.groupby_page.accesskey
+#: cmd.groupby_page.label
+#: cmd.groupby_page.accesskey
 msgid "Group by &Page"
 msgstr "Групиши према с&трани"
 
-#: cmd.groupby_feed.label cmd.groupby_feed.accesskey
+#: cmd.groupby_feed.label
+#: cmd.groupby_feed.accesskey
 msgid "Group by &Subscription"
 msgstr "Групиши према &праћењу"
 
-#: cmd.groupby_post.label cmd.groupby_post.accesskey
+#: cmd.groupby_post.label
+#: cmd.groupby_post.accesskey
 msgid "Group by &Post"
 msgstr "Групиши по п&оруци"
 
-#: cmd.moveBookmarks.label cmd.moveBookmarks.accesskey
+#: cmd.moveBookmarks.label
+#: cmd.moveBookmarks.accesskey
 msgid "&Move…"
 msgstr "&Премести…"
 
@@ -262,7 +317,9 @@ msgstr "Име"
 msgid "Tags"
 msgstr "Ознаке"
 
-#: col.url.label advancedSearch.subj_location.label
+#: col.url.label
+#: advancedSearch.subj_location.label
+msgctxt "col.url.label"
 msgid "Location"
 msgstr "Место"
 
@@ -290,32 +347,49 @@ msgstr "Додато"
 msgid "Last Modified"
 msgstr "Последња измена"
 
-#: search.label search.accesskey
+#: search.label
+#: search.accesskey
 msgid "&Search:"
 msgstr "&Претражи:"
 
-#: search.collection.label search.collection.accesskey
+#: search.collection.label
+#: search.collection.accesskey
 msgid "&Current Collection Only"
 msgstr "По &тренутној збирци"
 
-#: search.allBookmarks.label search.allBookmarks.accesskey
-#: search.scopeAll.label search.scopeAll.accesskey
+#: search.allBookmarks.label
+#: search.allBookmarks.accesskey
+#: search.scopeAll.label
+#: search.scopeAll.accesskey
+msgctxt "search.allBookmarks.label search.allBookmarks.accesskey"
 msgid "&All Bookmarks"
 msgstr "С&ве забелешке"
 
-#: search.scopeFolder.label search.scopeFolder.accesskey
+#: search.scopeFolder.label
+#: search.scopeFolder.accesskey
 msgid "Selected &Folder"
 msgstr "&Изабрани директоријум"
 
-#: search.scopeMenu.label search.scopeMenu.accesskey
+#: search.scopeAll.label
+#: search.scopeAll.accesskey
+#: search.allBookmarks.label
+#: search.allBookmarks.accesskey
+msgctxt "search.scopeAll.label search.scopeAll.accesskey"
+msgid "&All Bookmarks"
+msgstr "С&ве забелешке"
+
+#: search.scopeMenu.label
+#: search.scopeMenu.accesskey
 msgid "Bookmarks &Menu"
 msgstr "&Мени забелешки"
 
-#: search.scopeToolbar.label search.scopeToolbar.accesskey
+#: search.scopeToolbar.label
+#: search.scopeToolbar.accesskey
 msgid "Bookmarks &Toolbar"
 msgstr "&Траку забелешки"
 
-#: search.scopeDownloads.label search.scopeDownloads.accesskey
+#: search.scopeDownloads.label
+#: search.scopeDownloads.accesskey
 msgid "&Downloads"
 msgstr "&Пријеми"
 
@@ -335,11 +409,14 @@ msgstr "Прикажи градитеља претраге"
 msgid "Hide search builder"
 msgstr "Сакриј градитеља претраге"
 
-#: saveSearch.label saveSearch.accesskey
+#: saveSearch.label
+#: saveSearch.accesskey
 msgid "&Save"
 msgstr "&Сачувај"
 
-#: moreCriteria.label advancedSearch.plus.label
+#: moreCriteria.label
+#: advancedSearch.plus.label
+msgctxt "moreCriteria.label"
 msgid "+"
 msgstr "+"
 
@@ -370,6 +447,12 @@ msgstr "Садржи текст"
 #: advancedSearch.subj_visited.label
 msgid "Visited"
 msgstr "Посећено"
+
+#: advancedSearch.subj_location.label
+#: col.url.label
+msgctxt "advancedSearch.subj_location.label"
+msgid "Location"
+msgstr "Место"
 
 #: advancedSearch.location_startswith.label
 msgid "starts with"
@@ -410,6 +493,12 @@ msgstr "недеља"
 #: advancedSearch.last_months.label
 msgid "months"
 msgstr "месеци"
+
+#: advancedSearch.plus.label
+#: moreCriteria.label
+msgctxt "advancedSearch.plus.label"
+msgid "+"
+msgstr "+"
 
 #: advancedSearch.minus.label
 msgid "-"
@@ -479,7 +568,8 @@ msgstr "Прати"
 msgid "List"
 msgstr "Списак"
 
-#: view.details.label view.details.accesskey
+#: view.details.label
+#: view.details.accesskey
 msgid "&Details"
 msgstr "&Детаљи"
 
@@ -487,11 +577,13 @@ msgstr "&Детаљи"
 msgid "Get View Add-ons"
 msgstr "Добавка додатака за преглед"
 
-#: maintenance.label maintenance.accesskey
+#: maintenance.label
+#: maintenance.accesskey
 msgid "&Import and Backup"
 msgstr "&Увоз и архивирање"
 
-#: backCmd.label backCmd.accesskey
+#: backCmd.label
+#: backCmd.accesskey
 msgid "&Back"
 msgstr "&Назад"
 
@@ -499,7 +591,8 @@ msgstr "&Назад"
 msgid "Go back"
 msgstr "Повратак назад"
 
-#: forwardCmd.label forwardCmd.accesskey
+#: forwardCmd.label
+#: forwardCmd.accesskey
 msgid "&Forward"
 msgstr "&Напред"
 
@@ -507,11 +600,13 @@ msgstr "&Напред"
 msgid "Go forward"
 msgstr "Кретање напред"
 
-#: detailsPane.more.label detailsPane.more.accesskey
+#: detailsPane.more.label
+#: detailsPane.more.accesskey
 msgid "Mor&e"
 msgstr "Ви&ше"
 
-#: detailsPane.less.label detailsPane.less.accesskey
+#: detailsPane.less.label
+#: detailsPane.less.accesskey
 msgid "L&ess"
 msgstr "Ма&ње"
 

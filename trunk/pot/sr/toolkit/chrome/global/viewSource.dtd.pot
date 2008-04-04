@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/global/viewSource.dtd
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/global/viewSource.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-04-04 20:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: mainWindow.preface
@@ -61,6 +60,11 @@ msgstr ""
 msgid "W"
 msgstr ""
 
+#. LOCALIZATION NOTE :
+#. textEnlarge.commandkey3, textReduce.commandkey2 and
+#. textReset.commandkey2 are alternative acceleration keys for zoom.
+#. If shift key is needed with your locale popular keyboard for them,
+#. you can use these alternative items. Otherwise, their values should be empty.
 #: textEnlarge.commandkey
 msgid "+"
 msgstr ""
@@ -69,12 +73,27 @@ msgstr ""
 msgid "="
 msgstr ""
 
+#: textEnlarge.commandkey3
+msgid ""
+"_: textEnlarge.commandkey3\n"
+msgstr ""
+
 #: textReduce.commandkey
 msgid "-"
 msgstr ""
 
+#: textReduce.commandkey2
+msgctxt "textReduce.commandkey2"
+msgid ""
+msgstr ""
+
 #: textReset.commandkey
 msgid "0"
+msgstr ""
+
+#: textReset.commandkey2
+msgctxt "textReset.commandkey2"
+msgid ""
 msgstr ""
 
 #: goToLineCmd.label

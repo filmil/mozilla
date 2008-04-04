@@ -1,22 +1,21 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/downloads/downloads.properties
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/mozapps/downloads/downloads.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-04-04 20:19+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
-# LOCALIZATION NOTE (seconds, minutes, hours, days): Semi-colon list of plural
-# forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # LOCALIZATION NOTE (seconds, minutes, hours, days): Semi-colon list of plural
+#. # forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
 #: seconds
 msgid "second;seconds"
 msgstr ""
@@ -33,7 +32,7 @@ msgstr ""
 msgid "day;days"
 msgstr ""
 
-# LOCALIZATION NOTE (paused): — is the "em dash" (long dash)
+#. # LOCALIZATION NOTE (paused): — is the "em dash" (long dash)
 #: paused
 msgid "Paused —  #1"
 msgstr ""
@@ -47,7 +46,7 @@ msgid "Not Started"
 msgstr ""
 
 #: failed
-#: stateFailed
+msgctxt "failed"
 msgid "Failed"
 msgstr ""
 
@@ -56,7 +55,7 @@ msgid "Finished"
 msgstr ""
 
 #: canceled
-#: stateCanceled
+msgctxt "canceled"
 msgid "Canceled"
 msgstr ""
 
@@ -76,7 +75,7 @@ msgid ""
 msgstr ""
 
 #: quitCancelDownloadsAlertTitle
-#: offlineCancelDownloadsAlertTitle
+msgctxt "quitCancelDownloadsAlertTitle"
 msgid "Cancel All Downloads?"
 msgstr ""
 
@@ -100,6 +99,11 @@ msgstr ""
 msgid ""
 "If you quit now, %S downloads will be canceled. Are you sure you want to "
 "quit?"
+msgstr ""
+
+#: offlineCancelDownloadsAlertTitle
+msgctxt "offlineCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
 msgstr ""
 
 #: offlineCancelDownloadsAlertMsg
@@ -142,9 +146,9 @@ msgstr ""
 msgid "All files have finished downloading."
 msgstr ""
 
-# LOCALIZATION NOTE (statusFormat2): — is the "em dash" (long dash)
-# #1 transfer progress; #2 rate number; #3 rate unit; #4 time left
-# example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
+#. # LOCALIZATION NOTE (statusFormat2): — is the "em dash" (long dash)
+#. # #1 transfer progress; #2 rate number; #3 rate unit; #4 time left
+#. # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 #: statusFormat2
 msgid "#4 — #1 (#2 #3/sec)"
 msgstr ""
@@ -165,9 +169,9 @@ msgstr ""
 msgid "GB"
 msgstr ""
 
-# LOCALIZATION NOTE (transferSameUnits, transferDiffUnits, transferNoTotal):
-# #1 progress number; #2 progress unit; #3 total number; #4 total unit
-# examples: 1.1 of 333 MB; 11.1 MB of 3.3 GB; 111 KB
+#. # LOCALIZATION NOTE (transferSameUnits, transferDiffUnits, transferNoTotal):
+#. # #1 progress number; #2 progress unit; #3 total number; #4 total unit
+#. # examples: 1.1 of 333 MB; 11.1 MB of 3.3 GB; 111 KB
 #: transferSameUnits
 msgid "#1 of #3 #4"
 msgstr ""
@@ -176,25 +180,26 @@ msgstr ""
 msgid "#1 #2 of #3 #4"
 msgstr ""
 
-# LOCALIZATION NOTE (timePair): #1 time number; #2 time unit
-# example: 1 minute; 11 hours
-# LOCALIZATION NOTE (doneSize): #1 size number; #2 size unit
-# LOCALIZATION NOTE (monthDate): #1 month name; #2 date number; e.g., January 22
 #: transferNoTotal
-#: timePair
-#: doneSize
-#: monthDate
+msgctxt "transferNoTotal"
 msgid "#1 #2"
 msgstr ""
 
-# LOCALIZATION NOTE (timeLeftSingle): #1 time left
-# example: 1 minute remaining; 11 hours remaining
+#. # LOCALIZATION NOTE (timePair): #1 time number; #2 time unit
+#. # example: 1 minute; 11 hours
+#: timePair
+msgctxt "timePair"
+msgid "#1 #2"
+msgstr ""
+
+#. # LOCALIZATION NOTE (timeLeftSingle): #1 time left
+#. # example: 1 minute remaining; 11 hours remaining
 #: timeLeftSingle
 msgid "#1 remaining"
 msgstr ""
 
-# LOCALIZATION NOTE (timeLeftDouble): #1 time left; #2 time left sub units
-# example: 11 hours, 2 minutes remaining; 1 day, 22 hours remaining
+#. # LOCALIZATION NOTE (timeLeftDouble): #1 time left; #2 time left sub units
+#. # example: 11 hours, 2 minutes remaining; 1 day, 22 hours remaining
 #: timeLeftDouble
 msgid "#1, #2 remaining"
 msgstr ""
@@ -207,30 +212,46 @@ msgstr ""
 msgid "Unknown time remaining"
 msgstr ""
 
-# LOCALIZATION NOTE (doneStatus): — is the "em dash" (long dash)
-# #1 download size for FINISHED or download state; #2 host (e.g., eTLD + 1, IP)
-# #2 can also be doneScheme or doneFileScheme for special URIs like file:
-# examples: 1.1 MB — website2.com; Canceled — 222.net
+#. # LOCALIZATION NOTE (doneStatus): — is the "em dash" (long dash)
+#. # #1 download size for FINISHED or download state; #2 host (e.g., eTLD + 1, IP)
+#. # #2 can also be doneScheme or doneFileScheme for special URIs like file:
+#. # examples: 1.1 MB — website2.com; Canceled — 222.net
 #: doneStatus
 msgid "#1 — #2"
+msgstr ""
+
+#. # LOCALIZATION NOTE (doneSize): #1 size number; #2 size unit
+#: doneSize
+msgctxt "doneSize"
+msgid "#1 #2"
 msgstr ""
 
 #: doneSizeUnknown
 msgid "Unknown size"
 msgstr ""
 
-# LOCALIZATION NOTE (doneScheme): #1 URI scheme like data: jar: about:
+#. # LOCALIZATION NOTE (doneScheme): #1 URI scheme like data: jar: about:
 #: doneScheme
 msgid "#1 resource"
 msgstr ""
 
-# LOCALIZATION NOTE (doneFileScheme): Special case of doneScheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
+#. # LOCALIZATION NOTE (doneFileScheme): Special case of doneScheme for file:
+#. # This is used as an eTLD replacement for local files, so make it lower case
 #: doneFileScheme
 msgid "local file"
 msgstr ""
 
-# LOCALIZATION NOTE (stateBlocked): 'Parental Controls' should be capitalized
+#: stateFailed
+msgctxt "stateFailed"
+msgid "Failed"
+msgstr ""
+
+#: stateCanceled
+msgctxt "stateCanceled"
+msgid "Canceled"
+msgstr ""
+
+#. # LOCALIZATION NOTE (stateBlocked): 'Parental Controls' should be capitalized
 #: stateBlocked
 msgid "Blocked by Parental Controls"
 msgstr ""
@@ -239,9 +260,20 @@ msgstr ""
 msgid "Blocked: Download may contain a virus or spyware"
 msgstr ""
 
-# LOCALIZATION NOTE (yesterday): Displayed time for files finished yesterday
+#. # LOCALIZATION NOTE (stateBlockedPolicy): 'Security Zone Policy' should be capitalized
+#: stateBlockedPolicy
+msgid "This download has been blocked by your Security Zone Policy"
+msgstr ""
+
+#. # LOCALIZATION NOTE (yesterday): Displayed time for files finished yesterday
 #: yesterday
 msgid "Yesterday"
+msgstr ""
+
+#. # LOCALIZATION NOTE (monthDate): #1 month name; #2 date number; e.g., January 22
+#: monthDate
+msgctxt "monthDate"
+msgid "#1 #2"
 msgstr ""
 
 #: fileDoesNotExistOpenTitle
@@ -262,10 +294,10 @@ msgstr ""
 msgid "Open With…"
 msgstr ""
 
-# LOCALIZATION NOTE (downloadsTitleFiles, downloadsTitlePercent): Semi-colon list of
-# plural forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
-# #1 number of files; #2 overall download percent (only for downloadsTitlePercent)
-# examples: 2% of 1 file - Downloads; 22% of 11 files - Downloads
+#. # LOCALIZATION NOTE (downloadsTitleFiles, downloadsTitlePercent): Semi-colon list of
+#. # plural forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of files; #2 overall download percent (only for downloadsTitlePercent)
+#. # examples: 2% of 1 file - Downloads; 22% of 11 files - Downloads
 #: downloadsTitleFiles
 msgid "#1 file - Downloads;#1 files - Downloads"
 msgstr ""
@@ -293,7 +325,7 @@ msgstr ""
 msgid "Desktop"
 msgstr ""
 
-# Desktop folder name for downloaded files
+#. # Desktop folder name for downloaded files
 #: downloadsFolder
 msgid "Downloads"
 msgstr ""

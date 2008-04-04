@@ -1,25 +1,27 @@
-# extracted from source/sr-RS/extensions/reporter/chrome/reportWizard.dtd
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 02:42+0100\n"
+"PO-Revision-Date: 2008-04-04 20:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+
 
 # Entities for the Sample Extension Options Dialog go here
+#. Entities for the Sample Extension Options Dialog go here
 #: reportWizard.title
 msgid "Report A Broken Web Site"
 msgstr "Пријави неисправан веб сајт"
 
-#: privacyNotice.label reportForm.privacyPolicy.title
+#: privacyNotice.label
+#: reportForm.privacyPolicy.title
+msgctxt "privacyNotice.label"
 msgid "Privacy Policy"
 msgstr "Полиса о приватности"
 
@@ -43,7 +45,8 @@ msgstr ""
 "Да бисте наставили, неопходно је да прихватите полису о приватности дату "
 "изнад."
 
-#: dontShowPrivacyStatement.label dontShowPrivacyStatement.accesskey
+#: dontShowPrivacyStatement.label
+#: dontShowPrivacyStatement.accesskey
 msgid "&I have read and accept the above privacy policy."
 msgstr "&Прочитао-прочитала сам полису и прихватам је."
 
@@ -55,16 +58,20 @@ msgstr "Испуни извештај"
 msgid "Tell us a little about the problem you encountered:"
 msgstr "Реците нам на какав сте проблем наишли:"
 
-#: reportForm.url.title reportForm.url.accesskey
+#: reportForm.url.title
+#: reportForm.url.accesskey
 msgid "Web site &URL:"
 msgstr "&УРЛ веб сајта:"
 
 # No ":" at the end
-#: reportForm.behind_login.title reportForm.behind_login.accesskey
+#. No ":" at the end
+#: reportForm.behind_login.title
+#: reportForm.behind_login.accesskey
 msgid "Web site is &password-protected"
 msgstr "Веб сајт је &заштићен лозинком"
 
-#: reportForm.problem_type.title reportForm.problem_type.accesskey
+#: reportForm.problem_type.title
+#: reportForm.problem_type.accesskey
 msgid "Problem &Type:"
 msgstr "&Врста проблема:"
 
@@ -73,6 +80,7 @@ msgid "Choose One…"
 msgstr "Изаберите једно…"
 
 # DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first!
+#. DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first!
 #: reportForm.problem_type.item1.title
 msgid "Browser not supported"
 msgstr "Читач није подржан"
@@ -105,7 +113,12 @@ msgstr "Неки други проблем"
 msgid "Disability access"
 msgstr "Приступ за хендикепиране"
 
-#: reportForm.describe.title reportForm.describe.accesskey
+#: reportForm.problem_type.item9.title
+msgid "Printed output is wrong"
+msgstr "Одштампани излаз није исправан"
+
+#: reportForm.describe.title
+#: reportForm.describe.accesskey
 msgid "&Describe Problem:"
 msgstr "&Опис проблема:"
 
@@ -130,15 +143,24 @@ msgid "Language:"
 msgstr "Језик:"
 
 # Make sure this has "(Optional)" at the end.  This is important for the user to know
-#: reportForm.email.title reportForm.email.accesskey
+#. Make sure this has "(Optional)" at the end.  This is important for the user to know
+#: reportForm.email.title
+#: reportForm.email.accesskey
 msgid "&Email (Optional):"
 msgstr "&Ел. адреса (опциона):"
+
+#: reportForm.privacyPolicy.title
+#: privacyNotice.label
+msgctxt "reportForm.privacyPolicy.title"
+msgid "Privacy Policy"
+msgstr "Полиса о приватности"
 
 #: reportForm.privacyPolicy.tooltip
 msgid "View Privacy Policy"
 msgstr "Преглед полисе о приватности"
 
-#: reportResults.showDetail.title reportResults.showDetail.accesskey
+#: reportResults.showDetail.title
+#: reportResults.showDetail.accesskey
 msgid "&Show Details"
 msgstr "&Приказ детаља"
 
@@ -153,12 +175,3 @@ msgstr "Слање извештаја серверу…"
 #: finish.label
 msgid "Report Sent"
 msgstr "Извештај је послат"
-
-#~ msgid "Web site URL:"
-#~ msgstr "УРЛ ел. места:"
-
-#~ msgid "Choose One..."
-#~ msgstr "Изаберите једно..."
-
-#~ msgid "Sending Report to server..."
-#~ msgstr "Слање извештаја серверу..."

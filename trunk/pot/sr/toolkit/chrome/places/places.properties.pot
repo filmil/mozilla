@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-01 23:52+0200\n"
+"POT-Creation-Date: 2008-04-04 20:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,27 +58,11 @@ msgstr ""
 msgid "(local files)"
 msgstr ""
 
-#. # LOCALIZATION NOTE (bookmarksBackupFilename & bookmarksArchiveFilename):
+#. # LOCALIZATION NOTE (bookmarksArchiveFilename):
 #. # %S will be replaced by the current date in ISO 8601 format, YYYY-MM-DD.
 #. # The resulting string will be suggested as a filename, so make sure that you're
 #. # only using characters legal for file names. Consider falling back to the
 #. # en-US value if you have to use non-ascii characters.
-#: bookmarksBackupFilename
-msgid "Bookmarks %S.json"
-msgstr ""
-
-#: bookmarksBackupTitle
-msgid "Bookmarks backup filename"
-msgstr ""
-
 #: bookmarksArchiveFilename
 msgid "bookmarks-%S.json"
-msgstr ""
-
-#: restoreFormatError
-msgid "Unsupported file type."
-msgstr ""
-
-#: restoreParseError
-msgid "Unable to process the backup file."
 msgstr ""

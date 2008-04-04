@@ -1,19 +1,17 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2008-04-02 21:10+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-04 19:55+0200\n"
+"PO-Revision-Date: 2008-04-04 20:01+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-# XXX remove below if places sticks
-# new bookmarks and history
+"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Accelerator-Marker: &\n"
 
 #: tabCmd.label
 #: tabCmd.accesskey
@@ -54,7 +52,6 @@ msgid "&Print…"
 msgstr "&Штампа…"
 
 #: printCmd.commandkey
-#: allowPopups.accesskey
 msgctxt "printCmd.commandkey"
 msgid "p"
 msgstr "p"
@@ -103,7 +100,6 @@ msgid "Page &Info"
 msgstr "По&даци о страни"
 
 #: pageInfoCmd.commandkey
-#: bookmarksSidebarWinCmd.commandkey
 msgctxt "pageInfoCmd.commandkey"
 msgid "i"
 msgstr "i"
@@ -150,10 +146,9 @@ msgid "Bookmark This Page"
 msgstr "Забележи ову страну"
 
 #: bookmarkThisPageCmd.commandkey
-#: urlbar.accesskey
 msgctxt "bookmarkThisPageCmd.commandkey"
 msgid "d"
-msgstr "b"
+msgstr "d"
 
 #: subscribeToPageMenupopup.label
 msgid "Subscribe to This Page"
@@ -164,7 +159,6 @@ msgid "Subscribe to This Page…"
 msgstr "Претплата на ову страну…"
 
 #: addCurPagesCmd.label
-#: bookmarkAllCmd.label
 msgctxt "addCurPagesCmd.label"
 msgid "Bookmark All Tabs…"
 msgstr "Забележи све језичке…"
@@ -248,19 +242,15 @@ msgid "Activity Indicator"
 msgstr "Показатељ активности"
 
 #: bookmarksItem.title
-#: bookmarksButton.label
 msgctxt "bookmarksItem.title"
 msgid "Bookmarks"
 msgstr "Забелешке"
 
-# Toolbar items
-# XXX places only
 #. Toolbar items
 #: homeButton.label
-#: historyHomeCmd.label
 msgctxt "homeButton.label"
 msgid "Home"
-msgstr "Почетак"
+msgstr "Кућа"
 
 #: bookmarksButton.label
 #: bookmarksItem.title
@@ -273,7 +263,6 @@ msgid "Display your bookmarks"
 msgstr "Приказује ваше забелешке"
 
 #: bookmarksSidebarCmd.accesskey
-#: blockImageCmd.accesskey
 msgctxt "bookmarksSidebarCmd.accesskey"
 msgid "B"
 msgstr "B"
@@ -298,7 +287,6 @@ msgid "Display pages you've viewed recently"
 msgstr "Приказује списак недавно посећених страна"
 
 #: historySidebarCmd.accesskey
-#: savePageCmd.commandkey
 msgctxt "historySidebarCmd.accesskey"
 msgid "s"
 msgstr "s"
@@ -332,8 +320,6 @@ msgid "Display the progress of ongoing downloads"
 msgstr "Прикажи напредак пријема"
 
 #: downloads.commandkey
-#: errorConsoleCmd.commandkey
-#: searchFocusUnix.commandkey
 msgctxt "downloads.commandkey"
 msgid "j"
 msgstr "j"
@@ -357,8 +343,6 @@ msgid "Error &Console"
 msgstr "Конзола за &грешке"
 
 #: errorConsoleCmd.commandkey
-#: downloads.commandkey
-#: searchFocusUnix.commandkey
 msgctxt "errorConsoleCmd.commandkey"
 msgid "j"
 msgstr "j"
@@ -384,11 +368,9 @@ msgstr "&Уреди"
 
 #: undoCmd.label
 #: undoCmd.accesskey
-#: editBookmark.undo.label
-#: editBookmark.undo.accessKey
 msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
-msgstr "Опо&зови"
+msgstr "&Опозови"
 
 #: undoCmd.key
 msgid "Z"
@@ -409,7 +391,6 @@ msgid "Cu&t"
 msgstr "&Исеци"
 
 #: cutCmd.key
-#: bidiSwitchTextDirectionItem.commandkey
 msgctxt "cutCmd.key"
 msgid "X"
 msgstr "X"
@@ -438,7 +419,6 @@ msgid "&Delete"
 msgstr "&Обриши"
 
 #: deleteCmd.key
-#: dontShowMessage.accesskey
 msgctxt "deleteCmd.key"
 msgid "D"
 msgstr "D"
@@ -499,6 +479,7 @@ msgstr "Недавно затворени језичци"
 
 # Toolbar items
 # XXX places only
+#. Toolbar items
 #: historyHomeCmd.label
 #: homeButton.label
 msgctxt "historyHomeCmd.label"
@@ -568,7 +549,6 @@ msgid "k"
 msgstr "k"
 
 #: searchFocus.commandkey2
-#: viewPartialSourceCmd.accesskey
 msgctxt "searchFocus.commandkey2"
 msgid "e"
 msgstr "e"
@@ -776,6 +756,11 @@ msgstr "Умножи адр&есу ел.поште"
 msgid "T&his Frame"
 msgstr "У о&вом оквиру"
 
+#. LOCALIZATION NOTE :
+#. fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+#. fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+#. If shift key is needed with your locale popular keyboard for them,
+#. you can use these alternative items. Otherwise, their values should be empty.
 #: fullZoomEnlargeCmd.label
 #: fullZoomEnlargeCmd.accesskey
 msgid "Zoom &In"
@@ -791,6 +776,12 @@ msgstr "+"
 msgid "="
 msgstr "="
 
+#: fullZoomEnlargeCmd.commandkey3
+msgid ""
+"_: fullZoomEnlargeCmd.commandkey3\n"
+""
+msgstr ""
+
 #: fullZoomReduceCmd.label
 #: fullZoomReduceCmd.accesskey
 msgid "Zoom &Out"
@@ -800,14 +791,26 @@ msgstr "&Умањи"
 msgid "-"
 msgstr "-"
 
-#: fullZoomResetCmd.commandkey
-msgid "0"
-msgstr "0"
+#: fullZoomReduceCmd.commandkey2
+msgctxt "fullZoomReduceCmd.commandkey2"
+msgid ""
+msgstr ""
 
 #: fullZoomResetCmd.label
 #: fullZoomResetCmd.accesskey
 msgid "&Reset"
 msgstr "&Врати"
+
+#: fullZoomResetCmd.commandkey
+msgid "0"
+msgstr "0"
+
+# XXX remove below if places sticks
+# new bookmarks and history
+#: fullZoomResetCmd.commandkey2
+msgctxt "fullZoomResetCmd.commandkey2"
+msgid ""
+msgstr ""
 
 #: fullZoomToggleCmd.label
 #: fullZoomToggleCmd.accesskey

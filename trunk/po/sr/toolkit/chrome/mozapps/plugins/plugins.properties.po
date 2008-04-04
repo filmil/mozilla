@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/plugins/plugins.properties
+#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/mozapps/plugins/plugins.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:43+0100\n"
+"POT-Creation-Date: 2008-04-04 20:36+0200\n"
+"PO-Revision-Date: 2008-04-04 20:38+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: pluginLicenseAgreement.label
@@ -19,32 +18,32 @@ msgid "To install %S, you need to agree to the following:"
 msgstr "За постављање %S морате прихватити следеће:"
 
 #: pluginInstallation.download.start
-msgid "Downloading %S..."
-msgstr "Преузимам %S..."
+msgid "Downloading %S…"
+msgstr "Пријем: %S..."
 
 #: pluginInstallation.download.finish
 msgid "Finished downloading %S."
 msgstr "Завршен пријем %S."
 
 #: pluginInstallation.install.start
-msgid "Installing %S..."
-msgstr "Постављам %S..."
+msgid "Installing %S…"
+msgstr "Инсталација: %S..."
 
 #: pluginInstallation.install.finish
 msgid "Successfully installed %S."
-msgstr "Успело постављање: %S."
+msgstr "Успела инсталација: %S."
 
 #: pluginInstallation.install.error
 msgid "Failed to install %S (%S)."
-msgstr "Неуспело постављање %S (%S)."
+msgstr "Неуспела инсталација %S (%S)."
 
 #: pluginInstallation.complete
 msgid "Finished installing plugins."
-msgstr "Завршено постављање додатака."
+msgstr "Инсталација прикључака је готова."
 
 #: pluginInstallationSummary.success
 msgid "Installed"
-msgstr "Постављено"
+msgstr "Инсталирано"
 
 #: pluginInstallationSummary.failed
 msgid "Failed"
@@ -70,13 +69,30 @@ msgstr "Ручно постављање  додатка."
 msgid "No suitable plugins were found."
 msgstr "Није пронађен познат додатак."
 
+# FIXME plugin
 #: pluginInstallation.noPluginsInstalled
 msgid "No plugins were installed."
-msgstr "Додатак није постављен"
+msgstr "Ниједан прикључак није инсталиран"
 
 #: pluginInstallation.unknownPlugin
 msgid "Unknown Plugin (%S)"
 msgstr "Непознат додатак (%S)"
+
+#: pluginInstallation.restart.label
+msgid "Restart %S"
+msgstr "Поново покрени %S"
+
+#: pluginInstallation.restart.accesskey
+msgid "R"
+msgstr "П"
+
+#: pluginInstallation.close.label
+msgid "Close"
+msgstr "Затвори"
+
+#: pluginInstallation.close.accesskey
+msgid "C"
+msgstr "З"
 
 #: missingPlugin.label
 msgid "Click here to download plugin."
