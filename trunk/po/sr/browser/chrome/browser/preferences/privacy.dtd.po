@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2008-04-04 20:10+0200\n"
+"PO-Revision-Date: 2008-04-07 22:10+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,11 +39,11 @@ msgstr "Историјат"
 #: rememberDaysBefore.label
 #: rememberDaysBefore.accesskey
 msgid "Keep my &history for at least"
-msgstr "&Чувај мој историјат бар оволико дана:"
+msgstr "&Чувај мој историјат бар дана:"
 
 #: rememberDaysAfter2.label
 msgid "days"
-msgstr " "
+msgstr "дан(а)"
 
 #: rememberForms.label
 #: rememberForms.accesskey

@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-28 23:26+0100\n"
+"PO-Revision-Date: 2008-04-07 22:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -112,27 +112,27 @@ msgstr "F20"
 # LOCALIZATION NOTE : BLOCK GLYPHS, DO translate this block
 #: VK_UP
 msgid "Up Arrow"
-msgstr "Горе"
+msgstr "горе"
 
 #: VK_DOWN
 msgid "Down Arrow"
-msgstr "Доле"
+msgstr "доле"
 
 #: VK_LEFT
 msgid "Left Arrow"
-msgstr "Лево"
+msgstr "лево"
 
 #: VK_RIGHT
 msgid "Right Arrow"
-msgstr "Десно"
+msgstr "десно"
 
 #: VK_PAGE_UP
 msgid "Page Up"
-msgstr "Стр. горе"
+msgstr "стр. горе"
 
 #: VK_PAGE_DOWN
 msgid "Page Down"
-msgstr "Стр. доле"
+msgstr "стр. доле"
 
 # FIXME Keys
 # LOCALIZATION NOTE : BLOCK end GLYPHS
@@ -145,40 +145,40 @@ msgstr "Стр. доле"
 # LOCALIZATION NOTE : BLOCK maybe GLYPHS
 #: VK_ENTER
 msgid "Enter"
-msgstr "Нови ред"
+msgstr "нови ред"
 
 #: VK_RETURN
 msgid "Return"
-msgstr "Нови ред"
+msgstr "нови ред"
 
 #: VK_TAB
 msgid "Tab"
-msgstr "Таб"
+msgstr "таб"
 
 #: VK_BACK
 msgid "Backspace"
-msgstr "Брисање"
+msgstr "брисање"
 
 #: VK_DELETE
 msgid "Del"
-msgstr "Дел"
+msgstr "дел"
 
 # LOCALIZATION NOTE : BLOCK end maybe GLYPHS
 # LOCALIZATION NOTE : BLOCK typing state keys
 #: VK_HOME
 msgid "Home"
-msgstr "Почетак"
+msgstr "поч"
 
 #: VK_END
 msgid "End"
-msgstr "Крај"
+msgstr "крај"
 
 # FIXME Escape in Serbian
 #: VK_ESCAPE
 msgid "Esc"
-msgstr "Есц"
+msgstr "есц"
 
 # FIXME Ins in Serbian
 #: VK_INSERT
 msgid "Ins"
-msgstr "Инс"
+msgstr "инс"

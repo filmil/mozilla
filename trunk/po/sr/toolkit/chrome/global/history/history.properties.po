@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-24 22:28+0100\n"
+"PO-Revision-Date: 2008-04-07 22:11+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "Пре %S дана"
 
 #: finduri-AgeInDays-isgreater
 msgid "Older than %S days"
-msgstr "Старије од оволико дана: %S"
+msgstr "Старије од %S дан(а)"
 
 #: finduri-Hostname-is-
 msgid "(no host)"

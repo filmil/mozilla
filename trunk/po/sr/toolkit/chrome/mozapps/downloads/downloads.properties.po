@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-04 20:19+0200\n"
-"PO-Revision-Date: 2008-04-04 20:30+0200\n"
+"PO-Revision-Date: 2008-04-07 22:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -156,7 +156,7 @@ msgstr "Остани на вези"
 
 #: downloadsCompleteTitle
 msgid "Downloads Complete"
-msgstr "Преузимање је готово"
+msgstr "Пријем је готов"
 
 #: downloadsCompleteMsg
 msgid "All files have finished downloading."

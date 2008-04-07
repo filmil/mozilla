@@ -44,7 +44,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 19:24+0200\n"
+"PO-Revision-Date: 2008-04-07 21:43+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -115,12 +115,12 @@ msgstr "PSM приватни кључеви"
 # 32
 #: Fips140TokenDescription
 msgid "Software Security Device (FIPS)"
-msgstr ""
+msgstr "Софтверски безбедносни уређај (ФИПС, FIPS)"
 
 # 64
 #: Fips140SlotDescription
 msgid "FIPS 140 Cryptographic, Key and Certificate Services"
-msgstr ""
+msgstr "ФИПС 140 (FIPS 140) криптографске, кључевне и сертификатске услуге"
 
 # End of size restriction.
 #: VerifySSLClient
@@ -173,11 +173,11 @@ msgstr "Било која провера сертификата"
 
 #: HighGrade
 msgid "High Grade"
-msgstr ""
+msgstr "Високи ниво"
 
 #: MediumGrade
 msgid "Medium Grade"
-msgstr ""
+msgstr "Средњи ниво"
 
 #: nick_template
 msgid "%1$s's %2$s ID"
@@ -344,6 +344,10 @@ msgid ""
 "Exponent (%S bits):\n"
 "%S"
 msgstr ""
+"Модул (бита: %S):\n"
+"%S\n"
+"Експонент (бита: %S):\n"
+"%S"
 
 #: CertDumpIssuerUniqueID
 msgid "Issuer Unique ID"
@@ -727,7 +731,7 @@ msgstr "Показивач на изјаву о пословању сертиф�
 
 #: CertDumpPolicyOidEV
 msgid "Extended Validation (EV) SSL Server Certificate"
-msgstr ""
+msgstr "Продужена валидација (ЕВ, EV) серверског сертификата за ССЛ"
 
 #: CertDumpUserNotice
 msgid "User Notice"
@@ -819,11 +823,11 @@ msgstr "SECG елиптичка крива secp256k1"
 
 #: CertDumpECsecp384r1
 msgid "SECG elliptic curve secp384r1 (aka NIST P-384)"
-msgstr "SECG елиптичка крива secp384r1 (aka NIST P-384)"
+msgstr "SECG елиптичка крива secp384r1 (тј. NIST P-384)"
 
 #: CertDumpECsecp521r1
 msgid "SECG elliptic curve secp521r1 (aka NIST P-521)"
-msgstr "SECG елиптичка крива secp521r1 (aka NIST P-521)"
+msgstr "SECG елиптичка крива secp521r1 (тј. NIST P-521)"
 
 #: CertDumpECc2pnb163v1
 msgid "ANSI X9.62 elliptic curve c2pnb163v1"
@@ -847,135 +851,135 @@ msgstr "ANSI X9.62 елиптичка крива c2tnb191v1"
 
 #: CertDumpECc2tnb191v2
 msgid "ANSI X9.62 elliptic curve c2tnb191v2"
-msgstr "ANSI X9.62 elliptic curve c2tnb191v2"
+msgstr "ANSI X9.62 елиптичка крива c2tnb191v2"
 
 #: CertDumpECc2tnb191v3
 msgid "ANSI X9.62 elliptic curve c2tnb191v3"
-msgstr "ANSI X9.62 elliptic curve c2tnb191v3"
+msgstr "ANSI X9.62 елиптичка крива c2tnb191v3"
 
 #: CertDumpECc2onb191v4
 msgid "ANSI X9.62 elliptic curve c2onb191v4"
-msgstr "ANSI X9.62 elliptic curve c2onb191v4"
+msgstr "ANSI X9.62 елиптичка крива c2onb191v4"
 
 #: CertDumpECc2onb191v5
 msgid "ANSI X9.62 elliptic curve c2onb191v5"
-msgstr "ANSI X9.62 elliptic curve c2onb191v5"
+msgstr "ANSI X9.62 елиптичка крива c2onb191v5"
 
 #: CertDumpECc2pnb208w1
 msgid "ANSI X9.62 elliptic curve c2pnb208w1"
-msgstr "ANSI X9.62 elliptic curve c2pnb208w1"
+msgstr "ANSI X9.62 елиптичка крива c2pnb208w1"
 
 #: CertDumpECc2tnb239v1
 msgid "ANSI X9.62 elliptic curve c2tnb239v1"
-msgstr "ANSI X9.62 elliptic curve c2tnb239v1"
+msgstr "ANSI X9.62 елиптичка крива c2tnb239v1"
 
 #: CertDumpECc2tnb239v2
 msgid "ANSI X9.62 elliptic curve c2tnb239v2"
-msgstr "ANSI X9.62 elliptic curve c2tnb239v2"
+msgstr "ANSI X9.62 елиптичка крива c2tnb239v2"
 
 #: CertDumpECc2tnb239v3
 msgid "ANSI X9.62 elliptic curve c2tnb239v3"
-msgstr "ANSI X9.62 elliptic curve c2tnb239v3"
+msgstr "ANSI X9.62 елиптичка крива c2tnb239v3"
 
 #: CertDumpECc2onb239v4
 msgid "ANSI X9.62 elliptic curve c2onb239v4"
-msgstr "ANSI X9.62 elliptic curve c2onb239v4"
+msgstr "ANSI X9.62 елиптичка крива c2onb239v4"
 
 #: CertDumpECc2onb239v5
 msgid "ANSI X9.62 elliptic curve c2onb239v5"
-msgstr "ANSI X9.62 elliptic curve c2onb239v5"
+msgstr "ANSI X9.62 елиптичка крива c2onb239v5"
 
 #: CertDumpECc2pnb272w1
 msgid "ANSI X9.62 elliptic curve c2pnb272w1"
-msgstr "ANSI X9.62 elliptic curve c2pnb272w1"
+msgstr "ANSI X9.62 елиптичка крива c2pnb272w1"
 
 #: CertDumpECc2pnb304w1
 msgid "ANSI X9.62 elliptic curve c2pnb304w1"
-msgstr "ANSI X9.62 elliptic curve c2pnb304w1"
+msgstr "ANSI X9.62 елиптичка крива c2pnb304w1"
 
 #: CertDumpECc2tnb359v1
 msgid "ANSI X9.62 elliptic curve c2tnb359v1"
-msgstr "ANSI X9.62 elliptic curve c2tnb359v1"
+msgstr "ANSI X9.62 елиптичка крива c2tnb359v1"
 
 #: CertDumpECc2pnb368w1
 msgid "ANSI X9.62 elliptic curve c2pnb368w1"
-msgstr "ANSI X9.62 elliptic curve c2pnb368w1"
+msgstr "ANSI X9.62 елиптичка крива c2pnb368w1"
 
 #: CertDumpECc2tnb431r1
 msgid "ANSI X9.62 elliptic curve c2tnb431r1"
-msgstr "ANSI X9.62 elliptic curve c2tnb431r1"
+msgstr "ANSI X9.62 елиптичка крива c2tnb431r1"
 
 #: CertDumpECsect113r1
 msgid "SECG elliptic curve sect113r1"
-msgstr "SECG elliptic curve sect113r1"
+msgstr "SECG елиптичка крива sect113r1"
 
 #: CertDumpECsect113r2
 msgid "SECG elliptic curve sect113r2"
-msgstr "SECG elliptic curve sect113r2"
+msgstr "SECG елиптичка крива sect113r2"
 
 #: CertDumpECsect131r1
 msgid "SECG elliptic curve sect131r1"
-msgstr "SECG elliptic curve sect131r1"
+msgstr "SECG елиптичка крива sect131r1"
 
 #: CertDumpECsect131r2
 msgid "SECG elliptic curve sect131r2"
-msgstr "SECG elliptic curve sect131r2"
+msgstr "SECG елиптичка крива sect131r2"
 
 #: CertDumpECsect163k1
 msgid "SECG elliptic curve sect163k1 (aka NIST K-163)"
-msgstr "SECG elliptic curve sect163k1 (aka NIST K-163)"
+msgstr "SECG елиптичка крива sect163k1 (тј. NIST K-163)"
 
 #: CertDumpECsect163r1
 msgid "SECG elliptic curve sect163r1"
-msgstr "SECG elliptic curve sect163r1"
+msgstr "SECG елиптичка крива sect163r1"
 
 #: CertDumpECsect163r2
 msgid "SECG elliptic curve sect163r2 (aka NIST B-163)"
-msgstr "SECG elliptic curve sect163r2 (aka NIST B-163)"
+msgstr "SECG елиптичка крива sect163r2 (тј. NIST B-163)"
 
 #: CertDumpECsect193r1
 msgid "SECG elliptic curve sect193r1"
-msgstr "SECG elliptic curve sect193r1"
+msgstr "SECG елиптичка крива sect193r1"
 
 #: CertDumpECsect193r2
 msgid "SECG elliptic curve sect193r2"
-msgstr "SECG elliptic curve sect193r2"
+msgstr "SECG елиптичка крива sect193r2"
 
 #: CertDumpECsect233k1
 msgid "SECG elliptic curve sect233k1 (aka NIST K-233)"
-msgstr "SECG elliptic curve sect233k1 (aka NIST K-233)"
+msgstr "SECG елиптичка крива sect233k1 (тј. NIST K-233)"
 
 #: CertDumpECsect233r1
 msgid "SECG elliptic curve sect233r1 (aka NIST B-233)"
-msgstr "SECG elliptic curve sect233r1 (aka NIST B-233)"
+msgstr "SECG елиптичка крива sect233r1 (тј. NIST B-233)"
 
 #: CertDumpECsect239k1
 msgid "SECG elliptic curve sect239k1"
-msgstr "SECG elliptic curve sect239k1"
+msgstr "SECG елиптичка крива sect239k1"
 
 #: CertDumpECsect283k1
 msgid "SECG elliptic curve sect283k1 (aka NIST K-283)"
-msgstr "SECG elliptic curve sect283k1 (aka NIST K-283)"
+msgstr "SECG елиптичка крива sect283k1 (тј. NIST K-283)"
 
 #: CertDumpECsect283r1
 msgid "SECG elliptic curve sect283r1 (aka NIST B-283)"
-msgstr "SECG elliptic curve sect283r1 (aka NIST B-283)"
+msgstr "SECG елиптичка крива sect283r1 (тј. NIST B-283)"
 
 #: CertDumpECsect409k1
 msgid "SECG elliptic curve sect409k1 (aka NIST K-409)"
-msgstr "SECG elliptic curve sect409k1 (aka NIST K-409)"
+msgstr "SECG елиптичка крива sect409k1 (тј. NIST K-409)"
 
 #: CertDumpECsect409r1
 msgid "SECG elliptic curve sect409r1 (aka NIST B-409)"
-msgstr "SECG elliptic curve sect409r1 (aka NIST B-409)"
+msgstr "SECG елиптичка крива sect409r1 (тј. NIST B-409)"
 
 #: CertDumpECsect571k1
 msgid "SECG elliptic curve sect571k1 (aka NIST K-571)"
-msgstr "SECG elliptic curve sect571k1 (aka NIST K-571)"
+msgstr "SECG елиптичка крива sect571k1 (тј. NIST K-571)"
 
 #: CertDumpECsect571r1
 msgid "SECG elliptic curve sect571r1 (aka NIST B-571)"
-msgstr "SECG elliptic curve sect571r1 (aka NIST B-571)"
+msgstr "SECG елиптичка крива sect571r1 (тј. NIST B-571)"
 
 #: CertDumpRawBytesHeader
 msgid "Size: %S Bytes / %S Bits"
@@ -1163,13 +1167,13 @@ msgstr "%S = %S"
 
 #: PSMERR_SSL_Disabled
 msgid "Can't connect securely because the SSL protocol has been disabled."
-msgstr ""
+msgstr "Није могуће безбедно повезивање јер је протокол ССЛ искључен."
 
 #: PSMERR_SSL2_Disabled
 msgid ""
 "Can't connect securely because the site uses an older, insecure version of "
 "the SSL protocol."
-msgstr ""
+msgstr "Није могуће безбедно се повезати јер сајт користи старије, небезбедно издање протокола за ССЛ."
 
 #: PSMERR_HostReusedIssuerSerial
 msgid ""
@@ -1189,68 +1193,68 @@ msgstr ""
 
 #: SSLConnectionErrorPrefix
 msgid "An error occurred during a connection to %S."
-msgstr ""
+msgstr "Дошло је до грешке при повезивању на %S."
 
 #: certErrorIntro
 msgid "%S uses an invalid security certificate."
-msgstr ""
+msgstr "%S користи неважећи безбедносни сертификат."
 
 #: certErrorTrust_SelfSigned
 msgid "The certificate is not trusted because it is self signed."
-msgstr ""
+msgstr "Сертификат није од поверења јер је самопотписан."
 
 #: certErrorTrust_UnknownIssuer
 msgid ""
 "The certificate is not trusted because the issuer certificate is unknown."
-msgstr ""
+msgstr "Сертификат није од поверења јер је издавач непознат."
 
 #: certErrorTrust_CaInvalid
 msgid ""
 "The certificate is not trusted because it was issued by an invalid CA "
 "certificate."
-msgstr ""
+msgstr "Сертификат није од поверења јер га је издао неважећи ауторитет."
 
 #: certErrorTrust_Issuer
 msgid ""
 "The certificate is not trusted because the issuer certificate is not trusted."
-msgstr ""
+msgstr "Сертификат није од поверења јер је издавач није од поверења."
 
 #: certErrorTrust_ExpiredIssuer
 msgid ""
 "The certificate is not trusted because the issuer certificate has expired."
-msgstr ""
+msgstr "Сертификат није од поверења јер је издавачев сертификат истекао."
 
 #: certErrorTrust_Untrusted
 msgid "The certificate does not come from a trusted source."
-msgstr ""
+msgstr "Сертификат не долази из извора од поверења."
 
 #: certErrorMismatch
 msgid "The certificate is not valid for the name %S."
-msgstr ""
+msgstr "Сертификат је неважећи за име: %S."
 
 #: certErrorMismatchSingle2
 msgid "The certificate is only valid for %S."
-msgstr ""
+msgstr "Сертификат важи само за %S."
 
 #: certErrorMismatchMultiple
 msgid "The certificate is only valid for the following names:"
-msgstr ""
+msgstr "Сертификат важи само за наведена имена:"
 
 #: certErrorMismatchNoNames
 msgid "The certificate is not valid for any server names."
-msgstr ""
+msgstr "Сертификат не важи ни за једно име сервера."
 
 #: certErrorExpired
 msgid "The certificate expired on %S."
-msgstr ""
+msgstr "Сертификат је истекао на дан: %S."
 
 #: certErrorNotYetValid
 msgid "The certificate will not be valid until %S."
-msgstr ""
+msgstr "Сертификат не важи до датума: %S."
 
 #: certErrorCodePrefix
 msgid "(Error code: %S)"
-msgstr ""
+msgstr "(код грешке: %S)"
 
 #: CertInfoIssuedFor
 msgid "Issued to:"
@@ -1286,7 +1290,7 @@ msgstr "Увежени сертификат"
 
 #: CrlImportFailure1x
 msgid "The application cannot import the Certificate Revocation List (CRL)."
-msgstr ""
+msgstr "Програм не може да увезе списак опозваних сертификата (ЦРЛ, CRL)"
 
 #: CrlImportFailureExpired
 msgid "A more recent version of this CRL is available."
@@ -1328,7 +1332,7 @@ msgid ""
 "is not full or close to full. It is recommended that you exit the "
 "application and fix the problem. If you continue to use this session, you "
 "might see incorrect application behaviour when accessing security features."
-msgstr ""
+msgstr "Није могуће покренути безбедносну компоненту програма.  Највероватнији разлог је проблем са датотекама у директоријуму профила Вашег програма.  Молимо да проверите да је овај директоријум без ограничења за читање и упис и да је хард диск Вашег рачунара са довољно слободног простора.  Препоручује се да искључите програм и решите овај проблем.  Ако наставите да користите ову сесију, можда ћете се суочити са неисправним понашањем програма при приступу безбедносним могућностима."
 
 #: ProfileSwitchSocketsStillActive
 msgid ""
@@ -1376,23 +1380,23 @@ msgstr "<Непознато>"
 
 #: CertUser
 msgid "Your Cert"
-msgstr ""
+msgstr "Ваш сертификат"
 
 #: CertCA
 msgid "CA (Certificate Authority)"
-msgstr ""
+msgstr "Ауторитет (CA)"
 
 #: CertSSL
 msgid "SSL Server"
-msgstr ""
+msgstr "Сервер за ССЛ"
 
 #: CertEmail
 msgid "Peer S/MIME"
-msgstr ""
+msgstr "С/МИМЕ (S/MIME) рачунар"
 
 #: CertUnknown
 msgid "Unknown"
-msgstr ""
+msgstr "Непознат"
 
 #: CertNoNickname
 msgid "(no nickname)"
@@ -1451,19 +1455,19 @@ msgstr ""
 
 #: CertOrgUnknown
 msgid "(Unknown)"
-msgstr ""
+msgstr "(Непознато)"
 
 #: CertNotStored
 msgid "(Not Stored)"
-msgstr ""
+msgstr "(Није сачуван)"
 
 #: CertExceptionPermanent
 msgid "Permanent"
-msgstr ""
+msgstr "Стални"
 
 #: CertExceptionTemporary
 msgid "Temporary"
-msgstr ""
+msgstr "Привремени"
 
 #
 # 64

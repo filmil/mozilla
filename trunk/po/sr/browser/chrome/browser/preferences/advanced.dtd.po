@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:31+0100\n"
+"PO-Revision-Date: 2008-04-07 22:24+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -180,7 +180,7 @@ msgstr "Сертификати"
 
 #: certselect.description
 msgid "When a web site requires a certificate:"
-msgstr "Кад веб страна затражи сертификат:"
+msgstr "Кад веб сајт потражи сертификат:"
 
 #: certs.auto
 msgid "Select one automatically"
@@ -188,7 +188,7 @@ msgstr "Изабери аутоматски"
 
 #: certs.auto.accesskey
 msgid "l"
-msgstr "l"
+msgstr "а"
 
 #: certs.ask
 msgid "Ask me every time"
@@ -196,7 +196,7 @@ msgstr "Питај увек"
 
 #: certs.ask.accesskey
 msgid "i"
-msgstr "i"
+msgstr "П"
 
 #: viewCerts.label
 #: viewCerts.accesskey

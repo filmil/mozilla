@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-23 23:45+0100\n"
+"PO-Revision-Date: 2008-04-07 22:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,25 +21,25 @@ msgstr ""
 # the shift key
 #: VK_SHIFT
 msgid "Shift"
-msgstr "Shift"
+msgstr "шифт"
 
 #the command key
 # the command key
 #: VK_META
 msgid "Meta"
-msgstr "Meta"
+msgstr "мета"
 
 #the alt key
 # the alt key
 #: VK_ALT
 msgid "Alt"
-msgstr "Alt"
+msgstr "алт"
 
 #the control key
 # the control key
 #: VK_CONTROL
 msgid "Ctrl"
-msgstr "Ctrl"
+msgstr "ктрл"
 
 #the separator character used between modifiers 
 # the separator character used between modifiers
