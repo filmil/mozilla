@@ -644,6 +644,12 @@ msgstr "false"
 #
 #
 # (pofilter) unchanged: please translate
+#
+#
+#
+#
+#
+#
 #: mail.addr_book.quicksearchquery.format
 msgid "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
 msgstr "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"

@@ -18,6 +18,7 @@ msgstr ""
 msgid "Choose Folder"
 msgstr "Изаберите директоријум"
 
+# (pofilter) unchanged: please translate
 #: window.style
 msgid "width: 36em; height: 18em;"
 msgstr "width: 36em; height: 18em;"

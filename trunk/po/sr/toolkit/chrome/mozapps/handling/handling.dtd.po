@@ -14,6 +14,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.0.1\n"
 "X-Accelerator-Marker: &\n"
 
+# (pofilter) unchanged: please translate
 #: window.emWidth window.emHeight
 msgid "26em"
 msgstr "26em"

@@ -114,6 +114,7 @@ msgstr "Унапређења"
 msgid "Automatically check for updates to:"
 msgstr "Самостално проверавај унапређења за:"
 
+# (pofilter) unchanged: please translate
 #: enableAppUpdate.label
 msgid "&brandShortName;"
 msgstr "&brandShortName;"

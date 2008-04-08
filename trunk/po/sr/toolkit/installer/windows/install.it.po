@@ -16,6 +16,7 @@ msgstr ""
 
 # converted from pseudo-properties .it file
 # section: [General]
+# (pofilter) unchanged: please translate
 #: FONTNAME
 msgid "MS Sans Serif"
 msgstr "MS Sans Serif"
@@ -49,6 +50,7 @@ msgstr "0"
 #  CHINESEBIG5_CHARSET = 136
 #  OEM_CHARSET 255
 # Here is a partial list CHAR_SETS
+# (pofilter) unchanged: please translate
 #: WELCOMETITLEFONTNAME
 msgid "Trebuchet MS Bold"
 msgstr "Trebuchet MS Bold"
@@ -241,6 +243,7 @@ msgstr "Подешавања:"
 msgid "...to the following location:"
 msgstr "...на овде наведено место:"
 
+# (pofilter) unchanged: please translate
 #: ADDTLCOMPWRAPPER
 msgid "- %s"
 msgstr "- %s"
@@ -249,6 +252,7 @@ msgstr "- %s"
 msgid "%s, and:"
 msgstr "%s, и:"
 
+# (pofilter) unchanged: please translate
 #: PRIMCOMPNOOTHERS
 msgid "%s"
 msgstr "%s"

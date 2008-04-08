@@ -27,6 +27,7 @@ msgstr "Пробајте опет"
 msgid "Unable to connect"
 msgstr "Неуспешно повезивање"
 
+# (pofilter) unchanged: please translate
 #: connectionFailure.longDesc netInterrupt.longDesc netReset.longDesc
 #: netTimeout.longDesc
 msgid "&sharedLongDesc;"
@@ -37,7 +38,8 @@ msgid "This address is restricted"
 msgstr "Приступ овој адреси је ограничен"
 
 #: deniedPortAccess.longDesc
-msgid "_: deniedPortAccess.longDesc\n"
+msgid ""
+"_: deniedPortAccess.longDesc\n"
 msgstr ""
 
 #: dnsNotFound.title

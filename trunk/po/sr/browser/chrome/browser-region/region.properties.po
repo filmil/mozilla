@@ -12,7 +12,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 # Default search engine
 # Search engine order (order displayed in the search bar dropdown)s
 #. # Default search engine
@@ -34,12 +33,14 @@ msgid "Google"
 msgstr "Google"
 
 # These are the default web service based feed readers
+# (pofilter) unchanged: please translate
 #. # This is the default set of web based feed handlers shown in the reader
 #. # selection UI
 #: browser.contentHandlers.types.0.title
 msgid "Bloglines"
 msgstr "Bloglines"
 
+# (pofilter) unchanged: please translate
 #: browser.contentHandlers.types.0.uri
 msgid "http://www.bloglines.com/login?r=/sub/%s"
 msgstr "http://www.bloglines.com/login?r=/sub/%s"
@@ -48,12 +49,16 @@ msgstr "http://www.bloglines.com/login?r=/sub/%s"
 msgid "My Yahoo"
 msgstr "Мој Јаху (My Yahoo)"
 
+# (pofilter) unchanged: please translate
 #: browser.contentHandlers.types.1.uri
 msgid "http://add.my.yahoo.com/rss?url=%s"
 msgstr "http://add.my.yahoo.com/rss?url=%s"
 
 # Default search engine
 # Search engine order (order displayed in the search bar dropdown)s
+# (pofilter) unchanged: please translate
+#. # Default search engine
+#. # Search engine order (order displayed in the search bar dropdown)s
 #: browser.contentHandlers.types.2.title
 #: browser.search.defaultenginename
 #: browser.search.order.1
@@ -61,11 +66,13 @@ msgctxt "browser.contentHandlers.types.2.title"
 msgid "Google"
 msgstr "Google"
 
+# (pofilter) unchanged: please translate
 #: browser.contentHandlers.types.2.uri
 msgid "http://fusion.google.com/add?feedurl=%s"
 msgstr "http://fusion.google.com/add?feedurl=%s"
 
 # Keyword URL (for location bar searches)
+# (pofilter) unchanged: please translate
 #. # Keyword URL (for location bar searches)
 #: keyword.URL
 msgid ""
@@ -89,11 +96,13 @@ msgid "1"
 msgstr "1"
 
 # The default set of protocol handlers for webcal
+# (pofilter) unchanged: please translate
 #. # The default set of protocol handlers for webcal:
 #: gecko.handlerService.schemes.webcal.0.name
 msgid "30 Boxes"
 msgstr "30 Boxes"
 
+# (pofilter) unchanged: please translate
 #: gecko.handlerService.schemes.webcal.0.uriTemplate
 msgid "http://30boxes.com/external/widget?refer=ff&url=%s"
 msgstr "http://30boxes.com/external/widget?refer=ff&url=%s"
@@ -103,6 +112,7 @@ msgstr "http://30boxes.com/external/widget?refer=ff&url=%s"
 msgid "Yahoo! Mail"
 msgstr "Пошта: Yahoo!"
 
+# (pofilter) unchanged: please translate
 #: gecko.handlerService.schemes.mailto.0.uriTemplate
 msgid "http://compose.mail.yahoo.com/?To=%s"
 msgstr "http://compose.mail.yahoo.com/?To=%s"

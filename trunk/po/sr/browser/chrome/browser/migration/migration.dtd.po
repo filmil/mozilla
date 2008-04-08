@@ -12,7 +12,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 #: migrationWizard.title
 msgid "Import Wizard"
 msgstr "Чаробњак за увоз"
@@ -49,50 +48,59 @@ msgstr "Не увози ни&шта"
 msgid "&Netscape 6, 7 or Mozilla 1.x"
 msgstr "Netsc&ape 6, 7 или Mozilla 1.x"
 
+# (pofilter) unchanged: please translate
 #: importFromNetscape4.label
 #: importFromNetscape4.accesskey
 msgid "Netscape &4.x"
-msgstr "Netscape &4.x"
+msgstr "Нетскејп (Netscape) &4.x"
 
+# (pofilter) unchanged: please translate
 #: importFromOpera.label
 #: importFromOpera.accesskey
 msgid "&Opera"
-msgstr "&Opera"
+msgstr "&Опера (Opera)"
 
+# (pofilter) unchanged: please translate
 #: importFromCamino.label
 #: importFromCamino.accesskey
 msgid "&Camino"
-msgstr "&Camino"
+msgstr "&Камино (Camino)"
 
+# (pofilter) unchanged: please translate
 #: importFromSafari.label
 #: importFromSafari.accesskey
 msgid "&Safari"
-msgstr "&Safari"
+msgstr "&Сафари (Safari)"
 
+# (pofilter) unchanged: please translate
 #: importFromOmniWeb.label
 #: importFromOmniWeb.accesskey
 msgid "Omni&Web"
-msgstr "Omni&Web"
+msgstr "Омни&веб (OmniWeb)"
 
+# (pofilter) unchanged: please translate
 #: importFromICab.label
 #: importFromICab.accesskey
 msgid "&iCab"
-msgstr "&iCab"
+msgstr "&Икаб (iCab)"
 
+# (pofilter) unchanged: please translate
 #: importFromKonqueror.label
 #: importFromKonqueror.accesskey
 msgid "&Konqueror"
-msgstr "&Konqueror"
+msgstr "&Конкверор (Konqueror)"
 
+# (pofilter) unchanged: please translate
 #: importFromEpiphany.label
 #: importFromEpiphany.accesskey
 msgid "&Epiphany"
-msgstr "&Epiphany"
+msgstr "С&познаја (Epiphany)"
 
+# (pofilter) unchanged: please translate
 #: importFromGaleon.label
 #: importFromGaleon.accesskey
 msgid "&Galeon"
-msgstr "&Galeon"
+msgstr "&Галеон (Galeon)"
 
 #: importFromHTMLFile.label
 #: importFromHTMLFile.accesskey

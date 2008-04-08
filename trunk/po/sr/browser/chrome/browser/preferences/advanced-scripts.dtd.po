@@ -54,6 +54,7 @@ msgstr ""
 msgid "Advanced JavaScript Settings"
 msgstr "Напредна подешавања јаваскрипта"
 
+# (pofilter) unchanged: please translate
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

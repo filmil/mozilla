@@ -103,6 +103,7 @@ msgstr "Избор архиве забелешки"
 msgid "JSON"
 msgstr "ЈСОН (JSON)"
 
+# (pofilter) unchanged: please translate
 #: bookmarksRestoreFilterExtension
 msgid "*.json"
 msgstr "*.json"

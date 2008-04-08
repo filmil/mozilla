@@ -76,9 +76,10 @@ msgstr "SSL Упозорење"
 msgid "Client Certificate Selection"
 msgstr "Избор сертификата клијента"
 
+# (pofilter) unchanged: please translate
 #: pref.ssl.title
 msgid "Secure Sockets Layer (SSL)"
-msgstr "Secure Sockets Layer (SSL)"
+msgstr "Безбедни слој за сокете (SSL)"
 
 #: enable.ssl3
 msgid "Enable SSL version 3"

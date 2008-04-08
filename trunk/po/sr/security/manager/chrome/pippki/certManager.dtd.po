@@ -201,9 +201,10 @@ msgstr "Веруј веродостојности овог сертификат�
 msgid "Do not trust the authenticity of this certificate."
 msgstr "Не веруј веродостојности овог сертификата."
 
+# (pofilter) unchanged: please translate
 #: certmgr.editemailcert.title
 msgid "Edit email certificate trust settings"
-msgstr "Edit email certificate trust settings"
+msgstr "Уређивање поверења у сертификате за ел. пошту"
 
 #: certmgr.deletecert.title
 msgid "Delete Certificate"

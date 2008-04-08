@@ -55,12 +55,13 @@ msgstr ""
 msgid "&brandShortName; Safe Mode"
 msgstr "&brandShortName; Безбедан мод"
 
+# (pofilter) unchanged: please translate
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "37em"
-msgstr "37em"
+msgstr "38em"
 
 #: safeModeDescription.label
 msgid "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions."

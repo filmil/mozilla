@@ -76,9 +76,11 @@ msgstr "Уграђени модул корена"
 
 #
 # 32 bytes long after conversion to UTF8
+#
+# (pofilter) unchanged: please translate
 #: ManufacturerID
 msgid "Mozilla.org"
-msgstr "Mozilla.org"
+msgstr "Мозила (Mozilla.org)"
 
 #
 # 32  bytes long after conversion to UTF8

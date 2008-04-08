@@ -19,49 +19,60 @@ msgid "%S %S"
 msgstr "%S %S"
 
 # Browser Specific
+# (pofilter) unchanged: please translate
 #: sourceNameIE
 msgid "Internet Explorer"
-msgstr "Internet Explorer"
+msgstr "Интернет експлорер (Internet Explorer)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameSeamonkey
 msgid "Netscape 6/7/Mozilla"
-msgstr "Netscape 6/7/Mozilla"
+msgstr "Нетскејп (Netscape) 6/7/Мозила (Mozilla)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameDogbert
 msgid "Netscape 4"
-msgstr "Netscape 4"
+msgstr "Нетскејп 4"
 
+# (pofilter) unchanged: please translate
 #: sourceNameOpera
 msgid "Opera"
-msgstr "Opera"
+msgstr "Опера (Opera)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameSafari
 msgid "Safari"
-msgstr "Safari"
+msgstr "Сафари (Safari)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameOmniWeb
 msgid "OmniWeb"
-msgstr "OmniWeb"
+msgstr "Омнивеб (OmniWeb)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameCamino
 msgid "Camino"
-msgstr "Camino"
+msgstr "Камино (Camino)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameICab
 msgid "iCab"
-msgstr "iCab"
+msgstr "Икаб (iCab)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameKonqueror
 msgid "Konqueror"
-msgstr "Konqueror"
+msgstr "Конкверор (Konqueror)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameEpiphany
 msgid "Epiphany"
-msgstr "Epiphany"
+msgstr "Спознаја (Epiphany)"
 
+# (pofilter) unchanged: please translate
 #: sourceNameGaleon
 msgid "Galeon"
-msgstr "Galeon"
+msgstr "Галеон (Galeon)"
 
 #: importedBookmarksFolder
 msgid "From %S"

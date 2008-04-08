@@ -49,6 +49,14 @@ msgstr ""
 # - the terms of any one of the NPL, the GPL or the LGPL.
 # -
 # - ***** END LICENSE BLOCK *****
+# -
+# -
+# -
+# -
+# -
+# -
+# -
+# (pofilter) unchanged: please translate
 #: window.title
 msgid "about:config"
 msgstr "about:config"

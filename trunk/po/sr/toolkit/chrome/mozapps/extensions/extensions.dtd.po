@@ -488,6 +488,7 @@ msgstr "Провера доградњи"
 msgid "End-User License Agreement"
 msgstr "Споразум са крајњим корисником"
 
+# (pofilter) unchanged: please translate
 #: eula.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -495,6 +496,7 @@ msgid ""
 "560px"
 msgstr "560px"
 
+# (pofilter) unchanged: please translate
 #: eula.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

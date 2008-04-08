@@ -270,6 +270,8 @@ msgstr ""
 # The following are used by libmime for header display in XML & HTML
 #
 # (pofilter) unchanged: please translate
+#
+#
 #: prefixTo
 msgid "To"
 msgstr "To"

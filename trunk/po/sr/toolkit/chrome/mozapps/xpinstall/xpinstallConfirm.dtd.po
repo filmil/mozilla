@@ -19,6 +19,7 @@ msgstr ""
 msgid "Software Installation"
 msgstr "Инсталација програма"
 
+# (pofilter) unchanged: please translate
 #: dialog.style
 msgid "width: 45em"
 msgstr "width: 45em"

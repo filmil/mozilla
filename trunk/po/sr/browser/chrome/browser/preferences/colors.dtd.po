@@ -18,16 +18,18 @@ msgstr ""
 msgid "Colors"
 msgstr "Боје"
 
+# (pofilter) unchanged: please translate
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "38em"
-msgstr "38em"
+msgstr "48em"
 
+# (pofilter) unchanged: please translate
 #: window.macWidth
 msgid "41em"
-msgstr "41em"
+msgstr "51em"
 
 #: allowPagesToUse.label
 #: allowPagesToUse.accesskey

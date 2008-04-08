@@ -18,16 +18,18 @@ msgstr ""
 msgid "Software Update"
 msgstr "Доградња програма"
 
+# (pofilter) unchanged: please translate
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
 "dialogue box to appear bigger.\n"
 "36em"
-msgstr "36em"
+msgstr "46em"
 
+# (pofilter) unchanged: please translate
 #: window.macWidth
 msgid "39em"
-msgstr "39em"
+msgstr "49em"
 
 #: checking.title
 msgid "Checking for Updates"

@@ -18,6 +18,7 @@ msgstr ""
 msgid "Customize Toolbar"
 msgstr "Прилагоди алатну траку"
 
+# (pofilter) unchanged: please translate
 #: dialog.style
 msgid "width: 635px; height: 400px;"
 msgstr "width: 635px; height: 400px;"

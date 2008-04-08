@@ -18,9 +18,10 @@ msgstr ""
 msgid "Manage Search Engine List"
 msgstr "Управљање списком претраживача"
 
+# (pofilter) unchanged: please translate
 #: engineManager.style
 msgid "min-width: 35em;"
-msgstr "min-width: 35em;"
+msgstr "min-width: 36em;"
 
 #: engineManager.intro
 msgid "You have the following search engines installed:"

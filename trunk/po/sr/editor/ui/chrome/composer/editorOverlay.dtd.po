@@ -1300,6 +1300,8 @@ msgstr ""
 # 
 #
 # (pofilter) unchanged: please translate
+#
+#
 #: SourceTabDirection
 msgid "ltr"
 msgstr "ltr"

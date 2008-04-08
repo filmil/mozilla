@@ -26,6 +26,9 @@ msgstr "Услови услуге за заштиту од фишинга (phish
 # provider's policy, you don't see it again).
 # 
 #
+#
+#
+# (pofilter) unchanged: please translate
 #: phishDlg.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -33,6 +36,7 @@ msgid ""
 "40em"
 msgstr "40em"
 
+# (pofilter) unchanged: please translate
 #: phishDlg.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

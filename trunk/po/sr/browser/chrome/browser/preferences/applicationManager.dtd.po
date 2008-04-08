@@ -18,9 +18,10 @@ msgstr ""
 msgid "Application details"
 msgstr "Детаљи о програму"
 
+# (pofilter) unchanged: please translate
 #: appManager.style
 msgid "width: 30em; min-height: 20em;"
-msgstr "width: 30em; min-height: 20em;"
+msgstr "width: 40em; min-height: 20em;"
 
 #: remove.label remove.accesskey
 msgid "&Remove"
