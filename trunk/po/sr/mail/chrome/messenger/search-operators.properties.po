@@ -62,6 +62,7 @@ msgstr "завршава се са"
 msgid "sounds like"
 msgstr "звучи као"
 
+# (pofilter) unchanged: please translate
 #: 12
 msgid "LdapDwim"
 msgstr "LdapDwim"

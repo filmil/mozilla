@@ -123,10 +123,12 @@ msgstr "Опет-послато-од"
 msgid "Resent-Message-ID"
 msgstr "Опет-послато-порука-ИБ"
 
+# (pofilter) unchanged: please translate
 #: RESENT-SENDER
 msgid "Resent-Sender"
 msgstr "Resent-Sender"
 
+# (pofilter) unchanged: please translate
 #: RESENT-TO
 msgid "Resent-To"
 msgstr "Resent-To"

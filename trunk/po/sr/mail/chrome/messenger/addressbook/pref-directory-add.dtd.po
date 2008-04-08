@@ -161,6 +161,9 @@ msgstr "Можете примити локалну копију овог дир�
 # to vary somewhat with the language.
 # 
 #
+#
+#
+# (pofilter) unchanged: please translate
 #: newDirectoryWidth
 msgid "36em"
 msgstr "36em"

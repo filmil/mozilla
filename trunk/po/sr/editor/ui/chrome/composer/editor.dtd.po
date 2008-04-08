@@ -69,6 +69,7 @@ msgstr "o"
 msgid "Help"
 msgstr "Помоћ"
 
+# (pofilter) unchanged: please translate
 #: aboutCmd.label
 msgid ".About"
 msgstr ".About"

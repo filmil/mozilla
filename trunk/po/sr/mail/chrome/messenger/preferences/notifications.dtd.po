@@ -18,6 +18,7 @@ msgstr ""
 msgid "Customize New Mail Alert"
 msgstr "Прилагођено обавештење о пошти"
 
+# (pofilter) unchanged: please translate
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

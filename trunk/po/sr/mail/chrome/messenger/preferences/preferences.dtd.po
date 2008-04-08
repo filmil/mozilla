@@ -22,14 +22,17 @@ msgstr "Опције"
 msgid "&brandShortName; Preferences"
 msgstr "Поставке за &brandShortName;"
 
+# (pofilter) unchanged: please translate
 #: prefWindow.styleWindows
 msgid "width: 44em; min-height: 38.5em;"
 msgstr "width: 44em; min-height: 38.5em;"
 
+# (pofilter) unchanged: please translate
 #: prefWindow.styleMac
 msgid "width: 47em;"
 msgstr "width: 47em;"
 
+# (pofilter) unchanged: please translate
 #: prefWindow.styleGNOME
 msgid "width: 42em; min-height: 38em;"
 msgstr "width: 42em; min-height: 38em;"

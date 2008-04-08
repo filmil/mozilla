@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 17:48+0200\n"
+"PO-Revision-Date: 2008-04-08 22:50+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,14 +22,12 @@ msgid "$ProductName$ Setup"
 msgstr "Подешавање за програм $ProductName$"
 
 #: Welcome_MessageWelcome
-#, fuzzy
 msgid "Welcome to %s"
 msgstr "Добро дошли у програм %s!"
 
 #: Welcome_Message0
-#, fuzzy
 msgid "You are about to install %s 3 Alpha 1."
-msgstr "Ускоро ћете да инсталирате програм %s 2 Alpha 1."
+msgstr "Ускоро ћете да инсталирате програм %s 3 алфа 1."
 
 #: Welcome_Message1
 msgid ""
@@ -48,9 +46,8 @@ msgstr ""
 "програме.  Притисните „Даље‟ како бисте наставили са радом у овом програму."
 
 #: Welcome_Message3
-#, fuzzy
 msgid "Click Next to continue installing %s 3 Alpha 1."
-msgstr "Притисните „Даље‟ како бисте наставили са постављањем %s 2 Alpha 1."
+msgstr "Притисните „Даље‟ како бисте наставили са постављањем програма %s 3 алфа 1."
 
 #: License_Title
 msgid "Software License Agreement"
@@ -212,9 +209,8 @@ msgid "Downloading"
 msgstr "Пријем"
 
 #: Downloading_SubTitle
-#, fuzzy
 msgid "Downloading required components…"
-msgstr "Пријем неопходних делова..."
+msgstr "Пријем неопходних делова…"
 
 #: Downloading_Blurb
 msgid "Setup is downloading the files required to install $ProductName$."
@@ -234,9 +230,8 @@ msgid "Installing"
 msgstr "Инсталација"
 
 #: Installing_SubTitle
-#, fuzzy
 msgid "Installing $ProductName$…"
-msgstr "Инсталација програма $ProductName$..."
+msgstr "Инсталација програма $ProductName$…"
 
 #: Installing_Blurb
 msgid "Setup is installing application files."
@@ -271,7 +266,7 @@ msgid ""
 "Download of $ProductName$ was successful. $ProductNameInternal$ must be "
 "closed to proceed with installation. Click OK to exit $ProductNameInternal$ "
 "automatically and to begin installation."
-msgstr ""
+msgstr "Пријем производа $ProductName$ је успео. $ProductNameInternal$ мора да буде затворен како би се наставило са инсталацијом.  Притисните „У реду‟ да изађете из програма $ProductNameInternal$ и да отпочнете инсталацију."
 
 #: Check_FullMessage
 msgid ""
@@ -283,15 +278,14 @@ msgstr ""
 "програмом $ProductNameInternal$ и како бисте почели инсталацију."
 
 #: Check_Wait
-#, fuzzy
 msgid "Shutting down $ProductNameInternal$.  Please wait…"
-msgstr "Крај рада са програмом $ProductNameInternal$.  Молимо да сачекате..."
+msgstr "Крај рада са програмом $ProductNameInternal$.  Молимо да сачекате…"
 
 #: Component_XPCOM
-#, fuzzy
 msgid "Cross-Platform COM"
 msgstr "Преносиви COM"
 
+# (pofilter) unchanged: please translate
 #: Component_Mail
 msgid "$ProductName$"
 msgstr "$ProductName$"

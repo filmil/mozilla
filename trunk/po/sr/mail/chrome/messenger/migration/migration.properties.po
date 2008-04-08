@@ -19,10 +19,12 @@ msgid "%S %S"
 msgstr "%S %S"
 
 # Browser Specific
+# (pofilter) unchanged: please translate
 #: sourceNameSeamonkey
 msgid "Netscape 6/7/Mozilla"
 msgstr "Netscape 6/7/Mozilla"
 
+# (pofilter) unchanged: please translate
 #: sourceNameDogbert
 msgid "Netscape 4"
 msgstr "Netscape 4"
@@ -94,12 +96,14 @@ msgstr "Фасцикле са поштом"
 
 # mailDirName needs to be set to the same value as in 4.x
 # see bug #55449
+# (pofilter) unchanged: please translate
 #: mailDirName
 msgid "Mail"
 msgstr "Mail"
 
 # newsDirName needs to be set to the same value as in 4.x
 # see bug #55449
+# (pofilter) unchanged: please translate
 #: newsDirName
 msgid "News"
 msgstr "News"

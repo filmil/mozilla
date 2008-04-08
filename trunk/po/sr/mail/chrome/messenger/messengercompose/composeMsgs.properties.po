@@ -478,6 +478,7 @@ msgstr ""
 # # LOCALIZATION NOTE: this string must be using only US_ASCII characters
 # # @name NS_MSG_UNDISCLOSED_RECIPIENTS
 # # LOCALIZATION NOTE: this string must be using only US_ASCII characters
+# (pofilter) unchanged: please translate
 #: 12566
 msgid "undisclosed-recipients"
 msgstr "undisclosed-recipients"

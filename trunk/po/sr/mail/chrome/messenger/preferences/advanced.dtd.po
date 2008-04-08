@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-30 18:24+0200\n"
+"PO-Revision-Date: 2008-04-08 22:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -96,6 +96,7 @@ msgstr "Уређивач &подешавања..."
 msgid "Automatically check for updates to:"
 msgstr "Самостално проверавај унапређења за:"
 
+# (pofilter) unchanged: please translate
 #: enableAppUpdate.label
 msgid "&brandShortName;"
 msgstr "&brandShortName;"
@@ -111,7 +112,7 @@ msgstr "Постављени &додаци"
 
 #: checkNow.label
 msgid "Check Now..."
-msgstr "Провери..."
+msgstr "Провери одмах..."
 
 #: whenUpdatesFound.label
 msgid "When updates to &brandShortName; are found,"

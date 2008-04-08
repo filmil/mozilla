@@ -228,6 +228,7 @@ msgstr "AOL"
 ## @loc None
 # # @name VCARD_LDAP_APPLELINK_TYPE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 1020
 msgid "Applelink"
 msgstr "Applelink"
@@ -246,6 +247,7 @@ msgstr "AT&T пошта"
 ## @loc None
 # # @name VCARD_LDAP_CSI_TYPE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 1022
 msgid "Compuserve"
 msgstr "Compuserve"
@@ -255,6 +257,7 @@ msgstr "Compuserve"
 ## @loc None
 # # @name VCARD_LDAP_EWORLD_TYPE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 1023
 msgid "eWorld"
 msgstr "eWorld"
@@ -289,6 +292,7 @@ msgstr "MCI пошта"
 ## @loc None
 # # @name VCARD_LDAP_POWERSHARE_TYPE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 1027
 msgid "Powershare"
 msgstr "Powershare"
@@ -298,6 +302,7 @@ msgstr "Powershare"
 ## @loc None
 # # @name VCARD_LDAP_PRODIGY_TYPE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 1028
 msgid "Prodigy"
 msgstr "Prodigy"
@@ -307,6 +312,7 @@ msgstr "Prodigy"
 ## @loc None
 # # @name VCARD_LDAP_TLX_TYPE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 1029
 msgid "Telex"
 msgstr "Telex"

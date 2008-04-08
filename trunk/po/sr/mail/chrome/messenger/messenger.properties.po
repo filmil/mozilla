@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-29 02:37+0100\n"
+"PO-Revision-Date: 2008-04-08 22:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -629,7 +629,7 @@ msgstr "UTF-8"
 #: mail.addr_book.displayName.lastnamefirst
 #: mail.addr_book.show_phonetic_fields
 msgid "false"
-msgstr ""
+msgstr "false"
 
 # the format for "mail.addr_book.quicksearchquery.format" is:
 # @V == the escaped value typed in the quick search bar in the addressbook
@@ -640,6 +640,10 @@ msgstr ""
 # LOCALIZATION NOTES - please add phonetic names as below when "mail.addr_book.show_phonetic_fields" is true
 # "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V)(PhoneticFirstName,c,@V)(PhoneticLastName,c,@V))"
 #
+#
+#
+#
+# (pofilter) unchanged: please translate
 #: mail.addr_book.quicksearchquery.format
 msgid "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
 msgstr "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
@@ -674,6 +678,7 @@ msgid "The body of this message has not been downloaded from the server for read
 msgstr "Тело ове поруке није преузето са сервера за читање ван везе.  Да бисте прочитали ову поруку, морате да се повежете на мрежу, изаберете рад ван мреже из менија „Датотека‟ и затим изаберете „Рад на вези‟  Убудуће, можете да изаберете које поруке и директоријуме желите да читате ван мреже.  Да бисте ово урадили, изаберите „Ван мреже‟ из менија „Датотека‟ и затим изаберите „Усклади‟. Можете да користите подешавања простора на диску како бисте спречили пријем великих порука."
 
 # accountCentral
+# (pofilter) unchanged: please translate
 #: mailnews.account_central_page.url
 msgid "chrome://messenger/content/msgAccountCentral.xul"
 msgstr "chrome://messenger/content/msgAccountCentral.xul"
@@ -896,10 +901,12 @@ msgstr "Морате изабрати бар један директоријум
 
 # These two are displayed in the message and folder pane windows
 # LOCALIZATION NOTES(????ByteAbbreviation): Do not translate %d below, it is the size of the message/folder
+# (pofilter) unchanged: please translate
 #: kiloByteAbbreviation
 msgid "%dKB"
 msgstr "%dKB"
 
+# (pofilter) unchanged: please translate
 #: megaByteAbbreviation
 msgid "%dMB"
 msgstr "%dMB"

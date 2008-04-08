@@ -287,6 +287,7 @@ msgstr "Тело поруке ће бити добављено на захтев
 # LOCALIZATION NOTE (Error 5033): Do not translate the word "IMAP" below.
 # # @name IMAP_UNABLE_TO_SAVE_MESSAGE
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 5033
 msgid "IMAP Error: The message could not be saved due to an error."
 msgstr "IMAP Error: The message could not be saved due to an error."

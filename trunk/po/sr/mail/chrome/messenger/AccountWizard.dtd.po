@@ -19,6 +19,7 @@ msgstr ""
 msgid "Account Wizard"
 msgstr "Чаробњак за налоге"
 
+# (pofilter) unchanged: please translate
 #: accountWizard.size
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -162,8 +163,7 @@ msgstr "Одлазни сервер (SMTP)"
 
 #: smtpServerDesc.label
 msgid ""
-"_: Do not translate \"SMTP\" and \"&quot;smtp.example.net&quot;\" in below "
-"line\n"
+"_: Do not translate \"SMTP\" and \"&quot;smtp.example.net&quot;\" in below line\n"
 "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp."
 "example.net&quot;)."
 msgstr ""

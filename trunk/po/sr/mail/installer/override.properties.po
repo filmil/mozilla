@@ -278,6 +278,7 @@ msgstr "Грешка при декомпресији података! Инст�
 msgid "Error registering DLL"
 msgstr "Грешка при пријави DLLа"
 
+# (pofilter) unchanged: please translate
 #: ExecShell
 msgid "\"ExecShell: \""
 msgstr "\"ExecShell: \""

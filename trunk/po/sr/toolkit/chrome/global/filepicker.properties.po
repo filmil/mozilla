@@ -28,6 +28,7 @@ msgstr "*"
 msgid "HTML Files"
 msgstr "HTML датотеке"
 
+# (pofilter) unchanged: please translate
 #: htmlFilter
 msgid "*.html; *.htm; *.shtml; *.xhtml"
 msgstr "*.html; *.htm; *.shtml; *.xhtml"
@@ -36,6 +37,7 @@ msgstr "*.html; *.htm; *.shtml; *.xhtml"
 msgid "Text Files"
 msgstr "Текстуалне датотеке"
 
+# (pofilter) unchanged: please translate
 #: textFilter
 msgid "*.txt; *.text"
 msgstr "*.txt; *.text"
@@ -52,6 +54,7 @@ msgstr "*.png; *.gif; *.jpeg; *.jpg"
 msgid "XML Files"
 msgstr "XML датотеке"
 
+# (pofilter) unchanged: please translate
 #: xmlFilter
 msgid "*.xml"
 msgstr "*.xml"
@@ -60,6 +63,7 @@ msgstr "*.xml"
 msgid "XUL Files"
 msgstr "XUL датотеке"
 
+# (pofilter) unchanged: please translate
 #: xulFilter
 msgid "*.xul"
 msgstr "*.xul"

@@ -46,6 +46,7 @@ msgstr "Име"
 # panel content to fit. 1em = the width of the letter 'm' in the selected font.
 # XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
 # this window for en-US.
+# (pofilter) unchanged: please translate
 #: accountManager.size
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -53,6 +54,7 @@ msgid ""
 "width: 55em; height: 50em;"
 msgstr "width: 55em; height: 50em;"
 
+# (pofilter) unchanged: please translate
 #: macAccountManager.size
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -60,6 +62,7 @@ msgid ""
 "width: 60em; height: 50em;"
 msgstr "width: 60em; height: 50em;"
 
+# (pofilter) unchanged: please translate
 #: accountTree.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

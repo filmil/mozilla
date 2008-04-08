@@ -424,6 +424,7 @@ msgstr "1, 2, 3..."
 msgid "I, II, III..."
 msgstr "I, II, III..."
 
+# (pofilter) unchanged: please translate
 #: Style_i
 msgid "i, ii, iii..."
 msgstr "i, ii, iii..."
@@ -432,6 +433,7 @@ msgstr "i, ii, iii..."
 msgid "A, B, C..."
 msgstr "A, B, C..."
 
+# (pofilter) unchanged: please translate
 #: Style_a
 msgid "a, b, c..."
 msgstr "a, b, c..."

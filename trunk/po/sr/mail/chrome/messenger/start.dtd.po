@@ -50,26 +50,32 @@ msgstr "Груписање порука"
 msgid "Privacy Protection"
 msgstr "Заштита приватности"
 
+# (pofilter) unchanged: please translate
 #: startpage.junkControlURL
 msgid "http://www.mozilla.org/products/thunderbird/junkmail.html"
 msgstr "http://www.mozilla.org/products/thunderbird/junkmail.html"
 
+# (pofilter) unchanged: please translate
 #: startpage.rssReaderURL
 msgid "http://www.mozilla.org/products/thunderbird/rss.html"
 msgstr "http://www.mozilla.org/products/thunderbird/rss.html"
 
+# (pofilter) unchanged: please translate
 #: startpage.globalInboxURL
 msgid "http://www.mozilla.org/products/thunderbird/global-inbox.html"
 msgstr "http://www.mozilla.org/products/thunderbird/global-inbox.html"
 
+# (pofilter) unchanged: please translate
 #: startpage.searchFoldersURL
 msgid "http://www.mozilla.org/products/thunderbird/search-folders.html"
 msgstr "http://www.mozilla.org/products/thunderbird/search-folders.html"
 
+# (pofilter) unchanged: please translate
 #: startpage.messageGroupsURL
 msgid "http://www.mozilla.org/products/thunderbird/message-grouping.html"
 msgstr "http://www.mozilla.org/products/thunderbird/message-grouping.html"
 
+# (pofilter) unchanged: please translate
 #: startpage.privacyProtectURL
 msgid "http://www.mozilla.org/products/thunderbird/privacy-protection.html"
 msgstr "http://www.mozilla.org/products/thunderbird/privacy-protection.html"
@@ -86,6 +92,7 @@ msgstr "Помоћ за Thunderbird"
 msgid "For frequently asked questions, tips and general help, visit"
 msgstr "За често постављања питања, савете и помоћ уопште, посетите"
 
+# (pofilter) unchanged: please translate
 #: startpage.helpURL
 msgid "http://www.mozilla.org/support/thunderbird/"
 msgstr "http://www.mozilla.org/support/thunderbird/"
@@ -98,6 +105,7 @@ msgstr "Страна програма Thunderbird"
 msgid "For product information, visit the"
 msgstr "За податке о производу посетите"
 
+# (pofilter) unchanged: please translate
 #: startpage.pageURL
 msgid "http://www.mozilla.org/products/thunderbird/"
 msgstr "http://www.mozilla.org/products/thunderbird/"

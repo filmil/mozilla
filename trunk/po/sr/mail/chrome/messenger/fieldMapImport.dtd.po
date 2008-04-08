@@ -67,6 +67,7 @@ msgstr ""
 msgid "Import Address Book"
 msgstr "Увоз адресара"
 
+# (pofilter) unchanged: please translate
 #: fieldMapImport.size
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

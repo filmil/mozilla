@@ -1298,6 +1298,8 @@ msgstr ""
 # or use latin "rtl" if you want this image to the right of text
 # This is the value of the HTML 'dir' attribute
 # 
+#
+# (pofilter) unchanged: please translate
 #: SourceTabDirection
 msgid "ltr"
 msgstr "ltr"

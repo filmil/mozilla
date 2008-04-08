@@ -109,6 +109,8 @@ msgstr "Опет-послато-датум"
 # Resent-Sender
 ## @name MIME_MHTML_RESENT_SENDER
 ## @loc 
+## @loc
+# (pofilter) unchanged: please translate
 #: 1003
 msgid "Resent-Sender"
 msgstr "Resent-Sender"
@@ -123,6 +125,8 @@ msgstr "Опет-послато-од"
 # Resent-To
 ## @name MIME_MHTML_RESENT_TO
 ## @loc 
+## @loc
+# (pofilter) unchanged: please translate
 #: 1005
 msgid "Resent-To"
 msgstr "Resent-To"
@@ -132,6 +136,8 @@ msgstr "Resent-To"
 ## @loc 
 # LOCALIZATION NOTE (1006): Do not translate "CC" below.
 # LOCALIZATION NOTE (RESENT-CC); Do not translate "CC"
+## @loc
+# (pofilter) unchanged: please translate
 #: 1006
 msgid "Resent-CC"
 msgstr "Resent-CC"
@@ -176,6 +182,9 @@ msgstr "Организација"
 ## @loc 
 #
 # The following are used by libmime for header display in XML & HTML
+## @loc
+#
+# (pofilter) unchanged: please translate
 #: 1012
 msgid "To"
 msgstr "To"

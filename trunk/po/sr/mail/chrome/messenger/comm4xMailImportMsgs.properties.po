@@ -57,6 +57,7 @@ msgstr ""
 ## @loc None
 # # @name COMM4XMAILIMPORT_NAME
 # # @loc None
+# (pofilter) unchanged: please translate
 #: 2000
 msgid "Communicator 4.x"
 msgstr "Communicator 4.x"
