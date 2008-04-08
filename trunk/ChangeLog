@@ -1,3 +1,11 @@
+2008-04-08  Filip Miletic  <filmil@gmail.com>
+
+	* Makefile (copytocvs): Changed target name so as not to mistype
+	"publish"
+
+	* po/sr/browser/chrome/browser-region/region.properties.po:
+	Removed 2nd order search engine (again)
+
 2008-04-07  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/security/manager/chrome/pipnss/pipnss.properties.po:

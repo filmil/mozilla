@@ -12,17 +12,17 @@
 
 include Makefile.inc
 
-.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv publishcopy fixme pofilter pomerge
+.PHONY: all clean pot cleanpot stats  initpo match populate output tryconv copytocvs fixme pofilter pomerge
 
 all: clean tryconv stats 
 
 # Слање измена у Мозилин ЦВС
-publish: clean tryconv publishcopy 
+publish: clean tryconv copytocvs 
 	( MSG=`cat $(CVS_MSG)` ; \
 	  $(CD) $(MOZILLA_CVS) ; \
           $(CVS) -z3 commit -m "$$MSG" )
 
-publishcopy:
+copytocvs:
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 
 # Tests for common mistakes in the translation
