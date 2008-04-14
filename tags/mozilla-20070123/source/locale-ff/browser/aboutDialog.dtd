@@ -1,9 +1,0 @@
-<!ENTITY aboutDialog.title "О &brandFullName;">
-<!ENTITY copyright "Ауторска права и учесници пројекта">
-<!ENTITY aboutLink "&lt; О &brandFullName;">
-<!ENTITY aboutVersion "верзија">
-<!ENTITY copyrightText "© 1998-2004 Заједница. Сва права загарантована. Firefox и
-Firefox логотипови су тржишна марка Mozilla фондације. Сва права
-су загарантована. Неке тржишне марке коришћене под лиценцом
-Charlton Company.">
-<!ENTITY cmdClose.macKey "W">
