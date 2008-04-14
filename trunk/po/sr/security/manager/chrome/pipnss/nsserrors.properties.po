@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-02 23:38+0200\n"
+"PO-Revision-Date: 2008-04-14 22:50+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -836,7 +836,7 @@ msgstr "Корисник је отказао дејство."
 
 #: SEC_ERROR_PKCS12_DUPLICATE_DATA
 msgid "Not imported, already in database."
-msgstr ""
+msgstr "Није увезено, већ се налази у бази података."
 
 #: SEC_ERROR_MESSAGE_SEND_ABORTED
 msgid "Message not sent."

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-30 18:09+0200\n"
+"PO-Revision-Date: 2008-04-14 23:20+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,23 +30,23 @@ msgstr " - "
 # File Menu
 #: newFolderCmd.label newFolderCmd.accesskey
 msgid "&Folder…"
-msgstr ""
+msgstr "&Директоријум…"
 
 #: newTabCmd.label newTabCmd.accesskey
 msgid "New &Tab"
-msgstr ""
+msgstr "Нови &језичак"
 
 #: closeTabCmd.label closeTabCmd.accesskey
 msgid "Clos&e Tab"
-msgstr ""
+msgstr "&Затвори језичак"
 
 #: newVirtualFolderCmd.label newVirtualFolderCmd.accesskey
 msgid "&Saved Search…"
-msgstr ""
+msgstr "&Сачувана претрага…"
 
 #: newAccountCmd.label newAccountCmd.accesskey
 msgid "&Account…"
-msgstr ""
+msgstr "&Налог…"
 
 # msgHdrViewOverlay.js
 #: openMessageMenu.label
@@ -55,7 +55,7 @@ msgstr "Отвори"
 
 #: openMessageFileCmd.label openMessageFileCmd.accesskey
 msgid "&Open Saved Message…"
-msgstr ""
+msgstr "&Отвори сачувану поруку…"
 
 #: openAttachmentCmd.label openAttachmentCmd.accesskey
 #: sortByAttachmentsCmd.label sortByAttachmentsCmd.accesskey
@@ -64,7 +64,7 @@ msgstr "&Прилози"
 
 #: saveAsMenu.label saveAsMenu.accesskey
 msgid "&Save As"
-msgstr "&Сними као"
+msgstr "&Сачувај као"
 
 # LOCALIZATION NOTE : FILE This file contains the global menu items
 #: saveAsFileCmd.label saveAsFileCmd.accesskey
@@ -73,7 +73,7 @@ msgstr "&Датотека"
 
 #: saveAsFileCmd.key
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: saveAsTemplateCmd.label saveAsTemplateCmd.accesskey
 msgid "&Template"
@@ -85,7 +85,7 @@ msgstr "&Преузми нове поруке"
 
 #: getNewMsgCmd.key getAllNewMsgCmd.key nextUnreadThreadCmd.key
 msgid "t"
-msgstr ""
+msgstr "t"
 
 #: getNewMsgForCmd.label getNewMsgForCmd.accesskey
 msgid "Get Ne&w Messages for"
@@ -108,11 +108,11 @@ msgstr "Пошаљи &непослате поруке"
 #: subscribeCmd.label subscribeCmd.accesskey folderContextSubscribe.label
 #: folderContextSubscribe.accesskey
 msgid "Su&bscribe…"
-msgstr ""
+msgstr "&Прати…"
 
 #: renameFolder.label renameFolder.accesskey
 msgid "&Rename Folder…"
-msgstr ""
+msgstr "&Преименуј директоријум…"
 
 #: renameFolder.key
 msgid "VK_F2"
@@ -133,28 +133,28 @@ msgstr "Испразни сме&ће"
 
 #: importCmd.label importCmd.accesskey
 msgid "&Import…"
-msgstr ""
+msgstr "&Увоз…"
 
 #: offlineMenu.label offlineMenu.accesskey
 msgid "Off&line"
-msgstr "&Неповезан рад"
+msgstr "&Ван мреже"
 
 # these things need to move into utilityOverlay.xul
 #: offlineGoOfflineCmd.label offlineGoOfflineCmd.accesskey
 msgid "&Work Offline"
-msgstr "&Неповезан рад"
+msgstr "&Рад ван мреже"
 
 #: synchronizeOfflineCmd.label synchronizeOfflineCmd.accesskey
 msgid "Download/&Sync Now…"
-msgstr ""
+msgstr "Пријем/&синхронизација…"
 
 #: settingsOfflineCmd.label settingsOfflineCmd.accesskey
 msgid "Offlin&e Settings…"
-msgstr ""
+msgstr "Подешавања ван мре&же"
 
 #: downloadSelectedCmd.label downloadSelectedCmd.accesskey
 msgid "Get Se&lected Messages"
-msgstr ""
+msgstr "Добави и&забране поруке"
 
 #: downloadStarredCmd.label downloadStarredCmd.accesskey
 msgid "Get St&arred Messages"
@@ -162,7 +162,7 @@ msgstr "Добави поруке са &звездом"
 
 #: printCmd.label printCmd.accesskey contextPrint.label contextPrint.accesskey
 msgid "&Print…"
-msgstr ""
+msgstr "&Штампа…"
 
 #: printCmd.key prevUnreadMsgCmd.key
 msgid "p"
@@ -175,11 +175,11 @@ msgstr "Преглед шта&мпе"
 
 #: printPreviewCmd.key
 msgid "v"
-msgstr "м"
+msgstr "v"
 
 #: printSetupCmd.label printSetupCmd.accesskey
 msgid "Page Set&up…"
-msgstr ""
+msgstr "Поде&шавање стране…"
 
 # Edit Menu
 #: deleteMsgCmd.label deleteMsgCmd.accesskey
@@ -239,19 +239,19 @@ msgstr "О&миљени директоријум"
 
 #: folderPropsCmd.label folderPropsCmd.accesskey
 msgid "Pr&operties…"
-msgstr ""
+msgstr "&Својства…"
 
 #: folderPropsFolderCmd.label
 msgid "Folder Properties…"
-msgstr ""
+msgstr "Својства &директоријума…"
 
 #: folderPropsNewsgroupCmd.label
 msgid "Newsgroup Properties…"
-msgstr ""
+msgstr "Својства &вести"
 
 #: accountManagerCmd.label accountManagerCmd.accesskey
 msgid "A&ccount Settings…"
-msgstr ""
+msgstr "&Подешавања налога…"
 
 #: accountManagerCmdUnix.accesskey
 msgid "A"
@@ -296,7 +296,7 @@ msgstr "Алатна трака за &пошту"
 
 #: customizeToolbar.label customizeToolbar.accesskey
 msgid "&Customize…"
-msgstr ""
+msgstr "&Прилагоди…"
 
 # Layout Style Menu
 #: messagePaneLayoutStyle.label messagePaneLayoutStyle.accesskey
@@ -353,7 +353,7 @@ msgstr "&Датум"
 
 #: sortByReceivedCmd.label sortByReceivedCmd.accesskey
 msgid "Recei&ved"
-msgstr ""
+msgstr "П&римљено"
 
 #: sortByStarCmd.label sortByStarCmd.accesskey
 msgid "&Star"
@@ -385,7 +385,7 @@ msgstr "&Тема"
 
 #: sortByFromCmd.label sortByFromCmd.accesskey
 msgid "&From"
-msgstr ""
+msgstr "&Шаље"
 
 #: sortByRecipientCmd.label sortByRecipientCmd.accesskey
 msgid "Re&cipient"
@@ -559,7 +559,7 @@ msgstr "&Нађи"
 
 #: findCmd.label findCmd.accesskey
 msgid "&Find in This Message…"
-msgstr ""
+msgstr "&Нађи у овој поруци…"
 
 #: findCmd.key searchMailCmd.key nextMsgCmd.key
 msgid "f"
@@ -571,7 +571,7 @@ msgstr "На&ђи поново"
 
 #: findAgainCmd.key findPrevCmd.key
 msgid "g"
-msgstr ""
+msgstr "g"
 
 #: findAgainCmd.key2 findPrevCmd.key2
 msgid "VK_F3"
@@ -579,11 +579,11 @@ msgstr "VK_F3"
 
 #: searchMailCmd.label searchMailCmd.accesskey
 msgid "Search &Messages…"
-msgstr ""
+msgstr "Пре&тражи поруке…"
 
 #: searchAddressesCmd.label searchAddressesCmd.accesskey
 msgid "&Search Addresses…"
-msgstr ""
+msgstr "Претра&жи адресе…"
 
 # Go Menu
 #: goMenu.label goMenu.accesskey
@@ -606,7 +606,7 @@ msgstr "&Непрочитана порука"
 
 #: nextUnreadMsgCmd.key
 msgid "n"
-msgstr ""
+msgstr "n"
 
 #: nextStarredMsgCmd.label nextStarredMsgCmd.accesskey prevStarredMsgCmd.label
 #: prevStarredMsgCmd.accesskey
@@ -698,11 +698,11 @@ msgstr "&Уреди поруку као да је нова"
 
 #: editMsgAsNewCmd.key
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: createFilter.label createFilter.accesskey
 msgid "Cre&ate Filter From Message…"
-msgstr ""
+msgstr "На&прави филтер од поруке…"
 
 #: moveMsgMenu.label moveMsgMenu.accesskey
 msgid "&Move"
@@ -732,7 +732,7 @@ msgstr "&Занемари нит"
 # Search Bar
 #: killThreadMenu.key quickSearchCmd.key
 msgid "k"
-msgstr ""
+msgstr "k"
 
 #: watchThreadMenu.label watchThreadMenu.accesskey
 msgid "&Watch Thread"
@@ -808,11 +808,11 @@ msgstr "&Нит као прочитану"
 
 #: markReadByDateCmd.label markReadByDateCmd.accesskey
 msgid "As Read by &Date…"
-msgstr ""
+msgstr "Означи као прочитано по &датуму…"
 
 #: markReadByDateCmd.key markAllReadCmd.key
 msgid "c"
-msgstr "З"
+msgstr "з"
 
 #: markAllReadCmd.label markAllReadCmd.accesskey
 msgid "&All Read"
@@ -824,19 +824,19 @@ msgstr "Додај &звезду"
 
 #: markStarredCmd.key
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: markAsJunkCmd.label markAsJunkCmd.accesskey
 msgid "As &Junk"
-msgstr "Као &отпад"
+msgstr "&Непожељно"
 
 #: markAsJunkCmd.key markAsNotJunkCmd.key
 msgid "j"
-msgstr ""
+msgstr "j"
 
 #: markAsNotJunkCmd.label markAsNotJunkCmd.accesskey
 msgid "As &Not Junk"
-msgstr "Није &отпад"
+msgstr "Ни&је непожељно"
 
 #: recalculateJunkScoreCmd.label recalculateJunkScoreCmd.accesskey
 msgid "Run Junk Mail &Controls"
@@ -848,7 +848,7 @@ msgstr "О&твори поруку"
 
 #: openMessageWindowCmd.key
 msgid "o"
-msgstr ""
+msgstr "o"
 
 # Windows Menu
 #: windowMenu.label windowMenu.accesskey
@@ -874,7 +874,7 @@ msgstr "&Адресар"
 
 #: junkMailCmd.label junkMailCmd.accesskey
 msgid "&Junk Mail Controls…"
-msgstr ""
+msgstr "Управљање &непожељним порукама…"
 
 #: runJunkControls.label runJunkControls.accesskey
 msgid "R&un Junk Mail Controls on Folder"
@@ -890,7 +890,7 @@ msgstr "Конзола са &грешкама"
 
 #: filtersCmd.label filtersCmd.accesskey
 msgid "Message &Filters…"
-msgstr ""
+msgstr "&Филтери за поруке"
 
 #: filtersApply.label filtersApply.accesskey
 msgid "&Run Filters on Folder"
@@ -917,7 +917,7 @@ msgstr "?"
 
 #: updateCmd.label updateCmd.accesskey
 msgid "Check f&or Updates…"
-msgstr ""
+msgstr "Провера &доградњи…"
 
 #: aboutCmd.label aboutCmd.accesskey
 msgid "&About &brandFullName;"
@@ -958,7 +958,7 @@ msgstr "Претходно"
 
 #: backButton1.label
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: deleteButton.label
 msgid "Delete"
@@ -1096,7 +1096,7 @@ msgstr "Означи поруке"
 # Tags Menu Popup
 #: addNewTag.label addNewTag.accesskey
 msgid "&New Tag…"
-msgstr ""
+msgstr "Нова &ознака…"
 
 # Folder Pane
 #: folderColumn.label
@@ -1110,7 +1110,7 @@ msgstr "Величина"
 # Folder Pane Context Menu
 #: folderContextGetMessages.label folderContextGetMessages.accesskey
 msgid "&Get Messages"
-msgstr ""
+msgstr "&Добави поруке"
 
 # Folder Pane Context Menu
 #: folderContextOpenNewWindow.label folderContextOpenNewWindow.accesskey
@@ -1119,11 +1119,11 @@ msgstr "&Отвори"
 
 #: folderContextOpenNewTab.label folderContextOpenNewTab.accesskey
 msgid "Open in New &Tab"
-msgstr ""
+msgstr "Отвори у новом &језичку"
 
 #: folderContextNew.label folderContextNew.accesskey
 msgid "&New Subfolder…"
-msgstr ""
+msgstr "Нови &поддиректоријум…"
 
 #: folderContextRename.label folderContextRename.accesskey
 msgid "&Rename"
@@ -1140,7 +1140,7 @@ msgstr "&Сажми"
 
 #: folderContextEmptyJunk.label folderContextEmptyJunk.accesskey
 msgid "Empty &Junk"
-msgstr ""
+msgstr "Испразни &непожељне"
 
 #: folderContextUnsubscribe.label folderContextUnsubscribe.accesskey
 msgid "&Unsubscribe"
@@ -1158,11 +1158,11 @@ msgstr "O&значи директоријум као прочитан"
 
 #: folderContextSearchMessages.label folderContextSearchMessages.accesskey
 msgid "&Search…"
-msgstr ""
+msgstr "&Тражи…"
 
 #: folderContextProperties.label folderContextProperties.accesskey
 msgid "&Properties…"
-msgstr ""
+msgstr "&Својства…"
 
 #: SearchNameOrEmail.label SearchNameOrEmail.accesskey
 msgid "&Name or Email contains:"
@@ -1179,11 +1179,11 @@ msgstr "Тема"
 
 #: searchFromMenu.label fromColumn.label
 msgid "From"
-msgstr ""
+msgstr "Шаље"
 
 #: searchSubjectOrFromMenu.label
 msgid "Subject or From"
-msgstr ""
+msgstr "Тема или пошиљалац"
 
 #: searchRecipient.label
 msgid "To or Cc"
@@ -1195,7 +1195,7 @@ msgstr "Цела порука"
 
 #: saveAsVirtualFolderMenu.label
 msgid "Save Search as a Folder…"
-msgstr ""
+msgstr "Сачувај претрагу као &директоријум…"
 
 # Thread Pane
 #
@@ -1259,7 +1259,7 @@ msgstr "Прочитано"
 
 #: receivedColumn.label
 msgid "Received"
-msgstr ""
+msgstr "Примљено"
 
 #: starredColumn.label
 msgid "Starred"
@@ -1289,7 +1289,7 @@ msgstr "Притисните да прикажете нити порука"
 
 #: fromColumn.tooltip
 msgid "Click to sort by from"
-msgstr ""
+msgstr "Притисните да уредите по пошиљаоцу"
 
 #: recipientColumn.tooltip
 msgid "Click to sort by recipient"
@@ -1341,7 +1341,7 @@ msgstr "Притисните да поређате према прочитани
 
 #: receivedColumn.tooltip
 msgid "Click to sort by date received"
-msgstr ""
+msgstr "Притисните да поређате по датуму пријема"
 
 #: starredColumn.tooltip
 msgid "Click to sort by star"
@@ -1366,11 +1366,11 @@ msgstr "Отвори поруку у &новом прозору"
 
 #: contextOpenNewTab.label contextOpenNewTab.accesskey
 msgid "Open Message in New &Tab"
-msgstr ""
+msgstr "Отвори поруку у новом &језичку"
 
 #: contextEditAsNew.label contextEditAsNew.accesskey
 msgid "&Edit As New…"
-msgstr ""
+msgstr "&Уреди као нову…"
 
 #: contextReplyAll.label contextReplyAll.accesskey
 msgid "Reply to &All"
@@ -1390,39 +1390,39 @@ msgstr "&Умножи"
 
 #: contextSaveAs.label contextSaveAs.accesskey
 msgid "&Save As…"
-msgstr ""
+msgstr "&Сачувај као…"
 
 # Junk Bar
 #: junkBarMessage1.label
 msgid "Junk Mail"
-msgstr ""
+msgstr "Нежељено"
 
 # Remote Content Bar
 #: remoteContentMessage1.label
 msgid "To protect your privacy, remote images have been blocked."
-msgstr ""
+msgstr "Зарад заштите Ваше приватности, блокиран је приказ удаљених слика."
 
 #: loadRemoteContentButton1.label
 msgid "Load Images"
-msgstr ""
+msgstr "Учитај слике"
 
 # Phishing Bar
 #: phishingBarMessage1.label
 msgid "Suspected Email Scam"
-msgstr ""
+msgstr "Пријави као превару"
 
 #: removePhishingBarButton1.label
 msgid "Ignore Warning"
-msgstr ""
+msgstr "Занемари упозорење"
 
 #: reportPhishingError.label
 msgid "This isn't an email scam"
-msgstr ""
+msgstr "Ово није превара"
 
 # Message Header Context Menu
 #: AddToAddressBook.label AddToAddressBook.accesskey
 msgid "Add to Address &Book…"
-msgstr ""
+msgstr "Додај у &адресар…"
 
 #: SendMailTo.label SendMailTo.accesskey
 msgid "Compo&se Mail To"
@@ -1434,7 +1434,7 @@ msgstr "&Умножи ел. адресу"
 
 #: CreateFilter.label CreateFilter.accesskey
 msgid "Create &Filter from Message…"
-msgstr ""
+msgstr "Направи &филтер од поруке…"
 
 #: BlockAddress.label BlockAddress.accesskey
 msgid "Block &Address"
@@ -1442,32 +1442,32 @@ msgstr "Блокирај &адресу"
 
 #: reportPhishingURL.label reportPhishingURL.accesskey
 msgid "Rep&ort Email Scam"
-msgstr ""
+msgstr "При&јава преваре"
 
 # Content Pane Context Menu
 #: saveLinkCmd.label saveLinkCmd.accesskey
 msgid "Save Link Ta&rget"
-msgstr ""
+msgstr "Сачувај одредишну &везу"
 
 #: saveImageCmd.label saveImageCmd.accesskey
 msgid "Sa&ve Image"
-msgstr ""
+msgstr "Сачувај сли&ку"
 
 #: selectAllCmd.label selectAllCmd.accesskey
 msgid "Select &All"
-msgstr ""
+msgstr "Изабери &све"
 
 #: copyLinkCmd.label copyLinkCmd.accesskey
 msgid "&Copy Link Location"
-msgstr ""
+msgstr "&Умножи одредиште везе"
 
 #: copyImageCmd.label copyImageCmd.accesskey
 msgid "C&opy Image Location"
-msgstr ""
+msgstr "Умножи &одредиште слике"
 
 #: copyEmailCmd.label copyEmailCmd.accesskey
 msgid "Copy &Email Address"
-msgstr ""
+msgstr "Умножи &ел. адресу"
 
 # Statusbar
 #: statusText.label
@@ -1489,39 +1489,39 @@ msgstr "Увећан"
 # Mac OS X Application Menu (Cocoa widgets)
 #: preferencesCmdMac.label
 msgid "Preferences…"
-msgstr ""
+msgstr "Поставке…"
 
 #: preferencesCmdMac.commandkey
 msgid ","
-msgstr ""
+msgstr ","
 
 #: preferencesCmdMac.modifiers hideThisAppCmdMac.modifiers
 msgid "accel"
-msgstr ""
+msgstr "accel"
 
 #: servicesMenuMac.label
 msgid "Services"
-msgstr ""
+msgstr "Услуге"
 
 #: hideThisAppCmdMac.label
 msgid "Hide &brandShortName;"
-msgstr ""
+msgstr "Сакриј &brandShortName;"
 
 #: hideThisAppCmdMac.commandkey hideOtherAppsCmdMac.commandkey
 msgid "H"
-msgstr ""
+msgstr "С"
 
 #: hideOtherAppsCmdMac.label
 msgid "Hide Others"
-msgstr ""
+msgstr "Сакриј остале"
 
 #: hideOtherAppsCmdMac.modifiers
 msgid "accel,alt"
-msgstr ""
+msgstr "accel,alt"
 
 #: showAllAppsCmdMac.label
 msgid "Show All"
-msgstr ""
+msgstr "Прикажи све"
 
 # File Menu
 #~ msgid "&Folder..."
