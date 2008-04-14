@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-15 00:14+0200\n"
+"PO-Revision-Date: 2008-04-15 01:20+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -155,7 +155,7 @@ msgstr "Можда ће бити неопходно да поново покре
 
 #: SUMMARY_CLICK
 msgid "Click Install to continue."
-msgstr "Притисните „Инсталирај‟ да наставите."
+msgstr "Притисните \"Инсталирај\" да наставите."
 
 #: SURVEY_TEXT
 msgid "&Tell us what you thought of ${BrandShortName}"
