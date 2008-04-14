@@ -1,5 +1,11 @@
 2008-04-15  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/editor/ui/chrome/dialogs/EdDialogOverlay.dtd.po: Fully
+	translated. 
+
+	* po/sr/editor/ui/chrome/composer/editorOverlay.dtd.po: Fully
+	translated.
+
 	* po/sr/mail/defines.inc.po: Added the contributors' names.
 
 	* po/sr/browser/defines.inc.po: Added the contributors' names.

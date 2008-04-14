@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-25 02:14+0100\n"
+"PO-Revision-Date: 2008-04-15 01:03+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +83,7 @@ msgstr "Ново"
 
 #: openFileCmd.label
 msgid "Open File…"
-msgstr ""
+msgstr "Отвори датотеку…"
 
 #: fileopen.accesskey fileopen.keybinding inserthline.accesskey
 #: tablecolumn.accesskey
@@ -92,7 +92,7 @@ msgstr "o"
 
 #: openremoteCmd.label
 msgid "Open Web Location…"
-msgstr ""
+msgstr "Отвори мрежно место…"
 
 # Tools menu
 #: fileopenremote.accesskey fileopenremote.keybinding editpastelink.accesskey
@@ -100,7 +100,7 @@ msgstr ""
 #: fonthelvetica.accesskey size-large.accesskey formatlistmenu.accesskey
 #: listprops.accesskey alignleft.accesskey toolsmenu.accesskey
 msgid "l"
-msgstr "У"
+msgstr "м"
 
 #: fileRecentMenu.label
 msgid "Recent Pages"
@@ -110,7 +110,7 @@ msgstr "Скорашње стране"
 #: decreasefontsize.accesskey alignright.accesskey tablerow.accesskey
 #: converttotable.accesskey
 msgid "r"
-msgstr "r"
+msgstr "С"
 
 #: fileRevert.label
 msgid "Revert"
@@ -120,7 +120,7 @@ msgstr "Врати"
 #: editpastequotation.keybinding editfindprev.accesskey validate.accesskey
 #: fontvarwidth.accesskey advancedproperties.accesskey
 msgid "v"
-msgstr "м"
+msgstr "В"
 
 #: saveCmd.label
 msgid "Save"
@@ -129,15 +129,15 @@ msgstr "Сачувај"
 #: filesave.accesskey filesave.keybinding viewpagesource.accesskey
 #: size-small.accesskey formatstylemenu.accesskey tableselectmenu.accesskey
 msgid "s"
-msgstr "т"
+msgstr "а"
 
 #: saveAsCmd.label
 msgid "Save As…"
-msgstr ""
+msgstr "Сачувај као…"
 
 #: filesaveas.accesskey insertanchor.accesskey
 msgid "A"
-msgstr "П"
+msgstr "к"
 
 #: publishCmd.label
 msgid "Publish"
@@ -147,24 +147,24 @@ msgstr "Објави"
 #: stylebold.keybinding paragraphblockquote.accesskey listbullet.accesskey
 #: tablemenu.accesskey tablerowbelow.accesskey toolbrowser.accesskey
 msgid "b"
-msgstr "п"
+msgstr "б"
 
 #: publishAsCmd.label
 msgid "Publish As…"
-msgstr ""
+msgstr "Објави као…"
 
 # access key definitions
 #: publishas.accesskey pasteHTML.accesskey editcheckspelling.accesskey
 msgid "h"
-msgstr "С"
+msgstr "ј"
 
 #: exportToTextCmd.label
 msgid "Export to Text…"
-msgstr ""
+msgstr "Извоз у облику текста…"
 
 #: fileexporttotext.accesskey inserttextarea.accesskey bodytext.accesskey
 msgid "T"
-msgstr "Н"
+msgstr "з"
 
 #: saveAsChangeEncodingCmd.label
 msgid "Save And Change Character Encoding"
@@ -172,7 +172,7 @@ msgstr "Запиши и промени скуп знакова"
 
 #: filesaveandchangeencoding.accesskey
 msgid "E"
-msgstr "E"
+msgstr "к"
 
 #: previewCmd.label
 msgid "Browse Page"
@@ -184,21 +184,21 @@ msgstr "с"
 
 #: sendPageCmd.label
 msgid "Send Page…"
-msgstr ""
+msgstr "Пошаљи страну…"
 
 #: sendPage.accesskey delete.accesskey size-medium.accesskey
 #: listdefinition.accesskey
 msgid "d"
-msgstr "d"
+msgstr "т"
 
 #: printSetupCmd.label
 msgid "Page Setup…"
-msgstr ""
+msgstr "Подешавање стране…"
 
 #: fileprintsetup.accesskey undo.accesskey styleunderline.accesskey
 #: styleunderline.keybinding colorsandbackground.accesskey
 msgid "u"
-msgstr "п"
+msgstr "н"
 
 #: printPreviewCmd.label
 msgid "Print Preview"
@@ -206,12 +206,12 @@ msgstr "Преглед пре штампе"
 
 #: printCmd.label printButtonCmd.label
 msgid "Print…"
-msgstr ""
+msgstr "Штампа…"
 
 #: fileprint.accesskey fileprint.keybinding viewparagraphmarks.accesskey
 #: paste.accesskey stylesuperscript.accesskey toolplaineditor.accesskey
 msgid "p"
-msgstr "p"
+msgstr "м"
 
 # mac
 # LOCALIZATION NOTE : FILE Do not translate all the Cmd.key
@@ -231,16 +231,16 @@ msgstr "Крај"
 
 #: fileexit.accesskey fileexit.keybinding editpastequotation.accesskey
 msgid "q"
-msgstr "q"
+msgstr "К"
 
 # Edit menu items
 #: editMenu.label
 msgid "Edit"
-msgstr "Измени"
+msgstr "Уреди"
 
 #: editmenu.accesskey insertinputtag.accesskey size-xx-large.accesskey
 msgid "e"
-msgstr "e"
+msgstr "У"
 
 #: pasteNoFormatting.label pasteNoFormatting.accesskey
 msgid "Paste With&out Formatting"
@@ -252,7 +252,7 @@ msgstr "Убаци &као"
 
 #: publishSettings.label publishSettings.accesskey
 msgid "Pu&blishing Site Settings…"
-msgstr ""
+msgstr "Обја&ва подешавања сајта…"
 
 # For a "Paste" submenu when more than 1
 # clipboard formats are available
@@ -278,7 +278,7 @@ msgstr "Слика"
 #: editlink.accesskey styleitalic.keybinding increaseindent.accesskey
 #: tableinsertmenu.accesskey
 msgid "i"
-msgstr "i"
+msgstr "л"
 
 #: pasteRowsCmd.label
 msgid "Rows"
@@ -316,7 +316,7 @@ msgstr "Поравнај"
 
 #: findCmd.label
 msgid "Find and Replace…"
-msgstr ""
+msgstr "Нађи и замени…"
 
 #: editfind.keybinding2
 msgid "VK_F19"
@@ -329,7 +329,7 @@ msgstr "Нађи поново"
 #: editfindnext.accesskey editfindnext.keybinding editfindprev.keybinding
 #: increasefontsize.accesskey pageproperties.accesskey
 msgid "g"
-msgstr "g"
+msgstr "п"
 
 #: editfindnext.keybinding2 editfindprev.keybinding2
 msgid "VK_F3"
@@ -350,7 +350,7 @@ msgstr "Провери правопис"
 #: editcheckspelling.keybinding insertbreakall.accesskey createlink.accesskey
 #: stylestrikethru.accesskey formatremovelinks.keybinding
 msgid "k"
-msgstr "k"
+msgstr "р"
 
 #: validateCmd.label
 msgid "Validate HTML"
@@ -377,19 +377,19 @@ msgstr "Убаци"
 
 #: insertLinkCmd.label
 msgid "Link…"
-msgstr ""
+msgstr "Веза…"
 
 #: insertAnchorCmd.label
 msgid "Named Anchor…"
-msgstr ""
+msgstr "Именовано сидро…"
 
 #: insertImageCmd.label
 msgid "Image…"
-msgstr ""
+msgstr "Слика…"
 
 #: insertImageMapCmd.label
 msgid "Image Map…"
-msgstr ""
+msgstr "Мапа за слику…"
 
 #: insertHLineCmd.label
 msgid "Horizontal Line"
@@ -397,7 +397,7 @@ msgstr "Водоравна линија"
 
 #: insertTableCmd.label
 msgid "Table…"
-msgstr ""
+msgstr "Табела…"
 
 #: insertFormMenu.label
 msgid "Form"
@@ -405,19 +405,19 @@ msgstr "Формулар"
 
 #: insertformmenu.accesskey insertfieldset.accesskey
 msgid "F"
-msgstr "F"
+msgstr "Ф"
 
 #: insertHTMLCmd.label insertHTMLCmd.accesskey
 msgid "&HTML…"
-msgstr ""
+msgstr "&ХТМЛ…"
 
 #: insertCharsCmd.label
 msgid "Characters and Symbols…"
-msgstr ""
+msgstr "Знаци и симболи…"
 
 #: insertchars.accesskey
 msgid "C"
-msgstr "У"
+msgstr "З"
 
 #: insertBreakCmd.label
 msgid "Line Break"
@@ -430,31 +430,31 @@ msgstr "Прелом испод слика"
 # Insert form menu items
 #: insertFormCmd.label
 msgid "Define Form…"
-msgstr ""
+msgstr "Дефиниши формулар…"
 
 #: insertform.accesskey decreaseindent.accesskey tabledeletemenu.accesskey
 msgid "D"
-msgstr "б"
+msgstr "Д"
 
 #: insertInputTagCmd.label
 msgid "Form Field…"
-msgstr ""
+msgstr "Поље формулара…"
 
 #: insertInputImageCmd.label
 msgid "Form Image…"
-msgstr ""
+msgstr "Слика формулара…"
 
 #: insertinputimage.accesskey styleitalic.accesskey formatToolbar.italicChar
 msgid "I"
-msgstr "I"
+msgstr "с"
 
 #: insertTextAreaCmd.label
 msgid "Text Area…"
-msgstr ""
+msgstr "Поље са текстом…"
 
 #: insertSelectCmd.label
 msgid "Selection List…"
-msgstr ""
+msgstr "Списак за избор…"
 
 #: insertselect.accesskey stylesubscript.accesskey
 msgid "S"
@@ -462,14 +462,14 @@ msgstr "з"
 
 #: insertButtonCmd.label
 msgid "Define Button…"
-msgstr ""
+msgstr "Дефиниши дугме…"
 
 # Formatting toolbar not used, but may be in future
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
 #: insertbutton.accesskey formatToolbar.boldChar
 msgid "B"
-msgstr "B"
+msgstr "д"
 
 #: insertLabelCmd.label
 msgid "Define Label"
@@ -477,11 +477,11 @@ msgstr "Направи ознаку"
 
 #: insertlabel.accesskey
 msgid "L"
-msgstr "L"
+msgstr "о"
 
 #: insertFieldSetCmd.label
 msgid "Define Field Set…"
-msgstr ""
+msgstr "Дефиниши поље за поставку…"
 
 #: insertIsIndexCmd.label
 msgid "Index Search"
@@ -492,7 +492,7 @@ msgstr "Индексна претрага"
 #  menu items: "RemoveTextStyles" and "StopTextStyles"
 #: insertisindex.accesskey fontfixedwidth.accesskey size-x-large.accesskey
 msgid "x"
-msgstr "у"
+msgstr "с"
 
 # Used just in context popup.
 #: spellCheckNoSuggestions.label
@@ -509,7 +509,7 @@ msgstr "&Додај у речник"
 
 #: createLinkCmd.label
 msgid "Create Link…"
-msgstr ""
+msgstr "Направи везу…"
 
 #: editLinkCmd.label
 msgid "Edit Link in New Composer"
@@ -719,11 +719,11 @@ msgstr "П&роменљива"
 
 #: formatFontColor.label
 msgid "Text Color…"
-msgstr ""
+msgstr "Боја текста…"
 
 #: tableOrCellColor.label tableOrCellColor.accesskey
 msgid "Table or Cell &Background Color…"
-msgstr ""
+msgstr "Боја табеле или позадине &ћелије…"
 
 #: formatremovestyles.keybinding formatstylesheetmenu.accesskey
 msgid "y"
@@ -833,7 +833,7 @@ msgstr "Дефиниција"
 
 #: listProps.label
 msgid "List Properties…"
-msgstr ""
+msgstr "Списак својстава…"
 
 #: ParagraphSelect.tooltip
 msgid "Choose a paragraph format"
@@ -963,11 +963,11 @@ msgstr "&Мрежа за постављање"
 
 #: pageProperties.label
 msgid "Page Title and Properties…"
-msgstr ""
+msgstr "Наслов и својства стране…"
 
 #: colorsAndBackground.label
 msgid "Page Colors and Background…"
-msgstr ""
+msgstr "Боје стране и позадине…"
 
 # Table Menu
 #: tableMenu.label tableTable.label tableToolbarCmd.label
@@ -1068,7 +1068,7 @@ msgstr "Направи табелу од избора"
 
 #: tableProperties.label tableProperties.accesskey
 msgid "Table Pr&operties…"
-msgstr ""
+msgstr "Својства &табеле…"
 
 # Toolbar-only items
 #: menuBar.tooltip
@@ -1110,7 +1110,7 @@ msgstr "Прегледај"
 
 #: previewToolbarCmd.tooltip
 msgid "Load this page in the browser"
-msgstr ""
+msgstr "Учитај ову страну у читач"
 
 #: printToolbarCmd.label
 msgid "Print"
@@ -1290,7 +1290,7 @@ msgstr "&Преглед"
 
 #: PreviewMode.tooltip
 msgid "Display as WYSIWYG (as in the browser)"
-msgstr ""
+msgstr "Прикажи као у читачу"
 
 # LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
 # Use latin "ltr" if you want the <html> image to left of the
@@ -1334,7 +1334,7 @@ msgstr "&Уклони"
 
 #: tocMenu.label tocMenu.accesskey
 msgid "Ta&ble of Contents…"
-msgstr ""
+msgstr "&Садржај…"
 
 #~ msgid "Open File..."
 #~ msgstr "Отвори датотеку..."

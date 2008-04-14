@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-29 09:34-0500\n"
+"PO-Revision-Date: 2008-04-15 01:06+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: AdvancedEditButton.label AdvancedEditButton.accessKey
 msgid "Advanced &Edit…"
-msgstr ""
+msgstr "Напредно &уређивање…"
 
 #: AdvancedEditButton.tooltip
 msgid "Add or modify HTML attributes, style attributes, and JavaScript"
@@ -60,11 +60,11 @@ msgstr "Додавање или измена ХТМЛ својстава, сти
 
 #: chooseFileButton.label chooseFileButton.accessKey
 msgid "Choose &File..."
-msgstr ""
+msgstr "Избор &датотеке…"
 
 #: chooseFileLinkButton.label chooseFileLinkButton.accessKey
 msgid "Ch&oose File..."
-msgstr ""
+msgstr "И&збор датотеке…"
 
 #: makeUrlRelative.label makeUrlRelative.accessKey
 msgid "U&RL is relative to page location"
