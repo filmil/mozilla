@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 00:53+0100\n"
+"PO-Revision-Date: 2008-04-14 23:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: newMessageCmd2.key
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: newMessageCmd.key
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #: newMessageCmd.label newMessageCmd.accesskey
 msgid "&Message"
@@ -28,7 +28,7 @@ msgstr "&Порука"
 
 #: newCardCmd.label newCardCmd.accesskey
 msgid "Address Book &Card…"
-msgstr ""
+msgstr "Ка&ртица у адресару…"
 
 #~ msgid "Address Book &Card..."
 #~ msgstr "Кар&тица у адресару..."

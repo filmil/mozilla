@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 17:19+0200\n"
+"PO-Revision-Date: 2008-04-14 23:57+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "&Прикажи сажетак чланка уместо учитава�
 
 #: manageSubscriptions.label manageSubscriptions.accesskey
 msgid "&Manage Subscriptions…"
-msgstr ""
+msgstr "&Управљање праћењима…"
 
 # entities from defaults/isp/rss.rdf
 #: rss.accountName rss.hostName
@@ -45,11 +45,11 @@ msgstr "Вести и блогови"
 
 #: rss.wizardShortName
 msgid "RSS"
-msgstr "РСС"
+msgstr "РСС (RSS)"
 
 #: rss.wizardLongName
 msgid "RSS News &amp; Blogs"
-msgstr "RSS доводи и блогови"
+msgstr "Доводи РССа и блогови"
 
 #~ msgid "&Manage Subscriptions..."
 #~ msgstr "&Уреди претплате..."

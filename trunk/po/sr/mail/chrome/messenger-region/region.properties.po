@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 17:27+0200\n"
+"PO-Revision-Date: 2008-04-14 23:57+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr "http://maps.google.com/maps?q=@A1%20@A2%20@CI%20@ST%20@ZI%20@CO"
 
 #: mailnews.messageid_browser.url
 msgid "http://groups.google.com/groups?selm=%mid&rnum=1"
-msgstr ""
+msgstr "http://groups.google.com/groups?selm=%mid&rnum=1"
 
 #
 # messenger.properties

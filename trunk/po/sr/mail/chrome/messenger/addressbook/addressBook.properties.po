@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:26+0100\n"
+"PO-Revision-Date: 2008-04-14 23:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -274,7 +274,7 @@ msgstr ""
 #
 #: prefixTo
 msgid "To"
-msgstr "To"
+msgstr "Прима"
 
 #: prefixCc
 msgid "Cc"
@@ -329,7 +329,7 @@ msgstr "умножено картица: %S"
 
 #: cardCopied
 msgid "1 card copied"
-msgstr "1 картица умножена"
+msgstr "1 картица је умножена"
 
 #: cardsMoved
 msgid "%S cards moved"

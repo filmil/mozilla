@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/mail/chrome/messenger/addressbook/abContactsPanel.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-04-14 23:30+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +16,11 @@ msgstr ""
 
 #: addressbookPicker.label addressbookPicker.accesskey
 msgid "Address Boo&k:"
-msgstr ""
+msgstr "&Адресар:"
 
 #: searchInput.label searchInput.accesskey
 msgid "Search F&or:"
-msgstr ""
+msgstr "Тра&жи:"
 
 #: SearchNameOrEmail.label
 msgid "Name or Email"
@@ -41,15 +40,15 @@ msgstr "Додај у поље сКоп"
 
 #: toButton.label toButton.accesskey
 msgid "&Add to To:"
-msgstr ""
+msgstr "&Додај примаоце:"
 
 #: ccButton.label ccButton.accesskey
 msgid "A&dd to Cc:"
-msgstr ""
+msgstr "Додај &копије:"
 
 #: bccButton.label bccButton.accesskey
 msgid "Add to &Bcc:"
-msgstr ""
+msgstr "Додај &бКоп:"
 
 #~ msgid "Address Book:"
 #~ msgstr "Адресар:"

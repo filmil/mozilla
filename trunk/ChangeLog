@@ -1,3 +1,9 @@
+2008-04-15  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/mail/defines.inc.po: Added the contributors' names.
+
+	* po/sr/browser/defines.inc.po: Added the contributors' names.
+
 2008-04-14  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/mail/chrome/messenger/messenger.dtd.po: Fully translated.

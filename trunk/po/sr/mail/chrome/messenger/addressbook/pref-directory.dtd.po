@@ -2,11 +2,10 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2008-03-19 00:06+0100\n"
+"PO-Revision-Date: 2008-04-14 23:28+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +52,7 @@ msgstr ""
 #
 #: pref.ldap.window.title
 msgid "LDAP Directory Servers"
-msgstr ""
+msgstr "Сервери за директоријум за ЛДАП (LDAP)"
 
 #: directory.label
 msgid "Add a directory"
@@ -63,7 +62,7 @@ msgstr "Додај директоријум"
 msgid ""
 "_: do not translate \"LDAP\" in below line\n"
 "LDAP Directory Server:"
-msgstr "Сервер за LDAP:"
+msgstr "Сервер за ЛДАП (LDAP):"
 
 #: directoriesText.label
 #: directoriesText.accesskey

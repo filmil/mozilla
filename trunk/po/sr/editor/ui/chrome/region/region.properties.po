@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-29 16:44-0500\n"
+"PO-Revision-Date: 2008-04-15 00:37+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 # editor.properties
 #: editor.throbber.url
 msgid "http://www.seamonkey-project.org/"
-msgstr ""
+msgstr "http://www.seamonkey-project.org/"
 
 #
 # editor.js

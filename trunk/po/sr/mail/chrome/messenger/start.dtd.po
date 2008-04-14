@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-27 02:41+0100\n"
+"PO-Revision-Date: 2008-04-14 23:26+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "Добро дошли у програм &brandFullName;!"
 
 #: startpage.intro
 msgid "&brandFullName; is a powerful, open-source mail and news client."
-msgstr "Програм &brandFullName; је моћан клијент отвореног кода за пошту и вести."
+msgstr "&brandFullName; је моћан клијент отвореног кода за пошту и вести."
 
 #: startpage.features
 msgid "Features"

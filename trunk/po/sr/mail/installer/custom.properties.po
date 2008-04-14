@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-06-10 18:05+0200\n"
+"PO-Revision-Date: 2008-04-15 00:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgid ""
 "in junk mail controls, RSS capabilities, powerful quick search, spell check "
 "as you type, global inbox, and advanced message filtering round out "
 "${BrandShortName}'s modern feature set."
-msgstr ""
+msgstr "${BrandShortName} је програм за потпуну обраду електронске поште.  ${BrandShortName} подржава ИМАП (IMAP) и ПОП (POP) протоколе за пошту, као и форматирање порука помоћу ХТМЛа.  Садржи уграђене контроле за нежељену пошту, обраду РСС довода, моћну брзу претрагу, проверу правописа током куцања, глобално поштанско сандуче и напредно филтрирање порука употпуњује збирку модерних могућности програма ${BrandShortName}."
 
 # LOCALIZATION NOTE:
 # This file must be saved as UTF8
@@ -106,11 +106,11 @@ msgstr "Шаље податке о неисправном раду програ�
 
 #: CONTEXT_OPTIONS
 msgid "${BrandShortName} &Options"
-msgstr ""
+msgstr "&Опције за ${BrandShortName}"
 
 #: CONTEXT_SAFE_MODE
 msgid "${BrandShortName} &Safe Mode"
-msgstr ""
+msgstr "&Безбедни начин рада за ${BrandShortName}"
 
 #: SAFE_MODE
 msgid "Safe Mode"
@@ -134,28 +134,28 @@ msgstr "Прављење сличице програма"
 
 #: SUMMARY_PAGE_TITLE
 msgid "Summary"
-msgstr ""
+msgstr "Сажетак"
 
 #: SUMMARY_PAGE_SUBTITLE
 msgid "Ready to start installing ${BrandShortName}"
-msgstr ""
+msgstr "Све је спремно за почетак инсталације програма ${BrandShortName}"
 
 #: SUMMARY_INSTALLED_TO
 msgid "${BrandShortName} will be installed to the following location:"
-msgstr ""
+msgstr "${BrandShortName} ће бити инсталиран на наведено место:"
 
 #: SUMMARY_REBOOT_REQUIRED_INSTALL
 msgid ""
 "A restart of your computer may be required to complete the installation."
-msgstr ""
+msgstr "Можда ће бити неопходно да поново покренете рачунар како би инсталација била довршена."
 
 #: SUMMARY_REBOOT_REQUIRED_UNINSTALL
 msgid "A restart of your computer may be required to complete the uninstall."
-msgstr ""
+msgstr "Можда ће бити неопходно да поново покренете рачунар како би деинсталација била довршена."
 
 #: SUMMARY_CLICK
 msgid "Click Install to continue."
-msgstr ""
+msgstr "Притисните „Инсталирај‟ да наставите."
 
 #: SURVEY_TEXT
 msgid "&Tell us what you thought of ${BrandShortName}"
@@ -197,6 +197,9 @@ msgid ""
 "\n"
 "Please close ${BrandFullName} to continue."
 msgstr ""
+"${BrandFullName} мора да буде искључен да би се деинсталација наставила.\n"
+"\n"
+"Молимо да искључите ${BrandFullName} како бисте наставили."
 
 #: WARN_MANUALLY_CLOSE_APP_LAUNCH
 msgid ""
@@ -205,6 +208,9 @@ msgid ""
 "Please close ${BrandFullName} prior to launching the version you have just "
 "installed."
 msgstr ""
+"${BrandFullName} је већ покренут.\n"
+"\n"
+"Молимо да искључите ${BrandFullName} пре него што покренете издање које сте тек инсталирали."
 
 #: WARN_WRITE_ACCESS
 msgid ""
@@ -230,19 +236,19 @@ msgstr ""
 msgid ""
 "Sorry, ${BrandShortName} can't be installed. This version of "
 "${BrandShortName} requires ${MinUnsupportedVer} or newer."
-msgstr ""
+msgstr "Жао нам је, ${BrandShortName} не може да се инсталира. Ово издање програма ${BrandShortName} захтева ознаку издања ${MinUnsupportedVer} или новију."
 
 #: WARN_RESTART_REQUIRED_UNINSTALL
 msgid ""
 "Your computer must be restarted to complete a previous uninstall of "
 "${BrandShortName}. Do you want to reboot now?"
-msgstr ""
+msgstr "Ваш рачунар мора да се поново покрене како би претходна деинсталација програма  ${BrandShortName} била довршена.  Да ли желите да га одмах поново покренете?"
 
 #: WARN_RESTART_REQUIRED_UPGRADE
 msgid ""
 "Your computer must be restarted to complete a previous upgrade of "
 "${BrandShortName}. Do you want to reboot now?"
-msgstr ""
+msgstr "Ваш рачунар мора да буде поново покренут како би претходна доградња програма ${BrandShortName} била довршена. Да ли желите да поново покренете сада?"
 
 #: ERROR_CREATE_DIRECTORY
 msgid ""
@@ -253,26 +259,32 @@ msgid ""
 "Click Cancel to stop the installation or\n"
 "Retry to try again."
 msgstr ""
+"Грешка при прављењу директоријума:\n"
+"\n"
+"$0\n"
+"\n"
+"Притисните Откажи да зауставите инсталацију или \n"
+"Понови да пробате поново."
 
 #: STATUS_INSTALL_APP
 msgid "Installing ${BrandShortName}…"
-msgstr ""
+msgstr "Инсталација програма ${BrandShortName}…"
 
 #: STATUS_INSTALL_LANG
 msgid "Installing Language Files (${AB_CD})…"
-msgstr ""
+msgstr "Инталација језичких датотека (${AB_CD})…"
 
 #: STATUS_INSTALL_OPTIONAL
 msgid "Installing Optional Components…"
-msgstr ""
+msgstr "Инсталација опционих делова…"
 
 #: STATUS_UNINSTALL_MAIN
 msgid "Uninstalling ${BrandShortName}…"
-msgstr ""
+msgstr "Деинсталација програма ${BrandShortName}…"
 
 #: STATUS_CLEANUP
 msgid "Cleaning up the birdcage…"
-msgstr ""
+msgstr "Чишћење…"
 
 # _DESC strings support approximately 65 characters per line.
 # One line

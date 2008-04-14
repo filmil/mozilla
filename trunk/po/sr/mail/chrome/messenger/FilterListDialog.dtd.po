@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-26 02:09+0100\n"
+"PO-Revision-Date: 2008-04-14 23:45+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,11 +28,11 @@ msgstr "Укључен"
 
 #: newButton.label newButton.accesskey
 msgid "&New…"
-msgstr ""
+msgstr "&Ново…"
 
 #: editButton.label editButton.accesskey
 msgid "&Edit…"
-msgstr ""
+msgstr "&Уреди…"
 
 #: deleteButton.label deleteButton.accesskey
 msgid "Dele&te"
@@ -100,7 +100,7 @@ msgstr "&Помоћ"
 
 #: closeCmd.key
 msgid "W"
-msgstr "З"
+msgstr "W"
 
 #~ msgid "&New..."
 #~ msgstr "&Нов..."

@@ -1,27 +1,3 @@
-po/sr/mail/chrome/messenger/am-identities-list.dtd.po:	3 translated messages, 2 untranslated messages.
-po/sr/mail/chrome/messenger/FilterListDialog.dtd.po:	16 translated messages, 2 untranslated messages.
-po/sr/mail/chrome/messenger-newsblog/am-newsblog.dtd.po:	8 translated messages, 1 untranslated message.
-po/sr/mail/chrome/messenger-newsblog/newsblog.dtd.po:	0 translated messages, 1 untranslated message.
-po/sr/mail/chrome/messenger-newsblog/newsblog.properties.po:	17 translated messages, 2 untranslated messages.
-po/sr/mail/chrome/messenger-region/region.properties.po:	2 translated messages, 1 untranslated message.
-po/sr/mail/installer/installer.inc.po:	56 translated messages, 7 fuzzy translations, 1 untranslated message.
-po/sr/mail/installer/custom.properties.po:	29 translated messages, 20 untranslated messages.
-po/sr/mail/defines.inc.po:	1 translated message, 1 untranslated message.
-po/sr/editor/ui/chrome/region/region.properties.po:	0 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/composer/pref-editing.dtd.po:	14 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/composer/editorOverlay.dtd.po:	263 translated messages, 34 untranslated messages.
-po/sr/editor/ui/chrome/dialogs/EdDialogOverlay.dtd.po:	4 translated messages, 3 untranslated messages.
-po/sr/editor/ui/chrome/dialogs/EditorImageMapHotSpot.dtd.po:	12 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/dialogs/EditorPublish.dtd.po:	23 translated messages, 17 untranslated messages.
-po/sr/editor/ui/chrome/dialogs/EditorPublishProgress.dtd.po:	10 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/dialogs/EditorHLineProperties.dtd.po:	9 translated messages, 3 untranslated messages.
-po/sr/editor/ui/chrome/dialogs/EditorSpellCheck.dtd.po:	16 translated messages, 2 untranslated messages.
-po/sr/editor/ui/chrome/dialogs/EditorInputProperties.dtd.po:	29 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/dialogs/EditorTableProperties.dtd.po:	57 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/dialogs/EditorPageProperties.dtd.po:	1 translated message, 8 untranslated messages.
-po/sr/editor/ui/chrome/dialogs/EditorImageProperties.dtd.po:	45 translated messages, 1 untranslated message.
-po/sr/editor/ui/chrome/dialogs/EditorReplace.dtd.po:	11 translated messages, 1 untranslated message.
-po/sr/browser/chrome/browser/preferences/connection.dtd.po:	25 translated messages, 1 untranslated message.
 po/sr/browser/chrome/overrides/netError.dtd.po:	43 translated messages, 1 untranslated message.
 po/sr/extensions/irc/chrome/channels.dtd.po:	0 translated messages, 11 untranslated messages.
 po/sr/extensions/irc/chrome/chatzilla.properties.po:	0 translated messages, 1166 untranslated messages.
