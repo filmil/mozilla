@@ -1,5 +1,0 @@
-<!-- screen calibration dialog -->
-<!ENTITY calibrateDialog.title "Подешавање резолуције">
-<!ENTITY calibrate.instructions "Дужина горње линије је:">
-<!ENTITY units.inches "инчи">
-<!ENTITY units.centimetres "центиметри">

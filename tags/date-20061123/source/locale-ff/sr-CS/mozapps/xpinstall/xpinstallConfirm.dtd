@@ -1,5 +1,0 @@
-<!-- extracted from institems.xul -->
-<!ENTITY dialog.title "Поставка програмске подршке">
-<!ENTITY warningText2.label "Програми могу садржати вирусе, који могу повредити податке на Вашем рачунару.">
-<!ENTITY warningText3.label "Зато поставите проширење само из тих извора које ви дозволите.">
-<!ENTITY from.label "из:">
