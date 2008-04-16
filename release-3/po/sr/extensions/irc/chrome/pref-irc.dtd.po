@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-04-16 22:14+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,22 +16,22 @@ msgstr ""
 
 #: pref-irc.window.title
 msgid "ChatZilla"
-msgstr ""
+msgstr "четзила"
 
 #: pref-irc.open.title
 msgid "ChatZilla's Preferences"
-msgstr ""
+msgstr "Поставке за четзилу"
 
 #: pref-irc.open.desc
 msgid ""
 "ChatZilla's preferences are too extensive to fit into this preference window "
 "so, instead, you can open its preferences window from here."
-msgstr ""
+msgstr "Поставке за четзилу су сувише бројне да би биле уклопљене у прозоре са поставкама.  Зато, уместо тога, можете да отворите поставке одавде."
 
 #: pref-irc.open.label pref-irc.open.accesskey
 msgid "&Open ChatZilla's Preferences"
-msgstr ""
+msgstr "&Отвори четзилине поставке"
 
 #: startup.chat.label startup.chat.accesskey
 msgid "Chat&Zilla"
-msgstr ""
+msgstr "чет&зила"

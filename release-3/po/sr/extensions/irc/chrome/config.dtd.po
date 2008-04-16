@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2007-01-24 22:50+0100\n"
+"PO-Revision-Date: 2008-04-16 22:23+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,87 +51,87 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: window.title
 msgid "ChatZilla Preferences"
-msgstr ""
+msgstr "Поставке за четзилу"
 
 #: loading.label
 msgid "Please wait, loading…"
-msgstr ""
+msgstr "Молимо да сачекате, учитава се…"
 
 #: homepage.url
 msgid "http://chatzilla.hacksrus.com/"
-msgstr ""
+msgstr "http://chatzilla.hacksrus.com/"
 
 #: homepage.label
 msgid "ChatZilla Homepage"
-msgstr ""
+msgstr "четзилина почетна страна"
 
 #: object.add.label object.add.accesskey
 msgid "&Add…"
-msgstr ""
+msgstr "&Додај…"
 
 #: object.add.hint
 msgid "Add a new network, channel or user to set preferences on"
-msgstr ""
+msgstr "Додавање нове мреже, канала или корисника за поставке"
 
 #: object.del.label object.del.accesskey
 msgid "&Remove"
-msgstr ""
+msgstr "&Уклони"
 
 #: object.del.hint
 msgid "Remove the current object, clearing all of its preferences"
-msgstr ""
+msgstr "Уклони тренутни објекат, чишћење свиј поставки"
 
 #: object.reset.label object.reset.accesskey
 msgid "Re&set"
-msgstr ""
+msgstr "&Изворно"
 
 #: object.reset.hint
 msgid "Reset this object's preferences to the defaults"
-msgstr ""
+msgstr "Поставља поставке овог објекта на изворне вредности"
 
 #: dialog.apply
 msgid "Apply"
-msgstr ""
+msgstr "Примени"
 
 #: network
 msgid "Network"
-msgstr ""
+msgstr "Мрежа"
 
 #: channel
 msgid "Channel"
-msgstr ""
+msgstr "Канал"
 
 #: user
 msgid "User"
-msgstr ""
+msgstr "Корисник"
 
 #: config.add.title
 msgid "Add Preference Object"
-msgstr ""
+msgstr "Додај објекат<за поставке"
 
 #: config.type.label config.type.accesskey
 msgid "&Type:"
-msgstr ""
+msgstr "&Врста:"
 
 #: config.type.hint
 msgid "Type of object to add preferences for"
-msgstr ""
+msgstr "Врста објекта за који додају поставке"
 
 #: config.network.label config.network.accesskey
 msgid "&Network:"
-msgstr ""
+msgstr "&Мрежа:"
 
 #: config.network.hint
 msgid "Known name of the network, or the server name"
-msgstr ""
+msgstr "Познато име мреже, или име сервера:"
 
 #: config.target.label config.target.accesskey
 msgid "Tar&get:"
-msgstr ""
+msgstr "&Одредиште:"
 
 #: config.target.hint
 msgid "Target channel or user name"
-msgstr ""
+msgstr "Циљни канал или име корисника"
 
 # ***** BEGIN LICENSE BLOCK *****
 # - Version: MPL 1.1/GPL 2.0/LGPL 2.1
