@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-29 09:33-0500\n"
+"PO-Revision-Date: 2008-04-16 19:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -163,7 +163,7 @@ msgstr "&Уклони"
 
 #: editImageMapButton.label
 msgid "Edit…"
-msgstr ""
+msgstr "Уреди…"
 
 #: editImageMapButton.tooltip
 msgid "Create clickable hotspots for this image"

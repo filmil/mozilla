@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-30 17:53+0200\n"
+"PO-Revision-Date: 2008-04-16 19:57+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -95,7 +95,7 @@ msgstr "П"
 
 #: SSLport.accesskey
 msgid "o"
-msgstr "с"
+msgstr "о"
 
 #: FTPport.accesskey
 msgid "r"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: SOCKSport.accesskey
 msgid "t"
-msgstr "t"
+msgstr "т"
 
 #: noproxy.label noproxy.accesskey
 msgid "&No Proxy for:"
@@ -120,7 +120,7 @@ msgstr "Пример: .mozilla.org, .net.nz, , 192.168.1.0/24"
 
 #: shareproxy.label shareproxy.accesskey
 msgid "Use this pro&xy server for all protocols"
-msgstr "&Користи истог заступника за све протоколе"
+msgstr "&Користи истог посредника за све протоколе"
 
 #~ msgid "&Direct connection to the Internet"
 #~ msgstr "&Директна веза са Интернетом"

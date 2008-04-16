@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-12-25 02:04+0100\n"
+"PO-Revision-Date: 2008-04-16 19:47+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +70,7 @@ msgstr "Подешавања"
 # Publish Tab Panel
 #: siteList.label siteList.accesskey siteName.label siteName.accesskey
 msgid "Sit&e Name:"
-msgstr ""
+msgstr "&Име сајта:"
 
 #: siteList.tooltip
 msgid "Choose the site that you want to publish to"
@@ -78,19 +78,19 @@ msgstr "Изаберите место где желите да објавите"
 
 #: newSiteButton.label newSiteButton.accesskey
 msgid "&New Site"
-msgstr ""
+msgstr "&Нови сајт"
 
 #: docDirList.label docDirList.accesskey
 msgid "&Site subdirectory for this page:"
-msgstr ""
+msgstr "&Поддиректоријум сајта за ову страну:"
 
 #: docDirList.tooltip
 msgid "Choose or enter the name of the remote subdirectory for this page"
-msgstr ""
+msgstr "Изаберите или унесите име удаљеног поддиректоријума за ову страну"
 
 #: publishImgCheckbox.label publishImgCheckbox.accesskey
 msgid "Include images and &other files"
-msgstr ""
+msgstr "Укључи слике и &остале датотеке"
 
 #: publishImgCheckbox.tooltip
 msgid "Publish images and other files referenced by this page"
@@ -98,7 +98,7 @@ msgstr "Објави слике и остале датотеке које пом
 
 #: sameLocationRadio.label sameLocationRadio.accesskey
 msgid "&Use same location as page"
-msgstr ""
+msgstr "&Користи исто место као и страна"
 
 #: sameLocationRadio.tooltip
 msgid "Publish files to the same location as the page"
@@ -106,11 +106,11 @@ msgstr "Објављује датотеке на исто место где се
 
 #: useSubdirRadio.label useSubdirRadio.accesskey
 msgid "Use this site sub&directory:"
-msgstr ""
+msgstr "Користи овај &поддиректоријум на сајту:"
 
 #: useSubdirRadio.tooltip
 msgid "Publish files to the selected remote subdirectory"
-msgstr ""
+msgstr "Објава датотека у изабрани удаљени поддиректоријум"
 
 #: otherDirList.tooltip
 msgid ""
@@ -121,7 +121,7 @@ msgstr ""
 
 #: pageTitle.label pageTitle.accesskey
 msgid "Page &Title:"
-msgstr ""
+msgstr "&Наслов стране:"
 
 #: pageTitle.tooltip
 msgid "Enter a title to identify the page in the window and in bookmarks"
@@ -133,7 +133,7 @@ msgstr "нпр.: &quot;Моја страна&quot;"
 
 #: filename.label filename.accesskey
 msgid "&Filename:"
-msgstr ""
+msgstr "&Датотека:"
 
 #: filename.tooltip
 msgid "Enter a name for this file, including '.html' for a web page"
@@ -149,7 +149,7 @@ msgstr "Остале датотеке за објављивање"
 
 #: setDefaultButton.label setDefaultButton.accesskey
 msgid "Set as &Default"
-msgstr ""
+msgstr "Постави као &изворно"
 
 #: setDefSiteAndDir.label
 msgid "Set as Default Site and Directory"
@@ -157,12 +157,12 @@ msgstr "Постави као подразумевано место и дире�
 
 #: removeButton.label removeButton.accesskey
 msgid "&Remove Site"
-msgstr ""
+msgstr "&Уклони сајт"
 
 # Settings Tab Panel
 #: publishSites.label
 msgid "Publishing Sites"
-msgstr "Објављена места"
+msgstr "Објава сајтова"
 
 # Entities for Server page
 #: serverInfo.label
@@ -179,7 +179,7 @@ msgstr "Име које Вас идентификује на месту за о�
 
 #: siteUrl.label siteUrl.accesskey
 msgid "Publishing &address (e.g.: 'ftp://ftp.myisp.com/myusername'):"
-msgstr ""
+msgstr "&Адреса за објаву (нпр.: „ftp://ftp.myisp.com/мојеиме‟):"
 
 #: siteUrl.tooltip
 msgid ""
@@ -191,7 +191,7 @@ msgstr ""
 #: browseUrl.label browseUrl.accesskey
 msgid ""
 "H&TTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):"
-msgstr ""
+msgstr "ХТТП а&дреса Ваше почетне стране (e.g.: „http://www.myisp.com/myusername‟):"
 
 #: browseUrl.tooltip
 msgid "The HTTP:// address of your home directory (don't include filename)"
@@ -199,7 +199,7 @@ msgstr "HTTP:// адреса Вашег директоријума (без им�
 
 #: username.label username.accesskey
 msgid "&User name:"
-msgstr ""
+msgstr "&Корисничко име:"
 
 #: username.tooltip
 msgid "The user name you use to log in to your ISP or web hosting service"
@@ -208,7 +208,7 @@ msgstr ""
 
 #: password.label password.accesskey
 msgid "Pass&word:"
-msgstr ""
+msgstr "&Лозинка:"
 
 #: password.tooltip
 msgid "The password associated with your user name"
@@ -216,13 +216,11 @@ msgstr "Лозинка повезана са Вашим корисничким �
 
 #: savePassword.label savePassword.accesskey
 msgid "&Save Password"
-msgstr ""
+msgstr "&Сачувај лозинку"
 
 #: savePassword.tooltip
 msgid "Select this to save your password securely using Password Manager"
-msgstr ""
-"Изаберите ово како бисте безбедно сачували лозинку употребом управника "
-"лозинкама"
+msgstr "Изаберите ово како бисте безбедно сачували лозинку помоћу управника лозинкама"
 
 # Publish Tab Panel
 #~ msgid "Site Name:"

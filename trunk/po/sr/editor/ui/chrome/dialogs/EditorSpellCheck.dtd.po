@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorSpellCheck.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-04-16 19:48+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +97,7 @@ msgstr "Лични речник:"
 
 #: moreDictionaries.label
 msgid "Download more dictionaries…"
-msgstr ""
+msgstr "Пријем још речника…"
 
 #: addToUserDictionaryButton.label addToUserDictionaryButton.accessKey
 msgid "A&dd Word"
@@ -106,7 +105,7 @@ msgstr "&Додај реч"
 
 #: editUserDictionaryButton.label editUserDictionaryButton.accessKey
 msgid "&Edit…"
-msgstr ""
+msgstr "&Уреди…"
 
 #: recheckButton.label recheckButton.accessKey
 msgid "Recheck &Page"

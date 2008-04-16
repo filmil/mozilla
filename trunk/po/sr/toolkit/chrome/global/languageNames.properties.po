@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 01:17+0100\n"
+"PO-Revision-Date: 2008-04-16 20:18+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -156,7 +156,7 @@ msgstr "дивехи"
 
 #: dz
 msgid "Dzongkha"
-msgstr ""
+msgstr "дзонкха"
 
 #: ee
 msgid "Ewe"
@@ -728,7 +728,7 @@ msgstr "ујгур"
 
 #: uk
 msgid "Ukrainian"
-msgstr "украински"
+msgstr "украјински"
 
 #: ur
 msgid "Urdu"
@@ -736,7 +736,7 @@ msgstr "урду"
 
 #: uz
 msgid "Uzbek"
-msgstr "узбекистански"
+msgstr "узбечки"
 
 #: ve
 msgid "Venda"
@@ -756,7 +756,7 @@ msgstr "валонски"
 
 #: wen
 msgid "Sorbian"
-msgstr "доњолужичкосрпски"
+msgstr "лужичкосрпски"
 
 #: wo
 msgid "Wolof"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-04-16 19:59+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -51,31 +51,31 @@ msgstr ""
 # - ***** END LICENSE BLOCK *****
 #: window.title
 msgid "Join Channel"
-msgstr ""
+msgstr "Придружи се каналу"
 
 #: qsearch.label qsearch.accesskey
 msgid "Quick &Search:"
-msgstr ""
+msgstr "Брза &претрага:"
 
 #: topics.label topics.accesskey
 msgid "Search &topics as well as channel names"
-msgstr ""
+msgstr "Тражи &теме као и имена канала"
 
 #: join.label join.accesskey
 msgid "&Join"
-msgstr ""
+msgstr "&Придруживање"
 
 #: minusers.label minusers.accesskey
 msgid "Mi&n users:"
-msgstr ""
+msgstr "Најма&ње корисника:"
 
 #: maxusers.label maxusers.accesskey
 msgid "Ma&x users:"
-msgstr ""
+msgstr "Најви&ше корисника:"
 
 #: refresh.label
 msgid "Refresh Now"
-msgstr ""
+msgstr "Освежи сад"
 
 #: refresh.accesskey
 msgid "_: refresh.accesskey\n"
@@ -83,12 +83,12 @@ msgstr ""
 
 #: col.name
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: col.users
 msgid "Users"
-msgstr ""
+msgstr "Корисници"
 
 #: col.topic
 msgid "Topic"
-msgstr ""
+msgstr "Тема"

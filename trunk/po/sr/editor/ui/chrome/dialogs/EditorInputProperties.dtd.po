@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-08-29 10:31-0500\n"
+"PO-Revision-Date: 2008-04-16 19:49+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -167,7 +167,7 @@ msgstr "&Дозвољене врсте:"
 
 #: ImageProperties.label ImageProperties.accesskey
 msgid "Imag&e Properties…"
-msgstr ""
+msgstr "&Својства слике…"
 
 #~ msgid "Imag&e Properties..."
 #~ msgstr "&Особине слике..."

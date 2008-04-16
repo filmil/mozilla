@@ -1,11 +1,10 @@
 # extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorPageProperties.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-04-16 19:57+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +53,7 @@ msgstr ""
 # Window title
 #: windowTitle.label
 msgid "Page Properties"
-msgstr ""
+msgstr "Својства стране"
 
 #: location.label
 msgid "Location:"
@@ -62,31 +61,31 @@ msgstr "Место:"
 
 #: lastModified.label
 msgid "Last Modified:"
-msgstr ""
+msgstr "Последња измена:"
 
 #: titleInput.label
 #: titleInput.accessKey
 msgid "&Title:"
-msgstr ""
+msgstr "&Наслов:"
 
 #: authorInput.label
 #: authorInput.accessKey
 msgid "&Author:"
-msgstr ""
+msgstr "&Аутор:"
 
 #: descriptionInput.label
 #: descriptionInput.accessKey
 msgid "&Description:"
-msgstr ""
+msgstr "&Опис:"
 
 #: locationNewPage.label
 msgid "[New page, not saved yet]"
-msgstr ""
+msgstr "[Нова страна, још није сачувана]"
 
 #: EditHEADSource1.label
 msgid "Advanced users:"
-msgstr ""
+msgstr "Напредни корисници"
 
 #: EditHEADSource2.label
 msgid "To edit other contents of the &lt;head&gt; region, use &quot;HTML Source&quot; in the View Menu or Edit Mode Toolbar."
-msgstr ""
+msgstr "Да бисте уредили други садржај области у оквиру &lt;head&gt;, користите „изворни код‟ из менија „Преглед‟ или траке за начин уређивања."
