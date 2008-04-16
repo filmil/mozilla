@@ -1,8 +1,9 @@
 #! /bin/bash
 # Merges the NEWPOT.pot file into a new PO (NEWPO.po)
+. `dirname $0`/scripts-config.sh
 TEMPLATE_LOC=~/personal/l10n/mozilla-cvs/3/template/en-US
-TEMPLATE_PO=~/personal/l10n/work/mozilla/trunk/po/sr
-TEMPLATE_POT=~/personal/l10n/work/mozilla/trunk/pot/sr
+TEMPLATE_PO=$WORKING_DIR/po/sr
+TEMPLATE_POT=$WORKING_DIR/pot/sr
 
 IN_POT=NEWPOT.pot
 IN_PO=NEWPO.po
