@@ -1,0 +1,36 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'Добродошли у фајерфокс (Firefox)';
+    $body_id    = 'firstrun';
+    $body_class = 'portal-page';
+    
+    $extra_headers = <<<EXTRA_HEADERS
+    <link rel="stylesheet" type="text/css" href="/style/tignish/firstrun-page.css" media="screen" />
+EXTRA_HEADERS;
+    $extra_feature = <<<EXTRA_FEATURE
+<div id="tab-close"><p>Притисните дугме за затварање на овом језичку како бисте отишли на Вашу почетну страну</p></div>
+EXTRA_FEATURE;
+
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div id="main-feature">
+	<h2>Добродошли у фајерфокс 3</h2>
+	<p>Хвала Вам што сте набавили до сада најбезбедније, најбрже и најприлагодљивије издање фајерфокса.  Да бисте почели са читањем страна, можете да затворите овај језичак како је приказано изнад.</p>
+</div>
+
+<div id="main-content">
+	<div>
+		<h3>Сазнајте више</h3>
+		<p>Питате се шта даље?  Страна „Како почети‟ садржи списак препоручених сајтова <a href="/<?=$lang?>/firefox/central/">Посетите страну „Како почети‟</a></p>
+	</div>
+	<div>
+		<h3>Имате ли питања?</h3>
+		<p>На нашој страни за подршку дали смо доста одговора, а постоји и разговор уживо (chat) који ће отклонити све недоумице.  <a href="http://support.mozilla.com/<?=$lang?>/kb/">Посетите подршку</a></p>
+	</div>
+</div>
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>

@@ -17,13 +17,13 @@ include Makefile.inc
 all: clean tryconv stats 
 
 # Слање измена у Мозилин ЦВС
-publish: clean tryconv copytocvs 
-	( MSG=`cat $(CVS_MSG)` ; \
-	  $(CD) $(MOZILLA_CVS) ; \
-          $(CVS) -z3 commit -m "$$MSG" )
+#publish: clean tryconv copytocvs 
+#	( MSG=`cat $(CVS_MSG)` ; \
+#	  $(CD) $(MOZILLA_CVS) ; \
+#          $(CVS) -z3 commit -m "$$MSG" )
 
-copytocvs:
-	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
+#copytocvs:
+#	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 
 # Tests for common mistakes in the translation
 pofilter:

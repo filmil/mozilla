@@ -1,3 +1,13 @@
+2008-04-28  Filip Miletic  <filmil@gmail.com>
+
+	* product-pages/3/security/index.html: Translated for Firefox 3.
+
+	* product-pages/3/central/index.html: Translated for Firefox 3.
+
+	* product-pages/3/organic/index.html: Translated for Firefox 3.
+
+	* product-pages/3/firstrun/index.html: Translated for Firefox 3.
+
 2008-04-15  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/editor/ui/chrome/dialogs/EdDialogOverlay.dtd.po: Fully

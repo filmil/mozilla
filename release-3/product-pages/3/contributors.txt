@@ -1,0 +1,13 @@
+PLEASE FILL IN THESE INFORMATIONS :
+-----------------------------------
+
+
+This is the translation for: Serbian
+
+
+I (we) agree to let the Mozilla project publish this work under the following Creative Commons Attribution Share-alike license:
+http://www.mozilla.org/foundation/licensing/website-content.html
+
+
+Full Names and Email addresses of the localizers involved in this translation:
+Filip Miletic - filmil@gmail.com
