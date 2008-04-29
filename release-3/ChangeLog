@@ -1,6 +1,18 @@
 2008-04-29  Filip Miletic  <filmil@gmail.com>
 
+	* product-pages/3/whatsnew/index.html: Translated.
+
+	* product-pages/3/identity/index.html: Translated.
+
+	* product-pages/3/about/index.html: Translated.  Reused the same
+	file from edition 2 to speed up translation.
+
+	* product-pages/2/firefox/about/index.html (href): Edited typo.
+
+	* product-pages/3/community/index.html: Translated.
+
 	* product-pages/3/addons/index.html: Started translation.
+	Translation completed.
 
 	* product-pages/3/tips/index.html: Translated.
 

@@ -1,0 +1,49 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    $page_title = 'Фајерфокс (Firefox) је дограђен';
+    $body_id    = 'whatsnew';
+    $body_class = 'portal-page';
+
+    $extra_headers = <<<EXTRA_HEADERS
+    <link rel="stylesheet" type="text/css" href="/style/tignish/whatsnew-page.css" media="screen" />
+	<script type="text/javascript" src="/js/whats-new-page.js"></script>
+EXTRA_HEADERS;
+    $extra_feature = <<<EXTRA_FEATURE
+<div id="tab-close"><p>Притисните дугме за затварање на овом језичку да се вратите на Вашу почетну страну</p></div>
+EXTRA_FEATURE;
+
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div id="main-feature">
+	<h2 id="main-feature-title">Доградили сте се на најновије издање фајерфокса.</h2>
+	<p id="main-feature-contents">Хвала Вам на уложеном времену!  Ова доградња ће побољшати Вашу безбедност на мрежи.</p>
+	<script type="text/javascript">// <![CDATA[
+	//localization note: message 1 will display the version number at the end of the string, hence the trailing space
+	//ex: You’re now running Firefox 3.1
+
+	var userversion = '<?=LATEST_FIREFOX_VERSION?>';
+	var message1 = 'Сада користите фајерфокс ';
+	var message2 = 'Из безбедносних разлога препоручујемо доградњу на <a href="/<?=$lang?>/firefox/">најсвежије издање</a>.';
+
+	whatsNewMessage();
+	// ]]></script>
+</div>
+
+<div id="main-content">
+	<div>
+		<h3>Фајерфокс: најбезбеднији начин за сурфовање</h3>
+		<p>Заједница стручњака широм света даноноћно ради како би нам помогла да идентификујемо и потучемо и последњу претњу Вашон безбедности на мрежи.  Ваша безбедност је наш први приоритет. <a href="/<?=$lang?>/firefox/security/">Сазнајте више о нашем безбедносном процесу</a></p>
+	</div>
+	<div>
+		<h3>Урадите више са фајерфоксом</h3>
+		<p>Посетите нашу почетну страну како бисте сазнали како может ада извучете максимум из Вашег фајерфокса <a href="/<?=$lang?>/firefox/central/">Извуците максимум из фајерфокса</a></p>
+	</div>
+
+	<p class="changelog">Шта је ново у овом издању? <a href="../releasenotes/">Прегледајте белешке о издању</a>.</p>
+</div>
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>
