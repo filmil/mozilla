@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-04 19:55+0200\n"
-"PO-Revision-Date: 2008-04-04 20:01+0200\n"
+"PO-Revision-Date: 2008-06-16 23:04+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -631,12 +631,12 @@ msgstr "По&даци о оквиру"
 #: showImageCmd.label
 #: showImageCmd.accesskey
 msgid "&Show Image"
-msgstr "Прикажи &слику"
+msgstr "Покажи &слику"
 
 #: viewImageCmd.label
 #: viewImageCmd.accesskey
 msgid "View &Image"
-msgstr "Прикажи &слику"
+msgstr "Прикажи с&лику"
 
 #: viewBGImageCmd.label
 #: viewBGImageCmd.accesskey
