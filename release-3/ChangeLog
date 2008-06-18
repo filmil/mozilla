@@ -1,3 +1,8 @@
+2008-06-19  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/browser/chrome/browser/preferences/privacy.dtd.po:
+	Corrected history keeping.
+
 2008-06-01  Filip Miletic  <filmil@gmail.com>
 
 	* product-pages/3/firefox/main.lang: Translated missing strings.
