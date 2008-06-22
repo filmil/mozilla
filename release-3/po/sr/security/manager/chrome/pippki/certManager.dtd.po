@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:00+0100\n"
+"PO-Revision-Date: 2008-06-23 00:50+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -343,7 +343,7 @@ msgstr "Легитимне банке, продавнице и други јав
 
 #: exceptionMgr.certlocation.url
 msgid "Location:"
-msgstr "Местио:"
+msgstr "Место:"
 
 #: exceptionMgr.certlocation.download
 msgid "Get Certificate"
