@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2007-06-10 20:27+0200\n"
+"PO-Revision-Date: 2008-06-24 00:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -419,43 +419,43 @@ msgstr "хинду (SunDevanagari)"
 
 #: chardet.off.title
 msgid "(Off)"
-msgstr "(искљ.)"
+msgstr "(искључено)"
 
 #: chardet.universal_charset_detector.title
 msgid "Universal"
-msgstr "универзална"
+msgstr "универзално"
 
 #: chardet.ja_parallel_state_machine.title
 msgid "Japanese"
-msgstr "јапанска"
+msgstr "јапанско"
 
 #: chardet.ko_parallel_state_machine.title
 msgid "Korean"
-msgstr "корејска"
+msgstr "корејско"
 
 #: chardet.zhtw_parallel_state_machine.title
 msgid "Traditional Chinese"
-msgstr "традиционална кинеска"
+msgstr "кинеско традиционално"
 
 #: chardet.zhcn_parallel_state_machine.title
 msgid "Simplified Chinese"
-msgstr "Упрошћена кинеска"
+msgstr "кинеско упрошћено"
 
 #: chardet.zh_parallel_state_machine.title
 msgid "Chinese"
-msgstr "кинеска"
+msgstr "кинеско"
 
 #: chardet.cjk_parallel_state_machine.title
 msgid "East Asian"
-msgstr "источноазијска"
+msgstr "источноазијско"
 
 #: chardet.ruprob.title
 msgid "Russian"
-msgstr "руска"
+msgstr "руско"
 
 #: chardet.ukprob.title
 msgid "Ukrainian"
-msgstr "украјинска"
+msgstr "украјинско"
 
 #~ msgid "All"
 #~ msgstr "све"
