@@ -50,6 +50,7 @@ $(OUTPUT_DIR):
 	$(PO2MOZ) -i $(PO_TRANSLATIONS) -o $(OUTPUT_DIR_FINAL) -t $(SOURCE_DIR)
 	$(CP) $(PO_TRANSLATIONS)/browser/searchplugins/* $(OUTPUT_DIR_FINAL)/browser/searchplugins
 	( cd $(OUTPUT_DIR) ; find -wholename '*.svn' | xargs rm -fr ) 
+	. scripts/patch.sh
 
 $(ZIPNAME): $(OUTPUT_DIR)
 	( $(CD) $(OUTPUT_DIR) ; $(ZIP)  -r ../$(ZIPNAME) sr )
