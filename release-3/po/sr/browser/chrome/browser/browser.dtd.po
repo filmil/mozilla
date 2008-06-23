@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-04 19:55+0200\n"
-"PO-Revision-Date: 2008-06-16 23:04+0200\n"
+"PO-Revision-Date: 2008-06-24 00:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -265,7 +265,7 @@ msgstr "Приказује ваше забелешке"
 #: bookmarksSidebarCmd.accesskey
 msgctxt "bookmarksSidebarCmd.accesskey"
 msgid "B"
-msgstr "B"
+msgstr "З"
 
 #: bookmarksSidebarCmd.commandkey
 msgid "b"
@@ -289,7 +289,7 @@ msgstr "Приказује списак недавно посећених стр
 #: historySidebarCmd.accesskey
 msgctxt "historySidebarCmd.accesskey"
 msgid "s"
-msgstr "s"
+msgstr "и"
 
 #: historySidebarCmd.commandKey
 msgid "h"
