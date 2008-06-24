@@ -1,3 +1,7 @@
+2008-06-24  Filip Miletic  <filmil@gmail.com>
+
+	* Makefile: Re-allowed copy to CVS.
+
 2008-06-19  Filip Miletic  <filmil@gmail.com>
 
 	* product-pages/3/firefox/organic/index.html: Updated the product

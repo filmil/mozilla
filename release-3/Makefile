@@ -22,8 +22,8 @@ all: clean tryconv stats
 #	  $(CD) $(MOZILLA_CVS) ; \
 #          $(CVS) -z3 commit -m "$$MSG" )
 
-#copytocvs:
-#	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
+copytocvs:
+	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
 
 # Tests for common mistakes in the translation
 pofilter:
