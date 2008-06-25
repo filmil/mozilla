@@ -1,6 +1,8 @@
 po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	264 translated messages.
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
-po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	325 translated messages.
+po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	po/sr/security/manager/chrome/pipnss/pipnss.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                                    Message conversion to user's charset might not work.
+330 translated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
 po/sr/security/manager/chrome/pippki/pref-ssl.dtd.po:	26 translated messages.
 po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages.
