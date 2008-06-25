@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:39+0100\n"
+"PO-Revision-Date: 2008-06-25 23:23+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "&Упозори ме ако веб сајтови пробају да и
 # 
 #: tellMaybeAttackSite.label tellMaybeAttackSite.accesskey
 msgid "Tell me if the site I'm visiting is a suspected attac&k site"
-msgstr "Обавести ме ако је сајт ког посећујем потенцијално &опасан"
+msgstr "Обавести &ме ако је сајт ког посећујем потенцијално опасан"
 
 #: tellMaybeForgery.label tellMaybeForgery.accesskey
 msgid "&Tell me if the site I'm visiting is a suspected forgery"
