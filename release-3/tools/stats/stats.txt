@@ -225,7 +225,7 @@ msgfmt: found 1 fatal error
 po/sr/browser/chrome/branding/brand.properties.po:	po/sr/browser/chrome/branding/brand.properties.po:22: dubbele melding definitie...
 po/sr/browser/chrome/branding/brand.properties.po:19: ...this is the location of the first definition
 msgfmt: found 1 fatal error
-po/sr/browser/chrome/browser-region/region.properties.po:	13 translated messages, 1 fuzzy translation.
+po/sr/browser/chrome/browser-region/region.properties.po:	14 translated messages.
 po/sr/browser/chrome/browser/engineManager.dtd.po:	12 translated messages.
 po/sr/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
