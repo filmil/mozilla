@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-07-05 22:55+0200\n"
+"PO-Revision-Date: 2008-07-05 23:44+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -535,26 +535,26 @@ msgstr "<target> <code> [<params>]"
 msgid ""
 "Sends the CTCP code <code> to the target (user or channel) <target>.  If "
 "<params> are specified they are sent along as well."
-msgstr ""
+msgstr "Шаље ЦТЦП код (CTCP) <code> на одредиште (кориснику или на канал) <target>.  Ако је задато <params>, и параметри се такође шаљу."
 
 #: cmd.default-charset.help
 msgid ""
 "Sets the global default character encoding mode to <new-charset>, or "
 "displays the current global default character encoding mode if <new-charset> "
 "is not provided."
-msgstr ""
+msgstr "Поставља глобални изворно кодирање знакова на <new-charset>, или приказује тренутна глоабла подешавања кодирања ако је изостављен <new-charset>."
 
 #: cmd.describe.params
 msgid "<target> <action>"
-msgstr ""
+msgstr "<target> <action>"
 
 #: cmd.describe.help
 msgid "Performs an 'action' at the |target|, either a channel or a user."
-msgstr ""
+msgstr "Изводи дејство „action‟ на одредишту |target|, које може да буде било корисник било име канала."
 
 #: cmd.dcc-accept.params cmd.dcc-close.params
 msgid "[<nickname> [<type> [<file>]]]"
-msgstr ""
+msgstr "[<nickname> [<type> [<file>]]]"
 
 #: cmd.dcc-accept.help
 msgid ""
@@ -563,7 +563,7 @@ msgid ""
 "reasons, this will not work in the first 10 seconds after an offer is "
 "received). You can also use a regular expression for either <nickname> or "
 "<file>."
-msgstr ""
+msgstr "Прихвата долазни ДЦЦ разговор или понуду за слање.  Ако надимак |nickname| није наведен, последња доспела понуда ће бити прихваћена (из безбедносних разлога, ово неће радити у првих 10 секунди по пријему понуде).  Можете да користите регуларне изразе било за надимак или за датотеку <file>."
 
 #: cmd.dcc-accept-list.params
 msgid "_: cmd.dcc-accept-list.params\n"
@@ -571,30 +571,30 @@ msgstr ""
 
 #: cmd.dcc-accept-list.help
 msgid "Displays the DCC auto-accept list for the current network."
-msgstr ""
+msgstr "Приказује списак за аутоматско прихватање ДЦЦа за тренутну мрежу."
 
 #: cmd.dcc-accept-list-add.params cmd.dcc-accept-list-remove.params
 #: cmd.unban.params cmd.unexcept.params cmd.ping.params
 msgid "<nickname>"
-msgstr ""
+msgstr "<nickname>"
 
 #: cmd.dcc-accept-list-add.help
 msgid "Add someone to your DCC auto-accept list for the current network."
-msgstr ""
+msgstr "Додаје неког у списак за аутоматско прихватање ДЦЦа за тренутну мрежу."
 
 #: cmd.dcc-accept-list-remove.help
 msgid "Remove someone from your DCC auto-accept list for the current network."
-msgstr ""
+msgstr "Уклања неког из списка за аутоматско прихватање за тренутну мрежу."
 
 #: cmd.dcc-chat.help
 msgid ""
 "Sends a DCC Chat offer to |nickname| on the current server. On a query view, "
 "|nickname| may be omitted to send the offer to the query view's user."
-msgstr ""
+msgstr "Шаље понуду за разговор кроз ДЦЦ за надимак |nickname| на тренутном серверу.  У погледу за разговор, |nickname| може да се изостави како бисте послали понуду кориснику у тренутном погледу. "
 
 #: cmd.dcc-chat.label
 msgid "Direct Chat"
-msgstr ""
+msgstr "Директан разговор"
 
 #: cmd.dcc-close.help
 msgid ""
@@ -613,7 +613,7 @@ msgstr ""
 
 #: cmd.dcc-list.params
 msgid "[<type>]"
-msgstr ""
+msgstr "[<type>]"
 
 #: cmd.dcc-list.help
 msgid ""
@@ -623,7 +623,7 @@ msgstr ""
 
 #: cmd.dcc-send.params
 msgid "[<nickname> [<file>]]"
-msgstr ""
+msgstr "[<nickname> [<file>]]"
 
 #: cmd.dcc-send.help
 msgid ""
@@ -634,15 +634,15 @@ msgstr ""
 
 #: cmd.dcc-send.label
 msgid "Send File…"
-msgstr ""
+msgstr "Пошаљи датотеку…"
 
 #: cmd.delete-view.key
 msgid "accel W"
-msgstr ""
+msgstr "accel W"
 
 #: cmd.delete-view.label
 msgid "&Close Tab"
-msgstr ""
+msgstr "&Затвори језичак"
 
 #: cmd.delete-view.help
 msgid ""
@@ -658,7 +658,7 @@ msgstr ""
 #: cmd.op.params cmd.userhost.params cmd.userip.params cmd.voice.params
 #: cmd.whois.params cmd.wii.params
 msgid "<nickname> [<...>]"
-msgstr ""
+msgstr "<nickname> [<...>]"
 
 #: cmd.dehop.help
 msgid ""
@@ -678,7 +678,7 @@ msgstr ""
 
 #: cmd.desc.params
 msgid "[<description>]"
-msgstr ""
+msgstr "[<description>]"
 
 #: cmd.desc.help
 msgid ""
@@ -718,7 +718,7 @@ msgstr ""
 
 #: cmd.disconnect-all.key
 msgid "accel D"
-msgstr ""
+msgstr "accel D"
 
 #: cmd.disconnect-all.help
 msgid ""
@@ -728,7 +728,7 @@ msgstr ""
 
 #: cmd.echo.params cmd.say.params
 msgid "<message>"
-msgstr ""
+msgstr "<message>"
 
 #: cmd.echo.help
 msgid ""
@@ -737,7 +737,7 @@ msgstr ""
 
 #: cmd.enable-plugin.params cmd.reload-plugin.params cmd.disable-plugin.params
 msgid "<plugin>"
-msgstr ""
+msgstr "<plugin>"
 
 #: cmd.enable-plugin.help
 msgid ""
@@ -748,7 +748,7 @@ msgstr ""
 
 #: cmd.eval.params
 msgid "<expression>"
-msgstr ""
+msgstr "<expression>"
 
 #: cmd.eval.help
 msgid "Evaluates <expression> as JavaScript code.  Not for the faint of heart."
@@ -790,11 +790,11 @@ msgstr ""
 
 #: cmd.find.key
 msgid "accel F"
-msgstr ""
+msgstr "accel F"
 
 #: cmd.find.params
 msgid "[<rest>]"
-msgstr ""
+msgstr "[<rest>]"
 
 #: cmd.find.help
 msgid "Finds text in the current view."
@@ -806,7 +806,7 @@ msgstr ""
 
 #: cmd.find-again.key
 msgid "accel G"
-msgstr ""
+msgstr "accel G"
 
 #: cmd.find-again.params
 msgid "_: cmd.find-again.params\n"
@@ -818,7 +818,7 @@ msgstr ""
 
 #: cmd.focus-input.key
 msgid "VK_ESCAPE"
-msgstr ""
+msgstr "VK_ESCAPE"
 
 #: cmd.focus-input.help
 msgid "Force keyboard focus to the input box."
@@ -826,7 +826,7 @@ msgstr ""
 
 #: cmd.font-family.params
 msgid "[<font>]"
-msgstr ""
+msgstr "[<font>]"
 
 #: cmd.font-family.help
 msgid ""
@@ -866,7 +866,7 @@ msgstr ""
 
 #: cmd.font-size.params
 msgid "[<font-size>]"
-msgstr ""
+msgstr "[<font-size>]"
 
 #: cmd.font-size.help
 msgid ""
@@ -882,11 +882,11 @@ msgstr ""
 
 #: cmd.font-size-bigger.key
 msgid "accel +"
-msgstr ""
+msgstr "accel +"
 
 #: cmd.font-size-bigger2.key
 msgid "accel ="
-msgstr ""
+msgstr "accel ="
 
 #: cmd.font-size-smaller.label
 msgid "Make Text &Smaller"
@@ -894,7 +894,7 @@ msgstr ""
 
 #: cmd.font-size-smaller.key
 msgid "accel -"
-msgstr ""
+msgstr "accel -"
 
 #: cmd.font-size-default.label
 msgid "Default Si&ze"
@@ -931,7 +931,7 @@ msgstr ""
 #: cmd.goto-url.params cmd.goto-url-newwin.params cmd.goto-url-newtab.params
 #: cmd.goto-url-external.params
 msgid "<url> [<anchor>]"
-msgstr ""
+msgstr "<url> [<anchor>]"
 
 #: cmd.goto-url.help
 msgid ""
