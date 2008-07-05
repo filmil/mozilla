@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-07-05 22:20+0200\n"
+"PO-Revision-Date: 2008-07-05 22:55+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -173,7 +173,7 @@ msgid ""
 "deleted, it is recreated.  You may omit the irc:// portion of the <irc-"
 "url>.  Examples are; /attach moznet, /attach moznet/chatzilla, and /attach "
 "irc.mozilla.org/mozbot,isnick."
-msgstr ""
+msgstr "Повезује се са ИРЦ УРЛом ког одређује <irc-url>.  Ако сте већ на вези, поглед за <irc-url> постаје важећи.  Ако је тај поглед уклоњен, поново се успоставља.  Префикс irc:// може да се изостави као део <irc-url>.  Примери: /attach moznet, /attach moznet/chatzilla, /attach irc.mozilla.org/mozbot,isnick."
 
 #: cmd.away.label
 msgid "Away (default)"
@@ -193,7 +193,7 @@ msgstr "[<reason>]"
 msgid ""
 "If <reason> is specified, sets you away with that message. Used without "
 "<reason>, you are marked away with a default message."
-msgstr ""
+msgstr "Ако је задат разлог <reason>, поставља поруку о одсуству. Ако се не зада <reason>, поставља се одсуство са изворном поруком."
 
 #: cmd.back.label
 msgid "Back"
@@ -263,7 +263,7 @@ msgstr "Поставља ЦСС датотеку (CSS) за језичак са 
 #: cmd.channel-pref.params cmd.network-pref.params cmd.pref.params
 #: cmd.user-pref.params
 msgid "[<pref-name> [<pref-value>]]"
-msgstr ""
+msgstr "[<pref-name> [<pref-value>]]"
 
 #: cmd.channel-pref.help
 msgid ""
@@ -273,29 +273,29 @@ msgid ""
 "value> are omitted, all preferences will be displayed.  If <pref-value> is a "
 "minus ('-') character, then the preference will revert back to its default "
 "value."
-msgstr ""
+msgstr "Поставља вредност поставке под именом <pref-name> на вредност <pref-value> на тренутном каналу.  Ако се <pref-value> изостави, приказује се тренутна вредност поставке <pref-name>.  Ако се и <pref-name> и <pref-value> изоставе, исписују се све поставке.  Ако је <pref-value> знак минус („-‟), поставка се враћа на изворну вредност."
 
 #: cmd.clear-view.label
 msgid "Cl&ear Tab"
-msgstr ""
+msgstr "О&чисти језичак"
 
 #: cmd.clear-view.params cmd.delete-view.params cmd.hide-view.params
 msgid "[<view>]"
-msgstr ""
+msgstr "[<view>]"
 
 #: cmd.clear-view.help
 msgid "Clear the current view, discarding *all* content."
-msgstr ""
+msgstr "Чисти тренутни поглед, и одбацује *сав* садржај."
 
 #: cmd.client.help
 msgid ""
 "Make the ``*client*'' view current.  If the ``*client*'' view has been "
 "deleted, it will be recreated."
-msgstr ""
+msgstr "Поставља поглед „*client*‟ као тренутни.   Ако је поглед „*client*‟ уклоњен, биће поново направљен."
 
 #: cmd.cmd-docommand.params
 msgid "<cmd-name>"
-msgstr ""
+msgstr "<cmd-name>"
 
 #: cmd.cmd-docommand.help
 msgid "_: cmd.cmd-docommand.help\n"
@@ -303,11 +303,11 @@ msgstr ""
 
 #: cmd.cmd-undo.label
 msgid "&Undo"
-msgstr ""
+msgstr "&Опозови"
 
 #: cmd.cmd-undo.key
 msgid "accel Z"
-msgstr ""
+msgstr "accel Z"
 
 #: cmd.cmd-undo.params
 msgid "_: cmd.cmd-undo.params\n"
@@ -315,15 +315,15 @@ msgstr ""
 
 #: cmd.cmd-undo.help
 msgid "Undoes the last change made to text in the input box."
-msgstr ""
+msgstr "Опозива последњу промену текста у кућици за унос текста."
 
 #: cmd.cmd-redo.label
 msgid "&Redo"
-msgstr ""
+msgstr "&Понови"
 
 #: cmd.cmd-redo.key
 msgid "accel Y"
-msgstr ""
+msgstr "accel Y"
 
 #: cmd.cmd-redo.params
 msgid "_: cmd.cmd-redo.params\n"
@@ -331,15 +331,15 @@ msgstr ""
 
 #: cmd.cmd-redo.help
 msgid "Redoes the last change to the text in the input box which you undid."
-msgstr ""
+msgstr "Понавља последњу промену текста у кућици за унос коју сте опозвали."
 
 #: cmd.cmd-cut.label
 msgid "Cu&t"
-msgstr ""
+msgstr "&Исеци"
 
 #: cmd.cmd-cut.key
 msgid "accel X"
-msgstr ""
+msgstr "accel X"
 
 #: cmd.cmd-cut.params
 msgid "_: cmd.cmd-cut.params\n"
@@ -349,15 +349,15 @@ msgstr ""
 msgid ""
 "Copies the currently-selected text to clipboard, and removes it from the "
 "source."
-msgstr ""
+msgstr "Умножава тренутно изабрани текст на клипборд и укања га из извора."
 
 #: cmd.cmd-copy.label
 msgid "&Copy"
-msgstr ""
+msgstr "&Умножи"
 
 #: cmd.cmd-copy.key
 msgid "accel C"
-msgstr ""
+msgstr "accel C"
 
 #: cmd.cmd-copy.params
 msgid "_: cmd.cmd-copy.params\n"
@@ -365,15 +365,15 @@ msgstr ""
 
 #: cmd.cmd-copy.help
 msgid "Copies the currently-selected text to clipboard."
-msgstr ""
+msgstr "Умножава тренутно изабрани текст на клипборд."
 
 #: cmd.cmd-paste.label
 msgid "&Paste"
-msgstr ""
+msgstr "У&баци"
 
 #: cmd.cmd-paste.key
 msgid "accel V"
-msgstr ""
+msgstr "accel V"
 
 #: cmd.cmd-paste.params
 msgid "_: cmd.cmd-paste.params\n"
@@ -381,15 +381,15 @@ msgstr ""
 
 #: cmd.cmd-paste.help
 msgid "Pastes the contents of clipboard."
-msgstr ""
+msgstr "Убацује садржај клипборда."
 
 #: cmd.cmd-delete.label
 msgid "&Delete"
-msgstr ""
+msgstr "У&клони"
 
 #: cmd.cmd-delete.key
 msgid "VK_DELETE"
-msgstr ""
+msgstr "VK_DELETE"
 
 #: cmd.cmd-delete.params
 msgid "_: cmd.cmd-delete.params\n"
@@ -397,15 +397,15 @@ msgstr ""
 
 #: cmd.cmd-delete.help
 msgid "Deletes the current selection."
-msgstr ""
+msgstr "Уклања тренутни избор."
 
 #: cmd.cmd-selectall.label
 msgid "Select &All"
-msgstr ""
+msgstr "Изабери &све"
 
 #: cmd.cmd-selectall.key
 msgid "accel A"
-msgstr ""
+msgstr "accel A"
 
 #: cmd.cmd-selectall.params
 msgid "_: cmd.cmd-selectall.params\n"
@@ -413,23 +413,23 @@ msgstr ""
 
 #: cmd.cmd-selectall.help
 msgid "Selects all the text in the current view."
-msgstr ""
+msgstr "Бира сав текст у тренутном погледу."
 
 #: cmd.cmd-copy-link-url.label
 msgid "Copy Link Location"
-msgstr ""
+msgstr "Умножи одредиште везе"
 
 #: cmd.cmd-copy-link-url.params cmd.load.params
 msgid "<url>"
-msgstr ""
+msgstr "<url>"
 
 #: cmd.cmd-copy-link-url.help
 msgid "Copies the URL of the current link to clipboard."
-msgstr ""
+msgstr "Умножава УРЛ тренутне везе на клипборд."
 
 #: cmd.cmd-mozilla-prefs.label
 msgid "&&brandShortName; Preferences…"
-msgstr ""
+msgstr "Поставке за програм &&brandShortName;…"
 
 #: cmd.cmd-mozilla-prefs.params
 msgid "_: cmd.cmd-mozilla-prefs.params\n"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: cmd.cmd-prefs.label
 msgid "Pr&eferences…"
-msgstr ""
+msgstr "По&ставке…"
 
 #: cmd.cmd-prefs.params
 msgid "_: cmd.cmd-prefs.params\n"
@@ -453,7 +453,7 @@ msgstr ""
 
 #: cmd.cmd-chatzilla-prefs.label
 msgid "ChatZilla Pr&eferences…"
-msgstr ""
+msgstr "Пос&тавке четзиле…"
 
 #: cmd.cmd-chatzilla-prefs.params
 msgid "_: cmd.cmd-chatzilla-prefs.params\n"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: cmd.cmd-chatzilla-opts.label
 msgid "&Options…"
-msgstr ""
+msgstr "&Опције…"
 
 #: cmd.cmd-chatzilla-opts.params
 msgid "_: cmd.cmd-chatzilla-opts.params\n"
@@ -477,17 +477,17 @@ msgstr ""
 
 #: cmd.commands.params cmd.help.params
 msgid "[<pattern>]"
-msgstr ""
+msgstr "[<pattern>]"
 
 #: cmd.commands.help
 msgid ""
 "Lists all command names matching <pattern>, or all command names if pattern "
 "is not specified."
-msgstr ""
+msgstr "Исписује све команде које се поклапају са обрасцем <pattern>, или имена свих команди ако образац није задат."
 
 #: cmd.create-tab-for-view.params cmd.set-current-view.params
 msgid "<view>"
-msgstr ""
+msgstr "<view>"
 
 #: cmd.create-tab-for-view.help
 msgid "_: cmd.create-tab-for-view.help\n"
@@ -495,41 +495,41 @@ msgstr ""
 
 #: cmd.custom-away.label
 msgid "Away (custom)…"
-msgstr ""
+msgstr "Одсутан (прилагођено)…"
 
 #: cmd.custom-away.help
 msgid ""
 "Prompts for a custom away message and then sets you away using it. Use the |/"
 "away| command to specify an away message as part of the command."
-msgstr ""
+msgstr "Пита за прилагођену поруку за одсуство и затим поставља одсуство помоћу ње.  Користите команду |away| да бисте одредили поруку о одсуству као део команде."
 
 #: cmd.sync-font.help
 msgid "Synchronizes all views with their current font settings."
-msgstr ""
+msgstr "Усклађује све погледе са тренутним подешавањем писма."
 
 #: cmd.sync-header.help
 msgid "Synchronizes all views with their current header display setting."
-msgstr ""
+msgstr "Усклађује све погледе са тренутним поставкама за приказ заглавља."
 
 #: cmd.sync-log.help
 msgid "Synchronizes all views with their current logging setting."
-msgstr ""
+msgstr "Усклађује све погледе са тренутним поставкама за бележење."
 
 #: cmd.sync-motif.help
 msgid "Synchronizes all views with their current motif setting."
-msgstr ""
+msgstr "Усклађује све погледе са тренутним поставкама за мотив."
 
 #: cmd.sync-timestamp.help
 msgid "Synchronizes all views with their current timestamp display settings."
-msgstr ""
+msgstr "Усклађује све погледе са тренутним поставкама за приказ временске ознаке."
 
 #: cmd.sync-window.help
 msgid "Synchronizes all views with their current output window setting."
-msgstr ""
+msgstr "Усклађује све погледе са тренутним поставкама за излазни прозор."
 
 #: cmd.ctcp.params
 msgid "<target> <code> [<params>]"
-msgstr ""
+msgstr "<target> <code> [<params>]"
 
 #: cmd.ctcp.help
 msgid ""
