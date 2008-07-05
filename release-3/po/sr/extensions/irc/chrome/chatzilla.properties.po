@@ -104,7 +104,7 @@ msgstr ""
 
 #: none msg.none
 msgid "<none>"
-msgstr ""
+msgstr "<нема>"
 
 #: na msg.na
 msgid "<n/a>"
@@ -206,7 +206,7 @@ msgstr ""
 
 #: cmd.ban.label
 msgid "Ban"
-msgstr ""
+msgstr "Забр."
 
 #: cmd.ban.format
 msgid "Ban from $channelName"
@@ -1055,7 +1055,7 @@ msgstr ""
 
 #: cmd.userlist.label
 msgid "User List"
-msgstr ""
+msgstr "Списак имена"
 
 #: cmd.userlist.key
 msgid "accel shift L"
@@ -1252,7 +1252,7 @@ msgstr ""
 
 #: cmd.kick.label
 msgid "Kick"
-msgstr ""
+msgstr "Шут"
 
 #: cmd.kick.params cmd.kick-ban.params
 msgid "<nickname> [<reason>]"
@@ -2096,7 +2096,7 @@ msgstr ""
 
 #: msg.err.not.connected
 msgid "Not connected."
-msgstr ""
+msgstr "Није на вези."
 
 #: msg.err.last.view
 msgid "Cannot delete last view."
@@ -2429,19 +2429,19 @@ msgstr ""
 
 #: msg.network
 msgid "Network"
-msgstr ""
+msgstr "Мрежа"
 
 #: msg.server
 msgid "Server"
-msgstr ""
+msgstr "Рачунар"
 
 #: msg.channel
 msgid "Channel"
-msgstr ""
+msgstr "Канал"
 
 #: msg.user
 msgid "User"
-msgstr ""
+msgstr "Корисник"
 
 #: msg.client pref.clientMaxLines.label
 msgid "Client"
@@ -2461,7 +2461,7 @@ msgstr ""
 
 #: msg.error
 msgid "Error"
-msgstr ""
+msgstr "Грешка"
 
 #: msg.here
 msgid "here"
@@ -2473,7 +2473,7 @@ msgstr ""
 
 #: msg.connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Повезивање у току"
 
 #: msg.connected msg.dcc.state.connect
 msgid "Connected"
@@ -2919,7 +2919,7 @@ msgstr ""
 
 #: msg.status
 msgid "Status"
-msgstr ""
+msgstr "Стање"
 
 #: msg.title.net.on
 msgid "User %S on ``%S'' (%S:%S)"
@@ -2971,7 +2971,7 @@ msgstr ""
 
 #: msg.output.url
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: msg.output.knownnets
 msgid "Known Networks"
@@ -2991,16 +2991,16 @@ msgstr ""
 
 #: msg.output.mode
 msgid "Mode"
-msgstr ""
+msgstr "Приступ"
 
 #: msg.output.users pref.userHeader.label pref.userLog.label
 #: pref.userMaxLines.label
 msgid "Users"
-msgstr ""
+msgstr "Корисници"
 
 #: msg.output.topic
 msgid "Topic"
-msgstr ""
+msgstr "Тема"
 
 #: msg.output.via
 msgid "Connected via"
@@ -3012,7 +3012,7 @@ msgstr ""
 
 #: msg.output.file
 msgid "File"
-msgstr ""
+msgstr "Датотека"
 
 #: msg.output.progress
 msgid "Progress"
@@ -3300,7 +3300,7 @@ msgstr ""
 
 #: msg.dcclist.to
 msgid "to"
-msgstr ""
+msgstr "до"
 
 #: msg.dcclist.from
 msgid "from"
@@ -3356,10 +3356,9 @@ msgstr ""
 msgid "[[Close][Close (disconnect) this DCC offer][%S]]"
 msgstr ""
 
-# DCC state names.
 #: msg.dcc.state.abort
 msgid "Aborted"
-msgstr ""
+msgstr "Прекинуто"
 
 #: msg.dcc.state.request
 msgid "Requested"
@@ -3376,7 +3375,7 @@ msgstr ""
 
 #: msg.dcc.state.disconnect
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 #: msg.dcc.state.decline
 msgid "Declined"
@@ -3384,7 +3383,7 @@ msgstr ""
 
 #: msg.dcc.state.fail
 msgid "Failed"
-msgstr ""
+msgstr "Неуспело"
 
 # SI general format (1$ == number, 2$ == scale suffix).
 #: msg.si.size msg.si.speed
@@ -4264,7 +4263,7 @@ msgstr ""
 
 #: msg.prefs.delete
 msgid "Delete"
-msgstr ""
+msgstr "Обриши"
 
 #: msg.prefs.list.add
 msgid "Enter item to add:"
@@ -4590,7 +4589,7 @@ msgstr ""
 
 #: pref.desc.label
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 #: pref.desc.help
 msgid ""
@@ -5002,7 +5001,7 @@ msgstr ""
 
 #: pref.nickname.label
 msgid "Nickname"
-msgstr ""
+msgstr "Надимак"
 
 #: pref.nickname.help
 msgid ""
@@ -5238,7 +5237,7 @@ msgstr ""
 
 #: pref.username.label
 msgid "Username"
-msgstr ""
+msgstr "Кор. име"
 
 #: pref.username.help
 msgid ""
@@ -5269,10 +5268,9 @@ msgid ""
 "you if you are sure you want to quit. Uncheck this to disable it."
 msgstr ""
 
-# Preference group labels #
 #: pref.group.general.label
 msgid "General"
-msgstr ""
+msgstr "Опште"
 
 #: pref.group.general.connect.label
 msgid "Connection"
@@ -5284,7 +5282,7 @@ msgstr ""
 
 #: pref.group.general.log.label
 msgid "Logging"
-msgstr ""
+msgstr "Записивање"
 
 #: pref.group.appearance.label
 msgid "Appearance"
@@ -5315,7 +5313,7 @@ msgstr ""
 #: pref.group.dcc.label pref.dccUserHeader.label pref.dccUserLog.label
 #: pref.dccUserMaxLines.label
 msgid "DCC"
-msgstr ""
+msgstr "DCC"
 
 #: pref.group.dcc.ports.label
 msgid "Ports"
@@ -5399,10 +5397,9 @@ msgid ""
 "list of either \"beep\" or file: URLs."
 msgstr ""
 
-# These are the prefs that get grouped #
 #: pref.networkHeader.label pref.networkLog.label pref.networkMaxLines.label
 msgid "Networks"
-msgstr ""
+msgstr "Мреже"
 
 #: pref.networkHeader.help
 msgid "_: pref.networkHeader.help\n"
