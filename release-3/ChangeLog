@@ -2,6 +2,7 @@
 
 	* po/sr/extensions/venkman/chrome/venkman.properties.po: Further
 	with the venkman translation.
+	Completely translated venkman.
 
 	* po/sr/extensions/irc/chrome/channels.dtd.po: Eliminated the last
 	untranslated message here.
