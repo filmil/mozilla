@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-23 23:58+0100\n"
+"PO-Revision-Date: 2008-07-05 11:22+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr "&Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr "п"
+msgstr "Y"
 
 #: cutCmd.label
 #: cutCmd.accesskey
@@ -44,7 +44,7 @@ msgstr "&Исеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr "x"
+msgstr "X"
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -53,7 +53,7 @@ msgstr "&Умножи"
 
 #: copyCmd.key
 msgid "C"
-msgstr "c"
+msgstr "C"
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
@@ -62,7 +62,7 @@ msgstr "На&лепи"
 
 #: pasteCmd.key
 msgid "V"
-msgstr "v"
+msgstr "V"
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
@@ -76,7 +76,7 @@ msgstr "Изабери &све"
 
 #: selectAllCmd.key
 msgid "A"
-msgstr "a"
+msgstr "A"
 
 #: findCmd.label
 #: findCmd.accesskey
@@ -85,7 +85,7 @@ msgstr "&Нађи"
 
 #: findCmd.key
 msgid "F"
-msgstr "f"
+msgstr "F"
 
 #: findAgainCmd.label
 #: findAgainCmd.accesskey
@@ -94,7 +94,7 @@ msgstr "Нађи о&пет"
 
 #: findAgainCmd.key
 msgid "G"
-msgstr "g"
+msgstr "G"
 
 #: findAgainCmd.key2
 msgid "VK_F3"

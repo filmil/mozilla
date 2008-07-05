@@ -1,3 +1,27 @@
+2008-07-05  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/browser/chrome/browser/aboutDialog.dtd.po: Removed the
+	text "О програму" from the title bar in order to shorten the
+	label, the window being too narrow to show all the text.
+
+	* po/sr/toolkit/chrome/global/editMenuOverlay.dtd.po: Corrected
+	the redo key from Ctrl+П to Ctrl+Y.
+	Corrected the other control keys to be uppercase.  No impact to
+	the functionality, but a consistency change.
+
+	* po/sr/toolkit/chrome/global/charsetOverlay.dtd.po: Corrected the
+	character encoding names.  All first letters to lower case.
+
+	* po/sr/browser/chrome/browser/aboutDialog.dtd.po: Shortened the
+	button label on the about link, which should make the text fit in
+	the about box.
+
+	* po/sr/browser/chrome/browser/credits.dtd.po: Corrected the
+	translator's names.
+
+	* po/sr/browser/chrome/browser/browser.dtd.po: Removed shortcut
+	key clash between &Додаци and По&даци о страни in the Tools menu.
+
 2008-06-24  Filip Miletic  <filmil@gmail.com>
 
 	* Makefile: Re-allowed copy to CVS.

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-04 19:55+0200\n"
-"PO-Revision-Date: 2008-06-25 23:50+0200\n"
+"PO-Revision-Date: 2008-07-05 11:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -331,7 +331,7 @@ msgstr "y"
 #: addons.label
 #: addons.accesskey
 msgid "&Add-ons"
-msgstr "&Додаци"
+msgstr "Дода&ци"
 
 #: addons.tooltip
 msgid "Show and Manage installed Add-ons"
@@ -450,7 +450,7 @@ msgstr "Уклони &приватне податке"
 #: viewMenu.label
 #: viewMenu.accesskey
 msgid "&View"
-msgstr "П&реглед"
+msgstr "П&риказ"
 
 #: viewToolbarsMenu.label
 #: viewToolbarsMenu.accesskey
