@@ -240,9 +240,8 @@ po/sr/browser/chrome/browser/history/history.dtd.po:	14 translated messages.
 po/sr/browser/chrome/browser/sanitize.dtd.po:	10 translated messages.
 po/sr/browser/chrome/browser/migration/migration.dtd.po:	28 translated messages.
 po/sr/browser/chrome/browser/migration/migration.properties.po:	30 translated messages.
-po/sr/browser/chrome/browser/credits.dtd.po:	6 translated messages, 1 fuzzy translation.
+po/sr/browser/chrome/browser/credits.dtd.po:	7 translated messages.
 po/sr/browser/chrome/browser/metaData.dtd.po:	25 translated messages.
-po/sr/browser/chrome/browser/.#credits.dtd.po:	msgfmt: fout tijdens openen om te lezen van "po/sr/browser/chrome/browser/.#credits.dtd.po": Bestand of map bestaat niet
 po/sr/browser/chrome/browser/sidebar/sidebar.properties.po:	2 translated messages.
 po/sr/browser/chrome/browser/pageReport.dtd.po:	4 translated messages.
 po/sr/browser/chrome/browser/feeds/subscribe.dtd.po:	3 translated messages.
@@ -329,7 +328,7 @@ po/sr/extensions/wallet/resources/pref-passwords.dtd.po:	8 translated messages.
 po/sr/extensions/cview/resources/cviewOverlay.dtd.po:	1 translated message.
 po/sr/extensions/venkman/chrome/venkman-overlay.dtd.po:	3 translated messages.
 po/sr/extensions/venkman/chrome/venkman.dtd.po:	46 translated messages.
-po/sr/extensions/venkman/chrome/venkman.properties.po:	329 translated messages, 267 untranslated messages.
+po/sr/extensions/venkman/chrome/venkman.properties.po:	581 translated messages, 15 untranslated messages.
 po/sr/extensions/venkman/defines.inc.po:	po/sr/extensions/venkman/defines.inc.po:31: `msgid' en `msgstr' ingangen eindigen niet allebei met '
 '
 msgfmt: found 1 fatal error
