@@ -1,16 +1,10 @@
 po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	264 translated messages.
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
-po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	po/sr/security/manager/chrome/pipnss/pipnss.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                                    Message conversion to user's charset might not work.
-330 translated messages.
+po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	330 translated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
 po/sr/security/manager/chrome/pippki/pref-ssl.dtd.po:	26 translated messages.
 po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages.
-po/sr/security/manager/chrome/pippki/pref-validation.dtd.po:	po/sr/security/manager/chrome/pippki/pref-validation.dtd.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                                      Message conversion to user's charset might not work.
-po/sr/security/manager/chrome/pippki/pref-validation.dtd.po:17: dubbele melding definitie...
-po/sr/security/manager/chrome/pippki/pref-validation.dtd.po:7: ...this is the location of the first definition
-msgfmt: found 1 fatal error
+po/sr/security/manager/chrome/pippki/pref-validation.dtd.po:	39 translated messages.
 po/sr/security/manager/chrome/pippki/pref-masterpass.dtd.po:	18 translated messages.
 po/sr/security/manager/chrome/pippki/pippki.properties.po:	141 translated messages.
 po/sr/security/manager/chrome/pippki/pref-security.dtd.po:	12 translated messages.
@@ -177,10 +171,7 @@ po/sr/mail/installer/installer.inc.po:	64 translated messages.
 po/sr/mail/installer/mui.properties.po:	43 translated messages.
 po/sr/mail/installer/override.properties.po:	61 translated messages.
 po/sr/mail/installer/custom.properties.po:	49 translated messages.
-po/sr/mail/defines.inc.po:	po/sr/mail/defines.inc.po:27: `msgid' en `msgstr' ingangen eindigen niet allebei met '
-'
-msgfmt: found 1 fatal error
-2 translated messages.
+po/sr/mail/defines.inc.po:	2 translated messages.
 po/sr/editor/ui/chrome/region/region.properties.po:	1 translated message.
 po/sr/editor/ui/chrome/composer/pref-editing.dtd.po:	15 translated messages.
 po/sr/editor/ui/chrome/composer/editor.dtd.po:	16 translated messages.
@@ -316,7 +307,10 @@ po/sr/extensions/reporter/chrome/reportWizard.properties.po:	9 translated messag
 po/sr/extensions/reporter/chrome/reportWizard.dtd.po:	33 translated messages.
 po/sr/extensions/reporter/chrome/about.dtd.po:	3 translated messages.
 po/sr/extensions/reporter/chrome/reporter.dtd.po:	2 translated messages.
-po/sr/extensions/irc/chrome/channels.dtd.po:	10 translated messages, 1 untranslated message.
+po/sr/extensions/irc/chrome/channels.dtd.po:	po/sr/extensions/irc/chrome/channels.dtd.po:82: `msgid' en `msgstr' ingangen eindigen niet allebei met '
+'
+msgfmt: found 1 fatal error
+11 translated messages.
 po/sr/extensions/irc/chrome/chatzilla.properties.po:	0 translated messages, 1166 untranslated messages.
 po/sr/extensions/irc/chrome/config.dtd.po:	21 translated messages.
 po/sr/extensions/irc/chrome/chatzillaOverlay.dtd.po:	2 translated messages.
