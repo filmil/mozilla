@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-07-05 20:56+0200\n"
+"PO-Revision-Date: 2008-07-05 22:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -225,29 +225,29 @@ msgid ""
 "Bans a single user, or mask of users, from the current channel. A user's "
 "nickname may be specified, or a proper host mask can be used. Used without a "
 "nickname or mask, shows the list of bans currently in effect."
-msgstr ""
+msgstr "Протерује једног корисника или даје образац за протеривање са тренутног канала.  Надимак може да буде задат, а може да се користи и одговарајућа маска за име рачунара.  Када се не користи надимак или маска, приказује списак забрана које тренутно важе."
 
 #: cmd.cancel.help
 msgid ""
 "Cancels a /attach or /server command.  Use /cancel when ChatZilla is "
 "repeatedly trying to attach to a network that is not responding, to tell "
 "ChatZilla to give up before the normal number of retries."
-msgstr ""
+msgstr "Поништава команду /attach или /server.  Користите /cancel када четзила непрекидно покушава да се повеже са мрежим која се не одазива, како бисте рекли четзили да одустане пре него што би иначе то урадила."
 
 #: cmd.charset.params cmd.default-charset.params
 msgid "[<new-charset>]"
-msgstr ""
+msgstr "[<new-charset>]"
 
 #: cmd.charset.help
 msgid ""
 "Sets the character encoding mode for the current view to <new-charset>, or "
 "displays the current character encoding mode if <new-charset> is not "
 "provided."
-msgstr ""
+msgstr "Поставља кодирање знакова за тренутни поглед на <new-charset>, или приказује тренутно кодирање знакова, ако се <new-charset> не наведе."
 
 #: cmd.channel-motif.params
 msgid "[<motif> [<channel>]]"
-msgstr ""
+msgstr "[<motif> [<channel>]]"
 
 #: cmd.channel-motif.help
 msgid ""
@@ -258,7 +258,7 @@ msgid ""
 "will be assumed.  See the ChatZilla homepage at <http://www.mozilla.org/"
 "projects/rt-messaging/chatzilla/> for more information on how to style "
 "ChatZilla.  See also |motif|."
-msgstr ""
+msgstr "Поставља ЦСС датотеку (CSS) за језичак са порукама за овај канал.  <motif> може да буде УРЛ на ЦСС датотеку, или скраћеница „default‟, „light‟, или „dark‟.  Ако је <motif> знак минус („-‟), мотив ће бити враћен на мрежни мотив.  Ако се канал <channel> не зада, претпоставља се тренутно активни канал.  Видите четзилину почетну страну на адреси  <http://www.mozilla.org/projects/rt-messaging/chatzilla/> за више података како се четзила користи.  Видети и: |motif|."
 
 #: cmd.channel-pref.params cmd.network-pref.params cmd.pref.params
 #: cmd.user-pref.params
