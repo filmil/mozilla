@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-07-05 11:12+0200\n"
+"PO-Revision-Date: 2008-07-05 13:20+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -37,9 +37,8 @@ msgstr "приложницима"
 # 
 #
 #: credit.translation
-#, fuzzy
 msgid "_: credit.translation\n"
-msgstr "<h3>Преводиоци</h3><ul><li>Никола Радовановић</li><li>Горан Ракић</li><li>Игор Милетић</li><li>Љубиша Радовановић</li><li>Филип Милетић</li><li>Иван Ичин</li><li>„Наше писмо‟</li><li>проф. др Владан Јанковић</li><li>Владана Михаиловић</li><li>Драган Митровић</li><li>Душан Вучковић</li><li>проф. др Милорад Тошић</li></ul>\n"
+msgstr "<h3>Преводиоци</h3><ul><li>Никола Радовановић</li><li>Горан Ракић</li><li>Игор Милетић</li><li>Љубиша Радовановић</li><li>Филип Милетић</li><li>Иван Ичин</li><li>„Наше писмо‟</li><li>проф. др Драган Јанковић</li><li>Владана Михаjловић</li><li>Драган Митровић</li><li>Душан Вучковић</li><li>проф. др Милорад Тошић</li></ul>\n"
 
 #: credit.memory
 msgid "In Fond Memory Of"
