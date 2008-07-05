@@ -1,5 +1,8 @@
 2008-07-05  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/extensions/irc/chrome/channels.dtd.po: Eliminated the last
+	untranslated message here.
+
 	* po/sr/browser/chrome/browser/aboutDialog.dtd.po: Removed the
 	text "О програму" from the title bar in order to shorten the
 	label, the window being too narrow to show all the text.

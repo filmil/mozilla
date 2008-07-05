@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-16 19:59+0200\n"
+"PO-Revision-Date: 2008-07-05 13:07+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "Освежи сад"
 
 #: refresh.accesskey
 msgid "_: refresh.accesskey\n"
-msgstr ""
+msgstr "О"
 
 #: col.name
 msgid "Name"
