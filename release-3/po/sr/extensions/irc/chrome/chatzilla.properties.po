@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-14 02:15+0200\n"
+"PO-Revision-Date: 2008-07-05 20:56+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr ""
 # ## End of notes ###
 #: locale.version
 msgid "0.9.81"
-msgstr ""
+msgstr "0.9.81"
 
 #: locale.error
 msgid ""
@@ -96,11 +96,14 @@ msgid ""
 "It is strongly advised that you update or remove the ChatZilla locale in "
 "question."
 msgstr ""
+"Користите издање четзиле  %1$S, која тражи издање локалитета %2$S. Тренутно изабрани локалитет, %3$S, има издање %4$S, па ће можда да узрокује проблеме при раду са четзилом.\n"
+"\n"
+"Препоручујемо да доградите или уклоните овај локалитет из четзиле."
 
 # Misc
 #: unknown cmd.label-user.label cmd.label-user-multi.label msg.unknown
 msgid "<unknown>"
-msgstr ""
+msgstr "<непознат>"
 
 #: none msg.none
 msgid "<none>"
@@ -108,20 +111,20 @@ msgstr "<нема>"
 
 #: na msg.na
 msgid "<n/a>"
-msgstr ""
+msgstr "<н/д>"
 
 # util.js
 #: msg.alert
 msgid "Alert"
-msgstr ""
+msgstr "Узбуна"
 
 #: msg.prompt
 msgid "Prompt"
-msgstr ""
+msgstr "Упит"
 
 #: msg.confirm
 msgid "Confirm"
-msgstr ""
+msgstr "Потврда"
 
 # command.js
 # ## Notes for localizers ###
@@ -141,15 +144,15 @@ msgstr ""
 # ## End of notes ###
 #: cmd.about.label
 msgid "About ChatZilla"
-msgstr ""
+msgstr "О четзили"
 
 #: cmd.about.help
 msgid "Display information about this version of ChatZilla."
-msgstr ""
+msgstr "Приказује податке о овом издању четзиле."
 
 #: cmd.alias.params
 msgid "[<alias-name> <command-list>]"
-msgstr ""
+msgstr "[<alias-name> <command-list>]"
 
 #: cmd.alias.help
 msgid ""
@@ -157,11 +160,11 @@ msgid ""
 "commands specified by <command-list>.  If <command-list> is a minus ('-') "
 "character, the alias will be removed.  If <alias-name> is not provided, all "
 "aliases will be listed."
-msgstr ""
+msgstr "Дефинише <alias-name> као алијас за списак команди одвојених тачка-запетом  („;‟) коју одређује списак <command-list>.  Ако је <command-list> знак минус („-‟), алијас ће бити уклоњен.  Ако <alias-name> није задато, биће исписани сви алијаси."
 
 #: cmd.attach.params
 msgid "<irc-url>"
-msgstr ""
+msgstr "<irc-url>"
 
 #: cmd.attach.help
 msgid ""
@@ -174,17 +177,17 @@ msgstr ""
 
 #: cmd.away.label
 msgid "Away (default)"
-msgstr ""
+msgstr "Одсутан (изворно)"
 
 #: cmd.away.format
 msgid "Away ($reason)"
-msgstr ""
+msgstr "Одсутан ($reason)"
 
 #: cmd.away.params cmd.disconnect.params cmd.disconnect-all.params
 #: cmd.exit.params cmd.reconnect.params cmd.reconnect-all.params
 #: cmd.quit.params cmd.rejoin.params
 msgid "[<reason>]"
-msgstr ""
+msgstr "[<reason>]"
 
 #: cmd.away.help
 msgid ""
@@ -194,7 +197,7 @@ msgstr ""
 
 #: cmd.back.label
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: cmd.back.params
 msgid "_: cmd.back.params\n"
@@ -202,20 +205,20 @@ msgstr ""
 
 #: cmd.back.help
 msgid "Marks you as no longer away."
-msgstr ""
+msgstr "Означава да више нисте одсутни."
 
 #: cmd.ban.label
 msgid "Ban"
-msgstr "Забр."
+msgstr "Забрани"
 
 #: cmd.ban.format
 msgid "Ban from $channelName"
-msgstr ""
+msgstr "Протерује корисника са $channelName"
 
 #: cmd.ban.params cmd.dcc-chat.params cmd.dcc-decline.params cmd.except.params
 #: cmd.nick.params cmd.time.params cmd.version.params
 msgid "[<nickname>]"
-msgstr ""
+msgstr "[<nickname>]"
 
 #: cmd.ban.help
 msgid ""

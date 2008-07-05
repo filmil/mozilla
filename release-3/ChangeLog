@@ -1,5 +1,8 @@
 2008-07-05  Filip Miletic  <filmil@gmail.com>
 
+	* po/sr/extensions/irc/chrome/chatzilla.properties.po: Started
+	translating chatzilla.
+
 	* po/sr/extensions/venkman/chrome/venkman.properties.po: Further
 	with the venkman translation.
 	Completely translated venkman.
