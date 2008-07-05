@@ -18,75 +18,72 @@ Contributors:
 
 <body>
 
-<h1>Controlling Popups</h1>
-<p>This document explains all of the &pref.plural; available in &brandFullName;
-  for controlling popups.</p>
+<h1>Контролисање искачућих менија</h1>
+<p>Овај документ објашњава све доступне  опције у &brandShortName;и
+  за контролисање искачућих менија.</p>
 
 <div class="contentsBox">
-  In this section:
+  У овом поглављу:
   <ul>
-    <li><a href="#what_are_popups">What are Popups?</a></li>
-    <li><a href="#popup_blocker_preferences">Popup Blocker &pref.pluralCaps;</a></li>
+    <li><a href="#what_are_popups">Шта су искачући менији?</a></li>
+    <li><a href="#popup_blocker_preferences"> Опције блокера искачућих менија </a></li>
   </ul>
 </div>
 
-<h2 id="what_are_popups">What are Popups?</h2>
-<p>Popup windows, or popups, are windows that appear automatically without your
-permission. They vary in size but usually don't cover the whole screen. Some popups
-open on top of the current &brandShortName; window, while others appear
-underneath &brandShortName; (popunders).</p>
+<h2 id="what_are_popups">Шта су искачући менији?</h2>
+<p> Прозори искачућих менија су прозори који се понављају аутоматски, без Ваше дозволе.
+ Њихова величина варира, али обично не покрива цео екран. Неки искачући менији се појављују на врху тренутно отвореног 
+ &brandShortName;иног прозора, док се други пјављују у дну прозора
+ &brandShortName;е (popanders).</p>
 
-<p>&brandShortName; allows you to control both popups and popunders through the
-<a href="prefs.xhtml#content_options">Content panel</a> in &pref.pluralCaps;.
-Popup blocking is turned on by default, so you don't have to worry about enabling it
-to prevent popups from appearing in &brandShortName;.</p>
+<p>&brandShortName;а Вам омогућава да контролишете искачуће меније и ускачуће меније путем панела
+<a href="prefs.xhtml#content_options">Садржај</a> u Опцијама.
+Блокирање искачућих менија је по правилу укључено тако да не морате да бринете о спречавању њиховог појављивања 
+ у &brandShortName;и.</p>
 
-<p>When blocking a popup, &brandShortName; displays an information bar, as well
-as an icon <img src="chrome://browser/skin/Info.png" width="16" height="16"
-alt=""/> in the status bar. When you click either the <em>&pref.pluralCaps;</em>
-button in the information bar or the icon in the status bar, a menu is displayed
-with the following choices:</p>
+<p>Када блокира искачући мени, &brandShortName;а приказује линију са информацијама, као и иконицу
+ <img src="chrome://browser/skin/Info.png" width="16" height="16"
+alt=""/> у статусној линији. Када кликнете било на  <em>Опције</em>
+дугме у линији са информацијама или на иконицу у статусној линији, приказује се мени са следећим опцијама:</p>
 
 <ul>
-  <li>Allow/Block popups for this site</li>
-  <li>Edit <a href="#popup_blocker_preferences">Popup Blocker
-    &pref.pluralCaps;...</a></li>
-  <li>Don't show this message (info message) when popups are blocked</li>
-  <li>(show a blocked popup)</li>
+  <li>Дозволи/Блокирај искачуће меније за овај сајт</li>
+  <li>Уреди <a href="#popup_blocker_preferences">искачући мени
+    Опција...</a></li>
+  <li>Не приказуј ову поруку (информативна порука), када су искачући менији блокирани </li>
+  <li>(прикажи блокирани искачући мени)</li>
 </ul>
 
-<p><strong>Blocking popups may interfere with some web sites</strong>: Some web sites,
-including some banking sites, use popups for important features. Blocking all popups
-disables such features. To allow specific web sites to use popups, while blocking
-all others, you can add specific web sites to the list of allowed sites.</p>
+<p><strong>Блокирање искачућих менија може да омета рад одређених сајтова</strong>: Неки веб сајтови,
+укључујући сајтове одређених банака, користе искачуће меније за важна обавештења. Блокирањем свих
+искачућих менија, онемогућавају се таква обавештења. За дозволу одређеним веб сајтовима да користе искачуће меније,
+док су сви остали блокирани, можете да додате одређене веб сајтове листи дозвољених сајтова.</p>
 
-<p><strong>Blocking popups doesn't always work</strong>: Although &brandShortName; blocks most
-popups, some web sites may show popups using uncovered methods, even when blocked.</p>
+<p><strong>Блокирање искачућих менија не функционише увек.</strong>:Иако &brandShortName;а блокира већину
+искачућих менија, неки веб сајтови могу да приказују искачуће меније користећи неблокиране методе, чак и кад су блокирани.</p>
 
-<h2 id="popup_blocker_preferences">Popup Blocker &pref.pluralCaps;</h2>
+<h2 id="popup_blocker_preferences">Блокер искачућих менија опција</h2>
 
-<p>The Popup Blocker &pref.pluralCaps; are located in the <a
-  href="prefs.xhtml#content_options">Content panel</a> of &pref.menuPath;.</p>
+<p>Искачући менији Опција се налазе у <a
+		href="prefs.xhtml#content_options">Panel sadržaja</a> u <span class="win menuPath">Алати &gt; Опције</span>.</p>
 
-<p>From there, you can do the following things:</p>
+<p>Одатле можете да реализујете следеће:</p>
 
 <ul>
-  <li><strong>Block pop-up windows</strong>: Deselect this &pref.singular; to
-    disable the popup blocker altogether.</li>
-  <li><strong>Exceptions dialog</strong>: This is a list of sites that you want to allow
-    to display popups. The dialog has the following choices:
+  <li><strong>Блокирате прозоре искачућих менија</strong>: Искључивањем  опције за блокирање, онемогућава се дејство блокера.</li>
+  <li><strong>Дијалог изузетака</strong>: Ово је листа сајтова којима желите да дозволите приказивање искачућих менија.
+    Дијалог нуди следеће опције:
   <ul>
-    <li><strong>Allow</strong>: Click this to add a web site to the exceptions list.</li>
-    <li><strong>Remove Site</strong>: Click this to remove a web site from the exceptions list.</li>
-    <li><strong>Remove All Sites</strong>: Click this to remove all of the web sites in
-      the exceptions list.</li>
+    <li><strong>Дозволи</strong>: Кликните овде да би додали веб сајт на листу изузетака.</li>
+    <li><strong>Уклони сајт</strong>: Кликните овде да би уклонили сајт са листе изузетака.</li>
+    <li><strong>Уклони све сајтове</strong>: Кликните овде да би уклонили све сајтове са листе изузетака. </li>
   </ul>
   </li>
 </ul>
 
-<p><strong>Note</strong>: Blocking popups may not always work and may interfere with
-some web sites. For more information about blocking popups, see
-<a href="#what_are_popups">What are Popups</a>.</p>
+<p><strong>Напомена</strong>: Блокирање искачућих менија не мора увек да функционише и може да омета рад одређених веб сајтова.
+ За више информација о блокирању искачућих менија погледајте
+<a href="#what_are_popups">Шта су искачући менији</a>.</p>
 
 <div class="contentsBox"><em>12 September 2005</em></div>
 <p>Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project.</p>
