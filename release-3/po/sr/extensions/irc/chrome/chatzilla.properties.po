@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-07-05 23:44+0200\n"
+"PO-Revision-Date: 2008-07-06 17:00+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -602,14 +602,14 @@ msgid ""
 "DCC view, in which case the DCC connection for that view will be closed. |"
 "type| and |file| may be needed to identify the connection. You can also use "
 "a regular expression for either <nickname> or <file>."
-msgstr ""
+msgstr "Затвара постојећу везу путем ДЦЦа (DCC). Надимак |nickname| може да се изостави ако је активан поглед на ДЦЦ, у ком ће случају бити затворена веза у тренутно активном погледу.  |type| и |file| ће можда бити потребни за идентификацију везе.  Можете да користите и регуларне изразе било за <nickname> било за <file>."
 
 #: cmd.dcc-decline.help
 msgid ""
 "Declines an incoming DCC Chat or Send offer. If a |nickname| is not "
 "specified, the last offer that arrived will be declined. You can also use a "
 "regular expression for <nickname>."
-msgstr ""
+msgstr "Одбија долазну понуду за разговор или слање путем ДЦЦа (DCC).  Ако надимак |nickname| није наведен, последња понуда која је пристигла биће одбијена.  Можете да користите регуларне изразе за <nickname>."
 
 #: cmd.dcc-list.params
 msgid "[<type>]"
@@ -619,7 +619,7 @@ msgstr "[<type>]"
 msgid ""
 "Lists the currently known about DCC offers and connections. This may be "
 "limited to just \"chat\" or \"send\" using the |type| parameter."
-msgstr ""
+msgstr "Исписује тренутни познате понуде преко ДЦЦа (DCC) и везе.  Ово може да се ограничи само на разговоре помоћу опције „chat‟ или „send‟ употребом параметра |type|."
 
 #: cmd.dcc-send.params
 msgid "[<nickname> [<file>]]"
@@ -630,7 +630,7 @@ msgid ""
 "Offers a file to |nickname|. On a query view, |nickname| may be omitted to "
 "send the offer to the query view's user. A file may be specified directly by "
 "passing |file| or, if omitted, selected from a browse dialog."
-msgstr ""
+msgstr "Нуди датотеку кориснику под надимком |nickname|.  На погледу са упитима, |nickname| може да се изостави, при чему се датотека шаље кориснику у тернутном погледу.  Датотека може да се зада директно прослеђивањем параметра |file| или, ако се изостави, може да се изабере из прозора за избор датотека."
 
 #: cmd.dcc-send.label
 msgid "Send File…"
@@ -648,11 +648,11 @@ msgstr "&Затвори језичак"
 msgid ""
 "Clear the current view, discarding *all* content, and drop its icon from the "
 "tab strip. If a channel view is deleted this way, you also leave the channel."
-msgstr ""
+msgstr "Чисти тренутни поглед, одбацује сав садржај и уклања сличицу из траке са сличицама.  Ако се на овај начин уклони поглед са каналом, такође ћете напустити тај канал."
 
 #: cmd.dehop.label
 msgid "Remove Half-operator Status"
-msgstr ""
+msgstr "Уклони статус полу-оператора"
 
 #: cmd.dehop.params cmd.deop.params cmd.devoice.params cmd.hop.params
 #: cmd.op.params cmd.userhost.params cmd.userip.params cmd.voice.params
@@ -664,17 +664,17 @@ msgstr "<nickname> [<...>]"
 msgid ""
 "Removes half-operator status from <nickname> on current channel. Requires "
 "operator status."
-msgstr ""
+msgstr "Уклања статус полу-оператора за надимак <nickname> на тренутном каналу.  Потребан је статус опрератора."
 
 #: cmd.deop.label
 msgid "Remove Operator Status"
-msgstr ""
+msgstr "Уклони статус оператора"
 
 #: cmd.deop.help
 msgid ""
 "Removes operator status from <nickname> on current channel. Requires "
 "operator status."
-msgstr ""
+msgstr "Уклања статус оператора за надимак <nickname> на тренутном каналу.  Потребан је статус оператора."
 
 #: cmd.desc.params
 msgid "[<description>]"
@@ -685,36 +685,36 @@ msgid ""
 "Changes the 'ircname' line returned when someone performs a /whois on you.  "
 "You must specify this *before* connecting to the network. If you omit "
 "<description>, the current description is shown."
-msgstr ""
+msgstr "Мења линију „ircname‟ која се шаље када неко изврши команду /whois на Вама.  Морате да наведете ово пре него што се повежете на мрежу.  Ако изоставите опис <description>, приказује се тренутни опис."
 
 #: cmd.devoice.label
 msgid "Remove Voice Status"
-msgstr ""
+msgstr "Одузми реч"
 
 #: cmd.devoice.help
 msgid ""
 "Removes voice status from <nickname> on current channel. Requires operator "
 "(or half-operator) status."
-msgstr ""
+msgstr "Одузима реч кориснику <nickname> на тренутном каналу.  Потребан је статус оператора или полу-оператора."
 
 #: cmd.disconnect.format
 msgid "Disconnect From $networkName"
-msgstr ""
+msgstr "Искључи се са мреже $networkName"
 
 #: cmd.disconnect.label
 msgid "&Disconnect"
-msgstr ""
+msgstr "&Искључење"
 
 #: cmd.disconnect.help
 msgid ""
 "Disconnects from the server represented by the active view when the command "
 "is executed providing the reason <reason> or the default reason if <reason> "
 "is not specified."
-msgstr ""
+msgstr "Искључује са сервера представљеног тренутним погледом када се команда изврши, и даје разлог <reason> или подразумевани разлог, ако разлог <reason> није наведен."
 
 #: cmd.disconnect-all.label
 msgid "&Disconnect From All Networks"
-msgstr ""
+msgstr "&Искључење са свих мрежа"
 
 #: cmd.disconnect-all.key
 msgid "accel D"
@@ -724,7 +724,7 @@ msgstr "accel D"
 msgid ""
 "Disconnects from all networks providing the reason <reason> or the default "
 "reason if <reason> is not specified."
-msgstr ""
+msgstr "Искључује се са свих мрежа, дајући разлог <reason> или изворни разлог, ако <reason> није наведен."
 
 #: cmd.echo.params cmd.say.params
 msgid "<message>"
@@ -733,7 +733,7 @@ msgstr "<message>"
 #: cmd.echo.help
 msgid ""
 "Displays <message> in the current view, but does not send it to the server."
-msgstr ""
+msgstr "Приказује поруку <message> у тренутном погледу, али је не шаље на сервер."
 
 #: cmd.enable-plugin.params cmd.reload-plugin.params cmd.disable-plugin.params
 msgid "<plugin>"
@@ -744,7 +744,7 @@ msgid ""
 "Meant to be used to re-enable a plugin after calling |disable-plugin|, this "
 "command calls the plugin's enablePlugin function.  There are no guarantees "
 "that the plugin will properly enable itself."
-msgstr ""
+msgstr "Користи се за поновно укључивање прикључка после позива |disable-plugin|.  Ова команда позива функцију enablePlugin.  Не гарантује се да ће прикључак умети исправно да се поново укључи."
 
 #: cmd.eval.params
 msgid "<expression>"
@@ -752,41 +752,41 @@ msgstr "<expression>"
 
 #: cmd.eval.help
 msgid "Evaluates <expression> as JavaScript code.  Not for the faint of heart."
-msgstr ""
+msgstr "Израчунава израз <expression> као јаваскрипт код.  Само за храбре."
 
 #: cmd.except.help
 msgid ""
 "Excepts a user from channel bans. A user's nickname may be specified, or a "
 "proper host mask can be used. Used without a nickname or mask, shows the "
 "list of exceptions currently in effect."
-msgstr ""
+msgstr "Изузима корисника од протеривања са канала.  Можете да наведете корисников надимак, или образац за име рачунара.  Када се користи без надимка или обрасца, показује тренутно важећи списак изузетака."
 
 #: cmd.exit.label
 msgid "E&xit ChatZilla"
-msgstr ""
+msgstr "&Напусти четзилу"
 
 #: cmd.exit.help
 msgid ""
 "Disconnects from all active servers and networks,  providing the reason "
 "<reason>, or the default reason if <reason> is not specified.  Exits "
 "ChatZilla after disconnecting."
-msgstr ""
+msgstr "Искључује се са свих активних сервера и мрежа, дајући разлог <reason>, или изворни разлог ако <reason> није наведен.  Напушта четзилу после искључења."
 
 #: cmd.exit-mozilla.label
 msgid "E&xit"
-msgstr ""
+msgstr "И&злаз"
 
 #: cmd.exit-mozilla.help
 msgid "Exit &brandShortName;."
-msgstr ""
+msgstr "Излаз из програма &brandShortName;."
 
 #: cmd.faq.label
 msgid "ChatZilla FAQ"
-msgstr ""
+msgstr "Четзилин ЧЕП"
 
 #: cmd.find.label
 msgid "&Find…"
-msgstr ""
+msgstr "&Нађи…"
 
 #: cmd.find.key
 msgid "accel F"
@@ -798,11 +798,11 @@ msgstr "[<rest>]"
 
 #: cmd.find.help
 msgid "Finds text in the current view."
-msgstr ""
+msgstr "Проналази текст у тренутном погледу."
 
 #: cmd.find-again.label
 msgid "Find A&gain"
-msgstr ""
+msgstr "Нађи &опет"
 
 #: cmd.find-again.key
 msgid "accel G"
@@ -814,7 +814,7 @@ msgstr ""
 
 #: cmd.find-again.help
 msgid "Finds the next instance of your previously searched word."
-msgstr ""
+msgstr "Налази наредну појаву претходно тражене речи."
 
 #: cmd.focus-input.key
 msgid "VK_ESCAPE"
@@ -822,7 +822,7 @@ msgstr "VK_ESCAPE"
 
 #: cmd.focus-input.help
 msgid "Force keyboard focus to the input box."
-msgstr ""
+msgstr "Преусмерава фокус тастатуре на тренутно поље за унос."
 
 #: cmd.font-family.params
 msgid "[<font>]"
