@@ -310,7 +310,7 @@ po/sr/extensions/irc/chrome/channels.dtd.po:	po/sr/extensions/irc/chrome/channel
 '
 msgfmt: found 1 fatal error
 11 translated messages.
-po/sr/extensions/irc/chrome/chatzilla.properties.po:	29 translated messages, 1137 untranslated messages.
+po/sr/extensions/irc/chrome/chatzilla.properties.po:	167 translated messages, 999 untranslated messages.
 po/sr/extensions/irc/chrome/config.dtd.po:	21 translated messages.
 po/sr/extensions/irc/chrome/chatzillaOverlay.dtd.po:	2 translated messages.
 po/sr/extensions/irc/chrome/pref-irc.dtd.po:	5 translated messages.

@@ -1,1 +1,18 @@
-po/sr/extensions/irc/chrome/chatzilla.properties.po:	0 translated messages, 1166 untranslated messages.
+Making a list of untranslated files...
+po/sr/mail/chrome/messenger/imapMsgs.properties.po:	85 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/start.dtd.po:	23 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/addressbook/addressBook.properties.po:	87 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po:	50 translated messages, 4 untranslated messages.
+po/sr/mail/chrome/messenger/addressbook/abMainWindow.dtd.po:	117 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/messenger.properties.po:	193 translated messages, 2 untranslated messages.
+po/sr/browser/chrome/browser/browser.dtd.po:	197 translated messages, 3 untranslated messages.
+po/sr/browser/chrome/browser/preferences/connection.dtd.po:	25 translated messages, 1 untranslated message.
+po/sr/browser/chrome/overrides/netError.dtd.po:	43 translated messages, 1 untranslated message.
+po/sr/extensions/irc/chrome/chatzilla.properties.po:	167 translated messages, 999 untranslated messages.
+po/sr/extensions/venkman/chrome/venkman.properties.po:	581 translated messages, 15 untranslated messages.
+po/sr/dom/chrome/xslt/xslt.properties.po:	32 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global-platform/mac/platformKeys.properties.po:	4 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/dialog.properties.po:	4 translated messages, 4 untranslated messages.
+po/sr/toolkit/chrome/global/viewSource.dtd.po:	30 translated messages, 3 untranslated messages.
+po/sr/toolkit/chrome/global/intl.properties.po:	14 translated messages, 2 untranslated messages.
+po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	28 translated messages, 3 untranslated messages.
