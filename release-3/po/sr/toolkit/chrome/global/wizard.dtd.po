@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2007-01-24 20:29+0100\n"
+"PO-Revision-Date: 2008-07-18 23:59+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,9 +53,9 @@ msgstr "Доврши"
 #: button-back-win.label
 #: button-back-win.accesskey
 msgid "&lt; &Back"
-msgstr "< На&зад"
+msgstr "&lt; На&зад"
 
 #: button-next-win.label
 #: button-next-win.accesskey
 msgid "&Next &gt;"
-msgstr "&Напред >"
+msgstr "&Напред &gt;"

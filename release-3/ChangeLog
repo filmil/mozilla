@@ -1,3 +1,8 @@
+2008-07-18  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/toolkit/chrome/global/wizard.dtd.po: Suggested patch for 
+	https://bugzilla.mozilla.org/show_bug.cgi?id=446084
+
 2008-07-06  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/extensions/irc/chrome/chatzilla.properties.po: 999
