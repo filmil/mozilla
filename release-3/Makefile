@@ -16,11 +16,13 @@ include Makefile.inc
 
 all: clean tryconv stats 
 
-# Слање измена у Мозилин ЦВС
-#publish: clean tryconv copytocvs 
-#	( MSG=`cat $(CVS_MSG)` ; \
-#	  $(CD) $(MOZILLA_CVS) ; \
-#          $(CVS) -z3 commit -m "$$MSG" )
+# Publish the changes to Mozilla's CVS
+# Don't forget to make sure that the file $(CVS_MESSAGE) contains the 
+# up-to-date message.
+publish: clean tryconv copytocvs 
+	( MSG=`cat $(CVS_MSG)` ; \
+	  $(CD) $(MOZILLA_CVS) ; \
+          $(CVS) -z3 commit -m "$$MSG" )
 
 copytocvs:
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/

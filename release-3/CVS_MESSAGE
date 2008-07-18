@@ -1,1 +1,9 @@
-Updated Serbian l10n.
+Fixes BUG 446084 --- check for updates dialog is broken.
+
+	  * Button labels contained characters "<" and ">", but should
+	  instead contain the respective HTML entities, &lt; and &gt.
+	  This patch corrects the problem, possibly leading to the solution
+	  of other dependent bugs.	  
+
+Approved by l10n@mozilla.com, see:
+https://bugzilla.mozilla.org/show_bug.cgi?id=446084#c11
