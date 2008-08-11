@@ -135,7 +135,9 @@ tryconv: $(OUTPUT_DIR)
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/custom.properties > /dev/null
 
 
+template-symlinks:
+	. scripts/make-locale-links.sh $(MOZILLA_SOURCE_DIR) $(TEMPLATE_SYMLINKS_DIR)
 
-
-
+template:
+	. scripts/copy-locale-followsymlinks.sh $(TEMPLATE_SYMLINKS_DIR) $(TEMPLATE_DIR)
 
