@@ -1,9 +1,0 @@
-Questions to the Mozilla development team
-------------------------------------------
-
-- What language label should it be: Serbian, or Српски for MOZ_LANG_TITLE?
-- Should I change ab-CD tags throughout to sr-RS?
-- Where can I find a fairly complete example locale, to learn from?
-
-
-
