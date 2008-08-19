@@ -104,51 +104,51 @@ msgstr "Позван је непознат наставак XPath функциј
 
 #: 15
 msgid "XPath parse failure: ')' expected:"
-msgstr "Грешка раставља XPath-а: очекујем ')':"
+msgstr "Грешка растављања XPath-а: очекујем ')':"
 
 #: 16
 msgid "XPath parse failure: invalid axis:"
-msgstr "Грешка раставља XPath-а: погрешна оса:"
+msgstr "Грешка растављања XPath-а: погрешна оса:"
 
 #: 17
 msgid "XPath parse failure: Name or Nodetype test expected:"
-msgstr "Грешка раставља XPath-а: очекујем проверу имена или типа:"
+msgstr "Грешка растављања XPath-а: очекујем проверу имена или типа:"
 
 #: 18
 msgid "XPath parse failure: ']' expected:"
-msgstr "Грешка раставља XPath-а: очекујем ']':"
+msgstr "Грешка растављања XPath-а: очекујем ']':"
 
 #: 19
 msgid "XPath parse failure: invalid variable name:"
-msgstr "Грешка раставља XPath-а: неисправно име променљиве:"
+msgstr "Грешка растављања XPath-а: неисправно име променљиве:"
 
 #: 20
 msgid "XPath parse failure: unexpected end of expression:"
-msgstr "Грешка раставља XPath-а: неочекивани крај израза:"
+msgstr "Грешка растављања XPath-а: неочекивани крај израза:"
 
 #: 21
 msgid "XPath parse failure: operator expected:"
-msgstr "Грешка раставља XPath-а: очекујем оператер"
+msgstr "Грешка растављања XPath-а: очекујем оператер"
 
 #: 22
 msgid "XPath parse failure: unclosed literal:"
-msgstr "Грешка раставља XPath-а: не затворен захтев:"
+msgstr "Грешка растављања XPath-а: не затворен захтев:"
 
 #: 23
 msgid "XPath parse failure: ':' unexpected:"
-msgstr "Грешка раставља XPath-а: ':' је неоговарајуће:"
+msgstr "Грешка растављања XPath-а: ':' је неоговарајуће:"
 
 #: 24
 msgid "XPath parse failure: '!' unexpected, negation is not():"
-msgstr "Грешка раставља XPath-а: '!' је неоговарајуће, негација је not():"
+msgstr "Грешка растављања XPath-а: '!' је неоговарајуће, негација је not():"
 
 #: 25
 msgid "XPath parse failure: illegal character found:"
-msgstr "Грешка раставља XPath-а: пронађен неодговарајући знак:"
+msgstr "Грешка растављања XPath-а: пронађен неодговарајући знак:"
 
 #: 26
 msgid "XPath parse failure: binary operator expected:"
-msgstr "Грешка раставља XPath-а: очекујем бинарни оператер:"
+msgstr "Грешка растављања XPath-а: очекујем бинарни оператер:"
 
 #: 27
 msgid "An XSLT stylesheet load was blocked for security reasons."

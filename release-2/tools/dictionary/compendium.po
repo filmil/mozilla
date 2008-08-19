@@ -51308,7 +51308,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: очекивана „)“\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: очекујем ')':"
+"Грешка растављања XPath-а: очекујем ')':"
 
 #: 16
 #, fuzzy
@@ -51317,7 +51317,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: неисправна оса:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: погрешна оса:"
+"Грешка растављања XPath-а: погрешна оса:"
 
 #: 17
 #, fuzzy
@@ -51326,7 +51326,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: Name или Nodetype очекивано:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: очекујем проверу имена или типа:"
+"Грешка растављања XPath-а: очекујем проверу имена или типа:"
 
 #: 18
 #, fuzzy
@@ -51335,7 +51335,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: „]“ очекивано:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: очекујем ']':"
+"Грешка растављања XPath-а: очекујем ']':"
 
 #: 19
 #, fuzzy
@@ -51344,7 +51344,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: неисправно име променљиве:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: неисправно име променљиве:"
+"Грешка растављања XPath-а: неисправно име променљиве:"
 
 #: 20
 #, fuzzy
@@ -51353,7 +51353,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: неочекиван крај израза:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: неочекивани крај израза:"
+"Грешка растављања XPath-а: неочекивани крај израза:"
 
 #: 21
 #, fuzzy
@@ -51362,7 +51362,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: очекиван оператор:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: очекујем оператер"
+"Грешка растављања XPath-а: очекујем оператер"
 
 #: 22
 #, fuzzy
@@ -51371,7 +51371,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: незатворен литерал:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: не затворен захтев:"
+"Грешка растављања XPath-а: не затворен захтев:"
 
 #: 23
 #, fuzzy
@@ -51380,7 +51380,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: неочекиване „:“\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: ':' је неоговарајуће:"
+"Грешка растављања XPath-а: ':' је неоговарајуће:"
 
 #: 24
 #, fuzzy
@@ -51389,7 +51389,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: „!“ неочекиван, негација је not():\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: '!' је неоговарајуће, негација је not():"
+"Грешка растављања XPath-а: '!' је неоговарајуће, негација је not():"
 
 #: 25
 #, fuzzy
@@ -51398,7 +51398,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: пронађен је неисправан знак:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: пронађен неодговарајући знак:"
+"Грешка растављања XPath-а: пронађен неодговарајући знак:"
 
 #: 26
 #, fuzzy
@@ -51407,7 +51407,7 @@ msgstr ""
 "#-#-#-#-#  thunderbird.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Грешка у распознавању XPathа: очекиван бинарни оператор:\n"
 "#-#-#-#-#  xslt.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Грешка раставља XPath-а: очекујем бинарни оператер:"
+"Грешка растављања XPath-а: очекујем бинарни оператер:"
 
 #: 27
 #, fuzzy
