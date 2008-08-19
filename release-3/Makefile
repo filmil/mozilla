@@ -124,14 +124,9 @@ compare-locales:
 
 tryconv: $(OUTPUT_DIR)
 	@echo "Try the conversion from UTF-8 to CP1251"
-	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/updater/updater.ini > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/updater/updater.ini > /dev/null
-	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/installer/override.properties > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/override.properties > /dev/null
-	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/installer/mui.properties > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/mui.properties > /dev/null
-	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/chrome/messenger/custom.properties > /dev/null
-	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/mail/installer/custom.properties > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/custom.properties > /dev/null
 
 
