@@ -19,9 +19,9 @@ POFILTER:=pofilter -t unchanged
 
 # # Directory configuration
 LOCALE_NAME:=sr
-L10N_BASE_DIR:=/home/filip/personal/l10n/mozilla
+L10N_BASE_DIR:=/home/filip/personal/l10n/mozilla/ff-3.1
 PO_TRANSLATIONS:=po/$(LOCALE_NAME)
-MOZILLA_SOURCE_DIR:=$(L10N_BASE_DIR)/mozilla-central
+MOZILLA_SOURCE_DIR:=$(L10N_BASE_DIR)/mozilla
 TEMPLATE_SYMLINKS_DIR:=$(L10N_BASE_DIR)/template-symlinks
 TEMPLATE_DIR:=$(L10N_BASE_DIR)/template
 MOZILLA_CVS:=$(L10N_BASE_DIR)/l10n
