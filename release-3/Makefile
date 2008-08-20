@@ -13,7 +13,7 @@ all: clean tryconv stats
 publish: clean tryconv copytocvs 
 	( MSG=`cat $(CVS_MSG)` ; \
 	  $(CD) $(MOZILLA_CVS) ; \
-          $(CVS) -z3 commit -m "$$MSG" )
+          $(CVS) commit -m "$$MSG" )
 
 copytocvs:
 	$(CP) -R $(OUTPUT_DIR)/* $(MOZILLA_CVS)/
