@@ -1,14 +1,5 @@
-## Датотека за прављење пакета за локализацију
+## -*- Makefile -*-
 ########################################################################
-## 
-## Овај скрипт садржи упутства за:
-##
-## 1. Увоз датотека за превођење из Мозилиног складишта и конверзију у
-##    ПО формат;
-## 2. Спајање нових датотека са старим и производњу дограђених
-##    датотека са преводима
-## 3. Конверзију превода у формат прихватљив за Мозилу
-##
 
 include Makefile.inc
 
@@ -46,7 +37,7 @@ clean:
 fixme:
 	$(FIND) $(PO_TRANSLATIONS) -name '*' -a ! -name '*.svn*' | $(XARGS) $(GREP) -n FIXME
 
-# Прављење превода од образаца и ПО датотека
+# Make a translation using the templates and the available PO files.
 $(OUTPUT_DIR):
 	$(MKDIR) -p $(OUTPUT_DIR)
 	$(PO2MOZ) -i $(PO_TRANSLATIONS) -o $(OUTPUT_DIR_FINAL) -t $(SOURCE_DIR)
@@ -57,56 +48,49 @@ $(OUTPUT_DIR):
 $(ZIPNAME): $(OUTPUT_DIR)
 	( $(CD) $(OUTPUT_DIR) ; $(ZIP)  -r ../$(ZIPNAME) sr )
 
-# Деоба завршне архиве на делове који могу да се поставе у Багзилу (Bugzilla)
+# Split the final archive to send to Bugzilla
 split: $(ZIPNAME)
 	split -b 290k $(ZIPNAME) $(ZIPNAME)-
 	@echo Produced files:
 	@ls $(ZIPNAME)-*
 
-# Прављење образаца за пренос.
-# SOURCE_DIR = изворни директоријум из Мозиле
-# POT_DIR = директоријум у кога се извозе ПОТ датотеке добијене из изворног
+# Transfer template.
+# SOURCE_DIR = the source directory from Mozilla
+# POT_DIR = directory to dump the produced POT files to
 pot: cleanpot
 	$(MOZ2PO) -i $(SOURCE_DIR) --pot -o $(POT_DIR)
 
 cleanpo: 
 	$(MOZ2PO) -i $(SOURCE_DIR)  -o $(PO_TRANSLATIONS)
 
-# На жалост, помиграте не узима у обзир датотеке које нису .по
-# А померге се збуњује око неких заглавља.
-# Користимо зато ОБА, да бисмо извукли све по датотеке и све помоћне датотеке
 mergepo:
 	$(POMERGE) --progress=names -x CVS -x .svn -t $(POT_DIR) -i $(PO_SOURCE_DIR) -o $(MERGED_PO_OUTPUT_DIR)
 	$(POMIGRATE) $(PO_SOURCE_DIR) $(MERGED_PO_OUTPUT_DIR) $(POT_DIR)
 
-# Чишћење директоријума са обрасцима (ПОТ)
+# Clean the directory with the POT templates
 cleanpot:
 	@echo "Cleaning the template directory"
 	@if [ -a $(POT_DIR) ]; then \
 		$(RMDIR) $(POT_DIR);  \
 	fi; 
 
-# Прављење новог директоријума 
-# ПАЖЊА: Не покретати овај циљ јер ће да пребрише сав превод који смо урадили!
-# 
-# УБР, чак и ако покренете није страшно јер чувамо и старе верзије
-# превода, али не треба правити посао без посла.
+# Make a new PO directory.
+# WARNING: Running this goal will overwrite the PO directory.
 initpo:
 	. $(SCRIPTS_DIR)/initpo.sh
 
-# Проналази изворне датотеке које одговарају полазној по имену
+# Finds the source files which match the initial ones by name.
 match:
 	. $(SCRIPTS_DIR)/match-files.sh
 
-
-# Прави први списак датотека, са убаченим преводима
+# Populates the script with the already translated files.
 populate:
 	. $(SCRIPTS_DIR)/populate-po.sh
 	. $(SCRIPTS_DIR)/process-double.sh
 	. $(SCRIPTS_DIR)/process-copyonly.sh
 	. $(SCRIPTS_DIR)/blind-copy.sh
 
-# Computes file statistics and updates the statistics file
+# Computes file statistics and updates the statistics records.
 stats:
 	. $(SCRIPTS_DIR)/stats.sh &> $(STATS_DIR)/stats.txt
 	. $(SCRIPTS_DIR)/untranslated.sh &> $(STATS_DIR)/untranslated.txt
@@ -123,16 +107,22 @@ compare-locales:
 	  $(CPLOC)  $(LOCALE_NAME) )
 
 tryconv: $(OUTPUT_DIR)
-	@echo "Try the conversion from UTF-8 to CP1251"
+	@echo "Trying the conversion from UTF-8 to CP1251"
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/updater/updater.ini > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/override.properties > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/mui.properties > /dev/null
 	$(ICONV) -f UTF-8 -t CP1251 $(OUTPUT_DIR)/sr/browser/installer/custom.properties > /dev/null
 
-
+# Use the Mozilla's source dir to make a template directory.
 template-symlinks:
-	. scripts/make-locale-links.sh $(MOZILLA_SOURCE_DIR) $(TEMPLATE_SYMLINKS_DIR)
+	. scripts/make-locale-links.sh \
+		$(MOZILLA_SOURCE_DIR) \
+		$(TEMPLATE_SYMLINKS_DIR)
 
-template:
-	. scripts/copy-locale-followsymlinks.sh $(TEMPLATE_SYMLINKS_DIR) $(TEMPLATE_DIR)
+# From the symlinked template directory, make a final template dir.
+# This dir will be used as the for the templates.
+template: template-symlinks
+	. scripts/copy-locale-followsymlinks.sh \
+		$(TEMPLATE_SYMLINKS_DIR) \
+		$(TEMPLATE_DIR)
 
