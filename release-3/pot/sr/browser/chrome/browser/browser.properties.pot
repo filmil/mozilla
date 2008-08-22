@@ -1,11 +1,10 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/mozapps/extensions/extensions.properties
-#, fuzzy
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-30 19:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2008-08-22 21:04+0200\n"
+"PO-Revision-Date: 2008-08-22 21:05+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -13,442 +12,417 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
+"Plural-Forms: 1\n"
 
-#: aboutWindowTitle
-msgctxt "aboutWindowTitle"
-msgid "About %S"
+#: nv_done
+msgid "Done"
 msgstr ""
 
-#: aboutWindowCloseButton
-msgid "Close"
+#: nv_timeout
+msgid "Timed Out"
 msgstr ""
 
-#: aboutWindowVersionString
-msgid "version %S"
+#: nv_stopped
+msgid "Stopped"
 msgstr ""
 
-#: aboutAddon
-msgctxt "aboutAddon"
-msgid "About %S"
+#: openFile
+msgid "Open File"
 msgstr ""
 
-#: updatingMsg
-msgid "Looking for updates…"
+#: droponbookmarksbutton
+msgid "Drop a link to bookmark it"
 msgstr ""
 
-#: updateCompatibilityMsg
-msgid "A compatibility update has been applied."
+#: dropondownloadsbutton
+msgid "Drop a link or file to download it"
 msgstr ""
 
-#: updateNoUpdateMsg
-msgctxt "updateNoUpdateMsg"
-msgid "No updates were found."
+#: droponnewtabbutton
+msgid "Drop a link or file to open it in a new tab"
 msgstr ""
 
-#: updateErrorMessage
-msgid "An error occurred while trying to find updates for %S."
+#: droponnewwindowbutton
+msgid "Drop a link or file to open it in a new window"
 msgstr ""
 
-#: updateDisabledMessage
-msgid "Updates are disabled for %S."
+#: droponhomebutton
+msgid "Drop a link or file to make it your home page"
 msgstr ""
 
-#: updateReadOnlyMessage
-msgid "Update not supported (install location is read only)."
+#: droponhometitle
+msgid "Set Home Page"
 msgstr ""
 
-#: updateNotManagedMessage
-msgid "Update not supported (install location is not managed by %S)."
+#: droponhomemsg
+msgid "Do you want this document to be your new home page?"
 msgstr ""
 
-#: incompatibleUpdateMessage
-msgid "%S is checking for a compatibility update to %S."
+#. # context menu strings
+#: contextMenuSearchText
+msgid "Search %S for \"%S\""
 msgstr ""
 
-#: installSuccess
-msgid "Install completed successfully"
+#: contextMenuSearchText.accesskey
+msgctxt "contextMenuSearchText.accesskey"
+msgid "S"
 msgstr ""
 
-#: installWaiting
-msgid "Waiting…"
+#: blockImages
+msgid "Block Images from %S"
 msgstr ""
 
-#: droppedInWarning
+#. # bookmark dialog strings
+#: bookmarkAllTabsDefault
+msgid "[Folder Name]"
+msgstr ""
+
+#: xpinstallPromptWarning
 msgid ""
-"The following items were found in your Extensions folder. Do you want to "
-"install them?"
+"%S prevented this site (%S) from asking you to install software on your "
+"computer."
 msgstr ""
 
-#: updateNotificationTitle
-msgid "Add-on updates found"
+#: xpinstallPromptAllowButton
+msgctxt "xpinstallPromptAllowButton"
+msgid "Allow"
 msgstr ""
 
-#: updateNotificationText
-msgid "%S has found an update for 1 of your add-ons"
+#. # Accessibility Note:
+#. # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+#. # See http://www.mozilla.org/access/keyboard/accesskey for details
+#: xpinstallPromptAllowButton.accesskey
+msgctxt "xpinstallPromptAllowButton.accesskey"
+msgid "A"
 msgstr ""
 
-#: multipleUpdateNotificationText
-msgid "%S has found updates for %S of your add-ons"
-msgstr ""
-
-#: uninstallButton
-msgid "Uninstall"
-msgstr ""
-
-#: disableButton
-msgid "Disable"
-msgstr ""
-
-#: cancelButton
-msgid "Cancel"
-msgstr ""
-
-#: restartMessage
-msgid "Restart %S to complete your changes."
-msgstr ""
-
-#: restartButton
-msgid "Restart %S"
-msgstr ""
-
-#: restartAccessKey
-msgid "R"
-msgstr ""
-
-#: laterButton
-msgid "Later"
-msgstr ""
-
-#: moreInfoText
-msgid "More information"
-msgstr ""
-
-#: uninstallTitle
-msgid "Uninstall %S"
-msgstr ""
-
-#: uninstallWarnDependMsg
-msgid ""
-"%S is required by one or more add-ons. If you continue, the following items "
-"will be disabled:"
-msgstr ""
-
-#: uninstallQueryMessage
-msgid "Do you want to uninstall %S?"
-msgstr ""
-
-#: cancelInstallTitle
-msgid "Cancel Install of %S"
-msgstr ""
-
-#: cancelInstallQueryMessage
-msgid "Are you sure you want to cancel the install of %S?"
-msgstr ""
-
-#: cancelInstallButton
-msgctxt "cancelInstallButton"
-msgid "Yes"
-msgstr ""
-
-#: cancelCancelInstallButton
-msgctxt "cancelCancelInstallButton"
-msgid "No"
-msgstr ""
-
-#: cancelUpgradeTitle
-msgid "Cancel Upgrade of %S"
-msgstr ""
-
-#: cancelUpgradeQueryMessage
-msgid "Are you sure you want to cancel the upgrade of %S?"
-msgstr ""
-
-#: cancelUpgradeButton
-msgctxt "cancelUpgradeButton"
-msgid "Yes"
-msgstr ""
-
-#: cancelCancelUpgradeButton
-msgctxt "cancelCancelUpgradeButton"
-msgid "No"
-msgstr ""
-
-#: disableTitle
-msgid "Disable %S"
-msgstr ""
-
-#: disableWarningDependMessage
-msgid ""
-"If you disable %S, the following items that require this extension will also "
-"be disabled:"
-msgstr ""
-
-#: disableQueryMessage
-msgid "Do you want to disable %S?"
-msgstr ""
-
-#: themesTitle
-msgid "Themes"
-msgstr ""
-
-#: extensionsTitle
-msgid "Extensions"
-msgstr ""
-
-#: type-32
-msgid "Multiple Extension Package"
-msgstr ""
-
-#: type-16
-msgid "Plugin"
-msgstr ""
-
-#: type-8
-msgid "Language"
-msgstr ""
-
-#: type-4
-msgid "Theme"
-msgstr ""
-
-#: type-2
-msgid "Extension"
-msgstr ""
-
-#: incompatibleTitle
-msgid "Incompatible %S"
-msgstr ""
-
-#: incompatibleMessage
-msgid "%S %S could not be installed because it is not compatible with %S %S."
-msgstr ""
-
-#: incompatibleThemeName
-msgid "this Theme"
-msgstr ""
-
-#: incompatibleExtension
-msgid "Disabled - not compatible with %S %S"
-msgstr ""
-
-#: incompatibleAddonMsg
-msgid "Not compatible with %S %S"
-msgstr ""
-
-#: insecureUpdateMessage
-msgid "\"%S\" will not be installed because it does not provide secure updates"
-msgstr ""
-
-#: invalidGUIDMessage
-msgid ""
-"\"%S\" could not be installed because of an error in its Install Manifest "
-"(\"%S\" is not a valid GUID). Please contact the author of this item about the "
-"problem."
-msgstr ""
-
-#: invalidVersionMessage
-msgid ""
-"\"%S\" could not be installed because of an error in its Install Manifest "
-"(\"%S\" is not a valid Version String). Please contact the author of this item "
-"about the problem."
-msgstr ""
-
-#: incompatiblePlatformMessage
-msgid ""
-"\"%S\" could not be installed because it is not compatible with your %S build "
-"type (%S). Please contact the author of this item about the problem."
-msgstr ""
-
-#: blocklistedInstallTitle
-msgid "This extension is not secure"
-msgstr ""
-
-#: blocklistedInstallMsg
-msgid "The extension %S is known to be dangerous, and can't be installed."
-msgstr ""
-
-#: blocklistNotifyTitle2
-msgid "Add-ons may be causing problems"
-msgstr ""
-
-#: blocklistNotifyMsg2
-msgid ""
-"%S has determined that the following add-ons may be unstable or insecure."
-msgstr ""
-
-#: blocklistRestartMsg2
-msgid "You should restart %S so that these add-ons can be disabled."
-msgstr ""
-
-#: missingFileTitle
-msgid "Missing File"
-msgstr ""
-
-#: missingFileMessage
-msgid "%S could not load this item because the file %S was missing."
-msgstr ""
-
-#: malformedMessage
-msgid ""
-"%S could not install this item because \"%S\" (provided by the item) is not "
-"well-formed or does not exist. Please contact the author about this problem."
-msgstr ""
-
-#: malformedTitle
-msgid "Malformed File"
-msgstr ""
-
-#: malformedRegistrationTitle
-msgid "Chrome Registration Failed"
-msgstr ""
-
-#: malformedRegistrationMessage
-msgid ""
-"%S could not install this item because of a failure in Chrome Registration. "
-"Please contact the author about this problem."
-msgstr ""
-
-#: invalidFileExtTitle
-msgid "Invalid File Extension"
-msgstr ""
-
-#: invalidFileExtMessage
-msgid ""
-"\"%S\" could not be installed because this item has an invalid file extension "
-"(%S is not a valid file extension for a %S). Please contact the author about "
-"this problem."
-msgstr ""
-
-#: missingPackageFilesTitle
-msgid "Missing Installation Files"
-msgstr ""
-
-#: missingPackageFilesMessage
-msgid ""
-"\"%S\" could not be installed because it does not contain a valid package (a "
-"%S must contain at least one extension or theme). Please contact the author "
-"about this problem."
-msgstr ""
-
-#: errorInstallTitle
-msgid "Error"
-msgstr ""
-
-#: errorInstallMsg
-msgid ""
-"%S could not install the file at \n"
-"\n"
-"%S\n"
-"\n"
-"because: %S"
-msgstr ""
-
-#: extensionFilter
-msgid "Extensions (*.xpi)"
-msgstr ""
-
-#: themesFilter
-msgid "Themes (*.jar)"
-msgstr ""
-
-#: installThemePickerTitle
-msgid "Select a theme to install"
-msgstr ""
-
-#: installExtensionPickerTitle
-msgid "Select an extension to install"
-msgstr ""
-
-#: dssSwitchAfterRestart
-msgid "Restart %S to use."
-msgstr ""
-
-#: finishedUpdateCheck
-msgid "Finished checking for updates to %S"
-msgstr ""
-
-#: updateAvailableMsg
-msgid "Version %S is available."
-msgstr ""
-
-#: xpinstallDisabledMsgLocked
+#: xpinstallDisabledMessageLocked
 msgid "Software installation has been disabled by your system administrator."
 msgstr ""
 
-#: xpinstallDisabledMsg
+#: xpinstallDisabledMessage
 msgid ""
 "Software installation is currently disabled. Click Enable and try again."
 msgstr ""
 
-#. # LOCALIZATION NOTE: Semi-colon list of plural forms.
-#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
-#: newAddonsNotificationMsg2
-msgid "%S new add-on has been installed.;%S new add-ons have been installed."
-msgstr ""
-
-#: safeModeMsg
-msgid "All add-ons have been disabled by safe mode."
-msgstr ""
-
-#: disabledCompatMsg
-msgid ""
-"Add-on compatibility checking is disabled. You may have incompatible add-"
-"ons."
-msgstr ""
-
-#: disabledUpdateSecurityMsg
-msgid ""
-"Add-on update security checking is disabled. You may be compromised by "
-"updates."
-msgstr ""
-
-#: noUpdatesMsg
-msgctxt "noUpdatesMsg"
-msgid "No updates were found."
-msgstr ""
-
-#: offlineUpdateMsg
-msgid ""
-"%S is currently in offline mode and is unable to update Add-ons. Click Go "
-"Online and try again."
-msgstr ""
-
-#: offlineSearchMsg
-msgid ""
-"%S is currently in offline mode and is unable to search for add-ons. Click "
-"Go Online and try again."
-msgstr ""
-
-#: enableButtonLabel
+#: xpinstallDisabledButton
 msgid "Enable"
 msgstr ""
 
-#: enableButtonAccesskey
+#: xpinstallDisabledButton.accesskey
 msgid "n"
 msgstr ""
 
-#: goOnlineButtonLabel
-msgid "Go Online"
+#: popupWarning
+msgid "%S prevented this site from opening a pop-up window."
 msgstr ""
 
-#: goOnlineButtonAccesskey
-msgid "G"
+#: popupWarningMultiple
+msgid "%S prevented this site from opening %S pop-up windows."
 msgstr ""
 
-#: newUpdateWindowTitle
-msgid "%S Add-on Updates"
+#: popupWarningButton
+msgid "Options"
 msgstr ""
 
-#: newUpdatesAvailableMsg
-msgid "There are new updates available for your add-ons."
+#: popupWarningButton.accesskey
+msgid "O"
 msgstr ""
 
-#: searchResults
-msgid "See all results (%S)"
+#: popupWarningButtonUnix
+msgid "Preferences"
 msgstr ""
 
-#: eulaHeader
+#: popupWarningButtonUnix.accesskey
+msgid "P"
+msgstr ""
+
+#: popupAllow
+msgid "Allow pop-ups for %S"
+msgstr ""
+
+#: popupBlock
+msgid "Block pop-ups for %S"
+msgstr ""
+
+#: popupWarningDontShowFromMessage
+msgid "Don't show this message when pop-ups are blocked"
+msgstr ""
+
+#: popupWarningDontShowFromStatusbar
+msgid "Don't show info message when pop-ups are blocked"
+msgstr ""
+
+#: popupShowPopupPrefix
+msgid "Show '%S'"
+msgstr ""
+
+#: imageBlockedWarning
+msgid "%S will now always block images from %S."
+msgstr ""
+
+#: imageAllowedWarning
+msgid "%S will now allow images from %S."
+msgstr ""
+
+#: undo
+msgid "Undo"
+msgstr ""
+
+#: undo.accessKey
+msgctxt "undo.accessKey"
+msgid "U"
+msgstr ""
+
+#. # missing plugin installer
+#: missingpluginsMessage.title
+msgid "Additional plugins are required to display all the media on this page."
+msgstr ""
+
+#: missingpluginsMessage.button.label
+msgid "Install Missing Plugins…"
+msgstr ""
+
+#: missingpluginsMessage.button.accesskey
+msgid "I"
+msgstr ""
+
+#: blockedpluginsMessage.title
 msgid ""
-"%S requires that you accept the following End User License Agreement before "
-"installation can proceed:"
+"Some plugins required by this page have been blocked for your protection."
+msgstr ""
+
+#: blockedpluginsMessage.infoButton.label
+msgid "Details…"
+msgstr ""
+
+#: blockedpluginsMessage.infoButton.accesskey
+msgid "D"
+msgstr ""
+
+#: blockedpluginsMessage.searchButton.label
+msgid "Update Plugins…"
+msgstr ""
+
+#: blockedpluginsMessage.searchButton.accesskey
+msgctxt "blockedpluginsMessage.searchButton.accesskey"
+msgid "U"
+msgstr ""
+
+#. # Sanitize
+#: sanitizeWithPromptLabel
+msgid "Clear Private Data…"
+msgstr ""
+
+#: sanitizeButton
+msgid "Clear Private Data Now"
+msgstr ""
+
+#. # Check for Updates
+#: updatesItem_default
+msgctxt "updatesItem_default"
+msgid "Check for Updates…"
+msgstr ""
+
+#: updatesItem_defaultFallback
+msgctxt "updatesItem_defaultFallback"
+msgid "Check for Updates…"
+msgstr ""
+
+#: updatesItem_downloading
+msgid "Downloading %S…"
+msgstr ""
+
+#: updatesItem_downloadingFallback
+msgid "Downloading Update…"
+msgstr ""
+
+#: updatesItem_resume
+msgid "Resume Downloading %S…"
+msgstr ""
+
+#: updatesItem_resumeFallback
+msgid "Resume Downloading Update…"
+msgstr ""
+
+#: updatesItem_pending
+msgctxt "updatesItem_pending"
+msgid "Apply Downloaded Update Now…"
+msgstr ""
+
+#: updatesItem_pendingFallback
+msgctxt "updatesItem_pendingFallback"
+msgid "Apply Downloaded Update Now…"
+msgstr ""
+
+#. # RSS Pretty Print
+#: feedNoFeeds
+msgid "Page has no feeds"
+msgstr ""
+
+#: feedShowFeedNew
+msgid "Subscribe to '%S'…"
+msgstr ""
+
+#: feedHasFeedsNew
+msgid "Subscribe to this page…"
+msgstr ""
+
+#. # History menu
+#: menuOpenAllInTabs.label
+msgid "Open All in Tabs"
+msgstr ""
+
+#: menuOpenAllInTabs.accesskey
+msgid "o"
+msgstr ""
+
+#. # Unified Back-/Forward Popup
+#: tabHistory.current
+msgid "Stay on this page"
+msgstr ""
+
+#: tabHistory.goBack
+msgid "Go back to this page"
+msgstr ""
+
+#: tabHistory.goForward
+msgid "Go forward to this page"
+msgstr ""
+
+#. # Block autorefresh
+#: refreshBlocked.goButton
+msgctxt "refreshBlocked.goButton"
+msgid "Allow"
+msgstr ""
+
+#: refreshBlocked.goButton.accesskey
+msgctxt "refreshBlocked.goButton.accesskey"
+msgid "A"
+msgstr ""
+
+#: refreshBlocked.refreshLabel
+msgid "%S prevented this page from automatically reloading."
+msgstr ""
+
+#: refreshBlocked.redirectLabel
+msgid "%S prevented this page from automatically redirecting to another page."
+msgstr ""
+
+#. # Star button
+#: starButtonOn.tooltip
+msgid "Edit this bookmark"
+msgstr ""
+
+#: starButtonOff.tooltip
+msgid "Bookmark this page"
+msgstr ""
+
+#. # Offline web applications
+#: offlineApps.available
+msgid ""
+"This website (%S) is asking to store data on your computer for offline use."
+msgstr ""
+
+#: offlineApps.allow
+msgctxt "offlineApps.allow"
+msgid "Allow"
+msgstr ""
+
+#: offlineApps.allowAccessKey
+msgctxt "offlineApps.allowAccessKey"
+msgid "A"
+msgstr ""
+
+#: offlineApps.never
+msgid "Never for This Site"
+msgstr ""
+
+#: offlineApps.neverAccessKey
+msgid "e"
+msgstr ""
+
+#: offlineApps.notNow
+msgid "Not Now"
+msgstr ""
+
+#: offlineApps.notNowAccessKey
+msgid "N"
+msgstr ""
+
+#: offlineApps.usage
+msgid ""
+"This website (%S) is now storing more than %SMB of data on your computer for "
+"offline use."
+msgstr ""
+
+#: offlineApps.manageUsage
+msgid "Show settings"
+msgstr ""
+
+#: offlineApps.manageUsageAccessKey
+msgctxt "offlineApps.manageUsageAccessKey"
+msgid "S"
+msgstr ""
+
+#: identity.identified.verifier
+msgid "Verified by: %S"
+msgstr ""
+
+#: identity.identified.verified_by_you
+msgid "You have added a security exception for this site"
+msgstr ""
+
+#: identity.identified.state_and_country
+msgid "%S, %S"
+msgstr ""
+
+#: identity.identified.title_with_country
+msgid "%S (%S)"
+msgstr ""
+
+#: identity.encrypted
+msgid "Your connection to this web site is encrypted to prevent eavesdropping."
+msgstr ""
+
+#: identity.unencrypted
+msgid "Your connection to this web site is not encrypted."
+msgstr ""
+
+#: identity.unknown.tooltip
+msgid "This web site does not supply identity information."
+msgstr ""
+
+#: identity.ownerUnknown2
+msgid "(unknown)"
+msgstr ""
+
+#. # Downloads Monitor Panel
+#. # LOCALIZATION NOTE (activeDownloads, pausedDownloads): Semi-colon list of plural
+#. # forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of downloads; #2 time left
+#. # examples: One active download (2 minutes remaining); 11 paused downloads
+#: activeDownloads
+msgid "One active download (#2);#1 active downloads (#2)"
+msgstr ""
+
+#: pausedDownloads
+msgid "One paused download;#1 paused downloads"
+msgstr ""
+
+#. # Edit Bookmark UI
+#: editBookmarkPanel.pageBookmarkedTitle
+msgid "Page Bookmarked"
+msgstr ""
+
+#: editBookmarkPanel.pageBookmarkedDescription
+msgid "%S will always remember this page for you."
+msgstr ""
+
+#: editBookmarkPanel.bookmarkedRemovedTitle
+msgid "Bookmark Removed"
+msgstr ""
+
+#: editBookmarkPanel.editBookmarkTitle
+msgid "Edit This Bookmark"
 msgstr ""

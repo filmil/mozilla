@@ -1,10 +1,10 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/places/places.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/places.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-04 20:05+0200\n"
-"PO-Revision-Date: 2008-04-04 20:06+0200\n"
+"POT-Creation-Date: 2008-08-22 21:12+0200\n"
+"PO-Revision-Date: 2008-08-22 21:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -149,14 +149,11 @@ msgid "S"
 msgstr "с"
 
 #: defaultGroupOffLabel
-#: livemarkGroupOffLabel
 msgctxt "defaultGroupOffLabel"
 msgid "No Grouping"
 msgstr "Без груписања"
 
 #: defaultGroupOffAccesskey
-#: livemarkGroupOffAccesskey
-#: view.sortBy.name.accesskey
 msgctxt "defaultGroupOffAccesskey"
 msgid "N"
 msgstr "Б"
@@ -170,14 +167,11 @@ msgid "F"
 msgstr "Д"
 
 #: livemarkGroupOffLabel
-#: defaultGroupOffLabel
 msgctxt "livemarkGroupOffLabel"
 msgid "No Grouping"
 msgstr "Без груписања"
 
 #: livemarkGroupOffAccesskey
-#: defaultGroupOffAccesskey
-#: view.sortBy.name.accesskey
 msgctxt "livemarkGroupOffAccesskey"
 msgid "N"
 msgstr "Б"
@@ -199,13 +193,11 @@ msgid "Sort '%S' by Name"
 msgstr "Поређај по имену: „%S‟"
 
 #: sortByNameGeneric
-#: view.sortBy.name.label
 msgctxt "sortByNameGeneric"
 msgid "Sort by Name"
 msgstr "Поређај по имену"
 
 #: view.sortBy.name.label
-#: sortByNameGeneric
 msgctxt "view.sortBy.name.label"
 msgid "Sort by Name"
 msgstr "Поређај по имену"
@@ -337,9 +329,9 @@ msgstr "Сачувај претрагу"
 msgid "Name:"
 msgstr "Име:"
 
-#: saveSearch.defaultText
-msgid "New Query"
-msgstr "Нови упит"
+#: saveSearch.inputDefaultText
+msgid "New Search"
+msgstr "Нова претрага"
 
 #: detailsPane.noItems
 msgid "No items"
