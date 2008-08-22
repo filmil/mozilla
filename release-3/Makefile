@@ -61,7 +61,7 @@ pot: cleanpot
 	$(MOZ2PO) -i $(SOURCE_DIR) --pot -o $(POT_DIR)
 
 # Merges old translations with newly generated POT files
-mergepo:
+mergepo: pot
 	$(POMERGE) --progress=names -x CVS -x .svn -t $(POT_DIR) \
 	           -i $(PO_SOURCE_DIR) -o $(MERGED_PO_OUTPUT_DIR)
 	$(POMIGRATE) $(PO_SOURCE_DIR) $(MERGED_PO_OUTPUT_DIR) $(POT_DIR)
