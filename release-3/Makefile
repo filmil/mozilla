@@ -81,8 +81,9 @@ stats:
 
 # Checks the current locale agains the original en-US locale
 compare-locales:
-	( cd $(MOZILLA_CVS)/.. ; \
-	  $(CPLOC)  $(LOCALE_NAME) )
+	@echo "Checking locales"
+	@( cd $(MOZILLA_CVS)/.. ; \
+	  $(CPLOC) $(MOZILLA_BROWSER_L10N_INI) $(MOZILLA_CVS) $(LOCALE_NAME) )
 
 tryconv: $(OUTPUT_DIR)
 	@echo "Trying the conversion from UTF-8 to CP1251"
