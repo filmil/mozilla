@@ -10,6 +10,7 @@
 # $1 source_dir
 # $2 dest_dir
 
+rm -fr $2
 mkdir -p $2
 
 # Browser
