@@ -48,3 +48,11 @@ check:
 	@find po/source ! -wholename '*\.svn*' | wc -l
 	@echo Files in $(PO_TRANSLATIONS)/
 	@find $(PO_TRANSLATIONS) ! -wholename '*\.svn*' | wc -l
+
+# Zips the translation directory for sending to Bugzilla.
+# This was the way to send l10n before I had write access to the
+# Mozilla repository.
+# Unused now.
+$(ZIPNAME): $(OUTPUT_DIR)
+	( $(CD) $(OUTPUT_DIR) ; $(ZIP)  -r ../$(ZIPNAME) sr )
+

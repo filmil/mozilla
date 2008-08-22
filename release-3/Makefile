@@ -54,9 +54,6 @@ $(OUTPUT_DIR):
 	( cd $(OUTPUT_DIR) ; find -wholename '*.svn' | xargs rm -fr ) 
 	. scripts/patch.sh
 
-$(ZIPNAME): $(OUTPUT_DIR)
-	( $(CD) $(OUTPUT_DIR) ; $(ZIP)  -r ../$(ZIPNAME) sr )
-
 # Transfer template.
 # SOURCE_DIR = the source directory from Mozilla
 # POT_DIR = directory to dump the produced POT files to
