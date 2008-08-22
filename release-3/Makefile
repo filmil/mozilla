@@ -57,7 +57,7 @@ $(OUTPUT_DIR):
 # Transfer template.
 # SOURCE_DIR = the source directory from Mozilla
 # POT_DIR = directory to dump the produced POT files to
-pot: cleanpot
+pot: 
 	$(MOZ2PO) -i $(SOURCE_DIR) --pot -o $(POT_DIR)
 
 # Merges old translations with newly generated POT files
