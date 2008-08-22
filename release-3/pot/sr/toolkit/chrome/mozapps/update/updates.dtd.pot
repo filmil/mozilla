@@ -1,28 +1,26 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/update/updates.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/update/updates.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-08-23 00:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: updateWizard.title
 msgid "Software Update"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"36em"
+msgid "36em"
 msgstr ""
 
 #: window.macWidth
@@ -46,13 +44,22 @@ msgstr ""
 msgid "No Updates Found"
 msgstr ""
 
-#: noupdatesfound.intro
-msgid "There are no new updates available. &brandShortName; may check "
-"periodically for new updates."
+#: noupdatesautoenabled.intro
+msgid ""
+"There are no updates available. &brandShortName; will check \n"
+"periodically for updates."
+msgstr ""
+
+#: noupdatesautodisabled.intro
+msgid ""
+"There are no updates available. Please check again later or enable \n"
+"&brandShortName;'s automatic update checking."
 msgstr ""
 
 #: incompatibleChecking.label
-msgid "Checking if this update will cause problems with your extensions and/or themes…"
+msgid ""
+"Checking if this update will cause problems with your extensions and/or "
+"themes…"
 msgstr ""
 
 #: clickHere.label
@@ -60,7 +67,8 @@ msgid "View more information about this update"
 msgstr ""
 
 #: incompatible.warning
-msgid "This update will cause some of your extensions and/or themes "
+msgid ""
+"This update will cause some of your extensions and/or themes \n"
 "to stop working until they are updated."
 msgstr ""
 
@@ -70,12 +78,14 @@ msgid "Show &List"
 msgstr ""
 
 #: upgrade.evangelism
-msgid "It is strongly recommended that you upgrade &brandShortName; "
+msgid ""
+"It is strongly recommended that you upgrade &brandShortName; \n"
 "as soon as possible."
 msgstr ""
 
 #: license.instructions
-msgid "If you agree to the terms of this agreement, click I Agree "
+msgid ""
+"If you agree to the terms of this agreement, click I Agree \n"
 "below to continue installing this update."
 msgstr ""
 
@@ -88,7 +98,9 @@ msgid "Terms and conditions for using this software."
 msgstr ""
 
 #: license.instructionText
-msgid "Please read the following license agreement. Use the scroll bar to view the rest of this agreement."
+msgid ""
+"Please read the following license agreement. Use the scroll bar to view the "
+"rest of this agreement."
 msgstr ""
 
 #: license.accept
@@ -120,13 +132,14 @@ msgid "Connecting to the update server…"
 msgstr ""
 
 #: verificationFailedText.label
-msgid "&brandShortName; was unable to verify the integrity of the "
-"incremental update it downloaded, so it is now downloading "
+msgid ""
+"&brandShortName; was unable to verify the integrity of the \n"
+"incremental update it downloaded, so it is now downloading \n"
 "the complete update package."
 msgstr ""
 
 #: details.link
-#: update.details.label
+msgctxt "details.link"
 msgid "Details"
 msgstr ""
 
@@ -141,12 +154,14 @@ msgid "&Close"
 msgstr ""
 
 #: error.label
-msgid "There were problems checking for, downloading, or installing this "
+msgid ""
+"There were problems checking for, downloading, or installing this \n"
 "update. &brandShortName; could not be updated because:"
 msgstr ""
 
 #: errorManual.label
-msgid "You can update &brandShortName; manually by visiting this link "
+msgid ""
+"You can update &brandShortName; manually by visiting this link \n"
 "and downloading the latest version:"
 msgstr ""
 
@@ -155,7 +170,8 @@ msgid "Update Failed"
 msgstr ""
 
 #: errorpatching.intro
-msgid "The partial Update could not be applied. "
+msgid ""
+"The partial Update could not be applied. \n"
 "&brandShortName; will try again by downloading a complete Update."
 msgstr ""
 
@@ -164,7 +180,8 @@ msgid "Update Downloaded"
 msgstr ""
 
 #: finished.text
-msgid "The update was successfully downloaded and verified, and it will "
+msgid ""
+"The update was successfully downloaded and verified, and it will \n"
 "be installed the next time &brandShortName; starts."
 msgstr ""
 
@@ -173,7 +190,8 @@ msgid "Update Ready to Install"
 msgstr ""
 
 #: finishedBackground.text
-msgid "&brandShortName; has downloaded and verified an important update. "
+msgid ""
+"&brandShortName; has downloaded and verified an important update. \n"
 "Click the link below for more details."
 msgstr ""
 
@@ -181,16 +199,15 @@ msgstr ""
 msgid "Update:"
 msgstr ""
 
+#. This string describes the button label defined by restartButton in updates.properties.
 #: finishedBackground.more1
-msgid ""
-"_: This string describes the button label defined by restartButton in updates.properties.\n"
-"Click Restart &brandShortName; Now to install the update now."
+msgid "Click Restart &brandShortName; Now to install the update now."
 msgstr ""
 
+#. This string describes the button label defined by notNowButton in updates.properties.
 #: finishedBackground.textNotNow
 msgid ""
-"_: This string describes the button label defined by notNowButton in updates.properties.\n"
-"Click Not Now to close this dialog and continue working. &brandShortName; "
+"Click Not Now to close this dialog and continue working. &brandShortName; \n"
 "will install the update the next time it starts."
 msgstr ""
 
@@ -204,6 +221,11 @@ msgstr ""
 
 #: whatsnew.label
 msgid "Read more about what's new…"
+msgstr ""
+
+#: update.details.label
+msgctxt "update.details.label"
+msgid "Details"
 msgstr ""
 
 #: update.installedOn.label

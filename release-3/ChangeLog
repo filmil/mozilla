@@ -1,3 +1,8 @@
+2008-08-23  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/toolkit/crashreporter/crashreporter.ini.po: Updated
+	translations for Firefox 3.1
+
 2008-07-18  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/toolkit/chrome/global/wizard.dtd.po: Suggested patch for 

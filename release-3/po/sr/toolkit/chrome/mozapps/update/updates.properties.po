@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/update/updates.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/update/updates.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
-"PO-Revision-Date: 2008-03-18 01:42+0100\n"
+"POT-Creation-Date: 2008-08-23 00:04+0200\n"
+"PO-Revision-Date: 2008-08-23 00:07+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
 #: updateName
@@ -30,14 +29,6 @@ msgstr "Ново издање"
 msgid "Security Update"
 msgstr "Безбедносна доградња"
 
-#: introType_minor
-msgid "An important Security Update for %S is available:"
-msgstr "Доступна је важна безбедносна доградња за програм %S:"
-
-#: introType_major
-msgid "A new version of %S is available:"
-msgstr "Доступно је ново издање за програм %S:"
-
 #: introType_minor_app
 msgid "An update for %S is available:"
 msgstr "Доступна је доградња за програм %S:"
@@ -54,46 +45,30 @@ msgstr "Програм %S не може да потврди веродостој
 msgid "Update Failed"
 msgstr "Доградња није успела"
 
-#: IAgree
-msgid "I Agree"
-msgstr "Саглашавам се"
-
-#: IAgree.accesskey
-msgid "A"
-msgstr "A"
-
-#: IDoNotAgree
-msgid "I Disagree"
-msgstr "Не саглашавам се"
-
-#: IDoNotAgree.accesskey
-#: downloadButton.accesskey
-#: downloadButton_minor.accesskey
-msgid "D"
-msgstr "D"
-
-#: license404Error
-msgid "The license file could not be found. Please contact the distributor."
-msgstr "Лиценцу је немогуће пронаћи. Молим обавестите дистрибутора."
-
-#: downloadingLicense
-msgid "Downloading license text..."
-msgstr "Пријем текста лиценце..."
-
 #: licenseContentNotFound
-msgid "The license file for this version could not be found. Please visit the %S homepage for more information."
-msgstr "Датотека са лиценцом за ово издање није нађена.  Молимо да посетите мрежну страну за програм %S за више података."
+msgid ""
+"The license file for this version could not be found. Please visit the %S "
+"homepage for more information."
+msgstr ""
+"Датотека са лиценцом за ово издање није нађена.  Молимо да посетите мрежну "
+"страну за програм %S за више података."
 
 #: updateMoreInfoContentNotFound
-msgid "Additional details about this version could not be found. Please visit the %S homepage for more information."
-msgstr "Додатни детаљи о овом издању нису пронађени. Молимо да посетите мрежну страну за програм %S за више података."
+msgid ""
+"Additional details about this version could not be found. Please visit the "
+"%S homepage for more information."
+msgstr ""
+"Додатни детаљи о овом издању нису пронађени. Молимо да посетите мрежну "
+"страну за програм %S за више података."
 
 #: licenseContentDownloading
-msgid "Getting license for %S %S..."
+#, fuzzy
+msgid "Getting license for %S %S…"
 msgstr "Пријем лиценце: %S %S..."
 
 #: updateMoreInfoContentDownloading
-msgid "Getting more details about %S %S..."
+#, fuzzy
+msgid "Getting more details about %S %S…"
 msgstr "Пријем детаља: %S %S..."
 
 #: statusSucceededFormat
@@ -182,6 +157,7 @@ msgstr "на #1"
 
 #: progressFormat
 #: statusFormat
+msgctxt "progressFormat"
 msgid "#1#2"
 msgstr "#1#2"
 
@@ -189,8 +165,15 @@ msgstr "#1#2"
 msgid "; #1 #2"
 msgstr "; #1 #2"
 
+#: statusFormat
+#: progressFormat
+msgctxt "statusFormat"
+msgid "#1#2"
+msgstr "#1#2"
+
 #: downloadingPrefix
-msgid "Downloading %S..."
+#, fuzzy
+msgid "Downloading %S…"
 msgstr "Пријем: %S..."
 
 #: pausedName
@@ -205,10 +188,16 @@ msgstr "Поново покрени програм %S"
 msgid "R"
 msgstr "R"
 
-#: downloadButton
 #: downloadButton_minor
+#: downloadButton
 msgid "Download & Install Now »"
 msgstr "Преузми и постави одмах »"
+
+#: downloadButton_minor.accesskey
+#: IDoNotAgree.accesskey
+#: downloadButton.accesskey
+msgid "D"
+msgstr "D"
 
 #: downloadButton_major
 msgid "Get the new version »"
@@ -218,13 +207,13 @@ msgstr "Набави ново издање »"
 msgid "G"
 msgstr "G"
 
-#: laterButton
-msgid "Later"
-msgstr "Касније"
+#: notNowButton
+msgid "Not Now"
+msgstr "Не сада"
 
-#: laterButton.accesskey
-msgid "a"
-msgstr "a"
+#: notNowButton.accesskey
+msgid "o"
+msgstr "е"
 
 #: neverButton
 msgid "Never"
@@ -232,20 +221,20 @@ msgstr "Никада"
 
 #: neverButton.accesskey
 msgid "N"
-msgstr "N"
+msgstr "Н"
 
-#: restartLaterTitle
 #: resumePausedAfterCloseTitle
+#: restartLaterTitle
 msgid "Software Update"
 msgstr "Доградња програма"
 
-#: restartLaterMsg
-msgid "The update will be installed the next time %S starts."
-msgstr "Доградња че бити постављена при следећем покретању програма %S."
-
 #: resumePausedAfterCloseMessage
-msgid "You have paused downloading this update. Do you want %S to download the update in the background while you continue to browse?"
-msgstr "Паузирали сте преузимање овог унапређења. Да ли желите да %S преузима унапређења у позадини док ви наставите са радом?"
+msgid ""
+"You have paused downloading this update. Do you want %S to download the "
+"update in the background while you continue to browse?"
+msgstr ""
+"Паузирали сте преузимање овог унапређења. Да ли желите да %S преузима "
+"унапређења у позадини док ви наставите са радом?"
 
 #: updateReadyToInstallHeader
 msgid "%S Ready to Install"
@@ -267,49 +256,68 @@ msgstr "AUS: XML датотека унапређења није пронађен
 msgid "AUS: Internal Server Error (500)"
 msgstr "AUS: Интерна грешка на серверу (500)"
 
-#: checker_error-2152398878
-msgid "AUS: Update Server Not Found (Check your internet connection or contact your Administrator)"
-msgstr "AUS: Сервер унапређења није пронађен (Проверите вашу везу са интернетом или обавестите администратора)"
-
-#: checker_error-2152398890
-msgid "Proxy Server Not Found (Check your internet connection or contact your Administrator)"
-msgstr "Прокси сервер није пронађен (Проверите вашу везу са интернетом или обавестите администратора)"
+#: checker_error-2152398849
+msgid "Failed (Unknown Reason)"
+msgstr "Неуспешно (непознат разлог)"
 
 #: checker_error-2152398861
 msgid "AUS: Connection Refused"
 msgstr "AUS: Одбијено је повезивање"
 
-#: checker_error-2152398920
-msgid "Proxy Server Connection Refused (Contact your Administrator)"
-msgstr "Одбијено је повезивање на прокси сервер (Обавестите администратора)"
-
 #: checker_error-2152398862
 msgid "AUS: Connection timed out"
 msgstr "AUS: Истекло је време за повезивање"
 
+#. # NS_ERROR_OFFLINE
 #: checker_error-2152398864
+msgctxt "checker_error-2152398864"
 msgid "Network is Offline (Go online)"
 msgstr "Радите ван мреже (Искључите овај мод)"
-
-#: checker_error-2152398849
-msgid "Failed (Unknown Reason)"
-msgstr "Неуспешно (непознат разлог)"
-
-#: checker_error-2152398868
-msgid "AUS: No data was received (Please try again)"
-msgstr "AUS: Подаци нису примљени (Молим покушајте поново)"
-
-#: checker_error-2152398919
-msgid "AUS: Data transfer was interrupted (Please try again)"
-msgstr "AUS: Пренос је прекинут (Молим покушајте поново)"
 
 #: checker_error-2152398867
 msgid "AUS: Port not allowed (Contact your Administrator)"
 msgstr "AUS: Порт није доступан (Обавестите администратора)"
 
+#: checker_error-2152398868
+msgid "AUS: No data was received (Please try again)"
+msgstr "AUS: Подаци нису примљени (Молим покушајте поново)"
+
+#: checker_error-2152398878
+msgid ""
+"AUS: Update Server Not Found (Check your internet connection or contact your "
+"Administrator)"
+msgstr ""
+"AUS: Сервер унапређења није пронађен (Проверите вашу везу са интернетом или "
+"обавестите администратора)"
+
+#: checker_error-2152398890
+msgid ""
+"Proxy Server Not Found (Check your internet connection or contact your "
+"Administrator)"
+msgstr ""
+"Прокси сервер није пронађен (Проверите вашу везу са интернетом или "
+"обавестите администратора)"
+
+#. # NS_ERROR_DOCUMENT_NOT_CACHED
+#: checker_error-2152398918
+msgctxt "checker_error-2152398918"
+msgid "Network is Offline (Go online)"
+msgstr "Мрежа је искључена (повежите се)"
+
+#: checker_error-2152398919
+msgid "AUS: Data transfer was interrupted (Please try again)"
+msgstr "AUS: Пренос је прекинут (Молим покушајте поново)"
+
+#: checker_error-2152398920
+msgid "Proxy Server Connection Refused (Contact your Administrator)"
+msgstr "Одбијено је повезивање на прокси сервер (Обавестите администратора)"
+
 #: checker_error-verification_failed
-msgid "The integrity of the update could not be verified (Contact your Administrator)"
-msgstr "Веродостојност унапређења неможе бити потврђена (Обавестите администратора)"
+msgid ""
+"The integrity of the update could not be verified (Contact your "
+"Administrator)"
+msgstr ""
+"Веродостојност унапређења неможе бити потврђена (Обавестите администратора)"
 
 #: installSuccess
 msgid "The Update was successfully installed"
@@ -327,6 +335,44 @@ msgstr "Постављање је на чекању"
 msgid "Software Update Failed"
 msgstr "Доградња програма није успела"
 
-#: updaterIOErrorText
-msgid "One or more files could not be updated. Please make sure all other applications are closed and that you have permission to modify files, and then restart %S to try again."
-msgstr "Једна или више датотека нису могле да буду дограђене. Молимо да проверите да су сви остали програми затворени и да имате дозволу да мењате датотеке. Затим поново покрените програм %S и пробајте поново."
+#: updaterIOErrorMsg
+msgid ""
+"The update could not be installed. Please make sure there are no other "
+"copies of %S running on your computer, and then restart %S to try again."
+msgstr "Доградња није могла да буде инсталирана.  Молимо да проверите да не постоје друге покренуте копије програма %S на Вашем рачунару, и покрените програм %S поново."
+
+#: updateAvailable_minor.title
+msgctxt "updateAvailable_minor.title"
+msgid "%S available"
+msgstr "Доступно: %S"
+
+#: updateAvailable_minor.text
+msgid "Download & Install…"
+msgstr "Добави и инсталирај…"
+
+#: updateAvailable_major.title
+msgctxt "updateAvailable_major.title"
+msgid "%S available"
+msgstr "Доступно: %S"
+
+#: updateAvailable_major.text
+msgid "Get the new version…"
+msgstr "Добави ново издање…"
+
+#: updateDownloaded_minor.title
+msgctxt "updateDownloaded_minor.title"
+msgid "%S available"
+msgstr "Доступно: %S available"
+
+#: updateDownloaded_minor.text
+msgid "Apply Downloaded Update…"
+msgstr "Примени примљену доградњу…"
+
+#: updateDownloaded_major.title
+msgctxt "updateDownloaded_major.title"
+msgid "%S available"
+msgstr "Доступно: %S available"
+
+#: updateDownloaded_major.text
+msgid "Install the new version…"
+msgstr "Инсталирај ново издање…"

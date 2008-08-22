@@ -1,10 +1,10 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/mozapps/extensions/extensions.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/extensions/extensions.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-30 19:38+0200\n"
+"POT-Creation-Date: 2008-08-22 23:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -407,9 +407,9 @@ msgctxt "noUpdatesMsg"
 msgid "No updates were found."
 msgstr ""
 
-#: offlineUpdateMsg
+#: offlineUpdateMsg2
 msgid ""
-"%S is currently in offline mode and is unable to update Add-ons. Click Go "
+"%S is currently in offline mode and is unable to update add-ons. Click Go "
 "Online and try again."
 msgstr ""
 

@@ -1,31 +1,29 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/downloads/downloads.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/downloads/downloads.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-08-22 23:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
-# LOCALIZATION NOTE (window.width2, window.height): These values should be
-# close to the golden ratio (1.618:1) while making sure it's wide enough for long
-# file names and tall enough to hint that there are more downloads in the list
+#. LOCALIZATION NOTE (window.width2, window.height): These values should be
+#. close to the golden ratio (1.618:1) while making sure it's wide enough for long
+#. file names and tall enough to hint that there are more downloads in the list
 #: window.width2
 msgid "485"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.height
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"300"
+msgid "300"
 msgstr ""
 
 #: starting.label
@@ -118,6 +116,10 @@ msgstr ""
 
 #: cmd.find.commandKey
 msgid "f"
+msgstr ""
+
+#: cmd.search.commandKey
+msgid "k"
 msgstr ""
 
 #: closeWhenDone.label

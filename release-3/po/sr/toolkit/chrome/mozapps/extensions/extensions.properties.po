@@ -1,19 +1,19 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/extensions/extensions.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2008-04-02 23:43+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-22 23:44+0200\n"
+"PO-Revision-Date: 2008-08-22 23:46+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Accelerator-Marker: &\n"
 
 #: aboutWindowTitle
-#: aboutAddon
 msgctxt "aboutWindowTitle"
 msgid "About %S"
 msgstr "О програму %S"
@@ -41,10 +41,9 @@ msgid "A compatibility update has been applied."
 msgstr "Примењена је доградња за усаглашавање."
 
 #: updateNoUpdateMsg
-#: noUpdatesMsg
 msgctxt "updateNoUpdateMsg"
 msgid "No updates were found."
-msgstr "Није пронађена ниједна доградња"
+msgstr "Није пронађена ниједна доградња."
 
 #: updateErrorMessage
 msgid "An error occurred while trying to find updates for %S."
@@ -152,13 +151,11 @@ msgid "Are you sure you want to cancel the install of %S?"
 msgstr "Да ли сигурно желите да откажете инсталацију програма %S?"
 
 #: cancelInstallButton
-#: cancelUpgradeButton
 msgctxt "cancelInstallButton"
 msgid "Yes"
 msgstr "Да"
 
 #: cancelCancelInstallButton
-#: cancelCancelUpgradeButton
 msgctxt "cancelCancelInstallButton"
 msgid "No"
 msgstr "Не"
@@ -297,7 +294,8 @@ msgstr "Програм %S је утврдио да су наведени дод�
 
 #: blocklistRestartMsg2
 msgid "You should restart %S so that these add-ons can be disabled."
-msgstr "Потребно је да поново покренете програм %S да би ови додаци били искључени."
+msgstr ""
+"Потребно је да поново покренете програм %S да би ови додаци били искључени."
 
 #: missingFileTitle
 msgid "Missing File"
@@ -311,7 +309,9 @@ msgstr "%S не може да учита ову ставку зато што д�
 msgid ""
 "%S could not install this item because \"%S\" (provided by the item) is not "
 "well-formed or does not exist. Please contact the author about this problem."
-msgstr "%S не може да постави ову ставку јер датотека „%S‟ (коју ставка обезбеђује) није исправна.  За решење проблема обратите се аутору."
+msgstr ""
+"%S не може да постави ову ставку јер датотека „%S‟ (коју ставка обезбеђује) "
+"није исправна.  За решење проблема обратите се аутору."
 
 #: malformedTitle
 msgid "Malformed File"
@@ -446,13 +446,11 @@ msgctxt "noUpdatesMsg"
 msgid "No updates were found."
 msgstr "Није пронађена ниједна доградња"
 
-#: offlineUpdateMsg
+#: offlineUpdateMsg2
 msgid ""
-"%S is currently in offline mode and is unable to update Add-ons. Click Go "
+"%S is currently in offline mode and is unable to update add-ons. Click Go "
 "Online and try again."
-msgstr ""
-"Програм %S ради тренутно ван мреже па не може да догради додатке.  "
-"Притисните „Повежи се‟ и пробајте поново."
+msgstr "%S тренутно ради ван мреже и не може да догради додатке.  Притисните „Повежи се‟ и пробајте поново."
 
 #: offlineSearchMsg
 msgid ""

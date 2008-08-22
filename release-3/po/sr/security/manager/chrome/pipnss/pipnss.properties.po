@@ -5,11 +5,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2008-07-05 13:09+0200\n"
+"PO-Revision-Date: 2008-08-22 23:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #
@@ -68,16 +68,12 @@ msgstr "PSM интерни сервис шифровања"
 msgid "Generic Crypto Services"
 msgstr "Програмско формирање заштите"
 
-#
-# 32 bytes long after conversion to UTF8
-# 32
 #. #
 #. # 32 bytes long after conversion to UTF8
 #: PrivateTokenDescription
-#: InternalToken
 msgctxt "PrivateTokenDescription"
 msgid "Software Security Device"
-msgstr "Програмски уређај за безбедност"
+msgstr "Софтверски безбедносни уређај"
 
 #
 # 64 bytes long after conversion to UTF8
@@ -113,6 +109,8 @@ msgstr "ФИПС 140 (FIPS 140) криптографске, кључевне и 
 # 32 bytes long after conversion to UTF8
 # 32
 #. # 32
+#. #
+#. # 32 bytes long after conversion to UTF8
 #: InternalToken
 #: PrivateTokenDescription
 msgctxt "InternalToken"
@@ -146,26 +144,23 @@ msgid "Email Recipient Certificate"
 msgstr "Сертификат примаоца ел. поште"
 
 #: VerifyProtectObjSign
-#: VerifyProtectObjSign_p
 msgctxt "VerifyProtectObjSign"
 msgid "Protected Object Signer"
-msgstr "Потпис заштићеног објекта"
+msgstr "Потписник заштићеног објекта"
 
 #: VerifyObjSign
-#: VerifyObjSign_p
 msgctxt "VerifyObjSign"
 msgid "Object Signer"
-msgstr "Потпис објекта"
+msgstr "Потписник објекта"
 
 #: VerifyUserImport
 msgid "User Import Cert"
 msgstr "Увоз сертификата корисника"
 
 #: VerifyCAVerifier
-#: VerifyCAVerifier_p
 msgctxt "VerifyCAVerifier"
 msgid "CA Verifier"
-msgstr "Провера ПС"
+msgstr "Ревизор ауторитета"
 
 #: VerifyStatusResponder
 msgid "Status Responder Certificate"
@@ -187,11 +182,6 @@ msgstr "Средњи ниво"
 #: nick_template
 msgid "%1$s's %2$s ID"
 msgstr "ID %2$s %1$s"
-
-#. # LOCALIZATION NOTE (nick_template_with_num): NOT_USED_STRING
-#: nick_template_with_num
-msgid "%1$s's %2$s ID #%3$d"
-msgstr "ID #%3$d %2$s %1$s"
 
 # These are the strings set for the ASN1 objects in a certificate.
 #. #These are the strings set for the ASN1 objects in a certificate.
@@ -355,6 +345,18 @@ msgstr ""
 "Експонент (бита: %S):\n"
 "%S"
 
+#: CertDumpECTemplate
+msgid ""
+"Key size: %S bits\n"
+"Base point order length: %S bits\n"
+"Public value:\n"
+"%S"
+msgstr ""
+"Величина кључа (бит): %S\n"
+"Дужина реда базне тачке: %S bits\n"
+"Јавна вредност:\n"
+"%S"
+
 #: CertDumpIssuerUniqueID
 msgid "Issuer Unique ID"
 msgstr "Уникатан број корисника"
@@ -484,7 +486,6 @@ msgid "ANSI X9.62 ECDSA Signature with SHA1"
 msgstr "ANSI X9.62 ECDSA потпис са SHA1"
 
 #: CertDumpCertTypeEmail
-#: CertInfoEmail
 msgctxt "CertDumpCertTypeEmail"
 msgid "Email"
 msgstr "Ел. пошта"
