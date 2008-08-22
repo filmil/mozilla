@@ -1,4 +1,11 @@
+-*- outline -*-
 
-* Алати у алатке.
-** Провери да се свуда помињу алатке а не алати
-* Промена скраћеница за ставке у великом менију
+* Make an automatic script to update the template files (./pot)
+
+The directory ./pot was once a directory with only POT files.  But
+now, it contains all the files that indicate which files go into the l10n dir.
+When updating POT files, one needs to check that those other files are not
+destroyed.
+
+
+

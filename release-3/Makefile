@@ -62,9 +62,10 @@ pot:
 
 # Merges old translations with newly generated POT files
 mergepo: pot
+	mkdir -p $(MERGED_PO_OUTPUT_DIR)
 	$(POMERGE) --progress=names -x CVS -x .svn -t $(POT_DIR) \
 	           -i $(PO_SOURCE_DIR) -o $(MERGED_PO_OUTPUT_DIR)
-	$(POMIGRATE) $(PO_SOURCE_DIR) $(MERGED_PO_OUTPUT_DIR) $(POT_DIR)
+#	$(POMIGRATE) $(PO_SOURCE_DIR) $(MERGED_PO_OUTPUT_DIR) $(POT_DIR)
 
 # Clean the directory with the POT templates
 cleanpot:
