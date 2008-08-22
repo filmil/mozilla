@@ -5,11 +5,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2008-08-22 23:34+0200\n"
+"PO-Revision-Date: 2008-08-23 00:54+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #
@@ -419,7 +419,7 @@ msgstr "AOL име"
 
 #: CertDumpSubjectDirectoryAttr
 msgid "Certificate Subject Directory Attributes"
-msgstr "Атрифути библиотека наслова сертификата"
+msgstr "Атрибути библиотека наслова сертификата"
 
 #: CertDumpSubjectKeyID
 msgid "Certificate Subject Key ID"
