@@ -164,7 +164,7 @@ msgstr "Користите управника лозинкама да запам
 
 #: xSaveTheseValuesObscured
 msgid "Remember these values.  Stored values are not password protected."
-msgstr "Запамти ове вредности. Запамћене вредности нису шифроване."
+msgstr "Запамти ове вредности. Запамћене вредности нису заштићене лозинком."
 
 #: xSaveTheseValuesEncrypted
 msgid "Remember these values.  Stored values are password protected."

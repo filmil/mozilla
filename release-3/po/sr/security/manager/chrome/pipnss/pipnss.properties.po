@@ -407,7 +407,7 @@ msgstr "Коментар Netscape сертификата"
 
 #: CertDumpNSCertExtLostPasswordUrl
 msgid "Netscape Lost Password URL"
-msgstr "Адреса обнове изгубљене шифре Netscape сертификата"
+msgstr "Адреса обнове изгубљене лозинке Netscape сертификата"
 
 #: CertDumpNSCertExtCertRenewalTime
 msgid "NetscapeCertificate Renewal Time"

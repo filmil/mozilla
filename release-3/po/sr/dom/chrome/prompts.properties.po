@@ -70,4 +70,4 @@ msgstr "Унесите корисничко име и лозинку за %1$S"
 
 #: EnterPasswordFor
 msgid "Enter password for %1$S on %2$S"
-msgstr "Унесите корисничко име за: %1$S на: %2$S"
+msgstr "Унесите лозинку за %1$S на %2$S"

@@ -154,7 +154,7 @@ msgstr "Ако укинете главну лозинку, све сачуван
 
 #: resetpassword.button
 msgid "Reset Password"
-msgstr "Обнављање шифре"
+msgstr "Обнављање лозинке"
 
 #: resetpassword.accesskey
 msgid "R"
