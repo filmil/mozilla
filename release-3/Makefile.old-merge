@@ -1,0 +1,50 @@
+## -*- Makefile -*-
+########################################################################
+##
+## Historic makefile targets
+##
+## This is a compendium of targets that was used once upon a time to
+## obtain an unified translation repository from Firefox and Thunderbird
+## translations done by different people.
+##
+## These should not be used anymore, they are here for reference only.
+
+include Makefile.inc
+
+.PHONY: split initpo match populate cleanpo
+
+# Split the final archive to send to Bugzilla
+split: $(ZIPNAME)
+	split -b 290k $(ZIPNAME) $(ZIPNAME)-
+	@echo Produced files:
+	@ls $(ZIPNAME)-*
+
+# Make a new PO directory.
+# WARNING: Running this goal will overwrite the PO directory.
+initpo:
+	. $(SCRIPTS_DIR)/initpo.sh
+
+# Finds the source files which match the initial ones by name.
+match:
+	. $(SCRIPTS_DIR)/match-files.sh
+
+# Populates the script with the already translated files.
+# This target was used to merge the FF and TB translations once upon a time
+populate:
+	. $(SCRIPTS_DIR)/populate-po.sh
+	. $(SCRIPTS_DIR)/process-double.sh
+	. $(SCRIPTS_DIR)/process-copyonly.sh
+	. $(SCRIPTS_DIR)/blind-copy.sh
+
+# Produce a clean PO directory with empty PO files
+cleanpo: 
+	$(MOZ2PO) -i $(SOURCE_DIR)  -o $(PO_TRANSLATIONS)
+
+# Checks the relevant directories
+check:
+	@echo Files in pot/
+	@find $(POT_DIR) ! -wholename '*\.svn*' | wc -l
+	@echo Files in po/source/
+	@find po/source ! -wholename '*\.svn*' | wc -l
+	@echo Files in $(PO_TRANSLATIONS)/
+	@find $(PO_TRANSLATIONS) ! -wholename '*\.svn*' | wc -l
