@@ -1,6 +1,8 @@
 po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	264 translated messages.
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
-po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	330 translated messages.
+po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	po/sr/security/manager/chrome/pipnss/pipnss.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                                    Message conversion to user's charset might not work.
+330 translated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
 po/sr/security/manager/chrome/pippki/pref-ssl.dtd.po:	26 translated messages.
 po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages.
@@ -270,7 +272,7 @@ po/sr/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated messa
 po/sr/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
 po/sr/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
-po/sr/browser/chrome/browser/browser.properties.po:	92 translated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	91 translated messages, 2 untranslated messages.
 po/sr/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
 po/sr/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
@@ -340,7 +342,7 @@ po/sr/dom/chrome/accessibility/win/accessible.properties.po:	13 translated messa
 po/sr/dom/chrome/accessibility/mac/accessible.properties.po:	13 translated messages.
 po/sr/dom/chrome/netErrorApp.dtd.po:	2 translated messages.
 po/sr/dom/chrome/prompts.properties.po:	4 translated messages.
-po/sr/dom/chrome/security/caps.properties.po:	21 translated messages.
+po/sr/dom/chrome/security/caps.properties.po:	25 translated messages.
 po/sr/dom/chrome/xml/prettyprint.dtd.po:	1 translated message.
 po/sr/dom/chrome/netError.dtd.po:	42 translated messages, 1 fuzzy translation.
 po/sr/dom/chrome/webservices/security.properties.po:	8 translated messages.
@@ -355,7 +357,9 @@ po/sr/dom/chrome/plugins.properties.po:	12 translated messages.
 po/sr/dom/chrome/layout/layout_errors.properties.po:	5 translated messages.
 po/sr/dom/chrome/layout/xul.properties.po:	4 translated messages.
 po/sr/dom/chrome/layout/xmlparser.properties.po:	35 translated messages.
-po/sr/dom/chrome/layout/css.properties.po:	92 translated messages.
+po/sr/dom/chrome/layout/css.properties.po:	po/sr/dom/chrome/layout/css.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                    Message conversion to user's charset might not work.
+99 translated messages.
 po/sr/dom/chrome/layout/HtmlForm.properties.po:	8 translated messages.
 po/sr/dom/chrome/layout/MediaDocument.properties.po:	9 translated messages.
 po/sr/dom/chrome/layout/xbl.properties.po:	6 translated messages.
@@ -365,6 +369,7 @@ po/sr/dom/chrome/svg/svg.properties.po:	1 translated message.
 po/sr/dom/chrome/appstrings.properties.po:	26 translated messages.
 po/sr/netwerk/necko.properties.po:	25 translated messages.
 po/sr/toolkit/crashreporter/crashes.properties.po:	2 translated messages.
+po/sr/toolkit/crashreporter/crashreporter.ini.po:	37 translated messages, 1 untranslated message.
 po/sr/toolkit/crashreporter/crashes.dtd.po:	6 translated messages.
 po/sr/toolkit/chrome/alerts/notificationNames.properties.po:	1 translated message.
 po/sr/toolkit/chrome/autoconfig/autoconfig.properties.po:	6 translated messages.
@@ -418,7 +423,9 @@ po/sr/toolkit/chrome/global/printPreview.dtd.po:	27 translated messages.
 po/sr/toolkit/chrome/global/printPreviewProgress.dtd.po:	4 translated messages.
 po/sr/toolkit/chrome/global/commonDialog.dtd.po:	8 translated messages.
 po/sr/toolkit/chrome/global/viewSource.properties.po:	9 translated messages.
-po/sr/toolkit/chrome/global/mozilla.dtd.po:	2 translated messages.
+po/sr/toolkit/chrome/global/mozilla.dtd.po:	po/sr/toolkit/chrome/global/mozilla.dtd.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                     Message conversion to user's charset might not work.
+3 translated messages.
 po/sr/toolkit/chrome/global/filepicker.properties.po:	40 translated messages.
 po/sr/toolkit/chrome/global/customizeCharset.dtd.po:	7 translated messages.
 po/sr/toolkit/chrome/global/about.dtd.po:	13 translated messages.
@@ -429,12 +436,12 @@ po/sr/toolkit/chrome/global/nsProgressDialog.dtd.po:	27 translated messages.
 po/sr/toolkit/chrome/global/textcontext.dtd.po:	10 translated messages.
 po/sr/toolkit/chrome/global-region/region.properties.po:	5 translated messages.
 po/sr/toolkit/chrome/global-region/region.dtd.po:	1 translated message.
-po/sr/toolkit/chrome/passwordmgr/passwordManager.dtd.po:	14 translated messages.
+po/sr/toolkit/chrome/passwordmgr/passwordManager.dtd.po:	13 translated messages.
 po/sr/toolkit/chrome/passwordmgr/passwordmgr.properties.po:	29 translated messages.
 po/sr/toolkit/chrome/places/places.properties.po:	12 translated messages.
 po/sr/toolkit/chrome/cookie/cookieAcceptDialog.properties.po:	14 translated messages.
 po/sr/toolkit/chrome/cookie/cookieAcceptDialog.dtd.po:	12 translated messages.
-po/sr/toolkit/chrome/mozapps/downloads/downloads.dtd.po:	29 translated messages.
+po/sr/toolkit/chrome/mozapps/downloads/downloads.dtd.po:	27 translated messages.
 po/sr/toolkit/chrome/mozapps/downloads/unknownContentType.dtd.po:	11 translated messages.
 po/sr/toolkit/chrome/mozapps/downloads/unknownContentType.properties.po:	20 translated messages.
 po/sr/toolkit/chrome/mozapps/downloads/downloads.properties.po:	64 translated messages.
@@ -442,10 +449,10 @@ po/sr/toolkit/chrome/mozapps/downloads/settingsChange.dtd.po:	2 translated messa
 po/sr/toolkit/chrome/mozapps/handling/handling.dtd.po:	3 translated messages.
 po/sr/toolkit/chrome/mozapps/handling/handling.properties.po:	7 translated messages.
 po/sr/toolkit/chrome/mozapps/update/history.dtd.po:	8 translated messages.
-po/sr/toolkit/chrome/mozapps/update/updates.properties.po:	78 translated messages.
+po/sr/toolkit/chrome/mozapps/update/updates.properties.po:	77 translated messages, 3 fuzzy translations.
 po/sr/toolkit/chrome/mozapps/update/incompatible.dtd.po:	5 translated messages.
 po/sr/toolkit/chrome/mozapps/update/errors.dtd.po:	1 translated message.
-po/sr/toolkit/chrome/mozapps/update/updates.dtd.po:	47 translated messages.
+po/sr/toolkit/chrome/mozapps/update/updates.dtd.po:	0 translated messages.
 po/sr/toolkit/chrome/mozapps/help/welcome.xhtml.po:	13 translated messages.
 po/sr/toolkit/chrome/mozapps/help/help.properties.po:	1 translated message.
 po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	28 translated messages, 3 untranslated messages.
