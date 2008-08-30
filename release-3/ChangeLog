@@ -1,3 +1,8 @@
+2008-08-30  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:
+	Corrected the access keys for update searches.
+
 2008-08-23  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/toolkit/crashreporter/crashreporter.ini.po: Updated

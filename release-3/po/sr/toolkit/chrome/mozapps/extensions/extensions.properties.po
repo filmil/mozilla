@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-08-22 23:44+0200\n"
-"PO-Revision-Date: 2008-08-22 23:46+0200\n"
+"PO-Revision-Date: 2008-08-30 13:50+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -242,7 +242,7 @@ msgstr "Онемогућено - не одговара %S %S"
 
 #: incompatibleAddonMsg
 msgid "Not compatible with %S %S"
-msgstr "Није у складу са %S %S"
+msgstr "Није сагласан са програмом %S %S"
 
 #: insecureUpdateMessage
 msgid "\"%S\" will not be installed because it does not provide secure updates"

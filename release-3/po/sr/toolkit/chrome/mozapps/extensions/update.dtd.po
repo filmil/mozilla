@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 02:44+0100\n"
+"PO-Revision-Date: 2008-08-30 13:42+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: updateWizard.title
 msgid "&brandShortName; Update"
-msgstr "&brandShortName; унапређења"
+msgstr "Доградње за програм &brandShortName;"
 
 #: offline.title
 msgid "&brandShortName; is working offline"
@@ -181,9 +181,7 @@ msgstr ""
 # general strings used by several of the finish pages
 #: clickFinish.label
 msgid "Click Finish to continue starting &brandShortName;."
-msgstr ""
-"Кликните на „Завршетак“ како бисте наставили покретање програма "
-"&brandShortName;."
+msgstr "Кликните на „Крај“ како бисте наставили покретање програма &brandShortName;."
 
 #: clickFinish.labelMac
 msgid "Click Done to continue starting &brandShortName;."
