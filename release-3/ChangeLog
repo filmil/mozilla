@@ -1,3 +1,8 @@
+2008-09-05  Filip Miletic  <filmil@gmail.com>
+
+	* po/sr/browser/chrome/browser/places/places.properties.po:
+	Corrected shortcut.
+
 2008-08-30  Filip Miletic  <filmil@gmail.com>
 
 	* po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:

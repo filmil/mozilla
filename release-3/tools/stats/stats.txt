@@ -1,8 +1,6 @@
 po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	264 translated messages.
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
-po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	po/sr/security/manager/chrome/pipnss/pipnss.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                                    Message conversion to user's charset might not work.
-330 translated messages.
+po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	330 translated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
 po/sr/security/manager/chrome/pippki/pref-ssl.dtd.po:	26 translated messages.
 po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages.
@@ -458,7 +456,9 @@ po/sr/toolkit/chrome/mozapps/help/help.properties.po:	1 translated message.
 po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	28 translated messages, 3 untranslated messages.
 po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po:	97 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po:	116 translated messages.
-po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:	16 translated messages.
+po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:	po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:26: dubbele melding definitie...
+po/sr/toolkit/chrome/mozapps/extensions/update.properties.po:23: ...this is the location of the first definition
+msgfmt: found 1 fatal error
 po/sr/toolkit/chrome/mozapps/extensions/update.dtd.po:	34 translated messages.
 po/sr/toolkit/chrome/mozapps/extensions/about.dtd.po:	5 translated messages.
 po/sr/toolkit/chrome/mozapps/preferences/ocsp.dtd.po:	7 translated messages.

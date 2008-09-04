@@ -14,7 +14,7 @@ all: clean tryconv stats
 # up-to-date message.
 publish: clean tryconv copytocvs 
 	( MSG=`cat $(CVS_MSG)` ; \
-	  $(CD) $(MOZILLA_CVS) ; \
+	  $(CD) $(MOZILLA_CVS)/sr ; \
           $(CVS) commit -m "$$MSG" )
 
 # Copies the processed translation files to the output directory for

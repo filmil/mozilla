@@ -9,7 +9,8 @@ MKDIR:=mkdir
 CD:=cd
 CP:=cp
 ZIP:=zip
-CVS:=hg				# Use Mercurial for version control
+# Use Mercurial for version control
+CVS:=hg
 POMIGRATE:=pomigrate2
 ICONV:=iconv
 GREP:=grep
