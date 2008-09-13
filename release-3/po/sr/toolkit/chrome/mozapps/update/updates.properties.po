@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-23 00:04+0200\n"
-"PO-Revision-Date: 2008-08-23 00:07+0200\n"
+"POT-Creation-Date: 2008-09-14 00:35+0200\n"
+"PO-Revision-Date: 2008-09-14 00:38+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,14 +62,12 @@ msgstr ""
 "страну за програм %S за више података."
 
 #: licenseContentDownloading
-#, fuzzy
 msgid "Getting license for %S %S…"
-msgstr "Пријем лиценце: %S %S..."
+msgstr "Пријем лиценце: %S %S…"
 
 #: updateMoreInfoContentDownloading
-#, fuzzy
 msgid "Getting more details about %S %S…"
-msgstr "Пријем детаља: %S %S..."
+msgstr "Пријем детаља: %S %S…"
 
 #: statusSucceededFormat
 msgid "Installed on: %S"
@@ -156,7 +154,6 @@ msgid "at #1"
 msgstr "на #1"
 
 #: progressFormat
-#: statusFormat
 msgctxt "progressFormat"
 msgid "#1#2"
 msgstr "#1#2"
@@ -172,9 +169,8 @@ msgid "#1#2"
 msgstr "#1#2"
 
 #: downloadingPrefix
-#, fuzzy
 msgid "Downloading %S…"
-msgstr "Пријем: %S..."
+msgstr "Пријем: %S…"
 
 #: pausedName
 msgid "Paused downloading %S"
@@ -186,7 +182,7 @@ msgstr "Поново покрени програм %S"
 
 #: restartButton.accesskey
 msgid "R"
-msgstr "R"
+msgstr "П"
 
 #: downloadButton_minor
 #: downloadButton
@@ -197,7 +193,7 @@ msgstr "Преузми и постави одмах »"
 #: IDoNotAgree.accesskey
 #: downloadButton.accesskey
 msgid "D"
-msgstr "D"
+msgstr "р"
 
 #: downloadButton_major
 msgid "Get the new version »"
@@ -205,7 +201,7 @@ msgstr "Набави ново издање »"
 
 #: downloadButton_major.accesskey
 msgid "G"
-msgstr "G"
+msgstr "Н"
 
 #: notNowButton
 msgid "Not Now"
@@ -221,7 +217,7 @@ msgstr "Никада"
 
 #: neverButton.accesskey
 msgid "N"
-msgstr "Н"
+msgstr "к"
 
 #: resumePausedAfterCloseTitle
 #: restartLaterTitle
@@ -312,6 +308,14 @@ msgstr "AUS: Пренос је прекинут (Молим покушајте �
 msgid "Proxy Server Connection Refused (Contact your Administrator)"
 msgstr "Одбијено је повезивање на прокси сервер (Обавестите администратора)"
 
+#: checker_error-2153390069
+msgid ""
+"Server certificate has expired (Please adjust your system clock to the "
+"correct date and time if it is incorrect or contact your Administrator)"
+msgstr ""
+"Серверов сертификат је истекао (молимо да подесите системски сат на Вашем рачунару\n"
+"на исправан датум и време ако су неисправни, или да се обратите администратору)"
+
 #: checker_error-verification_failed
 msgid ""
 "The integrity of the update could not be verified (Contact your "
@@ -339,7 +343,10 @@ msgstr "Доградња програма није успела"
 msgid ""
 "The update could not be installed. Please make sure there are no other "
 "copies of %S running on your computer, and then restart %S to try again."
-msgstr "Доградња није могла да буде инсталирана.  Молимо да проверите да не постоје друге покренуте копије програма %S на Вашем рачунару, и покрените програм %S поново."
+msgstr ""
+"Доградња није могла да буде инсталирана.  Молимо да проверите да не постоје "
+"друге покренуте копије програма %S на Вашем рачунару, и покрените програм %S "
+"поново."
 
 #: updateAvailable_minor.title
 msgctxt "updateAvailable_minor.title"
@@ -362,7 +369,7 @@ msgstr "Добави ново издање…"
 #: updateDownloaded_minor.title
 msgctxt "updateDownloaded_minor.title"
 msgid "%S available"
-msgstr "Доступно: %S available"
+msgstr "Доступно: %S"
 
 #: updateDownloaded_minor.text
 msgid "Apply Downloaded Update…"
@@ -371,8 +378,8 @@ msgstr "Примени примљену доградњу…"
 #: updateDownloaded_major.title
 msgctxt "updateDownloaded_major.title"
 msgid "%S available"
-msgstr "Доступно: %S available"
+msgstr "Доступно: %S"
 
 #: updateDownloaded_major.text
 msgid "Install the new version…"
-msgstr "Инсталирај ново издање…"
+msgstr "Постави ново издање…"

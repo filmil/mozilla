@@ -1,10 +1,11 @@
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.properties
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-22 21:04+0200\n"
-"PO-Revision-Date: 2008-08-22 21:05+0200\n"
+"POT-Creation-Date: 2008-09-14 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
-"Plural-Forms: 1\n"
 
 #: nv_done
 msgid "Done"
@@ -274,6 +274,7 @@ msgid "Open All in Tabs"
 msgstr ""
 
 #: menuOpenAllInTabs.accesskey
+msgctxt "menuOpenAllInTabs.accesskey"
 msgid "o"
 msgstr ""
 
@@ -347,6 +348,7 @@ msgid "Not Now"
 msgstr ""
 
 #: offlineApps.notNowAccessKey
+msgctxt "offlineApps.notNowAccessKey"
 msgid "N"
 msgstr ""
 
@@ -425,4 +427,40 @@ msgstr ""
 
 #: editBookmarkPanel.editBookmarkTitle
 msgid "Edit This Bookmark"
+msgstr ""
+
+#. # Geolocation UI
+#. # LOCALIZATION NOTE (exactLocation, neighborhoodLocation): These do not have to be
+#. # exact value, instead approximations would be fine.
+#. # examples: Neighborhood (within 2 km)
+#. #           Exact Location (within 3 m)
+#. #
+#: geolocation.exactLocation
+msgid "Exact Location (within 10 feet)"
+msgstr ""
+
+#: geolocation.exactLocationKey
+msgid "E"
+msgstr ""
+
+#: geolocation.neighborhoodLocation
+msgid "Neighborhood (within 1 mile)"
+msgstr ""
+
+#: geolocation.neighborhoodLocationKey
+msgctxt "geolocation.neighborhoodLocationKey"
+msgid "N"
+msgstr ""
+
+#: geolocation.nothingLocation
+msgid "Nothing"
+msgstr ""
+
+#: geolocation.nothingLocationKey
+msgctxt "geolocation.nothingLocationKey"
+msgid "o"
+msgstr ""
+
+#: geolocation.requestMessage
+msgid "%S wants to know where you are.  Tell them:"
 msgstr ""

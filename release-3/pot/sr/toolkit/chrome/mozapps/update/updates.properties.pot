@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-23 00:04+0200\n"
+"POT-Creation-Date: 2008-09-14 00:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -292,6 +292,12 @@ msgstr ""
 
 #: checker_error-2152398920
 msgid "Proxy Server Connection Refused (Contact your Administrator)"
+msgstr ""
+
+#: checker_error-2153390069
+msgid ""
+"Server certificate has expired (Please adjust your system clock to the "
+"correct date and time if it is incorrect or contact your Administrator)"
 msgstr ""
 
 #: checker_error-verification_failed

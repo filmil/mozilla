@@ -1,18 +1,19 @@
-# extracted from source/sr-RS/security/manager/chrome/pippki/pippki.dtd
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-19 03:10+0100\n"
+"PO-Revision-Date: 2008-09-14 00:28+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+
+# Strings for the MismatchDomain dialog
+# Strings for the Server cert expired dialog
 
 # ***** BEGIN LICENSE BLOCK *****
 # - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -51,11 +52,49 @@ msgstr ""
 # -
 # - ***** END LICENSE BLOCK *****
 # Values for changepassword.xul
+#. ***** BEGIN LICENSE BLOCK *****
+#. - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. -
+#. - The contents of this file are subject to the Mozilla Public License Version
+#. - 1.1 (the "License"); you may not use this file except in compliance with
+#. - the License. You may obtain a copy of the License at
+#. - http://www.mozilla.org/MPL/
+#. -
+#. - Software distributed under the License is distributed on an "AS IS" basis,
+#. - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. - for the specific language governing rights and limitations under the
+#. - License.
+#. -
+#. - The Original Code is mozilla.org code.
+#. -
+#. - The Initial Developer of the Original Code is
+#. - Netscape Communications Corp.
+#. - Portions created by the Initial Developer are Copyright (C) 2001
+#. - the Initial Developer. All Rights Reserved.
+#. -
+#. - Contributor(s):
+#. -   Terry Hayes <thayes@netscape.com>
+#. -
+#. - Alternatively, the contents of this file may be used under the terms of
+#. - either the GNU General Public License Version 2 or later (the "GPL"), or
+#. - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. - in which case the provisions of the GPL or the LGPL are applicable instead
+#. - of those above. If you wish to allow use of your version of this file only
+#. - under the terms of either the GPL or the LGPL, and not to allow others to
+#. - use your version of this file under the terms of the MPL, indicate your
+#. - decision by deleting the provisions above and replace them with the notice
+#. - and other provisions required by the GPL or the LGPL. If you do not delete
+#. - the provisions above, a recipient may use your version of this file under
+#. - the terms of any one of the MPL, the GPL or the LGPL.
+#. -
+#. - ***** END LICENSE BLOCK *****
+#. Values for changepassword.xul
 #: setPassword.title
 msgid "Change Master Password"
 msgstr "Промена главне лозинке"
 
-#: setPassword.tokenName.label getPassword.tokenName.label
+#: setPassword.tokenName.label
+#: getPassword.tokenName.label
 msgid "Security Device"
 msgstr "Заштитни уређај"
 
@@ -81,6 +120,7 @@ msgstr "Учитавање"
 
 # Values for resetpassword.xul
 # (pofilter) unchanged: please translate
+#. Values for resetpassword.xul
 #: resetPasswordButtonLabel
 msgid "Reset"
 msgstr "Врати"
@@ -96,19 +136,25 @@ msgid ""
 "you sure you want to reset your master password?"
 msgstr ""
 "Ако обновите главну лозинку, све сачуване лозинке за интернет и електронску "
-"пошту, садржаји формулара, лични сертификати и кључеви биће &quot;"
-"изгубљени&quot;. Да ли заиста желите обновити своју главну лозинку?"
+"пошту, садржаји формулара, лични сертификати и кључеви биће "
+"&quot;изгубљени&quot;. Да ли заиста желите обновити своју главну лозинку?"
 
 # Values for getpassword.xul
+#. Values for getpassword.xul
 #: getPassword.title
 msgid "Enter Master Password"
 msgstr "Унос главне лозинке"
+
+#: getPassword.tokenName2.label
+msgid "Security Device:"
+msgstr "Безбедносни уређај:"
 
 #: getPassword.password.label
 msgid "Password:"
 msgstr "Лозинка:"
 
 # These should be common
+#. These should be common
 #: piperror.title
 msgid "Error"
 msgstr "Грешка"
@@ -118,11 +164,20 @@ msgid "Error - cannot recover"
 msgstr "Грешка - немогућност постављења"
 
 # Prefs panel strings
+#. Prefs panel strings
 #: pref.security.general.lHeader
 msgid "Security"
 msgstr "Безбедност"
 
-#: pref.security.general.rHeader pref.security.general.header
+#: pref.security.general.rHeader
+#: pref.security.general.header
+msgctxt "pref.security.general.rHeader"
+msgid "Settings for general security"
+msgstr "Општи параметри безбедности"
+
+#: pref.security.general.header
+#: pref.security.general.rHeader
+msgctxt "pref.security.general.header"
 msgid "Settings for general security"
 msgstr "Општи параметри безбедности"
 
@@ -144,6 +199,7 @@ msgid "Manage Certificates"
 msgstr "Уређење сертификата"
 
 # Downloading a cert
+#. Downloading a cert
 #: downloadCert.title
 msgid "Downloading Certificate"
 msgstr "Преузимање сертификата"
@@ -189,6 +245,7 @@ msgid "Examine CA policies and procedures"
 msgstr "Испитај ПС полисе и процедуре"
 
 # Certificate Exists in database
+#. Certificate Exists in database
 #: caCertExists.title
 msgid "Certificate Exists"
 msgstr "Сертификат постоји"
@@ -199,6 +256,7 @@ msgstr "Сертификат већ постоји."
 
 # Strings for the SSL client auth ask dialog
 # (pofilter) unchanged: please translate
+#. Strings for the SSL client auth ask dialog
 #: clientAuthAsk.title
 msgid "User Identification Request"
 msgstr "Захтев за идентификацију корисника"
@@ -213,11 +271,14 @@ msgstr "Овај веб сајт је тражио да се идентифик�
 msgid "Choose a certificate to present as identification:"
 msgstr "Изаберите сертификат кога ћете приказати као идентификацију:"
 
-#: clientAuthAsk.message3 certPicker.detailsLabel
+#: clientAuthAsk.message3
+#: certPicker.detailsLabel
+msgctxt "clientAuthAsk.message3"
 msgid "Details of selected certificate:"
 msgstr "Детаљи о изабраном сертификату:"
 
 # Strings for the cert picker dialog
+#. Strings for the cert picker dialog
 #: certPicker.title
 msgid "Select Certificate"
 msgstr "Избор сертификата"
@@ -225,6 +286,12 @@ msgstr "Избор сертификата"
 #: certPicker.info
 msgid "Certificate:"
 msgstr "Сертификат:"
+
+#: certPicker.detailsLabel
+#: clientAuthAsk.message3
+msgctxt "certPicker.detailsLabel"
+msgid "Details of selected certificate:"
+msgstr "Детаљи о изабраном сертификату:"
 
 # (pofilter) unchanged: please translate
 #: pkcs12.setpassword.title
@@ -312,7 +379,8 @@ msgstr ""
 "Међутим, Ваш приватни кључ биће чуван код ауторитета за сертификат и може да "
 "се користи за читање шифроване поште или докумената без Ваше дозволе."
 
-#: examineCert.label examineCert.accesskey
+#: examineCert.label
+#: examineCert.accesskey
 msgid "&View Certificate"
 msgstr "&Преглед сертификата"
 
@@ -321,6 +389,7 @@ msgid "Please ask your system administrator for assistance"
 msgstr "Обратите се за помоћ администратору система"
 
 # Strings for the CreateCertInfo dialog
+#. Strings for the CreateCertInfo dialog
 #: createCertInfo.title
 msgid "Generating A Private Key"
 msgstr "Стварање затвореног кључа"
@@ -334,6 +403,7 @@ msgid "Please wait…"
 msgstr "Молимо сачекајте…"
 
 # Form Signing confirmation prompt
+#. Form Signing confirmation prompt
 #: formSigning.title
 msgid "Text Signing Request"
 msgstr "Захтев за потпис текста"
@@ -351,6 +421,7 @@ msgstr ""
 "изабрани сертификат, молим потврдите уносећи главну лозинку:"
 
 # Strings for protectedAuth dialog
+#. Strings for protectedAuth dialog
 #: protectedAuth.title
 msgid "Protected Token Authentication"
 msgstr "Аутентикација заштићеним новчићем"
@@ -359,25 +430,26 @@ msgstr "Аутентикација заштићеним новчићем"
 msgid ""
 "Please authenticate to the token. Authentication method depends on the type "
 "of your token."
-msgstr "Молимо да се пријавите знаком распознавања (token).  Врста аутентикације зависи од врсте знака распознавања."
+msgstr ""
+"Молимо да се пријавите знаком распознавања (token).  Врста аутентикације "
+"зависи од врсте знака распознавања."
 
 #: protectedAuth.tokenName.label
 msgid "Token:"
 msgstr "Знак:"
 
-# Strings for the MismatchDomain dialog
-#~ msgid "Security Error: Domain Name Mismatch"
-#~ msgstr "Security Error: Domain Name Mismatch"
+#: certErrorDlg.title
+msgid "Secure Connection Failed"
+msgstr "Безбедна веза није успостављена"
 
-# Strings for the Server cert expired dialog
-#~ msgid "Would you like to continue anyway?"
-#~ msgstr "Да ипак наставим?"
+#: certErrorDlg.info1
+msgid ""
+"This could be a problem with the server's configuration or it could be "
+"someone trying to impersonate the server."
+msgstr "Ово може да буде проблем са подешавањем сервера или може да буде неко ко жели да се представи као сервер."
 
-#~ msgid "Continue"
-#~ msgstr "Наставак"
-
-#~ msgid "Key Generation in progress... This may take a few minutes...."
-#~ msgstr "Стварам кључ...То може потрајати неколико минута..."
-
-#~ msgid "Please wait..."
-#~ msgstr "Молим, сачекајте..."
+#: certErrorDlg.info2
+msgid ""
+"If you have connected to this server successfully in the past the error may "
+"be temporary and you can try again later."
+msgstr "Ако сте се у прошлости успешно повезивали на овај сервер, грешка је онда можда привремена па је могуће решење да сачекате и пробате касније."

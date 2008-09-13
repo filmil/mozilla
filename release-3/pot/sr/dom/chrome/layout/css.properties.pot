@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-22 23:10+0200\n"
+"POT-Creation-Date: 2008-09-14 00:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -452,6 +452,10 @@ msgstr ""
 
 #: PEMQExpectedFeatureNameEnd
 msgid "Expected ':' or ')' after media feature name but found '%1$S'."
+msgstr ""
+
+#: PEMQNoMinMaxWithoutValue
+msgid "Media features with min- or max- must have a value."
 msgstr ""
 
 #: PEMQExpectedFeatureValue

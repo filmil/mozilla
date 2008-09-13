@@ -3,14 +3,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-22 21:04+0200\n"
-"PO-Revision-Date: 2008-08-22 21:09+0200\n"
+"POT-Creation-Date: 2008-09-14 00:06+0200\n"
+"PO-Revision-Date: 2008-09-14 00:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: 1\n"
 "X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
 
@@ -86,7 +85,7 @@ msgstr "Претражи %S за „%S“"
 #: contextMenuSearchText.accesskey
 msgctxt "contextMenuSearchText.accesskey"
 msgid "S"
-msgstr ""
+msgstr "П"
 
 #: blockImages
 msgid "Block Images from %S"
@@ -117,7 +116,7 @@ msgstr "Дозволи"
 #: xpinstallPromptAllowButton.accesskey
 msgctxt "xpinstallPromptAllowButton.accesskey"
 msgid "A"
-msgstr "з"
+msgstr "Д"
 
 #: xpinstallDisabledMessageLocked
 msgid "Software installation has been disabled by your system administrator."
@@ -203,7 +202,7 @@ msgstr "Опозови"
 #: undo.accessKey
 msgctxt "undo.accessKey"
 msgid "U"
-msgstr ""
+msgstr "О"
 
 # missing plugin installer
 #. # missing plugin installer
@@ -262,7 +261,6 @@ msgstr "Провера доградњи…"
 # Check for Updates
 #. # Check for Updates
 #: updatesItem_defaultFallback
-#: updatesItem_default
 msgctxt "updatesItem_defaultFallback"
 msgid "Check for Updates…"
 msgstr "Провера доградњи…"
@@ -286,10 +284,9 @@ msgstr "Наставак пријема доградње…"
 #: updatesItem_pending
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
-msgstr "Одмах примени примљену ставку…"
+msgstr "Примени одмах примљену доградњу…"
 
 #: updatesItem_pendingFallback
-#: updatesItem_pending
 msgctxt "updatesItem_pendingFallback"
 msgid "Apply Downloaded Update Now…"
 msgstr "Примени одмах примљену доградњу…"
@@ -314,6 +311,7 @@ msgid "Open All in Tabs"
 msgstr "Отвори све у језичцима"
 
 #: menuOpenAllInTabs.accesskey
+msgctxt "menuOpenAllInTabs.accesskey"
 msgid "o"
 msgstr "О"
 
@@ -335,12 +333,12 @@ msgstr "Иди напред до ове стране"
 #: refreshBlocked.goButton
 msgctxt "refreshBlocked.goButton"
 msgid "Allow"
-msgstr "Дозволи"
+msgstr ""
 
 #: refreshBlocked.goButton.accesskey
 msgctxt "refreshBlocked.goButton.accesskey"
 msgid "A"
-msgstr "Д"
+msgstr ""
 
 #: refreshBlocked.refreshLabel
 msgid "%S prevented this page from automatically reloading."
@@ -405,6 +403,7 @@ msgid "Not Now"
 msgstr "Не сад"
 
 #: offlineApps.notNowAccessKey
+msgctxt "offlineApps.notNowAccessKey"
 msgid "N"
 msgstr "Н"
 
@@ -493,3 +492,39 @@ msgstr "Забелешка је уклоњена"
 #: editBookmarkPanel.editBookmarkTitle
 msgid "Edit This Bookmark"
 msgstr "Уреди ову забелешку"
+
+#. # Geolocation UI
+#. # LOCALIZATION NOTE (exactLocation, neighborhoodLocation): These do not have to be
+#. # exact value, instead approximations would be fine.
+#. # examples: Neighborhood (within 2 km)
+#. #           Exact Location (within 3 m)
+#. #
+#: geolocation.exactLocation
+msgid "Exact Location (within 10 feet)"
+msgstr ""
+
+#: geolocation.exactLocationKey
+msgid "E"
+msgstr ""
+
+#: geolocation.neighborhoodLocation
+msgid "Neighborhood (within 1 mile)"
+msgstr ""
+
+#: geolocation.neighborhoodLocationKey
+msgctxt "geolocation.neighborhoodLocationKey"
+msgid "N"
+msgstr ""
+
+#: geolocation.nothingLocation
+msgid "Nothing"
+msgstr ""
+
+#: geolocation.nothingLocationKey
+msgctxt "geolocation.nothingLocationKey"
+msgid "o"
+msgstr ""
+
+#: geolocation.requestMessage
+msgid "%S wants to know where you are.  Tell them:"
+msgstr ""

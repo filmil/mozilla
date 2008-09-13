@@ -33,13 +33,13 @@
 #. # the terms of any one of the MPL, the GPL or the LGPL.
 #. #
 #. # ***** END LICENSE BLOCK *****
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/installer/custom.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/installer/custom.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-04 20:11+0200\n"
+"POT-Creation-Date: 2008-09-14 00:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,26 +65,6 @@ msgid ""
 "$BrandShortName delivers safe, easy web browsing. A familiar user interface, "
 "enhanced security features including protection from online identity theft, "
 "and integrated search let you get the most out of the web."
-msgstr ""
-
-#: OPTIONAL_COMPONENTS_TITLE
-msgid "Choose Optional Components"
-msgstr ""
-
-#: OPTIONAL_COMPONENTS_SUBTITLE
-msgid "Choose which features of $BrandShortName you want to install."
-msgstr ""
-
-#: OPTIONAL_COMPONENTS_LABEL
-msgid "Optional Components:"
-msgstr ""
-
-#: DOMI_TITLE
-msgid "DOM Inspector"
-msgstr ""
-
-#: DOMI_TEXT
-msgid "Inspects the structure and properties of a window and its contents."
 msgstr ""
 
 #: CONTEXT_OPTIONS
@@ -154,13 +134,6 @@ msgstr ""
 
 #: LAUNCH_TEXT
 msgid "&Launch $BrandShortName now"
-msgstr ""
-
-#: WARN_APP_RUNNING_INSTALL
-msgid ""
-"$BrandShortName must be closed to proceed with the installation.\n"
-"\n"
-"Click \"OK\" to exit $BrandShortName automatically and continue."
 msgstr ""
 
 #: CREATE_ICONS_DESC
@@ -282,10 +255,6 @@ msgstr ""
 msgid "Installing Language Files (${AB_CD})…"
 msgstr ""
 
-#: STATUS_INSTALL_OPTIONAL
-msgid "Installing Optional Components…"
-msgstr ""
-
 #: STATUS_UNINSTALL_MAIN
 msgid "Uninstalling $BrandShortName…"
 msgstr ""
@@ -307,15 +276,6 @@ msgstr ""
 
 #: OPTION_STANDARD_RADIO
 msgid "&Standard"
-msgstr ""
-
-#. # One line
-#: OPTION_COMPLETE_DESC
-msgid "$BrandShortName will be installed with all available options."
-msgstr ""
-
-#: OPTION_COMPLETE_RADIO
-msgid "C&omplete"
 msgstr ""
 
 #. # Two lines
