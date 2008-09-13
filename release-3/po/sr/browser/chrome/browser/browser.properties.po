@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-14 00:06+0200\n"
-"PO-Revision-Date: 2008-09-14 00:08+0200\n"
+"PO-Revision-Date: 2008-09-14 00:55+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.1.1\n"
 "X-Accelerator-Marker: &\n"
+"Plural-Forms: 1\n"
 
 # SessionHistory.js
 # Localization Note: Use 'true' or 'false' to control the pref:theme to
@@ -333,12 +334,12 @@ msgstr "Иди напред до ове стране"
 #: refreshBlocked.goButton
 msgctxt "refreshBlocked.goButton"
 msgid "Allow"
-msgstr ""
+msgstr "Дозволи"
 
 #: refreshBlocked.goButton.accesskey
 msgctxt "refreshBlocked.goButton.accesskey"
 msgid "A"
-msgstr ""
+msgstr "Д"
 
 #: refreshBlocked.refreshLabel
 msgid "%S prevented this page from automatically reloading."
@@ -501,30 +502,30 @@ msgstr "Уреди ову забелешку"
 #. #
 #: geolocation.exactLocation
 msgid "Exact Location (within 10 feet)"
-msgstr ""
+msgstr "Тачно место (одступање до 3 метра)"
 
 #: geolocation.exactLocationKey
 msgid "E"
-msgstr ""
+msgstr "Т"
 
 #: geolocation.neighborhoodLocation
 msgid "Neighborhood (within 1 mile)"
-msgstr ""
+msgstr "Суседство (одступање до 1.6 километара)"
 
 #: geolocation.neighborhoodLocationKey
 msgctxt "geolocation.neighborhoodLocationKey"
 msgid "N"
-msgstr ""
+msgstr "С"
 
 #: geolocation.nothingLocation
 msgid "Nothing"
-msgstr ""
+msgstr "Ништа"
 
 #: geolocation.nothingLocationKey
 msgctxt "geolocation.nothingLocationKey"
 msgid "o"
-msgstr ""
+msgstr "Н"
 
 #: geolocation.requestMessage
 msgid "%S wants to know where you are.  Tell them:"
-msgstr ""
+msgstr "%S жели да зна где се налазите.  Ваш одговор је:"

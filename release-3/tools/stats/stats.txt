@@ -2,15 +2,10 @@ po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	264 translated mes
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
 po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	330 translated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
-po/sr/security/manager/chrome/pippki/pref-ssl.dtd.po:	26 translated messages.
 po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages.
-po/sr/security/manager/chrome/pippki/pref-validation.dtd.po:	39 translated messages.
-po/sr/security/manager/chrome/pippki/pref-masterpass.dtd.po:	18 translated messages.
+po/sr/security/manager/chrome/pippki/validation.dtd.po:	26 translated messages.
 po/sr/security/manager/chrome/pippki/pippki.properties.po:	141 translated messages.
-po/sr/security/manager/chrome/pippki/pref-security.dtd.po:	12 translated messages.
-po/sr/security/manager/chrome/pippki/PrefOverlay.dtd.po:	5 translated messages.
-po/sr/security/manager/chrome/pippki/pippki.dtd.po:	62 translated messages.
-po/sr/security/manager/chrome/pippki/PageInfoOverlay.dtd.po:	4 translated messages.
+po/sr/security/manager/chrome/pippki/pippki.dtd.po:	68 translated messages.
 po/sr/mail/updater/updater.ini.po:	2 translated messages.
 po/sr/mail/chrome/branding/brand.dtd.po:	3 translated messages.
 po/sr/mail/chrome/branding/brand.properties.po:	3 translated messages.
@@ -231,8 +226,10 @@ po/sr/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
 po/sr/browser/chrome/browser/openLocation.dtd.po:	8 translated messages.
 po/sr/browser/chrome/browser/aboutRobots.dtd.po:	10 translated messages.
-po/sr/browser/chrome/browser/search.properties.po:	12 translated messages.
-po/sr/browser/chrome/browser/aboutDialog.dtd.po:	7 translated messages.
+po/sr/browser/chrome/browser/search.properties.po:	6 translated messages.
+po/sr/browser/chrome/browser/aboutDialog.dtd.po:	po/sr/browser/chrome/browser/aboutDialog.dtd.po: warning: Charset "CHARSET" is not a portable encoding name.
+                                                          Message conversion to user's charset might not work.
+9 translated messages.
 po/sr/browser/chrome/browser/openLocation.properties.po:	1 translated message.
 po/sr/browser/chrome/browser/tabbrowser.dtd.po:	10 translated messages.
 po/sr/browser/chrome/browser/browser.dtd.po:	197 translated messages, 3 untranslated messages.
@@ -260,7 +257,7 @@ po/sr/browser/chrome/browser/preferences/advanced-scripts.dtd.po:	9 translated m
 po/sr/browser/chrome/browser/preferences/languages.dtd.po:	9 translated messages.
 po/sr/browser/chrome/browser/preferences/security.dtd.po:	13 translated messages.
 po/sr/browser/chrome/browser/preferences/securityWarnings.dtd.po:	7 translated messages.
-po/sr/browser/chrome/browser/preferences/cookies.dtd.po:	19 translated messages.
+po/sr/browser/chrome/browser/preferences/cookies.dtd.po:	18 translated messages.
 po/sr/browser/chrome/browser/preferences/connection.dtd.po:	25 translated messages, 1 untranslated message.
 po/sr/browser/chrome/browser/preferences/selectBookmark.dtd.po:	2 translated messages.
 po/sr/browser/chrome/browser/preferences/fonts.dtd.po:	50 translated messages.
@@ -270,7 +267,7 @@ po/sr/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated messa
 po/sr/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
 po/sr/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
-po/sr/browser/chrome/browser/browser.properties.po:	91 translated messages, 2 untranslated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	91 translated messages, 9 untranslated messages.
 po/sr/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
 po/sr/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
@@ -294,7 +291,7 @@ po/sr/browser/chrome/overrides/settingsChange.dtd.po:	2 translated messages.
 po/sr/browser/chrome/overrides/appstrings.properties.po:	26 translated messages.
 po/sr/browser/installer/mui.properties.po:	43 translated messages.
 po/sr/browser/installer/override.properties.po:	61 translated messages.
-po/sr/browser/installer/custom.properties.po:	57 translated messages.
+po/sr/browser/installer/custom.properties.po:	48 translated messages.
 po/sr/browser/defines.inc.po:	2 translated messages.
 po/sr/other-licenses/branding/firefox/brand.dtd.po:	3 translated messages.
 po/sr/other-licenses/branding/firefox/brand.properties.po:	7 translated messages.
@@ -346,7 +343,7 @@ po/sr/dom/chrome/netError.dtd.po:	42 translated messages, 1 fuzzy translation.
 po/sr/dom/chrome/webservices/security.properties.po:	8 translated messages.
 po/sr/dom/chrome/charsetTitles.properties.po:	99 translated messages.
 po/sr/dom/chrome/printdialog.properties.po:	5 translated messages.
-po/sr/dom/chrome/dom/dom.properties.po:	22 translated messages.
+po/sr/dom/chrome/dom/dom.properties.po:	24 translated messages.
 po/sr/dom/chrome/global.dtd.po:	1 translated message.
 po/sr/dom/chrome/xslt/xslt.properties.po:	32 translated messages, 1 untranslated message.
 po/sr/dom/chrome/storage.properties.po:	1 translated message.
@@ -355,9 +352,7 @@ po/sr/dom/chrome/plugins.properties.po:	12 translated messages.
 po/sr/dom/chrome/layout/layout_errors.properties.po:	5 translated messages.
 po/sr/dom/chrome/layout/xul.properties.po:	4 translated messages.
 po/sr/dom/chrome/layout/xmlparser.properties.po:	35 translated messages.
-po/sr/dom/chrome/layout/css.properties.po:	po/sr/dom/chrome/layout/css.properties.po: warning: Charset "CHARSET" is not a portable encoding name.
-                                                    Message conversion to user's charset might not work.
-99 translated messages.
+po/sr/dom/chrome/layout/css.properties.po:	100 translated messages.
 po/sr/dom/chrome/layout/HtmlForm.properties.po:	8 translated messages.
 po/sr/dom/chrome/layout/MediaDocument.properties.po:	9 translated messages.
 po/sr/dom/chrome/layout/xbl.properties.po:	6 translated messages.
@@ -394,7 +389,7 @@ po/sr/toolkit/chrome/global/datetimepicker.dtd.po:	1 translated message.
 po/sr/toolkit/chrome/global/keys.properties.po:	35 translated messages.
 po/sr/toolkit/chrome/global/contentAreaCommands.properties.po:	9 translated messages.
 po/sr/toolkit/chrome/global/wizard.properties.po:	4 translated messages.
-po/sr/toolkit/chrome/global/config.dtd.po:	24 translated messages.
+po/sr/toolkit/chrome/global/config.dtd.po:	23 translated messages.
 po/sr/toolkit/chrome/global/editMenuOverlay.dtd.po:	20 translated messages.
 po/sr/toolkit/chrome/global/viewSource.dtd.po:	30 translated messages, 3 untranslated messages.
 po/sr/toolkit/chrome/global/console.properties.po:	6 translated messages.
@@ -447,7 +442,7 @@ po/sr/toolkit/chrome/mozapps/downloads/settingsChange.dtd.po:	2 translated messa
 po/sr/toolkit/chrome/mozapps/handling/handling.dtd.po:	3 translated messages.
 po/sr/toolkit/chrome/mozapps/handling/handling.properties.po:	7 translated messages.
 po/sr/toolkit/chrome/mozapps/update/history.dtd.po:	8 translated messages.
-po/sr/toolkit/chrome/mozapps/update/updates.properties.po:	77 translated messages, 3 fuzzy translations.
+po/sr/toolkit/chrome/mozapps/update/updates.properties.po:	81 translated messages.
 po/sr/toolkit/chrome/mozapps/update/incompatible.dtd.po:	5 translated messages.
 po/sr/toolkit/chrome/mozapps/update/errors.dtd.po:	1 translated message.
 po/sr/toolkit/chrome/mozapps/update/updates.dtd.po:	0 translated messages.
@@ -472,5 +467,4 @@ po/sr/toolkit/chrome/mozapps/profile/createProfileWizard.dtd.po:	13 translated m
 po/sr/toolkit/chrome/mozapps/profile/profileSelection.properties.po:	27 translated messages.
 po/sr/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.properties.po:	9 translated messages.
 po/sr/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po:	5 translated messages.
-po/sr/toolkit/installer/windows/install.it.po:	121 translated messages.
 po/sr/toolkit/defines.inc.po:	1 translated message.
