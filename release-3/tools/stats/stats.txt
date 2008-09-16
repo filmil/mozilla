@@ -267,7 +267,7 @@ po/sr/browser/chrome/browser/preferences/permissions.dtd.po:	12 translated messa
 po/sr/browser/chrome/browser/preferences/privacy.dtd.po:	20 translated messages.
 po/sr/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages.
-po/sr/browser/chrome/browser/browser.properties.po:	91 translated messages, 9 untranslated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	100 translated messages.
 po/sr/browser/chrome/browser/sessionstore.properties.po:	4 translated messages.
 po/sr/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	12 translated messages.
@@ -366,6 +366,7 @@ po/sr/toolkit/crashreporter/crashreporter.ini.po:	37 translated messages, 1 untr
 po/sr/toolkit/crashreporter/crashes.dtd.po:	6 translated messages.
 po/sr/toolkit/chrome/alerts/notificationNames.properties.po:	1 translated message.
 po/sr/toolkit/chrome/autoconfig/autoconfig.properties.po:	6 translated messages.
+po/sr/toolkit/chrome/search/search.properties.po:	10 translated messages.
 po/sr/toolkit/chrome/global-platform/unix/platformKeys.properties.po:	5 translated messages.
 po/sr/toolkit/chrome/global-platform/unix/intl.properties.po:	2 translated messages.
 po/sr/toolkit/chrome/global-platform/win/platformKeys.properties.po:	5 translated messages.
