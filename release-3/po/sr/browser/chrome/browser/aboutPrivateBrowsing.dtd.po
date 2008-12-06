@@ -1,0 +1,54 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/aboutPrivateBrowsing.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-10 22:57-0700\n"
+"PO-Revision-Date: 2008-11-10 23:01-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Accelerator-Marker: &\n"
+
+#: privatebrowsingpage.tabtitle
+msgctxt "privatebrowsingpage.tabtitle"
+msgid "Private Browsing"
+msgstr "Поверљиво читање"
+
+#: privatebrowsingpage.pagetitle
+msgctxt "privatebrowsingpage.pagetitle"
+msgid "Private Browsing"
+msgstr "Поверљиво читање"
+
+#: privatebrowsingpage.issueDesc
+msgid "&brandShortName; won't remember any history for this session."
+msgstr "Програм &brandShortName; неће памтити историјат за ову сесију."
+
+#: privatebrowsingpage.longDesc
+msgid ""
+"No history will be recorded by &brandShortName; during this browsing "
+"session.  This includes browser history, search history, download history, "
+"web form history, cookies, and temporary internet files.  However, any files "
+"you download or bookmarks you create will be preserved."
+msgstr "Програм &brandShortName; неће памтити историјат током ове сесије.  Ово укључује историјат прегледа, историјат пријема, историјат формулара, колачића и привремених датотека.  Међутим, све датотеке које примите или забелешке које направите биће сачуване."
+
+#: privatebrowsingpage.clearRecentHistoryDesc
+msgid "You may want to start by also clearing your recent history."
+msgstr "За почетак можете уклонити недавни историјат."
+
+#: privatebrowsingpage.recentHistory.label
+#: privatebrowsingpage.recentHistory.accesskey
+msgid "&Clear Recent History"
+msgstr "&Уклони недавни историјат"
+
+#: privatebrowsingpage.howToStopDesc
+msgid "To stop private browsing, uncheck Tools &gt; Private Browsing."
+msgstr "Да бисте искључили поверљиво читање, искључите Алатке > Поверљиво читање."
+
+#: privatebrowsingpage.footerDesc
+msgid "Enjoy!"
+msgstr "Пријатан рад!"
