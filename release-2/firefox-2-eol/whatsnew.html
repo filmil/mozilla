@@ -1,0 +1,40 @@
+<?php
+    // The $body_* variables are for compatibility with pre-existing css
+    // the $page_title value should be translated
+    $page_title = 'Фајерфокс (Firefox) је дограђен';
+    $body_id    = 'whatsnew';
+    $body_class = 'portal-page ff2-final';
+
+    $extra_headers = <<<EXTRA_HEADERS
+    <link rel="stylesheet" type="text/css" href="{$config['static_prefix']}/style/tignish/whatsnew-page.css" media="screen" />
+EXTRA_HEADERS;
+
+    @include_once "{$config['file_root']}/{$lang}/includes/header-portal-pages.inc.php";
+?>
+
+<div id="main-feature">
+        <h2 id="main-feature-title">Доградили сте на последње издање фајерфокса 2 (Firefox 2).</h2>
+        <p id="main-feature-contents">Ово је <em>последња планирана доградња</em> за фајерфокс 2.</p>
+</div>
+
+<div id="main-content">
+        <h3>Толико о фајерфоксу 2… Доградите на издање 3 већ данас!</h3>
+        <p>Мозила (Mozilla) више нема планова да изда доградње за стабилност и безбедност за фајерфокс 2, и препоручује Вам да <a href="/<?=$lang?>/firefox/">доградите програм на фајерфокс 3 (Firefox 3)</a> што је пре могуће.  Доградња је бесплатна, а сва подешавања и све забелешке биће сачувани.</p>
+        <p>Такође, <strong>заштита против превара више неће бити доступна за кориснике фајерфокса 2.</strong>.  Фајерфокс 3 нуди бесплатну услугу за заштиту од превара и злонамерних програма, која ће Вас убудуће штитити од превара и напада са мреже.</p>
+</div>
+
+<div id="sidebar">
+        <script type="text/javascript" src="/js/download.js"></script>
+        <?php
+                $_options = array('ancillary_links' => true, 'layout' => 'sidebar', 'download_parent_override' => 'sidebar');
+                echo $firefoxDetails->getDownloadBlockForLocale($lang, $_options);
+        ?>
+</div>
+
+
+<?php
+    $extra_footers = <<<EXTRA_FOOTERS
+    <script type="text/javascript" src="/js/whats-new-page.js"></script>
+EXTRA_FOOTERS;
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>
