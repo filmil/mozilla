@@ -5,7 +5,7 @@ include Makefile.inc
 
 .PHONY: all clean pot clean_pot stats initpo
 .PHONY: match populate output normalize_convert_codepage copy_to_hg 
-.PHONY: find_fixme check_pofilter merge_pofilter commit
+.PHONY: find_fixme check_pofilter merge_pofilter commit accept_merge
 
 all: clean normalize_convert_codepage stats 
 
@@ -13,7 +13,7 @@ all: clean normalize_convert_codepage stats
 # SOURCE_DIR = the source directory from Mozilla
 # POT_DIR = directory to dump the produced POT files to
 pot: 
-	@echo "Making the tenplate directory"
+	@echo "Making the template directory"
 	$(MOZ2PO) -i $(SOURCE_DIR) --pot -o $(POT_DIR)
 	@echo "Removing non-POT files from the template directory"
 	( cd $(POT_DIR) ; 					\
@@ -41,12 +41,14 @@ merge_po: pot
 	  done; )
 
 # Accepts the merge results
-merge_accept:
+accept_merge:
 	$(CP) -r --delete $(MERGED_PO_OUTPUT_DIR)/ $(PO_SOURCE_DIR)/
 
 # Tests for common mistakes in the translations.
 check_pofilter:
 	$(POFILTER) $(PO_TRANSLATIONS) $(FAIL_DIR)
+	@echo "Files with problems:"
+	find $(FAIL_DIR) -name '*.po'
 
 # Merge the files produced with check_pofilter into the mainline PO files
 merge_pofilter:
