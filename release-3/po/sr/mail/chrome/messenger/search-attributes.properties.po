@@ -1,3 +1,18 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/search-attributes.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Accelerator-Marker: &\n"
 
 # these need to match nsMsgSearchAttrib interface in nsMsgSearchCore.idl
 #. #these need to match nsMsgSearchAttrib interface in nsMsgSearchCore.idl
@@ -145,174 +160,54 @@ msgid "Department"
 msgstr "Одељење"
 
 #: 33
-#: 34
-#: 35
-#: 36
-#: 37
-#: 38
-#: 39
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "33"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 34
-#: 33
-#: 35
-#: 36
-#: 37
-#: 38
-#: 39
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "34"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 35
-#: 33
-#: 34
-#: 36
-#: 37
-#: 38
-#: 39
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "35"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 36
-#: 33
-#: 34
-#: 35
-#: 37
-#: 38
-#: 39
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "36"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 37
-#: 33
-#: 34
-#: 35
-#: 36
-#: 38
-#: 39
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "37"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 38
-#: 33
-#: 34
-#: 35
-#: 36
-#: 37
-#: 39
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "38"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 39
-#: 33
-#: 34
-#: 35
-#: 36
-#: 37
-#: 38
-#: 40
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "39"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 40
-#: 33
-#: 34
-#: 35
-#: 36
-#: 37
-#: 38
-#: 39
-#: 41
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "40"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 41
-#: 33
-#: 34
-#: 35
-#: 36
-#: 37
-#: 38
-#: 39
-#: 40
-#: 42
-#: 43
-#: 44
-#: 45
 msgctxt "41"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 42
-#: 33
-#: 34
-#: 35
-#: 36
-#: 37
-#: 38
-#: 39
-#: 40
-#: 41
-#: 43
-#: 44
-#: 45
 msgctxt "42"
 msgid "reserved for AB"
-msgstr "резервисано за AB"
+msgstr ""
 
 #: 43
 #: 33

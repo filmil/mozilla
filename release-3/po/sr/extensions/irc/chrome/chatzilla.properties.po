@@ -41,7 +41,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-07-06 17:00+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -139,27 +139,21 @@ msgid ""
 "LOCALIZATION TEAM XXX"
 msgstr ""
 
-# Misc
 #. # Misc
 #: unknown
-#: cmd.label-user.label
-#: cmd.label-user-multi.label
-#: msg.unknown
 msgctxt "unknown"
 msgid "<unknown>"
-msgstr "<непознат>"
+msgstr ""
 
 #: none
-#: msg.none
 msgctxt "none"
 msgid "<none>"
-msgstr "<нема>"
+msgstr ""
 
 #: na
-#: msg.na
 msgctxt "na"
 msgid "<n/a>"
-msgstr "<н/д>"
+msgstr ""
 
 # util.js
 #. # util.js
@@ -258,16 +252,9 @@ msgid "Away ($reason)"
 msgstr "Одсутан ($reason)"
 
 #: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.disconnect-all.params
-#: cmd.exit.params
-#: cmd.reconnect.params
-#: cmd.reconnect-all.params
-#: cmd.quit.params
-#: cmd.rejoin.params
 msgctxt "cmd.away.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.away.help
 msgid ""
@@ -300,15 +287,9 @@ msgid "Ban from $channelName"
 msgstr "Протерује корисника са $channelName"
 
 #: cmd.ban.params
-#: cmd.dcc-chat.params
-#: cmd.dcc-decline.params
-#: cmd.except.params
-#: cmd.nick.params
-#: cmd.time.params
-#: cmd.version.params
 msgctxt "cmd.ban.params"
 msgid "[<nickname>]"
-msgstr "[<nickname>]"
+msgstr ""
 
 #: cmd.ban.help
 msgid ""
@@ -349,10 +330,9 @@ msgid ""
 msgstr ""
 
 #: cmd.charset.params
-#: cmd.default-charset.params
 msgctxt "cmd.charset.params"
 msgid "[<new-charset>]"
-msgstr "[<new-charset>]"
+msgstr ""
 
 #: cmd.charset.help
 msgid ""
@@ -386,12 +366,9 @@ msgstr ""
 "како се четзила користи.  Видети и: |motif|."
 
 #: cmd.channel-pref.params
-#: cmd.network-pref.params
-#: cmd.pref.params
-#: cmd.user-pref.params
 msgctxt "cmd.channel-pref.params"
 msgid "[<pref-name> [<pref-value>]]"
-msgstr "[<pref-name> [<pref-value>]]"
+msgstr ""
 
 #: cmd.channel-pref.help
 msgid ""
@@ -413,11 +390,9 @@ msgid "Cl&ear Tab"
 msgstr "О&чисти језичак"
 
 #: cmd.clear-view.params
-#: cmd.delete-view.params
-#: cmd.hide-view.params
 msgctxt "cmd.clear-view.params"
 msgid "[<view>]"
-msgstr "[<view>]"
+msgstr ""
 
 #: cmd.clear-view.help
 msgid "Clear the current view, discarding *all* content."
@@ -582,10 +557,9 @@ msgid "Copy Link Location"
 msgstr "Умножи одредиште везе"
 
 #: cmd.cmd-copy-link-url.params
-#: cmd.load.params
 msgctxt "cmd.cmd-copy-link-url.params"
 msgid "<url>"
-msgstr "<url>"
+msgstr ""
 
 #: cmd.cmd-copy-link-url.help
 msgid "Copies the URL of the current link to clipboard."
@@ -664,10 +638,9 @@ msgid ""
 msgstr ""
 
 #: cmd.commands.params
-#: cmd.help.params
 msgctxt "cmd.commands.params"
 msgid "[<pattern>]"
-msgstr "[<pattern>]"
+msgstr ""
 
 #: cmd.commands.help
 msgid ""
@@ -678,10 +651,9 @@ msgstr ""
 "команди ако образац није задат."
 
 #: cmd.create-tab-for-view.params
-#: cmd.set-current-view.params
 msgctxt "cmd.create-tab-for-view.params"
 msgid "<view>"
-msgstr "<view>"
+msgstr ""
 
 #: cmd.create-tab-for-view.help
 msgctxt "cmd.create-tab-for-view.help"
@@ -766,10 +738,9 @@ msgstr ""
 "корисник било име канала."
 
 #: cmd.dcc-accept.params
-#: cmd.dcc-close.params
 msgctxt "cmd.dcc-accept.params"
 msgid "[<nickname> [<type> [<file>]]]"
-msgstr "[<nickname> [<type> [<file>]]]"
+msgstr ""
 
 #: cmd.dcc-accept.help
 msgid ""
@@ -796,41 +767,27 @@ msgid "Displays the DCC auto-accept list for the current network."
 msgstr "Приказује списак за аутоматско прихватање ДЦЦа за тренутну мрежу."
 
 #: cmd.dcc-accept-list-add.params
-#: cmd.dcc-accept-list-remove.params
-#: cmd.unban.params
-#: cmd.unexcept.params
-#: cmd.ping.params
 msgctxt "cmd.dcc-accept-list-add.params"
 msgid "<nickname>"
-msgstr "<nickname>"
+msgstr ""
 
 #: cmd.dcc-accept-list-add.help
 msgid "Add someone to your DCC auto-accept list for the current network."
 msgstr "Додаје неког у списак за аутоматско прихватање ДЦЦа за тренутну мрежу."
 
 #: cmd.dcc-accept-list-remove.params
-#: cmd.dcc-accept-list-add.params
-#: cmd.unban.params
-#: cmd.unexcept.params
-#: cmd.ping.params
 msgctxt "cmd.dcc-accept-list-remove.params"
 msgid "<nickname>"
-msgstr "<nickname>"
+msgstr ""
 
 #: cmd.dcc-accept-list-remove.help
 msgid "Remove someone from your DCC auto-accept list for the current network."
 msgstr "Уклања неког из списка за аутоматско прихватање за тренутну мрежу."
 
 #: cmd.dcc-chat.params
-#: cmd.ban.params
-#: cmd.dcc-decline.params
-#: cmd.except.params
-#: cmd.nick.params
-#: cmd.time.params
-#: cmd.version.params
 msgctxt "cmd.dcc-chat.params"
 msgid "[<nickname>]"
-msgstr "[<nickname>]"
+msgstr ""
 
 #: cmd.dcc-chat.help
 msgid ""
@@ -865,15 +822,9 @@ msgstr ""
 "<nickname> било за <file>."
 
 #: cmd.dcc-decline.params
-#: cmd.ban.params
-#: cmd.dcc-chat.params
-#: cmd.except.params
-#: cmd.nick.params
-#: cmd.time.params
-#: cmd.version.params
 msgctxt "cmd.dcc-decline.params"
 msgid "[<nickname>]"
-msgstr "[<nickname>]"
+msgstr ""
 
 #: cmd.dcc-decline.help
 msgid ""
@@ -927,11 +878,9 @@ msgid "&Close Tab"
 msgstr "&Затвори језичак"
 
 #: cmd.delete-view.params
-#: cmd.clear-view.params
-#: cmd.hide-view.params
 msgctxt "cmd.delete-view.params"
 msgid "[<view>]"
-msgstr "[<view>]"
+msgstr ""
 
 #: cmd.delete-view.help
 msgid ""
@@ -948,18 +897,9 @@ msgid "Remove Half-operator Status"
 msgstr "Уклони статус полу-оператора"
 
 #: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.dehop.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.dehop.help
 msgid ""
@@ -974,18 +914,9 @@ msgid "Remove Operator Status"
 msgstr "Уклони статус оператора"
 
 #: cmd.deop.params
-#: cmd.dehop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.deop.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.deop.help
 msgid ""
@@ -1014,18 +945,9 @@ msgid "Remove Voice Status"
 msgstr "Одузми реч"
 
 #: cmd.devoice.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.devoice.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.devoice.help
 msgid ""
@@ -1044,16 +966,9 @@ msgid "&Disconnect"
 msgstr "&Искључење"
 
 #: cmd.disconnect.params
-#: cmd.away.params
-#: cmd.disconnect-all.params
-#: cmd.exit.params
-#: cmd.reconnect.params
-#: cmd.reconnect-all.params
-#: cmd.quit.params
-#: cmd.rejoin.params
 msgctxt "cmd.disconnect.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.disconnect.help
 msgid ""
@@ -1070,16 +985,9 @@ msgid "&Disconnect From All Networks"
 msgstr "&Искључење са свих мрежа"
 
 #: cmd.disconnect-all.params
-#: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.exit.params
-#: cmd.reconnect.params
-#: cmd.reconnect-all.params
-#: cmd.quit.params
-#: cmd.rejoin.params
 msgctxt "cmd.disconnect-all.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.disconnect-all.key
 msgid "accel D"
@@ -1094,10 +1002,9 @@ msgstr ""
 "<reason> није наведен."
 
 #: cmd.echo.params
-#: cmd.say.params
 msgctxt "cmd.echo.params"
 msgid "<message>"
-msgstr "<message>"
+msgstr ""
 
 #: cmd.echo.help
 msgid ""
@@ -1106,11 +1013,9 @@ msgstr ""
 "Приказује поруку <message> у тренутном погледу, али је не шаље на сервер."
 
 #: cmd.enable-plugin.params
-#: cmd.reload-plugin.params
-#: cmd.disable-plugin.params
 msgctxt "cmd.enable-plugin.params"
 msgid "<plugin>"
-msgstr "<plugin>"
+msgstr ""
 
 #: cmd.enable-plugin.help
 msgid ""
@@ -1131,15 +1036,9 @@ msgid "Evaluates <expression> as JavaScript code.  Not for the faint of heart."
 msgstr "Израчунава израз <expression> као јаваскрипт код.  Само за храбре."
 
 #: cmd.except.params
-#: cmd.ban.params
-#: cmd.dcc-chat.params
-#: cmd.dcc-decline.params
-#: cmd.nick.params
-#: cmd.time.params
-#: cmd.version.params
 msgctxt "cmd.except.params"
 msgid "[<nickname>]"
-msgstr "[<nickname>]"
+msgstr ""
 
 #: cmd.except.help
 msgid ""
@@ -1156,16 +1055,9 @@ msgid "E&xit ChatZilla"
 msgstr "&Напусти четзилу"
 
 #: cmd.exit.params
-#: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.disconnect-all.params
-#: cmd.reconnect.params
-#: cmd.reconnect-all.params
-#: cmd.quit.params
-#: cmd.rejoin.params
 msgctxt "cmd.exit.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.exit.help
 msgid ""
@@ -1336,12 +1228,9 @@ msgid "Open Link"
 msgstr ""
 
 #: cmd.goto-url.params
-#: cmd.goto-url-newwin.params
-#: cmd.goto-url-newtab.params
-#: cmd.goto-url-external.params
 msgctxt "cmd.goto-url.params"
 msgid "<url> [<anchor>]"
-msgstr "<url> [<anchor>]"
+msgstr ""
 
 #: cmd.goto-url.help
 msgid ""
@@ -1356,12 +1245,9 @@ msgid "Open Link in New Window"
 msgstr ""
 
 #: cmd.goto-url-newwin.params
-#: cmd.goto-url.params
-#: cmd.goto-url-newtab.params
-#: cmd.goto-url-external.params
 msgctxt "cmd.goto-url-newwin.params"
 msgid "<url> [<anchor>]"
-msgstr "<url> [<anchor>]"
+msgstr ""
 
 #: cmd.goto-url-newwin.help
 msgid ""
@@ -1375,12 +1261,9 @@ msgid "Open Link in New Tab"
 msgstr ""
 
 #: cmd.goto-url-newtab.params
-#: cmd.goto-url.params
-#: cmd.goto-url-newwin.params
-#: cmd.goto-url-external.params
 msgctxt "cmd.goto-url-newtab.params"
 msgid "<url> [<anchor>]"
-msgstr "<url> [<anchor>]"
+msgstr ""
 
 #: cmd.goto-url-newtab.help
 msgid ""
@@ -1452,18 +1335,9 @@ msgid "Give Half-operator Status"
 msgstr ""
 
 #: cmd.hop.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.hop.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.hop.help
 msgid ""
@@ -1491,16 +1365,9 @@ msgid "&Reconnect"
 msgstr ""
 
 #: cmd.reconnect.params
-#: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.disconnect-all.params
-#: cmd.exit.params
-#: cmd.reconnect-all.params
-#: cmd.quit.params
-#: cmd.rejoin.params
 msgctxt "cmd.reconnect.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.reconnect.help
 msgid ""
@@ -1514,16 +1381,9 @@ msgid "&Reconnect To All Networks"
 msgstr ""
 
 #: cmd.reconnect-all.params
-#: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.disconnect-all.params
-#: cmd.exit.params
-#: cmd.reconnect.params
-#: cmd.quit.params
-#: cmd.rejoin.params
 msgctxt "cmd.reconnect-all.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.reconnect-all.help
 msgid ""
@@ -1574,7 +1434,6 @@ msgid "accel shift H"
 msgstr ""
 
 #: cmd.input-text-direction.params
-#: cmd.text-direction.params
 msgctxt "cmd.input-text-direction.params"
 msgid "<dir>"
 msgstr ""
@@ -1660,13 +1519,9 @@ msgid "Un-ban from $channelName"
 msgstr ""
 
 #: cmd.unban.params
-#: cmd.dcc-accept-list-add.params
-#: cmd.dcc-accept-list-remove.params
-#: cmd.unexcept.params
-#: cmd.ping.params
 msgctxt "cmd.unban.params"
 msgid "<nickname>"
-msgstr "<nickname>"
+msgstr ""
 
 #: cmd.unban.help
 msgid ""
@@ -1675,13 +1530,9 @@ msgid ""
 msgstr ""
 
 #: cmd.unexcept.params
-#: cmd.dcc-accept-list-add.params
-#: cmd.dcc-accept-list-remove.params
-#: cmd.unban.params
-#: cmd.ping.params
 msgctxt "cmd.unexcept.params"
 msgid "<nickname>"
-msgstr "<nickname>"
+msgstr ""
 
 #: cmd.unexcept.help
 msgid "Removes a channel ban exception."
@@ -1784,7 +1635,6 @@ msgid "Kick"
 msgstr "Шут"
 
 #: cmd.kick.params
-#: cmd.kick-ban.params
 msgctxt "cmd.kick.params"
 msgid "<nickname> [<reason>]"
 msgstr ""
@@ -1827,17 +1677,12 @@ msgstr ""
 msgid "«$nickname»"
 msgstr ""
 
-# Misc
 #: cmd.label-user.label
-#: unknown
-#: cmd.label-user-multi.label
-#: msg.unknown
 msgctxt "cmd.label-user.label"
 msgid "<unknown>"
-msgstr "<непознат>"
+msgstr ""
 
 #: cmd.label-user.params
-#: cmd.label-user-multi.params
 msgctxt "cmd.label-user.params"
 msgid "<unspecified>"
 msgstr ""
@@ -1853,14 +1698,10 @@ msgstr ""
 msgid "«$userCount users»"
 msgstr ""
 
-# Misc
 #: cmd.label-user-multi.label
-#: unknown
-#: cmd.label-user.label
-#: msg.unknown
 msgctxt "cmd.label-user-multi.label"
 msgid "<unknown>"
-msgstr "<непознат>"
+msgstr ""
 
 #: cmd.label-user-multi.params
 #: cmd.label-user.params
@@ -1905,7 +1746,6 @@ msgid ""
 msgstr ""
 
 #: cmd.list.params
-#: cmd.names.params
 msgctxt "cmd.list.params"
 msgid "[<channel-name>]"
 msgstr ""
@@ -1943,11 +1783,9 @@ msgid ""
 msgstr ""
 
 #: cmd.reload-plugin.params
-#: cmd.enable-plugin.params
-#: cmd.disable-plugin.params
 msgctxt "cmd.reload-plugin.params"
 msgid "<plugin>"
-msgstr "<plugin>"
+msgstr ""
 
 #: cmd.reload-plugin.help
 msgid ""
@@ -1992,7 +1830,6 @@ msgid ""
 msgstr ""
 
 #: cmd.match-users.params
-#: cmd.unignore.params
 msgctxt "cmd.match-users.params"
 msgid "<mask>"
 msgstr ""
@@ -2054,7 +1891,6 @@ msgid "&Light Motif"
 msgstr ""
 
 #: cmd.msg.params
-#: cmd.notice.params
 msgctxt "cmd.msg.params"
 msgid "<nickname> <message>"
 msgstr ""
@@ -2113,12 +1949,9 @@ msgid ""
 msgstr ""
 
 #: cmd.network-pref.params
-#: cmd.channel-pref.params
-#: cmd.pref.params
-#: cmd.user-pref.params
 msgctxt "cmd.network-pref.params"
 msgid "[<pref-name> [<pref-value>]]"
-msgstr "[<pref-name> [<pref-value>]]"
+msgstr ""
 
 #: cmd.network-pref.help
 msgid ""
@@ -2135,15 +1968,9 @@ msgid "Change nickname…"
 msgstr ""
 
 #: cmd.nick.params
-#: cmd.ban.params
-#: cmd.dcc-chat.params
-#: cmd.dcc-decline.params
-#: cmd.except.params
-#: cmd.time.params
-#: cmd.version.params
 msgctxt "cmd.nick.params"
 msgid "[<nickname>]"
-msgstr "[<nickname>]"
+msgstr ""
 
 #: cmd.nick.help
 msgid "Changes your nickname. If |nickname| is omited, a prompt is shown."
@@ -2176,18 +2003,9 @@ msgid "Give Operator Status"
 msgstr ""
 
 #: cmd.op.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.op.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.op.help
 msgid ""
@@ -2196,7 +2014,6 @@ msgid ""
 msgstr ""
 
 #: cmd.open-at-startup.params
-#: cmd.timestamps.params
 msgctxt "cmd.open-at-startup.params"
 msgid "[<toggle>]"
 msgstr ""
@@ -2284,15 +2101,9 @@ msgid ""
 msgstr ""
 
 #: cmd.time.params
-#: cmd.ban.params
-#: cmd.dcc-chat.params
-#: cmd.dcc-decline.params
-#: cmd.except.params
-#: cmd.nick.params
-#: cmd.version.params
 msgctxt "cmd.time.params"
 msgid "[<nickname>]"
-msgstr "[<nickname>]"
+msgstr ""
 
 #: cmd.time.help
 msgid ""
@@ -2374,12 +2185,9 @@ msgid ""
 msgstr ""
 
 #: cmd.pref.params
-#: cmd.channel-pref.params
-#: cmd.network-pref.params
-#: cmd.user-pref.params
 msgctxt "cmd.pref.params"
 msgid "[<pref-name> [<pref-value>]]"
-msgstr "[<pref-name> [<pref-value>]]"
+msgstr ""
 
 #: cmd.pref.help
 msgid ""
@@ -2409,16 +2217,9 @@ msgid "&Quit ChatZilla"
 msgstr ""
 
 #: cmd.quit.params
-#: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.disconnect-all.params
-#: cmd.exit.params
-#: cmd.reconnect.params
-#: cmd.reconnect-all.params
-#: cmd.rejoin.params
 msgctxt "cmd.quit.params"
 msgid "[<reason>]"
-msgstr "[<reason>]"
+msgstr ""
 
 #: cmd.quit.help
 msgid "Quit ChatZilla."
@@ -2470,7 +2271,6 @@ msgid "Rejoin"
 msgstr ""
 
 #: cmd.server.params
-#: cmd.sslserver.params
 msgctxt "cmd.server.params"
 msgid "<hostname> [<port> [<password>]]"
 msgstr ""
@@ -2595,36 +2395,18 @@ msgid ""
 msgstr ""
 
 #: cmd.userhost.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.userhost.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.userhost.help
 msgid "Requests the hostmask of every <nickname> given."
 msgstr ""
 
 #: cmd.userip.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.userip.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.userip.help
 msgid "Requests the IP-address of every <nickname> given."
@@ -2712,18 +2494,9 @@ msgid "Give Voice Status"
 msgstr ""
 
 #: cmd.voice.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.whois.params
-#: cmd.wii.params
 msgctxt "cmd.voice.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.voice.help
 msgid ""
@@ -2745,18 +2518,9 @@ msgid "Who is"
 msgstr ""
 
 #: cmd.whois.params
-#: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.wii.params
 msgctxt "cmd.whois.params"
 msgid "<nickname> [<...>]"
-msgstr "<nickname> [<...>]"
+msgstr ""
 
 #: cmd.whois.help
 msgid ""
@@ -3126,10 +2890,8 @@ msgid ""
 "not match any configured 'O-lines')."
 msgstr ""
 
-# This is an extended version that is only used if the server support /knock.
 #. # This is an extended version that is only used if the server support /knock.
 #: msg.irc.471.knock
-#: msg.irc.475.knock
 msgctxt "msg.irc.471.knock"
 msgid ""
 "%S You might be able to use \"/knock %S\" to ask the channel operators to "
@@ -3143,6 +2905,7 @@ msgid ""
 msgstr ""
 
 # This is an extended version that is only used if the server support /knock.
+#. # This is an extended version that is only used if the server support /knock.
 #: msg.irc.475.knock
 #: msg.irc.471.knock
 msgctxt "msg.irc.475.knock"
@@ -3232,7 +2995,6 @@ msgid "\"%S = %S\""
 msgstr ""
 
 #: msg.fmt.seconds
-#: msg.seconds
 msgctxt "msg.fmt.seconds"
 msgid "\"%S seconds"
 msgstr ""
@@ -3260,6 +3022,7 @@ msgid "\"%S %S\""
 msgstr ""
 
 # Misc
+#. # Misc
 #: msg.unknown
 #: unknown
 #: cmd.label-user.label
@@ -3321,7 +3084,6 @@ msgid "User"
 msgstr "Корисник"
 
 #: msg.client
-#: pref.clientMaxLines.label
 msgctxt "msg.client"
 msgid "Client"
 msgstr ""
@@ -3355,7 +3117,6 @@ msgid "Connecting"
 msgstr "Повезивање у току"
 
 #: msg.connected
-#: msg.dcc.state.connect
 msgctxt "msg.connected"
 msgid "Connected"
 msgstr ""
@@ -3519,7 +3280,6 @@ msgid "ChatZilla %S [%S]"
 msgstr ""
 
 #: msg.source.reply
-#: msg.localeurl.homepage
 msgctxt "msg.source.reply"
 msgid "http://chatzilla.hacksrus.com/"
 msgstr ""
@@ -3894,12 +3654,9 @@ msgid "Mode"
 msgstr "Приступ"
 
 #: msg.output.users
-#: pref.userHeader.label
-#: pref.userLog.label
-#: pref.userMaxLines.label
 msgctxt "msg.output.users"
 msgid "Users"
-msgstr "Корисници"
+msgstr ""
 
 #: msg.output.topic
 msgid "Topic"
@@ -4321,15 +4078,14 @@ msgstr ""
 msgid "Failed"
 msgstr "Неуспело"
 
-# SI general format (1$ == number, 2$ == scale suffix).
 #. # SI general format (1$ == number, 2$ == scale suffix).
 #: msg.si.size
-#: msg.si.speed
 msgctxt "msg.si.size"
 msgid "%1$S %2$S"
 msgstr ""
 
 # SI general format (1$ == number, 2$ == scale suffix).
+#. # SI general format (1$ == number, 2$ == scale suffix).
 #: msg.si.speed
 #: msg.si.size
 msgctxt "msg.si.speed"
@@ -4559,7 +4315,6 @@ msgid "&Don't Quit"
 msgstr ""
 
 #: msg.warn.on.exit
-#: pref.warnOnClose.label
 msgctxt "msg.warn.on.exit"
 msgid "Warn me when quitting while still connected"
 msgstr ""
@@ -4808,7 +4563,6 @@ msgid "\"%S has left %S\""
 msgstr ""
 
 #: msg.someone.left.reason
-#: msg.someone.quit
 msgctxt "msg.someone.left.reason"
 msgid "\"%S has left %S (%S)"
 msgstr ""
@@ -4850,7 +4604,6 @@ msgid "Enter an away message to use:"
 msgstr ""
 
 #: msg.away.default
-#: msg.away.idle.default
 msgctxt "msg.away.default"
 msgid "I'm not here right now."
 msgstr ""
@@ -5135,19 +4888,16 @@ msgid "Double Quotes"
 msgstr ""
 
 #: munger.rheet
-#: pref.munger.rheet.label
 msgctxt "munger.rheet"
 msgid "Rheet"
 msgstr ""
 
 #: munger.bold
-#: pref.munger.bold.label
 msgctxt "munger.bold"
 msgid "Bold"
 msgstr ""
 
 #: munger.italic
-#: pref.munger.italic.label
 msgctxt "munger.italic"
 msgid "Italic"
 msgstr ""
@@ -5157,13 +4907,11 @@ msgid "Talkback link"
 msgstr ""
 
 #: munger.teletype
-#: pref.munger.teletype.label
 msgctxt "munger.teletype"
 msgid "Teletype"
 msgstr ""
 
 #: munger.underline
-#: pref.munger.underline.label
 msgctxt "munger.underline"
 msgid "Underline"
 msgstr ""
@@ -5331,7 +5079,6 @@ msgid ""
 msgstr ""
 
 #: pref.aliases.label
-#: pref.group.lists.aliases.label
 msgctxt "pref.aliases.label"
 msgid "Command aliases"
 msgstr ""
@@ -5368,7 +5115,6 @@ msgid ""
 msgstr ""
 
 #: pref.autoperform.label
-#: pref.group.lists.autoperform.label
 msgctxt "pref.autoperform.label"
 msgid "Auto-perform"
 msgstr ""
@@ -5682,7 +5428,6 @@ msgid "Allows ChatZilla to connect to servers that require an ident response."
 msgstr ""
 
 #: pref.initialURLs.label
-#: pref.group.startup.initialURLs.label
 msgctxt "pref.initialURLs.label"
 msgid "Auto-connect URLs"
 msgstr ""
@@ -5695,7 +5440,6 @@ msgid ""
 msgstr ""
 
 #: pref.initialScripts.label
-#: pref.group.startup.initialScripts.label
 msgctxt "pref.initialScripts.label"
 msgid "Auto-load scripts"
 msgstr ""
@@ -6059,7 +5803,6 @@ msgid ""
 msgstr ""
 
 #: pref.nicknameList.label
-#: pref.group.lists.nicknameList.label
 msgctxt "pref.nicknameList.label"
 msgid "Nickname List"
 msgstr ""
@@ -6084,7 +5827,6 @@ msgid ""
 msgstr ""
 
 #: pref.notifyList.label
-#: pref.group.lists.notifyList.label
 msgctxt "pref.notifyList.label"
 msgid "Notify list"
 msgstr ""
@@ -6175,7 +5917,6 @@ msgid ""
 msgstr ""
 
 #: pref.sound.enabled.label
-#: pref.timestamps.label
 msgctxt "pref.sound.enabled.label"
 msgid "Enabled"
 msgstr ""
@@ -6280,7 +6021,6 @@ msgid ""
 msgstr ""
 
 #: pref.stalkWords.label
-#: pref.group.lists.stalkWords.label
 msgctxt "pref.stalkWords.label"
 msgid "Stalk words"
 msgstr ""
@@ -6395,12 +6135,9 @@ msgid "Userlist"
 msgstr ""
 
 #: pref.group.dcc.label
-#: pref.dccUserHeader.label
-#: pref.dccUserLog.label
-#: pref.dccUserMaxLines.label
 msgctxt "pref.group.dcc.label"
 msgid "DCC"
-msgstr "DCC"
+msgstr ""
 
 #: pref.group.dcc.ports.label
 msgid "Ports"
@@ -6531,11 +6268,9 @@ msgstr ""
 
 #. # These are the prefs that get grouped #
 #: pref.networkHeader.label
-#: pref.networkLog.label
-#: pref.networkMaxLines.label
 msgctxt "pref.networkHeader.label"
 msgid "Networks"
-msgstr "Мреже"
+msgstr ""
 
 #: pref.networkHeader.help
 msgctxt "pref.networkHeader.help"
@@ -6545,8 +6280,6 @@ msgid ""
 msgstr ""
 
 #: pref.channelHeader.label
-#: pref.channelLog.label
-#: pref.channelMaxLines.label
 msgctxt "pref.channelHeader.label"
 msgid "Channels"
 msgstr ""
@@ -6559,12 +6292,9 @@ msgid ""
 msgstr ""
 
 #: pref.userHeader.label
-#: msg.output.users
-#: pref.userLog.label
-#: pref.userMaxLines.label
 msgctxt "pref.userHeader.label"
 msgid "Users"
-msgstr "Корисници"
+msgstr ""
 
 #: pref.userHeader.help
 msgctxt "pref.userHeader.help"
@@ -6574,12 +6304,9 @@ msgid ""
 msgstr ""
 
 #: pref.dccUserHeader.label
-#: pref.group.dcc.label
-#: pref.dccUserLog.label
-#: pref.dccUserMaxLines.label
 msgctxt "pref.dccUserHeader.label"
 msgid "DCC"
-msgstr "DCC"
+msgstr ""
 
 #: pref.dccUserHeader.help
 msgctxt "pref.dccUserHeader.help"
@@ -6589,11 +6316,9 @@ msgid ""
 msgstr ""
 
 #: pref.networkLog.label
-#: pref.networkHeader.label
-#: pref.networkMaxLines.label
 msgctxt "pref.networkLog.label"
 msgid "Networks"
-msgstr "Мреже"
+msgstr ""
 
 #: pref.networkLog.help
 msgctxt "pref.networkLog.help"
@@ -6603,8 +6328,6 @@ msgid ""
 msgstr ""
 
 #: pref.channelLog.label
-#: pref.channelHeader.label
-#: pref.channelMaxLines.label
 msgctxt "pref.channelLog.label"
 msgid "Channels"
 msgstr ""
@@ -6617,12 +6340,9 @@ msgid ""
 msgstr ""
 
 #: pref.userLog.label
-#: msg.output.users
-#: pref.userHeader.label
-#: pref.userMaxLines.label
 msgctxt "pref.userLog.label"
 msgid "Users"
-msgstr "Корисници"
+msgstr ""
 
 #: pref.userLog.help
 msgctxt "pref.userLog.help"
@@ -6632,12 +6352,9 @@ msgid ""
 msgstr ""
 
 #: pref.dccUserLog.label
-#: pref.group.dcc.label
-#: pref.dccUserHeader.label
-#: pref.dccUserMaxLines.label
 msgctxt "pref.dccUserLog.label"
 msgid "DCC"
-msgstr "DCC"
+msgstr ""
 
 #: pref.dccUserLog.help
 msgctxt "pref.dccUserLog.help"
@@ -6659,6 +6376,7 @@ msgid ""
 ""
 msgstr ""
 
+#. # These are the prefs that get grouped #
 #: pref.networkMaxLines.label
 #: pref.networkHeader.label
 #: pref.networkLog.label

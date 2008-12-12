@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-01-26 02:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,20 @@ msgstr "Уклопи &било шта наведено"
 msgid "&Match all messages"
 msgstr "&Уклопи све поруке"
 
+#. LOCALIZATION NOTE
+#. The values below are used to control the widths of the search widgets.
+#. Change the values only when the localized strings in the popup menus
+#. are truncated in the widgets.
+#: searchTermListAttributesFlexValue
+msgctxt "searchTermListAttributesFlexValue"
+msgid "5"
+msgstr ""
+
+#: searchTermListOperatorsFlexValue
+msgctxt "searchTermListOperatorsFlexValue"
+msgid "5"
+msgstr ""
+
 # LOCALIZATION NOTE
 # The values below are used to control the widths of the search widgets.
 # Change the values only when the localized strings in the popup menus
@@ -37,30 +51,6 @@ msgstr "&Уклопи све поруке"
 #. The values below are used to control the widths of the search widgets.
 #. Change the values only when the localized strings in the popup menus
 #. are truncated in the widgets.
-#: searchTermListAttributesFlexValue
-#: searchTermListOperatorsFlexValue
-#: searchTermListValueFlexValue
-msgctxt "searchTermListAttributesFlexValue"
-msgid "5"
-msgstr "5"
-
-# LOCALIZATION NOTE
-# The values below are used to control the widths of the search widgets.
-# Change the values only when the localized strings in the popup menus
-# are truncated in the widgets.
-#
-#: searchTermListOperatorsFlexValue
-#: searchTermListAttributesFlexValue
-#: searchTermListValueFlexValue
-msgctxt "searchTermListOperatorsFlexValue"
-msgid "5"
-msgstr "5"
-
-# LOCALIZATION NOTE
-# The values below are used to control the widths of the search widgets.
-# Change the values only when the localized strings in the popup menus
-# are truncated in the widgets.
-#
 #: searchTermListValueFlexValue
 #: searchTermListAttributesFlexValue
 #: searchTermListOperatorsFlexValue

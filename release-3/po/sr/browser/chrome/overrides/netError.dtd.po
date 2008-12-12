@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-04-02 03:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,14 +28,10 @@ msgstr "Пробајте опет"
 msgid "Unable to connect"
 msgstr "Неуспешно повезивање"
 
-# (pofilter) unchanged: please translate
 #: connectionFailure.longDesc
-#: netInterrupt.longDesc
-#: netReset.longDesc
-#: netTimeout.longDesc
 msgctxt "connectionFailure.longDesc"
 msgid "&sharedLongDesc;"
-msgstr "&sharedLongDesc;"
+msgstr ""
 
 #: deniedPortAccess.title
 msgid "This address is restricted"
@@ -118,14 +114,10 @@ msgstr ""
 msgid "The connection was interrupted"
 msgstr "Веза са сервером је прекинута"
 
-# (pofilter) unchanged: please translate
 #: netInterrupt.longDesc
-#: connectionFailure.longDesc
-#: netReset.longDesc
-#: netTimeout.longDesc
 msgctxt "netInterrupt.longDesc"
 msgid "&sharedLongDesc;"
-msgstr "&sharedLongDesc;"
+msgstr ""
 
 #: netOffline.title
 msgid "Offline mode"
@@ -146,16 +138,12 @@ msgid "Content Encoding Error"
 msgstr "Грешка у кодирању садржаја"
 
 #: contentEncodingError.longDesc
-#: unsafeContentType.longDesc
-#, fuzzy
 msgctxt "contentEncodingError.longDesc"
 msgid ""
 "<ul> \n"
 "<li>Please contact the website owners to inform them of this problem.</li> \n"
 "</ul>"
 msgstr ""
-"<ul> <li>Молимо да се обратите власницима веб сајта и обавестите их о овом "
-"проблему.</li> </ul>"
 
 #: unsafeContentType.title
 msgid "Unsafe File Type"
@@ -177,14 +165,10 @@ msgstr ""
 msgid "The connection was reset"
 msgstr "Веза са сервером је обновљена"
 
-# (pofilter) unchanged: please translate
 #: netReset.longDesc
-#: connectionFailure.longDesc
-#: netInterrupt.longDesc
-#: netTimeout.longDesc
 msgctxt "netReset.longDesc"
 msgid "&sharedLongDesc;"
-msgstr "&sharedLongDesc;"
+msgstr ""
 
 #: netTimeout.title
 msgid "The connection has timed out"
@@ -282,10 +266,9 @@ msgstr ""
 "сервера.</li> </ul>"
 
 #: nssFailure2.title
-#: nssBadCert.title
 msgctxt "nssFailure2.title"
 msgid "Secure Connection Failed"
-msgstr "Безбедна веза није успела"
+msgstr ""
 
 #: nssFailure2.longDesc
 #, fuzzy

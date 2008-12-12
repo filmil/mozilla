@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-06-10 17:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -611,22 +611,13 @@ msgstr "Улога"
 msgid "Update From"
 msgstr "Формулар за освежење"
 
-# VCARD_LDAP_COOLTALKADDRESS
-## @name VCARD_LDAP_COOLTALKADDRESS
-## @loc None
-# VCARD_ADDR_CONFINFO
-## @name VCARD_ADDR_CONFINFO
-# # @name VCARD_LDAP_COOLTALKADDRESS
-# # @loc None
-# # @name VCARD_ADDR_CONFINFO
 #. # VCARD_LDAP_COOLTALKADDRESS
 #. ## @name VCARD_LDAP_COOLTALKADDRESS
 #. ## @loc None
 #: 1047
-#: 1053
 msgctxt "1047"
 msgid "Conference Address"
-msgstr "Адреса конференције"
+msgstr ""
 
 # VCARD_LDAP_USEHTML
 ## @name VCARD_LDAP_USEHTML
@@ -699,6 +690,8 @@ msgstr "Покажи сажету карту"
 #. # VCARD_ADDR_CONFINFO
 #. ## @name VCARD_ADDR_CONFINFO
 #. ## @loc None
+#. # VCARD_LDAP_COOLTALKADDRESS
+#. ## @name VCARD_LDAP_COOLTALKADDRESS
 #: 1053
 #: 1047
 msgctxt "1053"

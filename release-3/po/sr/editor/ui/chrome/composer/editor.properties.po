@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-03-29 02:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,15 +157,14 @@ msgstr "пре прегледа у Навигатору"
 msgid "before validating the document"
 msgstr "пре оверавања документа"
 
-# LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
 #. # LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
 #: SaveFilePrompt
-#: PublishPrompt
 msgctxt "SaveFilePrompt"
 msgid "Save changes to \"%title%\" %reason%?"
-msgstr "Да ли треба чувати измене „%title%‟ %reason%?"
+msgstr ""
 
 # LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
+#. # LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
 #: PublishPrompt
 #: SaveFilePrompt
 msgctxt "PublishPrompt"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-04-12 01:19+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,15 +44,14 @@ msgstr "Аутлук експрес"
 msgid "Outlook"
 msgstr "Аутлук"
 
-# Import Sources
 #. # Import Sources
 #: 1_dogbert
-#: 1_seamonkey
 msgctxt "1_dogbert"
 msgid "Preferences"
-msgstr "Подешавања"
+msgstr ""
 
 # Import Sources
+#. # Import Sources
 #: 1_seamonkey
 #: 1_dogbert
 msgctxt "1_seamonkey"
@@ -60,59 +59,48 @@ msgid "Preferences"
 msgstr "Подешавања"
 
 #: 2_dogbert
-#: 2_seamonkey
-#: 2_oexpress
-#: 2_outlook
 msgctxt "2_dogbert"
 msgid "Account Settings"
-msgstr "Подешавања налога"
+msgstr ""
 
 #: 2_seamonkey
-#: 2_dogbert
-#: 2_oexpress
-#: 2_outlook
 msgctxt "2_seamonkey"
 msgid "Account Settings"
-msgstr "Подешавања налога"
+msgstr ""
 
 #: 2_oexpress
-#: 2_dogbert
-#: 2_seamonkey
-#: 2_outlook
 msgctxt "2_oexpress"
 msgid "Account Settings"
-msgstr "Подешавања налога"
+msgstr ""
 
 #: 2_outlook
+msgctxt "2_outlook"
+msgid "Account Settings"
+msgstr ""
+
+#: 2_eudora
 #: 2_dogbert
 #: 2_seamonkey
 #: 2_oexpress
-msgctxt "2_outlook"
-msgid "Account Settings"
-msgstr "Подешавања налога"
-
-#: 2_eudora
+#: 2_outlook
 msgctxt "2_eudora"
 msgid "Account Settings"
 msgstr ""
 
 #: 4_dogbert
-#: 4_seamonkey
 msgctxt "4_dogbert"
 msgid "Address Books"
-msgstr "Адресари"
+msgstr ""
 
 #: 4_seamonkey
-#: 4_dogbert
 msgctxt "4_seamonkey"
 msgid "Address Books"
-msgstr "Адресари"
+msgstr ""
 
 #: 4_oexpress
-#: 4_outlook
 msgctxt "4_oexpress"
 msgid "Address Book"
-msgstr "Адресар"
+msgstr ""
 
 #: 4_outlook
 #: 4_oexpress
@@ -121,15 +109,16 @@ msgid "Address Book"
 msgstr "Адресар"
 
 #: 4_eudora
+#: 4_dogbert
+#: 4_seamonkey
 msgctxt "4_eudora"
 msgid "Address Books"
 msgstr ""
 
 #: 8_dogbert
-#: 8_seamonkey
 msgctxt "8_dogbert"
 msgid "Junk Mail Training"
-msgstr "Обука разврстача поште"
+msgstr ""
 
 #: 8_seamonkey
 #: 8_dogbert
@@ -138,10 +127,9 @@ msgid "Junk Mail Training"
 msgstr "Обука разврстача поште"
 
 #: 16_dogbert
-#: 16_seamonkey
 msgctxt "16_dogbert"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_seamonkey
 #: 16_dogbert
@@ -150,10 +138,9 @@ msgid "Saved Passwords"
 msgstr "Сачуване лозинке"
 
 #: 32_dogbert
-#: 32_seamonkey
 msgctxt "32_dogbert"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 32_seamonkey
 #: 32_dogbert
@@ -162,10 +149,9 @@ msgid "Other Data"
 msgstr "Остали подаци"
 
 #: 64_dogbert
-#: 64_seamonkey
 msgctxt "64_dogbert"
 msgid "Newsgroup Folders"
-msgstr "Фасцикле са групама"
+msgstr ""
 
 #: 64_seamonkey
 #: 64_dogbert
@@ -174,38 +160,30 @@ msgid "Newsgroup Folders"
 msgstr "Фасцикле са групама"
 
 #: 128_dogbert
-#: 128_seamonkey
-#: 128_oexpress
-#: 128_outlook
 msgctxt "128_dogbert"
 msgid "Mail Folders"
-msgstr "Фасцикле са поштом"
+msgstr ""
 
 #: 128_seamonkey
-#: 128_dogbert
-#: 128_oexpress
-#: 128_outlook
 msgctxt "128_seamonkey"
 msgid "Mail Folders"
-msgstr "Фасцикле са поштом"
+msgstr ""
 
 #: 128_oexpress
-#: 128_dogbert
-#: 128_seamonkey
-#: 128_outlook
 msgctxt "128_oexpress"
 msgid "Mail Folders"
-msgstr "Фасцикле са поштом"
+msgstr ""
 
 #: 128_outlook
+msgctxt "128_outlook"
+msgid "Mail Folders"
+msgstr ""
+
+#: 128_eudora
 #: 128_dogbert
 #: 128_seamonkey
 #: 128_oexpress
-msgctxt "128_outlook"
-msgid "Mail Folders"
-msgstr "Фасцикле са поштом"
-
-#: 128_eudora
+#: 128_outlook
 msgctxt "128_eudora"
 msgid "Mail Folders"
 msgstr ""

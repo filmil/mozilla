@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-04-02 03:34+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -272,10 +272,9 @@ msgstr ""
 "сервера.</li> </ul>"
 
 #: nssFailure2.title
-#: nssBadCert.title
 msgctxt "nssFailure2.title"
 msgid "Secure Connection Failed"
-msgstr "Безбедна веза није успела"
+msgstr ""
 
 #: nssFailure2.longDesc
 msgid ""

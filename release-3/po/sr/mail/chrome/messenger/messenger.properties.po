@@ -40,7 +40,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-04-08 22:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -588,12 +588,10 @@ msgstr "Обрасци"
 msgid "Outbox"
 msgstr ""
 
-# for junk status picker in search and mail views
 #: junkFolderName
-#: junk
 msgctxt "junkFolderName"
 msgid "Junk"
-msgstr "Отпад"
+msgstr ""
 
 # Error message for special folder deletion on imap accounts
 # LOCALIZATION NOTES (specialFolderDeletionErr): Do not translate "IMAP" in the line below
@@ -693,10 +691,9 @@ msgid "Not Starred"
 msgstr "Нема звездицу"
 
 #: groupFlagged
-#: flagged
 msgctxt "groupFlagged"
 msgid "Starred"
-msgstr "Звездица"
+msgstr ""
 
 # defaults descriptions for tag prefs listed in mailnews.js
 # (we keep the .labels. names for backwards compatibility)
@@ -813,35 +810,28 @@ msgstr "Има прилоге"
 msgid "Tags"
 msgstr "Ознаке"
 
-# mailnews.js
-# moved from navigator/locale/navigator.properties
-# valid collation options are: <empty string> or useCodePointOrder
 #. # mailnews.js
 #: mailnews.send_default_charset
-#: mailnews.view_default_charset
 msgctxt "mailnews.send_default_charset"
 msgid "ISO-8859-1"
-msgstr "UTF-8"
+msgstr ""
 
 # mailnews.js
 # moved from navigator/locale/navigator.properties
 # valid collation options are: <empty string> or useCodePointOrder
+#. # mailnews.js
 #: mailnews.view_default_charset
 #: mailnews.send_default_charset
 msgctxt "mailnews.view_default_charset"
 msgid "ISO-8859-1"
 msgstr "UTF-8"
 
-# generate display names in last first order
-# valid mail.addr_book.displayName.lastnamefirst are: true or false
-# valid mail.addr_book.show_phonetic_fields are: true or false
 #. # generate display names in last first order
 #. # valid mail.addr_book.displayName.lastnamefirst are: true or false
 #: mail.addr_book.displayName.lastnamefirst
-#: mail.addr_book.show_phonetic_fields
 msgctxt "mail.addr_book.displayName.lastnamefirst"
 msgid "false"
-msgstr "false"
+msgstr ""
 
 # the format for "mail.addr_book.quicksearchquery.format" is:
 # @V == the escaped value typed in the quick search bar in the addressbook
@@ -881,6 +871,8 @@ msgstr ""
 # valid mail.addr_book.displayName.lastnamefirst are: true or false
 # valid mail.addr_book.show_phonetic_fields are: true or false
 #. # valid mail.addr_book.show_phonetic_fields are: true or false
+#. # generate display names in last first order
+#. # valid mail.addr_book.displayName.lastnamefirst are: true or false
 #: mail.addr_book.show_phonetic_fields
 #: mail.addr_book.displayName.lastnamefirst
 msgctxt "mail.addr_book.show_phonetic_fields"
@@ -1124,14 +1116,11 @@ msgstr ""
 msgid "IMAP quota: %S KB used of %S KB total. Click for details."
 msgstr ""
 
-# for message views
-# for checking if the user really wants to open lots of messages
 #. # for message views
 #: confirmViewDeleteTitle
-#: openWindowWarningTitle
 msgctxt "confirmViewDeleteTitle"
 msgid "Confirm"
-msgstr "Потврди"
+msgstr ""
 
 #: confirmViewDeleteMessage
 msgid "Are you sure you want to delete this view?"
@@ -1169,14 +1158,11 @@ msgstr "Унесите лозинку за %1$S на %2$S:"
 msgid "Mail Server Password Required"
 msgstr "Потребна је лозинка за сервер за пошту"
 
-# for message views
-# for checking if the user really wants to open lots of messages
 #. # for checking if the user really wants to open lots of messages
 #: openWindowWarningTitle
-#: confirmViewDeleteTitle
 msgctxt "openWindowWarningTitle"
 msgid "Confirm"
-msgstr "Потврди"
+msgstr ""
 
 #: openWindowWarningText
 msgid "Opening %S messages may be slow.  Continue?"
@@ -1247,16 +1233,14 @@ msgid ""
 "%2$S?"
 msgstr ""
 
-# Check for Updates
 #. # Check for Updates
 #: updatesItem_default
-#: updatesItem_defaultFallback
-#, fuzzy
 msgctxt "updatesItem_default"
 msgid "Check for Updates…"
-msgstr "Провера доградњи..."
+msgstr ""
 
 # Check for Updates
+#. # Check for Updates
 #: updatesItem_defaultFallback
 #: updatesItem_default
 #, fuzzy
@@ -1285,11 +1269,9 @@ msgid "Resume Downloading Update…"
 msgstr "Наставак пријема доградње..."
 
 #: updatesItem_pending
-#: updatesItem_pendingFallback
-#, fuzzy
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
-msgstr "Примени одмах примљену доградњу..."
+msgstr ""
 
 #: updatesItem_pendingFallback
 #: updatesItem_pending
@@ -1332,10 +1314,9 @@ msgid "Move to \"%1$S\" Again"
 msgstr "Поново помери у „%1$S‟"
 
 #: moveToFolderAgainAccessKey
-#: copyToFolderAgainAccessKey
 msgctxt "moveToFolderAgainAccessKey"
 msgid "t"
-msgstr "П"
+msgstr ""
 
 #LOCALIZATION NOTE %1$S is the name of the folder we will copy to
 # copyToFolderAgainAccessKey
@@ -1383,7 +1364,13 @@ msgctxt "emptyJunkDontAsk"
 msgid "Don't ask me again."
 msgstr ""
 
+# for message views
+# for checking if the user really wants to open lots of messages
+#. # for message views
+#. # for checking if the user really wants to open lots of messages
 #: emptyTrashTitle
+#: confirmViewDeleteTitle
+#: openWindowWarningTitle
 msgctxt "emptyTrashTitle"
 msgid "Confirm"
 msgstr ""

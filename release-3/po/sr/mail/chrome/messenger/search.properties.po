@@ -47,10 +47,9 @@ msgid "Search"
 msgstr "Тражи"
 
 #: labelForStopButton.accesskey
-#: labelForSearchButton.accesskey
 msgctxt "labelForStopButton.accesskey"
 msgid "S"
-msgstr "S"
+msgstr ""
 
 #: labelForSearchButton.accesskey
 #: labelForStopButton.accesskey

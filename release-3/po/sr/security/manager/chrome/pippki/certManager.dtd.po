@@ -175,10 +175,9 @@ msgid "Organizational Unit (OU)"
 msgstr "Организациона јединица"
 
 #: certmgr.certdetail.serialnumber
-#: certmgr.serial
 msgctxt "certmgr.certdetail.serialnumber"
 msgid "Serial Number"
-msgstr "Серијски број"
+msgstr ""
 
 #: certmgr.certdetail.sha1fingerprint
 msgid "SHA1 Fingerprint"
@@ -217,22 +216,19 @@ msgid "This certificate can identify software makers."
 msgstr "Овај сертификат може да идентификује произвођаче софтвера."
 
 #: certmgr.editsslcert.edittrust
-#: certmgr.editemailcert.edittrust
 msgctxt "certmgr.editsslcert.edittrust"
 msgid "Edit certificate trust settings:"
-msgstr "Параметри веровања сертификатима:"
+msgstr ""
 
 #: certmgr.editsslcert.dotrust
-#: certmgr.editemailcert.dotrust
 msgctxt "certmgr.editsslcert.dotrust"
 msgid "Trust the authenticity of this certificate."
-msgstr "Веруј веродостојности овог сертификата."
+msgstr ""
 
 #: certmgr.editsslcert.donttrust
-#: certmgr.editemailcert.donttrust
 msgctxt "certmgr.editsslcert.donttrust"
 msgid "Do not trust the authenticity of this certificate."
-msgstr "Не веруј веродостојности овог сертификата."
+msgstr ""
 
 # (pofilter) unchanged: please translate
 #: certmgr.editemailcert.title
@@ -290,10 +286,9 @@ msgid "Certificate Name"
 msgstr "Назив сертификата"
 
 #: certmgr.certserver
-#: exceptionMgr.certlocation.caption2
 msgctxt "certmgr.certserver"
 msgid "Server"
-msgstr "Сервер"
+msgstr ""
 
 #: certmgr.typesofoverrides
 msgid "Exceptions"

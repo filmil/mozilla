@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-01-25 00:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,19 +13,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# Mail Integration Dialog
-#Default Mail Display String
-# localization note, %S is the vendor name
-# Default Mail Display String
 #. # Mail Integration Dialog
 #: dialogTitle
-#: loginTitle
-#: PasswordTitle
-#: errorMessageTitle
-#: defaultMailDisplayTitle
 msgctxt "dialogTitle"
 msgid "%S"
-msgstr "%S"
+msgstr ""
 
 #: dialogText
 msgid "Do you want to use %S as the default mail application?"
@@ -93,31 +85,15 @@ msgstr "Молим унесите вашу лозинку за %S:"
 msgid "Please enter your username and password"
 msgstr "Молим унесите ваше корисничко име и лозинку"
 
-# Mail Integration Dialog
-#Default Mail Display String
-# localization note, %S is the vendor name
-# Default Mail Display String
 #: loginTitle
-#: dialogTitle
-#: PasswordTitle
-#: errorMessageTitle
-#: defaultMailDisplayTitle
 msgctxt "loginTitle"
 msgid "%S"
-msgstr "%S"
+msgstr ""
 
-# Mail Integration Dialog
-#Default Mail Display String
-# localization note, %S is the vendor name
-# Default Mail Display String
 #: PasswordTitle
-#: dialogTitle
-#: loginTitle
-#: errorMessageTitle
-#: defaultMailDisplayTitle
 msgctxt "PasswordTitle"
 msgid "%S"
-msgstr "%S"
+msgstr ""
 
 # MAPI Error Messages
 #. # MAPI Error Messages
@@ -143,18 +119,10 @@ msgstr ""
 "да од вашег администратора  обезбедите дозволу за приступ системском "
 "регистратору и пробајте поново."
 
-# Mail Integration Dialog
-#Default Mail Display String
-# localization note, %S is the vendor name
-# Default Mail Display String
 #: errorMessageTitle
-#: dialogTitle
-#: loginTitle
-#: PasswordTitle
-#: defaultMailDisplayTitle
 msgctxt "errorMessageTitle"
 msgid "%S"
-msgstr "%S"
+msgstr ""
 
 # MAPI Security Messages
 #. # MAPI Security Messages
@@ -176,6 +144,7 @@ msgstr "Упозори кад год други програми желе да �
 # Default Mail Display String
 #. #Default Mail Display String
 #. # localization note, %S is the vendor name
+#. # Mail Integration Dialog
 #: defaultMailDisplayTitle
 #: dialogTitle
 #: loginTitle

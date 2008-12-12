@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-03-26 21:06+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -204,14 +204,11 @@ msgid "Your existing outgoing server (SMTP), &quot;"
 msgstr "Ваш тренутни одлазећи сервер (SMTP), „"
 
 #: haveSmtp1.suffix
-#: haveSmtp2.suffix
 msgctxt "haveSmtp1.suffix"
 msgid ""
 "&quot;, will be used. You can modify outgoing server settings by choosing "
 "Account Settings from the Tools menu."
 msgstr ""
-"‟ ће бити коришћен.  Можете да промените подешавања одлазећег сервера "
-"избором подешавања налога из менија Алати."
 
 # Entities for Login page
 #. Entities for Login page

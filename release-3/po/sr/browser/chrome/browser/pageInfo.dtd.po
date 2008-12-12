@@ -136,10 +136,9 @@ msgid "&Copy"
 msgstr "&Умножи"
 
 #: selectall.key
-#: mediaSaveAs.accesskey
 msgctxt "selectall.key"
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #: selectall.label
 #: selectall.accesskey
@@ -147,10 +146,9 @@ msgid "Select &All"
 msgstr "Изабери &све"
 
 #: closeWindow.key
-#: securityView.privacy.viewPasswords.accessKey
 msgctxt "closeWindow.key"
 msgid "w"
-msgstr "л"
+msgstr ""
 
 #: generalTab
 msgid "General"

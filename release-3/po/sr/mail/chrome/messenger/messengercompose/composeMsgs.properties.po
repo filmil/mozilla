@@ -667,14 +667,11 @@ msgstr ""
 "разлога. Молимо да проверите да су подешавања за СМТП исправна и пробајте "
 "поново, или се обратите администратору мреже."
 
-# # Strings use for the save message dialog shown when the user close a message compose window
-# # Strings used by Save as Draft/Template dialog
 #. ## Strings use for the save message dialog shown when the user close a message compose window
 #: saveDlogTitle
-#: SaveDialogTitle
 msgctxt "saveDlogTitle"
 msgid "Save Message"
-msgstr "Чување поруке"
+msgstr ""
 
 #: saveDlogMessage
 msgid ""
@@ -701,14 +698,11 @@ msgstr "Приложи датотеке"
 msgid "Write:"
 msgstr "Писање:"
 
-# # String used by the dialog that ask the user to enter a subject
-# # Strings used by prompt for Ctrl-Enter check before sending message
 #. ## String used by the dialog that ask the user to enter a subject
 #: sendMsgTitle
-#: sendMessageCheckWindowTitle
 msgctxt "sendMsgTitle"
 msgid "Send Message"
-msgstr "Чување поруке"
+msgstr ""
 
 #: subjectDlogMessage
 msgid ""
@@ -779,6 +773,7 @@ msgstr ""
 # # Strings use for the save message dialog shown when the user close a message compose window
 # # Strings used by Save as Draft/Template dialog
 #. ## Strings used by Save as Draft/Template dialog
+#. ## Strings use for the save message dialog shown when the user close a message compose window
 #: SaveDialogTitle
 #: saveDlogTitle
 msgctxt "SaveDialogTitle"
@@ -824,6 +819,7 @@ msgstr "&Сачекај"
 # # String used by the dialog that ask the user to enter a subject
 # # Strings used by prompt for Ctrl-Enter check before sending message
 #. ## Strings used by prompt for Ctrl-Enter check before sending message
+#. ## String used by the dialog that ask the user to enter a subject
 #: sendMessageCheckWindowTitle
 #: sendMsgTitle
 msgctxt "sendMessageCheckWindowTitle"

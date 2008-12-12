@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-01-26 02:35+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -572,26 +572,17 @@ msgstr ""
 "у подешавањима налога, и зато је преузето само првих неколико "
 "линија.<P>Притисните <A HREF=\""
 
-# Partial Message Format 3
-## @name MIME_MSG_PARTIAL_FMT_3
-## @loc
-# LOCALIZATION NOTE (1039): This section must begin with the ">" sign and end with the tags,"</B></TD></TR></TABLE></CENTER>"
-# Do not translate "</A>" tag.
-# Partial Message Format2 3
-# # @name MIME_MSG_PARTIAL_FMT_3
-# # @loc
 #. # Partial Message Format 3
 #. ## @name MIME_MSG_PARTIAL_FMT_3
 #. ## @loc
 #. # LOCALIZATION NOTE (1039): This section must begin with the ">" sign and end with the tags,"</B></TD></TR></TABLE></CENTER>"
 #. # Do not translate "</A>" tag.
 #: 1039
-#: 1044
 msgctxt "1039"
 msgid ""
 "\">here</A> to download the rest of the "
 "message.</B></TD></TR></TABLE></CENTER>"
-msgstr "\">овде</A> да преузмете остатак поруке.</B></TD></TR></TABLE></CENTER>"
+msgstr ""
 
 # default attachment name
 ## @name MIME_MSG_DEFAULT_ATTACHMENT_NAME
@@ -674,6 +665,7 @@ msgstr ""
 #. ## @loc
 #. # LOCALIZATION NOTE (1039): This section must begin with the ">" sign and end with the tags,"</B></TD></TR></TABLE></CENTER>"
 #. # Do not translate "</A>" tag.
+#. # Partial Message Format 3
 #: 1044
 #: 1039
 msgctxt "1044"

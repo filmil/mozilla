@@ -40,7 +40,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-07-05 20:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -121,24 +121,20 @@ msgid "Not implemented"
 msgstr "Није имплементирано"
 
 #: err.required.param
-#: msn.err.required.param
 msgctxt "err.required.param"
 msgid "Missing required parameter %1$S"
-msgstr "Недостаје обавезни параметар %1$S"
+msgstr ""
 
 #: err.invalid.param
-#: msn.err.invalid.param
 msgctxt "err.invalid.param"
 msgid "Invalid value for parameter %1$S (%2$S)"
-msgstr "Неисправна вредност за параметар %1$S (%2$S)"
+msgstr ""
 
-# 1 url, 2 fileName, 3 lineNumber, 4 reason
 #. # 1 url, 2 fileName, 3 lineNumber, 4 reason
 #: err.subscript.load
-#: msn.err.scriptload
 msgctxt "err.subscript.load"
 msgid "Error loading subscript from <%1$S>."
-msgstr "Грешка при учитавању под-скрипта из <%1$S>."
+msgstr ""
 
 #: err.no.debugger
 msgid ""
@@ -155,10 +151,9 @@ msgstr ""
 "опцију].)"
 
 #: err.failure
-#: msn.err.failure
 msgctxt "err.failure"
 msgid "Operation Failed: %1$S"
-msgstr "Операција није успела: %1$S"
+msgstr ""
 
 #: err.no.stack
 msgid "No Stack"
@@ -187,6 +182,7 @@ msgid "Invalid value for preference %1$S (%2$S)"
 msgstr "Неважећа вредност за поставку %1$S (%2$S)"
 
 # 1 url, 2 fileName, 3 lineNumber, 4 reason
+#. # 1 url, 2 fileName, 3 lineNumber, 4 reason
 #: msn.err.scriptload
 #: err.subscript.load
 msgctxt "msn.err.scriptload"
@@ -370,15 +366,9 @@ msgid "<object>"
 msgstr "<објекат>"
 
 #: msg.val.expression
-#: cmd.copy-qual-name.params
-#: cmd.eval.params
-#: cmd.evald.params
-#: cmd.props.params
-#: cmd.propsd.params
-#: cmd.this-expr.params
 msgctxt "msg.val.expression"
 msgid "<expression>"
-msgstr "<израз>"
+msgstr ""
 
 #: msg.val.proto
 msgid "[[Prototype]]"
@@ -576,10 +566,9 @@ msgid ", \""
 msgstr ", \""
 
 #: msn.eval.in
-#: msn.source.line
 msgctxt "msn.eval.in"
 msgid "%1$S: %2$S\""
-msgstr "%1$S: %2$S\""
+msgstr ""
 
 #: msn.stop
 msgid "Stopped for %1$S."
@@ -678,13 +667,11 @@ msgstr "Својства за: %1$S у опсегу дебагера:"
 msgid "%1$S breakpoints set:"
 msgstr "Постављене преломне тачке (укупно: %1$S):"
 
-# 1 index, 2 file name, 3 line
 #. # 1 index, 2 file name, 3 line
 #: msn.bp.line
-#: msn.fbp.line
 msgctxt "msn.bp.line"
 msgid "#%1$S <%2$S> line %3$S"
-msgstr "#%1$S <%2$S> ред %3$S"
+msgstr ""
 
 #: msn.bp.created
 msgid "Breakpoint at <%1$S> line %2$S created"
@@ -983,18 +970,16 @@ msgstr "знакова: %1$S"
 msgid "%1$S %2$S"
 msgstr "%1$S %2$S"
 
-# 1: function name
-# 1: program counter
 #. # 1: function name
 #: msn.fmt.guessedname
-#: msn.fmt.pc
 msgctxt "msn.fmt.guessedname"
 msgid "[%1$S]"
-msgstr "[%1$S]"
+msgstr ""
 
 # 1: function name
 # 1: program counter
 #. # 1: program counter
+#. # 1: function name
 #: msn.fmt.pc
 #: msn.fmt.guessedname
 msgctxt "msn.fmt.pc"
@@ -1266,10 +1251,9 @@ msgid "Open Windows"
 msgstr "Отворени прозори"
 
 #: msg.view.source
-#: msg.view.source2
 msgctxt "msg.view.source"
 msgid "Source Code"
-msgstr "Изворни код"
+msgstr ""
 
 #: msg.view.source2
 #: msg.view.source
@@ -1296,29 +1280,21 @@ msgstr "Присмотре су враћене."
 msgid "Breakpoints and watches restored."
 msgstr "Присмотре и преломне тачке су враћене"
 
-# ##################### DO NO LOCALIZE THE *.params STRINGS ######################
-# # hooks ##
 #. ###################### DO NO LOCALIZE THE *.params STRINGS ######################
 #. ## hooks ##
 #: cmd.hook-break-clear.params
-#: cmd.hook-break-set.params
-#: cmd.break-props.params
 msgctxt "cmd.hook-break-clear.params"
 msgid "<break-wrapper>"
-msgstr "<break-wrapper>"
+msgstr ""
 
 #: cmd.hook-break-clear.help
 msgid "Called when a breakpoint instance is cleared."
 msgstr "Позива се када се поједина преломна тачка очисти."
 
-# ##################### DO NO LOCALIZE THE *.params STRINGS ######################
-# # hooks ##
 #: cmd.hook-break-set.params
-#: cmd.hook-break-clear.params
-#: cmd.break-props.params
 msgctxt "cmd.hook-break-set.params"
 msgid "<break-wrapper>"
-msgstr "<break-wrapper>"
+msgstr ""
 
 #: cmd.hook-break-set.help
 msgid "Called when a breakpoint instance is set."
@@ -1333,10 +1309,9 @@ msgid "Called when the debugger continues execution of the debug target."
 msgstr "Позива се када дебагер настави са извршавањем програма."
 
 #: cmd.hook-display-sourcetext.params
-#: cmd.hook-display-sourcetext-soft.params
 msgctxt "cmd.hook-display-sourcetext.params"
 msgid "<source-text> [<target-line> [<details>]]"
-msgstr "<source-text> [<target-line> [<details>]]"
+msgstr ""
 
 #: cmd.hook-display-sourcetext.help
 msgid ""
@@ -1369,10 +1344,9 @@ msgid "Called when an expression is evaluated."
 msgstr "Позива се при израчунавању израза."
 
 #: cmd.hook-fbreak-clear.params
-#: cmd.hook-fbreak-set.params
 msgctxt "cmd.hook-fbreak-clear.params"
 msgid "<fbreak>"
-msgstr "<fbreak>"
+msgstr ""
 
 #: cmd.hook-fbreak-clear.help
 msgid "Called when a breakpoint instace is cleared."
@@ -1389,13 +1363,9 @@ msgid "Called when a breakpoint instace is set."
 msgstr "Позива се када се постави примерак прекидне тачке."
 
 #: cmd.hook-guess-complete.params
-#: cmd.hook-script-instance-created.params
-#: cmd.hook-script-instance-sealed.params
-#: cmd.hook-script-instance-destroyed.params
-#: cmd.scan-source.params
 msgctxt "cmd.hook-guess-complete.params"
 msgid "<script-instance>"
-msgstr "<script-instance>"
+msgstr ""
 
 #: cmd.hook-guess-complete.help
 msgid ""
@@ -1420,10 +1390,9 @@ msgstr ""
 "је тип поруке."
 
 #: cmd.hook-script-manager-created.params
-#: cmd.hook-script-manager-destroyed.params
 msgctxt "cmd.hook-script-manager-created.params"
 msgid "<script-manager>"
-msgstr "<script-manager>"
+msgstr ""
 
 #: cmd.hook-script-manager-created.help
 msgid ""
@@ -1455,13 +1424,9 @@ msgstr ""
 "скрипта уништи."
 
 #: cmd.hook-script-instance-created.params
-#: cmd.hook-guess-complete.params
-#: cmd.hook-script-instance-sealed.params
-#: cmd.hook-script-instance-destroyed.params
-#: cmd.scan-source.params
 msgctxt "cmd.hook-script-instance-created.params"
 msgid "<script-instance>"
-msgstr "<script-instance>"
+msgstr ""
 
 #: cmd.hook-script-instance-created.help
 msgid ""
@@ -1472,13 +1437,9 @@ msgstr ""
 "прослеђују команде ка једном или више омотача скрипта."
 
 #: cmd.hook-script-instance-sealed.params
-#: cmd.hook-guess-complete.params
-#: cmd.hook-script-instance-created.params
-#: cmd.hook-script-instance-destroyed.params
-#: cmd.scan-source.params
 msgctxt "cmd.hook-script-instance-sealed.params"
 msgid "<script-instance>"
-msgstr "<script-instance>"
+msgstr ""
 
 #: cmd.hook-script-instance-sealed.help
 msgid ""
@@ -1494,13 +1455,9 @@ msgstr ""
 "родитељском управнику скриптовима."
 
 #: cmd.hook-script-instance-destroyed.params
-#: cmd.hook-guess-complete.params
-#: cmd.hook-script-instance-created.params
-#: cmd.hook-script-instance-sealed.params
-#: cmd.scan-source.params
 msgctxt "cmd.hook-script-instance-destroyed.params"
 msgid "<script-instance>"
-msgstr "<script-instance>"
+msgstr ""
 
 #: cmd.hook-script-instance-destroyed.help
 msgid ""
@@ -1537,11 +1494,9 @@ msgstr ""
 "eval, setTimeout итд.) направи помоћу јаваскриптовог покретача (engine)."
 
 #: cmd.hook-window-closed.params
-#: cmd.hook-window-opened.params
-#: cmd.hook-window-resized.params
 msgctxt "cmd.hook-window-closed.params"
 msgid "<window>"
-msgstr "<window>"
+msgstr ""
 
 #: cmd.hook-window-closed.help
 msgid ""
@@ -1552,10 +1507,9 @@ msgstr ""
 "прозорски објекат у ДОМу за одговарајући прозор."
 
 #: cmd.hook-window-loaded.params
-#: cmd.hook-window-unloaded.params
 msgctxt "cmd.hook-window-loaded.params"
 msgid "<event>"
-msgstr "<event>"
+msgstr ""
 
 #: cmd.hook-window-loaded.help
 msgid ""
@@ -1566,11 +1520,9 @@ msgstr ""
 "референца на ДОМ догађај који се прослеђује обрађивачу onLoad датог прозора."
 
 #: cmd.hook-window-opened.params
-#: cmd.hook-window-closed.params
-#: cmd.hook-window-resized.params
 msgctxt "cmd.hook-window-opened.params"
 msgid "<window>"
-msgstr "<window>"
+msgstr ""
 
 #: cmd.hook-window-opened.help
 msgid ""
@@ -1639,10 +1591,9 @@ msgid "Display information about your Mozilla installation."
 msgstr "Приказује податке о вашој инсталацији Мозиле."
 
 #: cmd.break.label
-#: cmd.set-break.label
 msgctxt "cmd.break.label"
 msgid "S&et Breakpoint"
-msgstr "&Постави преломну тачку"
+msgstr ""
 
 #: cmd.break.params
 msgid "[<url-pattern> <line-number> [<properties> [<parent>]]]"
@@ -1669,6 +1620,8 @@ msgstr "Поставке п&реломних тачака…"
 
 # ##################### DO NO LOCALIZE THE *.params STRINGS ######################
 # # hooks ##
+#. ###################### DO NO LOCALIZE THE *.params STRINGS ######################
+#. ## hooks ##
 #: cmd.break-props.params
 #: cmd.hook-break-clear.params
 #: cmd.hook-break-set.params
@@ -1723,17 +1676,9 @@ msgstr ""
 "да унесе нови израз који представља нову вредност."
 
 #: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.chrome-filter.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.chrome-filter.help
 msgid ""
@@ -1758,10 +1703,9 @@ msgid "C&lear Breakpoint"
 msgstr "Уклони пре&ломну тачку…"
 
 #: cmd.clear.params
-#: cmd.fclear.params
 msgctxt "cmd.clear.params"
 msgid "<url-pattern> [<line-number>]"
-msgstr "<url-pattern> [<line-number>]"
+msgstr ""
 
 #: cmd.clear.help
 msgid ""
@@ -1781,17 +1725,14 @@ msgid "Clears every breakpoint currently defined."
 msgstr "Уклања све тренутно дефинисане преломне тачке."
 
 #: cmd.clear-break.label
-#: cmd.clear-script.label
-#: cmd.clear-instance.label
 msgctxt "cmd.clear-break.label"
 msgid "&Clear Breakpoint"
-msgstr "У&клони преломну тачку"
+msgstr ""
 
 #: cmd.clear-break.params
-#: cmd.clear-fbreak.params
 msgctxt "cmd.clear-break.params"
 msgid "<break-wrapper> [<...>]"
-msgstr "<break-wrapper> [<...>]"
+msgstr ""
 
 #: cmd.clear-break.help
 msgid ""
@@ -1842,11 +1783,9 @@ msgid "Clears all text in the Interactive Session view."
 msgstr "Уклања сав текст из приказа интерактивне сесије."
 
 #: cmd.clear-script.label
-#: cmd.clear-break.label
-#: cmd.clear-instance.label
 msgctxt "cmd.clear-script.label"
 msgid "&Clear Breakpoint"
-msgstr "У&клони преломну тачку"
+msgstr ""
 
 #: cmd.clear-script.params
 msgid "<script-wrapper> [<...>]"
@@ -1866,13 +1805,9 @@ msgid "&Clear Breakpoint"
 msgstr "У&клони преломну тачку"
 
 #: cmd.clear-instance.params
-#: cmd.debug-instance-on.params
-#: cmd.debug-instance-off.params
-#: cmd.profile-instance-on.params
-#: cmd.profile-instance-off.params
 msgctxt "cmd.clear-instance.params"
 msgid "<script-instance> [<...>]"
-msgstr "<script-instance> [<...>]"
+msgstr ""
 
 #: cmd.clear-instance.help
 msgid ""
@@ -2041,10 +1976,9 @@ msgid "Copy Link Location"
 msgstr "Умножи место везе"
 
 #: cmd.cmd-copy-link-url.params
-#: cmd.loadd.params
 msgctxt "cmd.cmd-copy-link-url.params"
 msgid "<url>"
-msgstr "<url>"
+msgstr ""
 
 #: cmd.cmd-copy-link-url.help
 msgid "Copies the URL of the current link to clipboard."
@@ -2123,11 +2057,9 @@ msgid ""
 msgstr ""
 
 #: cmd.commands.params
-#: cmd.help.params
-#: cmd.search-scripts.params
 msgctxt "cmd.commands.params"
 msgid "[<pattern>]"
-msgstr "[<pattern>]"
+msgstr ""
 
 #: cmd.commands.help
 msgid ""
@@ -2154,15 +2086,9 @@ msgid "Copy &Qualified Name"
 msgstr "Умножи &квалификовано име"
 
 #: cmd.copy-qual-name.params
-#: msg.val.expression
-#: cmd.eval.params
-#: cmd.evald.params
-#: cmd.props.params
-#: cmd.propsd.params
-#: cmd.this-expr.params
 msgctxt "cmd.copy-qual-name.params"
 msgid "<expression>"
-msgstr "<израз>"
+msgstr ""
 
 #: cmd.copy-qual-name.help
 msgid "Copies the qualified name of a variable to the clipboard."
@@ -2189,10 +2115,9 @@ msgid "Don't &Debug"
 msgstr "Не &дебагирај"
 
 #: cmd.debug-script.params
-#: cmd.profile-script.params
 msgctxt "cmd.debug-script.params"
 msgid "<toggle> <script-wrapper> [<...>]"
-msgstr "<toggle> <script-wrapper> [<...>]"
+msgstr ""
 
 #: cmd.debug-script.help
 msgid ""
@@ -2213,13 +2138,9 @@ msgid "&Don't Debug Contained Functions"
 msgstr "&Не дебагуј садржане функције"
 
 #: cmd.debug-instance-on.params
-#: cmd.clear-instance.params
-#: cmd.debug-instance-off.params
-#: cmd.profile-instance-on.params
-#: cmd.profile-instance-off.params
 msgctxt "cmd.debug-instance-on.params"
 msgid "<script-instance> [<...>]"
-msgstr "<script-instance> [<...>]"
+msgstr ""
 
 #: cmd.debug-instance-on.help
 msgid ""
@@ -2234,13 +2155,9 @@ msgid "D&ebug Contained Functions"
 msgstr "Деба&гирај садржане функције"
 
 #: cmd.debug-instance-off.params
-#: cmd.clear-instance.params
-#: cmd.debug-instance-on.params
-#: cmd.profile-instance-on.params
-#: cmd.profile-instance-off.params
 msgctxt "cmd.debug-instance-off.params"
 msgid "<script-instance> [<...>]"
-msgstr "<script-instance> [<...>]"
+msgstr ""
 
 #: cmd.debug-instance-off.help
 msgid ""
@@ -2255,10 +2172,9 @@ msgid "&Toggle Debugging Contained Functions"
 msgstr "&Укључи/искључи дебагирање садржаних функција"
 
 #: cmd.debug-instance.params
-#: cmd.profile-instance.params
 msgctxt "cmd.debug-instance.params"
 msgid "<toggle> <script-instance> [<...>]"
-msgstr "<toggle> <script-instance> [<...>]"
+msgstr ""
 
 #: cmd.debug-instance.help
 msgid ""
@@ -2301,20 +2217,18 @@ msgid "Dump Profile Data"
 msgstr "Попиши податке о профилу"
 
 #: cmd.dumpprofile.params
-#: cmd.find-file.params
 msgctxt "cmd.dumpprofile.params"
 msgid "[<file-name>]"
-msgstr "[<file-name>]"
+msgstr ""
 
 #: cmd.dumptree.params
 msgid "<tree> [<depth>]"
 msgstr "<tree> [<depth>]"
 
 #: cmd.emode.params
-#: cmd.tmode.params
 msgctxt "cmd.emode.params"
 msgid "[<mode>]"
-msgstr "[<mode>]"
+msgstr ""
 
 #: cmd.emode.help
 msgid ""
@@ -2334,15 +2248,9 @@ msgstr ""
 "*бачен*, користите |tmode|."
 
 #: cmd.eval.params
-#: msg.val.expression
-#: cmd.copy-qual-name.params
-#: cmd.evald.params
-#: cmd.props.params
-#: cmd.propsd.params
-#: cmd.this-expr.params
 msgctxt "cmd.eval.params"
 msgid "<expression>"
-msgstr "<израз>"
+msgstr ""
 
 #: cmd.eval.help
 msgid ""
@@ -2353,15 +2261,9 @@ msgstr ""
 "|frame|, |where|, |props|, и |evald|."
 
 #: cmd.evald.params
-#: msg.val.expression
-#: cmd.copy-qual-name.params
-#: cmd.eval.params
-#: cmd.props.params
-#: cmd.propsd.params
-#: cmd.this-expr.params
 msgctxt "cmd.evald.params"
 msgid "<expression>"
-msgstr "<израз>"
+msgstr ""
 
 #: cmd.evald.help
 msgid "Evaluates <expression> in the debugger's scope.  See also: |eval|."
@@ -2390,10 +2292,9 @@ msgid "Tr&ace Errors"
 msgstr "&Прати грешке"
 
 #: cmd.fbreak.label
-#: cmd.set-fbreak.label
 msgctxt "cmd.fbreak.label"
 msgid "Set &Future Breakpoint"
-msgstr "Постави &будућу преломну тачку"
+msgstr ""
 
 #: cmd.fbreak.params
 msgid "[<url-pattern> <line-number> [<properties>]]"
@@ -2514,11 +2415,9 @@ msgid "Find &Creator"
 msgstr "Нађи &творца"
 
 #: cmd.find-creator.params
-#: cmd.find-ctor.params
-#: cmd.set-eval-obj.params
 msgctxt "cmd.find-creator.params"
 msgid "<jsd-value>"
-msgstr "<jsd-value>"
+msgstr ""
 
 #: cmd.find-creator.help
 msgid ""
@@ -2532,11 +2431,9 @@ msgid "Find C&onstructor"
 msgstr "Нађи &конструктор"
 
 #: cmd.find-ctor.params
-#: cmd.find-creator.params
-#: cmd.set-eval-obj.params
 msgctxt "cmd.find-ctor.params"
 msgid "<jsd-value>"
-msgstr "<jsd-value>"
+msgstr ""
 
 #: cmd.find-ctor.help
 msgid ""
@@ -2601,10 +2498,9 @@ msgstr ""
 "придружени ред."
 
 #: cmd.find-sourcetext.params
-#: cmd.find-sourcetext-soft.params
 msgctxt "cmd.find-sourcetext.params"
 msgid "<source-text> [<range-start> [<range-end> [<details> [<target-line>]]]]"
-msgstr "<source-text> [<range-start> [<range-end> [<details> [<target-line>]]]]"
+msgstr ""
 
 #: cmd.find-sourcetext.help
 msgid ""
@@ -2679,10 +2575,9 @@ msgid "&Find URL"
 msgstr "Нађи &УРЛ"
 
 #: cmd.find-url.params
-#: cmd.find-url-soft.params
 msgctxt "cmd.find-url.params"
 msgid "<url> [<range-start> [<range-end> [<details> [<target-line>]]]]"
-msgstr "<url> [<range-start> [<range-end> [<details> [<target-line>]]]]"
+msgstr ""
 
 #: cmd.find-url.help
 msgid ""
@@ -2775,11 +2670,9 @@ msgid "&Command Reference"
 msgstr "&Помоћ о командама"
 
 #: cmd.help.params
-#: cmd.commands.params
-#: cmd.search-scripts.params
 msgctxt "cmd.help.params"
 msgid "[<pattern>]"
-msgstr "[<pattern>]"
+msgstr ""
 
 #: cmd.help.help
 msgid ""
@@ -2893,17 +2786,9 @@ msgid "accel shift L"
 msgstr "accel shift L"
 
 #: cmd.pprint.params
-#: cmd.chrome-filter.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.pprint.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.pprint.help
 msgid ""
@@ -2938,17 +2823,9 @@ msgstr ""
 "поставка ће бити враћена на изворну вредност."
 
 #: cmd.profile.params
-#: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.profile.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.profile.help
 msgid ""
@@ -3015,13 +2892,9 @@ msgid "Don't &Profile Contained Functions"
 msgstr "Не профилиши са&држане функције"
 
 #: cmd.profile-instance-on.params
-#: cmd.clear-instance.params
-#: cmd.debug-instance-on.params
-#: cmd.debug-instance-off.params
-#: cmd.profile-instance-off.params
 msgctxt "cmd.profile-instance-on.params"
 msgid "<script-instance> [<...>]"
-msgstr "<script-instance> [<...>]"
+msgstr ""
 
 #: cmd.profile-instance-on.help
 msgid ""
@@ -3061,15 +2934,9 @@ msgid "Toggle profile mode"
 msgstr "Укључи или искључи профилисање"
 
 #: cmd.props.params
-#: msg.val.expression
-#: cmd.copy-qual-name.params
-#: cmd.eval.params
-#: cmd.evald.params
-#: cmd.propsd.params
-#: cmd.this-expr.params
 msgctxt "cmd.props.params"
 msgid "<expression>"
-msgstr "<израз>"
+msgstr ""
 
 #: cmd.props.help
 msgid ""
@@ -3082,15 +2949,9 @@ msgstr ""
 "|frame|, |eval| и |propsd|."
 
 #: cmd.propsd.params
-#: msg.val.expression
-#: cmd.copy-qual-name.params
-#: cmd.eval.params
-#: cmd.evald.params
-#: cmd.props.params
-#: cmd.this-expr.params
 msgctxt "cmd.propsd.params"
 msgid "<expression>"
-msgstr "<израз>"
+msgstr ""
 
 #: cmd.propsd.help
 msgid ""
@@ -3105,10 +2966,9 @@ msgid "&Exit"
 msgstr "&Изађи"
 
 #: cmd.exit.key
-#: cmd.quit.key
 msgctxt "cmd.exit.key"
 msgid "accel Q"
-msgstr "accel Q"
+msgstr ""
 
 #: cmd.quit.label
 msgid "&Quit"
@@ -3129,10 +2989,9 @@ msgid "&Reload Source"
 msgstr "Поново &учитај код"
 
 #: cmd.reload-source-tab.params
-#: cmd.close-source-tab.params
 msgctxt "cmd.reload-source-tab.params"
 msgid "[<index>]"
-msgstr "[<index>]"
+msgstr ""
 
 #: cmd.reload-source-tab.key
 msgid "accel R"
@@ -3177,10 +3036,9 @@ msgstr ""
 "биће затворен тренутни језичак."
 
 #: cmd.restore-layout.params
-#: cmd.save-layout.params
 msgctxt "cmd.restore-layout.params"
 msgid "[<name>]"
-msgstr "[<name>]"
+msgstr ""
 
 #: cmd.restore-layout.help
 msgid ""
@@ -3197,12 +3055,9 @@ msgid "Restore Break/Watch Se&ttings…"
 msgstr "Врати подешавања &прекида/праћења…"
 
 #: cmd.restore-settings.params
-#: cmd.save-breakpoints.params
-#: cmd.save-settings.params
-#: cmd.save-watches.params
 msgctxt "cmd.restore-settings.params"
 msgid "[<settings-file>]"
-msgstr "[<settings-file>]"
+msgstr ""
 
 #: cmd.restore-settings.help
 msgid ""
@@ -3321,12 +3176,9 @@ msgid "&Save Breakpoint Settings…"
 msgstr "Сачувај подешавања &прекидних тачака…"
 
 #: cmd.save-breakpoints.params
-#: cmd.restore-settings.params
-#: cmd.save-settings.params
-#: cmd.save-watches.params
 msgctxt "cmd.save-breakpoints.params"
 msgid "[<settings-file>]"
-msgstr "[<settings-file>]"
+msgstr ""
 
 #: cmd.save-breakpoints.help
 msgid ""
@@ -3347,12 +3199,9 @@ msgid "Sa&ve Break/Watch Settings…"
 msgstr "Сачувај подешавања пре&ломних тачака/присмотри…"
 
 #: cmd.save-settings.params
-#: cmd.restore-settings.params
-#: cmd.save-breakpoints.params
-#: cmd.save-watches.params
 msgctxt "cmd.save-settings.params"
 msgid "[<settings-file>]"
-msgstr "[<settings-file>]"
+msgstr ""
 
 #: cmd.save-settings.help
 msgid ""
@@ -3512,17 +3361,9 @@ msgid "Include &Functions"
 msgstr "Уврсти &функције"
 
 #: cmd.show-functions.params
-#: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.show-functions.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.show-functions.help
 msgid ""
@@ -3547,17 +3388,9 @@ msgid "&Include ECMA Properties"
 msgstr "&Уврсти својства ЕКМА (ECMA)"
 
 #: cmd.show-ecmas.params
-#: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.show-ecmas.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.show-ecmas.help
 msgid ""
@@ -3582,17 +3415,9 @@ msgid "Include Cons&tants"
 msgstr "Уврсти &константе"
 
 #: cmd.show-constants.params
-#: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.show-constants.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.show-constants.help
 msgid ""
@@ -3616,17 +3441,9 @@ msgid "E&xclude Duplicates"
 msgstr "И&збаци дупликате"
 
 #: cmd.show-most-recent.params
-#: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
 msgctxt "cmd.show-most-recent.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.show-most-recent.help
 msgid ""
@@ -3666,17 +3483,9 @@ msgid "Initialize at &Startup"
 msgstr "Иницијализација при по&кретању"
 
 #: cmd.startup-init.params
-#: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.source-coloring.params
 msgctxt "cmd.startup-init.params"
 msgid "[<toggle>]"
-msgstr "[<toggle>]"
+msgstr ""
 
 #: cmd.startup-init.help
 msgid ""
@@ -3768,14 +3577,11 @@ msgid "<int> <word> [<word2> <word3>]"
 msgstr "<int> <word> [<word2> <word3>]"
 
 #: cmd.testargs.help
-#: cmd.testargs1.help
 msgctxt "cmd.testargs.help"
 msgid ""
 "Function for testing argument parsing.  Pass it what it wants, and it'll "
 "spit out the event object to stdout."
 msgstr ""
-"Функција за проверу рашчлањивања (parsing) аргумената.   Проследите јој шта "
-"жели, и вратиће објекте догађаја на стандардни излаз (stdout)."
 
 #: cmd.testargs1.params
 msgid "<int> [<...>]"
@@ -3866,10 +3672,9 @@ msgid ""
 msgstr "Мења видљивост контрола за претрагу у погледу са учитаним скриптовима."
 
 #: cmd.toggle-float.params
-#: cmd.toggle-view.params
 msgctxt "cmd.toggle-float.params"
 msgid "<view-id>"
-msgstr "<view-id>"
+msgstr ""
 
 #: cmd.toggle-float.help
 msgid ""
@@ -4011,10 +3816,9 @@ msgid "Add &Watch Expression…"
 msgstr "Додај израз за &присмотру…"
 
 #: cmd.watch-expr.params
-#: cmd.watch-exprd.params
 msgctxt "cmd.watch-expr.params"
 msgid "[<watch-expression>]"
-msgstr "[<watch-expression>]"
+msgstr ""
 
 #: cmd.watch-expr.help
 msgid ""

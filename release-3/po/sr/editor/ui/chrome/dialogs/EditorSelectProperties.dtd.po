@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-08-29 09:45-0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,13 +108,9 @@ msgstr "Ви&шеструки избор"
 
 #: SelectDisabled.label
 #: SelectDisabled.accesskey
-#: OptGroupDisabled.label
-#: OptGroupDisabled.accesskey
-#: OptionDisabled.label
-#: OptionDisabled.accesskey
 msgctxt "SelectDisabled.label SelectDisabled.accesskey"
 msgid "&Disabled"
-msgstr "&Искључен"
+msgstr ""
 
 #: SelectTabIndex.label
 #: SelectTabIndex.accesskey
@@ -132,13 +128,9 @@ msgstr "&Ознака:"
 
 #: OptGroupDisabled.label
 #: OptGroupDisabled.accesskey
-#: SelectDisabled.label
-#: SelectDisabled.accesskey
-#: OptionDisabled.label
-#: OptionDisabled.accesskey
 msgctxt "OptGroupDisabled.label OptGroupDisabled.accesskey"
 msgid "&Disabled"
-msgstr "&Искључен"
+msgstr ""
 
 #: Option.label
 msgid "Option"

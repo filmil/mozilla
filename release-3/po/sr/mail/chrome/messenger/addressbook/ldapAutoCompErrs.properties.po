@@ -26,22 +26,19 @@
 msgid "LDAP initialization problem"
 msgstr "Грешка при покретању LDAPа"
 
-# # @name ERR_STATE_INITIALIZING
-# # @loc none
-# # @name ERR_STATE_BINDING
 #. ## @name ERR_STATE_INITIALIZING
 #. ## @loc none
 #: 1
-#: 2
 msgctxt "1"
 msgid "LDAP server connection failed"
-msgstr "Повезивање са LDAP сервером није успело"
+msgstr ""
 
 # # @name ERR_STATE_INITIALIZING
 # # @loc none
 # # @name ERR_STATE_BINDING
 #. ## @name ERR_STATE_BINDING
 #. ## @loc none
+#. ## @name ERR_STATE_INITIALIZING
 #: 2
 #: 1
 msgctxt "2"
@@ -132,13 +129,9 @@ msgstr "Молимо пробајте касније, или се обратит
 msgid "Strong authentication is not currently supported."
 msgstr "Јака аутентификација тренутно није подржана."
 
-# # @name INVALID_SYNTAX_HINT
-# # @loc none
-# # @name FILTER_ERROR_HINT
 #. ## @name INVALID_SYNTAX_HINT
 #. ## @loc none
 #: 10021
-#: 10087
 msgctxt "10021"
 msgid ""
 "Verify that the search filter is correct, and then try again, or else "
@@ -148,12 +141,6 @@ msgid ""
 "the LDAP server being used. Click Edit, and then click Advanced to display "
 "the Search Filter."
 msgstr ""
-"Проверите да ли је филтер за претрагу исправан и онда пробајте опет, или се "
-"обратите за помоћ администратору вашег система.  Да бисте проверили да је "
-"филтер за претрагу исправан, из менија Уреди изаберите ставку Поставке, "
-"затим Пошта и групе и онда Адресирање.  Притисните Уреди директоријуме, и "
-"изаберите LDAP сервер који се користи.  Притисните Уреди, затим Напредно да "
-"бисте приказали филтер за претрагу."
 
 # # @name NO_SUCH_OBJECT_HINT
 # # @loc none
@@ -173,24 +160,16 @@ msgstr ""
 "Притисните Уреди директоријуме, а онда име LDAP сервера који се користи. "
 "Притисните Уреди како бисте приказали основни DN."
 
-# # @name BUSY_HINT
-# # @loc none
-# # @name TIMEOUT_HINT
 #. ## @name BUSY_HINT
 #. ## @loc none
 #: 10051
-#: 10085
 msgctxt "10051"
 msgid "Please try again later."
-msgstr "Молимо да покушате касније."
+msgstr ""
 
-# # @name SERVER_DOWN_HINT
-# # @loc none
-# # @name CONNECT_ERROR_HINT
 #. ## @name SERVER_DOWN_HINT
 #. ## @loc none
 #: 10081
-#: 10091
 msgctxt "10081"
 msgid ""
 "Verify that the Hostname and Port Number are correct, and then try again, or "
@@ -200,19 +179,13 @@ msgid ""
 "select the LDAP server being used. Click Edit to display the Hostname. Click "
 "Advanced to display the Port Number."
 msgstr ""
-"Проверите да ли су име рачунара и број порта исправно унети, и затим "
-"пробајте поново или се обратите администраторз вашег система за помоћ.  Да "
-"бисте проверили да су име рачунара и број порта исправни, из менија Уреди "
-"изаберите Поставке, затим Пошта и групе и најзад Адресирање. Притисните "
-"Уреди директоријуме, и изаберите LDAP сервер који се користи.  Пристините "
-"Уреди да бисте видели име рачунара.  Притисните Напредно да бисте видели "
-"број порта."
 
 # # @name BUSY_HINT
 # # @loc none
 # # @name TIMEOUT_HINT
 #. ## @name TIMEOUT_HINT
 #. ## @loc none
+#. ## @name BUSY_HINT
 #: 10085
 #: 10051
 msgctxt "10085"
@@ -224,6 +197,7 @@ msgstr "Молимо да покушате касније."
 # # @name FILTER_ERROR_HINT
 #. ## @name FILTER_ERROR_HINT
 #. ## @loc none
+#. ## @name INVALID_SYNTAX_HINT
 #: 10087
 #: 10021
 msgctxt "10087"
@@ -255,6 +229,7 @@ msgstr "Молимо затворите неке од прозора или пр
 # # @name CONNECT_ERROR_HINT
 #. ## @name CONNECT_ERROR_HINT
 #. ## @loc none
+#. ## @name SERVER_DOWN_HINT
 #: 10091
 #: 10081
 msgctxt "10091"

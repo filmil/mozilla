@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-01-26 00:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,14 +28,11 @@ msgstr ""
 msgid "Always ask me when I go offline"
 msgstr "Увек ме питај када прекидам везу"
 
-# Send Messages Prompt
-# Send Messages Offline Prompt
 #. # Send Messages Prompt
 #: sendMessagesWindowTitle1
-#: sendMessagesOfflineWindowTitle1
 msgctxt "sendMessagesWindowTitle1"
 msgid "Unsent Messages"
-msgstr "Непослато"
+msgstr ""
 
 #: sendMessagesLabel2
 msgid "Do you want to send your unsent messages now?"
@@ -62,6 +59,7 @@ msgstr ""
 # Send Messages Prompt
 # Send Messages Offline Prompt
 #. # Send Messages Offline Prompt
+#. # Send Messages Prompt
 #: sendMessagesOfflineWindowTitle1
 #: sendMessagesWindowTitle1
 msgctxt "sendMessagesOfflineWindowTitle1"

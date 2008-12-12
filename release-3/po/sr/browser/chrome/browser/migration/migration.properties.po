@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2007-06-11 02:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,54 +118,29 @@ msgid "Internet Options"
 msgstr "Подешавање интернета"
 
 #: 1_opera
-#: 1_dogbert
-#: 1_seamonkey
-#: 1_phoenix
-#: 1_safari
-#: 1_macie
 msgctxt "1_opera"
 msgid "Preferences"
-msgstr "Подешавања"
+msgstr ""
 
 #: 1_dogbert
-#: 1_opera
-#: 1_seamonkey
-#: 1_phoenix
-#: 1_safari
-#: 1_macie
 msgctxt "1_dogbert"
 msgid "Preferences"
-msgstr "Подешавања"
+msgstr ""
 
 #: 1_seamonkey
-#: 1_opera
-#: 1_dogbert
-#: 1_phoenix
-#: 1_safari
-#: 1_macie
 msgctxt "1_seamonkey"
 msgid "Preferences"
-msgstr "Подешавања"
+msgstr ""
 
 #: 1_phoenix
-#: 1_opera
-#: 1_dogbert
-#: 1_seamonkey
-#: 1_safari
-#: 1_macie
 msgctxt "1_phoenix"
 msgid "Preferences"
-msgstr "Подешавања"
+msgstr ""
 
 #: 1_safari
-#: 1_opera
-#: 1_dogbert
-#: 1_seamonkey
-#: 1_phoenix
-#: 1_macie
 msgctxt "1_safari"
 msgid "Preferences"
-msgstr "Подешавања"
+msgstr ""
 
 #: 1_macie
 #: 1_opera
@@ -178,70 +153,34 @@ msgid "Preferences"
 msgstr "Подешавања"
 
 #: 2_ie
-#: 2_opera
-#: 2_dogbert
-#: 2_seamonkey
-#: 2_phoenix
-#: 2_safari
-#: 2_macie
 msgctxt "2_ie"
 msgid "Cookies"
-msgstr "Колачићи"
+msgstr ""
 
 #: 2_opera
-#: 2_ie
-#: 2_dogbert
-#: 2_seamonkey
-#: 2_phoenix
-#: 2_safari
-#: 2_macie
 msgctxt "2_opera"
 msgid "Cookies"
-msgstr "Колачићи"
+msgstr ""
 
 #: 2_dogbert
-#: 2_ie
-#: 2_opera
-#: 2_seamonkey
-#: 2_phoenix
-#: 2_safari
-#: 2_macie
 msgctxt "2_dogbert"
 msgid "Cookies"
-msgstr "Колачићи"
+msgstr ""
 
 #: 2_seamonkey
-#: 2_ie
-#: 2_opera
-#: 2_dogbert
-#: 2_phoenix
-#: 2_safari
-#: 2_macie
 msgctxt "2_seamonkey"
 msgid "Cookies"
-msgstr "Колачићи"
+msgstr ""
 
 #: 2_phoenix
-#: 2_ie
-#: 2_opera
-#: 2_dogbert
-#: 2_seamonkey
-#: 2_safari
-#: 2_macie
 msgctxt "2_phoenix"
 msgid "Cookies"
-msgstr "Колачићи"
+msgstr ""
 
 #: 2_safari
-#: 2_ie
-#: 2_opera
-#: 2_dogbert
-#: 2_seamonkey
-#: 2_phoenix
-#: 2_macie
 msgctxt "2_safari"
 msgid "Cookies"
-msgstr "Колачићи"
+msgstr ""
 
 #: 2_macie
 #: 2_ie
@@ -255,70 +194,34 @@ msgid "Cookies"
 msgstr "Колачићи"
 
 #: 4_ie
-#: 4_opera
-#: 4_dogbert
-#: 4_seamonkey
-#: 4_phoenix
-#: 4_safari
-#: 4_macie
 msgctxt "4_ie"
 msgid "Browsing History"
-msgstr "Историјат"
+msgstr ""
 
 #: 4_opera
-#: 4_ie
-#: 4_dogbert
-#: 4_seamonkey
-#: 4_phoenix
-#: 4_safari
-#: 4_macie
 msgctxt "4_opera"
 msgid "Browsing History"
-msgstr "Историјат"
+msgstr ""
 
 #: 4_dogbert
-#: 4_ie
-#: 4_opera
-#: 4_seamonkey
-#: 4_phoenix
-#: 4_safari
-#: 4_macie
 msgctxt "4_dogbert"
 msgid "Browsing History"
-msgstr "Историјат"
+msgstr ""
 
 #: 4_seamonkey
-#: 4_ie
-#: 4_opera
-#: 4_dogbert
-#: 4_phoenix
-#: 4_safari
-#: 4_macie
 msgctxt "4_seamonkey"
 msgid "Browsing History"
-msgstr "Историјат"
+msgstr ""
 
 #: 4_phoenix
-#: 4_ie
-#: 4_opera
-#: 4_dogbert
-#: 4_seamonkey
-#: 4_safari
-#: 4_macie
 msgctxt "4_phoenix"
 msgid "Browsing History"
-msgstr "Историјат"
+msgstr ""
 
 #: 4_safari
-#: 4_ie
-#: 4_opera
-#: 4_dogbert
-#: 4_seamonkey
-#: 4_phoenix
-#: 4_macie
 msgctxt "4_safari"
 msgid "Browsing History"
-msgstr "Историјат"
+msgstr ""
 
 #: 4_macie
 #: 4_ie
@@ -332,70 +235,34 @@ msgid "Browsing History"
 msgstr "Историјат"
 
 #: 8_ie
-#: 8_opera
-#: 8_dogbert
-#: 8_seamonkey
-#: 8_phoenix
-#: 8_safari
-#: 8_macie
 msgctxt "8_ie"
 msgid "Saved Form History"
-msgstr "Сачувани формулари"
+msgstr ""
 
 #: 8_opera
-#: 8_ie
-#: 8_dogbert
-#: 8_seamonkey
-#: 8_phoenix
-#: 8_safari
-#: 8_macie
 msgctxt "8_opera"
 msgid "Saved Form History"
-msgstr "Сачувани формулари"
+msgstr ""
 
 #: 8_dogbert
-#: 8_ie
-#: 8_opera
-#: 8_seamonkey
-#: 8_phoenix
-#: 8_safari
-#: 8_macie
 msgctxt "8_dogbert"
 msgid "Saved Form History"
-msgstr "Сачувани формулари"
+msgstr ""
 
 #: 8_seamonkey
-#: 8_ie
-#: 8_opera
-#: 8_dogbert
-#: 8_phoenix
-#: 8_safari
-#: 8_macie
 msgctxt "8_seamonkey"
 msgid "Saved Form History"
-msgstr "Сачувани формулари"
+msgstr ""
 
 #: 8_phoenix
-#: 8_ie
-#: 8_opera
-#: 8_dogbert
-#: 8_seamonkey
-#: 8_safari
-#: 8_macie
 msgctxt "8_phoenix"
 msgid "Saved Form History"
-msgstr "Сачувани формулари"
+msgstr ""
 
 #: 8_safari
-#: 8_ie
-#: 8_opera
-#: 8_dogbert
-#: 8_seamonkey
-#: 8_phoenix
-#: 8_macie
 msgctxt "8_safari"
 msgid "Saved Form History"
-msgstr "Сачувани формулари"
+msgstr ""
 
 #: 8_macie
 #: 8_ie
@@ -409,70 +276,34 @@ msgid "Saved Form History"
 msgstr "Сачувани формулари"
 
 #: 16_ie
-#: 16_opera
-#: 16_dogbert
-#: 16_seamonkey
-#: 16_phoenix
-#: 16_safari
-#: 16_macie
 msgctxt "16_ie"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_opera
-#: 16_ie
-#: 16_dogbert
-#: 16_seamonkey
-#: 16_phoenix
-#: 16_safari
-#: 16_macie
 msgctxt "16_opera"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_dogbert
-#: 16_ie
-#: 16_opera
-#: 16_seamonkey
-#: 16_phoenix
-#: 16_safari
-#: 16_macie
 msgctxt "16_dogbert"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_seamonkey
-#: 16_ie
-#: 16_opera
-#: 16_dogbert
-#: 16_phoenix
-#: 16_safari
-#: 16_macie
 msgctxt "16_seamonkey"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_phoenix
-#: 16_ie
-#: 16_opera
-#: 16_dogbert
-#: 16_seamonkey
-#: 16_safari
-#: 16_macie
 msgctxt "16_phoenix"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_safari
-#: 16_ie
-#: 16_opera
-#: 16_dogbert
-#: 16_seamonkey
-#: 16_phoenix
-#: 16_macie
 msgctxt "16_safari"
 msgid "Saved Passwords"
-msgstr "Сачуване лозинке"
+msgstr ""
 
 #: 16_macie
 #: 16_ie
@@ -486,46 +317,29 @@ msgid "Saved Passwords"
 msgstr "Сачуване лозинке"
 
 #: 32_ie
-#: 32_macie
 msgctxt "32_ie"
 msgid "Favorites"
-msgstr "Омиљено"
+msgstr ""
 
 #: 32_opera
-#: 32_dogbert
-#: 32_seamonkey
-#: 32_phoenix
-#: 32_safari
 msgctxt "32_opera"
 msgid "Bookmarks"
-msgstr "Омиљено"
+msgstr ""
 
 #: 32_dogbert
-#: 32_opera
-#: 32_seamonkey
-#: 32_phoenix
-#: 32_safari
 msgctxt "32_dogbert"
 msgid "Bookmarks"
-msgstr "Омиљено"
+msgstr ""
 
 #: 32_seamonkey
-#: 32_opera
-#: 32_dogbert
-#: 32_phoenix
-#: 32_safari
 msgctxt "32_seamonkey"
 msgid "Bookmarks"
-msgstr "Омиљено"
+msgstr ""
 
 #: 32_phoenix
-#: 32_opera
-#: 32_dogbert
-#: 32_seamonkey
-#: 32_safari
 msgctxt "32_phoenix"
 msgid "Bookmarks"
-msgstr "Омиљено"
+msgstr ""
 
 #: 32_safari
 #: 32_opera
@@ -543,70 +357,34 @@ msgid "Favorites"
 msgstr "Омиљено"
 
 #: 64_ie
-#: 64_opera
-#: 64_dogbert
-#: 64_seamonkey
-#: 64_phoenix
-#: 64_safari
-#: 64_macie
 msgctxt "64_ie"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 64_opera
-#: 64_ie
-#: 64_dogbert
-#: 64_seamonkey
-#: 64_phoenix
-#: 64_safari
-#: 64_macie
 msgctxt "64_opera"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 64_dogbert
-#: 64_ie
-#: 64_opera
-#: 64_seamonkey
-#: 64_phoenix
-#: 64_safari
-#: 64_macie
 msgctxt "64_dogbert"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 64_seamonkey
-#: 64_ie
-#: 64_opera
-#: 64_dogbert
-#: 64_phoenix
-#: 64_safari
-#: 64_macie
 msgctxt "64_seamonkey"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 64_phoenix
-#: 64_ie
-#: 64_opera
-#: 64_dogbert
-#: 64_seamonkey
-#: 64_safari
-#: 64_macie
 msgctxt "64_phoenix"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 64_safari
-#: 64_ie
-#: 64_opera
-#: 64_dogbert
-#: 64_seamonkey
-#: 64_phoenix
-#: 64_macie
 msgctxt "64_safari"
 msgid "Other Data"
-msgstr "Остали подаци"
+msgstr ""
 
 #: 64_macie
 #: 64_ie

@@ -83,10 +83,9 @@ msgid "Publish Settings"
 msgstr "Поставке за објављивање"
 
 #: publishTab.label
-#: publishButton.label
 msgctxt "publishTab.label"
 msgid "Publish"
-msgstr "Објави"
+msgstr ""
 
 #: settingsTab.label
 msgid "Settings"
@@ -98,15 +97,12 @@ msgctxt "publishButton.label"
 msgid "Publish"
 msgstr "Објави"
 
-# Publish Tab Panel
 #. Publish Tab Panel
 #: siteList.label
 #: siteList.accesskey
-#: siteName.label
-#: siteName.accesskey
 msgctxt "siteList.label siteList.accesskey"
 msgid "Sit&e Name:"
-msgstr "&Име сајта:"
+msgstr ""
 
 #: siteList.tooltip
 msgid "Choose the site that you want to publish to"
@@ -212,6 +208,7 @@ msgid "Login Information"
 msgstr "Подаци за пријаву"
 
 # Publish Tab Panel
+#. Publish Tab Panel
 #: siteName.label
 #: siteName.accesskey
 #: siteList.label

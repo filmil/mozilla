@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-03-31 01:03+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -133,13 +133,9 @@ msgid "Breakpoints"
 msgstr "преломне тачке (breakpoints)"
 
 #: BreakCol0.label
-#: LocalsCol0.header
-#: ScriptsCol0.header
-#: StackCol0.header
-#: WatchCol0.header
 msgctxt "BreakCol0.label"
 msgid "Name"
-msgstr "Име"
+msgstr ""
 
 #: BreakCol1.label
 msgid "Line/PC"
@@ -152,31 +148,24 @@ msgid "Local Variables"
 msgstr "Локалне променљиве"
 
 #: LocalsCol0.header
-#: BreakCol0.label
-#: ScriptsCol0.header
-#: StackCol0.header
-#: WatchCol0.header
 msgctxt "LocalsCol0.header"
 msgid "Name"
-msgstr "Име"
+msgstr ""
 
 #: LocalsCol1.header
-#: WatchCol1.header
 msgctxt "LocalsCol1.header"
 msgid "Type"
-msgstr "Тип"
+msgstr ""
 
 #: LocalsCol2.header
-#: WatchCol2.header
 msgctxt "LocalsCol2.header"
 msgid "Value"
-msgstr "Вредност"
+msgstr ""
 
 #: LocalsCol3.header
-#: WatchCol3.header
 msgctxt "LocalsCol3.header"
 msgid "Flags"
-msgstr "Заставице"
+msgstr ""
 
 # session view
 #. session view
@@ -199,19 +188,14 @@ msgid "Click here to clear the search field"
 msgstr "Притисните овде да очистите поље за претрагу"
 
 #: ScriptsCol0.header
-#: BreakCol0.label
-#: LocalsCol0.header
-#: StackCol0.header
-#: WatchCol0.header
 msgctxt "ScriptsCol0.header"
 msgid "Name"
-msgstr "Име"
+msgstr ""
 
 #: ScriptsCol1.header
-#: BPProps.Line.label
 msgctxt "ScriptsCol1.header"
 msgid "Line"
-msgstr "Ред"
+msgstr ""
 
 #: ScriptsCol2.header
 msgid "Length"
@@ -242,13 +226,9 @@ msgid "Call Stack"
 msgstr "Стек позива"
 
 #: StackCol0.header
-#: BreakCol0.label
-#: LocalsCol0.header
-#: ScriptsCol0.header
-#: WatchCol0.header
 msgctxt "StackCol0.header"
 msgid "Name"
-msgstr "Име"
+msgstr ""
 
 #: StackCol1.header
 msgid "Location"

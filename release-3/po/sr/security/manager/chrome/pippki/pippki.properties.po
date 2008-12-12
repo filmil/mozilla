@@ -37,10 +37,9 @@ msgid "The certificate \"%S\" represents a Certificate Authority."
 msgstr "Сертификат \"%S\" представља власништво сертификата."
 
 #: editTrustSSL
-#: editTrustEmail
 msgctxt "editTrustSSL"
 msgid "The certificate \"%S\" was issued by:"
-msgstr "Сертификат \"%S\" је потврдио:"
+msgstr ""
 
 #: editTrustEmail
 #: editTrustSSL
@@ -98,10 +97,9 @@ msgid "Delete Server Certificate Exceptions"
 msgstr "Уклони изузетак о серверском сертификату"
 
 #: deleteUserCertConfirm
-#: deleteOrphanCertConfirm
 msgctxt "deleteUserCertConfirm"
 msgid "Are you sure you want to delete these certificates?"
-msgstr "Да ли сигурно желите да уклоните ове сертификате?"
+msgstr ""
 
 #: deleteUserCertImpact
 msgid ""

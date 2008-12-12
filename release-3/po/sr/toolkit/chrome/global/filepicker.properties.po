@@ -1,3 +1,18 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/filepicker.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Accelerator-Marker: &\n"
 
 # LOCALIZATION NOTE FILE
 # --do not localize the extensions, only the titles
@@ -60,10 +75,9 @@ msgid "Applications"
 msgstr "Програми"
 
 #: dirTextInputLabel
-#: promptNewDirMessage
 msgctxt "dirTextInputLabel"
 msgid "Directory name:"
-msgstr "Име директоријума:"
+msgstr ""
 
 #: dirTextInputAccesskey
 msgid "n"
@@ -102,10 +116,9 @@ msgid "Save As:"
 msgstr "Чувај као:"
 
 #: errorOpenFileDoesntExistTitle
-#: errorOpeningFileTitle
 msgctxt "errorOpenFileDoesntExistTitle"
 msgid "Error opening %S"
-msgstr "Грешка при отварању %S"
+msgstr ""
 
 #: errorOpenFileDoesntExistMessage
 msgid "File %S doesn't exist"
@@ -150,10 +163,9 @@ msgid "Cannot create file. Directory %S is not writable."
 msgstr "Не могу да направим датотеку. Директоријум %S је недоступан за упис."
 
 #: errorNewDirDoesExistTitle
-#: errorCreateNewDirTitle
 msgctxt "errorNewDirDoesExistTitle"
 msgid "Error creating %S"
-msgstr "Грешка при стварању %S"
+msgstr ""
 
 #: errorNewDirDoesExistMessage
 msgid "A file named %S already exists, directory cannot be created."

@@ -15,10 +15,9 @@ msgid "St&yle:"
 msgstr "&Стил:"
 
 #: regularStyle.label
-#: regularSize.label
 msgctxt "regularStyle.label"
 msgid "Regular"
-msgstr "Обично"
+msgstr ""
 
 #: bold.label
 msgid "Bold"

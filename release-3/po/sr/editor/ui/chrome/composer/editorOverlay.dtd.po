@@ -768,6 +768,7 @@ msgstr "Пасус"
 #: paragraphParagraphCmd.label
 #: paragraphParagraphCmd.accesskey
 #: paragraphMenu.label
+#: paragraphMenu.accesskey
 #, fuzzy
 msgctxt "paragraphParagraphCmd.label paragraphParagraphCmd.accesskey"
 msgid "&Paragraph"
@@ -1129,6 +1130,7 @@ msgstr "Ћелија изнад"
 #: tableDeleteMenu.label
 #: tableDeleteMenu.accesskey
 #: deleteCmd.label
+#: deleteCmd.accesskey
 #, fuzzy
 msgctxt "tableDeleteMenu.label tableDeleteMenu.accesskey"
 msgid "&Delete"
@@ -1446,10 +1448,18 @@ msgstr "&Уклони ознаку"
 msgid "&Change tag"
 msgstr "&Промени ознаку"
 
+# Insert menu items
+# Insert SubMenu
 # TOC manipulation
 #. TOC manipulation
+#. Insert menu items
+#. Insert SubMenu
 #: insertTOC.label
 #: insertTOC.accesskey
+#: insertMenu.label
+#: insertMenu.accesskey
+#: tableInsertMenu.label
+#: tableInsertMenu.accesskey
 msgctxt "insertTOC.label insertTOC.accesskey"
 msgid "&Insert"
 msgstr "&Убаци"

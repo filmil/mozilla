@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:05-0700\n"
+"POT-Creation-Date: 2008-12-12 04:28-0700\n"
 "PO-Revision-Date: 2008-09-14 00:55+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -372,18 +372,10 @@ msgctxt "offlineApps.allow"
 msgid "Allow"
 msgstr "Дозволи"
 
-# Accessibility Note:
-# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
-# See http://www.mozilla.org/access/keyboard/accesskey for details
-#. # Accessibility Note:
-#. # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
-#. # See http://www.mozilla.org/access/keyboard/accesskey for details
 #: offlineApps.allowAccessKey
-#: xpinstallPromptAllowButton.accesskey
-#: refreshBlocked.goButton.accesskey
 msgctxt "offlineApps.allowAccessKey"
 msgid "A"
-msgstr "Д"
+msgstr ""
 
 #: offlineApps.never
 msgid "Never for This Site"
