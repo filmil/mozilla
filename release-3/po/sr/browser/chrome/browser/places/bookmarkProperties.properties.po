@@ -1,45 +1,61 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/places/bookmarkProperties.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/bookmarkProperties.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-26 23:02+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: dialogAcceptLabelAddItem
 msgid "Add"
 msgstr "Додај"
 
+#: dialogAcceptLabelSaveItem
+msgctxt "dialogAcceptLabelSaveItem"
+msgid "Save"
+msgstr ""
+
+#: dialogAcceptLabelAddLivemark
+msgid "Subscribe"
+msgstr ""
+
 #: dialogAcceptLabelAddMulti
 msgid "Add Bookmarks"
 msgstr "Додај забелешке"
 
 #: dialogAcceptLabelEdit
-msgid "Save Changes"
+#, fuzzy
+msgctxt "dialogAcceptLabelEdit"
+msgid "Save"
 msgstr "Сачувај измене"
 
 #: dialogTitleAddBookmark
-msgid "Add Bookmark"
+#, fuzzy
+msgctxt "dialogTitleAddBookmark"
+msgid "New Bookmark"
 msgstr "Додај забелешку"
 
 #: dialogTitleAddLivemark
-msgid "Add Live Bookmark"
+#, fuzzy
+msgid "Subscribe with Live Bookmark"
 msgstr "Додај живу забелешку"
 
 #: dialogTitleAddFolder
-msgid "Add Folder"
+#, fuzzy
+msgctxt "dialogTitleAddFolder"
+msgid "New Folder"
 msgstr "Додај директоријум"
 
 #: dialogTitleAddMulti
-msgid "Bookmark All Tabs"
+#, fuzzy
+msgid "New Bookmarks"
 msgstr "Забележи све језичке"
 
 #: dialogTitleEdit
@@ -51,10 +67,12 @@ msgid "[Folder Name]"
 msgstr "[Име директоријума]"
 
 #: newFolderDefault
+msgctxt "newFolderDefault"
 msgid "New Folder"
 msgstr "Нови директоријум"
 
 #: newBookmarkDefault
+msgctxt "newBookmarkDefault"
 msgid "New Bookmark"
 msgstr "Нова забелешка"
 

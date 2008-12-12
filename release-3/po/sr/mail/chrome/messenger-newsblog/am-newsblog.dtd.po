@@ -1,24 +1,10 @@
-# extracted from source/sr-RS/mail/chrome/messenger-newsblog/am-newsblog.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-14 23:57+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 #: newsblogTitle.label
 msgid "RSS Account Settings"
 msgstr "Подешавање RSS налога"
 
-#: biffStart.label biffStart.accesskey
+#: biffStart.label
+#: biffStart.accesskey
 msgid "Chec&k for new articles every "
 msgstr "Проверавај &чланке на"
 
@@ -26,20 +12,25 @@ msgstr "Проверавај &чланке на"
 msgid "minutes"
 msgstr "мин"
 
-#: loginAtStartup.label loginAtStartup.accesskey
+#: loginAtStartup.label
+#: loginAtStartup.accesskey
 msgid "&Check for new articles at startup"
 msgstr "&Провери чланке при покретању"
 
-#: useQuickMode.label useQuickMode.accesskey
+#: useQuickMode.label
+#: useQuickMode.accesskey
 msgid "&By default, show the article summary instead of loading the web page"
 msgstr "&Прикажи сажетак чланка уместо учитавања целе стране"
 
-#: manageSubscriptions.label manageSubscriptions.accesskey
+#: manageSubscriptions.label
+#: manageSubscriptions.accesskey
 msgid "&Manage Subscriptions…"
 msgstr "&Управљање праћењима…"
 
 # entities from defaults/isp/rss.rdf
-#: rss.accountName rss.hostName
+#. entities from defaults/isp/rss.rdf
+#: rss.accountName
+#: rss.hostName
 msgid "News &amp; Blogs"
 msgstr "Вести и блогови"
 
@@ -51,5 +42,6 @@ msgstr "РСС (RSS)"
 msgid "RSS News &amp; Blogs"
 msgstr "Доводи РССа и блогови"
 
-#~ msgid "&Manage Subscriptions..."
-#~ msgstr "&Уреди претплате..."
+#: rss.wizardLongName.accesskey
+msgid "R"
+msgstr ""

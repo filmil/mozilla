@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/preferences/changemp.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/preferences/changemp.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2007-01-12 20:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: setPassword.title
@@ -43,9 +42,22 @@ msgid "Loading"
 msgstr "Учитавам"
 
 #: masterPasswordDescription.label
-msgid "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password."
-msgstr "Главна лозинка се користи да заштити осетљиве податке као што су лозинке веб страна. Ако поставите главну лозинку мораћете да је поновите једном по сесији када &brandShortName; добавља сачуване податке заштићене лозинком."
+msgid ""
+"A Master Password is used to protect sensitive information like site "
+"passwords.  If you create a Master Password you will be asked to enter it "
+"once per session when &brandShortName; retrieves saved information protected "
+"by the password."
+msgstr ""
+"Главна лозинка се користи да заштити осетљиве податке као што су лозинке веб "
+"страна. Ако поставите главну лозинку мораћете да је поновите једном по "
+"сесији када &brandShortName; добавља сачуване податке заштићене лозинком."
 
 #: masterPasswordWarning.label
-msgid "Please make sure you remember the Master Password you have set.  If you forget your Master Password, you will be unable to access any of the information protected by it."
-msgstr "Потрудите се да не заборавите постављену главну лозинку.Ако је заборавите, нећете бити у могућности да приступите било којој од осетљивих података које она чува."
+msgid ""
+"Please make sure you remember the Master Password you have set.  If you "
+"forget your Master Password, you will be unable to access any of the "
+"information protected by it."
+msgstr ""
+"Потрудите се да не заборавите постављену главну лозинку.Ако је заборавите, "
+"нећете бити у могућности да приступите било којој од осетљивих података које "
+"она чува."

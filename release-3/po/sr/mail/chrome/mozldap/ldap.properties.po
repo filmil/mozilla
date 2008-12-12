@@ -1,55 +1,54 @@
-# 
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is the mozilla.org LDAP XPCOM SDK.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 2000
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Dan Mosedale <dmose@netscape.com> (Original Author)
-#   Chuck Boatwright <cboatwri@netscape.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/mail/chrome/mozldap/ldap.properties
+#. # 
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is the mozilla.org LDAP XPCOM SDK.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 2000
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Dan Mosedale <dmose@netscape.com> (Original Author)
+#. #   Chuck Boatwright <cboatwri@netscape.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/mozldap/ldap.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2007-06-10 17:11+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 # The following two strings are used when prompting the user for authentication
@@ -58,6 +57,10 @@ msgstr ""
 ## @loc none
 # # @name AUTH_PROMPT_TITLE
 # # @loc none
+#. # The following two strings are used when prompting the user for authentication
+#. # information:
+#. ## @name AUTH_PROMPT_TITLE
+#. ## @loc none
 #: authPromptTitle
 msgid "LDAP Server Password Required"
 msgstr "Лозинка за ЛДАП сервер је обавезна"
@@ -66,20 +69,28 @@ msgstr "Лозинка за ЛДАП сервер је обавезна"
 ## @loc %1$S should not be localized.  It is the hostname of the LDAP server.
 # # @name AUTH_PROMPT_TEXT
 # # @loc %1$S should not be localized.  It is the hostname of the LDAP server.
+#. ## @name AUTH_PROMPT_TEXT
+#. ## @loc %1$S should not be localized.  It is the hostname of the LDAP server.
 #: authPromptText
 msgid "Please enter your password for %1$S."
 msgstr "Молимо унесите лозинку за %1$S."
 
 # These are string versions of all the errors defined in
 # nsILDAPErrors.idl, as well as the nsresult codes based on those
-# errors.  See that file for the genesis of these codes, as well as 
+# errors.  See that file for the genesis of these codes, as well as
 # for info about how to get documentation about their precise
 # meanings.
 ## @name OPERATIONS_ERROR
 ## @loc none
-# errors.  See that file for the genesis of these codes, as well as
 # # @name OPERATIONS_ERROR
 # # @loc none
+#. # These are string versions of all the errors defined in
+#. # nsILDAPErrors.idl, as well as the nsresult codes based on those
+#. # errors.  See that file for the genesis of these codes, as well as 
+#. # for info about how to get documentation about their precise
+#. # meanings.
+#. ## @name OPERATIONS_ERROR
+#. ## @loc none
 #: 1
 msgid "Operations error"
 msgstr "Грешка при дејствима"
@@ -88,6 +99,8 @@ msgstr "Грешка при дејствима"
 ## @loc none
 # # @name PROTOCOL_ERROR
 # # @loc none
+#. ## @name PROTOCOL_ERROR
+#. ## @loc none
 #: 2
 msgid "Protocol error"
 msgstr "Грешка у протоколу"
@@ -96,6 +109,8 @@ msgstr "Грешка у протоколу"
 ## @loc none
 # # @name TIMELIMIT_EXCEEDED
 # # @loc none
+#. ## @name TIMELIMIT_EXCEEDED
+#. ## @loc none
 #: 3
 msgid "Timelimit exceeded"
 msgstr "Време је истекло"
@@ -104,6 +119,8 @@ msgstr "Време је истекло"
 ## @loc none
 # # @name SIZELIMIT_EXCEEDED
 # # @loc none
+#. ## @name SIZELIMIT_EXCEEDED
+#. ## @loc none
 #: 4
 msgid "Sizelimit exceeded"
 msgstr "Прекорачена је максимална величина"
@@ -112,6 +129,8 @@ msgstr "Прекорачена је максимална величина"
 ## @loc none
 # # @name COMPARE_FALSE
 # # @loc none
+#. ## @name COMPARE_FALSE
+#. ## @loc none
 #: 5
 msgid "Compare false"
 msgstr "Поређење није успело"
@@ -120,6 +139,8 @@ msgstr "Поређење није успело"
 ## @loc none
 # # @name COMPARE_TRUE
 # # @loc none
+#. ## @name COMPARE_TRUE
+#. ## @loc none
 #: 6
 msgid "Compare true"
 msgstr "Поређење је успело"
@@ -128,6 +149,8 @@ msgstr "Поређење је успело"
 ## @loc none
 # # @name STRONG_AUTH_NOT_SUPPORTED
 # # @loc none
+#. ## @name STRONG_AUTH_NOT_SUPPORTED
+#. ## @loc none
 #: 7
 msgid "Authentication method not supported"
 msgstr "Метод за аутентикацију није подржан"
@@ -136,6 +159,8 @@ msgstr "Метод за аутентикацију није подржан"
 ## @loc none
 # # @name STRONG_AUTH_REQUIRED
 # # @loc none
+#. ## @name STRONG_AUTH_REQUIRED
+#. ## @loc none
 #: 8
 msgid "Strong authentication required"
 msgstr "Обавезна је јака аутентикација"
@@ -144,6 +169,8 @@ msgstr "Обавезна је јака аутентикација"
 ## @loc none
 # # @name PARTIAL_RESULTS
 # # @loc none
+#. ## @name PARTIAL_RESULTS
+#. ## @loc none
 #: 9
 msgid "Partial results and referral received"
 msgstr "Примљени су делимични резултати и упутнице"
@@ -152,6 +179,8 @@ msgstr "Примљени су делимични резултати и упут�
 ## @loc none
 # # @name REFERRAL
 # # @loc none
+#. ## @name REFERRAL
+#. ## @loc none
 #: 10
 msgid "Referral received"
 msgstr "Примљена је упутница"
@@ -160,6 +189,8 @@ msgstr "Примљена је упутница"
 ## @loc none
 # # @name ADMINLIMIT_EXCEEDED
 # # @loc none
+#. ## @name ADMINLIMIT_EXCEEDED
+#. ## @loc none
 #: 11
 msgid "Administrative limit exceeded"
 msgstr "Премашено је административно ограничење"
@@ -168,6 +199,8 @@ msgstr "Премашено је административно ограниче�
 ## @loc none
 # # @name UNAVAILABLE_CRITICAL_EXTENSION
 # # @loc none
+#. ## @name UNAVAILABLE_CRITICAL_EXTENSION
+#. ## @loc none
 #: 12
 msgid "Unavailable critical extension"
 msgstr "Кључно проширење није доступно"
@@ -176,6 +209,8 @@ msgstr "Кључно проширење није доступно"
 ## @loc none
 # # @name CONFIDENTIALITY_REQUIRED
 # # @loc none
+#. ## @name CONFIDENTIALITY_REQUIRED
+#. ## @loc none
 #: 13
 msgid "Confidentiality required"
 msgstr "Тражи се приватност"
@@ -184,6 +219,8 @@ msgstr "Тражи се приватност"
 ## @loc none
 # # @name SASL_BIND_IN_PROGRESS
 # # @loc none
+#. ## @name SASL_BIND_IN_PROGRESS
+#. ## @loc none
 #: 14
 msgid "SASL bind in progress"
 msgstr "SASL прикључивање је у току"
@@ -192,6 +229,8 @@ msgstr "SASL прикључивање је у току"
 ## @loc none
 # # @name NO_SUCH_ATTRIBUTE
 # # @loc none
+#. ## @name NO_SUCH_ATTRIBUTE
+#. ## @loc none
 #: 16
 msgid "No such attribute"
 msgstr "Нема таквог својства"
@@ -200,6 +239,8 @@ msgstr "Нема таквог својства"
 ## @loc none
 # # @name UNDEFINED_TYPE
 # # @loc none
+#. ## @name UNDEFINED_TYPE
+#. ## @loc none
 #: 17
 msgid "Undefined attribute type"
 msgstr "Врста својства није дефинисана"
@@ -208,6 +249,8 @@ msgstr "Врста својства није дефинисана"
 ## @loc none
 # # @name INAPPROPRIATE MATCHIN
 # # @loc none
+#. ## @name INAPPROPRIATE MATCHIN
+#. ## @loc none
 #: 18
 msgid "Inappropriate matching"
 msgstr "Неодговарајуће поклапање"
@@ -216,6 +259,8 @@ msgstr "Неодговарајуће поклапање"
 ## @loc none
 # # @name CONSTRAINT_VIOLATION
 # # @loc none
+#. ## @name CONSTRAINT_VIOLATION
+#. ## @loc none
 #: 19
 msgid "Constraint violation"
 msgstr "Ограничење није испоштовано"
@@ -224,6 +269,8 @@ msgstr "Ограничење није испоштовано"
 ## @loc none
 # # @name TYPE_OR_VALUE_EXISTS
 # # @loc none
+#. ## @name TYPE_OR_VALUE_EXISTS
+#. ## @loc none
 #: 20
 msgid "Type or value exists"
 msgstr "Врста или вредност већ постоји"
@@ -232,6 +279,8 @@ msgstr "Врста или вредност већ постоји"
 ## @loc none
 # # @name INVALID_SYNTAX
 # # @loc none
+#. ## @name INVALID_SYNTAX
+#. ## @loc none
 #: 21
 msgid "Invalid syntax"
 msgstr "Синтакса је неисправна"
@@ -240,6 +289,8 @@ msgstr "Синтакса је неисправна"
 ## @loc none
 # # @name NO_SUCH_OBJECT
 # # @loc none
+#. ## @name NO_SUCH_OBJECT
+#. ## @loc none
 #: 32
 msgid "No such object"
 msgstr "Нема тог објекта"
@@ -248,6 +299,8 @@ msgstr "Нема тог објекта"
 ## @loc none
 # # @name ALIAS_PROBLEM
 # # @loc none
+#. ## @name ALIAS_PROBLEM
+#. ## @loc none
 #: 33
 msgid "Alias problem"
 msgstr "Проблем са алијасом"
@@ -256,6 +309,8 @@ msgstr "Проблем са алијасом"
 ## @loc none
 # # @name INVALID_DN_ SYNTAX
 # # @loc none
+#. ## @name INVALID_DN_ SYNTAX
+#. ## @loc none
 #: 34
 msgid "Invalid DN syntax"
 msgstr "Неисправна ДН синтакса"
@@ -264,6 +319,8 @@ msgstr "Неисправна ДН синтакса"
 ## @loc none
 # # @name IS_LEAF
 # # @loc none
+#. ## @name IS_LEAF
+#. ## @loc none
 #: 35
 msgid "Object is a leaf"
 msgstr "Објекат је лист"
@@ -272,6 +329,8 @@ msgstr "Објекат је лист"
 ## @loc none
 # # @name ALIAS_DEREF_PROBLEM
 # # @loc none
+#. ## @name ALIAS_DEREF_PROBLEM
+#. ## @loc none
 #: 36
 msgid "Alias dereferencing problem"
 msgstr "Проблем са разрешавањем алијаса"
@@ -280,6 +339,8 @@ msgstr "Проблем са разрешавањем алијаса"
 ## @loc none
 # # @name INAPPROPRIATE_AUTH
 # # @loc none
+#. ## @name INAPPROPRIATE_AUTH
+#. ## @loc none
 #: 48
 msgid "Inappropriate authentication"
 msgstr "Неодговарајућа аутентификација"
@@ -288,6 +349,8 @@ msgstr "Неодговарајућа аутентификација"
 ## @loc none
 # # @name INVALID_CREDENTIALS
 # # @loc none
+#. ## @name INVALID_CREDENTIALS
+#. ## @loc none
 #: 49
 msgid "Invalid credentials"
 msgstr "Неодговарајуће дозволе"
@@ -296,6 +359,8 @@ msgstr "Неодговарајуће дозволе"
 ## @loc none
 # # @name INSUFFICIENT_ACCESS
 # # @loc none
+#. ## @name INSUFFICIENT_ACCESS
+#. ## @loc none
 #: 50
 msgid "Insufficient access"
 msgstr "Неодговарајућа права приступа"
@@ -304,6 +369,8 @@ msgstr "Неодговарајућа права приступа"
 ## @loc none
 # # @name BUSY
 # # @loc none
+#. ## @name BUSY
+#. ## @loc none
 #: 51
 msgid "The LDAP server is busy"
 msgstr "ЛДАП сервер је заузет"
@@ -312,6 +379,8 @@ msgstr "ЛДАП сервер је заузет"
 ## @loc none
 # # @name UNAVAILABLE
 # # @loc none
+#. ## @name UNAVAILABLE
+#. ## @loc none
 #: 52
 msgid "LDAP server is unavailable"
 msgstr "ЛДАП сервер није доступан"
@@ -320,6 +389,8 @@ msgstr "ЛДАП сервер није доступан"
 ## @loc none
 # # @name UNWILLING_TO_PERFORM
 # # @loc none
+#. ## @name UNWILLING_TO_PERFORM
+#. ## @loc none
 #: 53
 msgid "LDAP server is unwilling to perform"
 msgstr "ЛДАП сервер одбија сарадњу"
@@ -328,6 +399,8 @@ msgstr "ЛДАП сервер одбија сарадњу"
 ## @loc none
 # # @name LOOP_DETECT
 # # @loc none
+#. ## @name LOOP_DETECT
+#. ## @loc none
 #: 54
 msgid "Loop detected"
 msgstr "Пронађена је петља"
@@ -336,6 +409,8 @@ msgstr "Пронађена је петља"
 ## @loc none
 # # @name SORT_CONTROL_MISSING
 # # @loc none
+#. ## @name SORT_CONTROL_MISSING
+#. ## @loc none
 #: 60
 msgid "Sort Control is missing"
 msgstr "Недостаје контрола за ређање"
@@ -344,6 +419,8 @@ msgstr "Недостаје контрола за ређање"
 ## @loc none
 # # @name INDEX_RANGE_ERROR
 # # @loc none
+#. ## @name INDEX_RANGE_ERROR
+#. ## @loc none
 #: 61
 msgid "Search results exceed the range specified by the offsets"
 msgstr "Резултати претраге премашују опсег задат померајима"
@@ -352,6 +429,8 @@ msgstr "Резултати претраге премашују опсег зад
 ## @loc none
 # # @name NAMING_VIOLATION
 # # @loc none
+#. ## @name NAMING_VIOLATION
+#. ## @loc none
 #: 64
 msgid "Naming violation"
 msgstr "Грешка при именовању"
@@ -360,6 +439,8 @@ msgstr "Грешка при именовању"
 ## @loc none
 # # @name OBJECT_CLASS_VIOLATION
 # # @loc none
+#. ## @name OBJECT_CLASS_VIOLATION
+#. ## @loc none
 #: 65
 msgid "Object class violation"
 msgstr "Грешка у класи објекта"
@@ -368,6 +449,8 @@ msgstr "Грешка у класи објекта"
 ## @loc none
 # # @name NOT_ALLOWED_ON_NONLEAF
 # # @loc none
+#. ## @name NOT_ALLOWED_ON_NONLEAF
+#. ## @loc none
 #: 66
 msgid "Operation not allowed on nonleaf"
 msgstr "Дејство није допуштено на објекту који није лист"
@@ -376,6 +459,8 @@ msgstr "Дејство није допуштено на објекту који 
 ## @loc none
 # # @name NOT_ALLOWED_ON_RDN
 # # @loc none
+#. ## @name NOT_ALLOWED_ON_RDN
+#. ## @loc none
 #: 67
 msgid "Operation not allowed on RDN"
 msgstr "Дејство није дозвољено на RDN"
@@ -384,6 +469,8 @@ msgstr "Дејство није дозвољено на RDN"
 ## @loc none
 # # @name ALREADY_EXISTS
 # # @loc none
+#. ## @name ALREADY_EXISTS
+#. ## @loc none
 #: 68
 msgid "Already exists"
 msgstr "Већ постоји"
@@ -392,6 +479,8 @@ msgstr "Већ постоји"
 ## @loc none
 # # @name NO_OBJECT_CLASS_MODS
 # # @loc none
+#. ## @name NO_OBJECT_CLASS_MODS
+#. ## @loc none
 #: 69
 msgid "Cannot modify object class"
 msgstr "Није могуће променити класу објекта"
@@ -400,6 +489,8 @@ msgstr "Није могуће променити класу објекта"
 ## @loc none
 # # @name RESULTS_TOO_LARGE
 # # @loc none
+#. ## @name RESULTS_TOO_LARGE
+#. ## @loc none
 #: 70
 msgid "Results too large"
 msgstr "Резултати су превелики"
@@ -408,6 +499,8 @@ msgstr "Резултати су превелики"
 ## @loc none
 # # @name AFFECTS_MULTIPLE_DSAS
 # # @loc none
+#. ## @name AFFECTS_MULTIPLE_DSAS
+#. ## @loc none
 #: 71
 msgid "Affects multiple servers"
 msgstr "Утиче на више сервера"
@@ -416,6 +509,8 @@ msgstr "Утиче на више сервера"
 ## @loc none
 # # @name GENERIC_ERROR
 # # @loc none
+#. ## @name OTHER
+#. ## @loc none
 #: 80
 msgid "Unknown error"
 msgstr "Непозната грешка"
@@ -424,6 +519,8 @@ msgstr "Непозната грешка"
 ## @loc none
 # # @name SERVER_DOWN
 # # @loc none
+#. ## @name SERVER_DOWN
+#. ## @loc none
 #: 81
 msgid "Can't contact the LDAP server"
 msgstr "Није могуће повезати се са ЛДАП сервером"
@@ -432,6 +529,8 @@ msgstr "Није могуће повезати се са ЛДАП серверо
 ## @loc none
 # # @name LOCAL_ERROR
 # # @loc none
+#. ## @name LOCAL_ERROR
+#. ## @loc none
 #: 82
 msgid "Local error"
 msgstr "Локална грешка"
@@ -440,6 +539,8 @@ msgstr "Локална грешка"
 ## @loc none
 # # @name ENCODING_ERROR
 # # @loc none
+#. ## @name ENCODING_ERROR
+#. ## @loc none
 #: 83
 msgid "Encoding error"
 msgstr "Грешка при кодирању"
@@ -448,6 +549,8 @@ msgstr "Грешка при кодирању"
 ## @loc none
 # # @name DECODING_ERROR
 # # @loc none
+#. ## @name DECODING_ERROR
+#. ## @loc none
 #: 84
 msgid "Decoding error"
 msgstr "Грешка при декодирању"
@@ -456,6 +559,8 @@ msgstr "Грешка при декодирању"
 ## @loc none
 # # @name TIMEOUT
 # # @loc none
+#. ## @name TIMEOUT
+#. ## @loc none
 #: 85
 msgid "The LDAP server timed out"
 msgstr "Веза са ЛДАП сервером је истекла"
@@ -464,6 +569,8 @@ msgstr "Веза са ЛДАП сервером је истекла"
 ## @loc none
 # # @name AUTH_UNKNOWN
 # # @loc none
+#. ## @name AUTH_UNKNOWN
+#. ## @loc none
 #: 86
 msgid "Unknown authentication method"
 msgstr "Метод за аутентикацију није познат"
@@ -472,6 +579,8 @@ msgstr "Метод за аутентикацију није познат"
 ## @loc none
 # # @name FILTER_ERROR
 # # @loc none
+#. ## @name FILTER_ERROR
+#. ## @loc none
 #: 87
 msgid "Invalid search filter"
 msgstr "Неисправан филтер за претрагу"
@@ -480,6 +589,8 @@ msgstr "Неисправан филтер за претрагу"
 ## @loc none
 # # @name USER_CANCELLED
 # # @loc none
+#. ## @name USER_CANCELLED
+#. ## @loc none
 #: 88
 msgid "User cancelled operation"
 msgstr "Корисник је отказао дејство"
@@ -488,6 +599,8 @@ msgstr "Корисник је отказао дејство"
 ## @loc none
 # # @name PARAM_ERROR
 # # @loc none
+#. ## @name PARAM_ERROR
+#. ## @loc none
 #: 89
 msgid "Bad parameter to an LDAP routine"
 msgstr "Неисправан параметар за ЛДАП рутину"
@@ -496,6 +609,8 @@ msgstr "Неисправан параметар за ЛДАП рутину"
 ## @loc none
 # # @name NO_MEMORY
 # # @loc none
+#. ## @name NO_MEMORY
+#. ## @loc none
 #: 90
 msgid "Out of memory"
 msgstr "Нема више меморије"
@@ -504,6 +619,8 @@ msgstr "Нема више меморије"
 ## @loc none
 # # @name CONNECT_ERROR
 # # @loc none
+#. ## @name CONNECT_ERROR
+#. ## @loc none
 #: 91
 msgid "Can't connect to the LDAP server"
 msgstr "Није могуће повезати се на ЛДАП сервер"
@@ -512,6 +629,8 @@ msgstr "Није могуће повезати се на ЛДАП сервер"
 ## @loc none
 # # @name NOT_SUPPORTED
 # # @loc none
+#. ## @name NOT_SUPPORTED
+#. ## @loc none
 #: 92
 msgid "Not supported by this version of the LDAP protocol"
 msgstr "Није подржано у овом издању ЛДАП протокола"
@@ -520,6 +639,8 @@ msgstr "Није подржано у овом издању ЛДАП проток
 ## @loc none
 # # @name CONTROL_NOT_FOUND
 # # @loc none
+#. ## @name CONTROL_NOT_FOUND
+#. ## @loc none
 #: 93
 msgid "Requested LDAP control not found"
 msgstr "Захтевана ЛДАП контрола није пронађена"
@@ -528,6 +649,8 @@ msgstr "Захтевана ЛДАП контрола није пронађена
 ## @loc none
 # # @name NO_RESULTS_RETURNED
 # # @loc none
+#. ## @name NO_RESULTS_RETURNED
+#. ## @loc none
 #: 94
 msgid "No results returned"
 msgstr "Ниједан резултат није враћен"
@@ -536,6 +659,8 @@ msgstr "Ниједан резултат није враћен"
 ## @loc none
 # # @name MORE_RESULTS_TO_RETURN
 # # @loc none
+#. ## @name MORE_RESULTS_TO_RETURN
+#. ## @loc none
 #: 95
 msgid "More results to return"
 msgstr "Више резултата је враћено"
@@ -544,6 +669,8 @@ msgstr "Више резултата је враћено"
 ## @loc none
 # # @name CLIENT_LOOP
 # # @loc none
+#. ## @name CLIENT_LOOP
+#. ## @loc none
 #: 96
 msgid "Client detected loop"
 msgstr "Клијент је детектовао петљу"
@@ -552,6 +679,8 @@ msgstr "Клијент је детектовао петљу"
 ## @loc none
 # # @name REFERRAL_LIMIT_EXCEEDED
 # # @loc none
+#. ## @name REFERRAL_LIMIT_EXCEEDED
+#. ## @loc none
 #: 97
 msgid "Referral hop limit exceeded"
 msgstr "Прекорачено је ограничење броја скокова"

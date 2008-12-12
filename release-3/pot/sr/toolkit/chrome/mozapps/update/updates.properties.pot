@@ -4,22 +4,48 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-14 00:35+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
+#. # LOCALIZATION NOTE: The 1st %S is the update name and the 2nd %S is the build
+#. # identifier from the local updates.xml for displaying update history
+#. # example: MyApplication (20081022033543)
+#: updateFullName
+msgid "%S (%S)"
+msgstr ""
+
+#. # LOCALIZATION NOTE: The 1st %S is brandShortName and 2nd %S is update version
+#. # where update version from the update xml
+#. # example: MyApplication 10.0.5
 #: updateName
 msgid "%S %S"
 msgstr ""
 
-#: updateFullName
-msgid "%S (%S)"
+#: licenseContentDownloading
+msgid "Getting license for %S %S…"
+msgstr ""
+
+#: updateMoreInfoContentDownloading
+msgid "Getting more details about %S %S…"
+msgstr ""
+
+#: intro_major_app_and_version
+msgid "Do you want to upgrade to %S %S now?"
+msgstr ""
+
+#. # LOCALIZATION NOTE: The 1st %S is brandShortName and 2nd %S is update version
+#. # and the 3rd %S is brandShortName. where update version from the update xml
+#: incompatibleAddons_major
+msgid ""
+"Some of your add-ons won't work with %S %S, and will be disabled. As soon as "
+"they are made compatible, %S will update and re-enable these add-ons:"
 msgstr ""
 
 #: updateType_major
@@ -30,12 +56,16 @@ msgstr ""
 msgid "Security Update"
 msgstr ""
 
-#: introType_minor_app
-msgid "An update for %S is available:"
+#. # LOCALIZATION NOTE: When present %S is brandShortName
+#: incompatibleAddons_minor
+msgid ""
+"Some of your add-ons won't work with this update, and must be disabled. As "
+"soon as they are made compatible, %S will update and re-enable these add-"
+"ons:"
 msgstr ""
 
-#: introType_major_app_and_version
-msgid "You can download and install %S %S now!"
+#: intro_minor_app
+msgid "A security and stability update for %S is available:"
 msgstr ""
 
 #: verificationError
@@ -58,14 +88,102 @@ msgid ""
 "%S homepage for more information."
 msgstr ""
 
-#: licenseContentDownloading
-msgid "Getting license for %S %S…"
+#: resumePausedAfterCloseTitle
+msgid "Software Update"
 msgstr ""
 
-#: updateMoreInfoContentDownloading
-msgid "Getting more details about %S %S…"
+#: resumePausedAfterCloseMsg
+msgid ""
+"You have paused downloading this update. Do you want to download the update "
+"in the background while you continue to use %S?"
 msgstr ""
 
+#: updaterIOErrorTitle
+msgid "Software Update Failed"
+msgstr ""
+
+#: updaterIOErrorMsg
+msgid ""
+"The update could not be installed. Please make sure there are no other "
+"copies of %S running on your computer, and then restart %S to try again."
+msgstr ""
+
+#: okButton
+msgid "OK"
+msgstr ""
+
+#: okButton.accesskey
+msgid "O"
+msgstr ""
+
+#: askLaterButton
+msgid "Ask Later"
+msgstr ""
+
+#: askLaterButton.accesskey
+msgctxt "askLaterButton.accesskey"
+msgid "A"
+msgstr ""
+
+#: noThanksButton
+msgid "No Thanks"
+msgstr ""
+
+#: noThanksButton.accesskey
+msgid "N"
+msgstr ""
+
+#: updateButton_minor
+msgid "Update %S"
+msgstr ""
+
+#: updateButton_minor.accesskey
+msgid "U"
+msgstr ""
+
+#: updateButton_major
+msgid "Get the New Version"
+msgstr ""
+
+#: updateButton_major.accesskey
+msgid "G"
+msgstr ""
+
+#: backButton
+msgid "Back"
+msgstr ""
+
+#: backButton.accesskey
+msgid "B"
+msgstr ""
+
+#: acceptTermsButton
+msgid "Accept Terms"
+msgstr ""
+
+#: acceptTermsButton.accesskey
+msgctxt "acceptTermsButton.accesskey"
+msgid "A"
+msgstr ""
+
+#: restartLaterButton
+msgid "Restart Later"
+msgstr ""
+
+#: restartLaterButton.accesskey
+msgid "L"
+msgstr ""
+
+#: restartNowButton
+msgid "Restart %S"
+msgstr ""
+
+#: restartNowButton.accesskey
+msgid "R"
+msgstr ""
+
+#. # LOCALIZATION NOTE: %S is the date the update was installed from the local
+#. # updates.xml for displaying update history
 #: statusSucceededFormat
 msgid "Installed on: %S"
 msgstr ""
@@ -98,234 +216,26 @@ msgstr ""
 msgid "New Version Available"
 msgstr ""
 
-#: progressFormatKBKB
-msgid "#1 of #2 KB"
-msgstr ""
-
-#: progressFormatKBMB
-msgid "#1 KB of #2 MB"
-msgstr ""
-
-#: progressFormatMBMB
-msgid "#1 of #2 MB"
-msgstr ""
-
-#: progressFormatUnknownKB
-msgid "#1 KB"
-msgstr ""
-
-#: progressFormatUnknownMB
-msgid "#1 MB"
-msgstr ""
-
-#: pausedStatus
-msgid "%S downloaded so far"
-msgstr ""
-
-#: remain
-msgid "remain"
-msgstr ""
-
-#: unknownFilesize
-msgid "unknown file size"
-msgstr ""
-
-#: rateFormatKBSec
-msgid "#1 KB/sec"
-msgstr ""
-
-#: rateFormatMBSec
-msgid "#1 MB/sec"
-msgstr ""
-
-#: longTimeFormat
-msgid "#1:#2:#3"
-msgstr ""
-
-#: shortTimeFormat
-msgid "#2:#3"
-msgstr ""
-
-#: rateFormat
-msgid "at #1"
-msgstr ""
-
-#: progressFormat
-msgctxt "progressFormat"
-msgid "#1#2"
-msgstr ""
-
-#: timeFormat
-msgid "; #1 #2"
-msgstr ""
-
-#: statusFormat
-msgctxt "statusFormat"
-msgid "#1#2"
-msgstr ""
-
-#: downloadingPrefix
-msgid "Downloading %S…"
-msgstr ""
-
-#: pausedName
-msgid "Paused downloading %S"
-msgstr ""
-
-#: restartButton
-msgid "Restart %S Now"
-msgstr ""
-
-#: restartButton.accesskey
-msgid "R"
-msgstr ""
-
-#: downloadButton_minor
-msgid "Download & Install Now »"
-msgstr ""
-
-#: downloadButton_minor.accesskey
-msgid "D"
-msgstr ""
-
-#: downloadButton_major
-msgid "Get the new version »"
-msgstr ""
-
-#: downloadButton_major.accesskey
-msgid "G"
-msgstr ""
-
-#: notNowButton
-msgid "Not Now"
-msgstr ""
-
-#: notNowButton.accesskey
-msgid "o"
-msgstr ""
-
-#: neverButton
-msgid "Never"
-msgstr ""
-
-#: neverButton.accesskey
-msgid "N"
-msgstr ""
-
-#: resumePausedAfterCloseTitle
-msgid "Software Update"
-msgstr ""
-
-#: resumePausedAfterCloseMessage
-msgid ""
-"You have paused downloading this update. Do you want %S to download the "
-"update in the background while you continue to browse?"
-msgstr ""
-
-#: updateReadyToInstallHeader
-msgid "%S Ready to Install"
-msgstr ""
-
-#: checker_error-200
-msgid "AUS: Update XML File Malformed (200)"
-msgstr ""
-
-#: checker_error-403
-msgid "AUS: Access Denied (403)"
-msgstr ""
-
-#: checker_error-404
-msgid "AUS: Update XML File Not Found (404)"
-msgstr ""
-
-#: checker_error-500
-msgid "AUS: Internal Server Error (500)"
-msgstr ""
-
-#: checker_error-2152398849
-msgid "Failed (Unknown Reason)"
-msgstr ""
-
-#: checker_error-2152398861
-msgid "AUS: Connection Refused"
-msgstr ""
-
-#: checker_error-2152398862
-msgid "AUS: Connection timed out"
-msgstr ""
-
-#. # NS_ERROR_OFFLINE
-#: checker_error-2152398864
-msgctxt "checker_error-2152398864"
-msgid "Network is Offline (Go online)"
-msgstr ""
-
-#: checker_error-2152398867
-msgid "AUS: Port not allowed (Contact your Administrator)"
-msgstr ""
-
-#: checker_error-2152398868
-msgid "AUS: No data was received (Please try again)"
-msgstr ""
-
-#: checker_error-2152398878
-msgid ""
-"AUS: Update Server Not Found (Check your internet connection or contact your "
-"Administrator)"
-msgstr ""
-
-#: checker_error-2152398890
-msgid ""
-"Proxy Server Not Found (Check your internet connection or contact your "
-"Administrator)"
-msgstr ""
-
-#. # NS_ERROR_DOCUMENT_NOT_CACHED
-#: checker_error-2152398918
-msgctxt "checker_error-2152398918"
-msgid "Network is Offline (Go online)"
-msgstr ""
-
-#: checker_error-2152398919
-msgid "AUS: Data transfer was interrupted (Please try again)"
-msgstr ""
-
-#: checker_error-2152398920
-msgid "Proxy Server Connection Refused (Contact your Administrator)"
-msgstr ""
-
-#: checker_error-2153390069
-msgid ""
-"Server certificate has expired (Please adjust your system clock to the "
-"correct date and time if it is incorrect or contact your Administrator)"
-msgstr ""
-
-#: checker_error-verification_failed
-msgid ""
-"The integrity of the update could not be verified (Contact your "
-"Administrator)"
-msgstr ""
-
 #: installSuccess
 msgid "The Update was successfully installed"
-msgstr ""
-
-#: patchApplyFailure
-msgid "The Update could not be installed (Patch Apply Failed)"
 msgstr ""
 
 #: installPending
 msgid "Install Pending"
 msgstr ""
 
-#: updaterIOErrorTitle
-msgid "Software Update Failed"
+#: patchApplyFailure
+msgid "The Update could not be installed (patch apply failed)"
 msgstr ""
 
-#: updaterIOErrorMsg
-msgid ""
-"The update could not be installed. Please make sure there are no other "
-"copies of %S running on your computer, and then restart %S to try again."
+#. # LOCALIZATION NOTE: When present %S is the update name provided by the remote
+#. # update xml for the following
+#: downloadingPrefix
+msgid "Downloading %S…"
+msgstr ""
+
+#: pausedName
+msgid "Paused downloading %S"
 msgstr ""
 
 #: updateAvailable_minor.title
@@ -362,4 +272,84 @@ msgstr ""
 
 #: updateDownloaded_major.text
 msgid "Install the new version…"
+msgstr ""
+
+#. # LOCALIZATION NOTE: %S is the amount downloaded so far
+#. # example: Downloaded 879 KB of 2.1 MB
+#: pausedStatus
+msgid "Downloaded %S"
+msgstr ""
+
+#: check_error-200
+msgid "Update XML file malformed (200)"
+msgstr ""
+
+#: check_error-403
+msgid "Access denied (403)"
+msgstr ""
+
+#: check_error-404
+msgid "Update XML file not found (404)"
+msgstr ""
+
+#: check_error-500
+msgid "Internal server error (500)"
+msgstr ""
+
+#: check_error-2152398849
+msgid "Failed (unknown reason)"
+msgstr ""
+
+#: check_error-2152398861
+msgid "Connection refused"
+msgstr ""
+
+#: check_error-2152398862
+msgid "Connection timed out"
+msgstr ""
+
+#. # NS_ERROR_OFFLINE
+#: check_error-2152398864
+msgctxt "check_error-2152398864"
+msgid "Network is offline (go online)"
+msgstr ""
+
+#: check_error-2152398867
+msgid "Port not allowed"
+msgstr ""
+
+#: check_error-2152398868
+msgid "No data was received (please try again)"
+msgstr ""
+
+#: check_error-2152398878
+msgid "Update server not found (check your internet connection)"
+msgstr ""
+
+#: check_error-2152398890
+msgid "Proxy server not found (check your internet connection)"
+msgstr ""
+
+#. # NS_ERROR_DOCUMENT_NOT_CACHED
+#: check_error-2152398918
+msgctxt "check_error-2152398918"
+msgid "Network is offline (go online)"
+msgstr ""
+
+#: check_error-2152398919
+msgid "Data transfer was interrupted (please try again)"
+msgstr ""
+
+#: check_error-2152398920
+msgid "Proxy server connection refused"
+msgstr ""
+
+#: check_error-2153390069
+msgid ""
+"Server certificate has expired (please adjust your system clock to the "
+"correct date and time if it is incorrect)"
+msgstr ""
+
+#: check_error-verification_failed
+msgid "The integrity of the update could not be verified"
 msgstr ""

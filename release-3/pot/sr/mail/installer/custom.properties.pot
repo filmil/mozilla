@@ -1,62 +1,61 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is the Mozilla Installer code.
-#
-# The Initial Developer of the Original Code is Mozilla Foundation
-# Portions created by the Initial Developer are Copyright (C) 2006
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#  Robert Strong <robert.bugzilla@gmail.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/installer/custom.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is the Mozilla Installer code.
+#. #
+#. # The Initial Developer of the Original Code is Mozilla Foundation
+#. # Portions created by the Initial Developer are Copyright (C) 2006
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #  Robert Strong <robert.bugzilla@gmail.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/installer/custom.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# LOCALIZATION NOTE:
-# This file must be saved as UTF8
-# Accesskeys are defined by prefixing the letter that is to be used for the
-# accesskey with an ampersand (e.g. &).
-# Don't replace ${BrandShortName}, $(^Name), or $(^NameDA) with a custom string.
-# You can use \n to create a newline in the string but only when the string
-# from en-US contains a \n.
+#. # LOCALIZATION NOTE:
+#. # This file must be saved as UTF8
+#. # Accesskeys are defined by prefixing the letter that is to be used for the
+#. # accesskey with an ampersand (e.g. &).
+#. # Don't replace ${BrandShortName}, $(^Name), or $(^NameDA) with a custom string.
+#. # You can use \n to create a newline in the string but only when the string
+#. # from en-US contains a \n.
 #: REG_APP_DESC
 msgid ""
 "${BrandShortName} is a full-featured email application. ${BrandShortName} "
@@ -64,38 +63,6 @@ msgid ""
 "Built-in junk mail controls, RSS capabilities, powerful quick search, spell "
 "check as you type, global inbox, and advanced message filtering round out "
 "${BrandShortName}'s modern feature set."
-msgstr ""
-
-#: OPTIONAL_COMPONENTS_TITLE
-msgid "Choose Optional Components"
-msgstr ""
-
-#: OPTIONAL_COMPONENTS_SUBTITLE
-msgid "Choose which features of $(^NameDA) you want to install."
-msgstr ""
-
-#: OPTIONAL_COMPONENTS_LABEL
-msgid "Optional Components:"
-msgstr ""
-
-#: APP_DESC
-msgid "Required files for the ${BrandShortName} application"
-msgstr ""
-
-#: DOMI_TITLE
-msgid "DOM Inspector"
-msgstr ""
-
-#: DOMI_TEXT
-msgid "Inspects the structure and properties of a window and its contents."
-msgstr ""
-
-#: QFA_TITLE
-msgid "Quality Feedback Agent"
-msgstr ""
-
-#: QFA_TEXT
-msgid "Sends information about program crashes to Mozilla."
 msgstr ""
 
 #: CONTEXT_OPTIONS
@@ -159,13 +126,6 @@ msgstr ""
 msgid "&Launch $(^Name) now"
 msgstr ""
 
-#: WARN_APP_RUNNING_INSTALL
-msgid ""
-"$(^Name) must be closed to proceed with the installation.\n"
-"\n"
-"Click \"OK\" to exit $(^Name) automatically and continue."
-msgstr ""
-
 #: CREATE_ICONS_DESC
 msgid "Create icons for ${BrandShortName}:"
 msgstr ""
@@ -180,6 +140,13 @@ msgstr ""
 
 #: ICONS_QUICKLAUNCH
 msgid "In my &Quick Launch bar"
+msgstr ""
+
+#: WARN_MANUALLY_CLOSE_APP_INSTALL
+msgid ""
+"$BrandShortName must be closed to proceed with the installation.\n"
+"\n"
+"Please close $BrandShortName to continue."
 msgstr ""
 
 #: WARN_MANUALLY_CLOSE_APP_UNINSTALL
@@ -229,14 +196,34 @@ msgid ""
 "${BrandShortName}. Do you want to reboot now?"
 msgstr ""
 
-#: ERROR_CREATE_DIRECTORY
+#: ERROR_CREATE_DIRECTORY_PREFIX
+msgid "Error creating directory:"
+msgstr ""
+
+#: ERROR_CREATE_DIRECTORY_SUFFIX
 msgid ""
-"Error creating directory:\n"
-"\n"
-"$0\n"
-"\n"
 "Click Cancel to stop the installation or\n"
 "Retry to try again."
+msgstr ""
+
+#: UN_CONFIRM_PAGE_TITLE
+msgid "Uninstall $BrandFullName"
+msgstr ""
+
+#: UN_CONFIRM_PAGE_SUBTITLE
+msgid "Remove $BrandFullName from your computer."
+msgstr ""
+
+#: UN_CONFIRM_UNINSTALLED_FROM
+msgid "$BrandShortName will be uninstalled from the following location:"
+msgstr ""
+
+#: UN_CONFIRM_CLICK
+msgid "Click Uninstall to continue."
+msgstr ""
+
+#: BANNER_CHECK_EXISTING
+msgid "Checking existing installation…"
 msgstr ""
 
 #: STATUS_INSTALL_APP
@@ -247,10 +234,6 @@ msgstr ""
 msgid "Installing Language Files (${AB_CD})…"
 msgstr ""
 
-#: STATUS_INSTALL_OPTIONAL
-msgid "Installing Optional Components…"
-msgstr ""
-
 #: STATUS_UNINSTALL_MAIN
 msgid "Uninstalling ${BrandShortName}…"
 msgstr ""
@@ -259,13 +242,13 @@ msgstr ""
 msgid "Cleaning up the birdcage…"
 msgstr ""
 
-# _DESC strings support approximately 65 characters per line.
-# One line
+#. # _DESC strings support approximately 65 characters per line.
+#. # One line
 #: OPTIONS_SUMMARY
 msgid "Choose the type of setup you prefer, then click Next."
 msgstr ""
 
-# One line
+#. # One line
 #: OPTION_STANDARD_DESC
 msgid "${BrandShortName} will be installed with the most common options."
 msgstr ""
@@ -274,16 +257,7 @@ msgstr ""
 msgid "&Standard"
 msgstr ""
 
-# One line
-#: OPTION_COMPLETE_DESC
-msgid "${BrandShortName} will be installed with all available options."
-msgstr ""
-
-#: OPTION_COMPLETE_RADIO
-msgid "C&omplete"
-msgstr ""
-
-# Two lines
+#. # Two lines
 #: OPTION_CUSTOM_DESC
 msgid ""
 "You may choose individual options to be installed. Recommended for "

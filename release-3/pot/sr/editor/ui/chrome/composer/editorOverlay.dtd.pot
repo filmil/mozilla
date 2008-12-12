@@ -1,88 +1,70 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/editor/ui/chrome/composer/editorOverlay.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/editor/ui/chrome/composer/editorOverlay.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# ***** BEGIN LICENSE BLOCK *****
-# - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# -
-# - The contents of this file are subject to the Mozilla Public License Version
-# - 1.1 (the "License"); you may not use this file except in compliance with
-# - the License. You may obtain a copy of the License at
-# - http://www.mozilla.org/MPL/
-# -
-# - Software distributed under the License is distributed on an "AS IS" basis,
-# - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# - for the specific language governing rights and limitations under the
-# - License.
-# -
-# - The Original Code is Mozilla Communicator client code, released
-# - March 31, 1998.
-# -
-# - The Initial Developer of the Original Code is
-# - Netscape Communications Corporation.
-# - Portions created by the Initial Developer are Copyright (C) 1999-2000
-# - the Initial Developer. All Rights Reserved.
-# -
-# - Contributor(s):
-# -   Sammy Ford
-# -   Blake Ross
-# -   Ryan Cassin (rcassin@supernova.org)
-# -   Daniel Glazman (glazman@netscape.com)
-# -   Stephen Donner (technutz@netscape.net)
-# -
-# - Alternatively, the contents of this file may be used under the terms of
-# - either of the GNU General Public License Version 2 or later (the "GPL"),
-# - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# - in which case the provisions of the GPL or the LGPL are applicable instead
-# - of those above. If you wish to allow use of your version of this file only
-# - under the terms of either the GPL or the LGPL, and not to allow others to
-# - use your version of this file under the terms of the MPL, indicate your
-# - decision by deleting the provisions above and replace them with the notice
-# - and other provisions required by the GPL or the LGPL. If you do not delete
-# - the provisions above, a recipient may use your version of this file under
-# - the terms of any one of the MPL, the GPL or the LGPL.
-# -
-# - ***** END LICENSE BLOCK *****
-# Attn: Localization - some of the menus in this dialog directly affect mail also.
-# File menu items
+#. ***** BEGIN LICENSE BLOCK *****
+#. - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. -
+#. - The contents of this file are subject to the Mozilla Public License Version
+#. - 1.1 (the "License"); you may not use this file except in compliance with
+#. - the License. You may obtain a copy of the License at
+#. - http://www.mozilla.org/MPL/
+#. -
+#. - Software distributed under the License is distributed on an "AS IS" basis,
+#. - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. - for the specific language governing rights and limitations under the
+#. - License.
+#. -
+#. - The Original Code is Mozilla Communicator client code, released
+#. - March 31, 1998.
+#. -
+#. - The Initial Developer of the Original Code is
+#. - Netscape Communications Corporation.
+#. - Portions created by the Initial Developer are Copyright (C) 1999-2000
+#. - the Initial Developer. All Rights Reserved.
+#. -
+#. - Contributor(s):
+#. -   Sammy Ford
+#. -   Blake Ross
+#. -   Ryan Cassin (rcassin@supernova.org)
+#. -   Daniel Glazman (glazman@netscape.com)
+#. -   Stephen Donner (technutz@netscape.net)
+#. -
+#. - Alternatively, the contents of this file may be used under the terms of
+#. - either of the GNU General Public License Version 2 or later (the "GPL"),
+#. - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. - in which case the provisions of the GPL or the LGPL are applicable instead
+#. - of those above. If you wish to allow use of your version of this file only
+#. - under the terms of either the GPL or the LGPL, and not to allow others to
+#. - use your version of this file under the terms of the MPL, indicate your
+#. - decision by deleting the provisions above and replace them with the notice
+#. - and other provisions required by the GPL or the LGPL. If you do not delete
+#. - the provisions above, a recipient may use your version of this file under
+#. - the terms of any one of the MPL, the GPL or the LGPL.
+#. -
+#. - ***** END LICENSE BLOCK *****
+#. Attn: Localization - some of the menus in this dialog directly affect mail also.
+#. File menu items
 #: fileMenu.label
-msgid "File"
-msgstr ""
-
-#: filemenu.accesskey
-#: editfind.accesskey
-#: editfind.keybinding
-#: formatfontmenu.accesskey
-#: localfontmenu.accesskey
-#: paragraphpreformat.accesskey
-#: tablecellafter.accesskey
-#: tablefix.accesskey
-#: toolsetfocus.accesskey
-msgid "f"
+#: fileMenu.accesskey
+msgid "&File"
 msgstr ""
 
 #: newBlankPageCmd.label
-msgid "Composer Page"
-msgstr ""
-
-#: newBlankPage.accesskey
-#: formatparagraphmenu.accesskey
-#: paragraphparagraph.accesskey
-#: ParagraphAbbr.label
-msgid "P"
+#: newBlankPageCmd.accesskey
+msgid "Composer &Page"
 msgstr ""
 
 #: newMenu.label
@@ -90,219 +72,120 @@ msgid "New"
 msgstr ""
 
 #: openFileCmd.label
-msgid "Open File…"
+#: openFileCmd.accesskey
+msgid "&Open File…"
 msgstr ""
 
-#: fileopen.accesskey
-#: fileopen.keybinding
-#: inserthline.accesskey
-#: tablecolumn.accesskey
-msgid "o"
+#: openFileCmd.key
+msgid "O"
 msgstr ""
 
-#: openremoteCmd.label
-msgid "Open Web Location…"
+#: openRemoteCmd.label
+#: openRemoteCmd.accesskey
+msgid "Open Web &Location…"
 msgstr ""
 
-# Tools menu
-#: fileopenremote.accesskey
-#: fileopenremote.keybinding
-#: editpastelink.accesskey
-#: insertlink.accesskey
-#: insertlink.keybinding
-#: clear.accesskey
-#: fonthelvetica.accesskey
-#: size-large.accesskey
-#: formatlistmenu.accesskey
-#: listprops.accesskey
-#: alignleft.accesskey
-#: toolsmenu.accesskey
-msgid "l"
+#: openRemoteCmd.key
+msgctxt "openRemoteCmd.key"
+msgid "L"
 msgstr ""
 
 #: fileRecentMenu.label
-msgid "Recent Pages"
-msgstr ""
-
-#: filerecentmenu.accesskey
-#: pasteRows.accesskey
-#: redo.accesskey
-#: decreasefontsize.accesskey
-#: alignright.accesskey
-#: tablerow.accesskey
-#: converttotable.accesskey
-msgid "r"
+#: fileRecentMenu.accesskey
+msgid "&Recent Pages"
 msgstr ""
 
 #: fileRevert.label
-msgid "Revert"
-msgstr ""
-
-#: filerevert.accesskey
-#: fileprintpreview.accesskey
-#: editpastequotation.keybinding
-#: editfindprev.accesskey
-#: validate.accesskey
-#: fontvarwidth.accesskey
-#: advancedproperties.accesskey
-msgid "v"
+#: fileRevert.accesskey
+msgid "Re&vert"
 msgstr ""
 
 #: saveCmd.label
-msgid "Save"
+#: saveCmd.accesskey
+msgid "&Save"
 msgstr ""
 
-#: filesave.accesskey
-#: filesave.keybinding
-#: viewpagesource.accesskey
-#: size-small.accesskey
-#: formatstylemenu.accesskey
-#: tableselectmenu.accesskey
-msgid "s"
+#: saveCmd.key
+msgctxt "saveCmd.key"
+msgid "S"
 msgstr ""
 
 #: saveAsCmd.label
-msgid "Save As…"
-msgstr ""
-
-#: filesaveas.accesskey
-#: insertanchor.accesskey
-msgid "A"
+#: saveAsCmd.accesskey
+msgid "Save &As…"
 msgstr ""
 
 #: publishCmd.label
-msgid "Publish"
+#: publishCmd.accesskey
+msgid "Pu&blish"
 msgstr ""
 
-#: publishcmd.accesskey
-#: insertbreak.accesskey
-#: stylebold.accesskey
-#: stylebold.keybinding
-#: paragraphblockquote.accesskey
-#: listbullet.accesskey
-#: tablemenu.accesskey
-#: tablerowbelow.accesskey
-#: toolbrowser.accesskey
-msgid "b"
+#: publishCmd.key
+msgctxt "publishCmd.key"
+msgid "S"
 msgstr ""
 
 #: publishAsCmd.label
-msgid "Publish As…"
-msgstr ""
-
-#: publishas.accesskey
-#: pasteHTML.accesskey
-#: editcheckspelling.accesskey
-msgid "h"
+#: publishAsCmd.accesskey
+msgid "Publis&h As…"
 msgstr ""
 
 #: exportToTextCmd.label
-msgid "Export to Text…"
-msgstr ""
-
-#: fileexporttotext.accesskey
-#: inserttextarea.accesskey
-#: bodytext.accesskey
-msgid "T"
+#: exportToTextCmd.accesskey
+msgid "Export to &Text…"
 msgstr ""
 
 #: saveAsChangeEncodingCmd.label
-msgid "Save And Change Character Encoding"
-msgstr ""
-
-#: filesaveandchangeencoding.accesskey
-msgid "E"
+#: saveAsChangeEncodingCmd.accesskey
+msgid "Save And Change Character &Encoding"
 msgstr ""
 
 #: previewCmd.label
-msgid "Browse Page"
-msgstr ""
-
-#: filepreview.accesskey
-#: fileclose.keybinding
-msgid "w"
+#: previewCmd.accesskey
+msgid "Bro&wse Page"
 msgstr ""
 
 #: sendPageCmd.label
-msgid "Send Page…"
-msgstr ""
-
-#: sendPage.accesskey
-#: delete.accesskey
-#: size-medium.accesskey
-#: listdefinition.accesskey
-msgid "d"
+#: sendPageCmd.accesskey
+msgid "Sen&d Page…"
 msgstr ""
 
 #: printSetupCmd.label
-msgid "Page Setup…"
-msgstr ""
-
-#: fileprintsetup.accesskey
-#: undo.accesskey
-#: styleunderline.accesskey
-#: styleunderline.keybinding
-#: colorsandbackground.accesskey
-msgid "u"
-msgstr ""
-
-#: printPreviewCmd.label
-msgid "Print Preview"
+#: printSetupCmd.accesskey
+msgid "Page Set&up…"
 msgstr ""
 
 #: printCmd.label
-#: printButtonCmd.label
-msgid "Print…"
+#: printCmd.accesskey
+msgid "&Print…"
 msgstr ""
 
-#: fileprint.accesskey
-#: fileprint.keybinding
-#: viewparagraphmarks.accesskey
-#: paste.accesskey
-#: stylesuperscript.accesskey
-#: toolplaineditor.accesskey
-msgid "p"
+#: printCmd.key
+msgid "P"
 msgstr ""
 
 #: closeCmd.label
-msgid "Close"
+#: closeCmd.accesskey
+msgid "&Close"
 msgstr ""
 
-#: fileclose.accesskey
-#: pasteColumns.accesskey
-#: copy.accesskey
-#: fontcourier.accesskey
-#: formatfontcolor.accesskey
-#: aligncenter.accesskey
-#: tablecell.accesskey
-#: tablesplitcell.accesskey
-msgid "c"
+#: closeCmd.key
+msgid "W"
 msgstr ""
 
-#: exitCmd.label
-msgid "Quit"
-msgstr ""
-
-#: fileexit.accesskey
-#: fileexit.keybinding
-#: editpastequotation.accesskey
-msgid "q"
-msgstr ""
-
-# Edit menu items
+#. Edit menu items
 #: editMenu.label
-msgid "Edit"
-msgstr ""
-
-#: editmenu.accesskey
-#: insertinputtag.accesskey
-#: size-xx-large.accesskey
-msgid "e"
+#: editMenu.accesskey
+msgid "&Edit"
 msgstr ""
 
 #: pasteNoFormatting.label
 #: pasteNoFormatting.accesskey
 msgid "Paste With&out Formatting"
+msgstr ""
+
+#: pasteNoFormatting.key
+msgid "V"
 msgstr ""
 
 #: pasteAs.label
@@ -315,108 +198,52 @@ msgstr ""
 msgid "Pu&blishing Site Settings…"
 msgstr ""
 
-# For a "Paste" submenu when more than 1
-# clipboard formats are available
-#: pasteHTMLCmd.label
-msgid "HTML"
-msgstr ""
-
-#: pasteTextCmd.label
-#: NormalAbbr.label
-msgid "Text"
-msgstr ""
-
-#: pasteText.accesskey
-#: inserttable.accesskey
-#: cut.accesskey
-#: formatfontfixed.keybinding
-#: fonttimes.accesskey
-#: listterm.accesskey
-#: tabletable.accesskey
-msgid "t"
-msgstr ""
-
-#: pasteImageCmd.label
-#: imageToolbarCmd.label
-msgid "Image"
-msgstr ""
-
-#: pasteImage.accesskey
-#: insertmenu.accesskey
-#: insertimage.accesskey
-#: editlink.accesskey
-#: styleitalic.keybinding
-#: increaseindent.accesskey
-#: tableinsertmenu.accesskey
-msgid "i"
-msgstr ""
-
-#: pasteRowsCmd.label
-msgid "Rows"
-msgstr ""
-
-#: pasteColumnsCmd.label
-msgid "Columns"
-msgstr ""
-
-# LOCALIZATION NOTE: Text for menu item is in editor.properties
-# Set to: "Table" or "Nested Table" depending on context
-# This accesskey must be in both strings
-#: pasteTable.accesskey
-#: selectall.accesskey
-#: size-xx-small.accesskey
-#: formatremovenamedanchors.keybinding
-#: paragraphaddress.accesskey
-#: formatalignmenu.accesskey
-#: tablecolumnafter.accesskey
-#: tableallcells.accesskey
-msgid "a"
-msgstr ""
-
-#: pasteLinkCmd.label
-#: linkToolbarCmd.label
-msgid "Link"
-msgstr ""
-
 #: pasteAsQuotationCmd.label
-msgid "Paste As Quotation"
-msgstr ""
-
-#: editStripQuotesCmd.label
-msgid "Strip Quotes"
-msgstr ""
-
-#: editRewrapCmd.label
-msgid "Rewrap"
+#: pasteAsQuotationCmd.accesskey
+msgid "Paste As &Quotation"
 msgstr ""
 
 #: findCmd.label
-msgid "Find and Replace…"
+#: findCmd.accesskey
+msgid "&Find and Replace…"
 msgstr ""
 
-#: editfind.keybinding2
+#: findCmd.key
+msgid "F"
+msgstr ""
+
+#: findCmd.key2
 msgid "VK_F19"
 msgstr ""
 
 #: findAgainCmd.label
-msgid "Find Again"
+#: findAgainCmd.accesskey
+msgid "Find A&gain"
 msgstr ""
 
-#: editfindnext.accesskey
-#: editfindnext.keybinding
-#: editfindprev.keybinding
-#: increasefontsize.accesskey
-#: pageproperties.accesskey
-msgid "g"
+#: findAgainCmd.key
+msgctxt "findAgainCmd.key"
+msgid "G"
 msgstr ""
 
-#: editfindnext.keybinding2
-#: editfindprev.keybinding2
+#: findAgainCmd.key2
+msgctxt "findAgainCmd.key2"
 msgid "VK_F3"
 msgstr ""
 
 #: findPrevCmd.label
-msgid "Find Previous"
+#: findPrevCmd.accesskey
+msgid "Find Pre&vious"
+msgstr ""
+
+#: findPrevCmd.key
+msgctxt "findPrevCmd.key"
+msgid "G"
+msgstr ""
+
+#: findPrevCmd.key2
+msgctxt "findPrevCmd.key2"
+msgid "VK_F3"
 msgstr ""
 
 #: enableInlineSpellChecker.label
@@ -425,72 +252,55 @@ msgid "&Spellcheck As You Type"
 msgstr ""
 
 #: checkSpellingCmd.label
-msgid "Check Spelling"
+#: checkSpellingCmd.accesskey
+msgid "C&heck Spelling"
 msgstr ""
 
-#: editcheckspelling.keybinding
-#: insertbreakall.accesskey
-#: createlink.accesskey
-#: stylestrikethru.accesskey
-#: formatremovelinks.keybinding
-msgid "k"
+#: checkSpellingCmd.key
+msgctxt "checkSpellingCmd.key"
+msgid "K"
 msgstr ""
 
 #: validateCmd.label
-msgid "Validate HTML"
+#: validateCmd.accesskey
+msgid "&Validate HTML"
 msgstr ""
 
-#: checkLinksCmd.label
-msgid "Check Links"
-msgstr ""
-
-# View menu items
-#: viewPageSource.label
-msgid "Page Source"
-msgstr ""
-
-#: viewParagraphMarks.label
-msgid "Paragraph Marks"
-msgstr ""
-
-# Insert menu items
-# Insert SubMenu
+#. Insert menu items
 #: insertMenu.label
-#: tableInsertMenu.label
-msgid "Insert"
+#: insertMenu.accesskey
+msgctxt "insertMenu.label insertMenu.accesskey"
+msgid "&Insert"
 msgstr ""
 
 #: insertLinkCmd.label
-msgid "Link…"
+#: insertLinkCmd.accesskey
+msgid "&Link…"
+msgstr ""
+
+#: insertLinkCmd.key
+msgctxt "insertLinkCmd.key"
+msgid "L"
 msgstr ""
 
 #: insertAnchorCmd.label
-msgid "Named Anchor…"
+#: insertAnchorCmd.accesskey
+msgid "Named &Anchor…"
 msgstr ""
 
 #: insertImageCmd.label
-msgid "Image…"
-msgstr ""
-
-#: insertImageMapCmd.label
-msgid "Image Map…"
+#: insertImageCmd.accesskey
+msgid "&Image…"
 msgstr ""
 
 #: insertHLineCmd.label
-msgid "Horizontal Line"
+#: insertHLineCmd.accesskey
+msgid "H&orizontal Line"
 msgstr ""
 
 #: insertTableCmd.label
-msgid "Table…"
-msgstr ""
-
-#: insertFormMenu.label
-msgid "Form"
-msgstr ""
-
-#: insertformmenu.accesskey
-#: insertfieldset.accesskey
-msgid "F"
+#: insertTableCmd.accesskey
+msgid "&Table…"
 msgstr ""
 
 #: insertHTMLCmd.label
@@ -499,92 +309,16 @@ msgid "&HTML…"
 msgstr ""
 
 #: insertCharsCmd.label
-msgid "Characters and Symbols…"
-msgstr ""
-
-#: insertchars.accesskey
-msgid "C"
-msgstr ""
-
-#: insertBreakCmd.label
-msgid "Line Break"
+#: insertCharsCmd.accesskey
+msgid "&Characters and Symbols…"
 msgstr ""
 
 #: insertBreakAllCmd.label
-msgid "Break Below Image(s)"
+#: insertBreakAllCmd.accesskey
+msgid "Brea&k Below Image(s)"
 msgstr ""
 
-# Insert form menu items
-#: insertFormCmd.label
-msgid "Define Form…"
-msgstr ""
-
-#: insertform.accesskey
-#: decreaseindent.accesskey
-#: tabledeletemenu.accesskey
-msgid "D"
-msgstr ""
-
-#: insertInputTagCmd.label
-msgid "Form Field…"
-msgstr ""
-
-#: insertInputImageCmd.label
-msgid "Form Image…"
-msgstr ""
-
-#: insertinputimage.accesskey
-#: styleitalic.accesskey
-#: formatToolbar.italicChar
-msgid "I"
-msgstr ""
-
-#: insertTextAreaCmd.label
-msgid "Text Area…"
-msgstr ""
-
-#: insertSelectCmd.label
-msgid "Selection List…"
-msgstr ""
-
-#: insertselect.accesskey
-#: stylesubscript.accesskey
-msgid "S"
-msgstr ""
-
-#: insertButtonCmd.label
-msgid "Define Button…"
-msgstr ""
-
-# Formatting toolbar not used, but may be in future
-#: insertbutton.accesskey
-#: formatToolbar.boldChar
-msgid "B"
-msgstr ""
-
-#: insertLabelCmd.label
-msgid "Define Label"
-msgstr ""
-
-#: insertlabel.accesskey
-msgid "L"
-msgstr ""
-
-#: insertFieldSetCmd.label
-msgid "Define Field Set…"
-msgstr ""
-
-#: insertIsIndexCmd.label
-msgid "Index Search"
-msgstr ""
-
-#: insertisindex.accesskey
-#: fontfixedwidth.accesskey
-#: size-x-large.accesskey
-msgid "x"
-msgstr ""
-
-# Used just in context popup.
+#. Used just in context popup.
 #: spellCheckNoSuggestions.label
 msgid "(No Suggestions Found)"
 msgstr ""
@@ -600,189 +334,215 @@ msgid "Add to Dictio&nary"
 msgstr ""
 
 #: createLinkCmd.label
-msgid "Create Link…"
+#: createLinkCmd.accesskey
+msgid "Create Lin&k…"
 msgstr ""
 
 #: editLinkCmd.label
-msgid "Edit Link in New Composer"
+#: editLinkCmd.accesskey
+msgid "Ed&it Link in New Composer"
 msgstr ""
 
-# (Toplevel Edit menu uses utilityOverlay)
+#. (Toplevel Edit menu uses utilityOverlay)
 #: undoCmd.label
-msgid "Undo"
+#: undoCmd.accesskey
+msgid "&Undo"
 msgstr ""
 
 #: redoCmd.label
-msgid "Redo"
+#: redoCmd.accesskey
+msgid "&Redo"
 msgstr ""
 
 #: cutCmd.label
-msgid "Cut"
+#: cutCmd.accesskey
+msgid "Cu&t"
 msgstr ""
 
 #: copyCmd.label
-msgid "Copy"
+#: copyCmd.accesskey
+msgid "&Copy"
 msgstr ""
 
 #: pasteCmd.label
-msgid "Paste"
+#: pasteCmd.accesskey
+msgid "&Paste"
 msgstr ""
 
-# Delete SubMenu
 #: deleteCmd.label
-#: tableDeleteMenu.label
-msgid "Delete"
+#: deleteCmd.accesskey
+msgctxt "deleteCmd.label deleteCmd.accesskey"
+msgid "&Delete"
 msgstr ""
 
 #: clearCmd.label
-msgid "Clear"
+#: clearCmd.accesskey
+msgid "C&lear"
 msgstr ""
 
 #: selectAllCmd.label
-msgid "Select All"
+#: selectAllCmd.accesskey
+msgid "Select &All"
 msgstr ""
 
-# Font Face SubMenu
+#. Font Face SubMenu
 #: FontFaceSelect.tooltip
 msgid "Choose a font"
 msgstr ""
 
 #: fontfaceMenu.label
-msgid "Font"
+#: fontfaceMenu.accesskey
+msgid "&Font"
 msgstr ""
 
 #: fontVarWidth.label
-msgid "Variable Width"
+#: fontVarWidth.accesskey
+msgid "&Variable Width"
 msgstr ""
 
 #: fontFixedWidth.label
-msgid "Fixed Width"
+#: fontFixedWidth.accesskey
+msgid "Fi&xed Width"
 msgstr ""
 
-#: fontHelveticaFont.label
-msgid "Helvetica, Arial"
+#: fontFixedWidth.key
+msgid "T"
+msgstr ""
+
+#: fontHelvetica.label
+#: fontHelvetica.accesskey
+msgid "He&lvetica, Arial"
 msgstr ""
 
 #: fontTimes.label
-msgid "Times"
+#: fontTimes.accesskey
+msgid "&Times"
 msgstr ""
 
 #: fontCourier.label
-msgid "Courier"
+#: fontCourier.accesskey
+msgid "&Courier"
 msgstr ""
 
-#: localfontfaceMenu.label
-msgid "Local Fonts"
-msgstr ""
-
-# Font Size SubMenu
+#. Font Size SubMenu
 #: FontSizeSelect.tooltip
 msgid "Choose a font size"
 msgstr ""
 
 #: decreaseFontSize.label
-msgid "Smaller"
+#: decreaseFontSize.accesskey
+msgid "Smalle&r"
 msgstr ""
 
-#: decreaseFontSize.keybinding
-#: decreaseindentkb
+#: decreaseFontSize.key
 msgid "-"
 msgstr ""
 
 #: increaseFontSize.label
-msgid "Larger"
+#: increaseFontSize.accesskey
+msgid "Lar&ger"
 msgstr ""
 
-#: increaseFontSize.keybinding
+#: increaseFontSize.key
 msgid "+"
 msgstr ""
 
-# + is above this key on many keyboards
-#: increaseFontSize.keybinding2
-#: increaseindentkb
+#. + is above this key on many keyboards
+#: increaseFontSize.key2
 msgid "="
 msgstr ""
 
-#: fontsizeMenu.label
-msgid "Size"
-msgstr ""
-
-#: formatsizemenu.accesskey
-msgid "z"
+#: fontSizeMenu.label
+#: fontSizeMenu.accesskey
+msgid "Si&ze"
 msgstr ""
 
 #: size-xx-smallCmd.label
-msgid "xx-small"
+#: size-xx-smallCmd.accesskey
+msgid "xx-sm&all"
 msgstr ""
 
 #: size-x-smallCmd.label
-msgid "x-small"
-msgstr ""
-
-#: size-x-small.accesskey
-#: listnumbered.accesskey
-msgid "m"
+#: size-x-smallCmd.accesskey
+msgid "x-s&mall"
 msgstr ""
 
 #: size-smallCmd.label
-msgid "small"
+#: size-smallCmd.accesskey
+msgid "&small"
 msgstr ""
 
 #: size-mediumCmd.label
-msgid "medium"
+#: size-mediumCmd.accesskey
+msgid "me&dium"
 msgstr ""
 
 #: size-largeCmd.label
-msgid "large"
+#: size-largeCmd.accesskey
+msgid "&large"
 msgstr ""
 
 #: size-x-largeCmd.label
-msgid "x-large"
+#: size-x-largeCmd.accesskey
+msgid "&x-large"
 msgstr ""
 
 #: size-xx-largeCmd.label
-msgid "xx-large"
+#: size-xx-largeCmd.accesskey
+msgid "xx-larg&e"
 msgstr ""
 
-# Font Style SubMenu
+#. Font Style SubMenu
 #: fontStyleMenu.label
-msgid "Text Style"
+#: fontStyleMenu.accesskey
+msgid "Text &Style"
 msgstr ""
 
 #: styleBoldCmd.label
-#: boldToolbarCmd.tooltip
-msgid "Bold"
+#: styleBoldCmd.accesskey
+msgid "&Bold"
+msgstr ""
+
+#: styleBoldCmd.key
+msgid "B"
 msgstr ""
 
 #: styleItalicCmd.label
-#: italicToolbarCmd.tooltip
-msgid "Italic"
+#: styleItalicCmd.accesskey
+msgid "&Italic"
+msgstr ""
+
+#: styleItalicCmd.key
+msgid "I"
 msgstr ""
 
 #: styleUnderlineCmd.label
-#: underlineToolbarCmd.tooltip
-msgid "Underline"
+#: styleUnderlineCmd.accesskey
+msgid "&Underline"
+msgstr ""
+
+#: styleUnderlineCmd.key
+msgid "U"
 msgstr ""
 
 #: styleStrikeThruCmd.label
-msgid "Strikethrough"
+#: styleStrikeThruCmd.accesskey
+msgid "Stri&kethrough"
 msgstr ""
 
 #: styleSuperscriptCmd.label
-msgid "Superscript"
+#: styleSuperscriptCmd.accesskey
+msgid "Su&perscript"
 msgstr ""
 
 #: styleSubscriptCmd.label
-msgid "Subscript"
+#: styleSubscriptCmd.accesskey
+msgid "&Subscript"
 msgstr ""
 
 #: styleNonbreakingCmd.label
-msgid "Nonbreaking"
-msgstr ""
-
-#: stylenonbreaking.accesskey
-#: none.accesskey
-msgid "N"
+#: styleNonbreakingCmd.accesskey
+msgid "&Nonbreaking"
 msgstr ""
 
 #: styleEm.label
@@ -826,7 +586,8 @@ msgid "&Variable"
 msgstr ""
 
 #: formatFontColor.label
-msgid "Text Color…"
+#: formatFontColor.accesskey
+msgid "Text &Color…"
 msgstr ""
 
 #: tableOrCellColor.label
@@ -834,9 +595,13 @@ msgstr ""
 msgid "Table or Cell &Background Color…"
 msgstr ""
 
-#: formatremovestyles.keybinding
-#: formatstylesheetmenu.accesskey
-msgid "y"
+#: formatRemoveStyles.key
+msgid "Y"
+msgstr ""
+
+#: formatRemoveLinks.key
+msgctxt "formatRemoveLinks.key"
+msgid "K"
 msgstr ""
 
 #: formatRemoveNamedAnchors.label
@@ -844,170 +609,123 @@ msgstr ""
 msgid "&Remove Named Anchors"
 msgstr ""
 
-#: formatindent.keybinding
-msgid "]"
-msgstr ""
-
-#: formatoutdent.keybinding
-msgid "["
+#: formatRemoveNamedAnchors.key
+msgid "A"
 msgstr ""
 
 #: paragraphMenu.label
+#: paragraphMenu.accesskey
+msgctxt "paragraphMenu.label paragraphMenu.accesskey"
+msgid "&Paragraph"
+msgstr ""
+
 #: paragraphParagraphCmd.label
-msgid "Paragraph"
+#: paragraphParagraphCmd.accesskey
+msgctxt "paragraphParagraphCmd.label paragraphParagraphCmd.accesskey"
+msgid "&Paragraph"
 msgstr ""
 
 #: heading1Cmd.label
-msgid "Heading 1"
-msgstr ""
-
-#: heading1.accesskey
-msgid "1"
+#: heading1Cmd.accesskey
+msgid "Heading &1"
 msgstr ""
 
 #: heading2Cmd.label
-msgid "Heading 2"
-msgstr ""
-
-#: heading2.accesskey
-msgid "2"
+#: heading2Cmd.accesskey
+msgid "Heading &2"
 msgstr ""
 
 #: heading3Cmd.label
-msgid "Heading 3"
-msgstr ""
-
-#: heading3.accesskey
-msgid "3"
+#: heading3Cmd.accesskey
+msgid "Heading &3"
 msgstr ""
 
 #: heading4Cmd.label
-msgid "Heading 4"
-msgstr ""
-
-#: heading4.accesskey
-msgid "4"
+#: heading4Cmd.accesskey
+msgid "Heading &4"
 msgstr ""
 
 #: heading5Cmd.label
-msgid "Heading 5"
-msgstr ""
-
-#: heading5.accesskey
-msgid "5"
+#: heading5Cmd.accesskey
+msgid "Heading &5"
 msgstr ""
 
 #: heading6Cmd.label
-msgid "Heading 6"
-msgstr ""
-
-#: heading6.accesskey
-msgid "6"
+#: heading6Cmd.accesskey
+msgid "Heading &6"
 msgstr ""
 
 #: paragraphAddressCmd.label
-msgid "Address"
+#: paragraphAddressCmd.accesskey
+msgid "&Address"
 msgstr ""
 
 #: paragraphPreformatCmd.label
-msgid "Preformat"
+#: paragraphPreformatCmd.accesskey
+msgid "Pre&format"
 msgstr ""
 
-#: paragraphBlockquoteCmd.label
-msgid "Blockquote"
-msgstr ""
-
-# List menu items
+#. List menu items
 #: formatlistMenu.label
-msgid "List"
+#: formatlistMenu.accesskey
+msgid "&List"
 msgstr ""
 
 #: noneCmd.label
-msgid "None"
+#: noneCmd.accesskey
+msgid "&None"
 msgstr ""
 
 #: listBulletCmd.label
-msgid "Bulleted"
+#: listBulletCmd.accesskey
+msgid "&Bulleted"
 msgstr ""
 
 #: listNumberedCmd.label
-msgid "Numbered"
+#: listNumberedCmd.accesskey
+msgid "Nu&mbered"
 msgstr ""
 
 #: listTermCmd.label
-msgid "Term"
+#: listTermCmd.accesskey
+msgid "&Term"
 msgstr ""
 
 #: listDefinitionCmd.label
-msgid "Definition"
+#: listDefinitionCmd.accesskey
+msgid "&Definition"
 msgstr ""
 
-#: listProps.label
-msgid "List Properties…"
+#: listPropsCmd.label
+#: listPropsCmd.accesskey
+msgid "&List Properties…"
 msgstr ""
 
 #: ParagraphSelect.tooltip
 msgid "Choose a paragraph format"
 msgstr ""
 
-# Shared in Paragraph, and Toolbar menulist
+#. Shared in Paragraph, and Toolbar menulist
 #: bodyTextCmd.label
-msgid "Body Text"
+#: bodyTextCmd.accesskey
+msgid "Body &Text"
 msgstr ""
 
-# isn't used in menu now, but may be added in future
+#. isn't used in menu now, but may be added in future
 #: advancedPropertiesCmd.label
-msgid "Advanced Properties"
+#: advancedPropertiesCmd.accesskey
+msgid "Ad&vanced Properties"
 msgstr ""
 
-#: Heading1Abbr.label
-msgid "H1"
-msgstr ""
-
-#: Heading2Abbr.label
-msgid "H2"
-msgstr ""
-
-#: Heading3Abbr.label
-msgid "H3"
-msgstr ""
-
-#: Heading4Abbr.label
-msgid "H4"
-msgstr ""
-
-#: Heading5Abbr.label
-msgid "H5"
-msgstr ""
-
-#: Heading6Abbr.label
-msgid "H6"
-msgstr ""
-
-#: BlockquoteAbbr.label
-msgid "BQ"
-msgstr ""
-
-#: AddressAbbr.label
-msgid "Addr."
-msgstr ""
-
-#: PreformatAbbr.label
-msgid "Pre."
-msgstr ""
-
-# Style Sheet submenu NOT IMPLEMENTED
-#: stylesheetMenu.label
-msgid "Apply Style Sheet"
-msgstr ""
-
-# Align menu items
+#. Align menu items
 #: alignMenu.label
-msgid "Align"
+#: alignMenu.accesskey
+msgid "&Align"
 msgstr ""
 
 #: alignLeft.label
-msgid "Left"
+#: alignLeft.accesskey
+msgid "&Left"
 msgstr ""
 
 #: alignLeft.tooltip
@@ -1015,7 +733,8 @@ msgid "Align Left"
 msgstr ""
 
 #: alignCenter.label
-msgid "Center"
+#: alignCenter.accesskey
+msgid "&Center"
 msgstr ""
 
 #: alignCenter.tooltip
@@ -1023,7 +742,8 @@ msgid "Align Center"
 msgstr ""
 
 #: alignRight.label
-msgid "Right"
+#: alignRight.accesskey
+msgid "&Right"
 msgstr ""
 
 #: alignRight.tooltip
@@ -1031,25 +751,15 @@ msgid "Align Right"
 msgstr ""
 
 #: alignJustify.label
-msgid "Justify"
-msgstr ""
-
-# text for "Join Cells" is in editor.properties
-# ("JoinSelectedCells" and "JoinCellToRight")
-# the access key must exist in both of those strings
-# But value must be set here for accesskey to draw properly
-#
-#: alignjustify.accesskey
-#: tableJoinCells.label
-#: tablejoincells.accesskey
-msgid "j"
+#: alignJustify.accesskey
+msgid "&Justify"
 msgstr ""
 
 #: alignJustify.tooltip
 msgid "Align Justified"
 msgstr ""
 
-# Layer toolbar items
+#. Layer toolbar items
 #: layer.tooltip
 msgid "Layer"
 msgstr ""
@@ -1063,11 +773,21 @@ msgid "Bring to Front"
 msgstr ""
 
 #: increaseIndent.label
-msgid "Increase Indent"
+#: increaseIndent.accesskey
+msgid "&Increase Indent"
+msgstr ""
+
+#: increaseIndent.key
+msgid "]"
 msgstr ""
 
 #: decreaseIndent.label
-msgid "Decrease Indent"
+#: decreaseIndent.accesskey
+msgid "&Decrease Indent"
+msgstr ""
+
+#: decreaseIndent.key
+msgid "["
 msgstr ""
 
 #: grid.label
@@ -1076,39 +796,58 @@ msgid "Posi&tioning grid"
 msgstr ""
 
 #: pageProperties.label
-msgid "Page Title and Properties…"
+#: pageProperties.accesskey
+msgid "Pa&ge Title and Properties…"
 msgstr ""
 
 #: colorsAndBackground.label
-msgid "Page Colors and Background…"
+#: colorsAndBackground.accesskey
+msgid "Page Colors and Backgro&und…"
 msgstr ""
 
-# Table Menu
+#. Table Menu
 #: tableMenu.label
-#: tableTable.label
-#: tableToolbarCmd.label
-msgid "Table"
+#: tableMenu.accesskey
+msgid "Ta&ble"
 msgstr ""
 
-# Select Submenu
+#. Select Submenu
 #: tableSelectMenu.label
-msgid "Select"
+#: tableSelectMenu.accesskey
+msgctxt "tableSelectMenu.label tableSelectMenu.accesskey"
+msgid "&Select"
 msgstr ""
 
 #: tableSelectMenu2.label
-msgid "Table Select"
+#: tableSelectMenu2.accesskey
+msgid "Table &Select"
 msgstr ""
 
 #: tableInsertMenu2.label
-msgid "Table Insert"
+#: tableInsertMenu2.accesskey
+msgid "Table &Insert"
 msgstr ""
 
 #: tableDeleteMenu2.label
-msgid "Table Delete"
+#: tableDeleteMenu2.accesskey
+msgid "Table &Delete"
+msgstr ""
+
+#. Insert SubMenu
+#: tableInsertMenu.label
+#: tableInsertMenu.accesskey
+msgctxt "tableInsertMenu.label tableInsertMenu.accesskey"
+msgid "&Insert"
+msgstr ""
+
+#: tableTable.label
+#: tableTable.accesskey
+msgid "&Table"
 msgstr ""
 
 #: tableRow.label
-msgid "Row"
+#: tableRow.accesskey
+msgid "&Row"
 msgstr ""
 
 #: tableRows.label
@@ -1116,16 +855,18 @@ msgid "Row(s)"
 msgstr ""
 
 #: tableRowAbove.label
-msgid "Row Above"
+#: tableRowAbove.accesskey
+msgid "&Row Above"
 msgstr ""
 
-# uses tablerow.accesskey
 #: tableRowBelow.label
-msgid "Row Below"
+#: tableRowBelow.accesskey
+msgid "Row &Below"
 msgstr ""
 
 #: tableColumn.label
-msgid "Column"
+#: tableColumn.accesskey
+msgid "C&olumn"
 msgstr ""
 
 #: tableColumns.label
@@ -1133,16 +874,18 @@ msgid "Column(s)"
 msgstr ""
 
 #: tableColumnBefore.label
-msgid "Column Before"
+#: tableColumnBefore.accesskey
+msgid "C&olumn Before"
 msgstr ""
 
-# uses tablecolumn.accesskey
 #: tableColumnAfter.label
-msgid "Column After"
+#: tableColumnAfter.accesskey
+msgid "Column &After"
 msgstr ""
 
 #: tableCell.label
-msgid "Cell"
+#: tableCell.accesskey
+msgid "&Cell"
 msgstr ""
 
 #: tableCells.label
@@ -1150,36 +893,49 @@ msgid "Cell(s)"
 msgstr ""
 
 #: tableCellContents.label
-msgid "Cell Contents"
-msgstr ""
-
-#: tablecellcontents.accesskey
-msgid "n"
+#: tableCellContents.accesskey
+msgid "Cell Co&ntents"
 msgstr ""
 
 #: tableAllCells.label
-msgid "All Cells"
+#: tableAllCells.accesskey
+msgid "&All Cells"
 msgstr ""
 
 #: tableCellBefore.label
-msgid "Cell Before"
+#: tableCellBefore.accesskey
+msgid "&Cell Before"
 msgstr ""
 
-# uses tablecell.accesskey
 #: tableCellAfter.label
-msgid "Cell After"
+#: tableCellAfter.accesskey
+msgid "Cell A&fter"
 msgstr ""
 
-#: tableFix.label
-msgid "Fix Table Layout"
+#. Delete SubMenu
+#: tableDeleteMenu.label
+#: tableDeleteMenu.accesskey
+msgctxt "tableDeleteMenu.label tableDeleteMenu.accesskey"
+msgid "&Delete"
+msgstr ""
+
+#. text for "Join Cells" is in editor.properties
+#. ("JoinSelectedCells" and "JoinCellToRight")
+#. the access key must exist in both of those strings
+#. But value must be set here for accesskey to draw properly
+#: tableJoinCells.label
+#: tableJoinCells.accesskey
+msgid "&j"
 msgstr ""
 
 #: tableSplitCell.label
-msgid "Split Cell"
+#: tableSplitCell.accesskey
+msgid "Split &Cell"
 msgstr ""
 
 #: convertToTable.label
-msgid "Create Table from Selection"
+#: convertToTable.accesskey
+msgid "C&reate Table from Selection"
 msgstr ""
 
 #: tableProperties.label
@@ -1187,7 +943,7 @@ msgstr ""
 msgid "Table Pr&operties…"
 msgstr ""
 
-# Toolbar-only items
+#. Toolbar-only items
 #: menuBar.tooltip
 msgid "Menu Bar"
 msgstr ""
@@ -1252,6 +1008,10 @@ msgstr ""
 msgid "Check spelling of selection or entire page"
 msgstr ""
 
+#: imageToolbarCmd.label
+msgid "Image"
+msgstr ""
+
 #: imageToolbarCmd.tooltip
 msgid "Insert new image or edit selected image's properties"
 msgstr ""
@@ -1264,8 +1024,16 @@ msgstr ""
 msgid "Insert horizontal line or edit selected line's properties"
 msgstr ""
 
+#: tableToolbarCmd.label
+msgid "Table"
+msgstr ""
+
 #: tableToolbarCmd.tooltip
 msgid "Insert new table or edit selected table's properties"
+msgstr ""
+
+#: linkToolbarCmd.label
+msgid "Link"
 msgstr ""
 
 #: linkToolbarCmd.tooltip
@@ -1278,10 +1046,6 @@ msgstr ""
 
 #: anchorToolbarCmd.tooltip
 msgid "Insert new named anchor or edit selected anchor's properties"
-msgstr ""
-
-#: textColorCaption.label
-msgid "Text Color"
 msgstr ""
 
 #: TextColorButton.tooltip
@@ -1300,13 +1064,25 @@ msgstr ""
 msgid "Choose highlight color for text"
 msgstr ""
 
-# Editor toolbar
+#. Editor toolbar
 #: decreaseFontSizeToolbarCmd.tooltip
 msgid "Smaller font size"
 msgstr ""
 
 #: increaseFontSizeToolbarCmd.tooltip
 msgid "Larger font size"
+msgstr ""
+
+#: boldToolbarCmd.tooltip
+msgid "Bold"
+msgstr ""
+
+#: italicToolbarCmd.tooltip
+msgid "Italic"
+msgstr ""
+
+#: underlineToolbarCmd.tooltip
+msgid "Underline"
 msgstr ""
 
 #: bulletListToolbarCmd.tooltip
@@ -1349,25 +1125,7 @@ msgstr ""
 msgid "Align text along left and right margins"
 msgstr ""
 
-#: formatToolbar.underlineChar
-msgid "U"
-msgstr ""
-
-# Used with color pickers in Format toolbar and Format Menu
-#: colorPicker.default.label
-#: colorPicker.default.accesskey
-msgid "&Reader's default color"
-msgstr ""
-
-#: colorLabel.label
-msgid "Color:"
-msgstr ""
-
-#: ok.label
-msgid "OK"
-msgstr ""
-
-# Display Mode toolbar and View menu items
+#. Display Mode toolbar and View menu items
 #: NormalModeTab.label
 msgid "Normal"
 msgstr ""
@@ -1395,7 +1153,7 @@ msgstr ""
 msgid "&HTML Source"
 msgstr ""
 
-# Toolbar has an image with "HTML" text, so don't include it in the string
+#. Toolbar has an image with "HTML" text, so don't include it in the string
 #: SourceMode.label
 msgid "Source"
 msgstr ""
@@ -1413,19 +1171,19 @@ msgstr ""
 msgid "Display as WYSIWYG (as in the browser)"
 msgstr ""
 
-# LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-# Use latin "ltr" if you want the <html> image to left of the
-# 'SourceMode.label' text defined above,
-# or use latin "rtl" if you want this image to the right of text
-# This is the value of the HTML 'dir' attribute
-# 
+#. LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+#. Use latin "ltr" if you want the <html> image to left of the
+#. 'SourceMode.label' text defined above,
+#. or use latin "rtl" if you want this image to the right of text
+#. This is the value of the HTML 'dir' attribute
 #: SourceTabDirection
 msgid "ltr"
 msgstr ""
 
-# Structure Toolbar Context Menu items
+#. Structure Toolbar Context Menu items
 #: structSelect.label
 #: structSelect.accesskey
+msgctxt "structSelect.label structSelect.accesskey"
 msgid "&Select"
 msgstr ""
 
@@ -1439,9 +1197,10 @@ msgstr ""
 msgid "&Change tag"
 msgstr ""
 
-# TOC manipulation
+#. TOC manipulation
 #: insertTOC.label
 #: insertTOC.accesskey
+msgctxt "insertTOC.label insertTOC.accesskey"
 msgid "&Insert"
 msgstr ""
 

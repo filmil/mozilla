@@ -1,20 +1,48 @@
-# extracted from source/sr-RS/mail/chrome/messenger/addressbook/abCardOverlay.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/addressbook/abCardOverlay.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-29 03:16+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 # Contact Tab
+#. ***** BEGIN LICENSE BLOCK *****
+#. Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. The contents of this file are subject to the Mozilla Public License Version
+#. 1.1 (the "License"); you may not use this file except in compliance with
+#. the License. You may obtain a copy of the License at
+#. http://www.mozilla.org/MPL/
+#. Software distributed under the License is distributed on an "AS IS" basis,
+#. WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. for the specific language governing rights and limitations under the
+#. License.
+#. The Original Code is Mozilla Communicator client code, released
+#. March 31, 1998.
+#. The Initial Developer of the Original Code is
+#. Netscape Communications Corporation.
+#. Portions created by the Initial Developer are Copyright (C) 1998-1999
+#. the Initial Developer. All Rights Reserved.
+#. Contributor(s):
+#. Alternatively, the contents of this file may be used under the terms of
+#. either the GNU General Public License Version 2 or later (the "GPL"), or
+#. the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. in which case the provisions of the GPL or the LGPL are applicable instead
+#. of those above. If you wish to allow use of your version of this file only
+#. under the terms of either the GPL or the LGPL, and not to allow others to
+#. use your version of this file under the terms of the MPL, indicate your
+#. decision by deleting the provisions above and replace them with the notice
+#. and other provisions required by the GPL or the LGPL. If you do not delete
+#. the provisions above, a recipient may use your version of this file under
+#. the terms of any one of the MPL, the GPL or the LGPL.
+#. ***** END LICENSE BLOCK *****
 #: Contact.tab
 msgid "Contact"
 msgstr "Контакт"
@@ -27,23 +55,35 @@ msgstr "К"
 msgid "Name"
 msgstr "Име"
 
-#: NameField1.label NameField1.accesskey
+#: NameField1.label
+#: NameField1.accesskey
 msgid "&First:"
 msgstr "&Име:"
 
-#: NameField2.label NameField2.accesskey
+#: NameField2.label
+#: NameField2.accesskey
 msgid "&Last:"
 msgstr "&Презиме:"
 
-#: PhoneticField1.label PhoneticField2.label
+#: PhoneticField1.label
+#: PhoneticField2.label
+msgctxt "PhoneticField1.label"
 msgid "Phonetic:"
 msgstr "Изговор:"
 
-#: DisplayName.label DisplayName.accesskey
+#: PhoneticField2.label
+#: PhoneticField1.label
+msgctxt "PhoneticField2.label"
+msgid "Phonetic:"
+msgstr "Изговор:"
+
+#: DisplayName.label
+#: DisplayName.accesskey
 msgid "&Display:"
 msgstr "&Приказано:"
 
-#: NickName.label NickName.accesskey
+#: NickName.label
+#: NickName.accesskey
 msgid "&Nickname:"
 msgstr "&Надимак:"
 
@@ -51,16 +91,20 @@ msgstr "&Надимак:"
 msgid "Internet"
 msgstr "Интернет"
 
-#: PrimaryEmail.label PrimaryEmail.accesskey
+#: PrimaryEmail.label
+#: PrimaryEmail.accesskey
 msgid "&Email:"
 msgstr "&Ел. адреса:"
 
-#: SecondEmail.label SecondEmail.accesskey
+#: SecondEmail.label
+#: SecondEmail.accesskey
 msgid "Add&itional Email:"
 msgstr "&Додатна ел. адреса:"
 
-#: PreferMailFormat.label PreferMailFormat.accesskey
-msgid "P&refers to receive messages formatted as:"
+#: PreferMailFormat.label
+#: PreferMailFormat.accesskey
+#, fuzzy
+msgid "Prefers to recei&ve messages formatted as:"
 msgstr "&Жели да прима поруке форматиране као:"
 
 #: PlainText.label
@@ -77,187 +121,190 @@ msgstr "HTML"
 msgid "Unknown"
 msgstr "Непознато"
 
-#: ScreenName.label ScreenName.accesskey
+#: ScreenName.label
+#: ScreenName.accesskey
 msgid "&Screen Name:"
 msgstr "&Екранско име:"
 
-#: allowRemoteContent.label allowRemoteContent.accesskey
-msgid "Allo&w remote images in HTML mail."
+#: allowRemoteContent.label
+#: allowRemoteContent.accesskey
+#, fuzzy
+msgid "Allow &remote images."
 msgstr "Дозволи да&љинске слике у пошти са ХТМЛом."
 
-#: Phones.box
-msgid "Phones"
-msgstr "Телефони"
+#: allowRemoteContent.tooltip
+msgid ""
+"In HTML messages it is possible to \n"
+"embed images from remote sources. Opening such a message will open a \n"
+"connection to this external source. This may allow tracking of the \n"
+"message being read. Checking this box will allow such external embedded \n"
+"images in HTML messages from this contact."
+msgstr ""
 
-#: WorkPhone.label WorkPhone.accesskey
+#: WorkPhone.label
+#: WorkPhone.accesskey
 msgid "Wor&k:"
 msgstr "По&сао:"
 
-#: HomePhone.label HomePhone.accesskey
+#: HomePhone.label
+#: HomePhone.accesskey
 msgid "H&ome:"
 msgstr "&Кућа:"
 
-#: FaxNumber.label FaxNumber.accesskey
+#: FaxNumber.label
+#: FaxNumber.accesskey
 msgid "Fa&x:"
 msgstr "&Факс:"
 
-#: PagerNumber.label PagerNumber.accesskey
-msgid "&Pager:"
+#: PagerNumber.label
+#: PagerNumber.accesskey
+#, fuzzy
+msgid "Pa&ger:"
 msgstr "&Пејџер:"
 
-#: CellularNumber.label CellularNumber.accesskey
+#: CellularNumber.label
+#: CellularNumber.accesskey
 msgid "&Mobile:"
 msgstr "&Мобилни:"
 
-# Address Tab
-#: Address.tab
-msgid "Address"
-msgstr "Адреса"
+#: Home.tab
+msgid "Private"
+msgstr ""
 
-#: Address.accesskey
-msgid "A"
-msgstr "А"
+#: Home.accesskey
+msgid "P"
+msgstr ""
 
-#: Home.box
-msgid "Home"
-msgstr "Кућа"
-
-#: HomeAddress.label HomeAddress.accesskey
-msgid "A&ddress:"
+#: HomeAddress.label
+#: HomeAddress.accesskey
+#, fuzzy
+msgctxt "HomeAddress.label HomeAddress.accesskey"
+msgid "&Address:"
 msgstr "А&дреса:"
 
 #: HomeAddress2.label
-msgid "_: HomeAddress2.label\n"
+msgid ""
+"_: HomeAddress2.label\n"
+""
 msgstr ""
 
 #: HomeAddress2.accesskey
-msgid "_: HomeAddress2.accesskey\n"
+msgctxt "HomeAddress2.accesskey"
+msgid ""
+"_: HomeAddress2.accesskey\n"
+""
 msgstr ""
 
-#: HomeCity.label HomeCity.accesskey
+#: HomeCity.label
+#: HomeCity.accesskey
+msgctxt "HomeCity.label HomeCity.accesskey"
 msgid "Cit&y:"
 msgstr "&Место:"
 
-#: HomeState.label HomeState.accesskey
+#: HomeState.label
+#: HomeState.accesskey
+msgctxt "HomeState.label HomeState.accesskey"
 msgid "&State/Province:"
 msgstr "&Област/покрајина:"
 
-#: HomeZipCode.label HomeZipCode.accesskey
+#: HomeZipCode.label
+#: HomeZipCode.accesskey
+msgctxt "HomeZipCode.label HomeZipCode.accesskey"
 msgid "&ZIP/Postal Code:"
 msgstr "По&штански број:"
 
-#: HomeCountry.label HomeCountry.accesskey
+#: HomeCountry.label
+#: HomeCountry.accesskey
+msgctxt "HomeCountry.label HomeCountry.accesskey"
 msgid "Co&untry:"
 msgstr "Др&жава:"
 
-#: HomeWebPage.label HomeWebPage.accesskey
-msgid "&Web Page:"
+#: HomeWebPage.label
+#: HomeWebPage.accesskey
+#, fuzzy
+msgctxt "HomeWebPage.label HomeWebPage.accesskey"
+msgid "W&eb Page:"
 msgstr "&Мрежна страна:"
 
+#: Birthday.label
+#: Birthday.accesskey
+msgid "&Birthday:"
+msgstr ""
+
+#: Year.emptytext
+msgid "Year"
+msgstr ""
+
+#: Or.value
+msgid "or"
+msgstr ""
+
+#: Age.emptytext
+msgid "Age"
+msgstr ""
+
+#: Work.tab
 #: Work.box
 msgid "Work"
 msgstr "Посао"
 
-#: JobTitle.label JobTitle.accesskey
-msgid "Titl&e:"
+#: Work.accesskey
+msgid "W"
+msgstr ""
+
+#: JobTitle.label
+#: JobTitle.accesskey
+#, fuzzy
+msgid "T&itle:"
 msgstr "&Титула:"
 
-#: Department.label Department.accesskey
+#: Department.label
+#: Department.accesskey
 msgid "Depart&ment:"
 msgstr "Оде&љење:"
 
-#: Company.label Company.accesskey
+#: Company.label
+#: Company.accesskey
 msgid "&Organization:"
 msgstr "&Огранизација:"
 
-#: WorkAddress.label WorkAddress.accesskey
-msgid "Add&ress:"
+#: WorkAddress.label
+#: WorkAddress.accesskey
+#, fuzzy
+msgctxt "WorkAddress.label WorkAddress.accesskey"
+msgid "&Address:"
 msgstr "&Адреса:"
 
 #: WorkAddress2.label
-msgid "_: WorkAddress2.label\n"
+msgctxt "WorkAddress2.label"
+msgid ""
+"_: WorkAddress2.label\n"
+""
 msgstr ""
-
-#: WorkAddress2.accesskey
-msgid "_: WorkAddress2.accesskey\n"
-msgstr ""
-
-#: WorkCity.label WorkCity.accesskey
-msgid "C&ity:"
-msgstr "Мес&то:"
-
-#: WorkState.label WorkState.accesskey
-msgid "State/Pro&vince:"
-msgstr "Област/По&крајина:"
-
-#: WorkZipCode.label WorkZipCode.accesskey
-msgid "ZI&P/Postal Code:"
-msgstr "Поштан&ски број:"
-
-#: WorkCountry.label WorkCountry.accesskey
-msgid "Cou&ntry:"
-msgstr "Држа&ва:"
-
-#: WorkWebPage.label WorkWebPage.accesskey
-msgid "We&b Page:"
-msgstr "Мреж&на страна:"
-
-# Other Tab
-#: Other.tab
-msgid "Other"
-msgstr "Остало"
-
-#: Other.accesskey
-msgid "h"
-msgstr "т"
-
-#: Custom1.label Custom1.accesskey
-msgid "Custom &1:"
-msgstr "Произвољно &1:"
-
-#: Custom2.label Custom2.accesskey
-msgid "Custom &2:"
-msgstr "Произвољно &2:"
-
-#: Custom3.label Custom3.accesskey
-msgid "Custom &3:"
-msgstr "Произвољно &3:"
-
-#: Custom4.label Custom4.accesskey
-msgid "Custom &4:"
-msgstr "Произвољно &4:"
-
-#: Notes.box
-msgid "Notes"
-msgstr "Белешке"
-
-#: Notes.accesskey
-msgid "N"
-msgstr "Б"
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# 
+#
 # The contents of this file are subject to the Mozilla Public License Version
 # 1.1 (the "License"); you may not use this file except in compliance with
 # the License. You may obtain a copy of the License at
 # http://www.mozilla.org/MPL/
-# 
+#
 # Software distributed under the License is distributed on an "AS IS" basis,
 # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
 # for the specific language governing rights and limitations under the
 # License.
-# 
+#
 # The Original Code is Mozilla Communicator client code, released
 # March 31, 1998.
-# 
+#
 # The Initial Developer of the Original Code is
 # Netscape Communications Corporation.
 # Portions created by the Initial Developer are Copyright (C) 1998-1999
 # the Initial Developer. All Rights Reserved.
-# 
+#
 # Contributor(s):
-# 
+#
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
 # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -269,47 +316,82 @@ msgstr "Б"
 # and other provisions required by the GPL or the LGPL. If you do not delete
 # the provisions above, a recipient may use your version of this file under
 # the terms of any one of the MPL, the GPL or the LGPL.
-# 
+#
 # ***** END LICENSE BLOCK *****
 # Labels
-#~ msgid "&Add to: "
-#~ msgstr "&Додај у:"
+#: WorkAddress2.accesskey
+msgctxt "WorkAddress2.accesskey"
+msgid ""
+"_: WorkAddress2.accesskey\n"
+""
+msgstr ""
 
-#~ msgid "Additi&onal Email:"
-#~ msgstr "&Додатна ел. пошта:"
+#: WorkCity.label
+#: WorkCity.accesskey
+#, fuzzy
+msgctxt "WorkCity.label WorkCity.accesskey"
+msgid "Cit&y:"
+msgstr "Мес&то:"
 
-#~ msgid "Allow remote ima&ges in HTML mail."
-#~ msgstr "&Дозволи удаљене слике у HTML порукама."
+#: WorkState.label
+#: WorkState.accesskey
+#, fuzzy
+msgctxt "WorkState.label WorkState.accesskey"
+msgid "&State/Province:"
+msgstr "Област/По&крајина:"
 
-#~ msgid "&Work:"
-#~ msgstr "&Посао:"
+#: WorkZipCode.label
+#: WorkZipCode.accesskey
+#, fuzzy
+msgctxt "WorkZipCode.label WorkZipCode.accesskey"
+msgid "&ZIP/Postal Code:"
+msgstr "Поштан&ски број:"
 
-#~ msgid "&Home:"
-#~ msgstr "&Кућа:"
+#: WorkCountry.label
+#: WorkCountry.accesskey
+#, fuzzy
+msgctxt "WorkCountry.label WorkCountry.accesskey"
+msgid "Co&untry:"
+msgstr "Држа&ва:"
 
-#~ msgid "Address:"
-#~ msgstr "Адреса:"
+#: WorkWebPage.label
+#: WorkWebPage.accesskey
+#, fuzzy
+msgctxt "WorkWebPage.label WorkWebPage.accesskey"
+msgid "W&eb Page:"
+msgstr "Мреж&на страна:"
 
-#~ msgid "City:"
-#~ msgstr "Место:"
+# Other Tab
+#: Other.tab
+msgid "Other"
+msgstr "Остало"
 
-#~ msgid "State/Province:"
-#~ msgstr "Покрајина/област:"
+#: Other.accesskey
+msgid "h"
+msgstr "т"
 
-#~ msgid "ZIP/Postal Code:"
-#~ msgstr "Поштански број:"
+#: Custom1.label
+#: Custom1.accesskey
+msgid "Custom &1:"
+msgstr "Произвољно &1:"
 
-#~ msgid "Country:"
-#~ msgstr "Држава:"
+#: Custom2.label
+#: Custom2.accesskey
+msgid "Custom &2:"
+msgstr "Произвољно &2:"
 
-#~ msgid "Web Page:"
-#~ msgstr "Мрежна страна:"
+#: Custom3.label
+#: Custom3.accesskey
+msgid "Custom &3:"
+msgstr "Произвољно &3:"
 
-#~ msgid "Title:"
-#~ msgstr "Титула:"
+#: Custom4.label
+#: Custom4.accesskey
+msgid "Custom &4:"
+msgstr "Произвољно &4:"
 
-#~ msgid "Department:"
-#~ msgstr "Одељење:"
-
-#~ msgid "Organization:"
-#~ msgstr "Организација:"
+#: Notes.label
+#: Notes.accesskey
+#, fuzzy
+msgid "&Notes:"
+msgstr "Б"

@@ -1,20 +1,6 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-04-02 03:18+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 # extracted from institems.xul
+#. extracted from institems.xul
 #: dialog.title
 msgid "Software Installation"
 msgstr "Инсталација програма"
@@ -24,9 +10,9 @@ msgstr "Инсталација програма"
 msgid "width: 45em"
 msgstr "width: 45em"
 
-#: warningMain.label
-msgid "Only install add-ons from authors whom you trust."
-msgstr "Инсталирајте само додатке од аутора од поверења."
+#: warningPrimary.label
+msgid "Install add-ons only from authors whom you trust."
+msgstr ""
 
 #: warningSecondary.label
 msgid "Malicious software can damage your computer or violate your privacy."
@@ -37,6 +23,3 @@ msgstr ""
 #: from.label
 msgid "from:"
 msgstr "од:"
-
-#~ msgid "You should only install software from sources that you trust."
-#~ msgstr "Зато поставите проширење само из тих извора које ви дозволите."

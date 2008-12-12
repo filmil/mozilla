@@ -1,53 +1,52 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is Mozilla Progress Dialog.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corp.
-# Portions created by the Initial Developer are Copyright (C) 2002
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Bill Law  <law@netscape.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/dom/chrome/nsWebBrowserPersist.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is Mozilla Progress Dialog.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corp.
+#. # Portions created by the Initial Developer are Copyright (C) 2002
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Bill Law  <law@netscape.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/dom/chrome/nsWebBrowserPersist.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2007-06-10 20:29+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: readError
@@ -75,7 +74,8 @@ msgid ""
 "%S could not be opened, because an unknown error occurred.\n"
 "\n"
 "Try saving to disk first and then opening the file."
-msgstr "%S не може бити отворен због непознате грешке.\n"
+msgstr ""
+"%S не може бити отворен због непознате грешке.\n"
 "\n"
 "Покушајте да га прво сачувате на диск, а потом отворите."
 
@@ -83,39 +83,54 @@ msgstr "%S не може бити отворен због непознате г�
 msgid ""
 "There is not enough room on the disk to save %S.\n"
 "\n"
-"Remove unnecessary files from the disk and try again, or try saving in a different location."
-msgstr "Нема довољно простора на диску да би сачували %S.\n"
+"Remove unnecessary files from the disk and try again, or try saving in a "
+"different location."
+msgstr ""
+"Нема довољно простора на диску да би сачували %S.\n"
 "\n"
-"Уклоните непотребне датотеке и покушајте поново, или покушајте да сачувате на другу локацију."
+"Уклоните непотребне датотеке и покушајте поново, или покушајте да сачувате "
+"на другу локацију."
 
 #: readOnly
 msgid ""
 "%S could not be saved, because the disk, folder, or file is write-protected.\n"
 "\n"
 "Write-enable the disk and try again, or try saving in a different location."
-msgstr "%S не може бити сачуван, због забране писања на диск, директоријум или датотеку.\n"
+msgstr ""
+"%S не може бити сачуван, због забране писања на диск, директоријум или "
+"датотеку.\n"
 "\n"
-"Скините забране и покушајте поново или покушајте да сачувате на другу локацију."
+"Скините забране и покушајте поново или покушајте да сачувате на другу "
+"локацију."
 
 #: accessError
 msgid ""
-"%S could not be saved, because you cannot change the contents of that folder.\n"
+"%S could not be saved, because you cannot change the contents of that "
+"folder.\n"
 "\n"
-"Change the folder properties and try again, or try saving in a different location."
-msgstr "%S не може бити сачуван због забране измене садржаја директоријума.\n"
+"Change the folder properties and try again, or try saving in a different "
+"location."
+msgstr ""
+"%S не може бити сачуван због забране измене садржаја директоријума.\n"
 "\n"
-"Скините забране и покушајте поново или покушајте да сачувате на другу локацију."
+"Скините забране и покушајте поново или покушајте да сачувате на другу "
+"локацију."
 
 #: helperAppNotFound
-msgid "%S could not be opened, because the associated helper application does not exist. Change the association in your preferences."
-msgstr "%S не може бити отворен зато што програм који му је придружен не постоји. Промените придруживања у поставкама."
+msgid ""
+"%S could not be opened, because the associated helper application does not "
+"exist. Change the association in your preferences."
+msgstr ""
+"%S не може бити отворен зато што програм који му је придружен не постоји. "
+"Промените придруживања у поставкама."
 
 #: noMemory
 msgid ""
 "There is not sufficient memory to complete the action you requested.\n"
 "\n"
 "Quit some applications and try again."
-msgstr "Нема довољно меморије за завршетак акције коју сте захтевали.\n"
+msgstr ""
+"Нема довољно меморије за завршетак акције коју сте захтевали.\n"
 "\n"
 "Изађите из неких програма и покушајте поново."
 
@@ -125,10 +140,13 @@ msgstr "Преузимам %S"
 
 #: fileAlreadyExistsError
 msgid ""
-"%S could not be saved, because a file already exists with the same name as the '_files' directory.\n"
+"%S could not be saved, because a file already exists with the same name as "
+"the '_files' directory.\n"
 "\n"
 "Try saving to a different location."
-msgstr "%S не може бити сачуван јер већ постоји датотека са истим именом као '_files'.\n"
+msgstr ""
+"%S не може бити сачуван јер већ постоји датотека са истим именом као "
+"'_files'.\n"
 "\n"
 "Покушајте да сачувате на другу локацију."
 
@@ -137,6 +155,7 @@ msgid ""
 "%S could not be saved, because the file name was too long.\n"
 "\n"
 "Try saving with a shorter file name."
-msgstr "%S не може бити сачуван зато што је име превише дугачко.\n"
+msgstr ""
+"%S не може бити сачуван зато што је име превише дугачко.\n"
 "\n"
 "Покушајте да сачувате са краћим именом."

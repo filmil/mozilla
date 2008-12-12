@@ -1,126 +1,156 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/msgHdrViewOverlay.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/msgHdrViewOverlay.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# 
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-# 
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-# 
-# The Original Code is Mozilla Communicator client code, released
-# March 31, 1998.
-# 
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998-1999
-# the Initial Developer. All Rights Reserved.
-# 
-# Contributor(s):
-# 
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-# 
-# ***** END LICENSE BLOCK *****
-#: toField.label
-msgid "To: "
+#. ***** BEGIN LICENSE BLOCK *****
+#. Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. The contents of this file are subject to the Mozilla Public License Version
+#. 1.1 (the "License"); you may not use this file except in compliance with
+#. the License. You may obtain a copy of the License at
+#. http://www.mozilla.org/MPL/
+#. Software distributed under the License is distributed on an "AS IS" basis,
+#. WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. for the specific language governing rights and limitations under the
+#. License.
+#. The Original Code is Mozilla Communicator client code, released
+#. March 31, 1998.
+#. The Initial Developer of the Original Code is
+#. Netscape Communications Corporation.
+#. Portions created by the Initial Developer are Copyright (C) 1998-1999
+#. the Initial Developer. All Rights Reserved.
+#. Contributor(s):
+#. Alternatively, the contents of this file may be used under the terms of
+#. either the GNU General Public License Version 2 or later (the "GPL"), or
+#. the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. in which case the provisions of the GPL or the LGPL are applicable instead
+#. of those above. If you wish to allow use of your version of this file only
+#. under the terms of either the GPL or the LGPL, and not to allow others to
+#. use your version of this file under the terms of the MPL, indicate your
+#. decision by deleting the provisions above and replace them with the notice
+#. and other provisions required by the GPL or the LGPL. If you do not delete
+#. the provisions above, a recipient may use your version of this file under
+#. the terms of any one of the MPL, the GPL or the LGPL.
+#. ***** END LICENSE BLOCK *****
+#: toField2.label
+msgid "to "
 msgstr ""
 
-#: fromField.label
-msgid "From: "
+#: fromField2.label
+msgid "from "
 msgstr ""
 
-#: senderField.label
-msgid "Sender: "
+#: senderField2.label
+msgid "sender "
 msgstr ""
 
-#: organizationField.label
-msgid "Organization: "
+#: organizationField2.label
+msgid "organization "
 msgstr ""
 
-#: replyToField.label
-msgid "Reply-To: "
+#: replyToField2.label
+msgid "reply-to "
 msgstr ""
 
-#: subjectField.label
-msgid "Subject: "
+#: subjectField2.label
+msgid "subject "
 msgstr ""
 
-#: bccField.label
-msgid "Bcc: "
+#: bccField2.label
+msgid "bcc "
 msgstr ""
 
-#: newsgroupsField.label
-msgid "Newsgroups: "
+#: newsgroupsField2.label
+msgid "newsgroups "
 msgstr ""
 
-#: followupToField.label
-msgid "Followup-To: "
+#: followupToField2.label
+msgid "followup-to "
 msgstr ""
 
-#: tagsHdr.label
-msgid "Tags: "
+#: tagsHdr2.label
+msgid "tags "
 msgstr ""
 
-#: dateField.label
-msgid "Date: "
+#: dateField2.label
+msgid "date "
 msgstr ""
 
-#: userAgentField.label
-msgid "User-Agent: "
+#: userAgentField2.label
+msgid "user-agent "
 msgstr ""
 
-#: referencesField.label
-msgid "References: "
+#: referencesField2.label
+msgid "references "
 msgstr ""
 
-#: messageIdField.label
-msgid "Message-ID: "
+#: messageIdField2.label
+msgid "message-id "
 msgstr ""
 
-#: inReplyToField.label
-msgid "In-Reply-To: "
+#: inReplyToField2.label
+msgid "in-reply-to "
 msgstr ""
 
-#: originalWebsite.label
-msgid "Website: "
+#: originalWebsite2.label
+msgid "website "
 msgstr ""
 
-#: saveAll.label
-msgid "Save All.."
+#: editMessageDescription.label
+msgid "This is a draft message"
 msgstr ""
 
-#: editMessage.label
-msgid "Edit Draft…"
+#: editMessageButton.label
+msgid "Edit…"
+msgstr ""
+
+#: replyButton.label
+msgid "reply…"
+msgstr ""
+
+#: forwardButton.label
+msgid "forward…"
+msgstr ""
+
+#: junkButton.label
+msgid "mark as junk"
+msgstr ""
+
+#: trashButton.tooltiptext
+msgid "delete"
+msgstr ""
+
+#: otherActionsButton.label
+msgid "other actions"
+msgstr ""
+
+#: saveAsMenuItem.label
+#: saveAsMenuItem.accesskey
+msgid "&save as…"
+msgstr ""
+
+#: viewSourceMenuItem.label
+#: viewSourceMenuItem.accesskey
+msgid "&view source…"
+msgstr ""
+
+#: hideDetailsButton.label
+msgid "hide details"
+msgstr ""
+
+#: showDetailsButton.label
+msgid "show details"
 msgstr ""
 
 #: openAttachmentCmd.label

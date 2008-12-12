@@ -3,20 +3,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-22 23:44+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-08-30 13:50+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: aboutWindowTitle
 msgctxt "aboutWindowTitle"
 msgid "About %S"
-msgstr "О програму %S"
+msgstr ""
 
 #: aboutWindowCloseButton
 msgid "Close"
@@ -43,7 +43,7 @@ msgstr "Примењена је доградња за усаглашавање."
 #: updateNoUpdateMsg
 msgctxt "updateNoUpdateMsg"
 msgid "No updates were found."
-msgstr "Није пронађена ниједна доградња."
+msgstr ""
 
 #: updateErrorMessage
 msgid "An error occurred while trying to find updates for %S."
@@ -153,12 +153,12 @@ msgstr "Да ли сигурно желите да откажете инстал
 #: cancelInstallButton
 msgctxt "cancelInstallButton"
 msgid "Yes"
-msgstr "Да"
+msgstr ""
 
 #: cancelCancelInstallButton
 msgctxt "cancelCancelInstallButton"
 msgid "No"
-msgstr "Не"
+msgstr ""
 
 #: cancelUpgradeTitle
 msgid "Cancel Upgrade of %S"
@@ -274,28 +274,33 @@ msgstr ""
 "Не могу да поставим \"%S\" зато што није прилагођен Вашој %S верзији читача "
 "(%S). За решење проблема обратите се аутору."
 
-#: blocklistedInstallTitle
-msgid "This extension is not secure"
-msgstr "Ово проширење није безбедно"
-
-#: blocklistedInstallMsg
-msgid "The extension %S is known to be dangerous, and can't be installed."
+#: blocklistedInstallTitle2
+msgid "This add-on is dangerous to use"
 msgstr ""
-"За проширење %S је познато да није безбедно па зато не може бити постављено."
 
-#: blocklistNotifyTitle2
-msgid "Add-ons may be causing problems"
-msgstr "Додаци су можда узрок проблема"
-
-#: blocklistNotifyMsg2
+#: blocklistedInstallMsg2
 msgid ""
-"%S has determined that the following add-ons may be unstable or insecure."
-msgstr "Програм %S је утврдио да су наведени додаци нестабилни или небезбедни."
-
-#: blocklistRestartMsg2
-msgid "You should restart %S so that these add-ons can be disabled."
+"The add-on %S has a high risk of causing stability or security problems and "
+"can't be installed."
 msgstr ""
-"Потребно је да поново покренете програм %S да би ови додаци били искључени."
+
+#: softBlockedInstallTitle
+msgid "This add-on may be dangerous to use"
+msgstr ""
+
+#: softBlockedInstallMsg
+msgid ""
+"The add-on %S may cause stability or security problems. It is highly "
+"recommended that you do not install it."
+msgstr ""
+
+#: softBlockedInstallAcceptLabel
+msgid "Install Anyway"
+msgstr ""
+
+#: softBlockedInstallAcceptKey
+msgid "I"
+msgstr ""
 
 #: missingFileTitle
 msgid "Missing File"
@@ -450,7 +455,9 @@ msgstr "Није пронађена ниједна доградња"
 msgid ""
 "%S is currently in offline mode and is unable to update add-ons. Click Go "
 "Online and try again."
-msgstr "%S тренутно ради ван мреже и не може да догради додатке.  Притисните „Повежи се‟ и пробајте поново."
+msgstr ""
+"%S тренутно ради ван мреже и не може да догради додатке.  Притисните „Повежи "
+"се‟ и пробајте поново."
 
 #: offlineSearchMsg
 msgid ""

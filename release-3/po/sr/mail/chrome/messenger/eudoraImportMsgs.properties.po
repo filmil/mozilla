@@ -1,64 +1,67 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is mozilla.org Code.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/mail/chrome/messenger/eudoraImportMsgs.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is mozilla.org Code.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 1998
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/eudoraImportMsgs.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-26 20:50+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #
-# The following are used by the outlook express import code to display status/error 
+# The following are used by the outlook express import code to display status/error
 # and informational messages
 #
 # Short name of import module
 # # @name EUDORAIMPORT_NAME
 # # @loc None
-# The following are used by the outlook express import code to display status/error
-# # @name EUDORAIMPORT_NAME
-# # @loc None
+#. #
+#. # The following are used by the outlook express import code to display status/error 
+#. # and informational messages
+#. #
+#. # Short name of import module
+#. ## @name EUDORAIMPORT_NAME
+#. ## @loc None
 #: 2000
 msgid "Eudora"
 msgstr "Еудора"
@@ -66,8 +69,9 @@ msgstr "Еудора"
 # Description of import module
 # # @name EUDORAIMPORT_DESCRIPTION
 # # @loc None
-# # @name EUDORAIMPORT_DESCRIPTION
-# # @loc None
+#. # Description of import module
+#. ## @name EUDORAIMPORT_DESCRIPTION
+#. ## @loc None
 #: 2001
 msgid "Eudora mail and address books"
 msgstr "Еудорина пошта и адресари"
@@ -76,14 +80,20 @@ msgstr "Еудорина пошта и адресари"
 # # @name EUDORAIMPORT_MAILBOX_SUCCESS
 # # @loc None
 # LOCALIZATION NOTE (2002): In the following sentence,
-# the %S represents a string to be inserted at runtime (the name of the Mailbox), 
+# the %S represents a string to be inserted at runtime (the name of the Mailbox),
 # and the %d is a number (the number of messages imported). Do not translate %d or %S, but
 # instead insert them in your text at the appropriate places.
 # # @name OEIMPORT_MAILBOX_SUCCESS
-# # @loc None
 # # LOCALIZATION NOTE (2002): In this item, don't translate "%S" or "%d"
 # # The variable %S will contain the name of the Mailbox
 # # The variable %d will contain the number of messages
+#. # Success message
+#. ## @name EUDORAIMPORT_MAILBOX_SUCCESS
+#. ## @loc None
+#. # LOCALIZATION NOTE (2002): In the following sentence,
+#. # the %S represents a string to be inserted at runtime (the name of the Mailbox), 
+#. # and the %d is a number (the number of messages imported). Do not translate %d or %S, but
+#. # instead insert them in your text at the appropriate places.
 #: 2002
 msgid "Mailbox %S, imported %d messages"
 msgstr "Сандуче %S, број увезених порука %d"
@@ -92,7 +102,9 @@ msgstr "Сандуче %S, број увезених порука %d"
 # # @name EUDORAIMPORT_MAILBOX_BADPARAM
 # # @loc None
 # # @name OEIMPORT_MAILBOX_BADPARAM
-# # @loc None
+#. # Error message
+#. ## @name EUDORAIMPORT_MAILBOX_BADPARAM
+#. ## @loc None
 #: 2003
 msgid "Bad parameter passed to import mailbox."
 msgstr "Параметар прослеђен сандучету је неисправан."
@@ -103,9 +115,13 @@ msgstr "Параметар прослеђен сандучету је неисп
 # LOCALIZATION NOTE (2004): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the mailbox.
 # # @name OEIMPORT_MAILBOX_BADSOURCEFILE
-# # @loc None
 # # LOCALIZATION NOTE (2004): In this item, don't translate "%S"
 # # The variable %S will contain the name of the Mailbox
+#. # Error message
+#. ## @name EUDORAIMPORT_MAILBOX_BADSOURCEFILE
+#. ## @loc None
+#. # LOCALIZATION NOTE (2004): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the name of the mailbox.
 #: 2004
 msgid "Error accessing file for mailbox %S."
 msgstr "Десила се грешка у приступу сандучету %S."
@@ -116,9 +132,13 @@ msgstr "Десила се грешка у приступу сандучету %S
 # LOCALIZATION NOTE (2005): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the mailbox.
 # # @name OEIMPORT_MAILBOX_CONVERTERROR
-# # @loc None
 # # LOCALIZATION NOTE (2005): In this item, don't translate "%S"
 # # The variable %S will contain the name of the Mailbox
+#. # Error message
+#. ## @name EUDORAIMPORT_MAILBOX_CONVERTERROR
+#. ## @loc None
+#. # LOCALIZATION NOTE (2005): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the name of the mailbox.
 #: 2005
 msgid ""
 "Error importing mailbox %S, all messages may not be imported from this "
@@ -131,8 +151,10 @@ msgstr ""
 # # @name EUDORAIMPORT_ACCOUNTNAME
 # # @loc None
 # LOCALIZATION NOTE (2006): Do not translate "Eudora" below.
-# # @name EUDORAIMPORT_ACCOUNTNAME
-# # @loc None
+#. # Description
+#. ## @name EUDORAIMPORT_ACCOUNTNAME
+#. ## @loc None
+#. # LOCALIZATION NOTE (2006): Do not translate "Eudora" below.
 #: 2006
 msgid "Eudora Settings"
 msgstr "Подешавања из Еудоре"
@@ -141,8 +163,10 @@ msgstr "Подешавања из Еудоре"
 # # @name EUDORAIMPORT_NICKNAMES_NAME
 # # @loc None
 # LOCALIZATION NOTE (2007): Do not translate "Eudora" below.
-# # @name EUDORAIMPORT_NICKNAMES_NAME
-# # @loc None
+#. # Description
+#. ## @name EUDORAIMPORT_NICKNAMES_NAME
+#. ## @loc None
+#. # LOCALIZATION NOTE (2007): Do not translate "Eudora" below.
 #: 2007
 msgid "Eudora Nicknames"
 msgstr "Надимци из Еудоре"
@@ -153,9 +177,13 @@ msgstr "Надимци из Еудоре"
 # LOCALIZATION NOTE (2008): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the address book.
 # # @name OEIMPORT_ADDRESS_SUCCESS
-# # @loc None
 # # LOCALIZATION NOTE (2006): In this item, don't translate "%S"
 # # The variable %S will receive the name of the address book
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_SUCCESS
+#. ## @loc None
+#. # LOCALIZATION NOTE (2008): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the name of the address book.
 #: 2008
 msgid "Imported address book %S"
 msgstr "Увезен је адресар %S"
@@ -164,7 +192,9 @@ msgstr "Увезен је адресар %S"
 # # @name EUDORAIMPORT_ADDRESS_BADPARAM
 # # @loc None
 # # @name TEXTIMPORT_ADDRESS_BADPARAM
-# # @loc None
+#. # Error message
+#. ## @name EUDORAIMPORT_ADDRESS_BADPARAM
+#. ## @loc None
 #: 2009
 msgid "Bad parameter passed to import address book."
 msgstr "Параметар прослеђен увознику адресара је неисправан."
@@ -175,7 +205,11 @@ msgstr "Параметар прослеђен увознику адресара 
 # LOCALIZATION NOTE (2010): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the address book.
 # # @name TEXTIMPORT_ADDRESS_BADSOURCEFILE
-# # @loc None
+#. # Error message
+#. ## @name EUDORAIMPORT_ADDRESS_BADSOURCEFILE
+#. ## @loc None
+#. # LOCALIZATION NOTE (2010): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the name of the address book.
 #: 2010
 msgid "Error accessing file for address book %S."
 msgstr "Дошло је до грешке при приступању датотеци са адресаром %S."
@@ -186,20 +220,30 @@ msgstr "Дошло је до грешке при приступању датот
 # LOCALIZATION NOTE (2011): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the address book.
 # # @name OEIMPORT_ADDRESS_CONVERTERROR
-# # @loc None
 # # LOCALIZATION NOTE (2009): In this item, don't translate "%S"
 # # The variable %S will receive the name of the address book
+#. # Error message
+#. ## @name EUDORAIMPORT_ADDRESS_CONVERTERROR
+#. ## @loc None
+#. # LOCALIZATION NOTE (2011): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the name of the address book.
 #: 2011
 msgid ""
 "Error importing address book %S, all addresses may not have been imported."
 msgstr ""
-"Десила се грешка при увозу адресара %S, могуће је да нису увезене све адресе."
+"Десила се грешка при увозу адресара %S, могуће је да нису увезене све "
+"адресе."
 
 # Description
 # # @name EUDORAIMPORT_ADDRESS_LABEL_HOMEMOBILE
 # # @loc None
 # LOCALIZATION NOTE (2012): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the mobile phone number.
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_HOMEMOBILE
+#. ## @loc None
+#. # LOCALIZATION NOTE (2012): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the mobile phone number.
 #: 2012
 msgid "Personal Mobile: %S"
 msgstr "Лични моб. тел.: %S"
@@ -209,6 +253,11 @@ msgstr "Лични моб. тел.: %S"
 # # @loc None
 # LOCALIZATION NOTE (2013): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the mobile phone number.
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_WORKMOBILE
+#. ## @loc None
+#. # LOCALIZATION NOTE (2013): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the mobile phone number.
 #: 2013
 msgid "Work Mobile: %S"
 msgstr "Пословни моб. тел.: %S"
@@ -218,6 +267,11 @@ msgstr "Пословни моб. тел.: %S"
 # # @loc None
 # LOCALIZATION NOTE (2014): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the fax phone number.
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_HOMEFAX
+#. ## @loc None
+#. # LOCALIZATION NOTE (2014): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the fax phone number.
 #: 2014
 msgid "Home Fax: %S"
 msgstr "Кућни факс: %S"
@@ -227,6 +281,11 @@ msgstr "Кућни факс: %S"
 # # @loc None
 # LOCALIZATION NOTE (2015): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the fax phone number.
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_WORKFAX
+#. ## @loc None
+#. # LOCALIZATION NOTE (2015): In the following sentence, do not translate the "%S". Instead,
+#. # place it in your sentence where you wish to display the fax phone number.
 #: 2015
 msgid "Work Fax: %S"
 msgstr "Пословни факс: %S"
@@ -234,6 +293,9 @@ msgstr "Пословни факс: %S"
 # Description
 # # @name EUDORAIMPORT_ADDRESS_LABEL_OTHEREMAIL
 # # @loc None
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_OTHEREMAIL
+#. ## @loc None
 #: 2016
 msgid "Other Email:"
 msgstr "Друга ел. адреса:"
@@ -241,6 +303,9 @@ msgstr "Друга ел. адреса:"
 # Description
 # # @name EUDORAIMPORT_ADDRESS_LABEL_OTHERPHONE
 # # @loc None
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_OTHERPHONE
+#. ## @loc None
 #: 2017
 msgid "Other Phone:"
 msgstr "Други телефон:"
@@ -248,6 +313,9 @@ msgstr "Други телефон:"
 # Description
 # # @name EUDORAIMPORT_ADDRESS_LABEL_OTHERWEB
 # # @loc None
+#. # Description
+#. ## @name EUDORAIMPORT_ADDRESS_LABEL_OTHERWEB
+#. ## @loc None
 #: 2018
 msgid "Other Web:"
 msgstr "Друга страна:"
@@ -255,6 +323,12 @@ msgstr "Друга страна:"
 # Description
 # # @name EUDORAIMPORT_FILTERS_WARN_OUTGOING
 # # @loc None
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_OUTGOING
+#. ## @loc None
+#. # LOCALIZATION NOTE (2019): This warning is displayed when one of Eudora's outgoing
+#. # filters is attempted to be imported.  Outgoing filters are ones which are
+#. # processed when a message is being sent, and are not supported.
 #: 2019
 msgid "can't import outgoing filter context"
 msgstr "није могуће увести контекст одлазног филтера"
@@ -264,6 +338,12 @@ msgstr "није могуће увести контекст одлазног ф�
 # # @loc None
 # LOCALIZATION NOTE (2020): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the action.
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_ACTION
+#. ## @loc None
+#. # LOCALIZATION NOTE (2020): This warning is displayed if the action cannot be imported.
+#. # The "action" is what is done to the message if the filter matches, e.g. transfer to
+#. # a mailbox, change the priority.  The %S will be replaced with the name of the action.
 #: 2020
 msgid "can't import action \"%S\""
 msgstr "није могуће увести дејство„%S‟"
@@ -273,40 +353,63 @@ msgstr "није могуће увести дејство„%S‟"
 # # @loc None
 # LOCALIZATION NOTE (2021): In the following sentence, do not translate the "%s". Instead,
 # place it in your sentence where you wish to display the name of the verb.
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_VERB
+#. ## @loc None
+#. # LOCALIZATION NOTE (2021): This warning is displayed if the verb cannot be imported.
+#. # The "verb" is how filters match the header to the text, e.g. "contains", "is",
+#. # "begins with".  The %s will be replaced with the name of the verb.
 #: 2021
 msgid "can't import the \"%s\" verb"
 msgstr "није могуће увести глагол „%s‟"
 
-# Description
-# # @name EUDORAIMPORT_FILTERS_WARN_EMPTY_HEADER
-# # @loc None
-#: 2022
-msgid "empty header"
-msgstr "празно заглавље"
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_EMPTY_HEADER
+#. ## @loc None
+#. # LOCALIZATION NOTE (2027): This warning is displayed when the name of the header to be
+#. # filtered against cannot be found.
+#: 2027
+msgid "header name not found"
+msgstr ""
 
 # Description
 # # @name EUDORAIMPORT_FILTERS_WARN_NEGATE_VERB
 # # @loc None
 # LOCALIZATION NOTE (2023): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the verb.
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_NEGATE_VERB
+#. ## @loc None
+#. # LOCALIZATION NOTE (2023): This warning is displayed when a filter term needs to be
+#. # negated, but the negative comparison is not supported, e.g. the "starts with" verb has
+#. # no corresponding "doesn't start with" verb.  The %S will be replaced with the name of
+#. # the verb.
 #: 2023
 msgid "can't negate the \"%S\" verb"
 msgstr "није могуће негирати глагол „%S‟"
 
-# Description
-# # @name EUDORAIMPORT_FILTERS_WARN_META_HEADER
-# # @loc None
-# LOCALIZATION NOTE (2024): In the following sentence, do not translate the "%S". Instead,
-# place it in your sentence where you wish to display the name of the meta-header.
-#: 2024
-msgid "can't import the %S meta-header"
-msgstr "није могуће увести мета-заглавље „%S‟"
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_META_HEADER
+#. ## @loc None
+#. # LOCALIZATION NOTE (2028): This warning is displayed when one of Eudora's pseudo-headers
+#. # cannot be supported.  Pseudo-headers are things that can match mutiple headers, e.g.
+#. # "Any Header", or non-header info, e.g. "Junk Score".  The %S will be replaced with
+#. # the name of the pseudo-header.
+#: 2028
+msgid "can't import the %S pseudo-header"
+msgstr ""
 
 # Description
 # # @name EUDORAIMPORT_FILTERS_WARN_MAILBOX_MISSING
 # # @loc None
 # LOCALIZATION NOTE (2025): In the following sentence, do not translate the "%S". Instead,
 # place it in your sentence where you wish to display the name of the mailbox.
+#. # Description
+#. ## @name EUDORAIMPORT_FILTERS_WARN_MAILBOX_MISSING
+#. ## @loc None
+#. # LOCALIZATION NOTE (2025): This warning is displayed when a filter has an action to
+#. # transfer the message to a mailbox, but the named mailbox doesn't exist.  The %S will
+#. # be replaced with the name of the mailbox.
 #: 2025
 msgid "can't find the mailbox \"%S\""
 msgstr "није могуће пронаћи сандуче „%S‟"

@@ -1,23 +1,27 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/global/printdialog.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/printdialog.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# extracted from printdialog.xul
+#. extracted from printdialog.xul
 #: printButton.label
+msgctxt "printButton.label"
+msgid "Print"
+msgstr ""
+
 #: printDialog.title
+msgctxt "printDialog.title"
 msgid "Print"
 msgstr ""
 
@@ -26,11 +30,13 @@ msgid "Save File"
 msgstr ""
 
 #: fileCheck.label
-msgid "Print to File"
+#: fileCheck.accesskey
+msgid "Print to &File"
 msgstr ""
 
 #: propertiesButton.label
-msgid "Properties…"
+#: propertiesButton.accesskey
+msgid "Pr&operties…"
 msgstr ""
 
 #: descText.label
@@ -42,7 +48,8 @@ msgid "Printer"
 msgstr ""
 
 #: printerInput.label
-msgid "Printer Name:"
+#: printerInput.accesskey
+msgid "Printer &Name:"
 msgstr ""
 
 #: printrangeGroup.label
@@ -50,23 +57,28 @@ msgid "Print Range"
 msgstr ""
 
 #: allpagesRadio.label
-msgid "All Pages"
+#: allpagesRadio.accesskey
+msgid "&All Pages"
 msgstr ""
 
 #: rangeRadio.label
-msgid "Pages"
+#: rangeRadio.accesskey
+msgid "&Pages"
 msgstr ""
 
 #: frompageInput.label
-msgid "from"
+#: frompageInput.accesskey
+msgid "f&rom"
 msgstr ""
 
 #: topageInput.label
-msgid "to"
+#: topageInput.accesskey
+msgid "&to"
 msgstr ""
 
 #: selectionRadio.label
-msgid "Selection"
+#: selectionRadio.accesskey
+msgid "&Selection"
 msgstr ""
 
 #: copies.label
@@ -74,7 +86,8 @@ msgid "Copies"
 msgstr ""
 
 #: numCopies.label
-msgid "Number of copies:"
+#: numCopies.accesskey
+msgid "Number of &copies:"
 msgstr ""
 
 #: printframeGroup.label
@@ -82,13 +95,16 @@ msgid "Print Frames"
 msgstr ""
 
 #: aslaidoutRadio.label
-msgid "As laid out on the screen"
+#: aslaidoutRadio.accesskey
+msgid "As laid o&ut on the screen"
 msgstr ""
 
 #: selectedframeRadio.label
-msgid "The selected frame"
+#: selectedframeRadio.accesskey
+msgid "The selected fra&me"
 msgstr ""
 
 #: eachframesepRadio.label
-msgid "Each frame separately"
+#: eachframesepRadio.accesskey
+msgid "&Each frame separately"
 msgstr ""

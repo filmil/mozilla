@@ -1,35 +1,32 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/mozapps/extensions/extensions.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/extensions/extensions.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: addons.title
 msgid "Add-ons"
 msgstr ""
 
-# Default window size for the addon manager in pixels
+#. Default window size for the addon manager in pixels
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: em.width
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"520"
+msgid "520"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: em.height
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"380"
+msgid "380"
 msgstr ""
 
 #: cmd.info.commandKey
@@ -44,7 +41,7 @@ msgstr ""
 msgid "w"
 msgstr ""
 
-# View labels
+#. View labels
 #: search.label
 msgid "Get Add-ons"
 msgstr ""
@@ -73,7 +70,7 @@ msgstr ""
 msgid "Installation"
 msgstr ""
 
-# Command Bar items
+#. Command Bar items
 #: cmd.checkUpdatesAll.label
 #: cmd.checkUpdatesAll.accesskey
 msgid "&Find Updates"
@@ -154,7 +151,7 @@ msgstr ""
 msgid "Disable all displayed Add-ons"
 msgstr ""
 
-# Displayed in the selected Add-on's richlistitem and context menu
+#. Displayed in the selected Add-on's richlistitem and context menu
 #: cmd.useTheme.label
 #: cmd.useTheme.accesskey
 msgid "Use &Theme"
@@ -275,17 +272,26 @@ msgstr ""
 msgid "Download and install this add-on"
 msgstr ""
 
-# The selected add-on's cancel action button label
+#. The selected add-on's cancel action button label
 #: cancel.label
 #: cancel.accesskey
-#: cancelInstall.label
-#: cancelInstall.accesskey
-#: cancelUpgrade.label
-#: cancelUpgrade.accesskey
+msgctxt "cancel.label cancel.accesskey"
 msgid "&Cancel"
 msgstr ""
 
-# Only displayed in the selected Add-on's context menu
+#: cancelInstall.label
+#: cancelInstall.accesskey
+msgctxt "cancelInstall.label cancelInstall.accesskey"
+msgid "&Cancel"
+msgstr ""
+
+#: cancelUpgrade.label
+#: cancelUpgrade.accesskey
+msgctxt "cancelUpgrade.label cancelUpgrade.accesskey"
+msgid "&Cancel"
+msgstr ""
+
+#. Only displayed in the selected Add-on's context menu
 #: cmd.homepage.label
 #: cmd.homepage.accesskey
 msgid "Visit &Home Page"
@@ -318,7 +324,7 @@ msgstr ""
 msgid "Include this Add-on when installing the updates"
 msgstr ""
 
-# Status Messsages
+#. Status Messsages
 #: insecureUpdate.label
 msgid "Does not provide secure updates."
 msgstr ""
@@ -329,6 +335,10 @@ msgstr ""
 
 #: blocklisted.label
 msgid "Disabled for your protection."
+msgstr ""
+
+#: softBlocklisted.label
+msgid "Known to cause security or stability issues."
 msgstr ""
 
 #: toBeDisabled.label
@@ -364,7 +374,7 @@ msgid "Get Plugins"
 msgstr ""
 
 #: searchAddons.label
-#: searchBox.label
+msgctxt "searchAddons.label"
 msgid "Search All Add-ons"
 msgstr ""
 
@@ -405,7 +415,7 @@ msgid "No matching add-ons"
 msgstr ""
 
 #: emptySearch.button
-#: searchFailed.button
+msgctxt "emptySearch.button"
 msgid "OK"
 msgstr ""
 
@@ -413,8 +423,18 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+#: searchFailed.button
+msgctxt "searchFailed.button"
+msgid "OK"
+msgstr ""
+
 #: searchResultHomepage.value
 msgid "Learn More"
+msgstr ""
+
+#: searchBox.label
+msgctxt "searchBox.label"
+msgid "Search All Add-ons"
 msgstr ""
 
 #: recommendedResults.label
@@ -426,7 +446,7 @@ msgid "Connecting…"
 msgstr ""
 
 #: searchResultInstalling.label
-#: installFinishing.label
+msgctxt "searchResultInstalling.label"
 msgid "Installing…"
 msgstr ""
 
@@ -498,6 +518,11 @@ msgstr ""
 msgid "Checking compatibility…"
 msgstr ""
 
+#: installFinishing.label
+msgctxt "installFinishing.label"
+msgid "Installing…"
+msgstr ""
+
 #: installFailure.label
 msgid "Install failed."
 msgstr ""
@@ -510,18 +535,24 @@ msgstr ""
 msgid "End-User License Agreement"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: eula.width
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"560px"
+msgid "560px"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: eula.height
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"400px"
+msgid "400px"
 msgstr ""
 
 #: eula.accept
 msgid "Accept and Install…"
+msgstr ""
+
+#: blocklist.blocked.label
+msgid "Blocked"
+msgstr ""
+
+#: blocklist.checkbox.label
+msgid "Disable"
 msgstr ""

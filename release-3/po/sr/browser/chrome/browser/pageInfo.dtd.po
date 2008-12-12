@@ -1,20 +1,42 @@
-# extracted from source/sr-RS/browser/chrome/browser/pageInfo.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-04-02 03:48+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+#
+# # ***** BEGIN LICENSE BLOCK *****
+# # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# #
+# # The contents of this file are subject to the Mozilla Public License Version
+# # 1.1 (the "License"); you may not use this file except in compliance with
+# # the License. You may obtain a copy of the License at
+# # http://www.mozilla.org/MPL/
+# #
+# # Software distributed under the License is distributed on an "AS IS" basis,
+# # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# # for the specific language governing rights and limitations under the
+# # License.
+# #
+# # The Original Code is Mozilla Communicator client code.
+# #
+# # The Initial Developer of the Original Code is Daniel Brooks.
+# # Portions created by the Initial Developer are Copyright (C) 2001
+# # the Initial Developer. All Rights Reserved.
+# #
+# # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+# #
+# # Alternatively, the contents of this file may be used under the terms of
+# # either the GNU General Public License Version 2 or later (the "GPL"), or
+# # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# # in which case the provisions of the GPL or the LGPL are applicable instead
+# # of those above. If you wish to allow use of your version of this file only
+# # under the terms of either the GPL or the LGPL, and not to allow others to
+# # use your version of this file under the terms of the MPL, indicate your
+# # decision by deleting the provisions above and replace them with the notice
+# # and other provisions required by the LGPL or the GPL. If you do not delete
+# # the provisions above, a recipient may use your version of this file under
+# # the terms of any one of the MPL, the GPL or the LGPL.
+# #
+# # ***** END LICENSE BLOCK *****
+#
+#
 
-# 
+#
 # # ***** BEGIN LICENSE BLOCK *****
 # # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 # #
@@ -51,7 +73,44 @@ msgstr ""
 # # the terms of any one of the MPL, the GPL or the LGPL.
 # #
 # # ***** END LICENSE BLOCK *****
-# 
+#
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is Mozilla Communicator client code.
+#. #
+#. # The Initial Developer of the Original Code is Daniel Brooks.
+#. # Portions created by the Initial Developer are Copyright (C) 2001
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#. #                 Florian QUEZE <f.qu@queze.net>
+#. #                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the LGPL or the GPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: pageInfoWindow.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -59,6 +118,7 @@ msgid ""
 "600"
 msgstr "600"
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: pageInfoWindow.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -70,19 +130,25 @@ msgstr "500"
 msgid "C"
 msgstr "C"
 
-#: copy.label copy.accesskey
+#: copy.label
+#: copy.accesskey
 msgid "&Copy"
 msgstr "&Умножи"
 
-#: selectall.key mediaSaveAs.accesskey
+#: selectall.key
+#: mediaSaveAs.accesskey
+msgctxt "selectall.key"
 msgid "A"
 msgstr "A"
 
-#: selectall.label selectall.accesskey
+#: selectall.label
+#: selectall.accesskey
 msgid "Select &All"
 msgstr "Изабери &све"
 
-#: closeWindow.key securityView.privacy.viewPasswords.accessKey
+#: closeWindow.key
+#: securityView.privacy.viewPasswords.accessKey
+msgctxt "closeWindow.key"
 msgid "w"
 msgstr "л"
 
@@ -134,13 +200,13 @@ msgstr "Име"
 msgid "Content"
 msgstr "Садржај"
 
-#: generalSecurityMore
-msgid "More"
-msgstr "Још"
+#: generalSecurityDetails
+msgid "Details"
+msgstr ""
 
-#: generalSecurityMore.accesskey
-msgid "o"
-msgstr "ј"
+#: generalSecurityDetails.accesskey
+msgid "D"
+msgstr ""
 
 #: mediaTab
 msgid "Media"
@@ -193,6 +259,12 @@ msgstr "б"
 #: mediaSaveAs
 msgid "Save As…"
 msgstr "Сачувај као…"
+
+#: mediaSaveAs.accesskey
+#: selectall.key
+msgctxt "mediaSaveAs.accesskey"
+msgid "A"
+msgstr "A"
 
 #: mediaSaveAs2.accesskey
 msgid "e"
@@ -330,145 +402,12 @@ msgstr "Да ли чувам иједну лозинку за овај сајт?
 msgid "View Saved Passwords"
 msgstr "Преглед сачуваних лозинки"
 
+#: securityView.privacy.viewPasswords.accessKey
+#: closeWindow.key
+msgctxt "securityView.privacy.viewPasswords.accessKey"
+msgid "w"
+msgstr "л"
+
 #: securityView.technical.header
 msgid "Technical Details"
 msgstr "Технички детаљи"
-
-# 
-# # ***** BEGIN LICENSE BLOCK *****
-# # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# #
-# # The contents of this file are subject to the Mozilla Public License Version
-# # 1.1 (the "License"); you may not use this file except in compliance with
-# # the License. You may obtain a copy of the License at
-# # http://www.mozilla.org/MPL/
-# #
-# # Software distributed under the License is distributed on an "AS IS" basis,
-# # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# # for the specific language governing rights and limitations under the
-# # License.
-# #
-# # The Original Code is Mozilla Communicator client code.
-# #
-# # The Initial Developer of the Original Code is Daniel Brooks.
-# # Portions created by the Initial Developer are Copyright (C) 2001
-# # the Initial Developer. All Rights Reserved.
-# #
-# # Contributor(s): Daniel Brooks <db48x@yahoo.com>
-# #
-# # Alternatively, the contents of this file may be used under the terms of
-# # either the GNU General Public License Version 2 or later (the "GPL"), or
-# # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# # in which case the provisions of the GPL or the LGPL are applicable instead
-# # of those above. If you wish to allow use of your version of this file only
-# # under the terms of either the GPL or the LGPL, and not to allow others to
-# # use your version of this file under the terms of the MPL, indicate your
-# # decision by deleting the provisions above and replace them with the notice
-# # and other provisions required by the LGPL or the GPL. If you do not delete
-# # the provisions above, a recipient may use your version of this file under
-# # the terms of any one of the MPL, the GPL or the LGPL.
-# #
-# # ***** END LICENSE BLOCK *****
-# 
-#
-#~ msgid "Info for: "
-#~ msgstr "Подаци за:"
-
-#~ msgid "Page Info"
-#~ msgstr "Подаци о страни"
-
-#~ msgid "Information about the current page"
-#~ msgstr "Подаци о текућој страни"
-
-#~ msgid ""
-#~ "_: Do not translate this.  Only change the numeric values if you need "
-#~ "this dialogue box to appear bigger.\n"
-#~ "425"
-#~ msgstr "450"
-
-#~ msgid ""
-#~ "_: Do not translate this.  Only change the numeric values if you need "
-#~ "this dialogue box to appear bigger.\n"
-#~ "470"
-#~ msgstr "500"
-
-#~ msgid "Title:"
-#~ msgstr "Заглавље:"
-
-#~ msgid "Sent:"
-#~ msgstr "Слање:"
-
-#~ msgid "Expires:"
-#~ msgstr "Рок трајања:"
-
-#~ msgid "Meta:"
-#~ msgstr "Подаци о META таговима:"
-
-#~ msgid "Forms"
-#~ msgstr "Формулари"
-
-#~ msgid "Form Action"
-#~ msgstr "Акција формулара"
-
-#~ msgid "Method"
-#~ msgstr "Метод"
-
-#~ msgid "No."
-#~ msgstr "Бр."
-
-#~ msgid "Target:"
-#~ msgstr "Циљ:"
-
-#~ msgid "Fields:"
-#~ msgstr "Поља:"
-
-#~ msgid "Label"
-#~ msgstr "Ознака"
-
-#~ msgid "Field Name"
-#~ msgstr "Име поља"
-
-#~ msgid "Current Value"
-#~ msgstr "Текућа вредност"
-
-#~ msgid "Links"
-#~ msgstr "Везе"
-
-#~ msgid "L"
-#~ msgstr "L"
-
-#~ msgid "Target"
-#~ msgstr "Циљ"
-
-#~ msgid "Access Key"
-#~ msgstr "Тастер за брзи приступ"
-
-#~ msgid "Images on this page"
-#~ msgstr "Слике на страни"
-
-#~ msgid "Base Address:"
-#~ msgstr "Основна адреса:"
-
-#~ msgid "Alternate Text:"
-#~ msgstr "Допунски текст:"
-
-#~ msgid "Plugin:"
-#~ msgstr "Додатак:"
-
-#~ msgid "Specified Dimensions:"
-#~ msgstr "Задате димензије:"
-
-#~ msgid "Actual Dimensions:"
-#~ msgstr "Стварне димензије:"
-
-#~ msgid "Encryption:"
-#~ msgstr "Шифровање:"
-
-#~ msgid "Save As..."
-#~ msgstr "Сачувај као..."
-
-#~ msgid "Frames"
-#~ msgstr "Оквири"
-
-#~ msgid "r"
-#~ msgstr "r"

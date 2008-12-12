@@ -1,18 +1,5 @@
-# extracted from source/sr-RS/security/manager/chrome/pippki/certManager.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-06-23 00:50+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+# Format Toolbar, imported from editorAppShell.xul
+# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
 
 # ***** BEGIN LICENSE BLOCK *****
 # - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -50,6 +37,42 @@ msgstr ""
 # - the terms of any one of the MPL, the GPL or the LGPL.
 # -
 # - ***** END LICENSE BLOCK *****
+#. ***** BEGIN LICENSE BLOCK *****
+#. - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. -
+#. - The contents of this file are subject to the Mozilla Public License Version
+#. - 1.1 (the "License"); you may not use this file except in compliance with
+#. - the License. You may obtain a copy of the License at
+#. - http://www.mozilla.org/MPL/
+#. -
+#. - Software distributed under the License is distributed on an "AS IS" basis,
+#. - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. - for the specific language governing rights and limitations under the
+#. - License.
+#. -
+#. - The Original Code is mozilla.org code.
+#. -
+#. - The Initial Developer of the Original Code is
+#. - Netscape Communications Corp.
+#. - Portions created by the Initial Developer are Copyright (C) 2001
+#. - the Initial Developer. All Rights Reserved.
+#. -
+#. - Contributor(s):
+#. -   Ian McGreer <mcgreer@netscape.com>
+#. -
+#. - Alternatively, the contents of this file may be used under the terms of
+#. - either the GNU General Public License Version 2 or later (the "GPL"), or
+#. - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. - in which case the provisions of the GPL or the LGPL are applicable instead
+#. - of those above. If you wish to allow use of your version of this file only
+#. - under the terms of either the GPL or the LGPL, and not to allow others to
+#. - use your version of this file under the terms of the MPL, indicate your
+#. - decision by deleting the provisions above and replace them with the notice
+#. - and other provisions required by the GPL or the LGPL. If you do not delete
+#. - the provisions above, a recipient may use your version of this file under
+#. - the terms of any one of the MPL, the GPL or the LGPL.
+#. -
+#. - ***** END LICENSE BLOCK *****
 #: certmgr.title
 msgid "Certificate Manager"
 msgstr "Менаџер сертификата"
@@ -101,10 +124,12 @@ msgstr "Имате сертификате који идентификују ов
 
 #: certmgr.orphans
 msgid ""
-"You have certificates on file that do not fit in any of the other categories:"
+"You have certificates on file that do not fit in any of the other "
+"categories:"
 msgstr "Имате сертификате који се не уклапају ни у једну другу категорију:"
 
-#: certmgr.detail.general_tab.title certmgr.detail.general_tab.accesskey
+#: certmgr.detail.general_tab.title
+#: certmgr.detail.general_tab.accesskey
 msgid "&General"
 msgstr "&Опште"
 
@@ -149,7 +174,9 @@ msgstr "Организација"
 msgid "Organizational Unit (OU)"
 msgstr "Организациона јединица"
 
-#: certmgr.certdetail.serialnumber certmgr.serial
+#: certmgr.certdetail.serialnumber
+#: certmgr.serial
+msgctxt "certmgr.certdetail.serialnumber"
 msgid "Serial Number"
 msgstr "Серијски број"
 
@@ -189,15 +216,21 @@ msgstr "Овај сертификат може да идентификује к�
 msgid "This certificate can identify software makers."
 msgstr "Овај сертификат може да идентификује произвођаче софтвера."
 
-#: certmgr.editsslcert.edittrust certmgr.editemailcert.edittrust
+#: certmgr.editsslcert.edittrust
+#: certmgr.editemailcert.edittrust
+msgctxt "certmgr.editsslcert.edittrust"
 msgid "Edit certificate trust settings:"
 msgstr "Параметри веровања сертификатима:"
 
-#: certmgr.editsslcert.dotrust certmgr.editemailcert.dotrust
+#: certmgr.editsslcert.dotrust
+#: certmgr.editemailcert.dotrust
+msgctxt "certmgr.editsslcert.dotrust"
 msgid "Trust the authenticity of this certificate."
 msgstr "Веруј веродостојности овог сертификата."
 
-#: certmgr.editsslcert.donttrust certmgr.editemailcert.donttrust
+#: certmgr.editsslcert.donttrust
+#: certmgr.editemailcert.donttrust
+msgctxt "certmgr.editsslcert.donttrust"
 msgid "Do not trust the authenticity of this certificate."
 msgstr "Не веруј веродостојности овог сертификата."
 
@@ -205,6 +238,24 @@ msgstr "Не веруј веродостојности овог сертифик
 #: certmgr.editemailcert.title
 msgid "Edit email certificate trust settings"
 msgstr "Уређивање поверења у сертификате за ел. пошту"
+
+#: certmgr.editemailcert.edittrust
+#: certmgr.editsslcert.edittrust
+msgctxt "certmgr.editemailcert.edittrust"
+msgid "Edit certificate trust settings:"
+msgstr "Параметри веровања сертификатима:"
+
+#: certmgr.editemailcert.dotrust
+#: certmgr.editsslcert.dotrust
+msgctxt "certmgr.editemailcert.dotrust"
+msgid "Trust the authenticity of this certificate."
+msgstr "Веруј веродостојности овог сертификата."
+
+#: certmgr.editemailcert.donttrust
+#: certmgr.editsslcert.donttrust
+msgctxt "certmgr.editemailcert.donttrust"
+msgid "Do not trust the authenticity of this certificate."
+msgstr "Не веруј веродостојности овог сертификата."
 
 #: certmgr.deletecert.title
 msgid "Delete Certificate"
@@ -230,13 +281,17 @@ msgstr "Захтевали сте уклањање сертификата:"
 msgid ""
 "Once you have deleted this certificate, you will not be able to read mail "
 "that has been encrypted with it."
-msgstr "Када једном уклоните овај сертификат, нећете моћи да читате пошту која је шифрована помоћу њега."
+msgstr ""
+"Када једном уклоните овај сертификат, нећете моћи да читате пошту која је "
+"шифрована помоћу њега."
 
 #: certmgr.certname
 msgid "Certificate Name"
 msgstr "Назив сертификата"
 
-#: certmgr.certserver exceptionMgr.certlocation.caption2
+#: certmgr.certserver
+#: exceptionMgr.certlocation.caption2
+msgctxt "certmgr.certserver"
 msgid "Server"
 msgstr "Сервер"
 
@@ -268,59 +323,79 @@ msgstr "Истиче"
 msgid "E-Mail Address"
 msgstr "Адреса ел. поште"
 
-#: certmgr.close.label certmgr.close.accesskey
+#: certmgr.serial
+#: certmgr.certdetail.serialnumber
+msgctxt "certmgr.serial"
+msgid "Serial Number"
+msgstr "Серијски број"
+
+#: certmgr.close.label
+#: certmgr.close.accesskey
 msgid "&Close"
 msgstr "&Затвори"
 
-#: certmgr.view2.label certmgr.view2.accesskey
+#: certmgr.view2.label
+#: certmgr.view2.accesskey
 msgid "&View…"
 msgstr "&Преглед…"
 
-#: certmgr.edit2.label certmgr.edit2.accesskey
+#: certmgr.edit2.label
+#: certmgr.edit2.accesskey
 msgid "&Edit…"
 msgstr "&Уреди…"
 
-#: certmgr.editca.label certmgr.editca.accesskey
+#: certmgr.editca.label
+#: certmgr.editca.accesskey
 msgid "E&dit CA Trust"
 msgstr "Уреди по&верење"
 
-#: certmgr.add.label certmgr.add.accesskey
+#: certmgr.add.label
+#: certmgr.add.accesskey
 msgid "&Add"
 msgstr "&Додај"
 
-#: certmgr.export.label certmgr.export.accesskey
+#: certmgr.export.label
+#: certmgr.export.accesskey
 msgid "E&xport…"
 msgstr "&Извоз…"
 
-#: certmgr.delete2.label certmgr.delete2.accesskey
+#: certmgr.delete2.label
+#: certmgr.delete2.accesskey
 msgid "&Delete…"
 msgstr "&Уклони…"
 
-#: certmgr.backup2.label certmgr.backup2.accesskey
+#: certmgr.backup2.label
+#: certmgr.backup2.accesskey
 msgid "&Backup…"
 msgstr "&Архивирај…"
 
-#: certmgr.backupall2.label certmgr.backupall2.accesskey
+#: certmgr.backupall2.label
+#: certmgr.backupall2.accesskey
 msgid "Bac&kup All…"
 msgstr "Ар&хивирај све…"
 
-#: certmgr.restore2.label certmgr.restore2.accesskey
+#: certmgr.restore2.label
+#: certmgr.restore2.accesskey
 msgid "I&mport…"
 msgstr "&Увоз…"
 
-#: certmgr.details.label certmgr.details.accesskey
+#: certmgr.details.label
+#: certmgr.details.accesskey
 msgid "Certificate &Fields"
 msgstr "По&ља сертификата"
 
-#: certmgr.fields.label certmgr.fields.accesskey
+#: certmgr.fields.label
+#: certmgr.fields.accesskey
 msgid "Field &Value"
 msgstr "Вре&дност поља"
 
-#: certmgr.hierarchy.label certmgr.hierarchy.accesskey
+#: certmgr.hierarchy.label
+#: certmgr.hierarchy.accesskey
 msgid "&Certificate Hierarchy"
 msgstr "&Хијерархија сертификата"
 
-#: certmgr.addException.label certmgr.addException.accesskey
+#: certmgr.addException.label
+#: certmgr.addException.accesskey
 msgid "Add E&xception…"
 msgstr "Додај &изузетак…"
 
@@ -338,8 +413,17 @@ msgstr "П"
 
 #: exceptionMgr.supplementalWarning
 msgid ""
-"Legitimate banks, stores, and other public sites will not ask you to do this."
-msgstr "Легитимне банке, продавнице и други јавни сајтови вас неће питати да ово радите."
+"Legitimate banks, stores, and other public sites will not ask you to do "
+"this."
+msgstr ""
+"Легитимне банке, продавнице и други јавни сајтови вас неће питати да ово "
+"радите."
+
+#: exceptionMgr.certlocation.caption2
+#: certmgr.certserver
+msgctxt "exceptionMgr.certlocation.caption2"
+msgid "Server"
+msgstr "Сервер"
 
 #: exceptionMgr.certlocation.url
 msgid "Location:"
@@ -365,45 +449,7 @@ msgstr "Преглед…"
 msgid "V"
 msgstr "П"
 
-#: exceptionMgr.permanent.label exceptionMgr.permanent.accesskey
+#: exceptionMgr.permanent.label
+#: exceptionMgr.permanent.accesskey
 msgid "&Permanently store this exception"
 msgstr "&Трајно сачувај овај изузетак"
-
-#~ msgid "Other People's"
-#~ msgstr "Други"
-
-#~ msgid "Web Sites"
-#~ msgstr "Сајтови"
-
-#~ msgid "You have certificates on file that identify these web sites:"
-#~ msgstr "You have certificates on file that identify these web sites:"
-
-#~ msgid "General"
-#~ msgstr "Опште"
-
-#~ msgid "Details"
-#~ msgstr "Детаљи"
-
-#~ msgid "Certificates have not been validated with OCSP. Click View to do so."
-#~ msgstr ""
-#~ "Certificates have not been validated with OCSP. Click View to do so."
-
-#~ msgid "&View"
-#~ msgstr "&Преглед"
-
-#~ msgid "&Edit"
-#~ msgstr "Уреди"
-
-#~ msgid "&Delete"
-#~ msgstr "&Уклони"
-
-# Format Toolbar, imported from editorAppShell.xul
-# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
-#~ msgid "&Backup"
-#~ msgstr "&Сачувај"
-
-#~ msgid "Bac&kup All"
-#~ msgstr "Сачувај &све"
-
-#~ msgid "I&mport"
-#~ msgstr "&Увоз"

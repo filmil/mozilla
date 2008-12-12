@@ -1,18 +1,4 @@
-# extracted from source/sr-RS/editor/ui/chrome/dialogs/EditorPublish.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-04-16 19:47+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+# Publish Tab Panel
 
 # ***** BEGIN LICENSE BLOCK *****
 # - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -51,6 +37,43 @@ msgstr ""
 # -
 # - ***** END LICENSE BLOCK *****
 # Window title
+#. ***** BEGIN LICENSE BLOCK *****
+#. - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. -
+#. - The contents of this file are subject to the Mozilla Public License Version
+#. - 1.1 (the "License"); you may not use this file except in compliance with
+#. - the License. You may obtain a copy of the License at
+#. - http://www.mozilla.org/MPL/
+#. -
+#. - Software distributed under the License is distributed on an "AS IS" basis,
+#. - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. - for the specific language governing rights and limitations under the
+#. - License.
+#. -
+#. - The Original Code is Mozilla Communicator client code, released
+#. - March 31, 1998.
+#. -
+#. - The Initial Developer of the Original Code is
+#. - Netscape Communications Corporation.
+#. - Portions created by the Initial Developer are Copyright (C) 1998-1999
+#. - the Initial Developer. All Rights Reserved.
+#. -
+#. - Contributor(s):
+#. -
+#. - Alternatively, the contents of this file may be used under the terms of
+#. - either of the GNU General Public License Version 2 or later (the "GPL"),
+#. - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. - in which case the provisions of the GPL or the LGPL are applicable instead
+#. - of those above. If you wish to allow use of your version of this file only
+#. - under the terms of either the GPL or the LGPL, and not to allow others to
+#. - use your version of this file under the terms of the MPL, indicate your
+#. - decision by deleting the provisions above and replace them with the notice
+#. - and other provisions required by the GPL or the LGPL. If you do not delete
+#. - the provisions above, a recipient may use your version of this file under
+#. - the terms of any one of the MPL, the GPL or the LGPL.
+#. -
+#. - ***** END LICENSE BLOCK *****
+#. Window title
 #: windowTitle.label
 msgid "Publish Page"
 msgstr "Објави страну"
@@ -59,7 +82,9 @@ msgstr "Објави страну"
 msgid "Publish Settings"
 msgstr "Поставке за објављивање"
 
-#: publishTab.label publishButton.label
+#: publishTab.label
+#: publishButton.label
+msgctxt "publishTab.label"
 msgid "Publish"
 msgstr "Објави"
 
@@ -67,8 +92,19 @@ msgstr "Објави"
 msgid "Settings"
 msgstr "Подешавања"
 
+#: publishButton.label
+#: publishTab.label
+msgctxt "publishButton.label"
+msgid "Publish"
+msgstr "Објави"
+
 # Publish Tab Panel
-#: siteList.label siteList.accesskey siteName.label siteName.accesskey
+#. Publish Tab Panel
+#: siteList.label
+#: siteList.accesskey
+#: siteName.label
+#: siteName.accesskey
+msgctxt "siteList.label siteList.accesskey"
 msgid "Sit&e Name:"
 msgstr "&Име сајта:"
 
@@ -76,11 +112,13 @@ msgstr "&Име сајта:"
 msgid "Choose the site that you want to publish to"
 msgstr "Изаберите место где желите да објавите"
 
-#: newSiteButton.label newSiteButton.accesskey
+#: newSiteButton.label
+#: newSiteButton.accesskey
 msgid "&New Site"
 msgstr "&Нови сајт"
 
-#: docDirList.label docDirList.accesskey
+#: docDirList.label
+#: docDirList.accesskey
 msgid "&Site subdirectory for this page:"
 msgstr "&Поддиректоријум сајта за ову страну:"
 
@@ -88,7 +126,8 @@ msgstr "&Поддиректоријум сајта за ову страну:"
 msgid "Choose or enter the name of the remote subdirectory for this page"
 msgstr "Изаберите или унесите име удаљеног поддиректоријума за ову страну"
 
-#: publishImgCheckbox.label publishImgCheckbox.accesskey
+#: publishImgCheckbox.label
+#: publishImgCheckbox.accesskey
 msgid "Include images and &other files"
 msgstr "Укључи слике и &остале датотеке"
 
@@ -96,7 +135,8 @@ msgstr "Укључи слике и &остале датотеке"
 msgid "Publish images and other files referenced by this page"
 msgstr "Објави слике и остале датотеке које помиње ова страна"
 
-#: sameLocationRadio.label sameLocationRadio.accesskey
+#: sameLocationRadio.label
+#: sameLocationRadio.accesskey
 msgid "&Use same location as page"
 msgstr "&Користи исто место као и страна"
 
@@ -104,7 +144,8 @@ msgstr "&Користи исто место као и страна"
 msgid "Publish files to the same location as the page"
 msgstr "Објављује датотеке на исто место где се објављује и страна"
 
-#: useSubdirRadio.label useSubdirRadio.accesskey
+#: useSubdirRadio.label
+#: useSubdirRadio.accesskey
 msgid "Use this site sub&directory:"
 msgstr "Користи овај &поддиректоријум на сајту:"
 
@@ -119,7 +160,8 @@ msgstr ""
 "Изаберите или унесите име удаљеног поддиректоријума где ће бити објављени "
 "подаци"
 
-#: pageTitle.label pageTitle.accesskey
+#: pageTitle.label
+#: pageTitle.accesskey
 msgid "Page &Title:"
 msgstr "&Наслов стране:"
 
@@ -131,7 +173,8 @@ msgstr "Унесите наслов за идентификацију стран
 msgid "e.g.: &quot;My Web Page&quot;"
 msgstr "нпр.: &quot;Моја страна&quot;"
 
-#: filename.label filename.accesskey
+#: filename.label
+#: filename.accesskey
 msgid "&Filename:"
 msgstr "&Датотека:"
 
@@ -143,23 +186,18 @@ msgstr "Унесите име за ову датотеку, укључите и 
 msgid "e.g,: &quot;mypage.html&quot;"
 msgstr "нпр.,: &quot;мојастрана.html&quot;"
 
-#: relatedDocs.label
-msgid "Other files to publish"
-msgstr "Остале датотеке за објављивање"
-
-#: setDefaultButton.label setDefaultButton.accesskey
+#: setDefaultButton.label
+#: setDefaultButton.accesskey
 msgid "Set as &Default"
 msgstr "Постави као &изворно"
 
-#: setDefSiteAndDir.label
-msgid "Set as Default Site and Directory"
-msgstr "Постави као подразумевано место и директоријум"
-
-#: removeButton.label removeButton.accesskey
+#: removeButton.label
+#: removeButton.accesskey
 msgid "&Remove Site"
 msgstr "&Уклони сајт"
 
 # Settings Tab Panel
+#. Settings Tab Panel
 #: publishSites.label
 msgid "Publishing Sites"
 msgstr "Објава сајтова"
@@ -173,11 +211,21 @@ msgstr "Подаци о серверу"
 msgid "Login Information"
 msgstr "Подаци за пријаву"
 
+# Publish Tab Panel
+#: siteName.label
+#: siteName.accesskey
+#: siteList.label
+#: siteList.accesskey
+msgctxt "siteName.label siteName.accesskey"
+msgid "Sit&e Name:"
+msgstr "&Име сајта:"
+
 #: siteName.tooltip
 msgid "A nickname that identifies this publishing site (e.g.: 'MySite')"
 msgstr "Име које Вас идентификује на месту за објаву"
 
-#: siteUrl.label siteUrl.accesskey
+#: siteUrl.label
+#: siteUrl.accesskey
 msgid "Publishing &address (e.g.: 'ftp://ftp.myisp.com/myusername'):"
 msgstr "&Адреса за објаву (нпр.: „ftp://ftp.myisp.com/мојеиме‟):"
 
@@ -188,16 +236,19 @@ msgstr ""
 "Адреса за FTP:// или HTTP:// коју Вам је уступио добављач Интернета или "
 "хостинга"
 
-#: browseUrl.label browseUrl.accesskey
+#: browseUrl.label
+#: browseUrl.accesskey
 msgid ""
 "H&TTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):"
-msgstr "ХТТП а&дреса Ваше почетне стране (e.g.: „http://www.myisp.com/myusername‟):"
+msgstr ""
+"ХТТП а&дреса Ваше почетне стране (e.g.: „http://www.myisp.com/myusername‟):"
 
 #: browseUrl.tooltip
 msgid "The HTTP:// address of your home directory (don't include filename)"
 msgstr "HTTP:// адреса Вашег директоријума (без имена датотека)"
 
-#: username.label username.accesskey
+#: username.label
+#: username.accesskey
 msgid "&User name:"
 msgstr "&Корисничко име:"
 
@@ -206,7 +257,8 @@ msgid "The user name you use to log in to your ISP or web hosting service"
 msgstr ""
 "Корисничко име које користите за пријаву на добављача Интернета или хостинга"
 
-#: password.label password.accesskey
+#: password.label
+#: password.accesskey
 msgid "Pass&word:"
 msgstr "&Лозинка:"
 
@@ -214,66 +266,13 @@ msgstr "&Лозинка:"
 msgid "The password associated with your user name"
 msgstr "Лозинка повезана са Вашим корисничким именом"
 
-#: savePassword.label savePassword.accesskey
+#: savePassword.label
+#: savePassword.accesskey
 msgid "&Save Password"
 msgstr "&Сачувај лозинку"
 
 #: savePassword.tooltip
 msgid "Select this to save your password securely using Password Manager"
-msgstr "Изаберите ово како бисте безбедно сачували лозинку помоћу управника лозинкама"
-
-# Publish Tab Panel
-#~ msgid "Site Name:"
-#~ msgstr "Име места:"
-
-#~ msgid "New Site"
-#~ msgstr "Ново место"
-
-#~ msgid "Select or type a directory name in your publishing site:"
-#~ msgstr "Изаберите или унесите име директоријума на месту за објављивање:"
-
-#~ msgid "Choose or enter the name of the remote subdirectory to publish to"
-#~ msgstr "Изаберите или унесите име удаљенод директоријума за објављивање"
-
-#~ msgid "Site subdirectory for this page:"
-#~ msgstr "Поддиректоријум за ову страну:"
-
-#~ msgid "Include images and other files"
-#~ msgstr "Укључи слике и остале датотеке"
-
-#~ msgid "Use same location as page"
-#~ msgstr "Користи исто место као и страна"
-
-#~ msgid "Use this site subdirectory:"
-#~ msgstr "Користи овај поддиректоријум:"
-
-#~ msgid "Choose..."
-#~ msgstr "Избор..."
-
-#~ msgid "Page Title:"
-#~ msgstr "Наслов стране:"
-
-#~ msgid "Filename:"
-#~ msgstr "Датотека:"
-
-#~ msgid "Set as Default"
-#~ msgstr "Постави као подразумевано"
-
-#~ msgid "Remove Site"
-#~ msgstr "Уклони место"
-
-#~ msgid "Publishing address (e.g.: 'ftp://ftp.myisp.com/myusername'):"
-#~ msgstr "Адреса за објаву (нпр.: 'ftp://ftp.myisp.com/myusername'):"
-
-#~ msgid ""
-#~ "HTTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):"
-#~ msgstr "HTTP адреса Ваше стране (нпр.: 'http://www.myisp.com/myusername'):"
-
-#~ msgid "User name:"
-#~ msgstr "Кор. име:"
-
-#~ msgid "Password:"
-#~ msgstr "Лозинка:"
-
-#~ msgid "Save Password"
-#~ msgstr "Сачувај лозинку"
+msgstr ""
+"Изаберите ово како бисте безбедно сачували лозинку помоћу управника "
+"лозинкама"

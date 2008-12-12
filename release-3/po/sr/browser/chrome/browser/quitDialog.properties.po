@@ -1,17 +1,16 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/quitDialog.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/quitDialog.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-26 23:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: quitDialogTitle
@@ -45,7 +44,8 @@ msgstr "Не питај идући пут"
 #: message
 msgid ""
 "Do you want %S to save your tabs and windows for the next time it starts?"
-msgstr "Да ли желите да програм %S сачува језичке и прозоре за наредно покретање?"
+msgstr ""
+"Да ли желите да програм %S сачува језичке и прозоре за наредно покретање?"
 
 #: messageNoWindows
 msgid "Do you want %S to save your tabs for the next time it starts?"
@@ -53,4 +53,5 @@ msgstr "Да ли желите да програм %S сачува језичк�
 
 #: messageRestart
 msgid "%S will try to restore your tabs and windows when it restarts."
-msgstr "Програм %S ће покушати да врати језичке и прозоре при наредном покретању."
+msgstr ""
+"Програм %S ће покушати да врати језичке и прозоре при наредном покретању."

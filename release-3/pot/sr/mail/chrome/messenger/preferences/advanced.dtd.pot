@@ -1,22 +1,25 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/preferences/advanced.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/advanced.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: itemGeneral.label
 msgid "General"
+msgstr ""
+
+#: itemDisplay.label
+msgid "Reading &amp; Display"
 msgstr ""
 
 #: itemUpdate.label
@@ -31,33 +34,42 @@ msgstr ""
 msgid "Certificates"
 msgstr ""
 
-# General Settings
+#. General Settings
+#: enableGloda.label
+#: enableGloda.accesskey
+msgid "Enable Message &Indexer"
+msgstr ""
+
 #: showCondensedAddresses.label
 #: showCondensedAddresses.accesskey
 msgid "Show only dis&play name for people in my address book"
 msgstr ""
 
-# "xxx seconds before marking a message as read", using a number and
-# (markAsReadEnd.label).
-#: markAsRead.label
-#: markAsRead.accesskey
-msgid ""
-"_: This will concatenate with\n"
-"&Wait"
+#: autoMarkAsRead.label
+#: autoMarkAsRead.accesskey
+msgid "&Automatically mark messages as read"
 msgstr ""
 
-#: markAsReadEnd.label
-msgid "seconds before marking a message as read"
+#: markAsReadNoDelay.label
+#: markAsReadNoDelay.accesskey
+msgid "Imme&diately on display"
+msgstr ""
+
+#. This will concatenate to
+#. "After displaying for [___] seconds",
+#. using (markAsReadDelay.label) and a number (secondsLabel.label).
+#: markAsReadDelay.label
+#: markAsReadDelay.accesskey
+msgid "Aft&er displaying for"
+msgstr ""
+
+#: secondsLabel.label
+msgid "seconds"
 msgstr ""
 
 #: showFolderColumns.label
 #: showFolderColumns.accesskey
 msgid "Show expanded co&lumns in the folder pane"
-msgstr ""
-
-#: rememberLastMsg.label
-#: rememberLastMsg.accesskey
-msgid "Remem&ber the last selected message"
 msgstr ""
 
 #: openMsgIn.label
@@ -72,23 +84,6 @@ msgstr ""
 #: reuseExpRadio1.label
 #: reuseExpRadio1.accesskey
 msgid "An e&xisting message window"
-msgstr ""
-
-#: reuseExpRadio2.label
-msgid "A new message tab"
-msgstr ""
-
-#: reuseExpRadio2.accesskey
-msgid "Z"
-msgstr ""
-
-#: connectionTimeout.label
-#: connectionTimeout.accesskey
-msgid "&Connection timeout: "
-msgstr ""
-
-#: connectionSeconds.label
-msgid "seconds"
 msgstr ""
 
 #: configEditDesc.label
@@ -109,7 +104,16 @@ msgstr ""
 msgid "&Return Receipts…"
 msgstr ""
 
-# Update
+#. Display and Reading Settings
+#: reading.caption
+msgid "Reading"
+msgstr ""
+
+#: display.caption
+msgid "Display"
+msgstr ""
+
+#. Update
 #: autoCheck.label
 msgid "Automatically check for updates to:"
 msgstr ""
@@ -155,14 +159,14 @@ msgstr ""
 msgid "Show Update Histor&y"
 msgstr ""
 
-# Networking and Disk Space
-#: showConnections.label
-#: showConnections.accesskey
-msgid "Co&nnection…"
+#. Networking and Disk Space
+#: showSettings.label
+#: showSettings.accesskey
+msgid "Setti&ngs…"
 msgstr ""
 
-#: proxiesInfo.label
-msgid "Determine how &brandShortName; connects to the Internet."
+#: proxiesConfigure.label
+msgid "Configure how &brandShortName; connects to the Internet"
 msgstr ""
 
 #: connectionsInfo.caption
@@ -195,11 +199,25 @@ msgstr ""
 msgid "KB"
 msgstr ""
 
-# Certificates
-#: certificatesInfo.label
-msgid "Manage certificates, revocation lists, certificate verification and security devices."
+#. LOCALIZATION NOTE:
+#. The entities useCacheBefore.label and useCacheAfter.label appear on a single
+#. line in preferences as follows:
+#. &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+#: useCacheBefore.label
+#: useCacheBefore.accesskey
+msgid "&Use up to"
 msgstr ""
 
+#: useCacheAfter.label
+msgid "MB of space for the cache"
+msgstr ""
+
+#: clearCacheNow.label
+#: clearCacheNow.accesskey
+msgid "&Clear Now"
+msgstr ""
+
+#. Certificates
 #: viewCertificates.label
 #: viewCertificates.accesskey
 msgid "View Certific&ates"
@@ -210,9 +228,9 @@ msgstr ""
 msgid "R&evocation Lists"
 msgstr ""
 
-#: viewOCSP.label
-#: viewOCSP.accesskey
-msgid "Veri&fication"
+#: validation.label
+#: validation.accesskey
+msgid "Vali&dation"
 msgstr ""
 
 #: viewSecurityDevices.label

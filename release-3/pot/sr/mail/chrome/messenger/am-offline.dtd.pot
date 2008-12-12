@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/am-offline.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-offline.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: doNotDownloadPop3Movemail.label
@@ -23,9 +22,9 @@ msgstr ""
 msgid "To save disk space, do not download for offline use:"
 msgstr ""
 
-#: offlineNewFolder.label
-#: offlineNewFolder.accesskey
-msgid "When I &create new folders, select them for offline use"
+#: allFoldersOffline.label
+#: allFoldersOffline.accesskey
+msgid "Keep messages f&or this account on this computer"
 msgstr ""
 
 #: offlineNotDownload.label
@@ -35,10 +34,6 @@ msgstr ""
 
 #: kb.label
 msgid "KB"
-msgstr ""
-
-#: days.label
-msgid "days"
 msgstr ""
 
 #: daysOld.label
@@ -51,7 +46,7 @@ msgstr ""
 
 #: nntpNotDownloadRead.label
 #: nntpNotDownloadRead.accesskey
-msgid "&Read messages"
+msgid "Rea&d messages"
 msgstr ""
 
 #: nntpDownloadMsg.label
@@ -65,22 +60,22 @@ msgstr ""
 
 #: retentionKeepMsg.label
 #: retentionKeepMsg.accesskey
-msgid "Delete &messages more than"
+msgid "Dele&te messages more than"
 msgstr ""
 
 #: retentionKeepAll.label
 #: retentionKeepAll.accesskey
-msgid "Don't delete &any messages"
+msgid "Do&n't delete any messages"
 msgstr ""
 
 #: retentionKeepNew.label
 #: retentionKeepNew.accesskey
-msgid "De&lete all but the last"
+msgid "Delete all &but the last"
 msgstr ""
 
 #: retentionKeepUnread.label
 #: retentionKeepUnread.accesskey
-msgid "Always delete &read messages"
+msgid "Al&ways delete read messages"
 msgstr ""
 
 #: nntpRemoveBody.label
@@ -93,22 +88,13 @@ msgstr ""
 msgid "&Select newsgroups for offline use…"
 msgstr ""
 
-#: offlineSelectImap.label
-#: offlineSelectImap.accesskey
-msgid "&Select folders for offline use…"
+#: offlineImapAdvancedOffline.label
+#: offlineImapAdvancedOffline.accesskey
+msgid "&Advanced…"
 msgstr ""
 
-#: offlineDesc.label
-msgid "You can download your messages locally so that they are available when you are working offline."
-msgstr ""
-
-#: makeInboxMsgsAvailable.label
-#: makeInboxMsgsAvailable.accesskey
-msgid "Make the messages in my In&box available when I am working offline"
-msgstr ""
-
-#: offlineGroupTitle.label
-msgid "Offline"
+#: syncGroupTitle.label
+msgid "Message Synchronizing"
 msgstr ""
 
 #: diskspaceGroupTitle.label

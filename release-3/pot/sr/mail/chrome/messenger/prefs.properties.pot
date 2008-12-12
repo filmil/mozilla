@@ -1,38 +1,22 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/prefs.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/prefs.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-#
-# The following are used by the Account Wizard
-#
-#: enterAccountName
-msgid "Please enter a name for this account."
-msgstr ""
-
-#: enterUserName
-msgid "Please enter a username."
-msgstr ""
-
-#: enterName
-msgid "Please enter your name."
-msgstr ""
-
-# when the wizard already has a domain (Should we say something different?)
+#. # The following are used by the Account Wizard
+#. #
 #: enterValidEmail
-#: enterValidEmailPrefix
 msgid "Please enter a valid email address."
 msgstr ""
 
@@ -60,9 +44,9 @@ msgid ""
 "filters exist on the new server."
 msgstr ""
 
-# if the user chooses to cancel the wizard when no accounts are there throw a message
-# LOCALIZATION NOTE (cancelWizard) 
-# do not localize "\n\n"
+#. # if the user chooses to cancel the wizard when no accounts are there throw a message
+#. # LOCALIZATION NOTE (cancelWizard) 
+#. # do not localize "\n\n"
 #: cancelWizard
 msgid ""
 "Are you sure you want to exit the Account Wizard?\n"
@@ -83,6 +67,7 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+#. # when the wizard already has a domain (Should we say something different?)
 #: enterValidHostname
 msgid "Please enter a valid hostname."
 msgstr ""
@@ -95,7 +80,7 @@ msgstr ""
 msgid "Failed to duplicate this account."
 msgstr ""
 
-#LOCALIZATION NOTE: confirmRemoveAccount: %S is the account pretty name
+#. #LOCALIZATION NOTE: confirmRemoveAccount: %S is the account pretty name
 #: confirmRemoveAccount
 msgid "Are you sure you want to remove the account \"%S\"?"
 msgstr ""
@@ -104,7 +89,7 @@ msgstr ""
 msgid "Remove Account"
 msgstr ""
 
-#LOCALIZATION NOTE: accountName: %1$S is server name, %2$S is user name
+#. #LOCALIZATION NOTE: accountName: %1$S is server name, %2$S is user name
 #: accountName
 msgid "%1$S - %2$S"
 msgstr ""
@@ -125,13 +110,13 @@ msgstr ""
 msgid "Defer Account?"
 msgstr ""
 
-#: directoryUsedByOtherServer
+#: directoryUsedByOtherAccount
 msgid ""
-"This directory is already used by another server. Please pick a different "
+"This directory is already used by the %S account. Please pick a different "
 "directory."
 msgstr ""
 
-#Provide default example values for sample email address
+#. #Provide default example values for sample email address
 #: exampleEmailUserName
 msgid "user"
 msgstr ""
@@ -144,21 +129,21 @@ msgstr ""
 msgid "Email Address:"
 msgstr ""
 
-#LOCALIZATION NOTE: defaultEmailText: %1$S is user name, %2$S is domain
+#. #LOCALIZATION NOTE: defaultEmailText: %1$S is user name, %2$S is domain
 #: defaultEmailText
 msgid ""
 "Enter your email address. This is the address others will use to send email "
 "to you (for example, \"%1$S@%2$S\")."
 msgstr ""
 
-#LOCALIZATION NOTE: customizedEmailText: %1$S is provider, %2$S is email username, %3$S is sample email, %4$S is sample username
+#. #LOCALIZATION NOTE: customizedEmailText: %1$S is provider, %2$S is email username, %3$S is sample email, %4$S is sample username
 #: customizedEmailText
 msgid ""
 "Enter your %1$S %2$S (for example, if your %1$S email address is \"%3$S\", "
 "your %2$S is \"%4$S\")."
 msgstr ""
 
-# account manager stuff
+#. # account manager stuff
 #: prefPanel-server
 msgid "Server Settings"
 msgstr ""
@@ -167,8 +152,8 @@ msgstr ""
 msgid "Copies & Folders"
 msgstr ""
 
-#: prefPanel-offline-and-diskspace
-msgid "Offline & Disk Space"
+#: prefPanel-syncing-and-diskspace
+msgid "Syncing & Disk Space"
 msgstr ""
 
 #: prefPanel-diskspace
@@ -179,21 +164,17 @@ msgstr ""
 msgid "Composition & Addressing"
 msgstr ""
 
-#: prefPanel-advanced
-msgid "Advanced"
-msgstr ""
-
 #: prefPanel-junk
 msgid "Junk Settings"
 msgstr ""
 
-## LOCALIZATION NOTE (prefPanel-smtp): Don't translate "SMTP"
+#. ## LOCALIZATION NOTE (prefPanel-smtp): Don't translate "SMTP"
 #: prefPanel-smtp
 msgid "Outgoing Server (SMTP)"
 msgstr ""
 
-# account manager multiple identity support
-#LOCALIZATION NOTE: accountName: %1$S 
+#. # account manager multiple identity support
+#. #LOCALIZATION NOTE: accountName: %1$S
 #: identity-list-title
 msgid "Identities for %1$S"
 msgstr ""

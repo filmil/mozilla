@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/mail/chrome/messenger/am-offline.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-offline.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-18 01:20+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: doNotDownloadPop3Movemail.label
@@ -22,10 +21,10 @@ msgstr "Ради уштеде простора на диску, не прима�
 msgid "To save disk space, do not download for offline use:"
 msgstr "Ради уштеде простора на диску, не примај датотеке за неповезан рад:"
 
-#: offlineNewFolder.label
-#: offlineNewFolder.accesskey
-msgid "When I &create new folders, select them for offline use"
-msgstr "Када направим нове &директоријуме, изабери их за неповезан рад"
+#: allFoldersOffline.label
+#: allFoldersOffline.accesskey
+msgid "Keep messages f&or this account on this computer"
+msgstr ""
 
 #: offlineNotDownload.label
 #: offlineNotDownload.accesskey
@@ -35,10 +34,6 @@ msgstr "&Поруке веће од"
 #: kb.label
 msgid "KB"
 msgstr "KB"
-
-#: days.label
-msgid "days"
-msgstr "дана"
 
 #: daysOld.label
 msgid "days old"
@@ -50,7 +45,8 @@ msgstr "поруке"
 
 #: nntpNotDownloadRead.label
 #: nntpNotDownloadRead.accesskey
-msgid "&Read messages"
+#, fuzzy
+msgid "Rea&d messages"
 msgstr "&Читај поруке"
 
 #: nntpDownloadMsg.label
@@ -64,22 +60,26 @@ msgstr "Да бисте вратили простор на диску, стар�
 
 #: retentionKeepMsg.label
 #: retentionKeepMsg.accesskey
-msgid "Delete &messages more than"
+#, fuzzy
+msgid "Dele&te messages more than"
 msgstr "Уклони &поруке старије од"
 
 #: retentionKeepAll.label
 #: retentionKeepAll.accesskey
-msgid "Don't delete &any messages"
+#, fuzzy
+msgid "Do&n't delete any messages"
 msgstr "&Не уклањај поруке"
 
 #: retentionKeepNew.label
 #: retentionKeepNew.accesskey
-msgid "De&lete all but the last"
+#, fuzzy
+msgid "Delete all &but the last"
 msgstr "Уклони све осим &последњих"
 
 #: retentionKeepUnread.label
 #: retentionKeepUnread.accesskey
-msgid "Always delete &read messages"
+#, fuzzy
+msgid "Al&ways delete read messages"
 msgstr "Увек уклони про&читане поруке"
 
 #: nntpRemoveBody.label
@@ -88,29 +88,19 @@ msgid "&Only message bodies less than"
 msgstr "Само &тела порука мања од"
 
 #: offlineSelectNntp.label
-msgid "Select newsgroups for offline use..."
+#: offlineSelectNntp.accesskey
+#, fuzzy
+msgid "&Select newsgroups for offline use…"
 msgstr "Изаберите групе за неповезан рад..."
 
-#: offlineSelectImap.label
-msgid "Select folders for offline use..."
-msgstr "Изаберите директоријуме за неповезан рад"
+#: offlineImapAdvancedOffline.label
+#: offlineImapAdvancedOffline.accesskey
+msgid "&Advanced…"
+msgstr ""
 
-#: offlineSelect.accesskey
-msgid "S"
-msgstr "S"
-
-#: offlineDesc.label
-msgid "You can download your messages locally so that they are available when you are working offline."
-msgstr "Можете сачувати поруке на рачунару тако да су доступне и када нисте повезани на Интернет."
-
-#: makeInboxMsgsAvailable.label
-#: makeInboxMsgsAvailable.accesskey
-msgid "Make the messages in my In&box available when I am working offline"
-msgstr "Учини долазеће поруке &доступним и када рачунар није повезан на Интернет."
-
-#: offlineGroupTitle.label
-msgid "Offline"
-msgstr "Неповезан рад"
+#: syncGroupTitle.label
+msgid "Message Synchronizing"
+msgstr ""
 
 #: diskspaceGroupTitle.label
 msgid "Disk Space"

@@ -1,21 +1,8 @@
-# extracted from source/sr-RS/toolkit/chrome/global/filepicker.properties
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 01:11+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 # LOCALIZATION NOTE FILE
 # --do not localize the extensions, only the titles
+#. # LOCALIZATION NOTE FILE
+#. # --do not localize the extensions, only the titles
 #: allTitle
 msgid "All Files"
 msgstr "Све датотеке"
@@ -72,7 +59,9 @@ msgstr "*.xul"
 msgid "Applications"
 msgstr "Програми"
 
-#: dirTextInputLabel promptNewDirMessage
+#: dirTextInputLabel
+#: promptNewDirMessage
+msgctxt "dirTextInputLabel"
 msgid "Directory name:"
 msgstr "Име директоријума:"
 
@@ -112,7 +101,9 @@ msgstr "Не"
 msgid "Save As:"
 msgstr "Чувај као:"
 
-#: errorOpenFileDoesntExistTitle errorOpeningFileTitle
+#: errorOpenFileDoesntExistTitle
+#: errorOpeningFileTitle
+msgctxt "errorOpenFileDoesntExistTitle"
 msgid "Error opening %S"
 msgstr "Грешка при отварању %S"
 
@@ -127,6 +118,12 @@ msgstr "Грешка у приступу %S"
 #: errorDirDoesntExistMessage
 msgid "Directory %S doesn't exist"
 msgstr "Директоријум %S не постоји"
+
+#: errorOpeningFileTitle
+#: errorOpenFileDoesntExistTitle
+msgctxt "errorOpeningFileTitle"
+msgid "Error opening %S"
+msgstr "Грешка при отварању %S"
 
 #: openWithoutPermissionMessage_file
 msgid "File %S is not readable"
@@ -152,14 +149,21 @@ msgstr "Датотека %S је недоступна за упис."
 msgid "Cannot create file. Directory %S is not writable."
 msgstr "Не могу да направим датотеку. Директоријум %S је недоступан за упис."
 
-#: errorNewDirDoesExistTitle errorCreateNewDirTitle
+#: errorNewDirDoesExistTitle
+#: errorCreateNewDirTitle
+msgctxt "errorNewDirDoesExistTitle"
 msgid "Error creating %S"
 msgstr "Грешка при стварању %S"
 
 #: errorNewDirDoesExistMessage
 msgid "A file named %S already exists, directory cannot be created."
-msgstr ""
-"Датотека са именом %S већ постоји, директоријум не може бити направљен."
+msgstr "Датотека са именом %S већ постоји, директоријум не може бити направљен."
+
+#: errorCreateNewDirTitle
+#: errorNewDirDoesExistTitle
+msgctxt "errorCreateNewDirTitle"
+msgid "Error creating %S"
+msgstr "Грешка при стварању %S"
 
 #: errorCreateNewDirMessage
 msgid "Directory %S could not be created"
@@ -177,6 +181,12 @@ msgstr "Није могуће направити директоријум јер
 msgid "Create new directory"
 msgstr "Направи нови директоријум"
 
+#: promptNewDirMessage
+#: dirTextInputLabel
+msgctxt "promptNewDirMessage"
+msgid "Directory name:"
+msgstr "Име директоријума:"
+
 #: errorPathProblemTitle
 msgid "Unknown Error"
 msgstr "Непозната грешка"
@@ -184,6 +194,3 @@ msgstr "Непозната грешка"
 #: errorPathProblemMessage
 msgid "An unknown error occured (path %S)"
 msgstr "Појавила се непозната грешка (путања %S)"
-
-#~ msgid "Directory %S is not readable or does not exist."
-#~ msgstr "Директоријум %S није читљив или не постоји."

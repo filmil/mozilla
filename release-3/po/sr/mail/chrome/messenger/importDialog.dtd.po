@@ -1,42 +1,27 @@
-# extracted from source/sr-RS/mail/chrome/messenger/importDialog.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-26 21:05+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# 
+#
 # The contents of this file are subject to the Mozilla Public License Version
 # 1.1 (the "License"); you may not use this file except in compliance with
 # the License. You may obtain a copy of the License at
 # http://www.mozilla.org/MPL/
-# 
+#
 # Software distributed under the License is distributed on an "AS IS" basis,
 # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
 # for the specific language governing rights and limitations under the
 # License.
-# 
+#
 # The Original Code is Mozilla Communicator client code, released
 # March 31, 1998.
-# 
+#
 # The Initial Developer of the Original Code is
 # Netscape Communications Corporation.
 # Portions created by the Initial Developer are Copyright (C) 2001
 # the Initial Developer. All Rights Reserved.
-# 
+#
 # Contributor(s):
-# 
+#
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
 # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -48,15 +33,15 @@ msgstr ""
 # and other provisions required by the GPL or the LGPL. If you do not delete
 # the provisions above, a recipient may use your version of this file under
 # the terms of any one of the MPL, the GPL or the LGPL.
-# 
+#
 # ***** END LICENSE BLOCK *****
-# 
+#
 # LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
 # Netscape Communicator, Please translate using the brandname in respective
 # languages for Netscape Communicator 4 releases.
 # LOCALIZATION NOTE : Do not translate any of the occurances of the word
 # "&brandShortName;" below.
-# 
+#
 #
 # The contents of this file are subject to the Netscape Public
 # License Version 1.1 (the "License"); you may not use this file
@@ -73,6 +58,41 @@ msgstr ""
 # LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of Netscape Communicator,
 # Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
 # LOCALIZATION NOTE : Do not translate any of the occurances of the word "&brandShortName;" below.
+#. ***** BEGIN LICENSE BLOCK *****
+#. Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. The contents of this file are subject to the Mozilla Public License Version
+#. 1.1 (the "License"); you may not use this file except in compliance with
+#. the License. You may obtain a copy of the License at
+#. http://www.mozilla.org/MPL/
+#. Software distributed under the License is distributed on an "AS IS" basis,
+#. WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. for the specific language governing rights and limitations under the
+#. License.
+#. The Original Code is Mozilla Communicator client code, released
+#. March 31, 1998.
+#. The Initial Developer of the Original Code is
+#. Netscape Communications Corporation.
+#. Portions created by the Initial Developer are Copyright (C) 2001
+#. the Initial Developer. All Rights Reserved.
+#. Contributor(s):
+#. Jeff Beckley <beckley@qualcomm.com>
+#. Alternatively, the contents of this file may be used under the terms of
+#. either the GNU General Public License Version 2 or later (the "GPL"), or
+#. the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. in which case the provisions of the GPL or the LGPL are applicable instead
+#. of those above. If you wish to allow use of your version of this file only
+#. under the terms of either the GPL or the LGPL, and not to allow others to
+#. use your version of this file under the terms of the MPL, indicate your
+#. decision by deleting the provisions above and replace them with the notice
+#. and other provisions required by the GPL or the LGPL. If you do not delete
+#. the provisions above, a recipient may use your version of this file under
+#. the terms of any one of the MPL, the GPL or the LGPL.
+#. ***** END LICENSE BLOCK *****
+#. LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+#. Netscape Communicator, Please translate using the brandname in respective
+#. languages for Netscape Communicator 4 releases.
+#. LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+#. "&brandShortName;" below.
 #: importDialog.windowTitle
 msgid "Import"
 msgstr "Увоз"
@@ -98,6 +118,7 @@ msgid "Filters"
 msgstr "Филтери"
 
 # (pofilter) unchanged: please translate
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -114,22 +135,29 @@ msgstr "45em"
 msgid "&brandShortName; Import Wizard"
 msgstr "Чаробњак за увоз за програм &brandShortName;"
 
+#: importShortDesc.label
 #: importDesc.label
 msgid "Import Mail, Address Books, Settings, and Filters from other programs"
 msgstr "Увоз поште, адресара, подешавања и филтера из других програма"
 
+#: importDescription1.label
 #: importDescription.label
 msgid ""
 "This wizard will import mail messages, address book entries, preferences, "
 "and/or filters from other mail programs and common address book formats into "
 "&brandShortName;."
-msgstr "Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или филтере из других програма за ел. пошту и опште познате формате адресара у &brandShortName;."
+msgstr ""
+"Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или "
+"филтере из других програма за ел. пошту и опште познате формате адресара у "
+"&brandShortName;."
 
 #: importDescription2.label
 msgid ""
 "Once they have been imported, you will be able to access them from within "
 "&brandShortName;."
-msgstr "Када су једном увезени, моћи ћете да им приступите из програма &brandShortName;."
+msgstr ""
+"Када су једном увезени, моћи ћете да им приступите из програма "
+"&brandShortName;."
 
 #: selectDescription.label
 msgid "Please select the type of file that you would like to import:"
@@ -181,6 +209,7 @@ msgstr ""
 #: FieldDiscWarning.label
 msgid ""
 "This category will be used for all the entries of the selected address book: "
+""
 msgstr "Ова категорија ће бити коришћена за све уносе у изабраном адресару:"
 
 #: importDialog.homeTitle
@@ -190,33 +219,3 @@ msgstr "Кућа"
 #: importDialog.workTitle
 msgid "Work"
 msgstr "Посао"
-
-#~ msgid "&brandShortName; Mail Import Wizard"
-#~ msgstr "Чаробњак за увоз порука у програму &brandShortName;"
-
-#~ msgid "Import Mail, Address Books and Settings from other programs"
-#~ msgstr "Увезите пошту, адресаре и подешавања из других програма"
-
-#~ msgid ""
-#~ "This wizard will import mail messages, address book entries, and/or "
-#~ "preferences from other mail programs and common address book formats into "
-#~ "&brandShortName; Mail."
-#~ msgstr ""
-#~ "Овај чаробњак ће увести пошту, уносе у адресару и (или) подешавања из "
-#~ "других програма за електронску пошту и уобичајене формате адресара у "
-#~ "програм &brandShortName;."
-
-#~ msgid ""
-#~ "Once they have been imported, you will be able to access them from within "
-#~ "&brandShortName; Mail and/or Address Book."
-#~ msgstr ""
-#~ "Када су једном увезени, можете им приступати из програма &brandShortName;."
-
-#~ msgid "Please select the program from which you would like to import:"
-#~ msgstr "Молимо изаберите програм из кога бисте желели да увезете:"
-
-#~ msgid "Select the type of material to import:"
-#~ msgstr "Изаберите врсту материјала који ће бити увезен:"
-
-#~ msgid "Importing..."
-#~ msgstr "Увоз..."

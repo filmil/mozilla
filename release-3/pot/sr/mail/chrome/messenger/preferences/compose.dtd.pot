@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/preferences/compose.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/compose.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: itemGeneral.label
@@ -25,14 +24,6 @@ msgstr ""
 
 #: itemSpellCheck.label
 msgid "Spelling"
-msgstr ""
-
-#: itemSendFormat.label
-msgid "Send Format"
-msgstr ""
-
-#: forwardReply.label
-msgid "Forwarding Messages"
 msgstr ""
 
 #: forwardMsg.label
@@ -84,10 +75,6 @@ msgstr ""
 msgid "&Restore Defaults"
 msgstr ""
 
-#: sendingMessagesHeader.label
-msgid "Composing Messages"
-msgstr ""
-
 #: spellCheck.label
 #: spellCheck.accesskey
 msgid "&Check spelling before sending"
@@ -110,11 +97,6 @@ msgstr ""
 msgid "Download More Dictionaries"
 msgstr ""
 
-#: useMIME.label
-#: useMIME.accesskey
-msgid "F&or messages that contain 8-bit characters, use 'quoted printable' MIME encoding"
-msgstr ""
-
 #: warnOnSendAccelKey.label
 #: warnOnSendAccelKey.accesskey
 msgid "Conf&irm when using keyboard shortcut to send message"
@@ -127,17 +109,6 @@ msgstr ""
 
 #: autoSaveEnd.label
 msgid "minutes"
-msgstr ""
-
-#: wrapOutMsg.label
-#: wrapOutMsg.accesskey
-msgid ""
-"_: This will concatenate with \"xxx characters\", using a number and (char.label).\n"
-"Wrap p&lain text messages at"
-msgstr ""
-
-#: char.label
-msgid "characters"
 msgstr ""
 
 #: emailCollectionPicker.label
@@ -163,21 +134,13 @@ msgstr ""
 msgid "&Directory Server:"
 msgstr ""
 
+#: directoriesNone.label
+msgid "None"
+msgstr ""
+
 #: editDirectories.label
 #: editDirectories.accesskey
 msgid "&Edit Directories…"
-msgstr ""
-
-#: matchText.label
-msgid "If there is a match in your local address books:"
-msgstr ""
-
-#: skipDirectory.label
-msgid "Do not search in the directory"
-msgstr ""
-
-#: sendOptionsCaption.label
-msgid "Send and HTML Options"
 msgstr ""
 
 #: sendOptionsDescription.label

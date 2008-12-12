@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/mail/chrome/messenger/preferences/changeaction.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/changeaction.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-18 01:24+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: changeAction.title
@@ -19,6 +18,7 @@ msgid "Change Action"
 msgstr "Измена акције"
 
 # (pofilter) unchanged: please translate
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -42,7 +42,8 @@ msgstr "О&твори овим програмом:"
 
 #: changeApp.label
 #: changeApp.accesskey
-msgid "&Browse..."
+#, fuzzy
+msgid "&Browse…"
 msgstr "&Избор..."
 
 #: saveToDisk.label
@@ -62,15 +63,11 @@ msgstr "у овај &директоријум:"
 
 #: chooseFolder.label
 #: chooseFolder.accesskey
-msgid "Bro&wse..."
+#, fuzzy
+msgid "Bro&wse…"
 msgstr "И&збор..."
 
 #: saveToAskMe.label
 #: saveToAskMe.accesskey
 msgid "&ask me where to save the file"
 msgstr "&питај ме где да сачувам датотеку"
-
-#: usePlugin.label
-#: usePlugin.accesskey
-msgid "Use this &Plugin:"
-msgstr "користи овај &додатак:"

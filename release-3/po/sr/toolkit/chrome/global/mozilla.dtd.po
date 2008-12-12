@@ -1,17 +1,17 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/mozilla.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-08-22 23:40+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Accelerator-Marker: &\n"
 
 #: mozilla.title
 msgid "The Book of Mozilla, 11:9"
@@ -31,7 +31,15 @@ msgid ""
 "href=\"http://wiki.mozilla.org/About:mozilla\">spoke \n"
 "</a></em> of the beast with their children. Mammon awoke, and lo! it was \n"
 "<em>naught</em> but a follower."
-msgstr "Мамон спаваше. И <em>звијер васкрснута</em> ширише се земљом и бројност њена растијаше у легију.  Те прогласише они времена и  <em>жртвоваше</em> усjеве своје ватри,  <em>лисичије лукави</em>. Те изградише они нови свијет у лику својему како им <em><a href=\"http://www.mozilla.org/about/mozilla-manifesto.html\"> свечаним ријечима</a></em> би обећано, те <em><a href=\"http://wiki.mozilla.org/About:mozilla\">говораше </a></em> о звијери својој деци. Мамон се пробуди и, гле!, бејаше <em>ништа</em> друго до пратилац."
+msgstr ""
+"Мамон спаваше. И <em>звијер васкрснута</em> ширише се земљом и бројност њена "
+"растијаше у легију.  Те прогласише они времена и  <em>жртвоваше</em> усjеве "
+"своје ватри,  <em>лисичије лукави</em>. Те изградише они нови свијет у лику "
+"својему како им <em><a href=\"http://www.mozilla.org/about/mozilla-"
+"manifesto.html\"> свечаним ријечима</a></em> би обећано, те <em><a "
+"href=\"http://wiki.mozilla.org/About:mozilla\">говораше </a></em> о звијери "
+"својој деци. Мамон се пробуди и, гле!, бејаше <em>ништа</em> друго до "
+"пратилац."
 
 #: mozilla.from
 msgid ""

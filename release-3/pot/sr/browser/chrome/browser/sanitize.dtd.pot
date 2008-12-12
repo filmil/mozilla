@@ -1,41 +1,83 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/sanitize.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/sanitize.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-#: sanitizeDialog.title
+#: sanitizePrefs.title
 msgid "Clear Private Data"
+msgstr ""
+
+#: sanitizeDialog2.title
+msgid "Clear Recent History"
 msgstr ""
 
 #: sanitizeItems.label
 msgid "Clear the following items now:"
 msgstr ""
 
-#: clearDataSettings.label
-msgid "When I ask &brandShortName; to clear my private data, it should erase:"
+#: clearDataSettings2.label
+msgid "When I quit &brandShortName;, it should automatically clear all:"
 msgstr ""
 
-# XXX rearrange entities to match physical layout when l10n isn't an issue
-#: itemHistory.label
-#: itemHistory.accesskey
-msgid "&Browsing History"
+#. XXX rearrange entities to match physical layout when l10n isn't an issue
+#: clearDuration.label
+msgid "Remove "
 msgstr ""
 
-#: itemFormSearchHistory.label
-#: itemFormSearchHistory.accesskey
-msgid "Saved &Form and Search History"
+#: clearDuration.lastHour
+msgid "the last hour"
+msgstr ""
+
+#: clearDuration.last2Hours
+msgid "the last 2 hours"
+msgstr ""
+
+#: clearDuration.last4Hours
+msgid "the last 4 hours"
+msgstr ""
+
+#: clearDuration.today
+msgid "my history for today"
+msgstr ""
+
+#: clearDuration.everything
+msgid "my entire history"
+msgstr ""
+
+#. Localization note (clearDuration.suffix) - trailing entity for languages
+#. that require it.
+#: clearDuration.suffix
+msgid ""
+"_: clearDuration.suffix\n"
+msgstr ""
+
+#: historySection.label
+msgid "History"
+msgstr ""
+
+#: dataSection.label
+msgid "Data"
+msgstr ""
+
+#: itemVisitedPages.label
+#: itemVisitedPages.accesskey
+msgid "&Visited Pages"
+msgstr ""
+
+#: itemFormSearchEntries.label
+#: itemFormSearchEntries.accesskey
+msgid "&Form &amp; Search Entries"
 msgstr ""
 
 #: itemPasswords.label
@@ -48,9 +90,9 @@ msgstr ""
 msgid "&Cookies"
 msgstr ""
 
-#: itemCache.label
-#: itemCache.accesskey
-msgid "C&ache"
+#: itemWebCache.label
+#: itemWebCache.accesskey
+msgid "&Web Cache"
 msgstr ""
 
 #: itemOfflineApps.label
@@ -58,18 +100,22 @@ msgstr ""
 msgid "&Offline Website Data"
 msgstr ""
 
-#: itemDownloads.label
-#: itemDownloads.accesskey
-msgid "&Download History"
+#: itemDownloadList.label
+#: itemDownloadList.accesskey
+msgid "&Download List"
 msgstr ""
 
-#: itemSessions.label
-#: itemSessions.accesskey
-msgid "Authenticated &Sessions"
+#: itemActiveLogins.label
+#: itemActiveLogins.accesskey
+msgid "Active &Logins"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"30em"
+msgid "30em"
+msgstr ""
+
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
+#: column.width
+msgid "14em"
 msgstr ""

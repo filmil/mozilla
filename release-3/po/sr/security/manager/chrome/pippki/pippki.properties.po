@@ -1,54 +1,6 @@
-#
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is mozilla.org code.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/security/manager/chrome/pippki/pippki.properties
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-29 02:25+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+# For Deleting Certificates
+# Mismatch Domain Dialg
+# Server Cert expired
 
 #: SignedBy
 msgid "Authenticated by %S"
@@ -64,8 +16,8 @@ msgstr ""
 
 # These are for dialogs
 # Download Cert dialog
-# These are for dialogs
-# Download Cert dialog
+#. #These are for dialogs
+#. #Download Cert dialog
 #: newCAMessage1
 msgid "Do you want to trust \"%S\" for the following purposes?"
 msgstr "Да ли желите да верујете \"%S\" за следеће сврхе?"
@@ -75,7 +27,7 @@ msgid "Certificate Authority (unnamed)"
 msgstr "Центар сетификата (безимени)"
 
 # For editing cert trust
-# For editing cert trust
+#. #For editing cert trust
 #: editTrustWindowTitle
 msgid "Edit certificate trust"
 msgstr "Измена поверења сертификатима"
@@ -84,7 +36,15 @@ msgstr "Измена поверења сертификатима"
 msgid "The certificate \"%S\" represents a Certificate Authority."
 msgstr "Сертификат \"%S\" представља власништво сертификата."
 
-#: editTrustSSL editTrustEmail
+#: editTrustSSL
+#: editTrustEmail
+msgctxt "editTrustSSL"
+msgid "The certificate \"%S\" was issued by:"
+msgstr "Сертификат \"%S\" је потврдио:"
+
+#: editTrustEmail
+#: editTrustSSL
+msgctxt "editTrustEmail"
 msgid "The certificate \"%S\" was issued by:"
 msgstr "Сертификат \"%S\" је потврдио:"
 
@@ -120,6 +80,7 @@ msgid "Certificate for this certificate authority was not found"
 msgstr "Није пронађен сертификат за овог власника сертификата"
 
 # For Deleting Certificates
+#. #For Deleting Certificates
 #: deleteSslCertConfirm3
 msgid "Are you sure you want to delete these server exceptions?"
 msgstr "Да ли сигурно желите да уклоните ове серверске изузетке?"
@@ -128,13 +89,17 @@ msgstr "Да ли сигурно желите да уклоните ове се�
 msgid ""
 "If you delete a server exception, you restore the usual security checks for "
 "that server and require it uses a valid certificate."
-msgstr "Ако уклоните серверски изузетак, враћате уобичајену проверу безбедности за сервер и захтевате да поседује важећи сертификат."
+msgstr ""
+"Ако уклоните серверски изузетак, враћате уобичајену проверу безбедности за "
+"сервер и захтевате да поседује важећи сертификат."
 
 #: deleteSslCertTitle3
 msgid "Delete Server Certificate Exceptions"
 msgstr "Уклони изузетак о серверском сертификату"
 
-#: deleteUserCertConfirm deleteOrphanCertConfirm
+#: deleteUserCertConfirm
+#: deleteOrphanCertConfirm
+msgctxt "deleteUserCertConfirm"
 msgid "Are you sure you want to delete these certificates?"
 msgstr "Да ли сигурно желите да уклоните ове сертификате?"
 
@@ -159,7 +124,9 @@ msgstr "Да ли сте сигурни да желите да избришет�
 msgid ""
 "If you delete a certificate authority (CA) certificate, this application "
 "will no longer trust any certificates issued by that CA."
-msgstr "Ако избришете ауторитет за сертификат (ЦА, CA), овај програм више неће веровати сертификатима које је издао тај ЦА."
+msgstr ""
+"Ако избришете ауторитет за сертификат (ЦА, CA), овај програм више неће "
+"веровати сертификатима које је издао тај ЦА."
 
 # FIXME CA
 #: deleteCaCertTitle
@@ -176,18 +143,26 @@ msgstr ""
 msgid ""
 "If you delete a person's e-mail certificate, you will no longer be able to "
 "send encrypted e-mail to that person."
-msgstr "Ако уклоните сертификат за ел. пошту неке особе, више нећете моћи да јој шаљете ел. пошту."
+msgstr ""
+"Ако уклоните сертификат за ел. пошту неке особе, више нећете моћи да јој "
+"шаљете ел. пошту."
 
 #: deleteEmailCertTitle
 msgid "Delete E-Mail Certificates"
 msgstr "Избришите сертификат ел. поште"
+
+#: deleteOrphanCertConfirm
+#: deleteUserCertConfirm
+msgctxt "deleteOrphanCertConfirm"
+msgid "Are you sure you want to delete these certificates?"
+msgstr "Да ли сигурно желите да уклоните ове сертификате?"
 
 #: deleteOrphanCertTitle
 msgid "Delete Certificates"
 msgstr "Уклањање сертификата"
 
 # PKCS#12 file dialogs
-# PKCS#12 file dialogs
+#. #PKCS#12 file dialogs
 #: chooseP12RestoreFileDialog
 msgid "File Name to Restore"
 msgstr "Име датотеке за обнављање"
@@ -201,15 +176,16 @@ msgid "PKCS12 Files"
 msgstr "PKCS12 датотеке"
 
 # Preferences
-# Preferences
+#. #Preferences
 #: resetPreferences
 msgid ""
-"Use this button to reset %S's security preferences to their factory settings."
+"Use this button to reset %S's security preferences to their factory "
+"settings."
 msgstr ""
 "Притиском на ово дугме можете вратити подешавање безбедности %S на почетно."
 
 # Cert verification
-# Cert verification
+#. #Cert verification
 #: certVerified
 msgid "This certificate has been verified for the following uses:"
 msgstr "Сертификат је потврђен за следеће кориснике:"
@@ -249,7 +225,7 @@ msgid "Could not verify this certificate for unknown reasons."
 msgstr "Провера сертификата није могућа."
 
 # Client auth
-# Client auth
+#. #Client auth
 #: clientAuthMessage1
 msgid "Organization: \"%S\""
 msgstr "Организација: \"%S\""
@@ -259,7 +235,7 @@ msgid "Issued Under: \"%S\""
 msgstr "Издат под: \"%S\""
 
 # Page Info
-# Page Info
+#. #Page Info
 #: pageInfo_SiteNotVerified
 msgid "Web Site Identity Not Verified"
 msgstr "Идентитет веб сајта није потврђен"
@@ -273,7 +249,9 @@ msgid ""
 "The web site %S supports authentication for the page you are viewing. The "
 "identity of this web site has been verified by %S, a certificate authority "
 "you trust for this purpose."
-msgstr "Веб место %S подржава проверу за преглед ове стране. Идентитет веб сајта  је проверен помоћу %S, као место од поверења за ову намену."
+msgstr ""
+"Веб место %S подржава проверу за преглед ове стране. Идентитет веб сајта  је "
+"проверен помоћу %S, као место од поверења за ову намену."
 
 #: pageInfo_ViewCertificate
 msgid "View the security certificate that verifies this web site's identity."
@@ -346,7 +324,7 @@ msgid ""
 msgstr "Делови стране коју прегледате није шифрован пре слања преко интернета."
 
 # Cert Viewer
-# Cert Viewer
+#. #Cert Viewer
 #: certDetails
 msgid "Certificate Viewer:"
 msgstr "Преглед сертификата:"
@@ -368,7 +346,7 @@ msgstr ""
 "приватни кључ."
 
 # Token Manager
-# Token Manager
+#. #Token Manager
 #: password_not_set
 msgid "(not set)"
 msgstr "(неодређена)"
@@ -494,6 +472,7 @@ msgstr ""
 "врсту заштите. Унесите те лозинке до преласка у дати режим."
 
 # CRL next update.
+#. # CRL next update.
 #: crlNextUpdateMsg1
 msgid "%S cannot establish an encrypted connection with \"%S\"."
 msgstr "%S не може успоставити заштићену везу са \"%S\"."
@@ -587,7 +566,7 @@ msgid "Import the CRL from:"
 msgstr "Увези СПЛ из:"
 
 # Import certificate(s) file dialog
-# Import certificate(s) file dialog
+#. #Import certificate(s) file dialog
 #: importEmailCertPrompt
 msgid "Select File containing somebody's Email certificate to import"
 msgstr "Изаберите датотеку која садржи нечији сертификат ел. поште за увоз"
@@ -605,11 +584,13 @@ msgid "Certificate Files"
 msgstr "датотеке сертификата"
 
 # Form Signing confirmation prompt
+#. # Form Signing confirmation prompt
 #: formSigningIntro
 msgid "The site '%S' has requested that you sign the following text message:"
 msgstr "Веб место '%S' тражи да потврдите следећу поруку:"
 
 # Cert export
+#. # Cert export
 #: SaveCertAs
 msgid "Save Certificate To File"
 msgstr "Чување сертификата у датотеци"
@@ -663,12 +644,15 @@ msgid "Unknown error"
 msgstr "Непозната грешка"
 
 # Add Security Exception dialog
+#. #Add Security Exception dialog
 #: addExceptionBrandedWarning2
 msgid "You are about to override how %S identifies this site."
-msgstr "Само што нисте преиначили механизам за идентификацију сајта за програм %S."
+msgstr ""
+"Само што нисте преиначили механизам за идентификацију сајта за програм %S."
 
 #: addExceptionInvalidHeader
-msgid "This site attempts to identity itself with invalid information."
+#, fuzzy
+msgid "This site attempts to identify itself with invalid information."
 msgstr "Сајт покушава да се представи помоћу неважећих информација."
 
 #: addExceptionDomainMismatchShort
@@ -679,7 +663,8 @@ msgstr "Погрешан сајт"
 msgid ""
 "Certificate belongs to a different site, which could indicate an identity "
 "theft."
-msgstr "Сертификат припада другом сајту, то може да указује на крађу идентитета."
+msgstr ""
+"Сертификат припада другом сајту, то може да указује на крађу идентитета."
 
 #: addExceptionExpiredShort
 msgid "Outdated Information"
@@ -689,7 +674,9 @@ msgstr "Застарели подаци"
 msgid ""
 "Certificate is not currently valid. It is impossible to verify whether this "
 "identity was reported as stolen or lost."
-msgstr "Сертификат је тренутно неважећи.  Није могуће проверити да ли је овај идентитет пријављен као украден или изгубљен."
+msgstr ""
+"Сертификат је тренутно неважећи.  Није могуће проверити да ли је овај "
+"идентитет пријављен као украден или изгубљен."
 
 #: addExceptionUnverifiedShort
 msgid "Unknown Identity"
@@ -709,7 +696,9 @@ msgstr "Важећи сертификат"
 msgid ""
 "This site provides valid, verified identification.  There is no need to add "
 "an exception."
-msgstr "Сајт је дао важећи, проверени сертификат.  Нема потребе да додајете изузетак."
+msgstr ""
+"Сајт је дао важећи, проверени сертификат.  Нема потребе да додајете "
+"изузетак."
 
 #: addExceptionCheckingShort
 msgid "Checking Information"
@@ -730,107 +719,3 @@ msgstr "Није могуће добавити статус о идентите�
 #: addExceptionConnectionFailed
 msgid "Connection Failed"
 msgstr "Веза је прекинута"
-
-# For Deleting Certificates
-# For Deleting Certificates
-#~ msgid "deleteSslFlag"
-#~ msgstr "deleteSslFlag"
-
-#~ msgid "Are you sure you want to delete these web site certificates?"
-#~ msgstr ""
-#~ "Да ли сте сигурни да желите да избришете сертификате овог веб места?"
-
-#~ msgid ""
-#~ "If you delete a web site certificate, you will be asked to accept it "
-#~ "again the next time you visit the web site."
-#~ msgstr ""
-#~ "Ако уклоните сертификат сајта, тражиће Вам га поново при следећој посети "
-#~ "том сајту."
-
-#~ msgid "Delete Web Site Certificates"
-#~ msgstr "Брисање сертификата веб места"
-
-#~ msgid "deleteUserFlag"
-#~ msgstr "deleteUserFlag"
-
-#~ msgid "deleteCaFlag"
-#~ msgstr "deleteCaFlag"
-
-#~ msgid ""
-#~ "If you delete a certificate authority (CA) certificate, your browser will "
-#~ "no longer trust any certificates issued by that CA."
-#~ msgstr ""
-#~ "Ако избришете овлашћења сертификата (ПС), Ваш клијент неће више веровати "
-#~ "ниједном сертификату коришћеном помоћу те ПС."
-
-#~ msgid "deleteEmailFlag"
-#~ msgstr "deleteEmailFlag"
-
-#~ msgid ""
-#~ "If you delete an e-mail certificate, your will no longer be able to send "
-#~ "encrypted e-mail to those people."
-#~ msgstr ""
-#~ "Ако избришете сертификат ел. поште, нећете бити у могућности да шаљете "
-#~ "шифроване поруке."
-
-# Mismatch Domain Dialg
-# Mismatch Domain Dialg
-#~ msgid ""
-#~ "You have attempted to establish a connection with \"%S\".  However, the "
-#~ "security certificate presented belongs to \"%S\".  It is possible, though "
-#~ "unlikely, that someone may be trying to intercept your communication with "
-#~ "this web site."
-#~ msgstr ""
-#~ "Покушавате успоставити везу са \"%S\". Претходни сертификат припада \"%S"
-#~ "\". Мало је вероватно да ће неко покушати да прихвати податке које "
-#~ "размењујете са овим сајтом."
-
-#~ msgid ""
-#~ "If you suspect the certificate shown does not belong to \"%S\", please "
-#~ "cancel the connection and notify the site administrator."
-#~ msgstr ""
-#~ "Ако мислите да приказани сертификат не припада \"%S\", прекините везу и "
-#~ "обавестите о том администратора сајта."
-
-# Server Cert expired
-# Server Cert expired
-#~ msgid ""
-#~ "\"%S\" is a site that uses a security certificate to encrypt data during "
-#~ "transmission, but its certificate expired on %S."
-#~ msgstr ""
-#~ "\"%S\" је сајт који користи сертификат за шифровање података за време "
-#~ "преноса, али рок деловања његовог сертификата је истекао %S."
-
-#~ msgid "Server Certificate Expired"
-#~ msgstr "Истекао је рок трајања сертфиката сервера"
-
-#~ msgid ""
-#~ "\"%S\" is a site that uses a security certificate to encrypt data during "
-#~ "transmission, but its certificate will not be valid until %S."
-#~ msgstr ""
-#~ "\"%S\" је сајт који користи сертификат за шифровање података за време "
-#~ "преноса, али његовог сертификат је неважећи до %S."
-
-#~ msgid "Server Certificate Not Yet Valid"
-#~ msgstr "Сертификат сервера није тачан"
-
-#~ msgid ""
-#~ "You should check to make sure that your computer's time (currently set to "
-#~ "%S) is correct."
-#~ msgstr ""
-#~ "Проверите правилност подешавања времена на вашем рачунару (сад: %S)."
-
-#~ msgid ""
-#~ "Automatic update preferences will take effect when you restart the "
-#~ "browser."
-#~ msgstr ""
-#~ "Самостално унапређење ће бити активно тек по поновном покретању читача."
-
-#~ msgid "Would would like to enable automatic update?"
-#~ msgstr "Да ли желите да омогућите самоунапређења?"
-
-#~ msgid "Would would like to view the automatic update settings?"
-#~ msgstr "Да ли желите да видите подешавање самоунапређења?"
-
-#~ msgid "Select File containing Web Site certificate to import"
-#~ msgstr "Изабрана датотека садржи сертификат веб места за увоз"

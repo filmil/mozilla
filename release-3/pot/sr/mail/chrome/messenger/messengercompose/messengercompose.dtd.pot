@@ -1,26 +1,25 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/messengercompose/messengercompose.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messengercompose/messengercompose.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# LOCALIZATION NOTE messengercompose.dtd Main UI for message composition
+#. LOCALIZATION NOTE messengercompose.dtd Main UI for message composition
 #: msgComposeWindow.title
-msgid "Compose: (no subject)"
+msgid "Write: (no subject)"
 msgstr ""
 
-# File Menu
+#. File Menu
 #: fileMenu.label
 #: fileMenu.accesskey
 msgid "&File"
@@ -64,7 +63,7 @@ msgstr ""
 msgid "&Web Page…"
 msgstr ""
 
-# LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard'
+#. LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard'
 #: attachVCardCmd.label
 #: attachVCardCmd.accesskey
 msgid "&Personal Card (vCard)"
@@ -85,7 +84,7 @@ msgid "&Save"
 msgstr ""
 
 #: saveCmd.key
-#: accountManagerCmdUnix.accesskey
+msgctxt "saveCmd.key"
 msgid "S"
 msgstr ""
 
@@ -115,13 +114,18 @@ msgid "Sen&d Now"
 msgstr ""
 
 #: sendCmd.keycode
-#: sendLaterCmd.keycode
+msgctxt "sendCmd.keycode"
 msgid "VK_RETURN"
 msgstr ""
 
 #: sendLaterCmd.label
 #: sendLaterCmd.accesskey
 msgid "Send &Later"
+msgstr ""
+
+#: sendLaterCmd.keycode
+msgctxt "sendLaterCmd.keycode"
+msgid "VK_RETURN"
 msgstr ""
 
 #: printSetupCmd.label
@@ -138,21 +142,7 @@ msgstr ""
 msgid "P"
 msgstr ""
 
-#: quitApplicationCmdWin.label
-#: quitApplicationCmdWin.accesskey
-msgid "E&xit"
-msgstr ""
-
-#: quitApplicationCmd.label
-#: quitApplicationCmd.accesskey
-msgid "&Quit"
-msgstr ""
-
-#: quitApplicationCmd.key
-msgid "Q"
-msgstr ""
-
-# Edit Menu
+#. Edit Menu
 #: editMenu.label
 #: editMenu.accesskey
 msgid "&Edit"
@@ -160,8 +150,7 @@ msgstr ""
 
 #: undoCmd.label
 #: undoCmd.accesskey
-#: undo.label
-#: undo.accesskey
+msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
 msgstr ""
 
@@ -180,8 +169,7 @@ msgstr ""
 
 #: cutCmd.label
 #: cutCmd.accesskey
-#: cut.label
-#: cut.accesskey
+msgctxt "cutCmd.label cutCmd.accesskey"
 msgid "Cu&t"
 msgstr ""
 
@@ -191,8 +179,7 @@ msgstr ""
 
 #: copyCmd.label
 #: copyCmd.accesskey
-#: copy.label
-#: copy.accesskey
+msgctxt "copyCmd.label copyCmd.accesskey"
 msgid "&Copy"
 msgstr ""
 
@@ -202,12 +189,17 @@ msgstr ""
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
-#: paste.label
-#: paste.accesskey
+msgctxt "pasteCmd.label pasteCmd.accesskey"
 msgid "&Paste"
 msgstr ""
 
 #: pasteCmd.key
+msgctxt "pasteCmd.key"
+msgid "V"
+msgstr ""
+
+#: pasteNoFormattingCmd.key
+msgctxt "pasteNoFormattingCmd.key"
 msgid "V"
 msgstr ""
 
@@ -222,19 +214,13 @@ msgstr ""
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
-#: delete.label
-#: delete.accesskey
+msgctxt "deleteCmd.label deleteCmd.accesskey"
 msgid "&Delete"
-msgstr ""
-
-#: deleteCmd.key
-msgid "D"
 msgstr ""
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
-#: selectAll.label
-#: selectAll.accesskey
+msgctxt "selectAllCmd.label selectAllCmd.accesskey"
 msgid "Select &All"
 msgstr ""
 
@@ -257,12 +243,12 @@ msgid "Find A&gain"
 msgstr ""
 
 #: findAgainCmd.key
-#: findPrevCmd.key
+msgctxt "findAgainCmd.key"
 msgid "G"
 msgstr ""
 
 #: findAgainCmd.key2
-#: findPrevCmd.key2
+msgctxt "findAgainCmd.key2"
 msgid "VK_F3"
 msgstr ""
 
@@ -271,7 +257,17 @@ msgstr ""
 msgid "Find Pre&vious"
 msgstr ""
 
-# View Menu
+#: findPrevCmd.key
+msgctxt "findPrevCmd.key"
+msgid "G"
+msgstr ""
+
+#: findPrevCmd.key2
+msgctxt "findPrevCmd.key2"
+msgid "VK_F3"
+msgstr ""
+
+#. View Menu
 #: viewMenu.label
 #: viewMenu.accesskey
 msgid "&View"
@@ -282,14 +278,13 @@ msgstr ""
 msgid "&Toolbars"
 msgstr ""
 
-#: showComposeToolbarCmd.label
-#: showComposeToolbarCmd.accesskey
-msgid "Mail T&oolbar"
+#: showCompositionToolbarCmd.label
+msgid "Composition Toolbar"
 msgstr ""
 
-#: showFormatToolbarCmd.label
-#: showFormatToolbarCmd.accesskey
-msgid "&Formatting Toolbar"
+#: showFormattingBarCmd.label
+#: showFormattingBarCmd.accesskey
+msgid "&Formatting Bar"
 msgstr ""
 
 #: showTaskbarCmd.label
@@ -307,13 +302,13 @@ msgstr ""
 msgid "C&ontacts Sidebar"
 msgstr ""
 
-# Format Menu
+#. Format Menu
 #: formatMenu.label
 #: formatMenu.accesskey
 msgid "F&ormat"
 msgstr ""
 
-# Options Menu
+#. Options Menu
 #: optionsMenu.label
 #: optionsMenu.accesskey
 msgid "O&ptions"
@@ -342,7 +337,7 @@ msgstr ""
 msgid "&Quote Message"
 msgstr ""
 
-# LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard'
+#. LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard'
 #: attachVCard.label
 #: attachVCard.accesskey
 msgid "Attach Personal Card (&vCard)"
@@ -426,7 +421,7 @@ msgstr ""
 msgid "File Here"
 msgstr ""
 
-# Tools Menu
+#. Tools Menu
 #: tasksMenu.label
 #: tasksMenu.accesskey
 msgid "&Tools"
@@ -455,13 +450,14 @@ msgstr ""
 msgid "A&ccount Settings…"
 msgstr ""
 
+#: accountManagerCmdUnix.accesskey
+msgctxt "accountManagerCmdUnix.accesskey"
+msgid "S"
+msgstr ""
+
 #: preferencesCmd.label
 #: preferencesCmd.accesskey
 msgid "&Options…"
-msgstr ""
-
-#: preferencesCmd.key
-msgid "O"
 msgstr ""
 
 #: preferencesCmdUnix.label
@@ -469,7 +465,7 @@ msgstr ""
 msgid "Prefere&nces"
 msgstr ""
 
-# Mac OS X Window Menu
+#. Mac OS X Window Menu
 #: minimizeWindow.key
 msgid "m"
 msgstr ""
@@ -490,32 +486,7 @@ msgstr ""
 msgid "Window"
 msgstr ""
 
-# Help Menu
-#: helpMenu.label
-#: helpMenu.accesskey
-msgid "&Help"
-msgstr ""
-
-#: releaseCmd.label
-#: releaseCmd.accesskey
-msgid "&Release Notes"
-msgstr ""
-
-#: hintsAndTips.label
-#: hintsAndTips.accesskey
-msgid "&brandShortName; &Help"
-msgstr ""
-
-#: hintsAndTipsMac.commandkey
-msgid "?"
-msgstr ""
-
-#: aboutCmd.label
-#: aboutCmd.accesskey
-msgid "&About &brandShortName;"
-msgstr ""
-
-# Mail Toolbar
+#. Mail Toolbar
 #: sendButton.label
 msgid "Send"
 msgstr ""
@@ -524,9 +495,8 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 
-# Title for the address picker panel
 #: addressButton.label
-#: addressesSidebarTitle.label
+msgctxt "addressButton.label"
 msgid "Contacts"
 msgstr ""
 
@@ -546,7 +516,7 @@ msgstr ""
 msgid "Activity Indicator"
 msgstr ""
 
-# Mail Toolbar Tooltips
+#. Mail Toolbar Tooltips
 #: sendButton.tooltip
 msgid "Send this message now"
 msgstr ""
@@ -583,7 +553,7 @@ msgstr ""
 msgid "Paste"
 msgstr ""
 
-# Headers
+#. Headers
 #: fromAddr.label
 #: fromAddr.accesskey
 msgid "F&rom:"
@@ -623,20 +593,7 @@ msgstr ""
 msgid "Atta&chments:"
 msgstr ""
 
-# Format Toolbar, imported from editorAppShell.xul
-# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
-#: formatToolbar.boldChar
-msgid "B"
-msgstr ""
-
-#: formatToolbar.italicChar
-msgid "I"
-msgstr ""
-
-#: formatToolbar.underlineChar
-msgid "U"
-msgstr ""
-
+#. Format Toolbar, imported from editorAppShell.xul
 #: SmileButton.tooltip
 msgid "Insert a smiley face"
 msgstr ""
@@ -705,7 +662,7 @@ msgstr ""
 msgid "Lips-are-Sealed"
 msgstr ""
 
-# Message Pane Context Menu
+#. Message Pane Context Menu
 #: spellCheckNoSuggestions.label
 msgid "No Suggestions Found"
 msgstr ""
@@ -720,6 +677,30 @@ msgstr ""
 msgid "Add to Dictio&nary"
 msgstr ""
 
+#: undo.label
+#: undo.accesskey
+msgctxt "undo.label undo.accesskey"
+msgid "&Undo"
+msgstr ""
+
+#: cut.label
+#: cut.accesskey
+msgctxt "cut.label cut.accesskey"
+msgid "Cu&t"
+msgstr ""
+
+#: copy.label
+#: copy.accesskey
+msgctxt "copy.label copy.accesskey"
+msgid "&Copy"
+msgstr ""
+
+#: paste.label
+#: paste.accesskey
+msgctxt "paste.label paste.accesskey"
+msgid "&Paste"
+msgstr ""
+
 #: pasteQuote.label
 #: pasteQuote.accesskey
 msgid "Paste As &Quotation"
@@ -730,6 +711,23 @@ msgstr ""
 msgid "&Open"
 msgstr ""
 
+#: delete.label
+#: delete.accesskey
+msgctxt "delete.label delete.accesskey"
+msgid "&Delete"
+msgstr ""
+
+#: renameAttachment.label
+#: renameAttachment.accesskey
+msgid "&Rename…"
+msgstr ""
+
+#: selectAll.label
+#: selectAll.accesskey
+msgctxt "selectAll.label selectAll.accesskey"
+msgid "Select &All"
+msgstr ""
+
 #: attachFile.label
 #: attachFile.accesskey
 msgid "Attach &File(s)…"
@@ -738,4 +736,10 @@ msgstr ""
 #: attachPage.label
 #: attachPage.accesskey
 msgid "Attach &Web Page…"
+msgstr ""
+
+#. Title for the address picker panel
+#: addressesSidebarTitle.label
+msgctxt "addressesSidebarTitle.label"
+msgid "Contacts"
 msgstr ""

@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/baseMenuOverlay.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/baseMenuOverlay.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: minimizeWindow.key
@@ -35,12 +34,17 @@ msgstr ""
 msgid "Window"
 msgstr ""
 
-# LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-# for the help button in the menubar but Gnome does not.
 #: helpMenu.label
 #: helpMenu.accesskey
+msgctxt "helpMenu.label helpMenu.accesskey"
+msgid "&Help"
+msgstr ""
+
+#. LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+#. for the help button in the menubar but Gnome does not.
 #: helpMenuWin.label
 #: helpMenuWin.accesskey
+msgctxt "helpMenuWin.label helpMenuWin.accesskey"
 msgid "&Help"
 msgstr ""
 
@@ -67,9 +71,9 @@ msgstr ""
 msgid "VK_F1"
 msgstr ""
 
-# LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-# are all the necessary keys to hit OS X's open-help
-# keyboard (visible) shortcut (that's Cmd+? for most locales)
+#. LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+#. are all the necessary keys to hit OS X's open-help
+#. keyboard (visible) shortcut (that's Cmd+? for most locales)
 #: openHelpMac.commandkey
 msgid "/"
 msgstr ""
@@ -83,8 +87,7 @@ msgid "?"
 msgstr ""
 
 #: openHelpMac.frontendModifiers
-#: preferencesCmdMac.modifiers
-#: hideThisAppCmdMac.modifiers
+msgctxt "openHelpMac.frontendModifiers"
 msgid "accel"
 msgstr ""
 
@@ -106,6 +109,11 @@ msgstr ""
 msgid ","
 msgstr ""
 
+#: preferencesCmdMac.modifiers
+msgctxt "preferencesCmdMac.modifiers"
+msgid "accel"
+msgstr ""
+
 #: servicesMenuMac.label
 msgid "Services"
 msgstr ""
@@ -115,12 +123,22 @@ msgid "Hide &brandShortName;"
 msgstr ""
 
 #: hideThisAppCmdMac.commandkey
-#: hideOtherAppsCmdMac.commandkey
+msgctxt "hideThisAppCmdMac.commandkey"
 msgid "H"
+msgstr ""
+
+#: hideThisAppCmdMac.modifiers
+msgctxt "hideThisAppCmdMac.modifiers"
+msgid "accel"
 msgstr ""
 
 #: hideOtherAppsCmdMac.label
 msgid "Hide Others"
+msgstr ""
+
+#: hideOtherAppsCmdMac.commandkey
+msgctxt "hideOtherAppsCmdMac.commandkey"
+msgid "H"
 msgstr ""
 
 #: hideOtherAppsCmdMac.modifiers

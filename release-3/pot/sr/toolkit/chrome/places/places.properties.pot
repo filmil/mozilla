@@ -1,17 +1,17 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/places/places.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/places/places.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-04 20:41+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: BookmarksMenuFolderTitle
@@ -28,14 +28,6 @@ msgstr ""
 
 #: TagsFolderTitle
 msgid "Tags"
-msgstr ""
-
-#: bookmarksLivemarkLoading
-msgid "Live Bookmark loading…"
-msgstr ""
-
-#: bookmarksLivemarkFailed
-msgid "Live Bookmark feed failed to load."
 msgstr ""
 
 #: finduri-AgeInDays-is-0
@@ -59,10 +51,10 @@ msgid "(local files)"
 msgstr ""
 
 #. # LOCALIZATION NOTE (bookmarksArchiveFilename):
-#. # %S will be replaced by the current date in ISO 8601 format, YYYY-MM-DD.
-#. # The resulting string will be suggested as a filename, so make sure that you're
-#. # only using characters legal for file names. Consider falling back to the
-#. # en-US value if you have to use non-ascii characters.
+#. # Do not change this string! It's used only to
+#. # detect older localized bookmark archives from
+#. # before bug 445704 was fixed. It will be removed
+#. # in a subsequent release.
 #: bookmarksArchiveFilename
 msgid "bookmarks-%S.json"
 msgstr ""

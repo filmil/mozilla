@@ -1,21 +1,20 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/am-main.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-main.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# extracted from am-main.xul
+#. extracted from am-main.xul
 #: accountTitle.label
 msgid "Account Settings"
 msgstr ""
@@ -25,16 +24,14 @@ msgstr ""
 msgid "Account &Name:"
 msgstr ""
 
-#: accountNameDesc.label
-msgid "The account name is used to identify each account"
-msgstr ""
-
 #: identityTitle.label
 msgid "Default Identity"
 msgstr ""
 
 #: identityDesc.label
-msgid "Each account has an identity, which is the information that other people see when they read your messages."
+msgid ""
+"Each account has an identity, which is the information that other people see "
+"when they read your messages."
 msgstr ""
 
 #: name.label
@@ -76,11 +73,10 @@ msgstr ""
 msgid "E&dit Card…"
 msgstr ""
 
+#. do not translate "vCard" in below line
 #: attachVCard.label
 #: attachVCard.accesskey
-msgid ""
-"_: do not translate \"vCard\" in below line\n"
-"Attach my &vCard to messages"
+msgid "Attach my &vCard to messages"
 msgstr ""
 
 #: manageIdentities.label
@@ -88,11 +84,10 @@ msgstr ""
 msgid "&Manage Identities…"
 msgstr ""
 
+#. do not translate "SMTP" in below line
 #: smtpName.label
 #: smtpName.accesskey
-msgid ""
-"_: do not translate \"SMTP\" in below line\n"
-"O&utgoing Server (SMTP):"
+msgid "O&utgoing Server (SMTP):"
 msgstr ""
 
 #: smtpDefaultServer.label

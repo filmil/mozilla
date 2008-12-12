@@ -1,28 +1,22 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger-mapi/mapi.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger-mapi/mapi.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# Mail Integration Dialog
-#Default Mail Display String
-# localization note, %S is the vendor name
+#. # Mail Integration Dialog
 #: dialogTitle
-#: loginTitle
-#: PasswordTitle
-#: errorMessageTitle
-#: defaultMailDisplayTitle
+msgctxt "dialogTitle"
 msgid "%S"
 msgstr ""
 
@@ -72,7 +66,7 @@ msgstr ""
 msgid "%S is already set as your default feed aggregator."
 msgstr ""
 
-# MAPI Messages
+#. # MAPI Messages
 #: loginText
 msgid "Please enter your password for %S:"
 msgstr ""
@@ -81,7 +75,17 @@ msgstr ""
 msgid "Please enter your username and password"
 msgstr ""
 
-# MAPI Error Messages
+#: loginTitle
+msgctxt "loginTitle"
+msgid "%S"
+msgstr ""
+
+#: PasswordTitle
+msgctxt "PasswordTitle"
+msgid "%S"
+msgstr ""
+
+#. # MAPI Error Messages
 #: errorMessage
 msgid ""
 "%S could not be set as the default mail application because a registry key "
@@ -96,7 +100,12 @@ msgid ""
 "write access to your system registry, and then try again."
 msgstr ""
 
-# MAPI Security Messages
+#: errorMessageTitle
+msgctxt "errorMessageTitle"
+msgid "%S"
+msgstr ""
+
+#. # MAPI Security Messages
 #: mapiBlindSendWarning
 msgid ""
 "Another application is attempting to send mail using your user profile. Are "
@@ -105,4 +114,11 @@ msgstr ""
 
 #: mapiBlindSendDontShowAgain
 msgid "Warn me whenever other applications try to send mail from me"
+msgstr ""
+
+#. #Default Mail Display String
+#. # localization note, %S is the vendor name
+#: defaultMailDisplayTitle
+msgctxt "defaultMailDisplayTitle"
+msgid "%S"
 msgstr ""

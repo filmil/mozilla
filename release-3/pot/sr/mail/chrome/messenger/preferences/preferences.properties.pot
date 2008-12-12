@@ -1,21 +1,20 @@
-#### Add HTML and Plain Text Domain Names for sendOption
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/preferences/preferences.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/preferences.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
+#. #### Add HTML and Plain Text Domain Names for sendOption
 #: html_domainsAddDomainTitle
 msgid "Add HTML Domain Name"
 msgstr ""
@@ -36,12 +35,12 @@ msgstr ""
 msgid "Domain Name Error"
 msgstr ""
 
-#### LOCALIZATION NOTE: do not translate %S
+#. #### LOCALIZATION NOTE: do not translate %S
 #: domainDuplicationError
 msgid "The domain name %S already exists in the HTML or Plain Text lists."
 msgstr ""
 
-#### Junk
+#. #### Junk
 #: confirmResetJunkTrainingTitle
 msgid "Confirm"
 msgstr ""
@@ -50,7 +49,7 @@ msgstr ""
 msgid "Are you sure you want to reset the adaptive filter training data?"
 msgstr ""
 
-#### Master Password
+#. #### Master Password
 #: setMasterPassword
 msgid "Set Master Password…"
 msgstr ""
@@ -59,7 +58,7 @@ msgstr ""
 msgid "Change Master Password…"
 msgstr ""
 
-#### Downloads
+#. #### Downloads
 #: desktopFolderName
 msgid "Desktop"
 msgstr ""
@@ -72,18 +71,28 @@ msgstr ""
 msgid "Choose Download Folder:"
 msgstr ""
 
-#### Download Actions
+#. #### Download Actions
 #: extensionNone
 msgid "(NONE)"
 msgstr ""
 
 #: removeButtonSingle
-#: removeTitleSingle
+msgctxt "removeButtonSingle"
 msgid "Remove Action"
 msgstr ""
 
 #: removeButtonMultiple
+msgctxt "removeButtonMultiple"
+msgid "Remove Actions"
+msgstr ""
+
+#: removeTitleSingle
+msgctxt "removeTitleSingle"
+msgid "Remove Action"
+msgstr ""
+
 #: removeTitleMultiple
+msgctxt "removeTitleMultiple"
 msgid "Remove Actions"
 msgstr ""
 
@@ -121,7 +130,7 @@ msgid ""
 "types:"
 msgstr ""
 
-#### Change Action
+#. #### Change Action
 #: extensionStringFormat
 msgid "%S, %S"
 msgstr ""
@@ -134,7 +143,16 @@ msgstr ""
 msgid "Select Download Folder"
 msgstr ""
 
-#### Sound Notifications
+#. #### Sound Notifications
 #: soundFilePickerTitle
 msgid "Choose Sound"
+msgstr ""
+
+#. #### Shell Service
+#: alreadyDefaultClientTitle
+msgid "Default Client"
+msgstr ""
+
+#: alreadyDefault
+msgid "%S is already set as your default mail client."
 msgstr ""

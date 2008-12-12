@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/preferences/privacy.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/privacy.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: itemJunk.label
@@ -24,19 +23,18 @@ msgid "E-mail Scams"
 msgstr ""
 
 #: itemPasswords.label
-#: paswords.label
 msgid "Passwords"
 msgstr ""
 
-# Extra strings we might use after the l10n string freeze in the preferences dialog
 #: itemAntiVirus.label
-#: antiVirusCaption.label
 msgid "Anti-Virus"
 msgstr ""
 
-# Junk Mail Controls
+#. Junk Mail Controls
 #: junkMail.intro
-msgid "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings."
+msgid ""
+"Set your default junk mail settings. Account-specific junk mail settings can "
+"be configured in Account Settings."
 msgstr ""
 
 #: manualMark.label
@@ -74,9 +72,11 @@ msgstr ""
 msgid "Reset Training &Data"
 msgstr ""
 
-# Phishing Detector
+#. Phishing Detector
 #: phishingDetector1.intro
-msgid "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you."
+msgid ""
+"&brandShortName; can analyze messages for suspected email scams by looking "
+"for common techniques used to deceive you."
 msgstr ""
 
 #: enablePhishingDetector1.label
@@ -89,9 +89,11 @@ msgstr ""
 msgid "&Use a downloaded list of suspected email scams"
 msgstr ""
 
-# Passwords
+#. Passwords
 #: savedPasswords.intro
-msgid "&brandShortName; can remember password information for all of your accounts so you do not need to re-enter your login details."
+msgid ""
+"&brandShortName; can remember password information for all of your accounts "
+"so you do not need to re-enter your login details."
 msgstr ""
 
 #: encryptEnabled.label
@@ -100,7 +102,9 @@ msgid "U&se a master password to encrypt stored passwords"
 msgstr ""
 
 #: masterPassword.intro
-msgid "When set, the Master Password protects all your passwords - but you must enter it once per session."
+msgid ""
+"When set, the Master Password protects all your passwords - but you must "
+"enter it once per session."
 msgstr ""
 
 #: setMasterPassword.label
@@ -118,29 +122,14 @@ msgstr ""
 msgid "Ed&it Saved Passwords"
 msgstr ""
 
-# Anti Virus
+#. Anti Virus
 #: antiVirus.intro
-msgid "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally."
+msgid ""
+"&brandShortName; can make it easy for anti-virus software to analyze "
+"incoming mail messages for viruses before they are stored locally."
 msgstr ""
 
 #: antiVirus.label
 #: antiVirus.accesskey
 msgid "A&llow anti-virus clients to quarantine individual incoming messages"
-msgstr ""
-
-#: emailScams.label
-msgid "Email Scams"
-msgstr ""
-
-#: junkMail.label
-#: itemJunkMail.label
-msgid "Junk Mail"
-msgstr ""
-
-#: itemIntrusions.label
-msgid "Intrusions"
-msgstr ""
-
-#: itemIntrusionsAndPasswords.label
-msgid "Intrusions &amp; Passwords"
 msgstr ""

@@ -1,23 +1,9 @@
-# extracted from source/sr-RS/mail/chrome/messenger/preferences/fonts.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 02:54+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 #: fontsAndEncodingsDialog.title
 msgid "Fonts &amp; Encodings"
 msgstr "Писма и кодирања"
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -33,13 +19,10 @@ msgstr "45em"
 msgid "41em"
 msgstr "43em"
 
-#: language.label language.accesskey
+#: language.label
+#: language.accesskey
 msgid "Fon&ts for:"
 msgstr "&Намена:"
-
-#: typefaces.label
-msgid "Typeface"
-msgstr "Облик"
 
 #: sizes.label
 msgid "Size (pixels)"
@@ -56,25 +39,25 @@ msgstr "е"
 msgid "x"
 msgstr "x"
 
-#: proportional.label proportional.accesskey
+#: proportional.label
+#: proportional.accesskey
 msgid "&Proportional:"
 msgstr "&Пропорционални:"
 
-#: serif.label serif.accesskey
+#: serif.label
+#: serif.accesskey
 msgid "&Serif:"
 msgstr "&Серифни:"
 
-#: sans-serif.label sans-serif.accesskey
+#: sans-serif.label
+#: sans-serif.accesskey
 msgid "Sa&ns-serif:"
 msgstr "Бе&зсерифни:"
 
-#: monospace.label monospace.accesskey
+#: monospace.label
+#: monospace.accesskey
 msgid "&Monospace:"
 msgstr "&Исте ширине:"
-
-#: fontsize.units
-msgid "pixels"
-msgstr "тачака"
 
 #: font.langGroup.latin1
 msgid "Western"
@@ -185,7 +168,9 @@ msgid "Malayalam"
 msgstr "малезијски"
 
 # Minimum font size
-#: minSize.label minSize.accesskey
+#. Minimum font size
+#: minSize.label
+#: minSize.accesskey
 msgid "Minimum font si&ze:"
 msgstr "Нај&мања величина фонта:"
 
@@ -194,6 +179,7 @@ msgid "None"
 msgstr "Нема"
 
 # default font type
+#. default font type
 #: useDefaultFontSerif.label
 msgid "Serif"
 msgstr "Са серифима"
@@ -202,16 +188,15 @@ msgstr "Са серифима"
 msgid "Sans Serif"
 msgstr "Без серифа"
 
-#: newLanguages.label
-msgid "New languages can be configured using the Languages Panel."
-msgstr "Нови језици се могу подесити из панела Језици."
-
-#: useDocumentFonts.label useDocumentFonts.accesskey
+#: useDocumentFonts.label
+#: useDocumentFonts.accesskey
 msgid "All&ow messages to use other fonts"
 msgstr "Поруке могу да користе &друга писма"
 
 # Language settings
-#: sendDefaultCharset.label sendDefaultCharset.accesskey
+#. Language settings
+#: sendDefaultCharset.label
+#: sendDefaultCharset.accesskey
 msgid "O&utgoing Mail:"
 msgstr "&Одлазна пошта:"
 
@@ -223,17 +208,12 @@ msgstr "Кодирање знакова"
 msgid "Set the default character encodings for sending and receiving mail"
 msgstr "Поставка подразумеваног кодирања знакова за долазну и одлазну пошту"
 
-#: viewDefaultCharsetList.label viewDefaultCharsetList.accesskey
+#: viewDefaultCharsetList.label
+#: viewDefaultCharsetList.accesskey
 msgid "&Incoming Mail:"
 msgstr "&Долазна пошта:"
 
-#: forceCharsetOverride.label forceCharsetOverride.accesskey
-msgid "&Apply the default character encoding to all incoming messages"
-msgstr "&Примени подразумевано кодирање знакова на све долазне поруке"
-
-#: replyInDefaultCharset.label replyInDefaultCharset.accesskey
-msgid "Use t&he default character encoding in replies"
-msgstr "Користи по&дразумевано кодирање у одговорима"
-
-#~ msgid "Fonts"
-#~ msgstr "Писма"
+#: replyInDefaultCharset2.label
+#: replyInDefaultCharset2.accesskey
+msgid "W&hen possible, use the default character encoding in replies"
+msgstr ""

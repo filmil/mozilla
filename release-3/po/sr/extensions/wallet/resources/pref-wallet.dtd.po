@@ -1,17 +1,16 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/extensions/wallet/resources/pref-wallet.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/extensions/wallet/resources/pref-wallet.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-27 00:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: pref.wallet.title
@@ -26,16 +25,21 @@ msgstr "Управник формуларима"
 msgid ""
 "Form Manager can remember information about you so that filling out forms on "
 "web pages is faster."
-msgstr "Управник формуларима може да запамти податке о Вама како бисте касније формуларе на странама могли да испуњавате брже."
+msgstr ""
+"Управник формуларима може да запамти податке о Вама како бисте касније "
+"формуларе на странама могли да испуњавате брже."
 
-#: walletEnabled.label walletEnabled.accesskey
+#: walletEnabled.label
+#: walletEnabled.accesskey
 msgid "Save &form data from web pages when completing forms."
 msgstr "Чувај податке о &формуларима при испуњавању формулара."
 
-#: viewWallet.label viewWallet.accesskey
+#: viewWallet.label
+#: viewWallet.accesskey
 msgid "&Manage Stored Form Data"
 msgstr "&Управљање сачуваним подацима о формуларима"
 
-#: viewWalletSites.label viewWalletSites.accesskey
+#: viewWalletSites.label
+#: viewWalletSites.accesskey
 msgid "Manage &Sites"
 msgstr "У&прављање сајтовима"

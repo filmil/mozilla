@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: ImapOnDemand
@@ -22,10 +21,10 @@ msgid ""
 "Click OK to download the complete message and validate the signature."
 msgstr ""
 
-#
-#NOTE To translater, anything between %..% and <..> should not be translated.
-# the former will be replaced by java script, and the latter is HTML formatting.
-#
+#. #
+#. #NOTE To translater, anything between %..% and <..> should not be translated.
+#. # the former will be replaced by java script, and the latter is HTML formatting.
+#. #
 #: CantDecryptTitle
 msgid "%brand% cannot decrypt this message"
 msgstr ""

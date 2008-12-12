@@ -1,74 +1,60 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is mozilla.org code.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Seth Spitzer <sspitzer@netscape.com>
-#   Lorenzo Colitti <lorenzo@colitti.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either of the GNU General Public License Version 2 or later (the "GPL"),
-# or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/messenger.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is mozilla.org code.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 1998
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Seth Spitzer <sspitzer@netscape.com>
+#. #   Lorenzo Colitti <lorenzo@colitti.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either of the GNU General Public License Version 2 or later (the "GPL"),
+#. # or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messenger.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-#
-# The following are used by the messenger application
-#
-#: renameAccount
-msgid "Rename Account…"
-msgstr ""
-
-#: renameNewsAccount
-msgid "Rename News Account…"
-msgstr ""
-
+#. # The following are used by the messenger application
+#. #
 #: removeAccount
 msgid "Delete Account…"
-msgstr ""
-
-#: removeNewsAccount
-msgid "Delete News Account…"
 msgstr ""
 
 #: newFolderMenuItem
@@ -107,10 +93,6 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-#: titleMailPreHost
-msgid "for"
-msgstr ""
-
 #: replyToSender
 msgid "Reply to Sender"
 msgstr ""
@@ -127,8 +109,8 @@ msgstr ""
 msgid "Open Message"
 msgstr ""
 
-# LOCALIZATION NOTE(defaultSaveMessageAsFileName): Do not translate ".eml" 
-# in the line below.  Also, the complete file name should 8.3
+#. # LOCALIZATION NOTE(defaultSaveMessageAsFileName): Do not translate ".eml" 
+#. # in the line below.  Also, the complete file name should 8.3
 #: defaultSaveMessageAsFileName
 msgid "message.eml"
 msgstr ""
@@ -202,10 +184,6 @@ msgstr ""
 #: saveMessageFailed
 msgid ""
 "Unable to save the message. Please check your file name and try again later."
-msgstr ""
-
-#: notDownloaded
-msgid "(Not Downloaded)"
 msgstr ""
 
 #: fileExists
@@ -341,12 +319,12 @@ msgid ""
 "the new name is not a valid folder name."
 msgstr ""
 
-# LOCALIZATION NOTE(verboseFolderFormat): %1$S is folder name, %2$S is server name
+#. # LOCALIZATION NOTE(verboseFolderFormat): %1$S is folder name, %2$S is server name
 #: verboseFolderFormat
 msgid "%1$S on %2$S"
 msgstr ""
 
-# LOCALIZATION NOTE(filterFolderTruncateFailed): %1$S is replaced by the folder name, %2$S is replaced by the brandShortName
+#. # LOCALIZATION NOTE(filterFolderTruncateFailed): %1$S is replaced by the folder name, %2$S is replaced by the brandShortName
 #: filterFolderTruncateFailed
 msgid ""
 "There was an error truncating the Inbox after filtering a message to folder "
@@ -369,18 +347,13 @@ msgstr ""
 msgid "(Default)"
 msgstr ""
 
-#: useDefaultServer
-msgid "Use default server"
-msgstr ""
-
-# Used in message database list view to provide a text value for graphic based cells.
+#. # Used in message database list view to provide a text value for graphic based cells.
 #: messageUnread
 msgid "Unread"
 msgstr ""
 
 #: messageHasFlag
-#: groupFlagged
-#: flagged
+msgctxt "messageHasFlag"
 msgid "Starred"
 msgstr ""
 
@@ -388,10 +361,8 @@ msgstr ""
 msgid "Has Attachment"
 msgstr ""
 
-# for junk status picker in search and mail views
 #: messageJunk
-#: junkFolderName
-#: junk
+msgctxt "messageJunk"
 msgid "Junk"
 msgstr ""
 
@@ -403,13 +374,13 @@ msgstr ""
 msgid "Collapsed"
 msgstr ""
 
-# Used in the SMTP Account Settings panel when a server value has no properties
+#. # Used in the SMTP Account Settings panel when a server value has no properties
 #: smtpServerList-NotSpecified
 msgid "<not specified>"
 msgstr ""
 
 #: smtpServer-SecureConnection-Type_0
-#: smtpServer-SecureAuthentication-Type-false
+msgctxt "smtpServer-SecureConnection-Type_0"
 msgid "No"
 msgstr ""
 
@@ -423,6 +394,11 @@ msgstr ""
 
 #: smtpServer-SecureConnection-Type_3
 msgid "SMTP-over-SSL"
+msgstr ""
+
+#: smtpServer-SecureAuthentication-Type-false
+msgctxt "smtpServer-SecureAuthentication-Type-false"
+msgid "No"
 msgstr ""
 
 #: smtpServer-SecureAuthentication-Type-true
@@ -439,17 +415,17 @@ msgid ""
 " %S?"
 msgstr ""
 
-# LOCALIZATION NOTE(serverType-nntp): Do not translate "NNTP" in the line below
+#. # LOCALIZATION NOTE(serverType-nntp): Do not translate "NNTP" in the line below
 #: serverType-nntp
 msgid "News Server (NNTP)"
 msgstr ""
 
-# LOCALIZATION NOTE(serverType-pop3): Do not translate "POP" in the line below
+#. # LOCALIZATION NOTE(serverType-pop3): Do not translate "POP" in the line below
 #: serverType-pop3
 msgid "POP Mail Server"
 msgstr ""
 
-# LOCALIZATION NOTE(serverType-imap): Do not translate "IMAP" in the line below
+#. # LOCALIZATION NOTE(serverType-imap): Do not translate "IMAP" in the line below
 #: serverType-imap
 msgid "IMAP Mail Server"
 msgstr ""
@@ -458,7 +434,6 @@ msgstr ""
 msgid "Local Mail Store"
 msgstr ""
 
-# LOCALIZATION NOTE(serverType-movemail): DONT_TRANSLATE
 #: sizeColumnTooltip
 msgid "Click to sort by size"
 msgstr ""
@@ -475,7 +450,7 @@ msgstr ""
 msgid "Lines"
 msgstr ""
 
-# status feedback stuff
+#. # status feedback stuff
 #: documentDone
 msgid ""
 "_: documentDone\n"
@@ -483,6 +458,13 @@ msgstr ""
 
 #: documentLoading
 msgid "Loading Message…"
+msgstr ""
+
+#. # LOCALIZATION NOTE (autosyncProgress): Do not translate the word "%1$S" or "%2$S" below.
+#. # Place the word %1$S in your translation where the name of the comma separated folders should appear.
+#. # Place the word %2$S in your translation where the name of the comma separated accounts should appear.
+#: autosyncProgress
+msgid "Synchronizing messages in %1$S from %2$S…"
 msgstr ""
 
 #: unreadMsgStatus
@@ -497,12 +479,12 @@ msgstr ""
 msgid "Total: %S"
 msgstr ""
 
-# localized folder names
+#. # localized folder names
 #: localFolders
 msgid "Local Folders"
 msgstr ""
 
-# LOCALIZATION NOTE (inboxFolderName): OK to translate all foldernames, bugzilla #57440 & bugzilla #23625 fixed
+#. # LOCALIZATION NOTE (inboxFolderName): OK to translate all foldernames, bugzilla #57440 & bugzilla #23625 fixed
 #: inboxFolderName
 msgid "Inbox"
 msgstr ""
@@ -523,12 +505,17 @@ msgstr ""
 msgid "Templates"
 msgstr ""
 
-#: unsentFolderName
-msgid "Unsent"
+#: outboxFolderName
+msgid "Outbox"
 msgstr ""
 
-# Error message for special folder deletion on imap accounts
-# LOCALIZATION NOTE (specialFolderDeletionErr): Do not translate "IMAP" in the line below
+#: junkFolderName
+msgctxt "junkFolderName"
+msgid "Junk"
+msgstr ""
+
+#. # Error message for special folder deletion on imap accounts
+#. # LOCALIZATION NOTE (specialFolderDeletionErr): Do not translate "IMAP" in the line below
 #: specialFolderDeletionErr
 msgid "Deletion of special folder %S is not allowed for IMAP accounts."
 msgstr ""
@@ -537,8 +524,8 @@ msgstr ""
 msgid "Special Folder Deletion"
 msgstr ""
 
-# "Normal" priority is often blank,
-# depending on the consumers of these strings
+#. # "Normal" priority is often blank,
+#. # depending on the consumers of these strings
 #: priorityLowest
 msgid "Lowest"
 msgstr ""
@@ -559,7 +546,7 @@ msgstr ""
 msgid "Highest"
 msgstr ""
 
-#Group by date thread pane titles
+#. #Group by date thread pane titles
 #: today
 msgid "Today"
 msgstr ""
@@ -580,22 +567,22 @@ msgstr ""
 msgid "Old Mail"
 msgstr ""
 
-#Grouped By Tags
+#. #Grouped By Tags
 #: untaggedMessages
 msgid "Untagged Messages"
 msgstr ""
 
-# Grouped by status
+#. # Grouped by status
 #: messagesWithNoStatus
 msgid "No Status"
 msgstr ""
 
-#Grouped by priority
+#. #Grouped by priority
 #: noPriority
 msgid "No Priority"
 msgstr ""
 
-#Grouped by has attachments
+#. #Grouped by has attachments
 #: noAttachments
 msgid "No Attachments"
 msgstr ""
@@ -604,13 +591,18 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-#Grouped by starred
+#. #Grouped by starred
 #: notFlagged
 msgid "Not Starred"
 msgstr ""
 
-# defaults descriptions for tag prefs listed in mailnews.js
-# (we keep the .labels. names for backwards compatibility)
+#: groupFlagged
+msgctxt "groupFlagged"
+msgid "Starred"
+msgstr ""
+
+#. # defaults descriptions for tag prefs listed in mailnews.js
+#. # (we keep the .labels. names for backwards compatibility)
 #: mailnews.tags.remove
 msgid "Remove All Tags"
 msgstr ""
@@ -635,15 +627,15 @@ msgstr ""
 msgid "Later"
 msgstr ""
 
-# Format definition tag menu texts.
-# This is necessary in order to get the accesskeys to be the on the first
-# character of the menu text instead of after the menu text.
-# If a key definition exists for the tag at index n, that key's key will be
-# taken as the accesskey, eg.
-#   <key id="key_tag3" key="&tagCmd3.key;" oncommand="ToggleMessageTagKey(3);"/>
-# makes the third tag have the accesskey &tagCmd3.key;.
-# In the menuitem's label, this accesskey appears at %1$S below; %2$S will be
-# replaced by the tag label.
+#. # Format definition tag menu texts.
+#. # This is necessary in order to get the accesskeys to be the on the first
+#. # character of the menu text instead of after the menu text.
+#. # If a key definition exists for the tag at index n, that key's key will be
+#. # taken as the accesskey, eg.
+#. #   <key id="key_tag3" key="&tagCmd3.key;" oncommand="ToggleMessageTagKey(3);"/>
+#. # makes the third tag have the accesskey &tagCmd3.key;.
+#. # In the menuitem's label, this accesskey appears at %1$S below; %2$S will be
+#. # replaced by the tag label.
 #: mailnews.tags.format
 msgid "%1$S %2$S"
 msgstr ""
@@ -664,72 +656,114 @@ msgstr ""
 msgid "Read"
 msgstr ""
 
-# for the has attachment picker in search and mail views
+#: flagged
+msgctxt "flagged"
+msgid "Starred"
+msgstr ""
+
+#. # for junk status picker in search and mail views
+#: junk
+msgctxt "junk"
+msgid "Junk"
+msgstr ""
+
+#. # for junk score origin picker in search and mail views
+#: junkScoreOriginPlugin
+msgid "Plugin"
+msgstr ""
+
+#: junkScoreOriginFilter
+msgid "Filter"
+msgstr ""
+
+#: junkScoreOriginWhitelist
+msgid "Whitelist"
+msgstr ""
+
+#: junkScoreOriginUser
+msgid "User"
+msgstr ""
+
+#: junkScoreOriginImapFlag
+msgid "IMAP Flag"
+msgstr ""
+
+#. # for the has attachment picker in search and mail views
 #: hasAttachments
 msgid "Has Attachments"
 msgstr ""
 
-# for the Tag picker in search and mail views.
+#. # for the Tag picker in search and mail views.
 #: tag
 msgid "Tags"
 msgstr ""
 
-# mailnews.js
+#. # mailnews.js
 #: mailnews.send_default_charset
-#: mailnews.view_default_charset
+msgctxt "mailnews.send_default_charset"
 msgid "ISO-8859-1"
 msgstr ""
 
-# generate display names in last first order
-# valid mail.addr_book.displayName.lastnamefirst are: true or false
-# valid mail.addr_book.show_phonetic_fields are: true or false
+#: mailnews.view_default_charset
+msgctxt "mailnews.view_default_charset"
+msgid "ISO-8859-1"
+msgstr ""
+
+#. # generate display names in last first order
+#. # valid mail.addr_book.displayName.lastnamefirst are: true or false
 #: mail.addr_book.displayName.lastnamefirst
-#: mail.addr_book.show_phonetic_fields
+msgctxt "mail.addr_book.displayName.lastnamefirst"
 msgid "false"
 msgstr ""
 
-# the format for "mail.addr_book.quicksearchquery.format" is:
-# @V == the escaped value typed in the quick search bar in the addressbook
-#
-# note, changing this might require a change to SearchNameOrEmail.label
-# in messenger.dtd
-#
-# LOCALIZATION NOTE - please add phonetic names as below when "mail.addr_book.show_phonetic_fields" is true
-# "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V)(PhoneticFirstName,c,@V)(PhoneticLastName,c,@V))"
-#
+#. # the format for "mail.addr_book.quicksearchquery.format" is:
+#. # @V == the escaped value typed in the quick search bar in the addressbook
+#. #
+#. # note, changing this might require a change to SearchNameOrEmail.label
+#. # in messenger.dtd
+#. #
+#. # LOCALIZATION NOTE - please add phonetic names as below when "mail.addr_book.show_phonetic_fields" is true
+#. # "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V)(PhoneticFirstName,c,@V)(PhoneticLastName,c,@V))"
+#. #
 #: mail.addr_book.quicksearchquery.format
 msgid ""
 "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
 msgstr ""
 
-# valid format options are:
-# 1: yyyy/mm/dd
-# 2: yyyy/dd/mm
-# 3: mm/dd/yyyy
-# 4: mm/yyyy/dd
-# 5: dd/mm/yyyy
-# 6: dd/yyyy/mm
-#
-# 0: auto-detect the current locale format
-#    a separator has to be either '/', '-', '.' and the year in Chistian year
-#    otherwise mm/dd/yyyy (option 3) is used
-#
+#. # valid mail.addr_book.show_phonetic_fields are: true or false
+#: mail.addr_book.show_phonetic_fields
+msgctxt "mail.addr_book.show_phonetic_fields"
+msgid "false"
+msgstr ""
+
+#. # valid format options are:
+#. # 1: yyyy/mm/dd
+#. # 2: yyyy/dd/mm
+#. # 3: mm/dd/yyyy
+#. # 4: mm/yyyy/dd
+#. # 5: dd/mm/yyyy
+#. # 6: dd/yyyy/mm
+#. #
+#. # 0: auto-detect the current locale format
+#. #    a separator has to be either '/', '-', '.' and the year in Chistian year
+#. #    otherwise mm/dd/yyyy (option 3) is used
+#. #
 #: mailnews.search_date_format
 msgid "0"
 msgstr ""
 
-# separator for search date (e.g. "/", "-"), or empty when search_date_format is zero
+#. # separator for search date (e.g. "/", "-"), or empty when search_date_format is zero
 #: mailnews.search_date_separator
+msgctxt "mailnews.search_date_separator"
 msgid ""
-"_: mailnews.search_date_separator\n"
 msgstr ""
 
-# leading zeros for day and month values, not used if mailnews.search_date_format is not zero
+#. # leading zeros for day and month values, not used if mailnews.search_date_format is not zero
 #: mailnews.search_date_leading_zeros
 msgid "true"
 msgstr ""
 
-# offline msg 
+#. # offline msg
 #: nocachedbodybody
 msgid ""
 "The body of this message has not been downloaded from the server for reading "
@@ -740,12 +774,12 @@ msgid ""
 "Disk Space preference to prevent the downloading of large messages."
 msgstr ""
 
-# accountCentral
+#. # accountCentral
 #: mailnews.account_central_page.url
 msgid "chrome://messenger/content/msgAccountCentral.xul"
 msgstr ""
 
-# LOCALIZATION NOTE(acctCentralTitleFormat): %1$S is brand, %2$S is account type, %3$S is account name
+#. # LOCALIZATION NOTE(acctCentralTitleFormat): %1$S is brand, %2$S is account type, %3$S is account name
 #: acctCentralTitleFormat
 msgid "%1$S %2$S - %3$S"
 msgstr ""
@@ -758,12 +792,12 @@ msgstr ""
 msgid "News"
 msgstr ""
 
-# LOCALIZATION NOTE(nocachedbodytitle): Do not translate "<TITLE>" or "</TITLE>" in the line below
+#. # LOCALIZATION NOTE(nocachedbodytitle): Do not translate "<TITLE>" or "</TITLE>" in the line below
 #: nocachedbodytitle
 msgid "<TITLE>Go Online to View This Message</TITLE>\n"
 msgstr ""
 
-# mailWindowOverlay.js
+#. # mailWindowOverlay.js
 #: confirmUnsubscribeTitle
 msgid "Confirm Unsubscribe"
 msgstr ""
@@ -772,17 +806,7 @@ msgstr ""
 msgid "Are you sure you want to unsubscribe from %S?"
 msgstr ""
 
-#: cannotHaveTwoFilterRulesDialogs
-msgid "Filter Rules Dialog"
-msgstr ""
-
-#: cannotHaveTwoFilterRulesText
-msgid ""
-"The filter cannot be created because the Filter Rules dialog is already in "
-"use. Please close the dialog and try again."
-msgstr ""
-
-# msgHdrViewOverlay.js
+#. # msgHdrViewOverlay.js
 #: openLabel
 msgid "Open"
 msgstr ""
@@ -834,20 +858,15 @@ msgstr ""
 msgid "Failed to delete the selected attachments."
 msgstr ""
 
-# LOCALIZATION NOTE(attachmentDeletePrefix): Do not translate until foreign language attachment names are fixed
-#: attachmentDeletePrefix
-msgid "Deleted: %S"
-msgstr ""
-
-# This is the format for prepending accesskeys to the
-# each of the attachments in the file|attachments menu:
-#   ie: 1 file.txt
-#       2 another file.txt
+#. # This is the format for prepending accesskeys to the
+#. # each of the attachments in the file|attachments menu:
+#. #   ie: 1 file.txt
+#. #       2 another file.txt
 #: attachmentDisplayNameFormat
 msgid "%S %S"
 msgstr ""
 
-# Connection Error Messages
+#. # Connection Error Messages
 #: 101
 msgid "Unknown Error"
 msgstr ""
@@ -872,7 +891,7 @@ msgstr ""
 msgid "Subject or From contains:"
 msgstr ""
 
-# LOCALIZATION NOTE(biffNotification): %1$S is the number of new messages  
+#. # LOCALIZATION NOTE(biffNotification): %1$S is the number of new messages
 #: biffNotification_message
 msgid "has %1$S new message"
 msgstr ""
@@ -881,7 +900,7 @@ msgstr ""
 msgid "has %1$S new messages"
 msgstr ""
 
-# LOCALIZATION NOTE(biffNotification): %1$S is the name of the account %2$S is the number of new messages  
+#. # LOCALIZATION NOTE(biffNotification): %1$S is the name of the account %2$S is the number of new messages
 #: newBiffNotification_message
 msgid "%1$S has %2$S new message"
 msgstr ""
@@ -890,7 +909,7 @@ msgstr ""
 msgid "%1$S has %2$S new messages"
 msgstr ""
 
-# For the Quota tab in the mail folder properties dialog
+#. # For the Quota tab in the mail folder properties dialog
 #: quotaUsedFree
 msgid "%S of %S KB used"
 msgstr ""
@@ -899,7 +918,7 @@ msgstr ""
 msgid "%S%% full"
 msgstr ""
 
-# for quota in main window (commandglue.js)
+#. # for quota in main window (commandglue.js)
 #: percent
 msgid "%S%%"
 msgstr ""
@@ -908,12 +927,9 @@ msgstr ""
 msgid "IMAP quota: %S KB used of %S KB total. Click for details."
 msgstr ""
 
-# for message views
-# for checking if the user really wants to open lots of messages
-# mailCommands.js
+#. # for message views
 #: confirmViewDeleteTitle
-#: openWindowWarningTitle
-#: emptyJunkTitle
+msgctxt "confirmViewDeleteTitle"
 msgid "Confirm"
 msgstr ""
 
@@ -921,54 +937,60 @@ msgstr ""
 msgid "Are you sure you want to delete this view?"
 msgstr ""
 
-# for virtual folders
+#. # for virtual folders
 #: confirmSavedSearchDeleteMessage
 msgid "Are you sure you want to delete this saved search?"
 msgstr ""
 
-## @name ENTER_PASSWORD_PROMPT
-## @loc None
-# LOCALIZATION NOTE (passwordPrompt): Do not translate the word %S below.
-# Place the word "%S" in your translation where the email address
-# or the username should appear
+#. ## @name ENTER_PASSWORD_PROMPT
+#. ## @loc None
+#. # LOCALIZATION NOTE (passwordPrompt): Do not translate the word %S below.
+#. # Place the word "%S" in your translation where the email address
+#. # or the username should appear
 #: passwordPrompt
 msgid "Enter your password for %1$S on %2$S:"
 msgstr ""
 
-## @name ENTER_PASSWORD_PROMPT_TITLE
-## @loc None
+#. ## @name ENTER_PASSWORD_PROMPT_TITLE
+#. ## @loc None
 #: passwordTitle
 msgid "Mail Server Password Required"
+msgstr ""
+
+#. # for checking if the user really wants to open lots of messages
+#: openWindowWarningTitle
+msgctxt "openWindowWarningTitle"
+msgid "Confirm"
 msgstr ""
 
 #: openWindowWarningText
 msgid "Opening %S messages may be slow.  Continue?"
 msgstr ""
 
-# for warning the user that a tag they're trying to create already exists
+#. # for warning the user that a tag they're trying to create already exists
 #: tagExists
 msgid "A tag with that name already exists."
 msgstr ""
 
-# title of the edit tag dialog
+#. # title of the edit tag dialog
 #: editTagTitle
 msgid "Edit Tag"
 msgstr ""
 
-# for the virtual folder list dialog title
-# %S is the name of the saved search folder
+#. # for the virtual folder list dialog title
+#. # %S is the name of the saved search folder
 #: editVirtualFolderPropertiesTitle
 msgid "Edit Saved Search Properties for %S"
 msgstr ""
 
-#alert to inform the user to choose one or more folders to search for a saved search folder
+#. #alert to inform the user to choose one or more folders to search for a saved search folder
 #: alertNoSearchFoldersSelected
 msgid ""
 "You must choose at least one folder to search for the saved search folder."
 msgstr ""
 
-# These two are displayed in the message and folder pane windows
-# LOCALIZATION NOTE(????ByteAbbreviation): Do not translate %d below, it is the size of the message/folder
+#. # These two are displayed in the message and folder pane windows
+#. # LOCALIZATION NOTE(????ByteAbbreviation): Do not translate %d below, it is the size of the message/folder
 #: kiloByteAbbreviation
 msgid "%dKB"
 msgstr ""
@@ -977,7 +999,7 @@ msgstr ""
 msgid "%dMB"
 msgstr ""
 
-# Error message if message for a message id wasn't found
+#. # Error message if message for a message id wasn't found
 #: errorOpenMessageForMessageIdTitle
 msgid "Error opening message-id"
 msgstr ""
@@ -986,12 +1008,12 @@ msgstr ""
 msgid "Message for message-id %S not found"
 msgstr ""
 
-# Warnings to alert users about phishing urls
+#. # Warnings to alert users about phishing urls
 #: confirmPhishingTitle
 msgid "Email Scam Alert"
 msgstr ""
 
-#LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
+#. #LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
 #: confirmPhishingUrl
 msgid ""
 "%1$S thinks this message is a scam. The links in the message may be trying "
@@ -999,9 +1021,14 @@ msgid ""
 "%2$S?"
 msgstr ""
 
-# Check for Updates
+#. # Check for Updates
 #: updatesItem_default
+msgctxt "updatesItem_default"
+msgid "Check for Updates…"
+msgstr ""
+
 #: updatesItem_defaultFallback
+msgctxt "updatesItem_defaultFallback"
 msgid "Check for Updates…"
 msgstr ""
 
@@ -1022,12 +1049,17 @@ msgid "Resume Downloading Update…"
 msgstr ""
 
 #: updatesItem_pending
-#: updatesItem_pendingFallback
+msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
 msgstr ""
 
-# Folder Pane Header Title Strings
-#: folderPaneHeader
+#: updatesItem_pendingFallback
+msgctxt "updatesItem_pendingFallback"
+msgid "Apply Downloaded Update Now…"
+msgstr ""
+
+#. # Folder Pane Header Title Strings
+#: folderPaneHeader_all
 msgid "All Folders"
 msgstr ""
 
@@ -1035,7 +1067,7 @@ msgstr ""
 msgid "Unread Folders"
 msgstr ""
 
-#: folderPaneHeader_favorites
+#: folderPaneHeader_favorite
 msgid "Favorite Folders"
 msgstr ""
 
@@ -1043,39 +1075,46 @@ msgstr ""
 msgid "Recent Folders"
 msgstr ""
 
-# Copy / Move to Folder Again
-#LOCALIZATION NOTE %1$S is the name of the folder we will move to. moveToFolderAgainAccessKey
-# should have the same value as copyToFolderAgainAccessKey as they are the same menu item in the UI
-# moveToFolderAgainAccessKey should also be a letter that occurs before %1$S
+#. # Copy / Move to Folder Again
+#. #LOCALIZATION NOTE %1$S is the name of the folder we will move to. moveToFolderAgainAccessKey
+#. # should have the same value as copyToFolderAgainAccessKey as they are the same menu item in the UI
+#. # moveToFolderAgainAccessKey should also be a letter that occurs before %1$S
 #: moveToFolderAgain
 msgid "Move to \"%1$S\" Again"
 msgstr ""
 
 #: moveToFolderAgainAccessKey
-#: copyToFolderAgainAccessKey
+msgctxt "moveToFolderAgainAccessKey"
 msgid "t"
 msgstr ""
 
-#LOCALIZATION NOTE %1$S is the name of the folder we will copy to
-# copyToFolderAgainAccessKey
-# should have the same value as moveToFolderAgainAccessKey as they are the same menu item in the UI
-# copyToFolderAgainAccessKey should also be a letter that occurs before %1$S
+#. #LOCALIZATION NOTE %1$S is the name of the folder we will copy to
+#. # copyToFolderAgainAccessKey
+#. # should have the same value as moveToFolderAgainAccessKey as they are the same menu item in the UI
+#. # copyToFolderAgainAccessKey should also be a letter that occurs before %1$S
 #: copyToFolderAgain
 msgid "Copy to \"%1$S\" Again"
 msgstr ""
 
-#LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
+#: copyToFolderAgainAccessKey
+msgctxt "copyToFolderAgainAccessKey"
+msgid "t"
+msgstr ""
+
+#. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
 #: alwaysLoadRemoteContentForSender1
 msgid "Always load remote images from %1$S"
 msgstr ""
 
-# Strings for growl notifications on Mac OS X
-#: subjectNotificationTitle
-msgid "Subject: \"%1$S\""
+#. # Strings for growl notifications on Mac OS X
+#: growlNotification
+msgid "New Mail"
 msgstr ""
 
-#: senderNotificationText
-msgid "Sender: \"%1$S\""
+#. # mailCommands.js
+#: emptyJunkTitle
+msgctxt "emptyJunkTitle"
+msgid "Confirm"
 msgstr ""
 
 #: emptyJunkMessage
@@ -1085,5 +1124,37 @@ msgid ""
 msgstr ""
 
 #: emptyJunkDontAsk
+msgctxt "emptyJunkDontAsk"
 msgid "Don't ask me again."
+msgstr ""
+
+#: emptyTrashTitle
+msgctxt "emptyTrashTitle"
+msgid "Confirm"
+msgstr ""
+
+#: emptyTrashMessage
+msgid ""
+"Are you sure you want to permanently delete all messages and subfolders in "
+"the Trash folder?"
+msgstr ""
+
+#: emptyTrashDontAsk
+msgctxt "emptyTrashDontAsk"
+msgid "Don't ask me again."
+msgstr ""
+
+#. # junkCommands.js
+#: junkAnalysisPercentComplete
+msgid "Junk analysis %S complete"
+msgstr ""
+
+#: processingJunkMessages
+msgid "Processing Junk Messages"
+msgstr ""
+
+#. # second person direct object pronoun; used in the collapsed header view if
+#. # the user is in the To or Cc field of a message
+#: headerFieldYou
+msgid "You"
 msgstr ""

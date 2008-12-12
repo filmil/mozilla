@@ -1,64 +1,66 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is mozilla.org code.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 2001
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/mail/chrome/messenger/importMsgs.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is mozilla.org code.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 2001
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #     Jeff Beckley <beckley@qualcomm.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/importMsgs.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-25 22:56+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #
-# The following are used by the import code to display status/error 
+# The following are used by the import code to display status/error
 # and informational messages
 #
 # Success message when no address books are found to import
 # # @name IMPORT_NO_ADDRBOOKS
 # # @loc None
-# The following are used by the import code to display status/error
-# # @name IMPORT_NO_ADDRBOOKS
-# # @loc None
+#. # The following are used by the import code to display status/error 
+#. # and informational messages
+#. # Success message when no address books are found to import
+#. ## @name IMPORT_NO_ADDRBOOKS
+#. ## @loc None
 #: 2000
 msgid "No address books were found to import."
 msgstr "Ниједан адресар није пронађен за увоз."
@@ -66,8 +68,9 @@ msgstr "Ниједан адресар није пронађен за увоз."
 # Error: Address book import not intialized\t\t
 # # @name IMPORT_ERROR_AB_NOTINITIALIZED
 # # @loc None
-# # @name IMPORT_ERROR_AB_NOTINITIALIZED
-# # @loc None
+#. # Error: Address book import not intialized\t\t
+#. ## @name IMPORT_ERROR_AB_NOTINITIALIZED
+#. ## @loc None
 #: 2001
 msgid "Unable to import address books: initialization error."
 msgstr "Није могуће увести адресаре: грешка при иницијализацији."
@@ -75,8 +78,9 @@ msgstr "Није могуће увести адресаре: грешка при
 # Error: Unable to create the import thread
 # # @name IMPORT_ERROR_AB_NOTHREAD
 # # @loc None
-# # @name IMPORT_ERROR_AB_NOTHREAD
-# # @loc None
+#. # Error: Unable to create the import thread
+#. ## @name IMPORT_ERROR_AB_NOTHREAD
+#. ## @loc None
 #: 2002
 msgid "Unable to import address books: cannot create import thread."
 msgstr "Није могуће увести адресаре: није могуће начинити увезену нит."
@@ -85,8 +89,10 @@ msgstr "Није могуће увести адресаре: није могућ
 # # @name IMPORT_ERROR_GETABOOK
 # # @loc None
 # LOCALIZATION NOTE (Error 2003): Do not translate the word "%S" below.
-# # @name IMPORT_ERROR_GETABOOK
-# # @loc None
+#. # Error: Unable to create the import thread
+#. ## @name IMPORT_ERROR_GETABOOK
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 2003): Do not translate the word "%S" below.
 #: 2003
 msgid "Error importing %S: unable to create address book."
 msgstr "Грешка при увозу %S: није могуће увести адресар."
@@ -94,8 +100,9 @@ msgstr "Грешка при увозу %S: није могуће увести а
 # Success message when no mailboxes are found to import
 # # @name IMPORT_NO_MAILBOXES
 # # @loc None
-# # @name IMPORT_NO_MAILBOXES
-# # @loc None
+#. # Success message when no mailboxes are found to import
+#. ## @name IMPORT_NO_MAILBOXES
+#. ## @loc None
 #: 2004
 msgid "No mailboxes were found to import"
 msgstr "Није нађено ниједно сандуче за увоз."
@@ -103,8 +110,9 @@ msgstr "Није нађено ниједно сандуче за увоз."
 # Error: Mailbox import not intialized\t\t
 # # @name IMPORT_ERROR_MB_NOTINITIALIZED
 # # @loc None
-# # @name IMPORT_ERROR_MB_NOTINITIALIZED
-# # @loc None
+#. # Error: Mailbox import not intialized\t\t
+#. ## @name IMPORT_ERROR_MB_NOTINITIALIZED
+#. ## @loc None
 #: 2005
 msgid "Unable to import mailboxes, initialization error"
 msgstr "Није могуће увести сандучиће, грешка при иницијализацији"
@@ -112,8 +120,9 @@ msgstr "Није могуће увести сандучиће, грешка пр
 # Error: Unable to create the import thread
 # # @name IMPORT_ERROR_MB_NOTHREAD
 # # @loc None
-# # @name IMPORT_ERROR_MB_NOTHREAD
-# # @loc None
+#. # Error: Unable to create the import thread
+#. ## @name IMPORT_ERROR_MB_NOTHREAD
+#. ## @loc None
 #: 2006
 msgid "Unable to import mailboxes, cannot create import thread"
 msgstr "Није могуће увести сандучиће, није могуће начинити нит за увоз"
@@ -121,8 +130,9 @@ msgstr "Није могуће увести сандучиће, није могу
 # Error: Unable to create the proxy object for importing mailboxes
 # # @name IMPORT_ERROR_MB_NOPROXY
 # # @loc None
-# # @name IMPORT_ERROR_MB_NOPROXY
-# # @loc None
+#. # Error: Unable to create the proxy object for importing mailboxes
+#. ## @name IMPORT_ERROR_MB_NOPROXY
+#. ## @loc None
 #: 2007
 msgid ""
 "Unable to import mailboxes, cannot create proxy object for destination "
@@ -136,8 +146,11 @@ msgstr ""
 # # @loc None
 # LOCALIZATION NOTE (Error 2008): Do not translate the word "%S" below.
 # Place %S in your translation where the name of the mailbox should appear.
-# # @name IMPORT_ERROR_MB_FINDCHILD
-# # @loc None
+#. # Error: Error creating destination mailboxes
+#. ## @name IMPORT_ERROR_MB_FINDCHILD
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 2008): Do not translate the word "%S" below.
+#. # Place %S in your translation where the name of the mailbox should appear.
 #: 2008
 msgid "Error creating destination mailboxes, cannot find mailbox %S"
 msgstr ""
@@ -148,8 +161,11 @@ msgstr ""
 # # @loc None
 # LOCALIZATION NOTE (Error 2009): Do not translate the word "%S" below.
 # Place %S in your translation where the name of the mailbox should appear.
-# # @name IMPORT_ERROR_MB_CREATE
-# # @loc None
+#. # Error: Error creating destination mailboxes
+#. ## @name IMPORT_ERROR_MB_CREATE
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 2009): Do not translate the word "%S" below.
+#. # Place %S in your translation where the name of the mailbox should appear.
 #: 2009
 msgid "Error importing mailbox %S, unable to create destination mailbox"
 msgstr "Грешка при увозу сандучета %S, није могуће начинити одредишно сандуче"
@@ -157,8 +173,9 @@ msgstr "Грешка при увозу сандучета %S, није могу�
 # Error: No destination folder to import mailboxes
 # # @name IMPORT_ERROR_MB_NODESTFOLDER
 # # @loc None
-# # @name IMPORT_ERROR_MB_NODESTFOLDER
-# # @loc None
+#. # Error: No destination folder to import mailboxes
+#. ## @name IMPORT_ERROR_MB_NODESTFOLDER
+#. ## @loc None
 #: 2010
 msgid "Unable to create folder to import mail into"
 msgstr "Није могуће начинити директоријум у који би се увезла пошта"
@@ -166,8 +183,9 @@ msgstr "Није могуће начинити директоријум у ко�
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC_START
 # # @loc None
-# # @name IMPORT_FIELD_DESC_START
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC_START
+#. ## @loc None
 #: 2100
 msgid "First Name"
 msgstr "Име"
@@ -175,8 +193,9 @@ msgstr "Име"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2101
 msgid "Last Name"
 msgstr "Презиме"
@@ -184,6 +203,9 @@ msgstr "Презиме"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2102
 msgid "Display Name"
 msgstr "Приказано име"
@@ -191,6 +213,9 @@ msgstr "Приказано име"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2103
 msgid "Nickname"
 msgstr "Надимак"
@@ -198,8 +223,9 @@ msgstr "Надимак"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2104
 msgid "Primary Email"
 msgstr "Прва ел. адреса"
@@ -207,8 +233,9 @@ msgstr "Прва ел. адреса"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2105
 msgid "Secondary Email"
 msgstr "Друга ел. адреса"
@@ -216,6 +243,9 @@ msgstr "Друга ел. адреса"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2106
 msgid "Work Phone"
 msgstr "Тел. на послу"
@@ -223,6 +253,9 @@ msgstr "Тел. на послу"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2107
 msgid "Home Phone"
 msgstr "Тел. кућни"
@@ -230,8 +263,9 @@ msgstr "Тел. кућни"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2108
 msgid "Fax Number"
 msgstr "Број факса"
@@ -239,8 +273,9 @@ msgstr "Број факса"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2109
 msgid "Pager Number"
 msgstr "Број пејџера"
@@ -248,8 +283,9 @@ msgstr "Број пејџера"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2110
 msgid "Mobile Number"
 msgstr "Број мобилног"
@@ -257,8 +293,9 @@ msgstr "Број мобилног"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2111
 msgid "Home Address"
 msgstr "Кућна адреса"
@@ -266,8 +303,9 @@ msgstr "Кућна адреса"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2112
 msgid "Home Address 2"
 msgstr "Кућна адреса 2"
@@ -275,8 +313,9 @@ msgstr "Кућна адреса 2"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2113
 msgid "Home City"
 msgstr "Град"
@@ -284,8 +323,9 @@ msgstr "Град"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2114
 msgid "Home State"
 msgstr "Област"
@@ -293,8 +333,9 @@ msgstr "Област"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2115
 msgid "Home ZipCode"
 msgstr "Поштански број"
@@ -302,8 +343,9 @@ msgstr "Поштански број"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2116
 msgid "Home Country"
 msgstr "Држава"
@@ -311,8 +353,9 @@ msgstr "Држава"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2117
 msgid "Work Address"
 msgstr "Пословна адреса"
@@ -320,8 +363,9 @@ msgstr "Пословна адреса"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2118
 msgid "Work Address 2"
 msgstr "Пословна адреса 2"
@@ -329,8 +373,9 @@ msgstr "Пословна адреса 2"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2119
 msgid "Work City"
 msgstr "Пословни град"
@@ -338,8 +383,9 @@ msgstr "Пословни град"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2120
 msgid "Work State"
 msgstr "Пословна област"
@@ -347,8 +393,9 @@ msgstr "Пословна област"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2121
 msgid "Work ZipCode"
 msgstr "Пословни поштански број"
@@ -356,8 +403,9 @@ msgstr "Пословни поштански број"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2122
 msgid "Work Country"
 msgstr "Пословна држава"
@@ -365,8 +413,9 @@ msgstr "Пословна држава"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2123
 msgid "Job Title"
 msgstr "Опис посла"
@@ -374,6 +423,9 @@ msgstr "Опис посла"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2124
 msgid "Department"
 msgstr "Одељење"
@@ -381,6 +433,9 @@ msgstr "Одељење"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2125
 msgid "Organization"
 msgstr "Организација"
@@ -388,8 +443,9 @@ msgstr "Организација"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2126
 msgid "Web Page 1"
 msgstr "Интернет страна 1"
@@ -397,8 +453,9 @@ msgstr "Интернет страна 1"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2127
 msgid "Web Page 2"
 msgstr "Интернет страна 2"
@@ -406,8 +463,9 @@ msgstr "Интернет страна 2"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2128
 msgid "Birth Year"
 msgstr "Година рођења"
@@ -415,8 +473,9 @@ msgstr "Година рођења"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2129
 msgid "Birth Month"
 msgstr "Месец рођења"
@@ -424,8 +483,9 @@ msgstr "Месец рођења"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
-# # @name IMPORT_FIELD_DESC
-# # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2130
 msgid "Birth Day"
 msgstr "Дан рођења"
@@ -433,6 +493,9 @@ msgstr "Дан рођења"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2131
 msgid "Custom 1"
 msgstr "Произвољно 1"
@@ -440,6 +503,9 @@ msgstr "Произвољно 1"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2132
 msgid "Custom 2"
 msgstr "Произвољно 2"
@@ -447,6 +513,9 @@ msgstr "Произвољно 2"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2133
 msgid "Custom 3"
 msgstr "Произвољно 3"
@@ -454,6 +523,9 @@ msgstr "Произвољно 3"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC
+#. ## @loc None
 #: 2134
 msgid "Custom 4"
 msgstr "Произвољно 4"
@@ -461,37 +533,15 @@ msgstr "Произвољно 4"
 # Description: Address book field name
 # # @name IMPORT_FIELD_DESC_END
 # # @loc None
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC_END
+#. ## @loc None
 #: 2135
 msgid "Notes"
 msgstr "Белешке"
 
-# Description: Strings for the import dialog
-#: ImportMailDialogTitle
-msgid "Import Mail"
-msgstr "Увоз поште"
-
-#: ImportAddressBooksDialogTitle
-msgid "Import Address Books"
-msgstr "Увоз адресара"
-
-#: ImportSettingsDialogTitle
-msgid "Import Settings"
-msgstr "Увоз подешавања"
-
-#: ImportMailListLabel
-msgid "Select application to import mail from:"
-msgstr "Изаберите програм из ког ће бити увезена пошта:"
-
-#: ImportAddressBooksListLabel
-msgid "Select address book format:"
-msgstr "Избор формата адресара"
-
-#: ImportSettingsListLabel
-msgid "Select application to import settings from:"
-msgstr "Избор програма из ког се увозе подешавања:"
-
 # Error strings
-# Error strings
+#. #Error strings
 #: ImportAlreadyInProgress
 msgid ""
 "An import operation is currently in progress. Try again when the current "
@@ -499,7 +549,7 @@ msgid ""
 msgstr "Увоз је тренутно у току. Пробајте касније када се увоз заврши."
 
 # Error strings for settings import
-# Error strings for settings import
+#. #Error strings for settings import
 #: ImportSettingsBadModule
 msgid "Unable to load settings module"
 msgstr "Није могуће учитати модул са подешавањима"
@@ -521,12 +571,13 @@ msgstr ""
 "увезена."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: ImportSettingsSuccess
 msgid "Settings were imported from %S"
 msgstr "Подешавања су увезена из %S"
 
 # Error string for mail import
-# Error string for mail import
+#. #Error string for mail import
 #: ImportMailBadModule
 msgid "Unable to load mail import module"
 msgstr "Није могуће учитати програм за увоз поште"
@@ -544,16 +595,19 @@ msgid "Can't import empty address book %S."
 msgstr "Није могуће увести адресар %S, јер је празан."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE: Do not translate the word "%S" below.
 #: ImportMailFailed
 msgid "An error occurred importing mail from %S"
 msgstr "Дошло је до грешке при увозу поште из %S"
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE: Do not translate the word "%S" below.
 #: ImportMailSuccess
 msgid "Mail was successfully imported from %S"
 msgstr "Пошта је успешно увезена из %S"
 
 # Error string for address import
+#. # Error string for address import
 #: ImportAddressBadModule
 msgid "Unable to load address book import module."
 msgstr "Није могуће учитати модул за увоз адресара."
@@ -567,57 +621,56 @@ msgstr ""
 "програм или формат исправно постављен на овом рачунару."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: ImportAddressFailed
 msgid "An error occurred importing addresses from %S."
 msgstr "Дошло је до грешке при увозу адреса из %S."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: ImportAddressSuccess
 msgid "Addresses successfully imported from %S."
 msgstr "Адресе су успешно увезене из %S."
 
 # Error string for filters import
+#. # Error string for filters import
 #: ImportFiltersBadModule
 msgid "Unable to load filters import module."
 msgstr "Није могуће учитати модул за увоз филтера."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : The %S will get replaced by the name of the import module.
 #: ImportFiltersFailed
 msgid "An error occurred importing filters from %S."
 msgstr "Дошло је до грешке при увозу филтера (%S)."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : The %S will get replaced by the name of the import module.
 #: ImportFiltersSuccess
 msgid "Filters successfully imported from %S."
 msgstr "Филтери су успешно увезени (%S)."
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : The %S will get replaced by the name of the import module.
 #: ImportFiltersPartial
 msgid "Filters partially imported from %S.  Warnings below:"
 msgstr "Филтери су делимично увезени (%S).  Упозорења су дата испод:"
 
-# Progress strings
-# Progress strings
-#: MailProgressTitle
-msgid "Importing Mail"
-msgstr "Увоз поште"
-
-#: AddrProgressTitle
-msgid "Importing Address Books"
-msgstr "Увоз адресара"
-
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. #Progress strings
+#. # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: MailProgressMeterText
 msgid "Converting mailboxes from %S"
 msgstr "Прерада сандучића из %S"
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
+#. # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #: AddrProgressMeterText
 msgid "Converting address books from %S"
 msgstr "Прерада адресара из %S"
 
 # Import file dialog strings
-# Import file dialog strings
+#. #Import file dialog strings
 #: ImportSelectSettings
 msgid "Select settings file"
 msgstr "Изаберите датотеку са подешавањима"
@@ -636,15 +689,19 @@ msgstr "Изаберите датотеку адресара"
 
 # LOCALIZATION NOTE : "Communicator 4.x" is the used for previous versions of Netscape Communicator
 # Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
-# LOCALIZATION NOTE : Please do not translate "*.na2", this represents the extension of the address book 
+# LOCALIZATION NOTE : Please do not translate "*.na2", this represents the extension of the address book
 # files from the Netscape Communicator 4 releases.
 # Comm4.xTo6.xImport user selection string
 # Short name of import module
 # LOCALIZATION NOTE : "Communicator 4.x" below is the used for previous versions of Netscape Communicator
 # # @name COMM4XMAILIMPORT_NAME
 # # @loc None
-# LOCALIZATION NOTE : Please do not translate "*.na2", this represents the extension of the address book
 # (pofilter) unchanged: please translate
+#. # LOCALIZATION NOTE : "Communicator 4.x" is the used for previous versions of Netscape Communicator
+#. # Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
+#. # LOCALIZATION NOTE : Please do not translate "*.na2", this represents the extension of the address book 
+#. # files from the Netscape Communicator 4 releases.
+#. # Comm4.xTo6.xImport user selection string
 #: Comm4xImportName
 msgid "Communicator 4.x"
 msgstr "Communicator 4.x"
@@ -653,27 +710,23 @@ msgstr "Communicator 4.x"
 msgid "Communicator Address Book files (*.na2)"
 msgstr "Комуникаторови адресари (*.na2)"
 
-#: HomeButtonDesc
-msgid "Home"
-msgstr "Кућа"
-
-#: WorkButtonDesc
-msgid "Work"
-msgstr "Посао"
-
 # Folder Names for imported Mail
+#. # Folder Names for imported Mail
 #: DefaultFolderName
 msgid "Imported Mail"
 msgstr "Увезена пошта"
 
-# LOCALIZATION NOTE: Do not translate the word "%S" below.
-#: ModuleFolderName
-msgid "%S Mail"
-msgstr "%S пошта"
+#. # LOCALIZATION NOTE: Do not translate the word "%S" below.
+#: ImportModuleFolderName
+msgid "%S Import"
+msgstr ""
 
 # LOCALIZATION NOTE : "Communicator 4.x" is the used for previous versions of Netscape Communicator
 # Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
 # strings profile dialog that comes up when importing mail from 4.x
+#. # LOCALIZATION NOTE : "Communicator 4.x" is the used for previous versions of Netscape Communicator
+#. # Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
+#. # strings profile dialog that comes up when importing mail from 4.x
 #: profileTitle
 msgid "Communicator 4.x profiles"
 msgstr "Профили из Комуикатора 4.x"

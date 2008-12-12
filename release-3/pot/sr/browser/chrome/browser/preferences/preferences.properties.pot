@@ -1,36 +1,35 @@
-#### Security
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/preferences/preferences.properties
+#. #### Security
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/preferences/preferences.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# LOCALIZATION NOTE: phishBefore uses %S to represent the name of the provider
-#                    whose privacy policy must be accepted (for enabling
-#                    check-every-page-as-I-load-it phishing protection).
+#. # LOCALIZATION NOTE: phishBefore uses %S to represent the name of the provider
+#. #                    whose privacy policy must be accepted (for enabling
+#. #                    check-every-page-as-I-load-it phishing protection).
 #: phishBeforeText
 msgid ""
 "Selecting this option will send the address of web pages you are viewing to "
 "%S. To continue, please review and accept the following terms of service."
 msgstr ""
 
-#### Fonts
+#. #### Fonts
 #: labelDefaultFont
 msgid "Default (%S)"
 msgstr ""
 
-#### Permissions Manager
+#. #### Permissions Manager
 #: cookiepermissionstext
 msgid ""
 "You can specify which web sites are always or never allowed to use cookies. "
@@ -80,17 +79,7 @@ msgstr ""
 msgid "Invalid Hostname Entered"
 msgstr ""
 
-#: moveresizepermissionstext
-msgid ""
-"You can specify which web sites are allowed to move or resize windows. Type "
-"the exact address of the site you want to permit and then click Allow."
-msgstr ""
-
-#: moveresizepermissionstitle
-msgid "Exceptions - Moving or Resizing Windows"
-msgstr ""
-
-#### Master Password
+#. #### Master Password
 #: pw_change2empty_in_fips_mode
 msgid ""
 "You are currently in FIPS mode. FIPS requires a non-empty Master Password."
@@ -100,21 +89,21 @@ msgstr ""
 msgid "Password Change Failed"
 msgstr ""
 
-#### Fonts
-# LOCALIZATION NOTE: Next two strings are for language name representations with
-#   and without the region.
-#   e.g. languageRegionCodeFormat : "French/Canada  [fr-ca]" languageCodeFormat : "French  [fr]"
-#   %1$S = language name, %2$S = region name, %3$S = language-region code
+#. #### Fonts
+#. # LOCALIZATION NOTE: Next two strings are for language name representations with
+#. #   and without the region.
+#. #   e.g. languageRegionCodeFormat : "French/Canada  [fr-ca]" languageCodeFormat : "French  [fr]"
+#. #   %1$S = language name, %2$S = region name, %3$S = language-region code
 #: languageRegionCodeFormat
 msgid "%1$S/%2$S  [%3$S]"
 msgstr ""
 
-#   %1$S = language name, %2$S = language-region code
+#. #   %1$S = language name, %2$S = language-region code
 #: languageCodeFormat
 msgid "%1$S  [%2$S]"
 msgstr ""
 
-#### Downloads
+#. #### Downloads
 #: desktopFolderName
 msgid "Desktop"
 msgstr ""
@@ -127,7 +116,7 @@ msgstr ""
 msgid "Choose Download Folder:"
 msgstr ""
 
-#### Applications
+#. #### Applications
 #: fileEnding
 msgid "%S file"
 msgstr ""
@@ -136,7 +125,7 @@ msgstr ""
 msgid "Save File"
 msgstr ""
 
-# LOCALIZATION NOTE (useApp, useDefault): %S = Application name
+#. # LOCALIZATION NOTE (useApp, useDefault): %S = Application name
 #: useApp
 msgid "Use %S"
 msgstr ""
@@ -173,14 +162,14 @@ msgstr ""
 msgid "Always ask"
 msgstr ""
 
-# LOCALIZATION NOTE (usePluginIn):
-# %1$S = plugin name (for example "QuickTime Plugin-in 7.2")
-# %2$S = brandShortName from brand.properties (for example "Minefield")
+#. # LOCALIZATION NOTE (usePluginIn):
+#. # %1$S = plugin name (for example "QuickTime Plugin-in 7.2")
+#. # %2$S = brandShortName from brand.properties (for example "Minefield")
 #: usePluginIn
 msgid "Use %S (in %S)"
 msgstr ""
 
-# LOCALIZATION NOTE (previewInApp, addLiveBookmarksInApp): %S = brandShortName
+#. # LOCALIZATION NOTE (previewInApp, addLiveBookmarksInApp): %S = brandShortName
 #: previewInApp
 msgid "Preview in %S"
 msgstr ""
@@ -189,14 +178,14 @@ msgstr ""
 msgid "Add Live Bookmarks in %S"
 msgstr ""
 
-# LOCALIZATION NOTE (typeDescriptionWithType):
-# %1$S = type description (for example "Portable Document Format")
-# %2$S = type (for example "application/pdf")
+#. # LOCALIZATION NOTE (typeDescriptionWithType):
+#. # %1$S = type description (for example "Portable Document Format")
+#. # %2$S = type (for example "application/pdf")
 #: typeDescriptionWithType
 msgid "%S (%S)"
 msgstr ""
 
-#### Cookie Viewer
+#. #### Cookie Viewer
 #: hostColon
 msgid "Host:"
 msgstr ""
@@ -249,7 +238,7 @@ msgstr ""
 msgid "Remove Cookie"
 msgstr ""
 
-#### Offline apps
+#. #### Offline apps
 #: offlineAppRemoveTitle
 msgid "Remove offline website data"
 msgstr ""
@@ -264,11 +253,11 @@ msgstr ""
 msgid "Remove offline data"
 msgstr ""
 
-# LOCALIZATION NOTE: The next string is for the disk usage of the
-# offline application
-#   e.g. offlineAppUsage : "50.23 MB"
-#   %1$S = size (in bytes or megabytes, ...)
-#   %2$S = unit of measure (bytes, KB, MB, ...)
+#. # LOCALIZATION NOTE: The next string is for the disk usage of the
+#. # offline application
+#. #   e.g. offlineAppUsage : "50.23 MB"
+#. #   %1$S = size (in bytes or megabytes, ...)
+#. #   %2$S = unit of measure (bytes, KB, MB, ...)
 #: offlineAppUsage
 msgid "%1$S %2$S"
 msgstr ""

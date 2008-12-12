@@ -1,22 +1,11 @@
-# extracted from 
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-03-14 19:06+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 # converted from pseudo-properties .it file
 # This file is in the UTF-8 encoding
 # section: [Strings]
 # Software Update
+#. # converted from pseudo-properties .it file
+#. # This file is in the UTF-8 encoding
+#. # section: [Strings]
 #: Title
 msgid "Software Update"
 msgstr "Доградња програма"
@@ -24,7 +13,3 @@ msgstr "Доградња програма"
 #: Info
 msgid "Firefox is installing your updates and will start in a few moments…"
 msgstr "Фајерфокс инсталира доградње и биће покренут за неколико тренутака..."
-
-#~ msgid ""
-#~ "Firefox is installing your updates and will start in a few moments ..."
-#~ msgstr "Firefox инсталира доградње и биће покренут за неколико тренутака..."

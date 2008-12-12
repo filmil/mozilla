@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/messenger.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messenger.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: messengerWindow.title
@@ -27,15 +26,10 @@ msgstr ""
 msgid " - "
 msgstr ""
 
-# File Menu
+#. File Menu
 #: newFolderCmd.label
 #: newFolderCmd.accesskey
 msgid "&Folder…"
-msgstr ""
-
-#: newTabCmd.label
-#: newTabCmd.accesskey
-msgid "New &Tab"
 msgstr ""
 
 #: closeTabCmd.label
@@ -53,10 +47,6 @@ msgstr ""
 msgid "&Account…"
 msgstr ""
 
-#: openMessageMenu.label
-msgid "Open"
-msgstr ""
-
 #: openMessageFileCmd.label
 #: openMessageFileCmd.accesskey
 msgid "&Open Saved Message…"
@@ -64,8 +54,7 @@ msgstr ""
 
 #: openAttachmentCmd.label
 #: openAttachmentCmd.accesskey
-#: sortByAttachmentsCmd.label
-#: sortByAttachmentsCmd.accesskey
+msgctxt "openAttachmentCmd.label openAttachmentCmd.accesskey"
 msgid "&Attachments"
 msgstr ""
 
@@ -88,14 +77,8 @@ msgstr ""
 msgid "&Template"
 msgstr ""
 
-#: getNewMsgCmd.label
-#: getNewMsgCmd.accesskey
-msgid "&Get New Messages"
-msgstr ""
-
 #: getNewMsgCmd.key
-#: getAllNewMsgCmd.key
-#: nextUnreadThreadCmd.key
+msgctxt "getNewMsgCmd.key"
 msgid "t"
 msgstr ""
 
@@ -104,8 +87,14 @@ msgstr ""
 msgid "Get Ne&w Messages for"
 msgstr ""
 
-#: getAllNewMsgCmd.label
-msgid "Get All New Messages"
+#: getAllNewMsgCmdPopupMenu.label
+#: getAllNewMsgCmdPopupMenu.accesskey
+msgid "&All Accounts"
+msgstr ""
+
+#: getNewMsgCurrentAccountCmdPopupMenu.label
+#: getNewMsgCurrentAccountCmdPopupMenu.accesskey
+msgid "&Current Account"
 msgstr ""
 
 #: getNextNMsgCmd.label
@@ -115,16 +104,19 @@ msgstr ""
 
 #: sendUnsentCmd.label
 #: sendUnsentCmd.accesskey
-#: folderContextSendUnsentMessages.label
-#: folderContextSendUnsentMessages.accesskey
+msgctxt "sendUnsentCmd.label sendUnsentCmd.accesskey"
 msgid "Sen&d Unsent Messages"
 msgstr ""
 
 #: subscribeCmd.label
 #: subscribeCmd.accesskey
-#: folderContextSubscribe.label
-#: folderContextSubscribe.accesskey
+msgctxt "subscribeCmd.label subscribeCmd.accesskey"
 msgid "Su&bscribe…"
+msgstr ""
+
+#: deleteFolder.label
+#: deleteFolder.accesskey
+msgid "D&elete Folder"
 msgstr ""
 
 #: renameFolder.label
@@ -137,17 +129,13 @@ msgid "VK_F2"
 msgstr ""
 
 #: compactFolders.label
-msgid "Compact Folders"
-msgstr ""
-
-#: compactFolder.accesskey
-msgid "F"
+#: compactFolders.accesskey
+msgid "Compact &Folders"
 msgstr ""
 
 #: emptyTrashCmd.label
 #: emptyTrashCmd.accesskey
-#: folderContextEmptyTrash.label
-#: folderContextEmptyTrash.accesskey
+msgctxt "emptyTrashCmd.label emptyTrashCmd.accesskey"
 msgid "Empt&y Trash"
 msgstr ""
 
@@ -188,25 +176,19 @@ msgstr ""
 
 #: printCmd.label
 #: printCmd.accesskey
-#: contextPrint.label
-#: contextPrint.accesskey
+msgctxt "printCmd.label printCmd.accesskey"
 msgid "&Print…"
 msgstr ""
 
 #: printCmd.key
-#: prevUnreadMsgCmd.key
+msgctxt "printCmd.key"
 msgid "p"
 msgstr ""
 
 #: printPreviewCmd.label
 #: printPreviewCmd.accesskey
-#: contextPrintPreview.label
-#: contextPrintPreview.accesskey
+msgctxt "printPreviewCmd.label printPreviewCmd.accesskey"
 msgid "Print Pre&view"
-msgstr ""
-
-#: printPreviewCmd.key
-msgid "v"
 msgstr ""
 
 #: printSetupCmd.label
@@ -214,7 +196,7 @@ msgstr ""
 msgid "Page Set&up…"
 msgstr ""
 
-# Edit Menu
+#. Edit Menu
 #: deleteMsgCmd.label
 #: deleteMsgCmd.accesskey
 msgid "&Delete Message"
@@ -262,12 +244,7 @@ msgstr ""
 
 #: all.label
 #: all.accesskey
-#: allFolders.label
-#: allFolders.accesskey
-#: allMsgsCmd.label
-#: allMsgsCmd.accesskey
-#: headersAllCmd.label
-#: headersAllCmd.accesskey
+msgctxt "all.label all.accesskey"
 msgid "&All"
 msgstr ""
 
@@ -280,10 +257,14 @@ msgstr ""
 msgid "a"
 msgstr ""
 
+#: selectFlaggedCmd.label
+#: selectFlaggedCmd.accesskey
+msgid "&Starred Messages"
+msgstr ""
+
 #: menuFavoriteFolder.label
 #: menuFavoriteFolder.accesskey
-#: folderContextFavoriteFolder.label
-#: folderContextFavoriteFolder.accesskey
+msgctxt "menuFavoriteFolder.label menuFavoriteFolder.accesskey"
 msgid "F&avorite Folder"
 msgstr ""
 
@@ -343,7 +324,7 @@ msgstr ""
 msgid "&Redo"
 msgstr ""
 
-# View Menu
+#. View Menu
 #: showMessengerToolbarCmd.label
 #: showMessengerToolbarCmd.accesskey
 msgid "Mail T&oolbar"
@@ -374,11 +355,6 @@ msgstr ""
 msgid "&Vertical View"
 msgstr ""
 
-#: threadPaneWide.label
-#: threadPaneWide.accesskey
-msgid "W&ide List View"
-msgstr ""
-
 #: showMessageCmd.label
 #: showMessageCmd.accesskey
 msgid "&Message Pane"
@@ -389,10 +365,15 @@ msgstr ""
 msgid "&Folders"
 msgstr ""
 
+#: allFolders.label
+#: allFolders.accesskey
+msgctxt "allFolders.label allFolders.accesskey"
+msgid "&All"
+msgstr ""
+
 #: unreadFolders.label
 #: unreadFolders.accesskey
-#: unreadMsgsCmd.label
-#: unreadMsgsCmd.accesskey
+msgctxt "unreadFolders.label unreadFolders.accesskey"
 msgid "&Unread"
 msgstr ""
 
@@ -403,14 +384,11 @@ msgstr ""
 
 #: recentFolders.label
 #: recentFolders.accesskey
-#: moveCopyMsgRecentMenu.label
-#: moveCopyMsgRecentMenu.accesskey
-#: contextMoveCopyMsgRecentMenu.label
-#: contextMoveCopyMsgRecentMenu.accesskey
+msgctxt "recentFolders.label recentFolders.accesskey"
 msgid "&Recent"
 msgstr ""
 
-# Sort Menu
+#. Sort Menu
 #: sortMenu.label
 #: sortMenu.accesskey
 msgid "&Sort by"
@@ -429,6 +407,12 @@ msgstr ""
 #: sortByStarCmd.label
 #: sortByStarCmd.accesskey
 msgid "&Star"
+msgstr ""
+
+#: sortByAttachmentsCmd.label
+#: sortByAttachmentsCmd.accesskey
+msgctxt "sortByAttachmentsCmd.label sortByAttachmentsCmd.accesskey"
+msgid "&Attachments"
 msgstr ""
 
 #: sortByPriorityCmd.label
@@ -506,10 +490,6 @@ msgstr ""
 msgid "&Grouped By Sort"
 msgstr ""
 
-#: groupBySortCmd.key
-msgid "G"
-msgstr ""
-
 #: msgsMenu.label
 #: msgsMenu.accesskey
 msgid "&Messages"
@@ -520,9 +500,10 @@ msgstr ""
 msgid "Thr&eads"
 msgstr ""
 
-#: expandOrCollapseMenu.label
-#: expandOrCollapseMenu.accesskey
-msgid "E&xpand/Collapse"
+#: allMsgsCmd.label
+#: allMsgsCmd.accesskey
+msgctxt "allMsgsCmd.label allMsgsCmd.accesskey"
+msgid "&All"
 msgstr ""
 
 #: expandAllThreadsCmd.label
@@ -541,6 +522,12 @@ msgstr ""
 
 #: collapseAllThreadsCmd.key
 msgid "\\"
+msgstr ""
+
+#: unreadMsgsCmd.label
+#: unreadMsgsCmd.accesskey
+msgctxt "unreadMsgsCmd.label unreadMsgsCmd.accesskey"
+msgid "&Unread"
 msgstr ""
 
 #: threadsWithUnreadCmd.label
@@ -563,10 +550,14 @@ msgstr ""
 msgid "&Headers"
 msgstr ""
 
+#: headersAllCmd.label
+#: headersAllCmd.accesskey
+msgctxt "headersAllCmd.label headersAllCmd.accesskey"
+msgid "&All"
+msgstr ""
+
 #: headersNormalCmd.label
 #: headersNormalCmd.accesskey
-#: textZoomResetCmd.label
-#: textZoomResetCmd.accesskey
 msgid "&Normal"
 msgstr ""
 
@@ -595,47 +586,67 @@ msgstr ""
 msgid "Display &Attachments Inline"
 msgstr ""
 
-#: reloadCmd.label
-#: reloadCmd.accesskey
-msgid "&Reload"
+#. LOCALIZATION NOTE :
+#. fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+#. fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+#. If shift key is needed with your locale popular keyboard for them,
+#. you can use these alternative items. Otherwise, their values should be empty.
+#: fullZoomEnlargeCmd.label
+#: fullZoomEnlargeCmd.accesskey
+msgid "Zoom &In"
 msgstr ""
 
-#: stopCmd.label
-#: stopCmd.accesskey
-msgid "&Stop"
-msgstr ""
-
-#: textZoomEnlargeCmd.label
-#: textZoomEnlargeCmd.accesskey
-msgid "&Increase"
-msgstr ""
-
-#: textZoomEnlargeCmd.commandkey
+#: fullZoomEnlargeCmd.commandkey
 msgid "+"
 msgstr ""
 
-# + is above this key on many keyboards
-#: textZoomEnlargeCmd.commandkey2
+#. + is above this key on many keyboards
+#: fullZoomEnlargeCmd.commandkey2
 msgid "="
 msgstr ""
 
-#: textZoomReduceCmd.label
-#: textZoomReduceCmd.accesskey
-msgid "&Decrease"
+#: fullZoomEnlargeCmd.commandkey3
+msgid ""
+"_: fullZoomEnlargeCmd.commandkey3\n"
 msgstr ""
 
-#: textZoomReduceCmd.commandkey
+#: fullZoomReduceCmd.label
+#: fullZoomReduceCmd.accesskey
+msgid "Zoom &Out"
+msgstr ""
+
+#: fullZoomReduceCmd.commandkey
 msgid "-"
 msgstr ""
 
-#: textZoomResetCmd.commandkey
-#: tagCmd0.key
+#: fullZoomReduceCmd.commandkey2
+msgctxt "fullZoomReduceCmd.commandkey2"
+msgid ""
+msgstr ""
+
+#: fullZoomResetCmd.label
+#: fullZoomResetCmd.accesskey
+msgid "&Reset"
+msgstr ""
+
+#: fullZoomResetCmd.commandkey
+msgctxt "fullZoomResetCmd.commandkey"
 msgid "0"
 msgstr ""
 
-#: textSize.label
-#: textSize.accesskey
-msgid "Te&xt Size"
+#: fullZoomResetCmd.commandkey2
+msgctxt "fullZoomResetCmd.commandkey2"
+msgid ""
+msgstr ""
+
+#: fullZoomToggleCmd.label
+#: fullZoomToggleCmd.accesskey
+msgid "Zoom &Text Only"
+msgstr ""
+
+#: fullZoom.label
+#: fullZoom.accesskey
+msgid "&Zoom"
 msgstr ""
 
 #: pageSourceCmd.label
@@ -647,12 +658,7 @@ msgstr ""
 msgid "u"
 msgstr ""
 
-# Search Menu
-#: searchMenu.label
-#: searchMenu.accesskey
-msgid "&Search"
-msgstr ""
-
+#. Search Menu
 #: findMenu.label
 #: findMenu.accesskey
 msgid "&Find"
@@ -664,8 +670,7 @@ msgid "&Find in This Message…"
 msgstr ""
 
 #: findCmd.key
-#: searchMailCmd.key
-#: nextMsgCmd.key
+msgctxt "findCmd.key"
 msgid "f"
 msgstr ""
 
@@ -675,12 +680,22 @@ msgid "Find A&gain"
 msgstr ""
 
 #: findAgainCmd.key
-#: findPrevCmd.key
+msgctxt "findAgainCmd.key"
 msgid "g"
 msgstr ""
 
 #: findAgainCmd.key2
+msgctxt "findAgainCmd.key2"
+msgid "VK_F3"
+msgstr ""
+
+#: findPrevCmd.key
+msgctxt "findPrevCmd.key"
+msgid "g"
+msgstr ""
+
 #: findPrevCmd.key2
+msgctxt "findPrevCmd.key2"
 msgid "VK_F3"
 msgstr ""
 
@@ -689,12 +704,17 @@ msgstr ""
 msgid "Search &Messages…"
 msgstr ""
 
+#: searchMailCmd.key
+msgctxt "searchMailCmd.key"
+msgid "f"
+msgstr ""
+
 #: searchAddressesCmd.label
 #: searchAddressesCmd.accesskey
 msgid "&Search Addresses…"
 msgstr ""
 
-# Go Menu
+#. Go Menu
 #: goMenu.label
 #: goMenu.accesskey
 msgid "&Go"
@@ -707,19 +727,18 @@ msgstr ""
 
 #: nextMsgCmd.label
 #: nextMsgCmd.accesskey
-#: prevMsgCmd.label
-#: prevMsgCmd.accesskey
-#: msgMenu.label
-#: msgMenu.accesskey
-#: newNewMsgCmd.label
-#: newNewMsgCmd.accesskey
+msgctxt "nextMsgCmd.label nextMsgCmd.accesskey"
 msgid "&Message"
+msgstr ""
+
+#: nextMsgCmd.key
+msgctxt "nextMsgCmd.key"
+msgid "f"
 msgstr ""
 
 #: nextUnreadMsgCmd.label
 #: nextUnreadMsgCmd.accesskey
-#: prevUnreadMsgCmd.label
-#: prevUnreadMsgCmd.accesskey
+msgctxt "nextUnreadMsgCmd.label nextUnreadMsgCmd.accesskey"
 msgid "&Unread Message"
 msgstr ""
 
@@ -729,17 +748,18 @@ msgstr ""
 
 #: nextStarredMsgCmd.label
 #: nextStarredMsgCmd.accesskey
-#: prevStarredMsgCmd.label
-#: prevStarredMsgCmd.accesskey
+msgctxt "nextStarredMsgCmd.label nextStarredMsgCmd.accesskey"
 msgid "&Starred Message"
 msgstr ""
 
 #: nextUnreadThread.label
-msgid "Unread Thread"
+#: nextUnreadThread.accesskey
+msgid "Unread &Thread"
 msgstr ""
 
-#: nextUnreadThreadCmd.accesskey
-msgid "T"
+#: nextUnreadThread.key
+msgctxt "nextUnreadThread.key"
+msgid "t"
 msgstr ""
 
 #: prevMenu.label
@@ -747,16 +767,30 @@ msgstr ""
 msgid "&Previous"
 msgstr ""
 
+#: prevMsgCmd.label
+#: prevMsgCmd.accesskey
+msgctxt "prevMsgCmd.label prevMsgCmd.accesskey"
+msgid "&Message"
+msgstr ""
+
 #: prevMsgCmd.key
 msgid "b"
 msgstr ""
 
+#: prevUnreadMsgCmd.label
+#: prevUnreadMsgCmd.accesskey
+msgctxt "prevUnreadMsgCmd.label prevUnreadMsgCmd.accesskey"
+msgid "&Unread Message"
+msgstr ""
+
+#: prevUnreadMsgCmd.key
+msgctxt "prevUnreadMsgCmd.key"
+msgid "p"
+msgstr ""
+
 #: goForwardCmd.label
 #: goForwardCmd.accesskey
-#: forwardMsgCmd.label
-#: forwardMsgCmd.accesskey
-#: contextForward.label
-#: contextForward.accesskey
+msgctxt "goForwardCmd.label goForwardCmd.accesskey"
 msgid "&Forward"
 msgstr ""
 
@@ -773,14 +807,32 @@ msgstr ""
 msgid "["
 msgstr ""
 
+#: prevStarredMsgCmd.label
+#: prevStarredMsgCmd.accesskey
+msgctxt "prevStarredMsgCmd.label prevStarredMsgCmd.accesskey"
+msgid "&Starred Message"
+msgstr ""
+
 #: startPageCmd.label
 #: startPageCmd.accesskey
 msgid "Mail &Start Page"
 msgstr ""
 
+#: msgMenu.label
+#: msgMenu.accesskey
+msgctxt "msgMenu.label msgMenu.accesskey"
+msgid "&Message"
+msgstr ""
+
 #: newMsgCmd.label
 #: newMsgCmd.accesskey
 msgid "&New Message"
+msgstr ""
+
+#: newNewMsgCmd.label
+#: newNewMsgCmd.accesskey
+msgctxt "newNewMsgCmd.label newNewMsgCmd.accesskey"
+msgid "&Message"
 msgstr ""
 
 #: replyMsgCmd.label
@@ -789,28 +841,36 @@ msgid "&Reply"
 msgstr ""
 
 #: replyMsgCmd.key
-#: replyToAllMsgCmd.key
-#: markThreadAsReadCmd.key
+msgctxt "replyMsgCmd.key"
 msgid "r"
 msgstr ""
 
 #: replySenderCmd.label
 #: replySenderCmd.accesskey
-#: contextReplySender.label
-#: contextReplySender.accesskey
+msgctxt "replySenderCmd.label replySenderCmd.accesskey"
 msgid "&Reply to Sender Only"
 msgstr ""
 
 #: replyNewsgroupCmd.label
 #: replyNewsgroupCmd.accesskey
-#: contextReplyNewsgroup.label
-#: contextReplyNewsgroup.accesskey
+msgctxt "replyNewsgroupCmd.label replyNewsgroupCmd.accesskey"
 msgid "Repl&y to Newsgroup"
 msgstr ""
 
 #: replyToAllMsgCmd.label
 #: replyToAllMsgCmd.accesskey
 msgid "Re&ply to All"
+msgstr ""
+
+#: replyToAllMsgCmd.key
+msgctxt "replyToAllMsgCmd.key"
+msgid "r"
+msgstr ""
+
+#: forwardMsgCmd.label
+#: forwardMsgCmd.accesskey
+msgctxt "forwardMsgCmd.label forwardMsgCmd.accesskey"
+msgid "&Forward"
 msgstr ""
 
 #: forwardMsgCmd.key
@@ -846,9 +906,16 @@ msgstr ""
 msgid "Cre&ate Filter From Message…"
 msgstr ""
 
-#: moveMsgMenu.label
-#: moveMsgMenu.accesskey
-msgid "&Move"
+#: moveMsgToMenu.label
+#: moveMsgToMenu.accesskey
+msgctxt "moveMsgToMenu.label moveMsgToMenu.accesskey"
+msgid "&Move To"
+msgstr ""
+
+#: moveCopyMsgRecentMenu.label
+#: moveCopyMsgRecentMenu.accesskey
+msgctxt "moveCopyMsgRecentMenu.label moveCopyMsgRecentMenu.accesskey"
+msgid "&Recent"
 msgstr ""
 
 #: copyMessageLocation.label
@@ -856,11 +923,10 @@ msgstr ""
 msgid "Copy &Message Location"
 msgstr ""
 
-#: copyMsgMenu.label
-#: copyMsgMenu.accesskey
-#: copyCmd.label
-#: copyCmd.accesskey
-msgid "&Copy"
+#: copyMsgToMenu.label
+#: copyMsgToMenu.accesskey
+msgctxt "copyMsgToMenu.label copyMsgToMenu.accesskey"
+msgid "&Copy To"
 msgstr ""
 
 #: moveToFolderAgain.label
@@ -869,8 +935,7 @@ msgid "Move Aga&in"
 msgstr ""
 
 #: moveToFolderAgainCmd.key
-#: markAsReadCmd.key
-#: minimizeWindow.key
+msgctxt "moveToFolderAgainCmd.key"
 msgid "m"
 msgstr ""
 
@@ -879,9 +944,18 @@ msgstr ""
 msgid "&Ignore Thread"
 msgstr ""
 
-# Quick Search Bar
 #: killThreadMenu.key
-#: quickSearchCmd.key
+msgctxt "killThreadMenu.key"
+msgid "k"
+msgstr ""
+
+#: killSubthreadMenu.label
+#: killSubthreadMenu.accesskey
+msgid "Ignore &Subthread"
+msgstr ""
+
+#: killSubthreadMenu.key
+msgctxt "killSubthreadMenu.key"
 msgid "k"
 msgstr ""
 
@@ -909,13 +983,18 @@ msgstr ""
 msgid "Ta&g"
 msgstr ""
 
+#: tagCmd0.key
+msgctxt "tagCmd0.key"
+msgid "0"
+msgstr ""
+
 #: tagCmd1.key
-#: messengerCmd.commandkey
+msgctxt "tagCmd1.key"
 msgid "1"
 msgstr ""
 
 #: tagCmd2.key
-#: addressBookCmd.commandkey
+msgctxt "tagCmd2.key"
 msgid "2"
 msgstr ""
 
@@ -957,14 +1036,19 @@ msgstr ""
 msgid "As &Read"
 msgstr ""
 
-#: markAsUnreadCmd.label
-#: markAsUnreadCmd.accesskey
-msgid "As &Unread"
+#: markAsReadCmd.key
+msgctxt "markAsReadCmd.key"
+msgid "m"
 msgstr ""
 
 #: markThreadAsReadCmd.label
 #: markThreadAsReadCmd.accesskey
 msgid "&Thread As Read"
+msgstr ""
+
+#: markThreadAsReadCmd.key
+msgctxt "markThreadAsReadCmd.key"
+msgid "r"
 msgstr ""
 
 #: markReadByDateCmd.label
@@ -973,13 +1057,18 @@ msgid "As Read by &Date…"
 msgstr ""
 
 #: markReadByDateCmd.key
-#: markAllReadCmd.key
+msgctxt "markReadByDateCmd.key"
 msgid "c"
 msgstr ""
 
 #: markAllReadCmd.label
 #: markAllReadCmd.accesskey
 msgid "&All Read"
+msgstr ""
+
+#: markAllReadCmd.key
+msgctxt "markAllReadCmd.key"
+msgid "c"
 msgstr ""
 
 #: markStarredCmd.label
@@ -997,13 +1086,18 @@ msgid "As &Junk"
 msgstr ""
 
 #: markAsJunkCmd.key
-#: markAsNotJunkCmd.key
+msgctxt "markAsJunkCmd.key"
 msgid "j"
 msgstr ""
 
 #: markAsNotJunkCmd.label
 #: markAsNotJunkCmd.accesskey
 msgid "As &Not Junk"
+msgstr ""
+
+#: markAsNotJunkCmd.key
+msgctxt "markAsNotJunkCmd.key"
+msgid "j"
 msgstr ""
 
 #: recalculateJunkScoreCmd.label
@@ -1020,13 +1114,12 @@ msgstr ""
 msgid "o"
 msgstr ""
 
-# Windows Menu
+#. Windows Menu
 #: windowMenu.label
-#: windowMenu.accesskey
-msgid "&Window"
+msgid "Window"
 msgstr ""
 
-# Tools Menu
+#. Tools Menu
 #: tasksMenu.label
 #: tasksMenu.accesskey
 msgid "&Tools"
@@ -1042,14 +1135,19 @@ msgstr ""
 msgid "&Mail &amp; Newsgroups"
 msgstr ""
 
+#: messengerCmd.commandkey
+msgctxt "messengerCmd.commandkey"
+msgid "1"
+msgstr ""
+
 #: addressBookCmd.label
 #: addressBookCmd.accesskey
 msgid "&Address Book"
 msgstr ""
 
-#: junkMailCmd.label
-#: junkMailCmd.accesskey
-msgid "&Junk Mail Controls…"
+#: addressBookCmd.commandkey
+msgctxt "addressBookCmd.commandkey"
+msgid "2"
 msgstr ""
 
 #: runJunkControls.label
@@ -1077,42 +1175,17 @@ msgstr ""
 msgid "&Run Filters on Folder"
 msgstr ""
 
-# Help Menu
-# LOCALIZATION NOTE some localizations of Windows use "?"
-# for the help button in the menubar but Gnome does not.
-#: helpMenu.label
-#: helpMenu.accesskey
-#: helpMenuWin.label
-#: helpMenuWin.accesskey
-msgid "&Help"
+#: filtersApplyToSelection.label
+#: filtersApplyToSelection.accesskey
+msgid "Run Filters on &Selected Messages"
 msgstr ""
 
-#: releaseCmd.label
-#: releaseCmd.accesskey
-msgid "&Release Notes"
+#: filtersApplyToMessage.label
+#: filtersApplyToMessage.accesskey
+msgid "Run Filter&s on Message"
 msgstr ""
 
-#: hintsAndTips.label
-#: hintsAndTips.accesskey
-msgid "&brandFullName; &Help"
-msgstr ""
-
-#: hintsAndTipsMac.commandkey
-#: junkInfoButton.label
-msgid "?"
-msgstr ""
-
-#: updateCmd.label
-#: updateCmd.accesskey
-msgid "Check f&or Updates…"
-msgstr ""
-
-#: aboutCmd.label
-#: aboutCmd.accesskey
-msgid "&About &brandFullName;"
-msgstr ""
-
-# Mail Toolbar
+#. Mail Toolbar
 #: getMsgButton.label
 msgid "Get Mail"
 msgstr ""
@@ -1130,7 +1203,7 @@ msgid "Reply All"
 msgstr ""
 
 #: forwardButton.label
-#: goForwardButton1.label
+msgctxt "forwardButton.label"
 msgid "Forward"
 msgstr ""
 
@@ -1150,8 +1223,17 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
+#: goForwardButton1.label
+msgctxt "goForwardButton1.label"
+msgid "Forward"
+msgstr ""
+
 #: deleteButton.label
 msgid "Delete"
+msgstr ""
+
+#: undeleteButton.label
+msgid "Undelete"
 msgstr ""
 
 #: markButton.label
@@ -1170,16 +1252,12 @@ msgstr ""
 msgid "Activity Indicator"
 msgstr ""
 
-#: updatesItem.title
-msgid "Updates"
-msgstr ""
-
 #: junkButton.label
 msgid "Junk"
 msgstr ""
 
 #: notJunkButton.label
-#: junkBarButton1.label
+msgctxt "notJunkButton.label"
 msgid "Not Junk"
 msgstr ""
 
@@ -1200,21 +1278,31 @@ msgid "Folder Location"
 msgstr ""
 
 #: tagButton.label
-#: tagsColumn.label
+msgctxt "tagButton.label"
 msgid "Tag"
 msgstr ""
 
-# Mail Toolbar Tooltips
+#: compactButton.label
+msgid "Compact"
+msgstr ""
+
+#. Mail Toolbar Tooltips
 #: advancedButton.tooltip
 msgid "Advanced message search"
 msgstr ""
 
-#: clearButton.tooltip
-msgid "Clear the search criteria and show all messages"
-msgstr ""
-
 #: getMsgButton.tooltip
 msgid "Get new messages"
+msgstr ""
+
+#: getAllNewMsgCmd.label
+#: getAllNewMsgCmd.accesskey
+msgid "&Get All New Messages"
+msgstr ""
+
+#: getAllNewMsgCmd.key
+msgctxt "getAllNewMsgCmd.key"
+msgid "t"
 msgstr ""
 
 #: newMsgButton.tooltip
@@ -1257,6 +1345,10 @@ msgstr ""
 msgid "Delete selected message or folder"
 msgstr ""
 
+#: undeleteButton.tooltip
+msgid "Undelete selected message"
+msgstr ""
+
 #: markButton.tooltip
 msgid "Mark messages"
 msgstr ""
@@ -1285,23 +1377,27 @@ msgstr ""
 msgid "Tag messages"
 msgstr ""
 
-# Tags Menu Popup
+#: compactButton.tooltip
+msgid "Remove deleted messages from selected folder"
+msgstr ""
+
+#. Tags Menu Popup
 #: addNewTag.label
 #: addNewTag.accesskey
 msgid "&New Tag…"
 msgstr ""
 
-# Folder Pane
+#. Folder Pane
 #: folderColumn.label
 msgid "Name"
 msgstr ""
 
 #: folderSizeColumn.label
-#: sizeColumn.label
+msgctxt "folderSizeColumn.label"
 msgid "Size"
 msgstr ""
 
-# Folder Pane Context Menu
+#. Folder Pane Context Menu
 #: folderContextGetMessages.label
 #: folderContextGetMessages.accesskey
 msgid "&Get Messages"
@@ -1329,8 +1425,6 @@ msgstr ""
 
 #: folderContextRemove.label
 #: folderContextRemove.accesskey
-#: contextDelete.label
-#: contextDelete.accesskey
 msgid "&Delete"
 msgstr ""
 
@@ -1339,9 +1433,21 @@ msgstr ""
 msgid "&Compact"
 msgstr ""
 
+#: folderContextEmptyTrash.label
+#: folderContextEmptyTrash.accesskey
+msgctxt "folderContextEmptyTrash.label folderContextEmptyTrash.accesskey"
+msgid "Empt&y Trash"
+msgstr ""
+
 #: folderContextEmptyJunk.label
 #: folderContextEmptyJunk.accesskey
 msgid "Empty &Junk"
+msgstr ""
+
+#: folderContextSendUnsentMessages.label
+#: folderContextSendUnsentMessages.accesskey
+msgctxt "folderContextSendUnsentMessages.label folderContextSendUnsentMessages.accesskey"
+msgid "Sen&d Unsent Messages"
 msgstr ""
 
 #: folderContextUnsubscribe.label
@@ -1359,6 +1465,12 @@ msgstr ""
 msgid "Mar&k Folder Read"
 msgstr ""
 
+#: folderContextSubscribe.label
+#: folderContextSubscribe.accesskey
+msgctxt "folderContextSubscribe.label folderContextSubscribe.accesskey"
+msgid "Su&bscribe…"
+msgstr ""
+
 #: folderContextSearchMessages.label
 #: folderContextSearchMessages.accesskey
 msgid "&Search…"
@@ -1369,25 +1481,31 @@ msgstr ""
 msgid "&Properties…"
 msgstr ""
 
-# Search Bar
+#: folderContextFavoriteFolder.label
+#: folderContextFavoriteFolder.accesskey
+msgctxt "folderContextFavoriteFolder.label folderContextFavoriteFolder.accesskey"
+msgid "F&avorite Folder"
+msgstr ""
+
+#: folderContextSettings.label
+#: folderContextSettings.accesskey
+msgid "S&ettings…"
+msgstr ""
+
+#. Search Bar
 #: SearchNameOrEmail.label
 #: SearchNameOrEmail.accesskey
 msgid "&Name or Email contains:"
 msgstr ""
 
-#: clearButton.label
-#: clearButton.accesskey
-msgid "&Clear"
-msgstr ""
-
-# Quick Search Menu Bar
+#. Quick Search Menu Bar
 #: searchSubjectMenu.label
-#: subjectColumn.label
+msgctxt "searchSubjectMenu.label"
 msgid "Subject"
 msgstr ""
 
 #: searchFromMenu.label
-#: fromColumn.label
+msgctxt "searchFromMenu.label"
 msgid "From"
 msgstr ""
 
@@ -1399,6 +1517,10 @@ msgstr ""
 msgid "To or Cc"
 msgstr ""
 
+#: searchSubjectOrRecipientMenu.label
+msgid "Subject, To or Cc"
+msgstr ""
+
 #: searchMessageBody.label
 msgid "Entire Message"
 msgstr ""
@@ -1407,13 +1529,23 @@ msgstr ""
 msgid "Save Search as a Folder…"
 msgstr ""
 
-# Thread Pane
+#. Thread Pane
 #: threadColumn.label
 msgid "Thread"
 msgstr ""
 
+#: fromColumn.label
+msgctxt "fromColumn.label"
+msgid "From"
+msgstr ""
+
 #: recipientColumn.label
 msgid "Recipient"
+msgstr ""
+
+#: subjectColumn.label
+msgctxt "subjectColumn.label"
+msgid "Subject"
 msgstr ""
 
 #: dateColumn.label
@@ -1424,6 +1556,11 @@ msgstr ""
 msgid "Priority"
 msgstr ""
 
+#: tagsColumn.label
+msgctxt "tagsColumn.label"
+msgid "Tag"
+msgstr ""
+
 #: accountColumn.label
 msgid "Account"
 msgstr ""
@@ -1432,12 +1569,13 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: junkStatusColumn.label
-msgid "Junk Status"
+#: sizeColumn.label
+msgctxt "sizeColumn.label"
+msgid "Size"
 msgstr ""
 
-#: linesColumn.label
-msgid "Lines"
+#: junkStatusColumn.label
+msgid "Junk Status"
 msgstr ""
 
 #: unreadColumn.label
@@ -1472,7 +1610,7 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-# Thread Pane Tooltips
+#. Thread Pane Tooltips
 #: columnChooser.tooltip
 msgid "Click to select columns to display"
 msgstr ""
@@ -1553,7 +1691,7 @@ msgstr ""
 msgid "Click to sort by attachments"
 msgstr ""
 
-# Thread Pane Context Menu
+#. Thread Pane Context Menu
 #: contextOpenNewWindow.label
 #: contextOpenNewWindow.accesskey
 msgid "Open Message in New &Window"
@@ -1569,9 +1707,27 @@ msgstr ""
 msgid "&Edit As New…"
 msgstr ""
 
+#: contextReplySender.label
+#: contextReplySender.accesskey
+msgctxt "contextReplySender.label contextReplySender.accesskey"
+msgid "&Reply to Sender Only"
+msgstr ""
+
+#: contextReplyNewsgroup.label
+#: contextReplyNewsgroup.accesskey
+msgctxt "contextReplyNewsgroup.label contextReplyNewsgroup.accesskey"
+msgid "Repl&y to Newsgroup"
+msgstr ""
+
 #: contextReplyAll.label
 #: contextReplyAll.accesskey
 msgid "Reply to &All"
+msgstr ""
+
+#: contextForward.label
+#: contextForward.accesskey
+msgctxt "contextForward.label contextForward.accesskey"
+msgid "&Forward"
 msgstr ""
 
 #: contextForwardAsAttachment.label
@@ -1581,11 +1737,19 @@ msgstr ""
 
 #: contextMoveMsgMenu.label
 #: contextMoveMsgMenu.accesskey
+msgctxt "contextMoveMsgMenu.label contextMoveMsgMenu.accesskey"
 msgid "&Move To"
+msgstr ""
+
+#: contextMoveCopyMsgRecentMenu.label
+#: contextMoveCopyMsgRecentMenu.accesskey
+msgctxt "contextMoveCopyMsgRecentMenu.label contextMoveCopyMsgRecentMenu.accesskey"
+msgid "&Recent"
 msgstr ""
 
 #: contextCopyMsgMenu.label
 #: contextCopyMsgMenu.accesskey
+msgctxt "contextCopyMsgMenu.label contextCopyMsgMenu.accesskey"
 msgid "&Copy To"
 msgstr ""
 
@@ -1594,37 +1758,84 @@ msgstr ""
 msgid "&Save As…"
 msgstr ""
 
-# Junk Bar
+#: contextPrint.label
+#: contextPrint.accesskey
+msgctxt "contextPrint.label contextPrint.accesskey"
+msgid "&Print…"
+msgstr ""
+
+#: contextPrintPreview.label
+#: contextPrintPreview.accesskey
+msgctxt "contextPrintPreview.label contextPrintPreview.accesskey"
+msgid "Print Pre&view"
+msgstr ""
+
+#. Junk Bar
 #: junkBarMessage1.label
 msgid "Junk Mail"
 msgstr ""
 
-# Remote Content Bar
+#: junkBarButton1.label
+msgctxt "junkBarButton1.label"
+msgid "Not Junk"
+msgstr ""
+
+#: junkInfoButton.label
+msgid "?"
+msgstr ""
+
+#. Remote Content Bar
 #: remoteContentMessage1.label
 msgid "To protect your privacy, remote images have been blocked."
 msgstr ""
 
-#: loadRemoteContentButton1.label
-msgid "Load Images"
+#: loadRemoteContentButton2.label
+msgid "Display Images Now"
 msgstr ""
 
-# Phishing Bar
-#: phishingBarMessage1.label
-msgid "Suspected Email Scam"
+#. Phishing Bar
+#: phishingBarMessage2.label
+msgid "This message may be a scam."
 msgstr ""
 
 #: removePhishingBarButton1.label
 msgid "Ignore Warning"
 msgstr ""
 
-#: reportPhishingError.label
-msgid "This isn't an email scam"
+#: reportPhishingError1.label
+msgid "This message doesn't appear to be a scam."
 msgstr ""
 
-# Message Header Context Menu
+#. Message Header Button Box (to show hidden email addresses)
+#: more.label
+msgid "more"
+msgstr ""
+
+#. Quick Search Bar
+#: quickSearchCmd.key
+msgctxt "quickSearchCmd.key"
+msgid "k"
+msgstr ""
+
+#. Message Header Context Menu
 #: AddToAddressBook.label
 #: AddToAddressBook.accesskey
 msgid "Add to Address &Book…"
+msgstr ""
+
+#: AddDirectlyToAddressBook.label
+#: AddDirectlyToAddressBook.accesskey
+msgid "Add to Address &Book"
+msgstr ""
+
+#: EditContact.label
+#: EditContact.accesskey
+msgid "&Edit Contact…"
+msgstr ""
+
+#: ViewContact.label
+#: ViewContact.accesskey
+msgid "&View Contact"
 msgstr ""
 
 #: SendMailTo.label
@@ -1637,14 +1848,9 @@ msgstr ""
 msgid "&Copy Email Address"
 msgstr ""
 
-#: CreateFilter.label
-#: CreateFilter.accesskey
-msgid "Create &Filter from Message…"
-msgstr ""
-
-#: BlockAddress.label
-#: BlockAddress.accesskey
-msgid "Block &Address"
+#: CreateFilterFrom.label
+#: CreateFilterFrom.accesskey
+msgid "Create &Filter From…"
 msgstr ""
 
 #: reportPhishingURL.label
@@ -1652,15 +1858,20 @@ msgstr ""
 msgid "Rep&ort Email Scam"
 msgstr ""
 
-# Content Pane Context Menu
-#: saveLinkCmd.label
-#: saveLinkCmd.accesskey
-msgid "Save Link Ta&rget"
+#. Content Pane Context Menu
+#: saveLinkAsCmd.label
+#: saveLinkAsCmd.accesskey
+msgid "Save Lin&k As…"
 msgstr ""
 
-#: saveImageCmd.label
-#: saveImageCmd.accesskey
-msgid "Sa&ve Image"
+#: saveImageAsCmd.label
+#: saveImageAsCmd.accesskey
+msgid "Sa&ve Image As…"
+msgstr ""
+
+#: copyCmd.label
+#: copyCmd.accesskey
+msgid "&Copy"
 msgstr ""
 
 #: selectAllCmd.label
@@ -1683,14 +1894,19 @@ msgstr ""
 msgid "Copy &Email Address"
 msgstr ""
 
-# Statusbar
+#. Statusbar
 #: statusText.label
 msgid "Done"
 msgstr ""
 
-# Mac OS X Window Menu
+#. Mac OS X Window Menu
 #: minimizeWindow.label
 msgid "Minimize"
+msgstr ""
+
+#: minimizeWindow.key
+msgctxt "minimizeWindow.key"
+msgid "m"
 msgstr ""
 
 #: bringAllToFront.label
@@ -1701,7 +1917,7 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
-# Mac OS X Application Menu (Cocoa widgets)
+#. Mac OS X Application Menu (Cocoa widgets)
 #: preferencesCmdMac.label
 msgid "Preferences…"
 msgstr ""
@@ -1711,7 +1927,7 @@ msgid ","
 msgstr ""
 
 #: preferencesCmdMac.modifiers
-#: hideThisAppCmdMac.modifiers
+msgctxt "preferencesCmdMac.modifiers"
 msgid "accel"
 msgstr ""
 
@@ -1724,12 +1940,22 @@ msgid "Hide &brandShortName;"
 msgstr ""
 
 #: hideThisAppCmdMac.commandkey
-#: hideOtherAppsCmdMac.commandkey
+msgctxt "hideThisAppCmdMac.commandkey"
 msgid "H"
+msgstr ""
+
+#: hideThisAppCmdMac.modifiers
+msgctxt "hideThisAppCmdMac.modifiers"
+msgid "accel"
 msgstr ""
 
 #: hideOtherAppsCmdMac.label
 msgid "Hide Others"
+msgstr ""
+
+#: hideOtherAppsCmdMac.commandkey
+msgctxt "hideOtherAppsCmdMac.commandkey"
+msgid "H"
 msgstr ""
 
 #: hideOtherAppsCmdMac.modifiers

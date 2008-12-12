@@ -1,17 +1,23 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/browser.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-04 19:55+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-07-05 11:08+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
+
+#. This will be appended to the window's title
+#. inside the private browsing mode
+#: mainWindowPrivateBrowsing.titlemodifier
+msgid "&mainWindow.titlemodifier; (Private Browsing)"
+msgstr ""
 
 #: tabCmd.label
 #: tabCmd.accesskey
@@ -54,7 +60,7 @@ msgstr "&Штампа…"
 #: printCmd.commandkey
 msgctxt "printCmd.commandkey"
 msgid "p"
-msgstr "p"
+msgstr ""
 
 #: import.label
 #: import.accesskey
@@ -102,7 +108,7 @@ msgstr "По&даци о страни"
 #: pageInfoCmd.commandkey
 msgctxt "pageInfoCmd.commandkey"
 msgid "i"
-msgstr "i"
+msgstr ""
 
 #: fullScreenCmd.label
 #: fullScreenCmd.accesskey
@@ -148,7 +154,7 @@ msgstr "Забележи ову страну"
 #: bookmarkThisPageCmd.commandkey
 msgctxt "bookmarkThisPageCmd.commandkey"
 msgid "d"
-msgstr "d"
+msgstr ""
 
 #: subscribeToPageMenupopup.label
 msgid "Subscribe to This Page"
@@ -161,7 +167,7 @@ msgstr "Претплата на ову страну…"
 #: addCurPagesCmd.label
 msgctxt "addCurPagesCmd.label"
 msgid "Bookmark All Tabs…"
-msgstr "Забележи све језичке…"
+msgstr ""
 
 #: organizeBookmarks.label
 msgid "Organize Bookmarks…"
@@ -244,13 +250,13 @@ msgstr "Показатељ активности"
 #: bookmarksItem.title
 msgctxt "bookmarksItem.title"
 msgid "Bookmarks"
-msgstr "Забелешке"
+msgstr ""
 
 #. Toolbar items
 #: homeButton.label
 msgctxt "homeButton.label"
 msgid "Home"
-msgstr "Кућа"
+msgstr ""
 
 #: bookmarksButton.label
 #: bookmarksItem.title
@@ -265,7 +271,7 @@ msgstr "Приказује ваше забелешке"
 #: bookmarksSidebarCmd.accesskey
 msgctxt "bookmarksSidebarCmd.accesskey"
 msgid "B"
-msgstr "З"
+msgstr ""
 
 #: bookmarksSidebarCmd.commandkey
 msgid "b"
@@ -289,7 +295,7 @@ msgstr "Приказује списак недавно посећених стр
 #: historySidebarCmd.accesskey
 msgctxt "historySidebarCmd.accesskey"
 msgid "s"
-msgstr "и"
+msgstr ""
 
 #: historySidebarCmd.commandKey
 msgid "h"
@@ -322,7 +328,7 @@ msgstr "Прикажи напредак пријема"
 #: downloads.commandkey
 msgctxt "downloads.commandkey"
 msgid "j"
-msgstr "j"
+msgstr ""
 
 #: downloadsUnix.commandkey
 msgid "y"
@@ -345,7 +351,7 @@ msgstr "Конзола за &грешке"
 #: errorConsoleCmd.commandkey
 msgctxt "errorConsoleCmd.commandkey"
 msgid "j"
-msgstr "j"
+msgstr ""
 
 #: fileMenu.label
 #: fileMenu.accesskey
@@ -370,7 +376,7 @@ msgstr "&Уређивање"
 #: undoCmd.accesskey
 msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
-msgstr "&Опозови"
+msgstr ""
 
 #: undoCmd.key
 msgid "Z"
@@ -393,7 +399,7 @@ msgstr "&Исеци"
 #: cutCmd.key
 msgctxt "cutCmd.key"
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -421,7 +427,7 @@ msgstr "&Обриши"
 #: deleteCmd.key
 msgctxt "deleteCmd.key"
 msgid "D"
-msgstr "D"
+msgstr ""
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
@@ -442,10 +448,15 @@ msgstr "&Опције…"
 msgid "Prefere&nces"
 msgstr "Поде&шавања"
 
-#: clearPrivateDataCmd.label
-#: clearPrivateDataCmd.accesskey
-msgid "Clear &Private Data"
-msgstr "Уклони &приватне податке"
+#: clearRecentHistoryCmd.label
+#: clearRecentHistoryCmd.accesskey
+msgid "Clear Recent &History"
+msgstr ""
+
+#: privateBrowsingCmd.label
+#: privateBrowsingCmd.accesskey
+msgid "Private &Browsing"
+msgstr ""
 
 #: viewMenu.label
 #: viewMenu.accesskey
@@ -551,7 +562,7 @@ msgstr "k"
 #: searchFocus.commandkey2
 msgctxt "searchFocus.commandkey2"
 msgid "e"
-msgstr "e"
+msgstr ""
 
 #: searchFocusUnix.commandkey
 #: downloads.commandkey
@@ -602,6 +613,8 @@ msgstr "Преглед HTML кода изабраног дела"
 msgid "View MathML Source"
 msgstr "Преглед MathML кода"
 
+#. This accesskey is used for both
+#. viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label
 #: viewPartialSourceCmd.accesskey
 #: searchFocus.commandkey2
 msgctxt "viewPartialSourceCmd.accesskey"
@@ -628,15 +641,20 @@ msgstr "По&даци о страни"
 msgid "View Frame &Info"
 msgstr "По&даци о оквиру"
 
-#: showImageCmd.label
-#: showImageCmd.accesskey
-msgid "&Show Image"
-msgstr "Покажи &слику"
+#: reloadImageCmd.label
+#: reloadImageCmd.accesskey
+msgid "&Reload Image"
+msgstr ""
 
 #: viewImageCmd.label
 #: viewImageCmd.accesskey
 msgid "View &Image"
 msgstr "Прикажи с&лику"
+
+#: viewVideoCmd.label
+#: viewVideoCmd.accesskey
+msgid "V&iew Video"
+msgstr ""
 
 #: viewBGImageCmd.label
 #: viewBGImageCmd.accesskey
@@ -710,10 +728,30 @@ msgstr "По&шаљи везу…"
 msgid "Sa&ve Image As…"
 msgstr "&Сачувај слику као…"
 
+#: saveVideoCmd.label
+#: saveVideoCmd.accesskey
+msgid "Save &Video As…"
+msgstr ""
+
+#: saveAudioCmd.label
+#: saveAudioCmd.accesskey
+msgid "Sa&ve Audio As…"
+msgstr ""
+
 #: sendImageCmd.label
 #: sendImageCmd.accesskey
 msgid "Se&nd Image…"
 msgstr "По&шаљи слику…"
+
+#: sendVideoCmd.label
+#: sendVideoCmd.accesskey
+msgid "Se&nd Video…"
+msgstr ""
+
+#: sendAudioCmd.label
+#: sendAudioCmd.accesskey
+msgid "Se&nd Audio…"
+msgstr ""
 
 #: copyLinkCmd.label
 #: copyLinkCmd.accesskey
@@ -735,6 +773,16 @@ msgstr "У&множи адресу слике"
 msgid "Cop&y Image"
 msgstr "Умножи &слику"
 
+#: copyVideoURLCmd.label
+#: copyVideoURLCmd.accesskey
+msgid "C&opy Video Location"
+msgstr ""
+
+#: copyAudioURLCmd.label
+#: copyAudioURLCmd.accesskey
+msgid "C&opy Audio Location"
+msgstr ""
+
 #: blockImageCmd.accesskey
 #: bookmarksSidebarCmd.accesskey
 msgctxt "blockImageCmd.accesskey"
@@ -755,6 +803,37 @@ msgstr "Умножи адр&есу ел.поште"
 #: thisFrameMenu.accesskey
 msgid "T&his Frame"
 msgstr "У о&вом оквиру"
+
+#. Media (video/audio) controls
+#: mediaPlay.label
+#: mediaPlay.accesskey
+msgid "&Play"
+msgstr ""
+
+#: mediaPause.label
+#: mediaPause.accesskey
+msgid "&Pause"
+msgstr ""
+
+#: mediaMute.label
+#: mediaMute.accesskey
+msgid "&Mute"
+msgstr ""
+
+#: mediaUnmute.label
+#: mediaUnmute.accesskey
+msgid "Un&mute"
+msgstr ""
+
+#: mediaShowControls.label
+#: mediaShowControls.accesskey
+msgid "Show &Controls"
+msgstr ""
+
+#: mediaHideControls.label
+#: mediaHideControls.accesskey
+msgid "Hide &Controls"
+msgstr ""
 
 #. LOCALIZATION NOTE :
 #. fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -823,10 +902,6 @@ msgstr "Увећај само &текст"
 #: fullZoom.accesskey
 msgid "&Zoom"
 msgstr "&Увећање"
-
-#: newTabButton.tooltip
-msgid "Open a new tab"
-msgstr "Отвара нови језичак"
 
 #: newWindowButton.tooltip
 msgid "Open a new window"
@@ -1026,3 +1101,7 @@ msgstr "Више података…"
 #: downloadMonitor2.tooltip
 msgid "Click to open downloads window"
 msgstr "Притисните да бисте отворили прозор са пријемима"
+
+#: ctrlTab.search.emptyText
+msgid "Search Tabs"
+msgstr ""

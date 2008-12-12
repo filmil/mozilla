@@ -1,91 +1,90 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is ChatZilla i18n strings, english
-#
-# The Initial Developer of the Original Code is
-# Chiaki Koufugata.
-# Portions created by the Initial Developer are Copyright (C) 2001
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Chiaki Koufugata, original author
-#   Robert Ginda, rginda@netscape.com, owner/maintainer
-#   James Ross, twpol@aol.com, pref pages code
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/extensions/irc/chrome/chatzilla.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is ChatZilla i18n strings, english
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Chiaki Koufugata.
+#. # Portions created by the Initial Developer are Copyright (C) 2001
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Chiaki Koufugata, original author
+#. #   Robert Ginda, rginda@netscape.com, owner/maintainer
+#. #   James Ross, twpol@aol.com, pref pages code
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/extensions/irc/chrome/chatzilla.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-### Notes for localizers ###
-#
-# The following version number is the "localisation version number", and MUST
-# match the locale.version in the original locale this is based on. In other
-# words, if the locale.version in two files is the same, both files MUST have
-# exactly the same list of locale strings.
-#
-# If you always start with an en-US locale, and replace all strings, you can
-# leave this value alone. If you update your locale file based on changes in
-# the en-US locale, please remember to always update this in your locale to
-# match en-US when you're done.
-#
-# locale.error is the message is the message displayed to the user if the
-# locale version number does not match what ChatZilla is expecting, and will
-# have the the following replacements:
-#
-#   %1$S   ChatZilla version (e.g. "0.9.69").
-#   %2$S   Expected locale version (e.g. "0.9.69").
-#   %3$S   Locale being loaded (e.g. "fr-FR").
-#   %4$S   Actual locale version being (e.g. "0.9.68.2").
-#
-# In the example above, the user would be using ChatZilla 0.9.69, which
-# expects a locale version of 0.9.69. It tried to use the fr-FR locale,
-# but found it was only version 0.9.68.3.
-#
-# Note: the ChatZilla version and expected locale versions may not always be
-#       the same. For example, if only non-locale changes have been made, the
-#       expected locale version will stay the same. This is to make using
-#       localisations between versions easier.
-#
-### End of notes ###
+#. ### Notes for localizers ###
+#. #
+#. # The following version number is the "localisation version number", and MUST
+#. # match the locale.version in the original locale this is based on. In other
+#. # words, if the locale.version in two files is the same, both files MUST have
+#. # exactly the same list of locale strings.
+#. #
+#. # If you always start with an en-US locale, and replace all strings, you can
+#. # leave this value alone. If you update your locale file based on changes in
+#. # the en-US locale, please remember to always update this in your locale to
+#. # match en-US when you're done.
+#. #
+#. # locale.error is the message is the message displayed to the user if the
+#. # locale version number does not match what ChatZilla is expecting, and will
+#. # have the the following replacements:
+#. #
+#. #   %1$S   ChatZilla version (e.g. "0.9.69").
+#. #   %2$S   Expected locale version (e.g. "0.9.69").
+#. #   %3$S   Locale being loaded (e.g. "fr-FR").
+#. #   %4$S   Actual locale version being (e.g. "0.9.68.2").
+#. #
+#. # In the example above, the user would be using ChatZilla 0.9.69, which
+#. # expects a locale version of 0.9.69. It tried to use the fr-FR locale,
+#. # but found it was only version 0.9.68.3.
+#. #
+#. # Note: the ChatZilla version and expected locale versions may not always be
+#. #       the same. For example, if only non-locale changes have been made, the
+#. #       expected locale version will stay the same. This is to make using
+#. #       localisations between versions easier.
+#. #
+#. ### End of notes ###
 #: locale.version
-msgid "0.9.81"
+msgid "0.9.84"
 msgstr ""
 
 #: locale.error
@@ -98,25 +97,29 @@ msgid ""
 "question."
 msgstr ""
 
-# Misc
+#: locale.authors
+msgid ""
+"XXX REPLACE THIS VALUE WITH A SEMICOLON-SEPARATED LIST OF NAMES FOR YOUR "
+"LOCALIZATION TEAM XXX"
+msgstr ""
+
+#. # Misc
 #: unknown
-#: cmd.label-user.label
-#: cmd.label-user-multi.label
-#: msg.unknown
+msgctxt "unknown"
 msgid "<unknown>"
 msgstr ""
 
 #: none
-#: msg.none
+msgctxt "none"
 msgid "<none>"
 msgstr ""
 
 #: na
-#: msg.na
+msgctxt "na"
 msgid "<n/a>"
 msgstr ""
 
-# util.js
+#. # util.js
 #: msg.alert
 msgid "Alert"
 msgstr ""
@@ -129,22 +132,22 @@ msgstr ""
 msgid "Confirm"
 msgstr ""
 
-# command.js
-### Notes for localizers ###
-#
-# ChatZilla uses cmd.<command name>.* to construct the command's help, 
-# parameters and any UI labels. For the command to continue to function, the
-# *.params entries MUST NOT BE CHANGED. Hopefully in the future you will be
-# able to localize these items as well.
-#
-### DO NOT LOCALIZE THE *.params STRINGS ###
-#
-# All localised strings may contain certain entities for branding purposes. 
-# The three standard brand entities (brandShortName, brandFullName, vendorName)
-# can all be used like this:
-#     foo.bar = Some text used in &brandFullName;!
-#
-### End of notes ###
+#. # command.js
+#. ### Notes for localizers ###
+#. #
+#. # ChatZilla uses cmd.<command name>.* to construct the command's help, 
+#. # parameters and any UI labels. For the command to continue to function, the
+#. # *.params entries MUST NOT BE CHANGED. Hopefully in the future you will be
+#. # able to localize these items as well.
+#. #
+#. ### DO NOT LOCALIZE THE *.params STRINGS ###
+#. #
+#. # All localised strings may contain certain entities for branding purposes. 
+#. # The three standard brand entities (brandShortName, brandFullName, vendorName)
+#. # can all be used like this:
+#. #     foo.bar = Some text used in &brandFullName;!
+#. #
+#. ### End of notes ###
 #: cmd.about.label
 msgid "About ChatZilla"
 msgstr ""
@@ -187,13 +190,7 @@ msgid "Away ($reason)"
 msgstr ""
 
 #: cmd.away.params
-#: cmd.disconnect.params
-#: cmd.disconnect-all.params
-#: cmd.exit.params
-#: cmd.reconnect.params
-#: cmd.reconnect-all.params
-#: cmd.quit.params
-#: cmd.rejoin.params
+msgctxt "cmd.away.params"
 msgid "[<reason>]"
 msgstr ""
 
@@ -225,12 +222,7 @@ msgid "Ban from $channelName"
 msgstr ""
 
 #: cmd.ban.params
-#: cmd.dcc-chat.params
-#: cmd.dcc-decline.params
-#: cmd.except.params
-#: cmd.nick.params
-#: cmd.time.params
-#: cmd.version.params
+msgctxt "cmd.ban.params"
 msgid "[<nickname>]"
 msgstr ""
 
@@ -248,8 +240,25 @@ msgid ""
 "ChatZilla to give up before the normal number of retries."
 msgstr ""
 
+#: cmd.ceip.label
+msgid "&Customer Experience Improvement Program"
+msgstr ""
+
+#: cmd.ceip.params
+msgctxt "cmd.ceip.params"
+msgid "[<state>]"
+msgstr ""
+
+#: cmd.ceip.help
+msgid ""
+"Without any argument, opens the Customer Experience Improvement Program "
+"(CEIP) options dialog. If <state> is provided and is |true|, |on|, |yes|, or "
+"|1|, all CEIP options will be turned on.  Values |false|, |off|, |no| and "
+"|0| will turn all CEIP options off."
+msgstr ""
+
 #: cmd.charset.params
-#: cmd.default-charset.params
+msgctxt "cmd.charset.params"
 msgid "[<new-charset>]"
 msgstr ""
 
@@ -276,9 +285,7 @@ msgid ""
 msgstr ""
 
 #: cmd.channel-pref.params
-#: cmd.network-pref.params
-#: cmd.pref.params
-#: cmd.user-pref.params
+msgctxt "cmd.channel-pref.params"
 msgid "[<pref-name> [<pref-value>]]"
 msgstr ""
 
@@ -297,8 +304,7 @@ msgid "Cl&ear Tab"
 msgstr ""
 
 #: cmd.clear-view.params
-#: cmd.delete-view.params
-#: cmd.hide-view.params
+msgctxt "cmd.clear-view.params"
 msgid "[<view>]"
 msgstr ""
 
@@ -317,8 +323,8 @@ msgid "<cmd-name>"
 msgstr ""
 
 #: cmd.cmd-docommand.help
+msgctxt "cmd.cmd-docommand.help"
 msgid ""
-"_: cmd.cmd-docommand.help\n"
 msgstr ""
 
 #: cmd.cmd-undo.label
@@ -330,8 +336,8 @@ msgid "accel Z"
 msgstr ""
 
 #: cmd.cmd-undo.params
+msgctxt "cmd.cmd-undo.params"
 msgid ""
-"_: cmd.cmd-undo.params\n"
 msgstr ""
 
 #: cmd.cmd-undo.help
@@ -347,8 +353,8 @@ msgid "accel Y"
 msgstr ""
 
 #: cmd.cmd-redo.params
+msgctxt "cmd.cmd-redo.params"
 msgid ""
-"_: cmd.cmd-redo.params\n"
 msgstr ""
 
 #: cmd.cmd-redo.help
@@ -364,8 +370,8 @@ msgid "accel X"
 msgstr ""
 
 #: cmd.cmd-cut.params
+msgctxt "cmd.cmd-cut.params"
 msgid ""
-"_: cmd.cmd-cut.params\n"
 msgstr ""
 
 #: cmd.cmd-cut.help
@@ -383,8 +389,8 @@ msgid "accel C"
 msgstr ""
 
 #: cmd.cmd-copy.params
+msgctxt "cmd.cmd-copy.params"
 msgid ""
-"_: cmd.cmd-copy.params\n"
 msgstr ""
 
 #: cmd.cmd-copy.help
@@ -400,8 +406,8 @@ msgid "accel V"
 msgstr ""
 
 #: cmd.cmd-paste.params
+msgctxt "cmd.cmd-paste.params"
 msgid ""
-"_: cmd.cmd-paste.params\n"
 msgstr ""
 
 #: cmd.cmd-paste.help
@@ -417,8 +423,8 @@ msgid "VK_DELETE"
 msgstr ""
 
 #: cmd.cmd-delete.params
+msgctxt "cmd.cmd-delete.params"
 msgid ""
-"_: cmd.cmd-delete.params\n"
 msgstr ""
 
 #: cmd.cmd-delete.help
@@ -434,8 +440,8 @@ msgid "accel A"
 msgstr ""
 
 #: cmd.cmd-selectall.params
+msgctxt "cmd.cmd-selectall.params"
 msgid ""
-"_: cmd.cmd-selectall.params\n"
 msgstr ""
 
 #: cmd.cmd-selectall.help
@@ -447,7 +453,7 @@ msgid "Copy Link Location"
 msgstr ""
 
 #: cmd.cmd-copy-link-url.params
-#: cmd.load.params
+msgctxt "cmd.cmd-copy-link-url.params"
 msgid "<url>"
 msgstr ""
 
@@ -460,13 +466,13 @@ msgid "&&brandShortName; Preferences…"
 msgstr ""
 
 #: cmd.cmd-mozilla-prefs.params
+msgctxt "cmd.cmd-mozilla-prefs.params"
 msgid ""
-"_: cmd.cmd-mozilla-prefs.params\n"
 msgstr ""
 
 #: cmd.cmd-mozilla-prefs.help
+msgctxt "cmd.cmd-mozilla-prefs.help"
 msgid ""
-"_: cmd.cmd-mozilla-prefs.help\n"
 msgstr ""
 
 #: cmd.cmd-prefs.label
@@ -474,13 +480,13 @@ msgid "Pr&eferences…"
 msgstr ""
 
 #: cmd.cmd-prefs.params
+msgctxt "cmd.cmd-prefs.params"
 msgid ""
-"_: cmd.cmd-prefs.params\n"
 msgstr ""
 
 #: cmd.cmd-prefs.help
+msgctxt "cmd.cmd-prefs.help"
 msgid ""
-"_: cmd.cmd-prefs.help\n"
 msgstr ""
 
 #: cmd.cmd-chatzilla-prefs.label
@@ -488,13 +494,13 @@ msgid "ChatZilla Pr&eferences…"
 msgstr ""
 
 #: cmd.cmd-chatzilla-prefs.params
+msgctxt "cmd.cmd-chatzilla-prefs.params"
 msgid ""
-"_: cmd.cmd-chatzilla-prefs.params\n"
 msgstr ""
 
 #: cmd.cmd-chatzilla-prefs.help
+msgctxt "cmd.cmd-chatzilla-prefs.help"
 msgid ""
-"_: cmd.cmd-chatzilla-prefs.help\n"
 msgstr ""
 
 #: cmd.cmd-chatzilla-opts.label
@@ -502,17 +508,17 @@ msgid "&Options…"
 msgstr ""
 
 #: cmd.cmd-chatzilla-opts.params
+msgctxt "cmd.cmd-chatzilla-opts.params"
 msgid ""
-"_: cmd.cmd-chatzilla-opts.params\n"
 msgstr ""
 
 #: cmd.cmd-chatzilla-opts.help
+msgctxt "cmd.cmd-chatzilla-opts.help"
 msgid ""
-"_: cmd.cmd-chatzilla-opts.help\n"
 msgstr ""
 
 #: cmd.commands.params
-#: cmd.help.params
+msgctxt "cmd.commands.params"
 msgid "[<pattern>]"
 msgstr ""
 
@@ -523,13 +529,13 @@ msgid ""
 msgstr ""
 
 #: cmd.create-tab-for-view.params
-#: cmd.set-current-view.params
+msgctxt "cmd.create-tab-for-view.params"
 msgid "<view>"
 msgstr ""
 
 #: cmd.create-tab-for-view.help
+msgctxt "cmd.create-tab-for-view.help"
 msgid ""
-"_: cmd.create-tab-for-view.help\n"
 msgstr ""
 
 #: cmd.custom-away.label
@@ -576,6 +582,11 @@ msgid ""
 "<params> are specified they are sent along as well."
 msgstr ""
 
+#: cmd.default-charset.params
+msgctxt "cmd.default-charset.params"
+msgid "[<new-charset>]"
+msgstr ""
+
 #: cmd.default-charset.help
 msgid ""
 "Sets the global default character encoding mode to <new-charset>, or "
@@ -592,7 +603,7 @@ msgid "Performs an 'action' at the |target|, either a channel or a user."
 msgstr ""
 
 #: cmd.dcc-accept.params
-#: cmd.dcc-close.params
+msgctxt "cmd.dcc-accept.params"
 msgid "[<nickname> [<type> [<file>]]]"
 msgstr ""
 
@@ -606,8 +617,8 @@ msgid ""
 msgstr ""
 
 #: cmd.dcc-accept-list.params
+msgctxt "cmd.dcc-accept-list.params"
 msgid ""
-"_: cmd.dcc-accept-list.params\n"
 msgstr ""
 
 #: cmd.dcc-accept-list.help
@@ -615,10 +626,7 @@ msgid "Displays the DCC auto-accept list for the current network."
 msgstr ""
 
 #: cmd.dcc-accept-list-add.params
-#: cmd.dcc-accept-list-remove.params
-#: cmd.unban.params
-#: cmd.unexcept.params
-#: cmd.ping.params
+msgctxt "cmd.dcc-accept-list-add.params"
 msgid "<nickname>"
 msgstr ""
 
@@ -626,8 +634,18 @@ msgstr ""
 msgid "Add someone to your DCC auto-accept list for the current network."
 msgstr ""
 
+#: cmd.dcc-accept-list-remove.params
+msgctxt "cmd.dcc-accept-list-remove.params"
+msgid "<nickname>"
+msgstr ""
+
 #: cmd.dcc-accept-list-remove.help
 msgid "Remove someone from your DCC auto-accept list for the current network."
+msgstr ""
+
+#: cmd.dcc-chat.params
+msgctxt "cmd.dcc-chat.params"
+msgid "[<nickname>]"
 msgstr ""
 
 #: cmd.dcc-chat.help
@@ -640,12 +658,22 @@ msgstr ""
 msgid "Direct Chat"
 msgstr ""
 
+#: cmd.dcc-close.params
+msgctxt "cmd.dcc-close.params"
+msgid "[<nickname> [<type> [<file>]]]"
+msgstr ""
+
 #: cmd.dcc-close.help
 msgid ""
 "Closes an existing DCC connection. |nickname| may be omitted if run from a "
 "DCC view, in which case the DCC connection for that view will be closed. "
 "|type| and |file| may be needed to identify the connection. You can also use "
 "a regular expression for either <nickname> or <file>."
+msgstr ""
+
+#: cmd.dcc-decline.params
+msgctxt "cmd.dcc-decline.params"
+msgid "[<nickname>]"
 msgstr ""
 
 #: cmd.dcc-decline.help
@@ -688,6 +716,11 @@ msgstr ""
 msgid "&Close Tab"
 msgstr ""
 
+#: cmd.delete-view.params
+msgctxt "cmd.delete-view.params"
+msgid "[<view>]"
+msgstr ""
+
 #: cmd.delete-view.help
 msgid ""
 "Clear the current view, discarding *all* content, and drop its icon from the "
@@ -700,15 +733,7 @@ msgid "Remove Half-operator Status"
 msgstr ""
 
 #: cmd.dehop.params
-#: cmd.deop.params
-#: cmd.devoice.params
-#: cmd.hop.params
-#: cmd.op.params
-#: cmd.userhost.params
-#: cmd.userip.params
-#: cmd.voice.params
-#: cmd.whois.params
-#: cmd.wii.params
+msgctxt "cmd.dehop.params"
 msgid "<nickname> [<...>]"
 msgstr ""
 
@@ -720,6 +745,11 @@ msgstr ""
 
 #: cmd.deop.label
 msgid "Remove Operator Status"
+msgstr ""
+
+#: cmd.deop.params
+msgctxt "cmd.deop.params"
+msgid "<nickname> [<...>]"
 msgstr ""
 
 #: cmd.deop.help
@@ -743,6 +773,11 @@ msgstr ""
 msgid "Remove Voice Status"
 msgstr ""
 
+#: cmd.devoice.params
+msgctxt "cmd.devoice.params"
+msgid "<nickname> [<...>]"
+msgstr ""
+
 #: cmd.devoice.help
 msgid ""
 "Removes voice status from <nickname> on current channel. Requires operator "
@@ -757,6 +792,11 @@ msgstr ""
 msgid "&Disconnect"
 msgstr ""
 
+#: cmd.disconnect.params
+msgctxt "cmd.disconnect.params"
+msgid "[<reason>]"
+msgstr ""
+
 #: cmd.disconnect.help
 msgid ""
 "Disconnects from the server represented by the active view when the command "
@@ -766,6 +806,11 @@ msgstr ""
 
 #: cmd.disconnect-all.label
 msgid "&Disconnect From All Networks"
+msgstr ""
+
+#: cmd.disconnect-all.params
+msgctxt "cmd.disconnect-all.params"
+msgid "[<reason>]"
 msgstr ""
 
 #: cmd.disconnect-all.key
@@ -779,7 +824,7 @@ msgid ""
 msgstr ""
 
 #: cmd.echo.params
-#: cmd.say.params
+msgctxt "cmd.echo.params"
 msgid "<message>"
 msgstr ""
 
@@ -789,8 +834,7 @@ msgid ""
 msgstr ""
 
 #: cmd.enable-plugin.params
-#: cmd.reload-plugin.params
-#: cmd.disable-plugin.params
+msgctxt "cmd.enable-plugin.params"
 msgid "<plugin>"
 msgstr ""
 
@@ -809,6 +853,11 @@ msgstr ""
 msgid "Evaluates <expression> as JavaScript code.  Not for the faint of heart."
 msgstr ""
 
+#: cmd.except.params
+msgctxt "cmd.except.params"
+msgid "[<nickname>]"
+msgstr ""
+
 #: cmd.except.help
 msgid ""
 "Excepts a user from channel bans. A user's nickname may be specified, or a "
@@ -818,6 +867,11 @@ msgstr ""
 
 #: cmd.exit.label
 msgid "E&xit ChatZilla"
+msgstr ""
+
+#: cmd.exit.params
+msgctxt "cmd.exit.params"
+msgid "[<reason>]"
 msgstr ""
 
 #: cmd.exit.help
@@ -864,8 +918,8 @@ msgid "accel G"
 msgstr ""
 
 #: cmd.find-again.params
+msgctxt "cmd.find-again.params"
 msgid ""
-"_: cmd.find-again.params\n"
 msgstr ""
 
 #: cmd.find-again.help
@@ -985,9 +1039,7 @@ msgid "Open Link"
 msgstr ""
 
 #: cmd.goto-url.params
-#: cmd.goto-url-newwin.params
-#: cmd.goto-url-newtab.params
-#: cmd.goto-url-external.params
+msgctxt "cmd.goto-url.params"
 msgid "<url> [<anchor>]"
 msgstr ""
 
@@ -1003,6 +1055,11 @@ msgstr ""
 msgid "Open Link in New Window"
 msgstr ""
 
+#: cmd.goto-url-newwin.params
+msgctxt "cmd.goto-url-newwin.params"
+msgid "<url> [<anchor>]"
+msgstr ""
+
 #: cmd.goto-url-newwin.help
 msgid ""
 "Navigate to the url specified by <url>.  If the <url> is not an irc: url, it "
@@ -1012,6 +1069,11 @@ msgstr ""
 
 #: cmd.goto-url-newtab.label
 msgid "Open Link in New Tab"
+msgstr ""
+
+#: cmd.goto-url-newtab.params
+msgctxt "cmd.goto-url-newtab.params"
+msgid "<url> [<anchor>]"
 msgstr ""
 
 #: cmd.goto-url-newtab.help
@@ -1026,6 +1088,11 @@ msgstr ""
 msgid "Open Link in Default Browser"
 msgstr ""
 
+#: cmd.goto-url-external.params
+msgctxt "cmd.goto-url-external.params"
+msgid "<url> [<anchor>]"
+msgstr ""
+
 #: cmd.goto-url-external.help
 msgid ""
 "Navigate to the url specified by <url>.  If the <url> is not an irc: url, it "
@@ -1038,6 +1105,11 @@ msgstr ""
 msgid "Toggles visibility of the header bar."
 msgstr ""
 
+#: cmd.help.params
+msgctxt "cmd.help.params"
+msgid "[<pattern>]"
+msgstr ""
+
 #: cmd.help.help
 msgid ""
 "Displays help on all commands matching <pattern>, if <pattern> is not given, "
@@ -1046,6 +1118,11 @@ msgstr ""
 
 #: cmd.hide-view.label
 msgid "&Hide Tab"
+msgstr ""
+
+#: cmd.hide-view.params
+msgctxt "cmd.hide-view.params"
+msgid "[<view>]"
 msgstr ""
 
 #: cmd.hide-view.help
@@ -1060,6 +1137,11 @@ msgstr ""
 
 #: cmd.hop.label
 msgid "Give Half-operator Status"
+msgstr ""
+
+#: cmd.hop.params
+msgctxt "cmd.hop.params"
+msgid "<nickname> [<...>]"
 msgstr ""
 
 #: cmd.hop.help
@@ -1087,6 +1169,11 @@ msgstr ""
 msgid "&Reconnect"
 msgstr ""
 
+#: cmd.reconnect.params
+msgctxt "cmd.reconnect.params"
+msgid "[<reason>]"
+msgstr ""
+
 #: cmd.reconnect.help
 msgid ""
 "Reconnects to the network represented by the active view when the command is "
@@ -1096,6 +1183,11 @@ msgstr ""
 
 #: cmd.reconnect-all.label
 msgid "&Reconnect To All Networks"
+msgstr ""
+
+#: cmd.reconnect-all.params
+msgctxt "cmd.reconnect-all.params"
+msgid "[<reason>]"
 msgstr ""
 
 #: cmd.reconnect-all.help
@@ -1147,18 +1239,23 @@ msgid "accel shift H"
 msgstr ""
 
 #: cmd.input-text-direction.params
-#: cmd.text-direction.params
+msgctxt "cmd.input-text-direction.params"
 msgid "<dir>"
 msgstr ""
 
 #: cmd.input-text-direction.help
+msgctxt "cmd.input-text-direction.help"
 msgid ""
-"_: cmd.input-text-direction.help\n"
+msgstr ""
+
+#: cmd.text-direction.params
+msgctxt "cmd.text-direction.params"
+msgid "<dir>"
 msgstr ""
 
 #: cmd.text-direction.help
+msgctxt "cmd.text-direction.help"
 msgid ""
-"_: cmd.text-direction.help\n"
 msgstr ""
 
 #: cmd.rtl.help
@@ -1221,10 +1318,20 @@ msgstr ""
 msgid "Un-ban from $channelName"
 msgstr ""
 
+#: cmd.unban.params
+msgctxt "cmd.unban.params"
+msgid "<nickname>"
+msgstr ""
+
 #: cmd.unban.help
 msgid ""
 "Removes the ban on a single user, or removes a specific ban mask from the "
 "channel's ban list."
+msgstr ""
+
+#: cmd.unexcept.params
+msgctxt "cmd.unexcept.params"
+msgid "<nickname>"
 msgstr ""
 
 #: cmd.unexcept.help
@@ -1310,6 +1417,15 @@ msgid ""
 "given, # is assumed.  Provides the key <key> if specified."
 msgstr ""
 
+#: cmd.jump-to-anchor.params
+msgid "<anchor> [<channel-name>]"
+msgstr ""
+
+#: cmd.jump-to-anchor.help
+msgctxt "cmd.jump-to-anchor.help"
+msgid ""
+msgstr ""
+
 #: cmd.kick.format
 msgid "Kick from $channelName"
 msgstr ""
@@ -1319,7 +1435,7 @@ msgid "Kick"
 msgstr ""
 
 #: cmd.kick.params
-#: cmd.kick-ban.params
+msgctxt "cmd.kick.params"
 msgid "<nickname> [<reason>]"
 msgstr ""
 
@@ -1333,6 +1449,11 @@ msgstr ""
 
 #: cmd.kick-ban.label
 msgid "Kickban"
+msgstr ""
+
+#: cmd.kick-ban.params
+msgctxt "cmd.kick-ban.params"
+msgid "<nickname> [<reason>]"
 msgstr ""
 
 #: cmd.kick-ban.help
@@ -1355,23 +1476,38 @@ msgstr ""
 msgid "«$nickname»"
 msgstr ""
 
+#: cmd.label-user.label
+msgctxt "cmd.label-user.label"
+msgid "<unknown>"
+msgstr ""
+
 #: cmd.label-user.params
-#: cmd.label-user-multi.params
+msgctxt "cmd.label-user.params"
 msgid "<unspecified>"
 msgstr ""
 
 #: cmd.label-user.help
+msgctxt "cmd.label-user.help"
 msgid ""
-"_: cmd.label-user.help\n"
 msgstr ""
 
 #: cmd.label-user-multi.format
 msgid "«$userCount users»"
 msgstr ""
 
+#: cmd.label-user-multi.label
+msgctxt "cmd.label-user-multi.label"
+msgid "<unknown>"
+msgstr ""
+
+#: cmd.label-user-multi.params
+msgctxt "cmd.label-user-multi.params"
+msgid "<unspecified>"
+msgstr ""
+
 #: cmd.label-user-multi.help
+msgctxt "cmd.label-user-multi.help"
 msgid ""
-"_: cmd.label-user-multi.help\n"
 msgstr ""
 
 #: cmd.leave.format
@@ -1404,7 +1540,7 @@ msgid ""
 msgstr ""
 
 #: cmd.list.params
-#: cmd.names.params
+msgctxt "cmd.list.params"
 msgid "[<channel-name>]"
 msgstr ""
 
@@ -1428,10 +1564,20 @@ msgid ""
 "either the plugin id, or index."
 msgstr ""
 
+#: cmd.load.params
+msgctxt "cmd.load.params"
+msgid "<url>"
+msgstr ""
+
 #: cmd.load.help
 msgid ""
 "Executes the contents of the url specified by <url>.  See also: The "
 "|initialScripts| pref."
+msgstr ""
+
+#: cmd.reload-plugin.params
+msgctxt "cmd.reload-plugin.params"
+msgid "<plugin>"
 msgstr ""
 
 #: cmd.reload-plugin.help
@@ -1442,6 +1588,7 @@ msgid ""
 msgstr ""
 
 #: cmd.log.params
+msgctxt "cmd.log.params"
 msgid "[<state>]"
 msgstr ""
 
@@ -1476,7 +1623,7 @@ msgid ""
 msgstr ""
 
 #: cmd.match-users.params
-#: cmd.unignore.params
+msgctxt "cmd.match-users.params"
 msgid "<mask>"
 msgstr ""
 
@@ -1537,7 +1684,7 @@ msgid "&Light Motif"
 msgstr ""
 
 #: cmd.msg.params
-#: cmd.notice.params
+msgctxt "cmd.msg.params"
 msgid "<nickname> <message>"
 msgstr ""
 
@@ -1555,6 +1702,11 @@ msgid ""
 "connecting to allows it.  Some servers will only trust the username reply "
 "from the ident service.  You must specify this *before* connecting to the "
 "network. If you omit <username>, the current username will be shown."
+msgstr ""
+
+#: cmd.names.params
+msgctxt "cmd.names.params"
+msgid "[<channel-name>]"
 msgstr ""
 
 #: cmd.names.help
@@ -1588,6 +1740,11 @@ msgid ""
 "also |motif|."
 msgstr ""
 
+#: cmd.network-pref.params
+msgctxt "cmd.network-pref.params"
+msgid "[<pref-name> [<pref-value>]]"
+msgstr ""
+
 #: cmd.network-pref.help
 msgid ""
 "Sets the value of the preference named <pref-name> to the value of <pref-"
@@ -1600,6 +1757,11 @@ msgstr ""
 
 #: cmd.nick.label
 msgid "Change nickname…"
+msgstr ""
+
+#: cmd.nick.params
+msgctxt "cmd.nick.params"
+msgid "[<nickname>]"
 msgstr ""
 
 #: cmd.nick.help
@@ -1618,12 +1780,22 @@ msgid ""
 "yet on it, or removed from it if they are."
 msgstr ""
 
+#: cmd.notice.params
+msgctxt "cmd.notice.params"
+msgid "<nickname> <message>"
+msgstr ""
+
 #: cmd.notice.help
 msgid "Sends the notice <message> to <nickname>."
 msgstr ""
 
 #: cmd.op.label
 msgid "Give Operator Status"
+msgstr ""
+
+#: cmd.op.params
+msgctxt "cmd.op.params"
+msgid "<nickname> [<...>]"
 msgstr ""
 
 #: cmd.op.help
@@ -1633,7 +1805,7 @@ msgid ""
 msgstr ""
 
 #: cmd.open-at-startup.params
-#: cmd.timestamps.params
+msgctxt "cmd.open-at-startup.params"
 msgid "[<toggle>]"
 msgstr ""
 
@@ -1665,8 +1837,8 @@ msgid "accel P"
 msgstr ""
 
 #: cmd.print.params
+msgctxt "cmd.print.params"
 msgid ""
-"_: cmd.print.params\n"
 msgstr ""
 
 #: cmd.print.help
@@ -1695,6 +1867,11 @@ msgid ""
 "<savetype> is not provided."
 msgstr ""
 
+#: cmd.say.params
+msgctxt "cmd.say.params"
+msgid "<message>"
+msgstr ""
+
 #: cmd.say.help
 msgid ""
 "Sends a message to the current view. This command is used automatically by "
@@ -1711,6 +1888,11 @@ msgid ""
 "server-specific list of available parameters for use with this command."
 msgstr ""
 
+#: cmd.time.params
+msgctxt "cmd.time.params"
+msgid "[<nickname>]"
+msgstr ""
+
 #: cmd.time.help
 msgid ""
 "Asks <nickname> what time it is on their machine.  Their IRC client may or "
@@ -1721,6 +1903,11 @@ msgstr ""
 
 #: cmd.time.label
 msgid "Get Local Time"
+msgstr ""
+
+#: cmd.timestamps.params
+msgctxt "cmd.timestamps.params"
+msgid "[<toggle>]"
 msgstr ""
 
 #: cmd.timestamps.help
@@ -1749,6 +1936,11 @@ msgid ""
 "servers."
 msgstr ""
 
+#: cmd.ping.params
+msgctxt "cmd.ping.params"
+msgid "<nickname>"
+msgstr ""
+
 #: cmd.ping.help
 msgid ""
 "Ping takes its name from the technique of measuring distance with sonar.  In "
@@ -1773,6 +1965,11 @@ msgid ""
 "name> will be displayed.  If both <pref-name> and <pref-value> are omitted, "
 "all preferences for <plugin> will be displayed.  If <pref-value> is a minus "
 "('-') character, then the preference will revert back to its default value."
+msgstr ""
+
+#: cmd.pref.params
+msgctxt "cmd.pref.params"
+msgid "[<pref-name> [<pref-value>]]"
 msgstr ""
 
 #: cmd.pref.help
@@ -1802,6 +1999,11 @@ msgstr ""
 msgid "&Quit ChatZilla"
 msgstr ""
 
+#: cmd.quit.params
+msgctxt "cmd.quit.params"
+msgid "[<reason>]"
+msgstr ""
+
 #: cmd.quit.help
 msgid "Quit ChatZilla."
 msgstr ""
@@ -1825,6 +2027,11 @@ msgid ""
 "<http://www.irchelp.org/irchelp/rfc1459.html> for complete details."
 msgstr ""
 
+#: cmd.rejoin.params
+msgctxt "cmd.rejoin.params"
+msgid "[<reason>]"
+msgstr ""
+
 #: cmd.rejoin.help
 msgid ""
 "Rejoins the channel displayed in the current view. Only works from a channel "
@@ -1840,7 +2047,7 @@ msgid "Rejoin"
 msgstr ""
 
 #: cmd.server.params
-#: cmd.sslserver.params
+msgctxt "cmd.server.params"
 msgid "<hostname> [<port> [<password>]]"
 msgstr ""
 
@@ -1852,9 +2059,19 @@ msgid ""
 "deleted, it is recreated."
 msgstr ""
 
+#: cmd.set-current-view.params
+msgctxt "cmd.set-current-view.params"
+msgid "<view>"
+msgstr ""
+
 #: cmd.set-current-view.help
+msgctxt "cmd.set-current-view.help"
 msgid ""
-"_: cmd.set-current-view.help\n"
+msgstr ""
+
+#: cmd.sslserver.params
+msgctxt "cmd.sslserver.params"
+msgid "<hostname> [<port> [<password>]]"
 msgstr ""
 
 #: cmd.sslserver.help
@@ -1919,6 +2136,11 @@ msgstr ""
 msgid "Toggles the visibility of the channel tab strip."
 msgstr ""
 
+#: cmd.unignore.params
+msgctxt "cmd.unignore.params"
+msgid "<mask>"
+msgstr ""
+
 #: cmd.unignore.help
 msgid ""
 "Removes someone from your ignore list for the current network. A nickname "
@@ -1943,12 +2165,27 @@ msgid ""
 "many it displays, or omit to display the default 10."
 msgstr ""
 
+#: cmd.userhost.params
+msgctxt "cmd.userhost.params"
+msgid "<nickname> [<...>]"
+msgstr ""
+
 #: cmd.userhost.help
 msgid "Requests the hostmask of every <nickname> given."
 msgstr ""
 
+#: cmd.userip.params
+msgctxt "cmd.userip.params"
+msgid "<nickname> [<...>]"
+msgstr ""
+
 #: cmd.userip.help
 msgid "Requests the IP-address of every <nickname> given."
+msgstr ""
+
+#: cmd.disable-plugin.params
+msgctxt "cmd.disable-plugin.params"
+msgid "<plugin>"
 msgstr ""
 
 #: cmd.disable-plugin.help
@@ -1980,6 +2217,11 @@ msgid ""
 "also |motif|."
 msgstr ""
 
+#: cmd.user-pref.params
+msgctxt "cmd.user-pref.params"
+msgid "[<pref-name> [<pref-value>]]"
+msgstr ""
+
 #: cmd.user-pref.help
 msgid ""
 "Sets the value of the preference named <pref-name> to the value of <pref-"
@@ -1994,6 +2236,11 @@ msgstr ""
 msgid "Get Version Information"
 msgstr ""
 
+#: cmd.version.params
+msgctxt "cmd.version.params"
+msgid "[<nickname>]"
+msgstr ""
+
 #: cmd.version.help
 msgid ""
 "Asks <nickname> what irc client they're running.  Their IRC client may or "
@@ -2004,6 +2251,11 @@ msgstr ""
 
 #: cmd.voice.label
 msgid "Give Voice Status"
+msgstr ""
+
+#: cmd.voice.params
+msgctxt "cmd.voice.params"
+msgid "<nickname> [<...>]"
 msgstr ""
 
 #: cmd.voice.help
@@ -2025,12 +2277,22 @@ msgstr ""
 msgid "Who is"
 msgstr ""
 
+#: cmd.whois.params
+msgctxt "cmd.whois.params"
+msgid "<nickname> [<...>]"
+msgstr ""
+
 #: cmd.whois.help
 msgid ""
 "Displays information about the user <nickname>, including 'real name', "
 "server connected to, idle time, and signon time.  Note that some servers "
 "will lie about the idle time.  The correct idle time can usually be obtained "
 "by using |wii| instead of |whois|."
+msgstr ""
+
+#: cmd.wii.params
+msgctxt "cmd.wii.params"
+msgid "<nickname> [<...>]"
 msgstr ""
 
 #: cmd.wii.help
@@ -2053,7 +2315,7 @@ msgid ""
 "'real name', for a user that has left the server."
 msgstr ""
 
-## dispatch-related error messages ##
+#. ## dispatch-related error messages ##
 #: msg.err.internal.dispatch
 msgid "Internal error dispatching command ``%1$S''."
 msgstr ""
@@ -2094,7 +2356,7 @@ msgstr ""
 msgid "Reached max dispatch depth while attempting to dispatch ``%1$S''."
 msgstr ""
 
-## ChatZilla error messages ##
+#. ## ChatZilla error messages ##
 #: msg.err.invalid.regex
 msgid ""
 "Invalid Regular Expression. For help with regular expressions, see "
@@ -2103,6 +2365,10 @@ msgstr ""
 
 #: msg.err.invalid.pref
 msgid "Invalid value for preference %1$S (%2$S)."
+msgstr ""
+
+#: msg.err.invalid.file
+msgid "Invalid file <%1$S> renamed to <%2$S>."
 msgstr ""
 
 #: msg.err.failure
@@ -2153,6 +2419,10 @@ msgstr ""
 
 #: msg.err.unknown.user
 msgid "Unknown user ``%S''."
+msgstr ""
+
+#: msg.err.unknown.command
+msgid "Unknown command ``%S''."
 msgstr ""
 
 #: msg.err.unknown.stalk
@@ -2288,7 +2558,7 @@ msgid ""
 "&brandShortName;. The auto-away feature will now be disabled."
 msgstr ""
 
-# Specific bug messages.
+#. # Specific bug messages.
 #: msg.bug318419.warning
 msgid ""
 "ChatZilla has detected a potential abnormality in its internal data. You "
@@ -2308,12 +2578,12 @@ msgid ""
 "host application (&brandShortName;) to fix this."
 msgstr ""
 
-# Ask for oper pass if not explicitly given in the command:
+#. # Ask for oper pass if not explicitly given in the command:
 #: msg.need.oper.password
 msgid "Please enter a password for obtaining IRC Operator privileges."
 msgstr ""
 
-# Better IRC error messages
+#. # Better IRC error messages
 #: msg.irc.381
 msgid "You are now an IRC Operator."
 msgstr ""
@@ -2366,9 +2636,9 @@ msgid ""
 "not match any configured 'O-lines')."
 msgstr ""
 
-# This is an extended version that is only used if the server support /knock.
+#. # This is an extended version that is only used if the server support /knock.
 #: msg.irc.471.knock
-#: msg.irc.475.knock
+msgctxt "msg.irc.471.knock"
 msgid ""
 "%S You might be able to use \"/knock %S\" to ask the channel operators to "
 "invite you in. [[Knock][Asks the channel operators to let you in][%S]]"
@@ -2378,6 +2648,13 @@ msgstr ""
 msgid ""
 "%S Use \"/knock %S\" to ask the channel operators to invite you in. "
 "[[Knock][Asks the channel operators to let you in][%S]]"
+msgstr ""
+
+#: msg.irc.475.knock
+msgctxt "msg.irc.475.knock"
+msgid ""
+"%S You might be able to use \"/knock %S\" to ask the channel operators to "
+"invite you in. [[Knock][Asks the channel operators to let you in][%S]]"
 msgstr ""
 
 #: msg.warn.unk.command
@@ -2406,7 +2683,7 @@ msgid ""
 "input box and the chat output."
 msgstr ""
 
-## formatting ##
+#. ## formatting ##
 #: msg.fmt.usage
 msgid "\"%1$S %2$S\""
 msgstr ""
@@ -2415,8 +2692,8 @@ msgstr ""
 msgid "\"%1$S: %2$S @ <%3$S> %4$S\""
 msgstr ""
 
-# 1: error number,  2: error text, 3: file name, 4: line number, 5: function name
-# 1: pref name 2: value
+#. # 1: error number,  2: error text, 3: file name, 4: line number, 5: function name
+#. # 1: pref name 2: value
 #: msg.fmt.pref
 msgid "Preference ``%1$S'' is ``%2$S''."
 msgstr ""
@@ -2458,7 +2735,7 @@ msgid "\"%S = %S\""
 msgstr ""
 
 #: msg.fmt.seconds
-#: msg.seconds
+msgctxt "msg.fmt.seconds"
 msgid "\"%S seconds"
 msgstr ""
 
@@ -2478,9 +2755,24 @@ msgstr ""
 msgid "\"%S is logged in as %S\""
 msgstr ""
 
-# 1: local short date/time, 2: nick info
+#. # 1: local short date/time, 2: nick info
 #: msg.fmt.status
 msgid "\"%S %S\""
+msgstr ""
+
+#: msg.unknown
+msgctxt "msg.unknown"
+msgid "<unknown>"
+msgstr ""
+
+#: msg.none
+msgctxt "msg.none"
+msgid "<none>"
+msgstr ""
+
+#: msg.na
+msgctxt "msg.na"
+msgid "<n/a>"
 msgstr ""
 
 #: msg.commasp
@@ -2524,7 +2816,7 @@ msgid "User"
 msgstr ""
 
 #: msg.client
-#: pref.clientMaxLines.label
+msgctxt "msg.client"
 msgid "Client"
 msgstr ""
 
@@ -2557,7 +2849,7 @@ msgid "Connecting"
 msgstr ""
 
 #: msg.connected
-#: msg.dcc.state.connect
+msgctxt "msg.connected"
 msgid "Connected"
 msgstr ""
 
@@ -2575,6 +2867,11 @@ msgstr ""
 
 #: msg.minutes
 msgid "\"%S minutes"
+msgstr ""
+
+#: msg.seconds
+msgctxt "msg.seconds"
+msgid "\"%S seconds"
 msgstr ""
 
 #: msg.day
@@ -2714,7 +3011,7 @@ msgid "ChatZilla %S [%S]"
 msgstr ""
 
 #: msg.source.reply
-#: msg.localeurl.homepage
+msgctxt "msg.source.reply"
 msgid "http://chatzilla.hacksrus.com/"
 msgstr ""
 
@@ -2922,7 +3219,11 @@ msgid ""
 "available to answer any further questions about ChatZilla."
 msgstr ""
 
-#: msg.homepage
+#: msg.about.version
+msgid "\"%S [[Details][Opens the about dialog for more details][%S]]"
+msgstr ""
+
+#: msg.about.homepage
 msgid ""
 "Please visit the ChatZilla homepage at <http://chatzilla.hacksrus.com/> for "
 "more information."
@@ -2938,6 +3239,11 @@ msgstr ""
 
 #: msg.newnick.notyou
 msgid "\"%S is now known as %S"
+msgstr ""
+
+#: msg.localeurl.homepage
+msgctxt "msg.localeurl.homepage"
+msgid "http://chatzilla.hacksrus.com/"
 msgstr ""
 
 #: msg.localeurl.faq
@@ -3077,9 +3383,7 @@ msgid "Mode"
 msgstr ""
 
 #: msg.output.users
-#: pref.userHeader.label
-#: pref.userLog.label
-#: pref.userMaxLines.label
+msgctxt "msg.output.users"
 msgid "Users"
 msgstr ""
 
@@ -3101,6 +3405,10 @@ msgstr ""
 
 #: msg.output.progress
 msgid "Progress"
+msgstr ""
+
+#: msg.output.cancel
+msgid "Cancel"
 msgstr ""
 
 #: msg.logging.off
@@ -3149,6 +3457,18 @@ msgstr ""
 
 #: msg.network.connecting
 msgid "Attempting to connect to ``%S''.  Use /cancel to abort."
+msgstr ""
+
+#: msg.jumpto.button
+msgid "[[%1$S][Jump to this message in %1$S][%2$S]]"
+msgstr ""
+
+#: msg.jumpto.err.nochan
+msgid "``%S'' is no longer open."
+msgstr ""
+
+#: msg.jumpto.err.noanchor
+msgid "The anchor cannot be found."
 msgstr ""
 
 #: msg.banlist.item
@@ -3215,7 +3535,7 @@ msgstr ""
 msgid "DCC requests a direct client connection"
 msgstr ""
 
-# DCC CHAT messages.
+#. # DCC CHAT messages.
 #: msg.dccchat.sent.request
 msgid "Sent DCC Chat offer to ``%S'' from YOU (%S:%S) %S."
 msgstr ""
@@ -3256,7 +3576,7 @@ msgstr ""
 msgid "DCC Chat with ``%S'' (%S:%S) disconnected."
 msgstr ""
 
-# DCC FILE messages.
+#. # DCC FILE messages.
 #: msg.dccfile.sent.request
 msgid ""
 "Sent DCC File Transfer offer to ``%S'' from YOU (%S:%S) of ``%S'' (%S) %S."
@@ -3277,7 +3597,7 @@ msgid ""
 "Auto-accepting DCC File Transfer offer from ``%S'' (%S:%S) of ``%S'' (%S)."
 msgstr ""
 
-# 1 = file, 2 = to/from, 3 = nick, 4 = IP, 5 = port.
+#. # 1 = file, 2 = to/from, 3 = nick, 4 = IP, 5 = port.
 #: msg.dccfile.accepted
 msgid "Accepted DCC File Transfer of ``%S'' %S ``%S'' (%S:%S)."
 msgstr ""
@@ -3308,7 +3628,7 @@ msgid ""
 "``%S''."
 msgstr ""
 
-# 1 = percent, 2 = current pos, 3 = total size, 4 = speed.
+#. # 1 = percent, 2 = current pos, 3 = total size, 4 = speed.
 #: msg.dccfile.progress
 msgid "%S%% complete, %S of %S, %S."
 msgstr ""
@@ -3333,7 +3653,7 @@ msgstr ""
 msgid "The file specified cannot be read."
 msgstr ""
 
-# General DCC messages.
+#. # General DCC messages.
 #: msg.dcc.pending.matches
 msgid "\"%S pending incoming DCC offers matched."
 msgstr ""
@@ -3375,7 +3695,7 @@ msgstr ""
 msgid "Must specify |nickname| or run the command from a DCC Chat view."
 msgstr ""
 
-# /dcc-list words and phrases.
+#. # /dcc-list words and phrases.
 #: msg.dcclist.dir.in
 msgid "incoming"
 msgstr ""
@@ -3392,12 +3712,12 @@ msgstr ""
 msgid "from"
 msgstr ""
 
-## Params: index, state, direction (incoming/outgoing), DCC type, direction (to/from), user (ip:port), commands.
+#. ## Params: index, state, direction (incoming/outgoing), DCC type, direction (to/from), user (ip:port), commands.
 #: msg.dcclist.line
 msgid "%S: %S %S DCC %S %S %S (%S:%S) %S"
 msgstr ""
 
-## Params: waiting, running, done.
+#. ## Params: waiting, running, done.
 #: msg.dcclist.summary
 msgid "DCC sessions: %S pending, %S connected, %S finished."
 msgstr ""
@@ -3442,7 +3762,7 @@ msgstr ""
 msgid "[[Close][Close (disconnect) this DCC offer][%S]]"
 msgstr ""
 
-# DCC state names.
+#. # DCC state names.
 #: msg.dcc.state.abort
 msgid "Aborted"
 msgstr ""
@@ -3455,7 +3775,12 @@ msgstr ""
 msgid "Accepted"
 msgstr ""
 
-# 1 = percent, 2 = current pos, 3 = total size, 4 = speed.
+#: msg.dcc.state.connect
+msgctxt "msg.dcc.state.connect"
+msgid "Connected"
+msgstr ""
+
+#. # 1 = percent, 2 = current pos, 3 = total size, 4 = speed.
 #: msg.dcc.state.connectPro
 msgid "Connected (%S%% complete, %S of %S, %S)"
 msgstr ""
@@ -3472,13 +3797,18 @@ msgstr ""
 msgid "Failed"
 msgstr ""
 
-# SI general format (1$ == number, 2$ == scale suffix).
+#. # SI general format (1$ == number, 2$ == scale suffix).
 #: msg.si.size
-#: msg.si.speed
+msgctxt "msg.si.size"
 msgid "%1$S %2$S"
 msgstr ""
 
-# SI suffixes for sizes.
+#: msg.si.speed
+msgctxt "msg.si.speed"
+msgid "%1$S %2$S"
+msgstr ""
+
+#. # SI suffixes for sizes.
 #: msg.si.size.0
 msgid "B"
 msgstr ""
@@ -3507,7 +3837,7 @@ msgstr ""
 msgid "EiB"
 msgstr ""
 
-# SI suffixes for speeds.
+#. # SI suffixes for speeds.
 #: msg.si.speed.0
 msgid "B/s"
 msgstr ""
@@ -3699,7 +4029,7 @@ msgid "&Don't Quit"
 msgstr ""
 
 #: msg.warn.on.exit
-#: pref.warnOnClose.label
+msgctxt "msg.warn.on.exit"
 msgid "Warn me when quitting while still connected"
 msgstr ""
 
@@ -3859,7 +4189,7 @@ msgstr ""
 msgid "Unknown proxy host connecting to %S (%S)."
 msgstr ""
 
-# In these messages, the first replacement string is a connection error from above.
+#. # In these messages, the first replacement string is a connection error from above.
 #: msg.connection.exhausted
 msgid "\"%S Connection attempts exhausted, giving up."
 msgstr ""
@@ -3936,12 +4266,17 @@ msgstr ""
 msgid "YOU (%S) have left %S\""
 msgstr ""
 
+#: msg.you.left.reason
+msgctxt "msg.you.left.reason"
+msgid "YOU (%S) have left %S (%S)"
+msgstr ""
+
 #: msg.someone.left
 msgid "\"%S has left %S\""
 msgstr ""
 
 #: msg.someone.left.reason
-#: msg.someone.quit
+msgctxt "msg.someone.left.reason"
 msgid "\"%S has left %S (%S)"
 msgstr ""
 
@@ -3982,12 +4317,23 @@ msgid "Enter an away message to use:"
 msgstr ""
 
 #: msg.away.default
+msgctxt "msg.away.default"
+msgid "I'm not here right now."
+msgstr ""
+
 #: msg.away.idle.default
+msgctxt "msg.away.idle.default"
 msgid "I'm not here right now."
 msgstr ""
 
 #: msg.you.quit
+msgctxt "msg.you.quit"
 msgid "YOU (%S) have left %S (%S)"
+msgstr ""
+
+#: msg.someone.quit
+msgctxt "msg.someone.quit"
+msgid "\"%S has left %S (%S)"
 msgstr ""
 
 #: msg.unknown.ctcp
@@ -4184,33 +4530,44 @@ msgstr ""
 msgid "The view ``%1$S'' has been successfully saved to ``%2$S''."
 msgstr ""
 
-#: msg.inst1.msg1
+#: msg.ceip.msg1
 msgid ""
-"ChatZilla would like to send a simple \"ping\" to a central server each time "
-"you start it, indicating which version you are using, and what Operating "
-"System you use. This information will be kept completely private, and does "
-"not contain any personally identifiable information. You have the choice to "
-"%1$S or %2$S this."
+"ChatZilla would like you to participate in the Customer Experience "
+"Improvement Program. You can %1$S or %2$S this."
 msgstr ""
 
-#: msg.inst1.msg2
-msgid "Use |/%1$S| to allow, or |/%2$S| to deny this request."
+#: msg.ceip.msg2
+msgid "Use |/%1$S| to participate, or |/%2$S| to ignore this request."
 msgstr ""
 
-#: msg.inst1.msgRply1
-msgid "Startup ping failed with error ``%S''."
+#: msg.ceip.enabled
+msgid ""
+"All Customer Experience Improvement Program options have been turned on. "
+"Data will be collected and periodically sent, without interrupting you."
 msgstr ""
 
-#: msg.inst1.msgRply2
-msgid "Startup ping sent OK."
+#: msg.ceip.disabled
+msgid ""
+"All Customer Experience Improvement Program options have been turned off. No "
+"data will be collected or sent."
 msgstr ""
 
-#: msg.inst1.command.yes
-msgid "[[Allow][Allow ChatZilla to send \"ping\" on startup][%S]]"
+#: msg.ceip.command.yes
+msgid "[[Participate][Participate in the CEIP][%S]]"
 msgstr ""
 
-#: msg.inst1.command.no
-msgid "[[Deny][Don't allow ChatZilla to send \"ping\" on startup][%S]]"
+#: msg.ceip.command.no
+msgid "[[Ignore][Don't participate in the CEIP][%S]]"
+msgstr ""
+
+#: msg.ceip.upload.ok
+msgid "Customer Experience Improvement Program: upload of “%S” succeeded."
+msgstr ""
+
+#: msg.ceip.upload.failed
+msgid ""
+"Customer Experience Improvement Program: upload of “%S” failed with error "
+"“%S”."
 msgstr ""
 
 #: munger.mailto
@@ -4242,17 +4599,17 @@ msgid "Double Quotes"
 msgstr ""
 
 #: munger.rheet
-#: pref.munger.rheet.label
+msgctxt "munger.rheet"
 msgid "Rheet"
 msgstr ""
 
 #: munger.bold
-#: pref.munger.bold.label
+msgctxt "munger.bold"
 msgid "Bold"
 msgstr ""
 
 #: munger.italic
-#: pref.munger.italic.label
+msgctxt "munger.italic"
 msgid "Italic"
 msgstr ""
 
@@ -4261,12 +4618,12 @@ msgid "Talkback link"
 msgstr ""
 
 #: munger.teletype
-#: pref.munger.teletype.label
+msgctxt "munger.teletype"
 msgid "Teletype"
 msgstr ""
 
 #: munger.underline
-#: pref.munger.underline.label
+msgctxt "munger.underline"
 msgid "Underline"
 msgstr ""
 
@@ -4274,7 +4631,7 @@ msgstr ""
 msgid "Control Chars"
 msgstr ""
 
-# Date/Time representations for strftime
+#. # Date/Time representations for strftime
 #: datetime.day.long
 msgid "Sunday^Monday^Tuesday^Wednesday^Thursday^Friday^Saturday"
 msgstr ""
@@ -4325,8 +4682,8 @@ msgstr ""
 msgid "%H:%M:%S"
 msgstr ""
 
-# Messages used in config.js, part of the pref window.
-# We only allow one pref window open at once, this occurs when a 2nd is opened.
+#. # Messages used in config.js, part of the pref window.
+#. # We only allow one pref window open at once, this occurs when a 2nd is opened.
 #: msg.prefs.alreadyOpen
 msgid ""
 "ChatZilla's preferences are already open; you may not open a second copy."
@@ -4387,9 +4744,9 @@ msgid ""
 "defaults?"
 msgstr ""
 
-# First is for adding prefix/suffix to the overall header, and the next three
-# are for the different objects (first is network name, second is channel/user
-# name).
+#. # First is for adding prefix/suffix to the overall header, and the next three
+#. # are for the different objects (first is network name, second is channel/user
+#. # name).
 #: msg.prefs.fmt.header
 msgid "\"%S\""
 msgstr ""
@@ -4406,13 +4763,13 @@ msgstr ""
 msgid "Network %S, user %S\""
 msgstr ""
 
-# Name for "global" object.
+#. # Name for "global" object.
 #: msg.prefs.global
 msgid "Global Settings"
 msgstr ""
 
-# Localized names for all the prefs and tooltip "help" messages.
-# NOTE: "Bugzilla", "ChatZilla" and "mIRC" are product names.
+#. # Localized names for all the prefs and tooltip "help" messages.
+#. # NOTE: "Bugzilla", "ChatZilla" and "mIRC" are product names.
 #: pref.activityFlashDelay.label
 msgid "Activity flash delay"
 msgstr ""
@@ -4424,7 +4781,7 @@ msgid ""
 msgstr ""
 
 #: pref.aliases.label
-#: pref.group.lists.aliases.label
+msgctxt "pref.aliases.label"
 msgid "Command aliases"
 msgstr ""
 
@@ -4460,7 +4817,7 @@ msgid ""
 msgstr ""
 
 #: pref.autoperform.label
-#: pref.group.lists.autoperform.label
+msgctxt "pref.autoperform.label"
 msgid "Auto-perform"
 msgstr ""
 
@@ -4488,8 +4845,8 @@ msgid "Away status"
 msgstr ""
 
 #: pref.away.help
+msgctxt "pref.away.help"
 msgid ""
-"_: pref.away.help\n"
 msgstr ""
 
 #: pref.awayIdleTime.label
@@ -4771,7 +5128,7 @@ msgid "Allows ChatZilla to connect to servers that require an ident response."
 msgstr ""
 
 #: pref.initialURLs.label
-#: pref.group.startup.initialURLs.label
+msgctxt "pref.initialURLs.label"
 msgid "Auto-connect URLs"
 msgstr ""
 
@@ -4783,7 +5140,7 @@ msgid ""
 msgstr ""
 
 #: pref.initialScripts.label
-#: pref.group.startup.initialScripts.label
+msgctxt "pref.initialScripts.label"
 msgid "Auto-load scripts"
 msgstr ""
 
@@ -4970,6 +5327,11 @@ msgid ""
 "one."
 msgstr ""
 
+#: pref.munger.bold.label
+msgctxt "pref.munger.bold.label"
+msgid "Bold"
+msgstr ""
+
 #: pref.munger.bold.help
 msgid ""
 "Makes ChatZilla display text between astersks (e.g. *bold*) in an actually "
@@ -5020,6 +5382,11 @@ msgstr ""
 msgid "Makes ChatZilla display images for common smilies, such as :-) and ;-)."
 msgstr ""
 
+#: pref.munger.italic.label
+msgctxt "pref.munger.italic.label"
+msgid "Italic"
+msgstr ""
+
 #: pref.munger.italic.help
 msgid "Makes ChatZilla italicize text between forward slashes. (e.g. /italic/)"
 msgstr ""
@@ -5048,6 +5415,11 @@ msgstr ""
 msgid "Makes ChatZilla replace `` with “ and '' with ”."
 msgstr ""
 
+#: pref.munger.rheet.label
+msgctxt "pref.munger.rheet.label"
+msgid "Rheet"
+msgstr ""
+
 #: pref.munger.rheet.help
 msgid "Makes ChatZilla hyperlink \"rheet\": a very Mozilla.org-centric feature."
 msgstr ""
@@ -5062,10 +5434,20 @@ msgid ""
 "stack trace."
 msgstr ""
 
+#: pref.munger.teletype.label
+msgctxt "pref.munger.teletype.label"
+msgid "Teletype"
+msgstr ""
+
 #: pref.munger.teletype.help
 msgid ""
 "Makes ChatZilla display |teletype| actually in teletype (a fixed-width "
 "font)."
+msgstr ""
+
+#: pref.munger.underline.label
+msgctxt "pref.munger.underline.label"
+msgid "Underline"
 msgstr ""
 
 #: pref.munger.underline.help
@@ -5116,7 +5498,7 @@ msgid ""
 msgstr ""
 
 #: pref.nicknameList.label
-#: pref.group.lists.nicknameList.label
+msgctxt "pref.nicknameList.label"
 msgid "Nickname List"
 msgstr ""
 
@@ -5140,7 +5522,7 @@ msgid ""
 msgstr ""
 
 #: pref.notifyList.label
-#: pref.group.lists.notifyList.label
+msgctxt "pref.notifyList.label"
 msgid "Notify list"
 msgstr ""
 
@@ -5230,7 +5612,7 @@ msgid ""
 msgstr ""
 
 #: pref.sound.enabled.label
-#: pref.timestamps.label
+msgctxt "pref.sound.enabled.label"
 msgid "Enabled"
 msgstr ""
 
@@ -5252,15 +5634,15 @@ msgid ""
 "first will cause the sound to be played."
 msgstr ""
 
-##pref.sound.surpressActive.label = Suppress Sounds for active view
-##pref.sound.surpressActive.help  = Stops sounds generated by the active view from playing if ChatZilla is the active window. Sounds from other views, or when ChatZilla is not active, will always play.
+#. ##pref.sound.surpressActive.label = Suppress Sounds for active view
+#. ##pref.sound.surpressActive.help  = Stops sounds generated by the active view from playing if ChatZilla is the active window. Sounds from other views, or when ChatZilla is not active, will always play.
 #: pref.sound.channel.start.label
 msgid "Channel: Start session"
 msgstr ""
 
 #: pref.sound.channel.start.help
+msgctxt "pref.sound.channel.start.help"
 msgid ""
-"_: pref.sound.channel.start.help\n"
 msgstr ""
 
 #: pref.sound.channel.event.label
@@ -5268,8 +5650,8 @@ msgid "Channel: Non-chat event"
 msgstr ""
 
 #: pref.sound.channel.event.help
+msgctxt "pref.sound.channel.event.help"
 msgid ""
-"_: pref.sound.channel.event.help\n"
 msgstr ""
 
 #: pref.sound.channel.chat.label
@@ -5277,8 +5659,8 @@ msgid "Channel: Normal chat"
 msgstr ""
 
 #: pref.sound.channel.chat.help
+msgctxt "pref.sound.channel.chat.help"
 msgid ""
-"_: pref.sound.channel.chat.help\n"
 msgstr ""
 
 #: pref.sound.channel.stalk.label
@@ -5286,8 +5668,8 @@ msgid "Channel: Stalk match"
 msgstr ""
 
 #: pref.sound.channel.stalk.help
+msgctxt "pref.sound.channel.stalk.help"
 msgid ""
-"_: pref.sound.channel.stalk.help\n"
 msgstr ""
 
 #: pref.sound.user.start.label
@@ -5295,8 +5677,8 @@ msgid "User: Start session"
 msgstr ""
 
 #: pref.sound.user.start.help
+msgctxt "pref.sound.user.start.help"
 msgid ""
-"_: pref.sound.user.start.help\n"
 msgstr ""
 
 #: pref.sound.user.stalk.label
@@ -5304,8 +5686,8 @@ msgid "User: Normal chat"
 msgstr ""
 
 #: pref.sound.user.stalk.help
+msgctxt "pref.sound.user.stalk.help"
 msgid ""
-"_: pref.sound.user.stalk.help\n"
 msgstr ""
 
 #: pref.stalkWholeWords.label
@@ -5320,7 +5702,7 @@ msgid ""
 msgstr ""
 
 #: pref.stalkWords.label
-#: pref.group.lists.stalkWords.label
+msgctxt "pref.stalkWords.label"
 msgid "Stalk words"
 msgstr ""
 
@@ -5378,13 +5760,18 @@ msgid ""
 "available options, look up usermode on www.irchelp.org."
 msgstr ""
 
+#: pref.warnOnClose.label
+msgctxt "pref.warnOnClose.label"
+msgid "Warn me when quitting while still connected"
+msgstr ""
+
 #: pref.warnOnClose.help
 msgid ""
 "When quitting while still connected to networks, a message appears asking "
 "you if you are sure you want to quit. Uncheck this to disable it."
 msgstr ""
 
-# Preference group labels #
+#. # Preference group labels #
 #: pref.group.general.label
 msgid "General"
 msgstr ""
@@ -5428,9 +5815,7 @@ msgid "Userlist"
 msgstr ""
 
 #: pref.group.dcc.label
-#: pref.dccUserHeader.label
-#: pref.dccUserLog.label
-#: pref.dccUserMaxLines.label
+msgctxt "pref.group.dcc.label"
 msgid "DCC"
 msgstr ""
 
@@ -5450,8 +5835,43 @@ msgstr ""
 msgid "Startup"
 msgstr ""
 
+#: pref.group.startup.initialURLs.label
+msgctxt "pref.group.startup.initialURLs.label"
+msgid "Auto-connect URLs"
+msgstr ""
+
+#: pref.group.startup.initialScripts.label
+msgctxt "pref.group.startup.initialScripts.label"
+msgid "Auto-load scripts"
+msgstr ""
+
 #: pref.group.lists.label
 msgid "Lists"
+msgstr ""
+
+#: pref.group.lists.stalkWords.label
+msgctxt "pref.group.lists.stalkWords.label"
+msgid "Stalk words"
+msgstr ""
+
+#: pref.group.lists.aliases.label
+msgctxt "pref.group.lists.aliases.label"
+msgid "Command aliases"
+msgstr ""
+
+#: pref.group.lists.notifyList.label
+msgctxt "pref.group.lists.notifyList.label"
+msgid "Notify list"
+msgstr ""
+
+#: pref.group.lists.nicknameList.label
+msgctxt "pref.group.lists.nicknameList.label"
+msgid "Nickname List"
+msgstr ""
+
+#: pref.group.lists.autoperform.label
+msgctxt "pref.group.lists.autoperform.label"
+msgid "Auto-perform"
 msgstr ""
 
 #: pref.group.global.label
@@ -5503,8 +5923,8 @@ msgid "Sound Configuration"
 msgstr ""
 
 #: pref.group.global.sounds.help
+msgctxt "pref.group.global.sounds.help"
 msgid ""
-"_: pref.group.global.sounds.help\n"
 msgstr ""
 
 #: pref.group.global.soundEvts.label
@@ -5517,82 +5937,135 @@ msgid ""
 "list of either \"beep\" or file: URLs."
 msgstr ""
 
-# These are the prefs that get grouped #
+#. # These are the prefs that get grouped #
 #: pref.networkHeader.label
-#: pref.networkLog.label
-#: pref.networkMaxLines.label
+msgctxt "pref.networkHeader.label"
 msgid "Networks"
 msgstr ""
 
 #: pref.networkHeader.help
+msgctxt "pref.networkHeader.help"
 msgid ""
-"_: pref.networkHeader.help\n"
 msgstr ""
 
 #: pref.channelHeader.label
-#: pref.channelLog.label
-#: pref.channelMaxLines.label
+msgctxt "pref.channelHeader.label"
 msgid "Channels"
 msgstr ""
 
 #: pref.channelHeader.help
+msgctxt "pref.channelHeader.help"
 msgid ""
-"_: pref.channelHeader.help\n"
+msgstr ""
+
+#: pref.userHeader.label
+msgctxt "pref.userHeader.label"
+msgid "Users"
 msgstr ""
 
 #: pref.userHeader.help
+msgctxt "pref.userHeader.help"
 msgid ""
-"_: pref.userHeader.help\n"
+msgstr ""
+
+#: pref.dccUserHeader.label
+msgctxt "pref.dccUserHeader.label"
+msgid "DCC"
 msgstr ""
 
 #: pref.dccUserHeader.help
+msgctxt "pref.dccUserHeader.help"
 msgid ""
-"_: pref.dccUserHeader.help\n"
+msgstr ""
+
+#: pref.networkLog.label
+msgctxt "pref.networkLog.label"
+msgid "Networks"
 msgstr ""
 
 #: pref.networkLog.help
+msgctxt "pref.networkLog.help"
 msgid ""
-"_: pref.networkLog.help\n"
+msgstr ""
+
+#: pref.channelLog.label
+msgctxt "pref.channelLog.label"
+msgid "Channels"
 msgstr ""
 
 #: pref.channelLog.help
+msgctxt "pref.channelLog.help"
 msgid ""
-"_: pref.channelLog.help\n"
+msgstr ""
+
+#: pref.userLog.label
+msgctxt "pref.userLog.label"
+msgid "Users"
 msgstr ""
 
 #: pref.userLog.help
+msgctxt "pref.userLog.help"
 msgid ""
-"_: pref.userLog.help\n"
+msgstr ""
+
+#: pref.dccUserLog.label
+msgctxt "pref.dccUserLog.label"
+msgid "DCC"
 msgstr ""
 
 #: pref.dccUserLog.help
+msgctxt "pref.dccUserLog.help"
 msgid ""
-"_: pref.dccUserLog.help\n"
+msgstr ""
+
+#: pref.clientMaxLines.label
+msgctxt "pref.clientMaxLines.label"
+msgid "Client"
 msgstr ""
 
 #: pref.clientMaxLines.help
+msgctxt "pref.clientMaxLines.help"
 msgid ""
-"_: pref.clientMaxLines.help\n"
+msgstr ""
+
+#: pref.networkMaxLines.label
+msgctxt "pref.networkMaxLines.label"
+msgid "Networks"
 msgstr ""
 
 #: pref.networkMaxLines.help
+msgctxt "pref.networkMaxLines.help"
 msgid ""
-"_: pref.networkMaxLines.help\n"
+msgstr ""
+
+#: pref.channelMaxLines.label
+msgctxt "pref.channelMaxLines.label"
+msgid "Channels"
 msgstr ""
 
 #: pref.channelMaxLines.help
+msgctxt "pref.channelMaxLines.help"
 msgid ""
-"_: pref.channelMaxLines.help\n"
+msgstr ""
+
+#: pref.userMaxLines.label
+msgctxt "pref.userMaxLines.label"
+msgid "Users"
 msgstr ""
 
 #: pref.userMaxLines.help
+msgctxt "pref.userMaxLines.help"
 msgid ""
-"_: pref.userMaxLines.help\n"
+msgstr ""
+
+#: pref.dccUserMaxLines.label
+msgctxt "pref.dccUserMaxLines.label"
+msgid "DCC"
 msgstr ""
 
 #: pref.dccUserMaxLines.help
+msgctxt "pref.dccUserMaxLines.help"
 msgid ""
-"_: pref.dccUserMaxLines.help\n"
 msgstr ""
 
 #: pref.timestamps.display.label
@@ -5600,13 +6073,18 @@ msgid "Format"
 msgstr ""
 
 #: pref.timestamps.display.help
+msgctxt "pref.timestamps.display.help"
 msgid ""
-"_: pref.timestamps.display.help\n"
+msgstr ""
+
+#: pref.timestamps.label
+msgctxt "pref.timestamps.label"
+msgid "Enabled"
 msgstr ""
 
 #: pref.timestamps.help
+msgctxt "pref.timestamps.help"
 msgid ""
-"_: pref.timestamps.help\n"
 msgstr ""
 
 #: pref.msgBeep.label
@@ -5614,8 +6092,8 @@ msgid "New query view"
 msgstr ""
 
 #: pref.msgBeep.help
+msgctxt "pref.msgBeep.help"
 msgid ""
-"_: pref.msgBeep.help\n"
 msgstr ""
 
 #: pref.queryBeep.label
@@ -5623,8 +6101,8 @@ msgid "Query message"
 msgstr ""
 
 #: pref.queryBeep.help
+msgctxt "pref.queryBeep.help"
 msgid ""
-"_: pref.queryBeep.help\n"
 msgstr ""
 
 #: pref.stalkBeep.label
@@ -5632,6 +6110,6 @@ msgid "Important message"
 msgstr ""
 
 #: pref.stalkBeep.help
+msgctxt "pref.stalkBeep.help"
 msgid ""
-"_: pref.stalkBeep.help\n"
 msgstr ""

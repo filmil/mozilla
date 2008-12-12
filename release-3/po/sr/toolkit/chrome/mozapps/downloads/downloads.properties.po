@@ -1,16 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/toolkit/chrome/mozapps/downloads/downloads.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/downloads/downloads.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-04 20:19+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-04-07 22:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. # LOCALIZATION NOTE (seconds, minutes, hours, days): Semi-colon list of plural
@@ -77,10 +77,9 @@ msgstr ""
 "Молимо да пробате поново."
 
 #: quitCancelDownloadsAlertTitle
-#: offlineCancelDownloadsAlertTitle
 msgctxt "quitCancelDownloadsAlertTitle"
 msgid "Cancel All Downloads?"
-msgstr "Прекид свих пријема?"
+msgstr ""
 
 #: quitCancelDownloadsAlertMsg
 msgid ""
@@ -113,10 +112,9 @@ msgstr ""
 "изађете?"
 
 #: offlineCancelDownloadsAlertTitle
-#: quitCancelDownloadsAlertTitle
 msgctxt "offlineCancelDownloadsAlertTitle"
 msgid "Cancel All Downloads?"
-msgstr "Прекид свих пријема?"
+msgstr ""
 
 #: offlineCancelDownloadsAlertMsg
 msgid ""
@@ -133,6 +131,42 @@ msgid ""
 msgstr ""
 "Ако сада раскинете везу са мрежом, прекинућете пријем: %S. Да ли заиста то "
 "желите?"
+
+#: enterPrivateBrowsingCancelDownloadsAlertTitle
+msgctxt "enterPrivateBrowsingCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
+msgstr ""
+
+#: enterPrivateBrowsingCancelDownloadsAlertMsg
+msgid ""
+"If you enter the Private Browsing mode now, 1 download will be canceled. Are "
+"you sure you want to enter the Private Browsing mode?"
+msgstr ""
+
+#: enterPrivateBrowsingCancelDownloadsAlertMsgMultiple
+msgid ""
+"If you enter the Private Browsing mode now, %S downloads will be canceled. "
+"Are you sure you want to enter the Private Browsing mode?"
+msgstr ""
+
+#: leavePrivateBrowsingCancelDownloadsAlertTitle
+#: quitCancelDownloadsAlertTitle
+#: offlineCancelDownloadsAlertTitle
+msgctxt "leavePrivateBrowsingCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
+msgstr "Прекид свих пријема?"
+
+#: leavePrivateBrowsingCancelDownloadsAlertMsg
+msgid ""
+"If you leave the Private Browsing mode now, 1 download will be canceled. Are "
+"you sure you want to leave the Private Browsing mode?"
+msgstr ""
+
+#: leavePrivateBrowsingCancelDownloadsAlertMsgMultiple
+msgid ""
+"If you leave the Private Browsing mode now, %S downloads will be canceled. "
+"Are you sure you want to leave the Private Browsing mode?"
+msgstr ""
 
 #: cancelDownloadsOKText
 msgid "Cancel 1 Download"
@@ -153,6 +187,14 @@ msgstr "Не одустај"
 #: dontGoOfflineButton
 msgid "Stay Online"
 msgstr "Остани на вези"
+
+#: dontEnterPrivateBrowsingButton
+msgid "Don't Enter the Private Browsing Mode"
+msgstr ""
+
+#: dontLeavePrivateBrowsingButton
+msgid "Stay in Private Browsing Mode"
+msgstr ""
 
 #: downloadsCompleteTitle
 msgid "Downloads Complete"
@@ -325,7 +367,9 @@ msgstr "#1 датотека - пријеми;#1 датотеке - пријем�
 
 #: downloadsTitlePercent
 msgid "#2% of #1 file - Downloads;#2% of #1 files - Downloads"
-msgstr "#2% од #1 датотеке - пријеми;#2% од #1 датотеке  - пријеми;#2% од #1 датотека - пријеми"
+msgstr ""
+"#2% од #1 датотеке - пријеми;#2% од #1 датотеке  - пријеми;#2% од #1 "
+"датотека - пријеми"
 
 #: fileExecutableSecurityWarning
 msgid ""

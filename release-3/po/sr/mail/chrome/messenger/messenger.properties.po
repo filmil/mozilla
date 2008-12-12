@@ -1,89 +1,80 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is mozilla.org code.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Seth Spitzer <sspitzer@netscape.com>
-#   Lorenzo Colitti <lorenzo@colitti.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either of the GNU General Public License Version 2 or later (the "GPL"),
-# or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/mail/chrome/messenger/messenger.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is mozilla.org code.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 1998
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Seth Spitzer <sspitzer@netscape.com>
+#. #   Lorenzo Colitti <lorenzo@colitti.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either of the GNU General Public License Version 2 or later (the "GPL"),
+#. # or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messenger.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-04-08 22:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-#
-# The following are used by the messenger application
-#
-#: renameAccount
-msgid "Rename Account..."
-msgstr "Преименуј налог..."
-
-#: renameNewsAccount
-msgid "Rename News Account..."
-msgstr "Преименуј налог за групе..."
-
+#. # The following are used by the messenger application
+#. #
 #: removeAccount
-msgid "Delete Account..."
+#, fuzzy
+msgid "Delete Account…"
 msgstr "Обриши налог..."
 
-#: removeNewsAccount
-msgid "Delete News Account..."
-msgstr "Обриши налог за групе..."
-
 #: newFolderMenuItem
-msgid "Folder..."
+#, fuzzy
+msgid "Folder…"
 msgstr "Директријум..."
 
 #: newSubfolderMenuItem
-msgid "Subfolder..."
+#, fuzzy
+msgid "Subfolder…"
 msgstr "Поддиректоријум..."
 
 #: newFolder
-msgid "New Folder..."
+#, fuzzy
+msgid "New Folder…"
 msgstr "Нови директоријум..."
 
 #: newSubfolder
-msgid "New Subfolder..."
+#, fuzzy
+msgid "New Subfolder…"
 msgstr "Нови поддиректоријум..."
 
 #: folderProperties
@@ -91,7 +82,8 @@ msgid "Folder Properties"
 msgstr "Особине директоријума"
 
 #: newTag
-msgid "New Tag..."
+#, fuzzy
+msgid "New Tag…"
 msgstr "Нова ознака..."
 
 #: getNextNMessages
@@ -105,10 +97,6 @@ msgstr "Прелазак на следећу непрочитану поруку
 #: titleNewsPreHost
 msgid "on"
 msgstr "на"
-
-#: titleMailPreHost
-msgid "for"
-msgstr "за"
 
 #: replyToSender
 msgid "Reply to Sender"
@@ -126,9 +114,10 @@ msgstr "Датотеке с поштом"
 msgid "Open Message"
 msgstr "Отвори поруку"
 
-# LOCALIZATION NOTES(defaultSaveMessageAsFileName): Do not translate ".eml" 
-# in the line below.  Also, the complete file name should 8.3
 # LOCALIZATION NOTES(defaultSaveMessageAsFileName): Do not translate ".eml"
+# in the line below.  Also, the complete file name should 8.3
+#. # LOCALIZATION NOTE(defaultSaveMessageAsFileName): Do not translate ".eml" 
+#. # in the line below.  Also, the complete file name should 8.3
 #: defaultSaveMessageAsFileName
 msgid "message.eml"
 msgstr "порука.eml"
@@ -146,35 +135,43 @@ msgid "Save All Attachments"
 msgstr "Сачувај све прилоге"
 
 #: LoadingMessageToPrint
-msgid "Loading message to print..."
+#, fuzzy
+msgid "Loading message to print…"
 msgstr "Учитавање поруке за штампање..."
 
 #: MessageLoaded
-msgid "Message loaded..."
+#, fuzzy
+msgid "Message loaded…"
 msgstr "Порука је учитана..."
 
 #: PrintingMessage
-msgid "Printing message..."
+#, fuzzy
+msgid "Printing message…"
 msgstr "Штампање поруке..."
 
 #: PrintPreviewMessage
-msgid "Print Previewing message..."
+#, fuzzy
+msgid "Print Previewing message…"
 msgstr "Преглед поруке за штампање..."
 
 #: PrintingCard
-msgid "Printing card..."
+#, fuzzy
+msgid "Printing card…"
 msgstr "Штампање визиткарте..."
 
 #: PrintPreviewCard
-msgid "Print Previewing card..."
+#, fuzzy
+msgid "Print Previewing card…"
 msgstr "Преглед визиткарте за штампање..."
 
 #: PrintingAddrBook
-msgid "Printing AddressBook..."
+#, fuzzy
+msgid "Printing AddressBook…"
 msgstr "Штампање адресара..."
 
 #: PrintPreviewAddrBook
-msgid "Print Previewing AddressBook..."
+#, fuzzy
+msgid "Print Previewing AddressBook…"
 msgstr "Преглед адресара за штампање..."
 
 #: PrintingComplete
@@ -194,16 +191,19 @@ msgid "(Loading content for Print Preview)"
 msgstr "(Учитавање садржаја за преглед)"
 
 #: saveAttachmentFailed
-msgid "Unable to save the attachment. Please check your file name and try again later."
-msgstr "Прилог није могао бити сачуван. Молимо проверите име датотеке и пробајте поново."
+msgid ""
+"Unable to save the attachment. Please check your file name and try again "
+"later."
+msgstr ""
+"Прилог није могао бити сачуван. Молимо проверите име датотеке и пробајте "
+"поново."
 
 #: saveMessageFailed
-msgid "Unable to save the message. Please check your file name and try again later."
-msgstr "Порука није могла бити сачувана. Молимо проверите име датотеке и пробајте поново."
-
-#: notDownloaded
-msgid "(Not Downloaded)"
-msgstr "(Није примљено)"
+msgid ""
+"Unable to save the message. Please check your file name and try again later."
+msgstr ""
+"Порука није могла бити сачувана. Молимо проверите име датотеке и пробајте "
+"поново."
 
 #: fileExists
 msgid "%S already exists. Do you want to replace it?"
@@ -226,11 +226,17 @@ msgid "A folder with that name already exists. Please enter a different name."
 msgstr "Директоријум са тим именом већ постоји. Молимо унесите неко друго име."
 
 #: folderCreationFailed
-msgid "The folder could not be created because the folder name you specified contains an unrecognized character. Please enter a different name and try again."
-msgstr "Директоријум није могао бити направљен јер име директоријума садржи непознате знаке. Молимо унесите неко друго име и пробајте поново."
+msgid ""
+"The folder could not be created because the folder name you specified "
+"contains an unrecognized character. Please enter a different name and try "
+"again."
+msgstr ""
+"Директоријум није могао бити направљен јер име директоријума садржи "
+"непознате знаке. Молимо унесите неко друго име и пробајте поново."
 
 #: compactingFolder
-msgid "Compacting folder %S..."
+#, fuzzy
+msgid "Compacting folder %S…"
 msgstr "Сажимање директоријума %S..."
 
 #: doneCompacting
@@ -242,115 +248,229 @@ msgid "Compact Folders"
 msgstr "Сажми директоријуме"
 
 #: autoCompactAllFolders
-msgid "Do you wish to compact all local and offline folders to save disk space?"
-msgstr "Да ли желите да сажмете све локалне директоријуме како бисте уштедели простор на диску?"
+msgid ""
+"Do you wish to compact all local and offline folders to save disk space?"
+msgstr ""
+"Да ли желите да сажмете све локалне директоријуме како бисте уштедели "
+"простор на диску?"
 
 #: autoCompactAllFoldersCheckbox
 msgid "Do this automatically from now on."
 msgstr "Убудуће ради ово аутоматски."
 
 #: confirmFolderDeletionForFilter
-msgid "Deleting the folder '%S' will disable its associated filter(s). Are you sure you want to delete the folder?"
-msgstr "Брисањем директоријума „%S“ сви њему придружени филтери биће искључени. Да ли сигурно желите да обришете овај директоријум?"
+msgid ""
+"Deleting the folder '%S' will disable its associated filter(s). Are you sure "
+"you want to delete the folder?"
+msgstr ""
+"Брисањем директоријума „%S“ сви њему придружени филтери биће искључени. Да "
+"ли сигурно желите да обришете овај директоријум?"
 
 #: alertFilterChanged
 msgid "Filters associated with this folder will be updated."
 msgstr "Филтери придружени овом директоријуму биће освежени."
 
 #: filterDisabled
-msgid "The folder '%S' could not be found, so filter(s) associated with this folder will be disabled. Verify that the folder exists, and that filters point to a valid destination folder."
-msgstr "Директоријум „%S“ није могао бити пронађен и зато ће филтери придружени овом директоријуму бити искључени. Проверите да директоријуми заиста постоје и да филтери показују на важећи одредишни директоријум."
+msgid ""
+"The folder '%S' could not be found, so filter(s) associated with this folder "
+"will be disabled. Verify that the folder exists, and that filters point to "
+"a valid destination folder."
+msgstr ""
+"Директоријум „%S“ није могао бити пронађен и зато ће филтери придружени овом "
+"директоријуму бити искључени. Проверите да директоријуми заиста постоје и "
+"да филтери показују на важећи одредишни директоријум."
 
 #: filterFolderDeniedLocked
-msgid "The messages could not be filtered to folder '%S' because another operation is in progress."
-msgstr "Поруке нису могле да буду исфилтриране у директоријум „%S“ јер је неко друго дејство у току."
+msgid ""
+"The messages could not be filtered to folder '%S' because another operation "
+"is in progress."
+msgstr ""
+"Поруке нису могле да буду исфилтриране у директоријум „%S“ јер је неко друго "
+"дејство у току."
 
 #: parsingFolderFailed
-msgid "Unable to open the folder %S because it is in use by some other operation. Please wait for that operation to finish and then select the folder again."
-msgstr "Није могуће отворити директоријум %S јер га користи неко друго дејство.  Молимо да сачекате да се ово дејство заврши и онда поново изаберите директоријум."
+msgid ""
+"Unable to open the folder %S because it is in use by some other operation. "
+"Please wait for that operation to finish and then select the folder again."
+msgstr ""
+"Није могуће отворити директоријум %S јер га користи неко друго дејство.  "
+"Молимо да сачекате да се ово дејство заврши и онда поново изаберите "
+"директоријум."
 
 #: deletingMsgsFailed
-msgid "Unable to delete messages in folder %S because it is in use by some other operation. Please wait for that operation to finish and then try again."
-msgstr "Поруке из директоријума „%S“ нису могле бити обрисане јер га користи неко друго дејство. Молимо сачекајте да се то дејство заврши и онда пробајте поново."
+msgid ""
+"Unable to delete messages in folder %S because it is in use by some other "
+"operation. Please wait for that operation to finish and then try again."
+msgstr ""
+"Поруке из директоријума „%S“ нису могле бити обрисане јер га користи неко "
+"друго дејство. Молимо сачекајте да се то дејство заврши и онда пробајте "
+"поново."
 
 #: alertFilterCheckbox
 msgid "Do not warn me again."
 msgstr "Не упозоравај ме опет."
 
 #: compactFolderDeniedLock
-msgid "The folder '%S' cannot be compacted because another operation is in progress. Please try again later."
-msgstr "Директоријум „%S“ није могао бити сажет јер неко друго дејство још увек траје. Молимо пробајте касније."
+msgid ""
+"The folder '%S' cannot be compacted because another operation is in "
+"progress. Please try again later."
+msgstr ""
+"Директоријум „%S“ није могао бити сажет јер неко друго дејство још увек "
+"траје. Молимо пробајте касније."
 
 #: compactFolderWriteFailed
-msgid "The folder '%S' could not be compacted because writing to folder failed. Verify that you have enough disk space, and that you have write privileges to the file system, then try again."
-msgstr "Директоријум „%S“ није могао бити сажет јер упис у тај директоријум није успео. Проверите да ли имате довољно простора на диску и да имате права да пишете на систем датотека, а онда пробајте поново."
+msgid ""
+"The folder '%S' could not be compacted because writing to folder failed. "
+"Verify that you have enough disk space, and that you have write privileges "
+"to the file system, then try again."
+msgstr ""
+"Директоријум „%S“ није могао бити сажет јер упис у тај директоријум није "
+"успео. Проверите да ли имате довољно простора на диску и да имате права да "
+"пишете на систем датотека, а онда пробајте поново."
 
 #: filterFolderWriteFailed
-msgid "The messages could not be filtered to folder '%S' because writing to folder failed. Verify that you have enough disk space, and that you have write privileges to the file system, then try again."
-msgstr "Поруке нису могле бити филтриране у директоријум „%S“ јер упис у директоријум није успео. Проверите да ли имате довољно простора на диску и да имате привилегије за упис на систем датотека, а онда пробајте поново."
+msgid ""
+"The messages could not be filtered to folder '%S' because writing to folder "
+"failed. Verify that you have enough disk space, and that you have write "
+"privileges to the file system, then try again."
+msgstr ""
+"Поруке нису могле бити филтриране у директоријум „%S“ јер упис у "
+"директоријум није успео. Проверите да ли имате довољно простора на диску и "
+"да имате привилегије за упис на систем датотека, а онда пробајте поново."
 
 #: copyMsgWriteFailed
-msgid "The messages could not be moved or copied to folder '%S' because writing to folder failed. To gain disk space, from the File menu, first choose Empty Trash, and then choose Compact Folders, and then try again."
-msgstr "Поруке нису могле бити померене или умножене у директоријум „%S“ јер упис у директоријум није успео. Да бисте ослободили простор на диску, из менија „Датотека“ изаберите „Испразни смеће“ и пробајте поново."
+msgid ""
+"The messages could not be moved or copied to folder '%S' because writing to "
+"folder failed. To gain disk space, from the File menu, first choose Empty "
+"Trash, and then choose Compact Folders, and then try again."
+msgstr ""
+"Поруке нису могле бити померене или умножене у директоријум „%S“ јер упис у "
+"директоријум није успео. Да бисте ослободили простор на диску, из менија "
+"„Датотека“ изаберите „Испразни смеће“ и пробајте поново."
 
 #: cantMoveMsgWOBodyOffline
-msgid "While working offline, you cannot move or copy messages that were not downloaded for offline use. From the Mail window, open the File menu, choose Offline, then choose Work Online, and then try again."
-msgstr "При неповезаном раду, не можете умножавати или померати поруке које нису преузете за локални рад. Из прозора „Пошта“ отворите мени „Датотека“, изаберите „Неповезан рад“, затим изаберите „Рад на вези“, и пробајте поново."
+#, fuzzy
+msgid ""
+"While working offline, you cannot move or copy messages that were not "
+"downloaded for offline use. From the Mail window, open the File menu, choose "
+"Offline, then uncheck Work Offline, and then try again."
+msgstr ""
+"При неповезаном раду, не можете умножавати или померати поруке које нису "
+"преузете за локални рад. Из прозора „Пошта“ отворите мени „Датотека“, "
+"изаберите „Неповезан рад“, затим изаберите „Рад на вези“, и пробајте поново."
 
 #: operationFailedFolderBusy
-msgid "The operation failed because an other operation is using the folder. Please wait for that operation to finish and then try again."
-msgstr "Дејство није успело пошто нека друго дејство користи директоријум. Молимо сачекајте да се прво дејство заврши и онда пробајте поново."
+msgid ""
+"The operation failed because an other operation is using the folder. Please "
+"wait for that operation to finish and then try again."
+msgstr ""
+"Дејство није успело пошто нека друго дејство користи директоријум. Молимо "
+"сачекајте да се прво дејство заврши и онда пробајте поново."
 
 #: folderRenameFailed
-msgid "The folder could not be renamed. Perhaps the folder is being reparsed, or the new name is not a valid folder name."
-msgstr "Директоријум није могао бити преименован. Можда је у међувремену премештен или ново име није исправно име за директоријум."
+msgid ""
+"The folder could not be renamed. Perhaps the folder is being reparsed, or "
+"the new name is not a valid folder name."
+msgstr ""
+"Директоријум није могао бити преименован. Можда је у међувремену премештен "
+"или ново име није исправно име за директоријум."
 
 # LOCALIZATION NOTES(verboseFolderFormat): %1$S is folder name, %2$S is server name
+#. # LOCALIZATION NOTE(verboseFolderFormat): %1$S is folder name, %2$S is server name
 #: verboseFolderFormat
 msgid "%1$S on %2$S"
 msgstr "%1$S на %2$S"
 
 # LOCALIZATION NOTES(filterFolderTruncateFailed): %1$S is replaced by the folder name, %2$S is replaced by the brandShortName
+#. # LOCALIZATION NOTE(filterFolderTruncateFailed): %1$S is replaced by the folder name, %2$S is replaced by the brandShortName
 #: filterFolderTruncateFailed
-msgid "There was an error truncating the Inbox after filtering a message to folder '%1$S'. You may need to shutdown %2$S and delete INBOX.msf."
-msgstr "Дошло је до грешке приликом скраћивања долазног самдучета после филтрирања поруке за директоријум „%1$S‟. Можда ћете морати да затворите програм %2$S и уклоните датотеку INBOX.msf."
+msgid ""
+"There was an error truncating the Inbox after filtering a message to folder "
+"'%1$S'. You may need to shutdown %2$S and delete INBOX.msf."
+msgstr ""
+"Дошло је до грешке приликом скраћивања долазног самдучета после филтрирања "
+"поруке за директоријум „%1$S‟. Можда ћете морати да затворите програм %2$S и "
+"уклоните датотеку INBOX.msf."
 
 #: mailboxTooLarge
-msgid "The folder %S is full, and can't hold any more messages. To make room for more messages, delete any old or unwanted mail and compact the folder."
-msgstr "Директоријум „%S‟ је пун и не може да прими још порука.  Да бисте ослободили простор за још порука, уклоните стару или нежељену пошту и затим сажмите директоријум."
+msgid ""
+"The folder %S is full, and can't hold any more messages. To make room for "
+"more messages, delete any old or unwanted mail and compact the folder."
+msgstr ""
+"Директоријум „%S‟ је пун и не може да прими још порука.  Да бисте ослободили "
+"простор за још порука, уклоните стару или нежељену пошту и затим сажмите "
+"директоријум."
 
 #: errorGettingDB
-msgid "Unable to open the summary file for %S. Perhaps there was an error on disk, or the full path is too long."
-msgstr "Није могуће отворити датотеку са сажетком директоријума „%S‟. Можда је дошло до греке на диску, или је пуно име стазе предугачко."
+msgid ""
+"Unable to open the summary file for %S. Perhaps there was an error on disk, "
+"or the full path is too long."
+msgstr ""
+"Није могуће отворити датотеку са сажетком директоријума „%S‟. Можда је дошло "
+"до греке на диску, или је пуно име стазе предугачко."
 
 #: defaultServerTag
 msgid "(Default)"
 msgstr "(Изворно)"
 
-#: useDefaultServer
-msgid "Use default server"
-msgstr "Користи изворни сервер"
+#. # Used in message database list view to provide a text value for graphic based cells.
+#: messageUnread
+msgid "Unread"
+msgstr ""
+
+#: messageHasFlag
+msgctxt "messageHasFlag"
+msgid "Starred"
+msgstr ""
+
+#: messageHasAttachment
+msgid "Has Attachment"
+msgstr ""
+
+#: messageJunk
+msgctxt "messageJunk"
+msgid "Junk"
+msgstr ""
+
+#: messageExpanded
+msgid "Expanded"
+msgstr ""
+
+#: messageCollapsed
+msgid "Collapsed"
+msgstr ""
 
 # Used in the SMTP Account Settings panel when a server value has no properties
+#. # Used in the SMTP Account Settings panel when a server value has no properties
 #: smtpServerList-NotSpecified
 msgid "<not specified>"
 msgstr "<није назначен>"
 
-#: smtpServer-SecureConnection-Type-0
-msgid "None"
-msgstr "Ниједна"
+#: smtpServer-SecureConnection-Type_0
+msgctxt "smtpServer-SecureConnection-Type_0"
+msgid "No"
+msgstr ""
 
-#: smtpServer-SecureConnection-Type-1
-msgid "TLS (if available)"
-msgstr "TLS (ако је доступан)"
+#: smtpServer-SecureConnection-Type_1
+msgid "STARTTLS, if available"
+msgstr ""
 
-#: smtpServer-SecureConnection-Type-2
-msgid "TLS"
-msgstr "TLS"
+#: smtpServer-SecureConnection-Type_2
+msgid "STARTTLS"
+msgstr ""
 
-#: smtpServer-SecureConnection-Type-3
-msgid "SSL"
-msgstr "SSL"
+#: smtpServer-SecureConnection-Type_3
+msgid "SMTP-over-SSL"
+msgstr ""
+
+#: smtpServer-SecureAuthentication-Type-false
+msgctxt "smtpServer-SecureAuthentication-Type-false"
+msgid "No"
+msgstr ""
+
+#: smtpServer-SecureAuthentication-Type-true
+msgid "Yes"
+msgstr ""
 
 #: smtpServers-confirmServerDeletionTitle
 msgid "Delete Server"
@@ -365,16 +485,19 @@ msgstr ""
 " %S?"
 
 # LOCALIZATION NOTES(serverType-nntp): Do not translate "NNTP" in the line below
+#. # LOCALIZATION NOTE(serverType-nntp): Do not translate "NNTP" in the line below
 #: serverType-nntp
 msgid "News Server (NNTP)"
 msgstr "Сервер за групе (NNTP)"
 
 # LOCALIZATION NOTES(serverType-pop3): Do not translate "POP" in the line below
+#. # LOCALIZATION NOTE(serverType-pop3): Do not translate "POP" in the line below
 #: serverType-pop3
 msgid "POP Mail Server"
 msgstr "POP сервер за пошту"
 
 # LOCALIZATION NOTES(serverType-imap): Do not translate "IMAP" in the line below
+#. # LOCALIZATION NOTE(serverType-imap): Do not translate "IMAP" in the line below
 #: serverType-imap
 msgid "IMAP Mail Server"
 msgstr "IMAP сервер за пошту"
@@ -401,6 +524,7 @@ msgid "Lines"
 msgstr "Линија"
 
 # status feedback stuff
+#. # status feedback stuff
 #: documentDone
 msgid ""
 "_: documentDone\n"
@@ -409,23 +533,37 @@ msgstr ""
 
 # status feedback stuff
 #: documentLoading
-msgid "Loading Message..."
+#, fuzzy
+msgid "Loading Message…"
 msgstr "Учитавање поруке..."
+
+#. # LOCALIZATION NOTE (autosyncProgress): Do not translate the word "%1$S" or "%2$S" below.
+#. # Place the word %1$S in your translation where the name of the comma separated folders should appear.
+#. # Place the word %2$S in your translation where the name of the comma separated accounts should appear.
+#: autosyncProgress
+msgid "Synchronizing messages in %1$S from %2$S…"
+msgstr ""
 
 #: unreadMsgStatus
 msgid "Unread: %S"
 msgstr "Непрочитано: %S"
+
+#: selectedMsgStatus
+msgid "Selected: %S"
+msgstr ""
 
 #: totalMsgStatus
 msgid "Total: %S"
 msgstr "Укупно: %S"
 
 # localized folder names
+#. # localized folder names
 #: localFolders
 msgid "Local Folders"
 msgstr "Овдашње"
 
 # LOCALIZATION NOTES (inboxFolderName): OK to translate all foldernames, bugzilla #57440 & bugzilla #23625 fixed
+#. # LOCALIZATION NOTE (inboxFolderName): OK to translate all foldernames, bugzilla #57440 & bugzilla #23625 fixed
 #: inboxFolderName
 msgid "Inbox"
 msgstr "Долазнo"
@@ -446,18 +584,21 @@ msgstr "Скице"
 msgid "Templates"
 msgstr "Обрасци"
 
-#: unsentFolderName
-msgid "Unsent"
-msgstr "Непослато"
+#: outboxFolderName
+msgid "Outbox"
+msgstr ""
 
 # for junk status picker in search and mail views
 #: junkFolderName
 #: junk
+msgctxt "junkFolderName"
 msgid "Junk"
 msgstr "Отпад"
 
 # Error message for special folder deletion on imap accounts
 # LOCALIZATION NOTES (specialFolderDeletionErr): Do not translate "IMAP" in the line below
+#. # Error message for special folder deletion on imap accounts
+#. # LOCALIZATION NOTE (specialFolderDeletionErr): Do not translate "IMAP" in the line below
 #: specialFolderDeletionErr
 msgid "Deletion of special folder %S is not allowed for IMAP accounts."
 msgstr "Брисање посебног директоријума „%S“ није дозвољено за IMAP налоге."
@@ -468,6 +609,8 @@ msgstr "Брисање посебног директоријума"
 
 # "Normal" priority is often blank,
 # depending on the consumers of these strings
+#. # "Normal" priority is often blank,
+#. # depending on the consumers of these strings
 #: priorityLowest
 msgid "Lowest"
 msgstr "Најнижи"
@@ -490,6 +633,7 @@ msgstr "Највиши"
 
 #Group by date thread pane titles
 # Group by date thread pane titles
+#. #Group by date thread pane titles
 #: today
 msgid "Today"
 msgstr "Данас"
@@ -512,23 +656,27 @@ msgstr "Стара пошта"
 
 #Grouped By Tags
 # Grouped By Tags
+#. #Grouped By Tags
 #: untaggedMessages
 msgid "Untagged Messages"
 msgstr "Неозначене поруке"
 
 # Grouped by status
+#. # Grouped by status
 #: messagesWithNoStatus
 msgid "No Status"
 msgstr "Без статуса"
 
 #Grouped by priority
 # Grouped by priority
+#. #Grouped by priority
 #: noPriority
 msgid "No Priority"
 msgstr "Без приоритета"
 
 #Grouped by has attachments
 # Grouped by has attachments
+#. #Grouped by has attachments
 #: noAttachments
 msgid "No Attachments"
 msgstr "Нема прилога"
@@ -539,17 +687,21 @@ msgstr "Прилози"
 
 #Grouped by starred
 # Grouped by starred
+#. #Grouped by starred
 #: notFlagged
 msgid "Not Starred"
 msgstr "Нема звездицу"
 
 #: groupFlagged
 #: flagged
+msgctxt "groupFlagged"
 msgid "Starred"
 msgstr "Звездица"
 
 # defaults descriptions for tag prefs listed in mailnews.js
 # (we keep the .labels. names for backwards compatibility)
+#. # defaults descriptions for tag prefs listed in mailnews.js
+#. # (we keep the .labels. names for backwards compatibility)
 #: mailnews.tags.remove
 msgid "Remove All Tags"
 msgstr "Уклони све ознаке"
@@ -585,6 +737,15 @@ msgstr "Касније"
 # replaced by the tag label.
 # # LOCALIZATION NOTE (cityOrStateAndZip):
 # # %1$S is city or state, %2$S is zip
+#. # Format definition tag menu texts.
+#. # This is necessary in order to get the accesskeys to be the on the first
+#. # character of the menu text instead of after the menu text.
+#. # If a key definition exists for the tag at index n, that key's key will be
+#. # taken as the accesskey, eg.
+#. #   <key id="key_tag3" key="&tagCmd3.key;" oncommand="ToggleMessageTagKey(3);"/>
+#. # makes the third tag have the accesskey &tagCmd3.key;.
+#. # In the menuitem's label, this accesskey appears at %1$S below; %2$S will be
+#. # replaced by the tag label.
 #: mailnews.tags.format
 msgid "%1$S %2$S"
 msgstr "%1$S %2$S"
@@ -605,12 +766,49 @@ msgstr "Ново"
 msgid "Read"
 msgstr "Прочитано"
 
+#: flagged
+#: groupFlagged
+msgctxt "flagged"
+msgid "Starred"
+msgstr "Звездица"
+
+# for junk status picker in search and mail views
+#. # for junk status picker in search and mail views
+#: junk
+#: junkFolderName
+msgctxt "junk"
+msgid "Junk"
+msgstr "Отпад"
+
+#. # for junk score origin picker in search and mail views
+#: junkScoreOriginPlugin
+msgid "Plugin"
+msgstr ""
+
+#: junkScoreOriginFilter
+msgid "Filter"
+msgstr ""
+
+#: junkScoreOriginWhitelist
+msgid "Whitelist"
+msgstr ""
+
+#: junkScoreOriginUser
+msgid "User"
+msgstr ""
+
+#: junkScoreOriginImapFlag
+msgid "IMAP Flag"
+msgstr ""
+
 # for the has attachment picker in search and mail views
+#. # for the has attachment picker in search and mail views
 #: hasAttachments
 msgid "Has Attachments"
 msgstr "Има прилоге"
 
 # for the Tag picker in search and mail views.
+#. # for the Tag picker in search and mail views.
 #: tag
 msgid "Tags"
 msgstr "Ознаке"
@@ -618,16 +816,30 @@ msgstr "Ознаке"
 # mailnews.js
 # moved from navigator/locale/navigator.properties
 # valid collation options are: <empty string> or useCodePointOrder
+#. # mailnews.js
 #: mailnews.send_default_charset
 #: mailnews.view_default_charset
+msgctxt "mailnews.send_default_charset"
+msgid "ISO-8859-1"
+msgstr "UTF-8"
+
+# mailnews.js
+# moved from navigator/locale/navigator.properties
+# valid collation options are: <empty string> or useCodePointOrder
+#: mailnews.view_default_charset
+#: mailnews.send_default_charset
+msgctxt "mailnews.view_default_charset"
 msgid "ISO-8859-1"
 msgstr "UTF-8"
 
 # generate display names in last first order
 # valid mail.addr_book.displayName.lastnamefirst are: true or false
 # valid mail.addr_book.show_phonetic_fields are: true or false
+#. # generate display names in last first order
+#. # valid mail.addr_book.displayName.lastnamefirst are: true or false
 #: mail.addr_book.displayName.lastnamefirst
 #: mail.addr_book.show_phonetic_fields
+msgctxt "mail.addr_book.displayName.lastnamefirst"
 msgid "false"
 msgstr "false"
 
@@ -650,9 +862,30 @@ msgstr "false"
 #
 #
 #
+#. # the format for "mail.addr_book.quicksearchquery.format" is:
+#. # @V == the escaped value typed in the quick search bar in the addressbook
+#. #
+#. # note, changing this might require a change to SearchNameOrEmail.label
+#. # in messenger.dtd
+#. #
+#. # LOCALIZATION NOTE - please add phonetic names as below when "mail.addr_book.show_phonetic_fields" is true
+#. # "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V)(PhoneticFirstName,c,@V)(PhoneticLastName,c,@V))"
+#. #
 #: mail.addr_book.quicksearchquery.format
-msgid "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
-msgstr "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
+msgid ""
+"?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
+msgstr ""
+"?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V))"
+
+# generate display names in last first order
+# valid mail.addr_book.displayName.lastnamefirst are: true or false
+# valid mail.addr_book.show_phonetic_fields are: true or false
+#. # valid mail.addr_book.show_phonetic_fields are: true or false
+#: mail.addr_book.show_phonetic_fields
+#: mail.addr_book.displayName.lastnamefirst
+msgctxt "mail.addr_book.show_phonetic_fields"
+msgid "false"
+msgstr "false"
 
 # valid format options are:
 # 1: yyyy/mm/dd
@@ -666,30 +899,65 @@ msgstr "?(or(PrimaryEmail,c,@V)(DisplayName,c,@V)(FirstName,c,@V)(LastName,c,@V)
 #    a separator has to be either '/', '-', '.' and the year in Chistian year
 #    otherwise mm/dd/yyyy (option 3) is used
 #
+#. # valid format options are:
+#. # 1: yyyy/mm/dd
+#. # 2: yyyy/dd/mm
+#. # 3: mm/dd/yyyy
+#. # 4: mm/yyyy/dd
+#. # 5: dd/mm/yyyy
+#. # 6: dd/yyyy/mm
+#. #
+#. # 0: auto-detect the current locale format
+#. #    a separator has to be either '/', '-', '.' and the year in Chistian year
+#. #    otherwise mm/dd/yyyy (option 3) is used
+#. #
 #: mailnews.search_date_format
 msgid "0"
 msgstr "0"
 
 # separator for search date (e.g. "/", "-"), or empty when search_date_format is zero
+#. # separator for search date (e.g. "/", "-"), or empty when search_date_format is zero
 #: mailnews.search_date_separator
+msgctxt "mailnews.search_date_separator"
 msgid ""
 "_: mailnews.search_date_separator\n"
 ""
 msgstr ""
 
-# offline msg 
+#. # leading zeros for day and month values, not used if mailnews.search_date_format is not zero
+#: mailnews.search_date_leading_zeros
+msgid "true"
+msgstr ""
+
 # offline msg
+#. # offline msg
 #: nocachedbodybody
-msgid "The body of this message has not been downloaded from the server for reading offline. To read this message, you must reconnect to the network, choose Offline from the File menu and then select Work Online.In the future, you can select which messages or folders to read offline. To do this, choose Offline from the file menu and then select Synchronize. You can adjust the Disk Space preference to prevent the downloading of large messages."
-msgstr "Тело ове поруке није преузето са сервера за читање ван везе.  Да бисте прочитали ову поруку, морате да се повежете на мрежу, изаберете рад ван мреже из менија „Датотека‟ и затим изаберете „Рад на вези‟  Убудуће, можете да изаберете које поруке и директоријуме желите да читате ван мреже.  Да бисте ово урадили, изаберите „Ван мреже‟ из менија „Датотека‟ и затим изаберите „Усклади‟. Можете да користите подешавања простора на диску како бисте спречили пријем великих порука."
+#, fuzzy
+msgid ""
+"The body of this message has not been downloaded from the server for reading "
+"offline. To read this message, you must reconnect to the network, choose "
+"Offline from the File menu and then uncheck Work Offline. In the future, you "
+"can select which messages or folders to read offline. To do this, choose "
+"Offline from the file menu and then select Synchronize. You can adjust the "
+"Disk Space preference to prevent the downloading of large messages."
+msgstr ""
+"Тело ове поруке није преузето са сервера за читање ван везе.  Да бисте "
+"прочитали ову поруку, морате да се повежете на мрежу, изаберете рад ван "
+"мреже из менија „Датотека‟ и затим изаберете „Рад на вези‟  Убудуће, можете "
+"да изаберете које поруке и директоријуме желите да читате ван мреже.  Да "
+"бисте ово урадили, изаберите „Ван мреже‟ из менија „Датотека‟ и затим "
+"изаберите „Усклади‟. Можете да користите подешавања простора на диску како "
+"бисте спречили пријем великих порука."
 
 # accountCentral
 # (pofilter) unchanged: please translate
+#. # accountCentral
 #: mailnews.account_central_page.url
 msgid "chrome://messenger/content/msgAccountCentral.xul"
 msgstr "chrome://messenger/content/msgAccountCentral.xul"
 
 # LOCALIZATION NOTES(acctCentralTitleFormat): %1$S is brand, %2$S is account type, %3$S is account name
+#. # LOCALIZATION NOTE(acctCentralTitleFormat): %1$S is brand, %2$S is account type, %3$S is account name
 #: acctCentralTitleFormat
 msgid "%1$S %2$S - %3$S"
 msgstr "%1$S %2$S - %3$S"
@@ -703,12 +971,13 @@ msgid "News"
 msgstr "Групе"
 
 # LOCALIZATION NOTES(nocachedbodytitle): Do not translate "<TITLE>" or "</TITLE>" in the line below
+#. # LOCALIZATION NOTE(nocachedbodytitle): Do not translate "<TITLE>" or "</TITLE>" in the line below
 #: nocachedbodytitle
-msgid ""
-"<TITLE>Go Online to View This Message</TITLE>\n"
+msgid "<TITLE>Go Online to View This Message</TITLE>\n"
 msgstr "<TITLE>Потребно је повезати се на мрежу за преглед ове поруке</TITLE>\n"
 
 # mailWindowOverlay.js
+#. # mailWindowOverlay.js
 #: confirmUnsubscribeTitle
 msgid "Confirm Unsubscribe"
 msgstr "Потврдите одјаву"
@@ -717,15 +986,8 @@ msgstr "Потврдите одјаву"
 msgid "Are you sure you want to unsubscribe from %S?"
 msgstr "Да ли сигурно желите да се одјавите са %S?"
 
-#: cannotHaveTwoFilterRulesDialogs
-msgid "Filter Rules Dialog"
-msgstr "Правила за филтрирање"
-
-#: cannotHaveTwoFilterRulesText
-msgid "The filter cannot be created because the Filter Rules dialog is already in use. Please close the dialog and try again."
-msgstr "Филтер није могао бити начињен јер је прозор са правилима за филтрирање већ отворен. Молимо да затворите прозор и пробате поново."
-
 # msgHdrViewOverlay.js
+#. # msgHdrViewOverlay.js
 #: openLabel
 msgid "Open"
 msgstr "Отвори"
@@ -735,7 +997,8 @@ msgid "O"
 msgstr "О"
 
 #: saveLabel
-msgid "Save As..."
+#, fuzzy
+msgid "Save As…"
 msgstr "Сачувај као..."
 
 #: saveLabelAccesskey
@@ -743,7 +1006,8 @@ msgid "A"
 msgstr "к"
 
 #: detachLabel
-msgid "Detach..."
+#, fuzzy
+msgid "Detach…"
 msgstr "Откачи..."
 
 #: detachLabelAccesskey
@@ -770,7 +1034,8 @@ msgstr ""
 
 #: detachAttachments
 msgid ""
-"The following attachments have been successfully saved and will now be permanently deleted from this message:\n"
+"The following attachments have been successfully saved and will now be "
+"permanently deleted from this message:\n"
 "%S\n"
 "This action cannot be undone. Do you wish to continue?"
 msgstr ""
@@ -782,20 +1047,20 @@ msgstr ""
 msgid "Failed to delete the selected attachments."
 msgstr "Избор жељених прилога није успео."
 
-# LOCALIZATION NOTES(attachmentDeletePrefix): Do not translate until foreign language attachment names are fixed
-#: attachmentDeletePrefix
-msgid "Deleted: %S"
-msgstr "Уклоњено: %S"
-
 # This is the format for prepending accesskeys to the
 # each of the attachments in the file|attachments menu:
 #   ie: 1 file.txt
 #       2 another file.txt
+#. # This is the format for prepending accesskeys to the
+#. # each of the attachments in the file|attachments menu:
+#. #   ie: 1 file.txt
+#. #       2 another file.txt
 #: attachmentDisplayNameFormat
 msgid "%S %S"
 msgstr "%S %S"
 
 # Connection Error Messages
+#. # Connection Error Messages
 #: 101
 msgid "Unknown Error"
 msgstr "Непозната грешка"
@@ -816,12 +1081,12 @@ msgstr "Веза са сервером %S је истекла."
 msgid "Subject or Recipient contains:"
 msgstr "Тема или Прималац садржи:"
 
-#: senderSearchCriteria
-msgid "Subject or Sender contains:"
-msgstr "Тема или Пошиљалац садржи"
+#: fromSearchCriteria
+msgid "Subject or From contains:"
+msgstr ""
 
-# LOCALIZATION NOTES(biffNotification): %1$S is the number of new messages  
 # LOCALIZATION NOTES(biffNotification): %1$S is the number of new messages
+#. # LOCALIZATION NOTE(biffNotification): %1$S is the number of new messages
 #: biffNotification_message
 msgid "has %1$S new message"
 msgstr "%1$S нова порука"
@@ -830,8 +1095,8 @@ msgstr "%1$S нова порука"
 msgid "has %1$S new messages"
 msgstr "нових порука: %1$S"
 
-# LOCALIZATION NOTES(biffNotification): %1$S is the name of the account %2$S is the number of new messages  
 # LOCALIZATION NOTES(biffNotification): %1$S is the name of the account %2$S is the number of new messages
+#. # LOCALIZATION NOTE(biffNotification): %1$S is the name of the account %2$S is the number of new messages
 #: newBiffNotification_message
 msgid "%1$S has %2$S new message"
 msgstr "Корисник %1$S има нове поруке (укупно %2$S)"
@@ -841,6 +1106,7 @@ msgid "%1$S has %2$S new messages"
 msgstr "Корисник %1$S има нове поруке (укупно %2$S)"
 
 # For the Quota tab in the mail folder properties dialog
+#. # For the Quota tab in the mail folder properties dialog
 #: quotaUsedFree
 msgid "%S of %S KB used"
 msgstr "%S од %S KB у употреби"
@@ -849,10 +1115,21 @@ msgstr "%S од %S KB у употреби"
 msgid "%S%% full"
 msgstr "%S%% попуњено"
 
+#. # for quota in main window (commandglue.js)
+#: percent
+msgid "%S%%"
+msgstr ""
+
+#: quotaTooltip
+msgid "IMAP quota: %S KB used of %S KB total. Click for details."
+msgstr ""
+
 # for message views
 # for checking if the user really wants to open lots of messages
+#. # for message views
 #: confirmViewDeleteTitle
 #: openWindowWarningTitle
+msgctxt "confirmViewDeleteTitle"
 msgid "Confirm"
 msgstr "Потврди"
 
@@ -861,6 +1138,7 @@ msgid "Are you sure you want to delete this view?"
 msgstr "Да ли сигурно желите да обришете овај поглед?"
 
 # for virtual folders
+#. # for virtual folders
 #: confirmSavedSearchDeleteMessage
 msgid "Are you sure you want to delete this saved search?"
 msgstr "Да ли сигурно желите да обришете ову сачувану претрагу?"
@@ -872,6 +1150,11 @@ msgstr "Да ли сигурно желите да обришете ову са�
 # or the username should appear
 # # @name ENTER_PASSWORD_PROMPT
 # # @loc None
+#. ## @name ENTER_PASSWORD_PROMPT
+#. ## @loc None
+#. # LOCALIZATION NOTE (passwordPrompt): Do not translate the word %S below.
+#. # Place the word "%S" in your translation where the email address
+#. # or the username should appear
 #: passwordPrompt
 msgid "Enter your password for %1$S on %2$S:"
 msgstr "Унесите лозинку за %1$S на %2$S:"
@@ -880,34 +1163,58 @@ msgstr "Унесите лозинку за %1$S на %2$S:"
 ## @loc None
 # # @name ENTER_PASSWORD_PROMPT_TITLE
 # # @loc None
+#. ## @name ENTER_PASSWORD_PROMPT_TITLE
+#. ## @loc None
 #: passwordTitle
 msgid "Mail Server Password Required"
 msgstr "Потребна је лозинка за сервер за пошту"
+
+# for message views
+# for checking if the user really wants to open lots of messages
+#. # for checking if the user really wants to open lots of messages
+#: openWindowWarningTitle
+#: confirmViewDeleteTitle
+msgctxt "openWindowWarningTitle"
+msgid "Confirm"
+msgstr "Потврди"
 
 #: openWindowWarningText
 msgid "Opening %S messages may be slow.  Continue?"
 msgstr "Отварање %S порука може бити споро. Да наставим?"
 
 # for warning the user that a tag they're trying to create already exists
+#. # for warning the user that a tag they're trying to create already exists
 #: tagExists
 msgid "A tag with that name already exists."
 msgstr "Ознака са тим именом већ постоји."
 
+#. # title of the edit tag dialog
+#: editTagTitle
+msgid "Edit Tag"
+msgstr ""
+
 # for the virtual folder list dialog title
 # %S is the name of the saved search folder
+#. # for the virtual folder list dialog title
+#. # %S is the name of the saved search folder
 #: editVirtualFolderPropertiesTitle
 msgid "Edit Saved Search Properties for %S"
 msgstr "Унесите својства сачуване претраге за %S"
 
 #alert to inform the user to choose one or more folders to search for a saved search folder
 # alert to inform the user to choose one or more folders to search for a saved search folder
+#. #alert to inform the user to choose one or more folders to search for a saved search folder
 #: alertNoSearchFoldersSelected
-msgid "You must choose at least one folder to search for the saved search folder."
-msgstr "Морате изабрати бар један директоријум као директоријум за чување претрага."
+msgid ""
+"You must choose at least one folder to search for the saved search folder."
+msgstr ""
+"Морате изабрати бар један директоријум као директоријум за чување претрага."
 
 # These two are displayed in the message and folder pane windows
 # LOCALIZATION NOTES(????ByteAbbreviation): Do not translate %d below, it is the size of the message/folder
 # (pofilter) unchanged: please translate
+#. # These two are displayed in the message and folder pane windows
+#. # LOCALIZATION NOTE(????ByteAbbreviation): Do not translate %d below, it is the size of the message/folder
 #: kiloByteAbbreviation
 msgid "%dKB"
 msgstr "%dKB"
@@ -917,49 +1224,83 @@ msgstr "%dKB"
 msgid "%dMB"
 msgstr "%dMB"
 
+#. # Error message if message for a message id wasn't found
+#: errorOpenMessageForMessageIdTitle
+msgid "Error opening message-id"
+msgstr ""
+
+#: errorOpenMessageForMessageIdMessage
+msgid "Message for message-id %S not found"
+msgstr ""
+
 # Warnings to alert users about phishing urls
+#. # Warnings to alert users about phishing urls
 #: confirmPhishingTitle
 msgid "Email Scam Alert"
 msgstr "Можда је превара"
 
-#LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
-# LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
-#: confirmPhishingUrl1
-msgid "%1$S thinks this site is suspicious! It may be trying to impersonate the web page you want to visit. Most legitimate sites use names instead of numbers. Are you sure you want to visit %2$S?"
-msgstr "Програм %1$S сматра да је овај веб сајт сумњив.  Можда је направљено тако да имитира мрежне странице које желите да посетите.  Већина обичних веб сајтова користе имена уместо бројева.  Да ли сигурно желите да посетите адресу: %2$S?"
-
-#: confirmPhishingUrl2
-msgid "%1$S thinks this site is suspicious! It may be trying to impersonate the web page you want to visit. Are you sure you want to visit %2$S?"
-msgstr "Програм %1$S сматра да је овај веб сајт сумњив!  Можда покушава да опонаша место које бисте желели да посетите.  Да ли сигурно желите да посетите %2$S?"
+#. #LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
+#: confirmPhishingUrl
+msgid ""
+"%1$S thinks this message is a scam. The links in the message may be trying "
+"to impersonate web pages you want to visit. Are you sure you want to visit "
+"%2$S?"
+msgstr ""
 
 # Check for Updates
+#. # Check for Updates
 #: updatesItem_default
 #: updatesItem_defaultFallback
-msgid "Check for Updates..."
+#, fuzzy
+msgctxt "updatesItem_default"
+msgid "Check for Updates…"
+msgstr "Провера доградњи..."
+
+# Check for Updates
+#: updatesItem_defaultFallback
+#: updatesItem_default
+#, fuzzy
+msgctxt "updatesItem_defaultFallback"
+msgid "Check for Updates…"
 msgstr "Провера доградњи..."
 
 #: updatesItem_downloading
-msgid "Downloading %S..."
+#, fuzzy
+msgid "Downloading %S…"
 msgstr "Пријем %S..."
 
 #: updatesItem_downloadingFallback
-msgid "Downloading Update..."
+#, fuzzy
+msgid "Downloading Update…"
 msgstr "Пријем доградњи..."
 
 #: updatesItem_resume
-msgid "Resume Downloading %S..."
+#, fuzzy
+msgid "Resume Downloading %S…"
 msgstr "Наставак пријема: %S..."
 
 #: updatesItem_resumeFallback
-msgid "Resume Downloading Update..."
+#, fuzzy
+msgid "Resume Downloading Update…"
 msgstr "Наставак пријема доградње..."
 
 #: updatesItem_pending
 #: updatesItem_pendingFallback
-msgid "Apply Downloaded Update Now..."
+#, fuzzy
+msgctxt "updatesItem_pending"
+msgid "Apply Downloaded Update Now…"
+msgstr "Примени одмах примљену доградњу..."
+
+#: updatesItem_pendingFallback
+#: updatesItem_pending
+#, fuzzy
+msgctxt "updatesItem_pendingFallback"
+msgid "Apply Downloaded Update Now…"
 msgstr "Примени одмах примљену доградњу..."
 
 # Folder Pane Header Title Strings
+#. # Folder Pane Header Title Strings
+#: folderPaneHeader_all
 #: folderPaneHeader
 msgid "All Folders"
 msgstr "Сви директријуми"
@@ -968,6 +1309,7 @@ msgstr "Сви директријуми"
 msgid "Unread Folders"
 msgstr "Непрочитани директоријуми"
 
+#: folderPaneHeader_favorite
 #: folderPaneHeader_favorites
 msgid "Favorite Folders"
 msgstr "Омиљени директоријуми"
@@ -981,12 +1323,17 @@ msgstr "Скорашњи директоријуми"
 # should have the same value as copyToFolderAgainAccessKey as they are the same menu item in the UI
 # moveToFolderAgainAccessKey should also be a letter that occurs before %1$S
 # LOCALIZATION NOTE %1$S is the name of the folder we will move to. moveToFolderAgainAccessKey
+#. # Copy / Move to Folder Again
+#. #LOCALIZATION NOTE %1$S is the name of the folder we will move to. moveToFolderAgainAccessKey
+#. # should have the same value as copyToFolderAgainAccessKey as they are the same menu item in the UI
+#. # moveToFolderAgainAccessKey should also be a letter that occurs before %1$S
 #: moveToFolderAgain
 msgid "Move to \"%1$S\" Again"
 msgstr "Поново помери у „%1$S‟"
 
 #: moveToFolderAgainAccessKey
 #: copyToFolderAgainAccessKey
+msgctxt "moveToFolderAgainAccessKey"
 msgid "t"
 msgstr "П"
 
@@ -995,12 +1342,74 @@ msgstr "П"
 # should have the same value as moveToFolderAgainAccessKey as they are the same menu item in the UI
 # copyToFolderAgainAccessKey should also be a letter that occurs before %1$S
 # LOCALIZATION NOTE %1$S is the name of the folder we will copy to
+#. #LOCALIZATION NOTE %1$S is the name of the folder we will copy to
+#. # copyToFolderAgainAccessKey
+#. # should have the same value as moveToFolderAgainAccessKey as they are the same menu item in the UI
+#. # copyToFolderAgainAccessKey should also be a letter that occurs before %1$S
 #: copyToFolderAgain
 msgid "Copy to \"%1$S\" Again"
 msgstr "Поново умножи у „%1$S‟"
 
-#LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
-# LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
-#: alwaysLoadRemoteContentForSender
-msgid "Click here to always load remote images from %1$S"
-msgstr "Притисните овде да увек дозволите учитавање удаљених одраза од ове особе: %1$S"
+#: copyToFolderAgainAccessKey
+#: moveToFolderAgainAccessKey
+msgctxt "copyToFolderAgainAccessKey"
+msgid "t"
+msgstr "П"
+
+#. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
+#: alwaysLoadRemoteContentForSender1
+msgid "Always load remote images from %1$S"
+msgstr ""
+
+#. # Strings for growl notifications on Mac OS X
+#: growlNotification
+msgid "New Mail"
+msgstr ""
+
+#. # mailCommands.js
+#: emptyJunkTitle
+msgctxt "emptyJunkTitle"
+msgid "Confirm"
+msgstr ""
+
+#: emptyJunkMessage
+msgid ""
+"Are you sure you want to permanently delete all messages and subfolders in "
+"the Junk folder?"
+msgstr ""
+
+#: emptyJunkDontAsk
+msgctxt "emptyJunkDontAsk"
+msgid "Don't ask me again."
+msgstr ""
+
+#: emptyTrashTitle
+msgctxt "emptyTrashTitle"
+msgid "Confirm"
+msgstr ""
+
+#: emptyTrashMessage
+msgid ""
+"Are you sure you want to permanently delete all messages and subfolders in "
+"the Trash folder?"
+msgstr ""
+
+#: emptyTrashDontAsk
+msgctxt "emptyTrashDontAsk"
+msgid "Don't ask me again."
+msgstr ""
+
+#. # junkCommands.js
+#: junkAnalysisPercentComplete
+msgid "Junk analysis %S complete"
+msgstr ""
+
+#: processingJunkMessages
+msgid "Processing Junk Messages"
+msgstr ""
+
+#. # second person direct object pronoun; used in the collapsed header view if
+#. # the user is in the To or Cc field of a message
+#: headerFieldYou
+msgid "You"
+msgstr ""

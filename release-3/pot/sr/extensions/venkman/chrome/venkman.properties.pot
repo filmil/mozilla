@@ -1,77 +1,76 @@
-#
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is The JavaScript Debugger.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Robert Ginda, <rginda@netscape.com>, original author
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/extensions/venkman/chrome/venkman.properties
+#. #
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is The JavaScript Debugger.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 1998
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Robert Ginda, <rginda@netscape.com>, original author
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/extensions/venkman/chrome/venkman.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# NOTE ON LEADING/TRAILING SPACES AND QUOTES…
-# Strings in this file are stripped of leading and trailing quotes, if they are
-# present.  This allows you to express leading and trailing whitespace, which
-# would otherwise be trimmed by the stringbundle code.  In order to express
-# a leading or trailing quote, use two of them.
-#
-# For example…
-#
-# my.message1 = "          foo"
-# my.message2 = "          foo
-#  Both of these produce 10 spaces, followed by the word ``foo''.
-# my.message3 = "foo          "
-# my.message3 = foo          "
-#  Both of these produce the word ``foo'', followed by 10 spaces.
-# my.message4 = A sphincter says, "what?""
-# my.message4 = "A sphincter says, "what?""
-#  Both of these produce the phrase ``A sphincter says "what?"''
-#
-# character set to convert unicode messages to before writing them to a
-# profile report, or generated help text.
+#. # NOTE ON LEADING/TRAILING SPACES AND QUOTES…
+#. # Strings in this file are stripped of leading and trailing quotes, if they are
+#. # present.  This allows you to express leading and trailing whitespace, which
+#. # would otherwise be trimmed by the stringbundle code.  In order to express
+#. # a leading or trailing quote, use two of them.
+#. #
+#. # For example…
+#. #
+#. # my.message1 = "          foo"
+#. # my.message2 = "          foo
+#. #  Both of these produce 10 spaces, followed by the word ``foo''.
+#. # my.message3 = "foo          "
+#. # my.message3 = foo          "
+#. #  Both of these produce the word ``foo'', followed by 10 spaces.
+#. # my.message4 = A sphincter says, "what?""
+#. # my.message4 = "A sphincter says, "what?""
+#. #  Both of these produce the phrase ``A sphincter says "what?"''
+#. #
+#. # character set to convert unicode messages to before writing them to a
+#. # profile report, or generated help text.
 #: msg.report.charset
 msgid "utf-8"
 msgstr ""
@@ -92,24 +91,24 @@ msgstr ""
 msgid "http://www.mozilla.org/releases/"
 msgstr ""
 
-## exception descriptions ##
+#. ## exception descriptions ##
 #: err.notimplemented
 msgid "Not implemented"
 msgstr ""
 
 #: err.required.param
-#: msn.err.required.param
+msgctxt "err.required.param"
 msgid "Missing required parameter %1$S"
 msgstr ""
 
 #: err.invalid.param
-#: msn.err.invalid.param
+msgctxt "err.invalid.param"
 msgid "Invalid value for parameter %1$S (%2$S)"
 msgstr ""
 
-# 1 url, 2 fileName, 3 lineNumber, 4 reason
+#. # 1 url, 2 fileName, 3 lineNumber, 4 reason
 #: err.subscript.load
-#: msn.err.scriptload
+msgctxt "err.subscript.load"
 msgid "Error loading subscript from <%1$S>."
 msgstr ""
 
@@ -123,7 +122,7 @@ msgid ""
 msgstr ""
 
 #: err.failure
-#: msn.err.failure
+msgctxt "err.failure"
 msgid "Operation Failed: %1$S"
 msgstr ""
 
@@ -131,13 +130,28 @@ msgstr ""
 msgid "No Stack"
 msgstr ""
 
-## error messages ##
+#. ## error messages ##
 #: msn.err.unknown.reason
 msgid "Unknown reason"
 msgstr ""
 
+#: msn.err.required.param
+msgctxt "msn.err.required.param"
+msgid "Missing required parameter %1$S"
+msgstr ""
+
+#: msn.err.invalid.param
+msgctxt "msn.err.invalid.param"
+msgid "Invalid value for parameter %1$S (%2$S)"
+msgstr ""
+
 #: msn.err.invalid.pref
 msgid "Invalid value for preference %1$S (%2$S)"
+msgstr ""
+
+#: msn.err.scriptload
+msgctxt "msn.err.scriptload"
+msgid "Error loading subscript from <%1$S>."
 msgstr ""
 
 #: msn.err.no.source
@@ -200,6 +214,11 @@ msgstr ""
 
 #: msn.err.internal.hook
 msgid "Internal error processing hook ``%1$S''."
+msgstr ""
+
+#: msn.err.failure
+msgctxt "msn.err.failure"
+msgid "Operation Failed: %1$S"
 msgstr ""
 
 #: msn.err.no.section
@@ -280,7 +299,7 @@ msgstr ""
 msgid "Unknown pref name ``%1$S''."
 msgstr ""
 
-## "values" ##
+#. ## "values" ##
 #: msg.val.unknown
 msgid "<unknown>"
 msgstr ""
@@ -302,12 +321,7 @@ msgid "<object>"
 msgstr ""
 
 #: msg.val.expression
-#: cmd.copy-qual-name.params
-#: cmd.eval.params
-#: cmd.evald.params
-#: cmd.props.params
-#: cmd.propsd.params
-#: cmd.this-expr.params
+msgctxt "msg.val.expression"
 msgid "<expression>"
 msgstr ""
 
@@ -319,7 +333,7 @@ msgstr ""
 msgid "[[Parent]]"
 msgstr ""
 
-## words ##
+#. ## words ##
 #: msg.val.min
 msgid "min"
 msgstr ""
@@ -388,7 +402,7 @@ msgstr ""
 msgid "x-jsd:native-code"
 msgstr ""
 
-## types ##
+#. ## types ##
 #: msg.type.int
 msgid "integer"
 msgstr ""
@@ -441,7 +455,7 @@ msgstr ""
 msgid "Script Function"
 msgstr ""
 
-## messages ##
+#. ## messages ##
 #: msg.query.close
 msgid "Debugging in progress, close anyway?"
 msgstr ""
@@ -497,7 +511,7 @@ msgid ", \""
 msgstr ""
 
 #: msn.eval.in
-#: msn.source.line
+msgctxt "msn.eval.in"
 msgid "%1$S: %2$S\""
 msgstr ""
 
@@ -513,7 +527,7 @@ msgstr ""
 msgid "Subscript <%1$S> loaded with result ``%2$S''."
 msgstr ""
 
-# 1 exception name, 2 fileName, 3 lineNumber
+#. # 1 exception name, 2 fileName, 3 lineNumber
 #: msn.eval.error
 msgid "%1$S: <%2$S>, line %3$S"
 msgstr ""
@@ -590,9 +604,9 @@ msgstr ""
 msgid "%1$S breakpoints set:"
 msgstr ""
 
-# 1 index, 2 file name, 3 line
+#. # 1 index, 2 file name, 3 line
 #: msn.bp.line
-#: msn.fbp.line
+msgctxt "msn.bp.line"
 msgid "#%1$S <%2$S> line %3$S"
 msgstr ""
 
@@ -616,6 +630,12 @@ msgstr ""
 msgid "Enter expression for new value of “%1$S”:"
 msgstr ""
 
+#. # 1 index, 2 file name, 3 line
+#: msn.fbp.line
+msgctxt "msn.fbp.line"
+msgid "#%1$S <%2$S> line %3$S"
+msgstr ""
+
 #: msn.fbp.created
 msgid "Future breakpoint at <%1$S> line %2$S created."
 msgstr ""
@@ -626,6 +646,11 @@ msgstr ""
 
 #: msn.fbp.exists
 msgid "Future breakpoint at <%1$S> line %2$S already set."
+msgstr ""
+
+#: msn.source.line
+msgctxt "msn.source.line"
+msgid "%1$S: %2$S\""
 msgstr ""
 
 #: msg.emode.ignore
@@ -667,12 +692,12 @@ msgstr ""
 msgid "Chrome filtering is now %1$S."
 msgstr ""
 
-# 1 value, 2 frame
+#. # 1 value, 2 frame
 #: msn.exception.trace
 msgid "Exception ``%1$S'' thrown from %2$S."
 msgstr ""
 
-# 1 message, 2 flags, 3 file, 4 line, 5 pos
+#. # 1 message, 2 flags, 3 file, 4 line, 5 pos
 #: msn.erpt.error
 msgid "Error ``%1$S'' [%2$S] in file ``%3$S'', line %4$S, character %5$S."
 msgstr ""
@@ -744,7 +769,7 @@ msgstr ""
 msgid "Enter expression to watch:"
 msgstr ""
 
-## property value flags ##
+#. ## property value flags ##
 #: msg.vf.enumerable
 msgid "e"
 msgstr ""
@@ -781,111 +806,116 @@ msgstr ""
 msgid "h"
 msgstr ""
 
-## formatting ##
-# 1: argument name, 2: value
+#. ## formatting ##
+#. # 1: argument name, 2: value
 #: msn.fmt.argument
 msgid "%1$S=%2$S\""
 msgstr ""
 
-# 1: property flags, 2: property name, 3: property value
+#. # 1: property flags, 2: property name, 3: property value
 #: msn.fmt.property
 msgid "[%1$S] %2$S = %3$S\""
 msgstr ""
 
-# 1: function name, 2: filename
+#. # 1: function name, 2: filename
 #: msn.fmt.script
 msgid "function %1$S in <%2$S>"
 msgstr ""
 
-# 1: function name, 2: arguments, 3: filename, 4: line number
+#. # 1: function name, 2: arguments, 3: filename, 4: line number
 #: msn.fmt.frame
 msgid "function %1$S(%2$S) in <%3$S> line %4$S"
 msgstr ""
 
-# 1: type, 2: class name, 3: value
+#. # 1: type, 2: class name, 3: value
 #: msn.fmt.value.long
 msgid "[%1$S] [class: %2$S] %3$S\""
 msgstr ""
 
-# 1: type, 2: value
+#. # 1: type, 2: value
 #: msn.fmt.value.med
 msgid "[%1$S] %2$S\""
 msgstr ""
 
-# 1: type, 2: value
+#. # 1: type, 2: value
 #: msn.fmt.value.short
 msgid "%1$S:%2$S\""
 msgstr ""
 
-# 1: property count
+#. # 1: property count
 #: msn.fmt.object
 msgid "%1$S properties"
 msgstr ""
 
-# 1: ctor name, 2: property count
+#. # 1: ctor name, 2: property count
 #: msn.fmt.object.value
 msgid "{%1$S:%2$S}"
 msgstr ""
 
-# 1: JS exception name, 2: error text, 3: file name, 4: line number
+#. # 1: JS exception name, 2: error text, 3: file name, 4: line number
 #: msn.fmt.jsexception
 msgid "%1$S: %2$S @ <%3$S> %4$S\""
 msgstr ""
 
-# 1: error number,  2: error text, 3: file name, 4: line number, 5: function name
+#. # 1: error number,  2: error text, 3: file name, 4: line number, 5: function name
 #: msn.fmt.badmojo
 msgid "BadMojo %1$S: %2$S @ <%3$S> line %4$S (%5$S)"
 msgstr ""
 
-# 1: var number, 2: value
+#. # 1: var number, 2: value
 #: msn.fmt.tmp.assign
 msgid "$[%1$S] = %2$S\""
 msgstr ""
 
-# 1: string length
+#. # 1: string length
 #: msn.fmt.longstr
 msgid "%1$S characters"
 msgstr ""
 
-# 1: command name 2: parameters
+#. # 1: command name 2: parameters
 #: msn.fmt.usage
 msgid "%1$S %2$S"
 msgstr ""
 
-# 1: function name
-# 1: program counter
+#. # 1: function name
 #: msn.fmt.guessedname
-#: msn.fmt.pc
+msgctxt "msn.fmt.guessedname"
 msgid "[%1$S]"
 msgstr ""
 
-# 1: pref name 2: value
+#. # 1: program counter
+#: msn.fmt.pc
+msgctxt "msn.fmt.pc"
+msgid "[%1$S]"
+msgstr ""
+
+#. # 1: pref name 2: value
 #: msn.fmt.prefvalue
 msgid "Preference ``%1$S'' is ``%2$S''"
 msgstr ""
 
-# 1: index, 2: label, 3: value
+#. # 1: index, 2: label, 3: value
 #: msn.fmt.watch.item
 msgid "%1$S: %2$S = %3$S\""
 msgstr ""
 
-# 1: on|off
+#. # 1: on|off
 #: msn.fmt.pprint
 msgid "Pretty Print is %1$S."
 msgstr ""
 
-# 1: frame number, 2: frame string
+#. # 1: frame number, 2: frame string
 #: msn.fmt.frame.line
 msgid "#%1$S: %2$S\""
 msgstr ""
 
-# 1: file name, 2: line number, 3: pc
+#. # 1: file name, 2: line number, 3: pc
 #: msn.fmt.frame.location
 msgid "%1$S, line %2$S, pc %3$S"
 msgstr ""
 
-# 1: function name, 2: start line, 3: end line, 4: call count, 5: recurse,
-# 6: total, 7: min, 8: max, 9: avg
+#. # 1: function name, 2: start line, 3: end line, 4: call count, 5: recurse,
+#. # 6: total, 7: min, 8: max, 9: avg
 #: msn.fmt.profile.str
 msgid ""
 "%1$S: %2$S-%3$S, %4$S call(s)%5$S, %6$Sms total, %7$Sms min, %8$Sms max, "
@@ -896,12 +926,12 @@ msgstr ""
 msgid "%1$Sms total, %2$Sms min, %3$Sms max, %4$Sms avg"
 msgstr ""
 
-# 1: max recurse depth
+#. # 1: max recurse depth
 #: msn.fmt.profile.recurse
 msgid "\" (max depth %1$S)"
 msgstr ""
 
-## menu headings ##
+#. ## menu headings ##
 #: msg.mnu.file
 msgid "&File"
 msgstr ""
@@ -978,10 +1008,10 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
-#msg.doc.consolehdr   = Console Commands
-#msg.doc.menuhdr      = Menus
-#msg.doc.popuphdr     = Popups
-#msg.doc.keyhdr       = Keys
+#. #msg.doc.consolehdr   = Console Commands
+#. #msg.doc.menuhdr      = Menus
+#. #msg.doc.popuphdr     = Popups
+#. #msg.doc.keyhdr       = Keys
 #: msg.help.hostproblem
 msgid ""
 "You're running Venkman in an application which doesn't have a browser. "
@@ -1071,7 +1101,7 @@ msgstr ""
 msgid "Enable future breakpoint"
 msgstr ""
 
-# view captions
+#. # view captions
 #: msg.view.breaks
 msgid "Breakpoints"
 msgstr ""
@@ -1097,7 +1127,12 @@ msgid "Open Windows"
 msgstr ""
 
 #: msg.view.source
+msgctxt "msg.view.source"
+msgid "Source Code"
+msgstr ""
+
 #: msg.view.source2
+msgctxt "msg.view.source2"
 msgid "Source Code"
 msgstr ""
 
@@ -1105,7 +1140,7 @@ msgstr ""
 msgid "Watches"
 msgstr ""
 
-# settings file return values
+#. # settings file return values
 #: msg.breakpoints.restored
 msgid "Breakpoints restored."
 msgstr ""
@@ -1118,16 +1153,20 @@ msgstr ""
 msgid "Breakpoints and watches restored."
 msgstr ""
 
-###################### DO NO LOCALIZE THE *.params STRINGS ######################
-## hooks ##
+#. ###################### DO NO LOCALIZE THE *.params STRINGS ######################
+#. ## hooks ##
 #: cmd.hook-break-clear.params
-#: cmd.hook-break-set.params
-#: cmd.break-props.params
+msgctxt "cmd.hook-break-clear.params"
 msgid "<break-wrapper>"
 msgstr ""
 
 #: cmd.hook-break-clear.help
 msgid "Called when a breakpoint instance is cleared."
+msgstr ""
+
+#: cmd.hook-break-set.params
+msgctxt "cmd.hook-break-set.params"
+msgid "<break-wrapper>"
 msgstr ""
 
 #: cmd.hook-break-set.help
@@ -1143,7 +1182,7 @@ msgid "Called when the debugger continues execution of the debug target."
 msgstr ""
 
 #: cmd.hook-display-sourcetext.params
-#: cmd.hook-display-sourcetext-soft.params
+msgctxt "cmd.hook-display-sourcetext.params"
 msgid "<source-text> [<target-line> [<details>]]"
 msgstr ""
 
@@ -1153,6 +1192,11 @@ msgid ""
 "user.  <target-line> is the line which should appear at or near the top of "
 "the display.  If <details> is provided, it will be an object representing "
 "details about where the <source-text> object was derived from."
+msgstr ""
+
+#: cmd.hook-display-sourcetext-soft.params
+msgctxt "cmd.hook-display-sourcetext-soft.params"
+msgid "<source-text> [<target-line> [<details>]]"
 msgstr ""
 
 #: cmd.hook-display-sourcetext-soft.help
@@ -1166,7 +1210,7 @@ msgid "Called when an expression is evaluated."
 msgstr ""
 
 #: cmd.hook-fbreak-clear.params
-#: cmd.hook-fbreak-set.params
+msgctxt "cmd.hook-fbreak-clear.params"
 msgid "<fbreak>"
 msgstr ""
 
@@ -1174,15 +1218,17 @@ msgstr ""
 msgid "Called when a breakpoint instace is cleared."
 msgstr ""
 
+#: cmd.hook-fbreak-set.params
+msgctxt "cmd.hook-fbreak-set.params"
+msgid "<fbreak>"
+msgstr ""
+
 #: cmd.hook-fbreak-set.help
 msgid "Called when a breakpoint instace is set."
 msgstr ""
 
 #: cmd.hook-guess-complete.params
-#: cmd.hook-script-instance-created.params
-#: cmd.hook-script-instance-sealed.params
-#: cmd.hook-script-instance-destroyed.params
-#: cmd.scan-source.params
+msgctxt "cmd.hook-guess-complete.params"
 msgid "<script-instance>"
 msgstr ""
 
@@ -1204,7 +1250,7 @@ msgid ""
 msgstr ""
 
 #: cmd.hook-script-manager-created.params
-#: cmd.hook-script-manager-destroyed.params
+msgctxt "cmd.hook-script-manager-created.params"
 msgid "<script-manager>"
 msgstr ""
 
@@ -1216,11 +1262,21 @@ msgid ""
 "the |console.scriptManagers| object."
 msgstr ""
 
+#: cmd.hook-script-manager-destroyed.params
+msgctxt "cmd.hook-script-manager-destroyed.params"
+msgid "<script-manager>"
+msgstr ""
+
 #: cmd.hook-script-manager-destroyed.help
 msgid ""
 "Called after <script-manager> has been removed from the "
 "|console.scriptManagers| object.  This happens after last contained script-"
 "instance is destroyed."
+msgstr ""
+
+#: cmd.hook-script-instance-created.params
+msgctxt "cmd.hook-script-instance-created.params"
+msgid "<script-instance>"
 msgstr ""
 
 #: cmd.hook-script-instance-created.help
@@ -1229,12 +1285,22 @@ msgid ""
 "commands to one or more script-wrappers."
 msgstr ""
 
+#: cmd.hook-script-instance-sealed.params
+msgctxt "cmd.hook-script-instance-sealed.params"
+msgid "<script-instance>"
+msgstr ""
+
 #: cmd.hook-script-instance-sealed.help
 msgid ""
 "Called when <script-instance> is sealed.  Script instances are ``sealed'' "
 "when the top level function is created.  This signifies that the script "
 "source has been completely compiled.  Any non-function scripts created after "
 "this point will appear as a transient in the parent script-manager."
+msgstr ""
+
+#: cmd.hook-script-instance-destroyed.params
+msgctxt "cmd.hook-script-instance-destroyed.params"
+msgid "<script-instance>"
 msgstr ""
 
 #: cmd.hook-script-instance-destroyed.help
@@ -1265,8 +1331,7 @@ msgid ""
 msgstr ""
 
 #: cmd.hook-window-closed.params
-#: cmd.hook-window-opened.params
-#: cmd.hook-window-resized.params
+msgctxt "cmd.hook-window-closed.params"
 msgid "<window>"
 msgstr ""
 
@@ -1277,7 +1342,7 @@ msgid ""
 msgstr ""
 
 #: cmd.hook-window-loaded.params
-#: cmd.hook-window-unloaded.params
+msgctxt "cmd.hook-window-loaded.params"
 msgid "<event>"
 msgstr ""
 
@@ -1287,6 +1352,11 @@ msgid ""
 "reference to the DOM event passed to the onLoad handler of the window."
 msgstr ""
 
+#: cmd.hook-window-opened.params
+msgctxt "cmd.hook-window-opened.params"
+msgid "<window>"
+msgstr ""
+
 #: cmd.hook-window-opened.help
 msgid ""
 "Called when a new window object is opened.  The source for this window will "
@@ -1294,10 +1364,20 @@ msgid ""
 "DOM window object for the new window."
 msgstr ""
 
+#: cmd.hook-window-resized.params
+msgctxt "cmd.hook-window-resized.params"
+msgid "<window>"
+msgstr ""
+
 #: cmd.hook-window-resized.help
 msgid ""
 "Called when the main Venkman window or a floating window is resized.  "
 "<window> will be a reference to the window object."
+msgstr ""
+
+#: cmd.hook-window-unloaded.params
+msgctxt "cmd.hook-window-unloaded.params"
+msgid "<event>"
 msgstr ""
 
 #: cmd.hook-window-unloaded.help
@@ -1320,7 +1400,7 @@ msgstr ""
 msgid "Called when the debugger first starts up."
 msgstr ""
 
-## commands ##
+#. ## commands ##
 #: cmd.about-mozilla.label
 msgid "&About Mozilla"
 msgstr ""
@@ -1330,7 +1410,7 @@ msgid "Display information about your Mozilla installation."
 msgstr ""
 
 #: cmd.break.label
-#: cmd.set-break.label
+msgctxt "cmd.break.label"
 msgid "S&et Breakpoint"
 msgstr ""
 
@@ -1349,6 +1429,11 @@ msgstr ""
 
 #: cmd.break-props.label
 msgid "Breakpoint &Properties…"
+msgstr ""
+
+#: cmd.break-props.params
+msgctxt "cmd.break-props.params"
+msgid "<break-wrapper>"
 msgstr ""
 
 #: cmd.break-props.help
@@ -1387,14 +1472,7 @@ msgid ""
 msgstr ""
 
 #: cmd.chrome-filter.params
-#: cmd.pprint.params
-#: cmd.profile.params
-#: cmd.show-functions.params
-#: cmd.show-ecmas.params
-#: cmd.show-constants.params
-#: cmd.show-most-recent.params
-#: cmd.startup-init.params
-#: cmd.source-coloring.params
+msgctxt "cmd.chrome-filter.params"
 msgid "[<toggle>]"
 msgstr ""
 
@@ -1414,7 +1492,7 @@ msgid "C&lear Breakpoint"
 msgstr ""
 
 #: cmd.clear.params
-#: cmd.fclear.params
+msgctxt "cmd.clear.params"
 msgid "<url-pattern> [<line-number>]"
 msgstr ""
 
@@ -1433,13 +1511,12 @@ msgid "Clears every breakpoint currently defined."
 msgstr ""
 
 #: cmd.clear-break.label
-#: cmd.clear-script.label
-#: cmd.clear-instance.label
+msgctxt "cmd.clear-break.label"
 msgid "&Clear Breakpoint"
 msgstr ""
 
 #: cmd.clear-break.params
-#: cmd.clear-fbreak.params
+msgctxt "cmd.clear-break.params"
 msgid "<break-wrapper> [<...>]"
 msgstr ""
 
@@ -1452,6 +1529,11 @@ msgstr ""
 
 #: cmd.clear-fbreak.label
 msgid "Clear &Future Breakpoint"
+msgstr ""
+
+#: cmd.clear-fbreak.params
+msgctxt "cmd.clear-fbreak.params"
+msgid "<break-wrapper> [<...>]"
 msgstr ""
 
 #: cmd.clear-fbreak.help
@@ -1478,6 +1560,11 @@ msgstr ""
 msgid "Clears all text in the Interactive Session view."
 msgstr ""
 
+#: cmd.clear-script.label
+msgctxt "cmd.clear-script.label"
+msgid "&Clear Breakpoint"
+msgstr ""
+
 #: cmd.clear-script.params
 msgid "<script-wrapper> [<...>]"
 msgstr ""
@@ -1486,11 +1573,13 @@ msgstr ""
 msgid "Clear all breakpoints in the script wrapped by <script-wrapper>."
 msgstr ""
 
+#: cmd.clear-instance.label
+msgctxt "cmd.clear-instance.label"
+msgid "&Clear Breakpoint"
+msgstr ""
+
 #: cmd.clear-instance.params
-#: cmd.debug-instance-on.params
-#: cmd.debug-instance-off.params
-#: cmd.profile-instance-on.params
-#: cmd.profile-instance-off.params
+msgctxt "cmd.clear-instance.params"
 msgid "<script-instance> [<...>]"
 msgstr ""
 
@@ -1526,8 +1615,8 @@ msgid "accel Z"
 msgstr ""
 
 #: cmd.cmd-undo.params
+msgctxt "cmd.cmd-undo.params"
 msgid ""
-"_: cmd.cmd-undo.params\n"
 msgstr ""
 
 #: cmd.cmd-undo.help
@@ -1543,8 +1632,8 @@ msgid "accel Y"
 msgstr ""
 
 #: cmd.cmd-redo.params
+msgctxt "cmd.cmd-redo.params"
 msgid ""
-"_: cmd.cmd-redo.params\n"
 msgstr ""
 
 #: cmd.cmd-redo.help
@@ -1560,8 +1649,8 @@ msgid "accel X"
 msgstr ""
 
 #: cmd.cmd-cut.params
+msgctxt "cmd.cmd-cut.params"
 msgid ""
-"_: cmd.cmd-cut.params\n"
 msgstr ""
 
 #: cmd.cmd-cut.help
@@ -1579,8 +1668,8 @@ msgid "accel C"
 msgstr ""
 
 #: cmd.cmd-copy.params
+msgctxt "cmd.cmd-copy.params"
 msgid ""
-"_: cmd.cmd-copy.params\n"
 msgstr ""
 
 #: cmd.cmd-copy.help
@@ -1596,8 +1685,8 @@ msgid "accel V"
 msgstr ""
 
 #: cmd.cmd-paste.params
+msgctxt "cmd.cmd-paste.params"
 msgid ""
-"_: cmd.cmd-paste.params\n"
 msgstr ""
 
 #: cmd.cmd-paste.help
@@ -1613,8 +1702,8 @@ msgid "VK_DELETE"
 msgstr ""
 
 #: cmd.cmd-delete.params
+msgctxt "cmd.cmd-delete.params"
 msgid ""
-"_: cmd.cmd-delete.params\n"
 msgstr ""
 
 #: cmd.cmd-delete.help
@@ -1630,8 +1719,8 @@ msgid "accel A"
 msgstr ""
 
 #: cmd.cmd-selectall.params
+msgctxt "cmd.cmd-selectall.params"
 msgid ""
-"_: cmd.cmd-selectall.params\n"
 msgstr ""
 
 #: cmd.cmd-selectall.help
@@ -1643,7 +1732,7 @@ msgid "Copy Link Location"
 msgstr ""
 
 #: cmd.cmd-copy-link-url.params
-#: cmd.loadd.params
+msgctxt "cmd.cmd-copy-link-url.params"
 msgid "<url>"
 msgstr ""
 
@@ -1656,13 +1745,13 @@ msgid "&Mozilla Preferences…"
 msgstr ""
 
 #: cmd.cmd-mozilla-prefs.params
+msgctxt "cmd.cmd-mozilla-prefs.params"
 msgid ""
-"_: cmd.cmd-mozilla-prefs.params\n"
 msgstr ""
 
 #: cmd.cmd-mozilla-prefs.help
+msgctxt "cmd.cmd-mozilla-prefs.help"
 msgid ""
-"_: cmd.cmd-mozilla-prefs.help\n"
 msgstr ""
 
 #: cmd.cmd-prefs.label
@@ -1670,13 +1759,13 @@ msgid "Pr&eferences…"
 msgstr ""
 
 #: cmd.cmd-prefs.params
+msgctxt "cmd.cmd-prefs.params"
 msgid ""
-"_: cmd.cmd-prefs.params\n"
 msgstr ""
 
 #: cmd.cmd-prefs.help
+msgctxt "cmd.cmd-prefs.help"
 msgid ""
-"_: cmd.cmd-prefs.help\n"
 msgstr ""
 
 #: cmd.cmd-venkman-prefs.label
@@ -1684,13 +1773,13 @@ msgid "JavaScript Debugger Pr&eferences…"
 msgstr ""
 
 #: cmd.cmd-venkman-prefs.params
+msgctxt "cmd.cmd-venkman-prefs.params"
 msgid ""
-"_: cmd.cmd-venkman-prefs.params\n"
 msgstr ""
 
 #: cmd.cmd-venkman-prefs.help
+msgctxt "cmd.cmd-venkman-prefs.help"
 msgid ""
-"_: cmd.cmd-venkman-prefs.help\n"
 msgstr ""
 
 #: cmd.cmd-venkman-opts.label
@@ -1698,18 +1787,17 @@ msgid "&Options…"
 msgstr ""
 
 #: cmd.cmd-venkman-opts.params
+msgctxt "cmd.cmd-venkman-opts.params"
 msgid ""
-"_: cmd.cmd-venkman-opts.params\n"
 msgstr ""
 
 #: cmd.cmd-venkman-opts.help
+msgctxt "cmd.cmd-venkman-opts.help"
 msgid ""
-"_: cmd.cmd-venkman-opts.help\n"
 msgstr ""
 
 #: cmd.commands.params
-#: cmd.help.params
-#: cmd.search-scripts.params
+msgctxt "cmd.commands.params"
 msgid "[<pattern>]"
 msgstr ""
 
@@ -1733,6 +1821,11 @@ msgstr ""
 
 #: cmd.copy-qual-name.label
 msgid "Copy &Qualified Name"
+msgstr ""
+
+#: cmd.copy-qual-name.params
+msgctxt "cmd.copy-qual-name.params"
+msgid "<expression>"
 msgstr ""
 
 #: cmd.copy-qual-name.help
@@ -1760,7 +1853,7 @@ msgid "Don't &Debug"
 msgstr ""
 
 #: cmd.debug-script.params
-#: cmd.profile-script.params
+msgctxt "cmd.debug-script.params"
 msgid "<toggle> <script-wrapper> [<...>]"
 msgstr ""
 
@@ -1777,6 +1870,11 @@ msgstr ""
 msgid "&Don't Debug Contained Functions"
 msgstr ""
 
+#: cmd.debug-instance-on.params
+msgctxt "cmd.debug-instance-on.params"
+msgid "<script-instance> [<...>]"
+msgstr ""
+
 #: cmd.debug-instance-on.help
 msgid ""
 "Disable debugging in all functions contained by the script instance <script-"
@@ -1785,6 +1883,11 @@ msgstr ""
 
 #: cmd.debug-instance-off.label
 msgid "D&ebug Contained Functions"
+msgstr ""
+
+#: cmd.debug-instance-off.params
+msgctxt "cmd.debug-instance-off.params"
+msgid "<script-instance> [<...>]"
 msgstr ""
 
 #: cmd.debug-instance-off.help
@@ -1798,7 +1901,7 @@ msgid "&Toggle Debugging Contained Functions"
 msgstr ""
 
 #: cmd.debug-instance.params
-#: cmd.profile-instance.params
+msgctxt "cmd.debug-instance.params"
 msgid "<toggle> <script-instance> [<...>]"
 msgstr ""
 
@@ -1832,7 +1935,7 @@ msgid "Dump Profile Data"
 msgstr ""
 
 #: cmd.dumpprofile.params
-#: cmd.find-file.params
+msgctxt "cmd.dumpprofile.params"
 msgid "[<file-name>]"
 msgstr ""
 
@@ -1841,7 +1944,7 @@ msgid "<tree> [<depth>]"
 msgstr ""
 
 #: cmd.emode.params
-#: cmd.tmode.params
+msgctxt "cmd.emode.params"
 msgid "[<mode>]"
 msgstr ""
 
@@ -1855,10 +1958,20 @@ msgid ""
 "to control what happens when an exception is *thrown*, use |tmode|."
 msgstr ""
 
+#: cmd.eval.params
+msgctxt "cmd.eval.params"
+msgid "<expression>"
+msgstr ""
+
 #: cmd.eval.help
 msgid ""
 "Evaluates <expression> in the scope of the debug target's current frame.  "
 "See also: |frame|, |where|, |props|, and |evald|."
+msgstr ""
+
+#: cmd.evald.params
+msgctxt "cmd.evald.params"
+msgid "<expression>"
 msgstr ""
 
 #: cmd.evald.help
@@ -1886,7 +1999,7 @@ msgid "Tr&ace Errors"
 msgstr ""
 
 #: cmd.fbreak.label
-#: cmd.set-fbreak.label
+msgctxt "cmd.fbreak.label"
 msgid "Set &Future Breakpoint"
 msgstr ""
 
@@ -1905,6 +2018,11 @@ msgid ""
 "are optional.  See also: |break|."
 msgstr ""
 
+#: cmd.set-break.label
+msgctxt "cmd.set-break.label"
+msgid "S&et Breakpoint"
+msgstr ""
+
 #: cmd.set-break.params
 msgid "<url-pattern> <line-number> [<properties> [<parent>]]"
 msgstr ""
@@ -1916,6 +2034,11 @@ msgid ""
 "properties of the breakpoint.  <parent> is a reference to the Future "
 "Breakpoint object to assign as the parent.  This is the same as the |break| "
 "command, except the parameters are required.  See also: |break|, |clear|."
+msgstr ""
+
+#: cmd.set-fbreak.label
+msgctxt "cmd.set-fbreak.label"
+msgid "Set &Future Breakpoint"
 msgstr ""
 
 #: cmd.set-fbreak.params
@@ -1934,6 +2057,11 @@ msgstr ""
 
 #: cmd.fclear.label
 msgid "Clear F&uture Breakpoint"
+msgstr ""
+
+#: cmd.fclear.params
+msgctxt "cmd.fclear.params"
+msgid "<url-pattern> [<line-number>]"
 msgstr ""
 
 #: cmd.fclear.help
@@ -1967,8 +2095,7 @@ msgid "Find &Creator"
 msgstr ""
 
 #: cmd.find-creator.params
-#: cmd.find-ctor.params
-#: cmd.set-eval-obj.params
+msgctxt "cmd.find-creator.params"
 msgid "<jsd-value>"
 msgstr ""
 
@@ -1979,6 +2106,11 @@ msgstr ""
 
 #: cmd.find-ctor.label
 msgid "Find C&onstructor"
+msgstr ""
+
+#: cmd.find-ctor.params
+msgctxt "cmd.find-ctor.params"
+msgid "<jsd-value>"
 msgstr ""
 
 #: cmd.find-ctor.help
@@ -1992,6 +2124,11 @@ msgstr ""
 
 #: cmd.find-file.key
 msgid "accel O"
+msgstr ""
+
+#: cmd.find-file.params
+msgctxt "cmd.find-file.params"
+msgid "[<file-name>]"
 msgstr ""
 
 #: cmd.find-file.help
@@ -2029,7 +2166,7 @@ msgid ""
 msgstr ""
 
 #: cmd.find-sourcetext.params
-#: cmd.find-sourcetext-soft.params
+msgctxt "cmd.find-sourcetext.params"
 msgid "<source-text> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 msgstr ""
 
@@ -2041,6 +2178,11 @@ msgid ""
 "text> object was derived from.  If <target-line> is provided, the view will "
 "be scrolled to that line, otherwise the view will be scrolled to <range-"
 "start>."
+msgstr ""
+
+#: cmd.find-sourcetext-soft.params
+msgctxt "cmd.find-sourcetext-soft.params"
+msgid "<source-text> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 msgstr ""
 
 #: cmd.find-sourcetext-soft.help
@@ -2085,7 +2227,7 @@ msgid "&Find URL"
 msgstr ""
 
 #: cmd.find-url.params
-#: cmd.find-url-soft.params
+msgctxt "cmd.find-url.params"
 msgid "<url> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 msgstr ""
 
@@ -2100,6 +2242,11 @@ msgstr ""
 
 #: cmd.find-url-soft.label
 msgid "&Soft Focus URL"
+msgstr ""
+
+#: cmd.find-url-soft.params
+msgctxt "cmd.find-url-soft.params"
+msgid "<url> [<range-start> [<range-end> [<details> [<target-line>]]]]"
 msgstr ""
 
 #: cmd.find-url-soft.help
@@ -2158,6 +2305,11 @@ msgstr ""
 msgid "&Command Reference"
 msgstr ""
 
+#: cmd.help.params
+msgctxt "cmd.help.params"
+msgid "[<pattern>]"
+msgstr ""
+
 #: cmd.help.help
 msgid ""
 "Displays help on <pattern>, which can be a full command name, or the first "
@@ -2180,6 +2332,11 @@ msgstr ""
 
 #: cmd.loadd.label
 msgid "Load Script in Debugger Scope"
+msgstr ""
+
+#: cmd.loadd.params
+msgctxt "cmd.loadd.params"
+msgid "<url>"
 msgstr ""
 
 #: cmd.loadd.help
@@ -2248,6 +2405,11 @@ msgstr ""
 msgid "accel shift L"
 msgstr ""
 
+#: cmd.pprint.params
+msgctxt "cmd.pprint.params"
+msgid "[<toggle>]"
+msgstr ""
+
 #: cmd.pprint.help
 msgid ""
 "Set or display the state of Pretty Print mode.  The value of <toggle> can be "
@@ -2270,6 +2432,11 @@ msgid ""
 "then the preference will revert back to its default value."
 msgstr ""
 
+#: cmd.profile.params
+msgctxt "cmd.profile.params"
+msgid "[<toggle>]"
+msgstr ""
+
 #: cmd.profile.help
 msgid ""
 "Enables or disables the collection of profile data.  The value of <toggle> "
@@ -2280,6 +2447,11 @@ msgstr ""
 
 #: cmd.profile-script.label
 msgid "Don't &Profile"
+msgstr ""
+
+#: cmd.profile-script.params
+msgctxt "cmd.profile-script.params"
+msgid "<toggle> <script-wrapper> [<...>]"
 msgstr ""
 
 #: cmd.profile-script.help
@@ -2295,6 +2467,11 @@ msgstr ""
 msgid "Toggle Profilin&g Contained Functions"
 msgstr ""
 
+#: cmd.profile-instance.params
+msgctxt "cmd.profile-instance.params"
+msgid "<toggle> <script-instance> [<...>]"
+msgstr ""
+
 #: cmd.profile-instance.help
 msgid ""
 "Enable or disable profiling in all functions contained by the script "
@@ -2308,6 +2485,11 @@ msgstr ""
 msgid "Don't &Profile Contained Functions"
 msgstr ""
 
+#: cmd.profile-instance-on.params
+msgctxt "cmd.profile-instance-on.params"
+msgid "<script-instance> [<...>]"
+msgstr ""
+
 #: cmd.profile-instance-on.help
 msgid ""
 "Disable profiling in all functions contained by the script instance <script-"
@@ -2316,6 +2498,11 @@ msgstr ""
 
 #: cmd.profile-instance-off.label
 msgid "Profile &Contained Functions"
+msgstr ""
+
+#: cmd.profile-instance-off.params
+msgctxt "cmd.profile-instance-off.params"
+msgid "<script-instance> [<...>]"
 msgstr ""
 
 #: cmd.profile-instance-off.help
@@ -2332,11 +2519,21 @@ msgstr ""
 msgid "Toggle profile mode"
 msgstr ""
 
+#: cmd.props.params
+msgctxt "cmd.props.params"
+msgid "<expression>"
+msgstr ""
+
 #: cmd.props.help
 msgid ""
 "Lists the properties of the value returned by <expression>.  The expression "
 "is evaluated in the scope of the debug target's current frame.  See also: "
 "|where|, |frame|, |eval|, and |propsd|."
+msgstr ""
+
+#: cmd.propsd.params
+msgctxt "cmd.propsd.params"
+msgid "<expression>"
 msgstr ""
 
 #: cmd.propsd.help
@@ -2350,12 +2547,17 @@ msgid "&Exit"
 msgstr ""
 
 #: cmd.exit.key
-#: cmd.quit.key
+msgctxt "cmd.exit.key"
 msgid "accel Q"
 msgstr ""
 
 #: cmd.quit.label
 msgid "&Quit"
+msgstr ""
+
+#: cmd.quit.key
+msgctxt "cmd.quit.key"
+msgid "accel Q"
 msgstr ""
 
 #: cmd.quit.help
@@ -2367,7 +2569,7 @@ msgid "&Reload Source"
 msgstr ""
 
 #: cmd.reload-source-tab.params
-#: cmd.close-source-tab.params
+msgctxt "cmd.reload-source-tab.params"
 msgid "[<index>]"
 msgstr ""
 
@@ -2397,6 +2599,11 @@ msgstr ""
 msgid "accel W"
 msgstr ""
 
+#: cmd.close-source-tab.params
+msgctxt "cmd.close-source-tab.params"
+msgid "[<index>]"
+msgstr ""
+
 #: cmd.close-source-tab.help
 msgid ""
 "Close the tab located at the index specified by <index>.  If <index> is not "
@@ -2404,7 +2611,7 @@ msgid ""
 msgstr ""
 
 #: cmd.restore-layout.params
-#: cmd.save-layout.params
+msgctxt "cmd.restore-layout.params"
 msgid "[<name>]"
 msgstr ""
 
@@ -2420,9 +2627,7 @@ msgid "Restore Break/Watch Se&ttings…"
 msgstr ""
 
 #: cmd.restore-settings.params
-#: cmd.save-breakpoints.params
-#: cmd.save-settings.params
-#: cmd.save-watches.params
+msgctxt "cmd.restore-settings.params"
 msgid "[<settings-file>]"
 msgstr ""
 
@@ -2456,6 +2661,11 @@ msgstr ""
 
 #: cmd.save-default-layout.label
 msgid "&Save Default Layout Now"
+msgstr ""
+
+#: cmd.save-layout.params
+msgctxt "cmd.save-layout.params"
+msgid "[<name>]"
 msgstr ""
 
 #: cmd.save-layout.help
@@ -2509,6 +2719,11 @@ msgstr ""
 msgid "&Save Breakpoint Settings…"
 msgstr ""
 
+#: cmd.save-breakpoints.params
+msgctxt "cmd.save-breakpoints.params"
+msgid "[<settings-file>]"
+msgstr ""
+
 #: cmd.save-breakpoints.help
 msgid ""
 "Save the current list of breakpoints to a JavaScript file, so that they can "
@@ -2520,6 +2735,11 @@ msgstr ""
 
 #: cmd.save-settings.label
 msgid "Sa&ve Break/Watch Settings…"
+msgstr ""
+
+#: cmd.save-settings.params
+msgctxt "cmd.save-settings.params"
+msgid "[<settings-file>]"
 msgstr ""
 
 #: cmd.save-settings.help
@@ -2536,6 +2756,11 @@ msgstr ""
 msgid "&Save Watch Settings…"
 msgstr ""
 
+#: cmd.save-watches.params
+msgctxt "cmd.save-watches.params"
+msgid "[<settings-file>]"
+msgstr ""
+
 #: cmd.save-watches.help
 msgid ""
 "Save the current list of watches to a JavaScript file, so that they can be "
@@ -2543,6 +2768,11 @@ msgid ""
 "'?', a file chooser widget will be displayed.  <settings-file> can be a "
 "reference to a |LocalFile| object or a string representation of a native "
 "path.  See also: |save-settings|, |save-breakpoints|, |restore-settings|."
+msgstr ""
+
+#: cmd.search-scripts.params
+msgctxt "cmd.search-scripts.params"
+msgid "[<pattern>]"
 msgstr ""
 
 #: cmd.search-scripts.help
@@ -2581,6 +2811,11 @@ msgstr ""
 msgid "Set as &Evaluation Object"
 msgstr ""
 
+#: cmd.set-eval-obj.params
+msgctxt "cmd.set-eval-obj.params"
+msgid "<jsd-value>"
+msgstr ""
+
 #: cmd.set-eval-obj.help
 msgid ""
 "Sets the current ``evaluation object'' for use with the |eval| command.  The "
@@ -2590,6 +2825,11 @@ msgstr ""
 
 #: cmd.scan-source.label
 msgid "&Scan For Meta Comments"
+msgstr ""
+
+#: cmd.scan-source.params
+msgctxt "cmd.scan-source.params"
+msgid "<script-instance>"
 msgstr ""
 
 #: cmd.scan-source.help
@@ -2617,6 +2857,11 @@ msgstr ""
 msgid "Include &Functions"
 msgstr ""
 
+#: cmd.show-functions.params
+msgctxt "cmd.show-functions.params"
+msgid "[<toggle>]"
+msgstr ""
+
 #: cmd.show-functions.help
 msgid ""
 "Controls whether or not function properties (sometimes referred to as "
@@ -2630,6 +2875,11 @@ msgstr ""
 
 #: cmd.toggle-ecmas.label
 msgid "&Include ECMA Properties"
+msgstr ""
+
+#: cmd.show-ecmas.params
+msgctxt "cmd.show-ecmas.params"
+msgid "[<toggle>]"
 msgstr ""
 
 #: cmd.show-ecmas.help
@@ -2647,6 +2897,11 @@ msgstr ""
 msgid "Include Cons&tants"
 msgstr ""
 
+#: cmd.show-constants.params
+msgctxt "cmd.show-constants.params"
+msgid "[<toggle>]"
+msgstr ""
+
 #: cmd.show-constants.help
 msgid ""
 "Controls whether or not constant properties will be displayed in the Local "
@@ -2659,6 +2914,11 @@ msgstr ""
 
 #: cmd.toggle-show-most-recent.label
 msgid "E&xclude Duplicates"
+msgstr ""
+
+#: cmd.show-most-recent.params
+msgctxt "cmd.show-most-recent.params"
+msgid "[<toggle>]"
 msgstr ""
 
 #: cmd.show-most-recent.help
@@ -2689,6 +2949,11 @@ msgstr ""
 msgid "Initialize at &Startup"
 msgstr ""
 
+#: cmd.startup-init.params
+msgctxt "cmd.startup-init.params"
+msgid "[<toggle>]"
+msgstr ""
+
 #: cmd.startup-init.help
 msgid ""
 "Sets the state of the \"Initialize at Startup\" feature.  With this feature "
@@ -2704,6 +2969,11 @@ msgstr ""
 
 #: cmd.source-coloring.label
 msgid "Colori&ze Source"
+msgstr ""
+
+#: cmd.source-coloring.params
+msgctxt "cmd.source-coloring.params"
+msgid "[<toggle>]"
 msgstr ""
 
 #: cmd.source-coloring.help
@@ -2753,7 +3023,7 @@ msgid "<int> <word> [<word2> <word3>]"
 msgstr ""
 
 #: cmd.testargs.help
-#: cmd.testargs1.help
+msgctxt "cmd.testargs.help"
 msgid ""
 "Function for testing argument parsing.  Pass it what it wants, and it'll "
 "spit out the event object to stdout."
@@ -2763,12 +3033,29 @@ msgstr ""
 msgid "<int> [<...>]"
 msgstr ""
 
+#: cmd.testargs1.help
+msgctxt "cmd.testargs1.help"
+msgid ""
+"Function for testing argument parsing.  Pass it what it wants, and it'll "
+"spit out the event object to stdout."
+msgstr ""
+
+#: cmd.this-expr.params
+msgctxt "cmd.this-expr.params"
+msgid "<expression>"
+msgstr ""
+
 #: cmd.this-expr.help
 msgid ""
 "Sets the ``evaluation object'' to the result of <expression>.  The "
 "evaluation object is used as the |this| object in all evaluations.  The "
 "result of <expression> *must* be an object.  See also: |eval|, |props|, "
 "|watch-expr|, and |set-eval-obj|."
+msgstr ""
+
+#: cmd.tmode.params
+msgctxt "cmd.tmode.params"
+msgid "[<mode>]"
 msgstr ""
 
 #: cmd.tmode.help
@@ -2809,7 +3096,7 @@ msgid ""
 msgstr ""
 
 #: cmd.toggle-float.params
-#: cmd.toggle-view.params
+msgctxt "cmd.toggle-float.params"
 msgid "<view-id>"
 msgstr ""
 
@@ -2861,6 +3148,11 @@ msgstr ""
 
 #: cmd.toggle-pref.help
 msgid "Toggles the boolean preference specified by <pref-name>."
+msgstr ""
+
+#: cmd.toggle-view.params
+msgctxt "cmd.toggle-view.params"
+msgid "<view-id>"
 msgstr ""
 
 #: cmd.toggle-view.help
@@ -2938,7 +3230,7 @@ msgid "Add &Watch Expression…"
 msgstr ""
 
 #: cmd.watch-expr.params
-#: cmd.watch-exprd.params
+msgctxt "cmd.watch-expr.params"
 msgid "[<watch-expression>]"
 msgstr ""
 
@@ -2947,6 +3239,11 @@ msgid ""
 "Evaluates <expression> in the debug target scope and adds the result to the "
 "watch window.  If <expression> is not provided, all watches are printed to "
 "the console."
+msgstr ""
+
+#: cmd.watch-exprd.params
+msgctxt "cmd.watch-exprd.params"
+msgid "[<watch-expression>]"
 msgstr ""
 
 #: cmd.watch-exprd.help

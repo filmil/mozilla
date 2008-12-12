@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/cookie/cookieAcceptDialog.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/cookie/cookieAcceptDialog.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-18 01:34+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: hostColon
@@ -55,6 +54,7 @@ msgid "The site %S wants to set a second cookie."
 msgstr "Сајт %S покушава сачувати други колачић."
 
 #  LOCALIZATION NOTE (PermissionToSetAnotherCookie): First %S: sitename, second %S: number of cookies already present for that site
+#. #  LOCALIZATION NOTE (PermissionToSetAnotherCookie): First %S: sitename, second %S: number of cookies already present for that site
 #: permissionToSetAnotherCookie
 msgid ""
 "The site %S wants to set another cookie.\n"
@@ -66,11 +66,3 @@ msgstr ""
 #: permissionToModifyCookie
 msgid "The site %S wants to modify an existing cookie."
 msgstr "Сајт %S покушава да измени постојећи колачић."
-
-#: permissionToAcceptImage
-msgid "The site %S wants to load an image."
-msgstr "Сајт %S омогућује преузимање слика."
-
-#: rememberThisDecision
-msgid "Remember this decision"
-msgstr "Запамти одлуку"

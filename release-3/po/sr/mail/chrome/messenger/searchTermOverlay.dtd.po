@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/mail/chrome/messenger/searchTermOverlay.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/searchTermOverlay.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2007-01-26 02:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: matchAll.label
@@ -33,10 +32,39 @@ msgstr "&Уклопи све поруке"
 # The values below are used to control the widths of the search widgets.
 # Change the values only when the localized strings in the popup menus
 # are truncated in the widgets.
-# 
+#
+#. LOCALIZATION NOTE
+#. The values below are used to control the widths of the search widgets.
+#. Change the values only when the localized strings in the popup menus
+#. are truncated in the widgets.
 #: searchTermListAttributesFlexValue
 #: searchTermListOperatorsFlexValue
 #: searchTermListValueFlexValue
+msgctxt "searchTermListAttributesFlexValue"
+msgid "5"
+msgstr "5"
+
+# LOCALIZATION NOTE
+# The values below are used to control the widths of the search widgets.
+# Change the values only when the localized strings in the popup menus
+# are truncated in the widgets.
+#
+#: searchTermListOperatorsFlexValue
+#: searchTermListAttributesFlexValue
+#: searchTermListValueFlexValue
+msgctxt "searchTermListOperatorsFlexValue"
+msgid "5"
+msgstr "5"
+
+# LOCALIZATION NOTE
+# The values below are used to control the widths of the search widgets.
+# Change the values only when the localized strings in the popup menus
+# are truncated in the widgets.
+#
+#: searchTermListValueFlexValue
+#: searchTermListAttributesFlexValue
+#: searchTermListOperatorsFlexValue
+msgctxt "searchTermListValueFlexValue"
 msgid "5"
 msgstr "5"
 

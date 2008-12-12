@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/global/customizeToolbar.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/customizeToolbar.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-28 23:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: dialog.title
@@ -25,7 +24,8 @@ msgstr "width: 635px; height: 400px;"
 
 #: instructions.description
 msgid "You can add or remove items by dragging to or from the toolbars."
-msgstr "Можете да додате или уклоните ставке превлачећи их до или од алатне траке."
+msgstr ""
+"Можете да додате или уклоните ставке превлачећи их до или од алатне траке."
 
 #: show.label
 msgid "Show:"

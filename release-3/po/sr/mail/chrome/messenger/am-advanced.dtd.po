@@ -1,26 +1,14 @@
-# extracted from source/sr-RS/mail/chrome/messenger/am-advanced.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-27 02:47+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 # extracted from am-advanced.xul
+#. extracted from am-advanced.xul
+#. do not translate "SMTP" in below line
 #: smtpServer.label
 msgid ""
 "_: do not translate \"SMTP\" in below line\n"
 "Outgoing Server (SMTP) Settings"
 msgstr "Подешавања одлазног сервера (SMTP)"
 
+#. do not translate "SMTP" in below line
 #: smtpDesc.label
 msgid ""
 "_: do not translate \"SMTP\" in below line\n"
@@ -32,19 +20,23 @@ msgstr ""
 "препоручује само за напредне кориснике.  Постављање више SMTP сервера може "
 "да доведе до грешака при слању порука."
 
-#: smtpListAdd.label smtpListAdd.accesskey
+#: smtpListAdd.label
+#: smtpListAdd.accesskey
 msgid "A&dd…"
 msgstr "&Додај…"
 
-#: smtpListEdit.label smtpListEdit.accesskey
+#: smtpListEdit.label
+#: smtpListEdit.accesskey
 msgid "&Edit…"
 msgstr "&Уреди…"
 
-#: smtpListDelete.label smtpListDelete.accesskey
+#: smtpListDelete.label
+#: smtpListDelete.accesskey
 msgid "Re&move"
 msgstr "&Уклони"
 
-#: smtpListSetDefault.label smtpListSetDefault.accesskey
+#: smtpListSetDefault.label
+#: smtpListSetDefault.accesskey
 msgid "Se&t Default"
 msgstr "&Подразумевани"
 
@@ -71,9 +63,3 @@ msgstr "Безбедна веза: "
 #: useSecureAuthentication.label
 msgid "Secure Authentication: "
 msgstr "Безбедна аутентикација:"
-
-#~ msgid "A&dd..."
-#~ msgstr "&Додај..."
-
-#~ msgid "&Edit..."
-#~ msgstr "&Уреди..."

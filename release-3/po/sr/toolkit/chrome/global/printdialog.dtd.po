@@ -1,21 +1,16 @@
-# extracted from source/sr-RS/toolkit/chrome/global/printdialog.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-28 23:50+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 # extracted from printdialog.xul
-#: printButton.label printDialog.title
+#. extracted from printdialog.xul
+#: printButton.label
+#: printDialog.title
+msgctxt "printButton.label"
+msgid "Print"
+msgstr "Штампање"
+
+# extracted from printdialog.xul
+#: printDialog.title
+#: printButton.label
+msgctxt "printDialog.title"
 msgid "Print"
 msgstr "Штампање"
 
@@ -24,11 +19,15 @@ msgid "Save File"
 msgstr "Сачувај датотеку"
 
 #: fileCheck.label
-msgid "Print to File"
+#: fileCheck.accesskey
+#, fuzzy
+msgid "Print to &File"
 msgstr "Штампај у датотеку"
 
 #: propertiesButton.label
-msgid "Properties…"
+#: propertiesButton.accesskey
+#, fuzzy
+msgid "Pr&operties…"
 msgstr "Својства…"
 
 #: descText.label
@@ -40,7 +39,9 @@ msgid "Printer"
 msgstr "Штампач"
 
 #: printerInput.label
-msgid "Printer Name:"
+#: printerInput.accesskey
+#, fuzzy
+msgid "Printer &Name:"
 msgstr "Име штампача:"
 
 #: printrangeGroup.label
@@ -48,23 +49,33 @@ msgid "Print Range"
 msgstr "Опсег штампе"
 
 #: allpagesRadio.label
-msgid "All Pages"
+#: allpagesRadio.accesskey
+#, fuzzy
+msgid "&All Pages"
 msgstr "Све стране"
 
 #: rangeRadio.label
-msgid "Pages"
+#: rangeRadio.accesskey
+#, fuzzy
+msgid "&Pages"
 msgstr "Стране"
 
 #: frompageInput.label
-msgid "from"
+#: frompageInput.accesskey
+#, fuzzy
+msgid "f&rom"
 msgstr "од"
 
 #: topageInput.label
-msgid "to"
+#: topageInput.accesskey
+#, fuzzy
+msgid "&to"
 msgstr "до"
 
 #: selectionRadio.label
-msgid "Selection"
+#: selectionRadio.accesskey
+#, fuzzy
+msgid "&Selection"
 msgstr "Изабрани део"
 
 #: copies.label
@@ -72,7 +83,9 @@ msgid "Copies"
 msgstr "Копије"
 
 #: numCopies.label
-msgid "Number of copies:"
+#: numCopies.accesskey
+#, fuzzy
+msgid "Number of &copies:"
 msgstr "Број копија:"
 
 #: printframeGroup.label
@@ -80,16 +93,19 @@ msgid "Print Frames"
 msgstr "Штампање оквира"
 
 #: aslaidoutRadio.label
-msgid "As laid out on the screen"
+#: aslaidoutRadio.accesskey
+#, fuzzy
+msgid "As laid o&ut on the screen"
 msgstr "Као на екрану"
 
 #: selectedframeRadio.label
-msgid "The selected frame"
+#: selectedframeRadio.accesskey
+#, fuzzy
+msgid "The selected fra&me"
 msgstr "Само изабран оквир"
 
 #: eachframesepRadio.label
-msgid "Each frame separately"
+#: eachframesepRadio.accesskey
+#, fuzzy
+msgid "&Each frame separately"
 msgstr "Сваки оквир за себе"
-
-#~ msgid "Properties..."
-#~ msgstr "Својства..."

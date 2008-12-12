@@ -1,20 +1,20 @@
-# extracted from source/sr-RS/mail/chrome/messenger/offline.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/offline.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2007-01-26 00:55+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 # Download Messages Prompt
+#. # Download Messages Prompt
 #: downloadMessagesWindowTitle1
 msgid "Download Messages"
 msgstr "Пријем порука"
@@ -30,22 +30,25 @@ msgstr "Увек ме питај када прекидам везу"
 
 # Send Messages Prompt
 # Send Messages Offline Prompt
-#: sendMessagesWindowTitle1 sendMessagesOfflineWindowTitle1
+#. # Send Messages Prompt
+#: sendMessagesWindowTitle1
+#: sendMessagesOfflineWindowTitle1
+msgctxt "sendMessagesWindowTitle1"
 msgid "Unsent Messages"
 msgstr "Непослато"
 
-#: sendMessagesLabel1
-msgid "Do you want to send the messages in your Unsent Messages folder?"
+#: sendMessagesLabel2
+msgid "Do you want to send your unsent messages now?"
 msgstr ""
-"Да ли желите да пошаљете поруке из директоријума са непослатим порукама?"
 
 #: sendMessagesCheckboxLabel1
 msgid "Always ask me when I go online"
 msgstr "Увек ме питај када успостављам везу"
 
-# GetMessages While Offline Prompt 
+# GetMessages While Offline Prompt
 #
 # GetMessages Offline Prompt
+#. # GetMessages While Offline Prompt
 #: getMessagesOfflineWindowTitle1
 msgid "Get Messages"
 msgstr "Преузимање порука"
@@ -55,6 +58,15 @@ msgid ""
 "You are currently offline. Do you want to go online to get new messages?"
 msgstr ""
 "Тренутно нисте на вези.  Да ли желите да се повежете и набавите нове поруке?"
+
+# Send Messages Prompt
+# Send Messages Offline Prompt
+#. # Send Messages Offline Prompt
+#: sendMessagesOfflineWindowTitle1
+#: sendMessagesWindowTitle1
+msgctxt "sendMessagesOfflineWindowTitle1"
+msgid "Unsent Messages"
+msgstr "Непослато"
 
 #: sendMessagesOfflineLabel1
 msgid ""

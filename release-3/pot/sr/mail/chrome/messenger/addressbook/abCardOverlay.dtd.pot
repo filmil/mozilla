@@ -1,56 +1,48 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/addressbook/abCardOverlay.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/addressbook/abCardOverlay.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# 
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-# 
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-# 
-# The Original Code is Mozilla Communicator client code, released
-# March 31, 1998.
-# 
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998-1999
-# the Initial Developer. All Rights Reserved.
-# 
-# Contributor(s):
-# 
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-# 
-# ***** END LICENSE BLOCK *****
+#. ***** BEGIN LICENSE BLOCK *****
+#. Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. The contents of this file are subject to the Mozilla Public License Version
+#. 1.1 (the "License"); you may not use this file except in compliance with
+#. the License. You may obtain a copy of the License at
+#. http://www.mozilla.org/MPL/
+#. Software distributed under the License is distributed on an "AS IS" basis,
+#. WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. for the specific language governing rights and limitations under the
+#. License.
+#. The Original Code is Mozilla Communicator client code, released
+#. March 31, 1998.
+#. The Initial Developer of the Original Code is
+#. Netscape Communications Corporation.
+#. Portions created by the Initial Developer are Copyright (C) 1998-1999
+#. the Initial Developer. All Rights Reserved.
+#. Contributor(s):
+#. Alternatively, the contents of this file may be used under the terms of
+#. either the GNU General Public License Version 2 or later (the "GPL"), or
+#. the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. in which case the provisions of the GPL or the LGPL are applicable instead
+#. of those above. If you wish to allow use of your version of this file only
+#. under the terms of either the GPL or the LGPL, and not to allow others to
+#. use your version of this file under the terms of the MPL, indicate your
+#. decision by deleting the provisions above and replace them with the notice
+#. and other provisions required by the GPL or the LGPL. If you do not delete
+#. the provisions above, a recipient may use your version of this file under
+#. the terms of any one of the MPL, the GPL or the LGPL.
+#. ***** END LICENSE BLOCK *****
 #: Contact.tab
 msgid "Contact"
 msgstr ""
@@ -74,7 +66,12 @@ msgid "&Last:"
 msgstr ""
 
 #: PhoneticField1.label
+msgctxt "PhoneticField1.label"
+msgid "Phonetic:"
+msgstr ""
+
 #: PhoneticField2.label
+msgctxt "PhoneticField2.label"
 msgid "Phonetic:"
 msgstr ""
 
@@ -104,7 +101,7 @@ msgstr ""
 
 #: PreferMailFormat.label
 #: PreferMailFormat.accesskey
-msgid "P&refers to receive messages formatted as:"
+msgid "Prefers to recei&ve messages formatted as:"
 msgstr ""
 
 #: PlainText.label
@@ -126,11 +123,16 @@ msgstr ""
 
 #: allowRemoteContent.label
 #: allowRemoteContent.accesskey
-msgid "Allo&w remote images in HTML mail."
+msgid "Allow &remote images."
 msgstr ""
 
-#: Phones.box
-msgid "Phones"
+#: allowRemoteContent.tooltip
+msgid ""
+"In HTML messages it is possible to \n"
+"embed images from remote sources. Opening such a message will open a \n"
+"connection to this external source. This may allow tracking of the \n"
+"message being read. Checking this box will allow such external embedded \n"
+"images in HTML messages from this contact."
 msgstr ""
 
 #: WorkPhone.label
@@ -150,7 +152,7 @@ msgstr ""
 
 #: PagerNumber.label
 #: PagerNumber.accesskey
-msgid "&Pager:"
+msgid "Pa&ger:"
 msgstr ""
 
 #: CellularNumber.label
@@ -158,21 +160,18 @@ msgstr ""
 msgid "&Mobile:"
 msgstr ""
 
-#: Address.tab
-msgid "Address"
+#: Home.tab
+msgid "Private"
 msgstr ""
 
-#: Address.accesskey
-msgid "A"
-msgstr ""
-
-#: Home.box
-msgid "Home"
+#: Home.accesskey
+msgid "P"
 msgstr ""
 
 #: HomeAddress.label
 #: HomeAddress.accesskey
-msgid "A&ddress:"
+msgctxt "HomeAddress.label HomeAddress.accesskey"
+msgid "&Address:"
 msgstr ""
 
 #: HomeAddress2.label
@@ -181,42 +180,68 @@ msgid ""
 msgstr ""
 
 #: HomeAddress2.accesskey
+msgctxt "HomeAddress2.accesskey"
 msgid ""
-"_: HomeAddress2.accesskey\n"
 msgstr ""
 
 #: HomeCity.label
 #: HomeCity.accesskey
+msgctxt "HomeCity.label HomeCity.accesskey"
 msgid "Cit&y:"
 msgstr ""
 
 #: HomeState.label
 #: HomeState.accesskey
+msgctxt "HomeState.label HomeState.accesskey"
 msgid "&State/Province:"
 msgstr ""
 
 #: HomeZipCode.label
 #: HomeZipCode.accesskey
+msgctxt "HomeZipCode.label HomeZipCode.accesskey"
 msgid "&ZIP/Postal Code:"
 msgstr ""
 
 #: HomeCountry.label
 #: HomeCountry.accesskey
+msgctxt "HomeCountry.label HomeCountry.accesskey"
 msgid "Co&untry:"
 msgstr ""
 
 #: HomeWebPage.label
 #: HomeWebPage.accesskey
-msgid "&Web Page:"
+msgctxt "HomeWebPage.label HomeWebPage.accesskey"
+msgid "W&eb Page:"
 msgstr ""
 
-#: Work.box
+#: Birthday.label
+#: Birthday.accesskey
+msgid "&Birthday:"
+msgstr ""
+
+#: Year.emptytext
+msgid "Year"
+msgstr ""
+
+#: Or.value
+msgid "or"
+msgstr ""
+
+#: Age.emptytext
+msgid "Age"
+msgstr ""
+
+#: Work.tab
 msgid "Work"
+msgstr ""
+
+#: Work.accesskey
+msgid "W"
 msgstr ""
 
 #: JobTitle.label
 #: JobTitle.accesskey
-msgid "Titl&e:"
+msgid "T&itle:"
 msgstr ""
 
 #: Department.label
@@ -231,42 +256,48 @@ msgstr ""
 
 #: WorkAddress.label
 #: WorkAddress.accesskey
-msgid "Add&ress:"
+msgctxt "WorkAddress.label WorkAddress.accesskey"
+msgid "&Address:"
 msgstr ""
 
 #: WorkAddress2.label
+msgctxt "WorkAddress2.label"
 msgid ""
-"_: WorkAddress2.label\n"
 msgstr ""
 
 #: WorkAddress2.accesskey
+msgctxt "WorkAddress2.accesskey"
 msgid ""
-"_: WorkAddress2.accesskey\n"
 msgstr ""
 
 #: WorkCity.label
 #: WorkCity.accesskey
-msgid "C&ity:"
+msgctxt "WorkCity.label WorkCity.accesskey"
+msgid "Cit&y:"
 msgstr ""
 
 #: WorkState.label
 #: WorkState.accesskey
-msgid "State/Pro&vince:"
+msgctxt "WorkState.label WorkState.accesskey"
+msgid "&State/Province:"
 msgstr ""
 
 #: WorkZipCode.label
 #: WorkZipCode.accesskey
-msgid "ZI&P/Postal Code:"
+msgctxt "WorkZipCode.label WorkZipCode.accesskey"
+msgid "&ZIP/Postal Code:"
 msgstr ""
 
 #: WorkCountry.label
 #: WorkCountry.accesskey
-msgid "Cou&ntry:"
+msgctxt "WorkCountry.label WorkCountry.accesskey"
+msgid "Co&untry:"
 msgstr ""
 
 #: WorkWebPage.label
 #: WorkWebPage.accesskey
-msgid "We&b Page:"
+msgctxt "WorkWebPage.label WorkWebPage.accesskey"
+msgid "W&eb Page:"
 msgstr ""
 
 #: Other.tab
@@ -297,10 +328,7 @@ msgstr ""
 msgid "Custom &4:"
 msgstr ""
 
-#: Notes.box
-msgid "Notes"
-msgstr ""
-
+#: Notes.label
 #: Notes.accesskey
-msgid "N"
+msgid "&Notes:"
 msgstr ""

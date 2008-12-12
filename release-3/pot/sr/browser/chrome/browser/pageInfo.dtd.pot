@@ -1,68 +1,63 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/browser/chrome/browser/pageInfo.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/pageInfo.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# 
-# # ***** BEGIN LICENSE BLOCK *****
-# # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-# #
-# # The contents of this file are subject to the Mozilla Public License Version
-# # 1.1 (the "License"); you may not use this file except in compliance with
-# # the License. You may obtain a copy of the License at
-# # http://www.mozilla.org/MPL/
-# #
-# # Software distributed under the License is distributed on an "AS IS" basis,
-# # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# # for the specific language governing rights and limitations under the
-# # License.
-# #
-# # The Original Code is Mozilla Communicator client code.
-# #
-# # The Initial Developer of the Original Code is Daniel Brooks.
-# # Portions created by the Initial Developer are Copyright (C) 2001
-# # the Initial Developer. All Rights Reserved.
-# #
-# # Contributor(s): Daniel Brooks <db48x@yahoo.com>
-# #                 Florian QUEZE <f.qu@queze.net>
-# #                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
-# #
-# # Alternatively, the contents of this file may be used under the terms of
-# # either the GNU General Public License Version 2 or later (the "GPL"), or
-# # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# # in which case the provisions of the GPL or the LGPL are applicable instead
-# # of those above. If you wish to allow use of your version of this file only
-# # under the terms of either the GPL or the LGPL, and not to allow others to
-# # use your version of this file under the terms of the MPL, indicate your
-# # decision by deleting the provisions above and replace them with the notice
-# # and other provisions required by the LGPL or the GPL. If you do not delete
-# # the provisions above, a recipient may use your version of this file under
-# # the terms of any one of the MPL, the GPL or the LGPL.
-# #
-# # ***** END LICENSE BLOCK *****
-# 
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is Mozilla Communicator client code.
+#. #
+#. # The Initial Developer of the Original Code is Daniel Brooks.
+#. # Portions created by the Initial Developer are Copyright (C) 2001
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#. #                 Florian QUEZE <f.qu@queze.net>
+#. #                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the LGPL or the GPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: pageInfoWindow.width
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"600"
+msgid "600"
 msgstr ""
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: pageInfoWindow.height
-msgid ""
-"_: Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger.\n"
-"500"
+msgid "500"
 msgstr ""
 
 #: copy.key
@@ -75,7 +70,7 @@ msgid "&Copy"
 msgstr ""
 
 #: selectall.key
-#: mediaSaveAs.accesskey
+msgctxt "selectall.key"
 msgid "A"
 msgstr ""
 
@@ -85,7 +80,7 @@ msgid "Select &All"
 msgstr ""
 
 #: closeWindow.key
-#: securityView.privacy.viewPasswords.accessKey
+msgctxt "closeWindow.key"
 msgid "w"
 msgstr ""
 
@@ -137,12 +132,12 @@ msgstr ""
 msgid "Content"
 msgstr ""
 
-#: generalSecurityMore
-msgid "More"
+#: generalSecurityDetails
+msgid "Details"
 msgstr ""
 
-#: generalSecurityMore.accesskey
-msgid "o"
+#: generalSecurityDetails.accesskey
+msgid "D"
 msgstr ""
 
 #: mediaTab
@@ -195,6 +190,11 @@ msgstr ""
 
 #: mediaSaveAs
 msgid "Save As…"
+msgstr ""
+
+#: mediaSaveAs.accesskey
+msgctxt "mediaSaveAs.accesskey"
+msgid "A"
 msgstr ""
 
 #: mediaSaveAs2.accesskey
@@ -331,6 +331,11 @@ msgstr ""
 
 #: securityView.privacy.viewPasswords
 msgid "View Saved Passwords"
+msgstr ""
+
+#: securityView.privacy.viewPasswords.accessKey
+msgctxt "securityView.privacy.viewPasswords.accessKey"
+msgid "w"
 msgstr ""
 
 #: securityView.technical.header

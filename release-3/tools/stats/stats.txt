@@ -279,6 +279,7 @@ po/sr/browser/chrome/browser/places/places.properties.po:	83 vertaalde berichten
 po/sr/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	15 vertaalde berichten.
 po/sr/browser/chrome/browser/tabbrowser.properties.po:	10 vertaalde berichten.
 po/sr/browser/chrome/browser/metaData.properties.po:	16 vertaalde berichten.
+po/sr/browser/chrome/browser/aboutPrivateBrowsing.dtd.po:	8 vertaalde berichten.
 po/sr/browser/chrome/browser/pageInfo.properties.po:	38 vertaalde berichten.
 po/sr/browser/chrome/browser/safeMode.dtd.po:	11 vertaalde berichten.
 po/sr/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po:	20 vertaalde berichten.

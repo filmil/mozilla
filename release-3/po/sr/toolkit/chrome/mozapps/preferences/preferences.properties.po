@@ -1,23 +1,18 @@
-#### Change Action
-# extracted from source/sr-RS/toolkit/chrome/mozapps/preferences/preferences.properties
+#. #### Master Password
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/preferences/preferences.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2007-01-12 20:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
-
-#: downloadHelperNoneSelected
-msgid "None Selected"
-msgstr "Ништа није изабрано"
 
 #### Master Password
 # ### Master Password
@@ -30,7 +25,8 @@ msgid "Unable to change Master Password."
 msgstr "Не могу да изменим главну лозинку."
 
 #: incorrect_pw
-msgid "You did not enter the correct current Master Password. Please try again."
+msgid ""
+"You did not enter the correct current Master Password. Please try again."
 msgstr "Нисте унели исправну главну лозинку. Молим покушајте поново."
 
 #: pw_change_ok
@@ -46,11 +42,16 @@ msgid "Warning! You have decided not to use a Master Password."
 msgstr "Пажња! Одлучили сте да не користите главну лозинку."
 
 #: pw_empty_warning
-msgid "Your stored web and email passwords, form data, and private keys will not be protected."
-msgstr "Ваше сачуване лозинке за веб стране, ел. пошту, садржај формулара и приватни кључеви биће незаштићени."
+msgid ""
+"Your stored web and email passwords, form data, and private keys will not be "
+"protected."
+msgstr ""
+"Ваше сачуване лозинке за веб стране, ел. пошту, садржај формулара и приватни "
+"кључеви биће незаштићени."
 
 #: pw_change2empty_in_fips_mode
-msgid "You are currently in FIPS mode. FIPS requires a non-empty Master Password."
+msgid ""
+"You are currently in FIPS mode. FIPS requires a non-empty Master Password."
 msgstr "Тренутно сте у FIPS моду. FIPS захтева постојање главне лозинке."
 
 #: pw_change_success_title

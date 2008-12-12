@@ -1,49 +1,26 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/am-server-top.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-server-top.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# extracted from am-server-top.xul
+#. extracted from am-server-top.xul
 #: securitySettings.label
 msgid "Security Settings"
 msgstr ""
 
 #: serverSettings.label
 msgid "Server Settings"
-msgstr ""
-
-#: popServer.label
-msgid ""
-"_: do not translate \"POP\" in below line\n"
-"POP Mail Server"
-msgstr ""
-
-#: imapServer.label
-msgid ""
-"_: do not translate \"IMAP\" in below line\n"
-"IMAP Mail Server"
-msgstr ""
-
-#: newsServer.label
-msgid ""
-"_: do not translate \"NNTP\" in below line\n"
-"News Server (NNTP)"
-msgstr ""
-
-#: webmail.label
-msgid "WebMail account"
 msgstr ""
 
 #: serverType.label
@@ -73,15 +50,13 @@ msgstr ""
 msgid "Save password"
 msgstr ""
 
-# For example, in Japanese cases:
-# biffStart.label "every"
-# biffEnd.label   "minutes for new messages Check"
-# 
+#. translate below 2 line with grammer dependency
+#. For example, in Japanese cases:
+#. biffStart.label "every"
+#. biffEnd.label   "minutes for new messages Check"
 #: biffStart.label
 #: biffStart.accesskey
-msgid ""
-"_: translate below 2 line with grammer dependency\n"
-"Check for new messages ever&y "
+msgid "Check for new messages ever&y "
 msgstr ""
 
 #: biffEnd.label
@@ -151,18 +126,8 @@ msgstr ""
 msgid "Auto&matically download new messages"
 msgstr ""
 
-#: hostname.label
-msgid "Server Hostname"
-msgstr ""
-
 #: username.label
 msgid "Your Login Name"
-msgstr ""
-
-#: popServerTitle.label
-msgid ""
-"_: do not translate \"POP\" in below line\n"
-"POP Server Information"
 msgstr ""
 
 #: deleteMessagePrefix.label
@@ -184,11 +149,10 @@ msgstr ""
 msgid "Remove it imme&diately"
 msgstr ""
 
+#. do not translate two of "&quot;" in below line
 #: expungeOnExit.label
 #: expungeOnExit.accesskey
-msgid ""
-"_: do not translate two of \"&quot;\" in below line\n"
-"Clean up (&quot;&Expunge&quot;) Inbox on Exit"
+msgid "Clean up (&quot;&Expunge&quot;) Inbox on Exit"
 msgstr ""
 
 #: emptyTrashOnExit.label
@@ -201,20 +165,17 @@ msgstr ""
 msgid "&Check for new messages at startup"
 msgstr ""
 
-# maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-# of messages between them
-# 
+#. translate below 2 lines with grammar dependency
+#. maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+#. of messages between them
 #: maxMessagesStart.label
 #: maxMessagesStart.accesskey
-msgid ""
-"_: translate below 2 lines with grammar dependency\n"
-"Ask &me before downloading more than"
+msgid "Ask &me before downloading more than"
 msgstr ""
 
+#. see note for maxMessagesStart.label
 #: maxMessagesEnd.label
-msgid ""
-"_: see note for maxMessagesStart.label\n"
-"messages"
+msgid "messages"
 msgstr ""
 
 #: alwaysAuthenticate.label
@@ -223,13 +184,11 @@ msgid "Al&ways request authentication when connecting to this server"
 msgstr ""
 
 #: newsrcFilePath.label
-#: newsrcFilePath.accesskey
-msgid "newsrc &file:"
+msgid "newsrc file:"
 msgstr ""
 
 #: localPath.label
-#: localPath.accesskey
-msgid "&Local directory:"
+msgid "Local directory:"
 msgstr ""
 
 #: abbreviate.label

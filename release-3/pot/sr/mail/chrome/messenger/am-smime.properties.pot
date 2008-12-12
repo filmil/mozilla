@@ -1,22 +1,21 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/am-smime.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-smime.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-## S/MIME error strings.
-## Note to localization: %S is a placeholder
+#. ## S/MIME error strings.
+#. ## Note to localization: %S is a placeholder
 #: NoSenderSigningCert
 msgid ""
 "You specified that this message should be digitally signed, but the "
@@ -37,13 +36,6 @@ msgid ""
 "find an encryption certificate for %S."
 msgstr ""
 
-#: SignNoSenderEncryptionCert
-msgid ""
-"You specified that this message should be digitally signed, but the "
-"application either failed to find an encryption certificate to include in "
-"the signed message, or the certificate has expired."
-msgstr ""
-
 #: ErrorCanNotEncrypt
 msgid ""
 "Unable to encrypt message. Please check that you have a valid email "
@@ -58,7 +50,7 @@ msgid ""
 "& Newsgroups Account Settings for this mail account are valid and trusted"
 msgstr ""
 
-## Strings used for in the prefs.
+#. ## Strings used for in the prefs.
 #: prefPanel-smime
 msgid "Security"
 msgstr ""

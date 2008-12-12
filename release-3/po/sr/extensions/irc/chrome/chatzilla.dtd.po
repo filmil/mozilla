@@ -1,17 +1,16 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/extensions/irc/chrome/chatzilla.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/extensions/irc/chrome/chatzilla.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-04-16 22:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: Menubar.tooltip
@@ -37,7 +36,9 @@ msgstr "Пошаљи овај текст (ктрл+ентер)"
 #: server-nick.tooltip
 msgid ""
 "Change nickname or set away state. To focus the input box, press Escape."
-msgstr "Промени надимак или постави одсутност.  За фокус на поље за унос, притисните еск."
+msgstr ""
+"Промени надимак или постави одсутност.  За фокус на поље за унос, притисните "
+"еск."
 
 #: Underline.label
 msgid "Underline"

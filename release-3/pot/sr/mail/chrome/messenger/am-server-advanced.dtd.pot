@@ -1,35 +1,27 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/am-server-advanced.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-server-advanced.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: serverAdvanced.label
 msgid "Advanced Account Settings"
 msgstr ""
 
-#: imapAdvanced.label
-msgid ""
-"_: Do not translate \"IMAP\"\n"
-"Advanced IMAP Server Settings"
-msgstr ""
-
+#. Do not translate "IMAP"
 #: serverDirectory.label
 #: serverDirectory.accesskey
-msgid ""
-"_: Do not translate \"IMAP\"\n"
-"IMAP server &directory:"
+msgid "IMAP server &directory:"
 msgstr ""
 
 #: usingSubscription.label
@@ -52,10 +44,9 @@ msgstr ""
 msgid "&Maximum number of server connections to cache"
 msgstr ""
 
+#. Do not translate "IMAP"
 #: namespaceDesc.label
-msgid ""
-"_: Do not translate \"IMAP\"\n"
-"These preferences specify the namespaces on your IMAP server"
+msgid "These preferences specify the namespaces on your IMAP server"
 msgstr ""
 
 #: personalNamespace.label
@@ -79,11 +70,9 @@ msgid "&Allow server to override these namespaces"
 msgstr ""
 
 #: pop3Desc.label
-msgid "When downloading pop mail for this server, use the following folder for new mail:"
-msgstr ""
-
-#: folderStorage.label
-msgid "Where to store mail"
+msgid ""
+"When downloading pop mail for this server, use the following folder for new "
+"mail:"
 msgstr ""
 
 #: globalInbox.label

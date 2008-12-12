@@ -1,24 +1,11 @@
-# extracted from source/sr-RS/toolkit/chrome/mozapps/extensions/extensions.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
-"PO-Revision-Date: 2008-03-29 02:47+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
 
 #: addons.title
 msgid "Add-ons"
 msgstr "Додаци"
 
 # Default window size for the addon manager in pixels
+#. Default window size for the addon manager in pixels
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: em.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -26,6 +13,7 @@ msgid ""
 "520"
 msgstr "520"
 
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: em.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -46,6 +34,7 @@ msgid "w"
 msgstr "w"
 
 # View labels
+#. View labels
 #: search.label
 msgid "Get Add-ons"
 msgstr "Набави додатке"
@@ -76,7 +65,9 @@ msgid "Installation"
 msgstr "Постављање"
 
 # Command Bar items
-#: cmd.checkUpdatesAll.label cmd.checkUpdatesAll.accesskey
+#. Command Bar items
+#: cmd.checkUpdatesAll.label
+#: cmd.checkUpdatesAll.accesskey
 msgid "&Find Updates"
 msgstr "&Нађи доградње"
 
@@ -88,7 +79,8 @@ msgstr "Тражење доградњи за Ваше додатке"
 msgid "Finds Updates to your Themes"
 msgstr "Тражење доградњи за Ваше теме"
 
-#: cmd.installLocalFile.label cmd.installLocalFile.accesskey
+#: cmd.installLocalFile.label
+#: cmd.installLocalFile.accesskey
 msgid "I&nstall…"
 msgstr "&Инсталирај…"
 
@@ -100,7 +92,8 @@ msgstr "Постави додатак"
 msgid "Install a Theme"
 msgstr "Постави тему"
 
-#: cmd.installUpdatesAll.label cmd.installUpdatesAll.accesskey
+#: cmd.installUpdatesAll.label
+#: cmd.installUpdatesAll.accesskey
 msgid "&Install Updates"
 msgstr "Постави &доградње"
 
@@ -108,7 +101,8 @@ msgstr "Постави &доградње"
 msgid "Installs the selected updates"
 msgstr "Поставља изабране доградње"
 
-#: cmd.restartApp2.label cmd.restartApp2.accesskey
+#: cmd.restartApp2.label
+#: cmd.restartApp2.accesskey
 msgid "&Restart &brandShortName;"
 msgstr "&Поново покрени програм &brandShortName;"
 
@@ -116,7 +110,8 @@ msgstr "&Поново покрени програм &brandShortName;"
 msgid "Restart &brandShortName; to apply changes"
 msgstr "Поново покрените програм &brandShortName; да бисте применили измене"
 
-#: cmd.skip.label cmd.skip.accesskey
+#: cmd.skip.label
+#: cmd.skip.accesskey
 msgid "S&kip"
 msgstr "&Прескочи"
 
@@ -124,7 +119,8 @@ msgstr "&Прескочи"
 msgid "Skip these updates"
 msgstr "Прескочи ове доградње"
 
-#: cmd.continue.label cmd.continue.accesskey
+#: cmd.continue.label
+#: cmd.continue.accesskey
 msgid "&Continue"
 msgstr "Наста&ви"
 
@@ -132,7 +128,8 @@ msgstr "Наста&ви"
 msgid "Continue loading &brandShortName;"
 msgstr "Настави са учитавањем програма &brandShortName;"
 
-#: cmd.enableAll.label cmd.enableAll.accesskey
+#: cmd.enableAll.label
+#: cmd.enableAll.accesskey
 msgid "Enable &All"
 msgstr "Укључи &све"
 
@@ -140,7 +137,8 @@ msgstr "Укључи &све"
 msgid "Enable all displayed Add-ons"
 msgstr "Укључи све приказане додатке"
 
-#: cmd.disableAll.label cmd.disableAll.accesskey
+#: cmd.disableAll.label
+#: cmd.disableAll.accesskey
 msgid "Di&sable All"
 msgstr "Искључи св&е"
 
@@ -149,7 +147,9 @@ msgid "Disable all displayed Add-ons"
 msgstr "Искључи све приказане додатке"
 
 # Displayed in the selected Add-on's richlistitem and context menu
-#: cmd.useTheme.label cmd.useTheme.accesskey
+#. Displayed in the selected Add-on's richlistitem and context menu
+#: cmd.useTheme.label
+#: cmd.useTheme.accesskey
 msgid "Use &Theme"
 msgstr "Корис&ти тему"
 
@@ -157,7 +157,8 @@ msgstr "Корис&ти тему"
 msgid "Changes &brandShortName;'s Theme"
 msgstr "Мења у тему &brandShortName; "
 
-#: cmd.options.label cmd.options.accesskey
+#: cmd.options.label
+#: cmd.options.accesskey
 msgid "&Options"
 msgstr "&Опције"
 
@@ -165,7 +166,8 @@ msgstr "&Опције"
 msgid "Set Options for the selected Extension"
 msgstr "Постави опције за изабрано проширење"
 
-#: cmd.optionsUnix.label cmd.optionsUnix.accesskey
+#: cmd.optionsUnix.label
+#: cmd.optionsUnix.accesskey
 msgid "P&references"
 msgstr "&Поставке"
 
@@ -173,7 +175,8 @@ msgstr "&Поставке"
 msgid "Edit Preferences for the selected Extension"
 msgstr "Измена подешавања ваших преоширења"
 
-#: cmd.enable.label cmd.enable.accesskey
+#: cmd.enable.label
+#: cmd.enable.accesskey
 msgid "&Enable"
 msgstr "&Укључи"
 
@@ -181,7 +184,8 @@ msgstr "&Укључи"
 msgid "Enable this Add-on when &brandShortName; is restarted"
 msgstr "Укључи ове додатке када се &brandShortName; поново покрене"
 
-#: cmd.disable.label cmd.disable.accesskey
+#: cmd.disable.label
+#: cmd.disable.accesskey
 msgid "&Disable"
 msgstr "&Искључи"
 
@@ -201,7 +205,8 @@ msgstr "U"
 msgid "Uninstall this Add-on when &brandShortName; is restarted"
 msgstr "Уклони овај додатак када се &brandShortName; поново покрене"
 
-#: cmd.cancelUninstall.label cmd.cancelUninstall.accesskey
+#: cmd.cancelUninstall.label
+#: cmd.cancelUninstall.accesskey
 msgid "&Cancel Uninstall"
 msgstr "Пониш&ти уклањање"
 
@@ -209,7 +214,8 @@ msgstr "Пониш&ти уклањање"
 msgid "Cancel the uninstall of this Add-on"
 msgstr "Поништи уклањање овог додатка"
 
-#: cmd.cancelInstall.label cmd.cancelInstall.accesskey
+#: cmd.cancelInstall.label
+#: cmd.cancelInstall.accesskey
 msgid "&Cancel Install"
 msgstr "&Откажи инсталацију"
 
@@ -217,7 +223,8 @@ msgstr "&Откажи инсталацију"
 msgid "Cancel the install of this Add-on"
 msgstr "Отказује инсталацију овог додатка"
 
-#: cmd.cancelUpgrade.label cmd.cancelUpgrade.accesskey
+#: cmd.cancelUpgrade.label
+#: cmd.cancelUpgrade.accesskey
 msgid "&Cancel Upgrade"
 msgstr "Откажи &доградњу"
 
@@ -225,7 +232,8 @@ msgstr "Откажи &доградњу"
 msgid "Cancel the upgrade of this Add-on"
 msgstr "Отказује доградњу овог додатка"
 
-#: cmd.installUpdate.label cmd.installUpdate.accesskey
+#: cmd.installUpdate.label
+#: cmd.installUpdate.accesskey
 msgid "&Install Update"
 msgstr "&Постави доградњу"
 
@@ -233,7 +241,8 @@ msgstr "&Постави доградњу"
 msgid "Install an update for this Add-on"
 msgstr "Постави доградњу за овај додатак"
 
-#: cmd.showUpdateInfo.label cmd.showUpdateInfo.accesskey
+#: cmd.showUpdateInfo.label
+#: cmd.showUpdateInfo.accesskey
 msgid "&Show Information"
 msgstr "&Приказ података"
 
@@ -241,7 +250,8 @@ msgstr "&Приказ података"
 msgid "Show more information about these updates"
 msgstr "Приказује више података о овим доградњама"
 
-#: cmd.hideUpdateInfo.label cmd.hideUpdateInfo.accesskey
+#: cmd.hideUpdateInfo.label
+#: cmd.hideUpdateInfo.accesskey
 msgid "&Hide Information"
 msgstr "&Сакриј податке"
 
@@ -249,7 +259,8 @@ msgstr "&Сакриј податке"
 msgid "Hide information about these updates"
 msgstr "Сакривање података о овим доградњама"
 
-#: cmd.installSearchResult.label cmd.installSearchResult.accesskey
+#: cmd.installSearchResult.label
+#: cmd.installSearchResult.accesskey
 msgid "&Add to &brandShortName;…"
 msgstr "&Додавање у програм &brandShortName;…"
 
@@ -258,13 +269,43 @@ msgid "Download and install this add-on"
 msgstr "Преузми и инсталирај овај додатак"
 
 # The selected add-on's cancel action button label
-#: cancel.label cancel.accesskey cancelInstall.label cancelInstall.accesskey
-#: cancelUpgrade.label cancelUpgrade.accesskey
+#. The selected add-on's cancel action button label
+#: cancel.label
+#: cancel.accesskey
+#: cancelInstall.label
+#: cancelInstall.accesskey
+#: cancelUpgrade.label
+#: cancelUpgrade.accesskey
+msgctxt "cancel.label cancel.accesskey"
+msgid "&Cancel"
+msgstr "Отка&жи"
+
+# The selected add-on's cancel action button label
+#: cancelInstall.label
+#: cancelInstall.accesskey
+#: cancel.label
+#: cancel.accesskey
+#: cancelUpgrade.label
+#: cancelUpgrade.accesskey
+msgctxt "cancelInstall.label cancelInstall.accesskey"
+msgid "&Cancel"
+msgstr "Отка&жи"
+
+# The selected add-on's cancel action button label
+#: cancelUpgrade.label
+#: cancelUpgrade.accesskey
+#: cancel.label
+#: cancel.accesskey
+#: cancelInstall.label
+#: cancelInstall.accesskey
+msgctxt "cancelUpgrade.label cancelUpgrade.accesskey"
 msgid "&Cancel"
 msgstr "Отка&жи"
 
 # Only displayed in the selected Add-on's context menu
-#: cmd.homepage.label cmd.homepage.accesskey
+#. Only displayed in the selected Add-on's context menu
+#: cmd.homepage.label
+#: cmd.homepage.accesskey
 msgid "Visit &Home Page"
 msgstr "По&сети страну пројекта"
 
@@ -276,15 +317,18 @@ msgstr "О овом додатку"
 msgid "A"
 msgstr "A"
 
-#: cmd.checkUpdate.label cmd.checkUpdate.accesskey
+#: cmd.checkUpdate.label
+#: cmd.checkUpdate.accesskey
 msgid "&Find Update"
 msgstr "&Нађи доградњу"
 
-#: cmd.includeUpdate.label cmd.includeUpdate.accesskey
+#: cmd.includeUpdate.label
+#: cmd.includeUpdate.accesskey
 msgid "I&nclude Update"
 msgstr "У&кључи доградњу"
 
-#: includeUpdate.label includeUpdate.accesskey
+#: includeUpdate.label
+#: includeUpdate.accesskey
 msgid "I&nclude this update"
 msgstr "&Укључи ову доградњу"
 
@@ -293,6 +337,7 @@ msgid "Include this Add-on when installing the updates"
 msgstr "Укључи овај додатак при постављању доградњи"
 
 # Status Messsages
+#. Status Messsages
 #: insecureUpdate.label
 msgid "Does not provide secure updates."
 msgstr "Не нуди безбедносне доградње."
@@ -306,6 +351,10 @@ msgstr "Захтева додатне ставке."
 msgid "Disabled for your protection."
 msgstr "Искључено ради Ваше безбедности."
 
+#: softBlocklisted.label
+msgid "Known to cause security or stability issues."
+msgstr ""
+
 #: toBeDisabled.label
 msgid "This add-on will be disabled when &brandShortName; is restarted."
 msgstr ""
@@ -315,7 +364,8 @@ msgstr ""
 #: toBeEnabled.label
 msgid "This add-on will be enabled when &brandShortName; is restarted."
 msgstr ""
-"Овај додатак ће бити укључен када се програм &brandShortName; поново покрене."
+"Овај додатак ће бити укључен када се програм &brandShortName; поново "
+"покрене."
 
 #: toBeInstalled.label
 msgid "This add-on will be installed when &brandShortName; is restarted."
@@ -326,11 +376,14 @@ msgstr ""
 #: toBeUninstalled.label
 msgid "This add-on will be uninstalled when &brandShortName; is restarted."
 msgstr ""
-"Овај додатак ће бити уклоњен када се програм &brandShortName; поново покрене."
+"Овај додатак ће бити уклоњен када се програм &brandShortName; поново "
+"покрене."
 
 #: toBeUpdated.label
 msgid "This add-on will be updated when &brandShortName; is restarted."
-msgstr "Овај додатак ће бити дограђен када се програм &brandShortName; поново покрене."
+msgstr ""
+"Овај додатак ће бити дограђен када се програм &brandShortName; поново "
+"покрене."
 
 #: getExtensions.label
 msgid "Get Extensions"
@@ -344,7 +397,9 @@ msgstr "Набавка тема"
 msgid "Get Plugins"
 msgstr "Набавка прикључака"
 
-#: searchAddons.label searchBox.label
+#: searchAddons.label
+#: searchBox.label
+msgctxt "searchAddons.label"
 msgid "Search All Add-ons"
 msgstr "Претрага додатака"
 
@@ -384,7 +439,9 @@ msgstr "Сви препоручени додаци су или већ инста
 msgid "No matching add-ons"
 msgstr "Ниједан додатак не одговара"
 
-#: emptySearch.button searchFailed.button
+#: emptySearch.button
+#: searchFailed.button
+msgctxt "emptySearch.button"
 msgid "OK"
 msgstr "У реду"
 
@@ -392,9 +449,21 @@ msgstr "У реду"
 msgid "Cancel"
 msgstr "Откажи"
 
+#: searchFailed.button
+#: emptySearch.button
+msgctxt "searchFailed.button"
+msgid "OK"
+msgstr "У реду"
+
 #: searchResultHomepage.value
 msgid "Learn More"
 msgstr "Више података"
+
+#: searchBox.label
+#: searchAddons.label
+msgctxt "searchBox.label"
+msgid "Search All Add-ons"
+msgstr "Претрага додатака"
 
 #: recommendedResults.label
 msgid "See All Recommended Add-ons"
@@ -404,7 +473,9 @@ msgstr "Преглед свих препоручених додатака"
 msgid "Connecting…"
 msgstr "Повезивање…"
 
-#: searchResultInstalling.label installFinishing.label
+#: searchResultInstalling.label
+#: installFinishing.label
+msgctxt "searchResultInstalling.label"
 msgid "Installing…"
 msgstr "Инсталација…"
 
@@ -476,6 +547,12 @@ msgstr "Чекање…"
 msgid "Checking compatibility…"
 msgstr "Провера сагласности…"
 
+#: installFinishing.label
+#: searchResultInstalling.label
+msgctxt "installFinishing.label"
+msgid "Installing…"
+msgstr "Инсталација…"
+
 #: installFailure.label
 msgid "Install failed."
 msgstr "Постављање није успело."
@@ -489,6 +566,7 @@ msgid "End-User License Agreement"
 msgstr "Споразум са крајњим корисником"
 
 # (pofilter) unchanged: please translate
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: eula.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -497,6 +575,7 @@ msgid ""
 msgstr "560px"
 
 # (pofilter) unchanged: please translate
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: eula.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -508,37 +587,10 @@ msgstr "400px"
 msgid "Accept and Install…"
 msgstr "Прихватам, инсталирај…"
 
-#~ msgid "Install..."
-#~ msgstr "Постави..."
+#: blocklist.blocked.label
+msgid "Blocked"
+msgstr ""
 
-#~ msgid "I"
-#~ msgstr "I"
-
-#~ msgid "Restarts &brandShortName; to finish the installation"
-#~ msgstr "Поново покреће програм &brandShortName; ради довршења постављања"
-
-#~ msgid "&Skip"
-#~ msgstr "Прес&кочи"
-
-#~ msgid "This add-on will be upgraded when &brandShortName; is restarted."
-#~ msgstr ""
-#~ "Овај додатак ће бити дограђен када се програм &brandShortName; поново "
-#~ "покрене."
-
-#~ msgid "Get Extensions from addons.mozilla.org"
-#~ msgstr "Набавите проширења са адресе addons.mozilla.org"
-
-#~ msgid "Get Themes from addons.mozilla.org"
-#~ msgstr "Набавите теме са адресе addons.mozilla.org"
-
-#~ msgid "Close this message"
-#~ msgstr "Затвори ову поруку"
-
-#~ msgid "Waiting..."
-#~ msgstr "Мало стрпљења..."
-
-#~ msgid "Checking compatibility..."
-#~ msgstr "Провера сагласности..."
-
-#~ msgid "Installing..."
-#~ msgstr "Инсталирам..."
+#: blocklist.checkbox.label
+msgid "Disable"
+msgstr ""

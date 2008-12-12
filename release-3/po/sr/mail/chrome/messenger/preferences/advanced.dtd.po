@@ -1,30 +1,43 @@
-# extracted from source/sr-RS/mail/chrome/messenger/preferences/advanced.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/advanced.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-04-08 22:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: itemGeneral.label
 msgid "General"
 msgstr "Опште"
 
+#: itemDisplay.label
+msgid "Reading &amp; Display"
+msgstr ""
+
 #: itemUpdate.label
 msgid "Update"
 msgstr "Освежи"
 
-#: itemOffline.label
-msgid "Offline &amp; Disk Space"
-msgstr "Неповезан рад и простор на диску"
+#: itemNetworking.label
+msgid "Network &amp; Disk Space"
+msgstr ""
+
+#: itemCertificates.label
+msgid "Certificates"
+msgstr ""
+
+#. General Settings
+#: enableGloda.label
+#: enableGloda.accesskey
+msgid "Enable Message &Indexer"
+msgstr ""
 
 # General Settings
 #: showCondensedAddresses.label
@@ -32,33 +45,38 @@ msgstr "Неповезан рад и простор на диску"
 msgid "Show only dis&play name for people in my address book"
 msgstr "Показуј само &наденуто име за особе из адресара"
 
-# "xxx seconds before marking a message as read", using a number and
-# (markAsReadEnd.label).
-#: markAsRead.label
-#: markAsRead.accesskey
-msgid ""
-"_: This will concatenate with\n"
-"&Wait"
-msgstr "&Чекање"
+#: autoMarkAsRead.label
+#: autoMarkAsRead.accesskey
+msgid "&Automatically mark messages as read"
+msgstr ""
 
-#: markAsReadEnd.label
-#: markAsReadEnd.accesskey
-msgid "secon&ds before marking a message as read"
-msgstr "s пре о&значавања поруке као прочитане"
+#: markAsReadNoDelay.label
+#: markAsReadNoDelay.accesskey
+msgid "Imme&diately on display"
+msgstr ""
+
+#. This will concatenate to
+#. "After displaying for [___] seconds",
+#. using (markAsReadDelay.label) and a number (secondsLabel.label).
+#: markAsReadDelay.label
+#: markAsReadDelay.accesskey
+msgid "Aft&er displaying for"
+msgstr ""
+
+#: secondsLabel.label
+#: connectionSeconds.label
+msgid "seconds"
+msgstr "s"
 
 #: showFolderColumns.label
 #: showFolderColumns.accesskey
-msgid "Show expanded columns in the &folder pane"
+#, fuzzy
+msgid "Show expanded co&lumns in the folder pane"
 msgstr "Приказуј ра&ширене колоне у панелу са директоријумима"
 
-#: rememberLastMsg.label
-#: rememberLastMsg.accesskey
-msgid "Remem&ber the last selected message"
-msgstr "За&памти последљу изабрану поруку"
-
-#: reuseExp.label
-msgid "Open new messages in:"
-msgstr "Отвори нове поруке у:"
+#: openMsgIn.label
+msgid "Open messages in:"
+msgstr ""
 
 #: reuseExpRadio0.label
 #: reuseExpRadio0.accesskey
@@ -73,25 +91,36 @@ msgstr "&новом прозору за поруку"
 msgid "An e&xisting message window"
 msgstr "&постојећем прозору за поруку"
 
-#: connectionTimeout.label
-#: connectionTimeout.accesskey
-msgid "&Connection timeout: "
-msgstr "Веза &истиче за"
-
-#: connectionSeconds.label
-msgid "seconds"
-msgstr "s"
-
 #: configEditDesc.label
 msgid "Advanced Configuration"
 msgstr "Напредно подешавање"
 
 #: configEdit.label
 #: configEdit.accesskey
-msgid "Confi&g Editor..."
+#, fuzzy
+msgid "Confi&g Editor…"
 msgstr "Уређивач &подешавања..."
 
+#: returnReceiptsInfo.label
+msgid "Determine how &brandShortName; handles return receipts"
+msgstr ""
+
+#: showReturnReceipts.label
+#: showReturnReceipts.accesskey
+msgid "&Return Receipts…"
+msgstr ""
+
+#. Display and Reading Settings
+#: reading.caption
+msgid "Reading"
+msgstr ""
+
+#: display.caption
+msgid "Display"
+msgstr ""
+
 # Update
+#. Update
 #: autoCheck.label
 msgid "Automatically check for updates to:"
 msgstr "Самостално проверавај унапређења за:"
@@ -111,7 +140,8 @@ msgid "Ins&talled Add-ons"
 msgstr "Постављени &додаци"
 
 #: checkNow.label
-msgid "Check Now..."
+#, fuzzy
+msgid "Check Now…"
 msgstr "Провери одмах..."
 
 #: whenUpdatesFound.label
@@ -130,93 +160,44 @@ msgstr "Самостално &прими и постави унапређење"
 
 #: modeAutoAddonWarn.label
 #: modeAutoAddonWarn.accesskey
-msgid "&Warn me if this will disable any of my add-ons"
+#, fuzzy
+msgid "Warn me if this will disable any of my add&-ons"
 msgstr "Упо&зори ме ако ће ово да искључи ма који додатак"
 
 #: showUpdates.label
 #: showUpdates.accesskey
-msgid "Show &Update History"
+#, fuzzy
+msgid "Show Update Histor&y"
 msgstr "Прикажи историјат &унапређења"
 
+#. Networking and Disk Space
+#: showSettings.label
+#: showSettings.accesskey
+msgid "Setti&ngs…"
+msgstr ""
+
+#: proxiesConfigure.label
+msgid "Configure how &brandShortName; connects to the Internet"
+msgstr ""
+
+#: connectionsInfo.caption
+msgid "Connection"
+msgstr ""
+
 # Offline and Disk Space
+#: offlineInfo.caption
 #: offline.label
 msgid "Offline"
 msgstr "Неповезан рад"
 
-#: textStartUp
-msgid "When starting up:"
-msgstr "При покретању:"
+#: offlineInfo.label
+msgid "Configure offline settings"
+msgstr ""
 
-#: radioRememberPrevState
-msgid "Remember previous online state"
-msgstr "Запамти претходно стање везе"
-
-#: radioRememberPrevState.accesskey
-msgid "R"
-msgstr "R"
-
-#: radioAskMe
-msgid "Ask me for online state at startup"
-msgstr "Питај ме за стање везе при покретању"
-
-#: radioAskMe.accesskey
-msgid "u"
-msgstr "u"
-
-#: radioAlwaysOnline
-msgid "Always start up online"
-msgstr "Увек ради на вези"
-
-#: radioAlwaysOnline.accesskey
-msgid "l"
-msgstr "l"
-
-#: textGoingOnline
-msgid "Send unsent messages when going online?"
-msgstr "Слање непослатих порука при повезивању?"
-
-#: radioAutoSend
-#: radioAutoDownload
-msgid "Yes"
-msgstr "Да"
-
-#: radioAutoSend.accesskey
-msgid "Y"
-msgstr "Y"
-
-#: radioNotSend
-#: radioNotDownload
-msgid "No"
-msgstr "Не"
-
-#: radioNotSend.accesskey
-msgid "N"
-msgstr "Н"
-
-#: radioAskUnsent
-#: radioAskDownload
-msgid "Ask me"
-msgstr "Питај ме"
-
-#: radioAskUnsent.accesskey
-msgid "s"
-msgstr "s"
-
-#: textGoingOffline
-msgid "Download messages for offline use when going offline?"
-msgstr "Преузми поруке за локалну употребу при прекидању везе?"
-
-#: radioAutoDownload.accesskey
-msgid "e"
-msgstr "e"
-
-#: radioNotDownload.accesskey
-msgid "o"
-msgstr "o"
-
-#: radioAskDownload.accesskey
-msgid "a"
-msgstr "a"
+#: showOffline.label
+#: showOffline.accesskey
+msgid "&Offline…"
+msgstr ""
 
 #: Diskspace
 msgid "Disk Space"
@@ -230,3 +211,42 @@ msgstr "&Сажми директоријуме када то штеди више
 #: kb.label
 msgid "KB"
 msgstr "KB"
+
+#. LOCALIZATION NOTE:
+#. The entities useCacheBefore.label and useCacheAfter.label appear on a single
+#. line in preferences as follows:
+#. &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+#: useCacheBefore.label
+#: useCacheBefore.accesskey
+msgid "&Use up to"
+msgstr ""
+
+#: useCacheAfter.label
+msgid "MB of space for the cache"
+msgstr ""
+
+#: clearCacheNow.label
+#: clearCacheNow.accesskey
+msgid "&Clear Now"
+msgstr ""
+
+#. Certificates
+#: viewCertificates.label
+#: viewCertificates.accesskey
+msgid "View Certific&ates"
+msgstr ""
+
+#: viewCRLs.label
+#: viewCRLs.accesskey
+msgid "R&evocation Lists"
+msgstr ""
+
+#: validation.label
+#: validation.accesskey
+msgid "Vali&dation"
+msgstr ""
+
+#: viewSecurityDevices.label
+#: viewSecurityDevices.accesskey
+msgid "Sec&urity Devices"
+msgstr ""

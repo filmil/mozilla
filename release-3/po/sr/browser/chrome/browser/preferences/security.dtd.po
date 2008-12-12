@@ -1,39 +1,40 @@
-# extracted from source/sr-RS/browser/chrome/browser/preferences/security.dtd
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:16+0200\n"
-"PO-Revision-Date: 2008-06-25 23:23+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
-"X-Accelerator-Marker: &\n"
+# The methods by which forged (phished) sites will be detected by phishing
+# providers will vary from human review to machine-based heuristics to a
+# combination of both, so it's important that this string and
+# useDownloadedList.label convey the meaning "suspected" (and not something like
+# "known").
+#
+#
+# The entities askThirdParty.label and askThirdPartyAfter.label appear on a
+# single line in preferences as follows:
+#
+# &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
+#
+#
 
-#: warnAddonInstall.label warnAddonInstall.accesskey
+#: warnAddonInstall.label
+#: warnAddonInstall.accesskey
 msgid "&Warn me when sites try to install add-ons"
 msgstr "&Упозори ме ако веб сајтови пробају да инсталирају додатке"
 
-# LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
-# The methods by which forged (phished) and attack sites will be detected by
-# phishing providers will vary from human review to machine-based heuristics to a
-# combination of both, so it's important that these strings and
-# useDownloadedList.label convey the meaning "suspected" (and not something like
-# "known").
-# 
-#: tellMaybeAttackSite.label tellMaybeAttackSite.accesskey
-msgid "Tell me if the site I'm visiting is a suspected attac&k site"
-msgstr "Обавести &ме ако је сајт ког посећујем потенцијално опасан"
+#. LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+#. The methods by which forged (phished) and attack sites will be detected by
+#. phishing providers will vary from human review to machine-based heuristics to a
+#. combination of both, so it's important that these strings and
+#. useDownloadedList.label convey the meaning "reported" (and not something like
+#. "known").
+#: blockAttackSites.label
+#: blockAttackSites.accesskey
+msgid "Bloc&k reported attack sites"
+msgstr ""
 
-#: tellMaybeForgery.label tellMaybeForgery.accesskey
-msgid "&Tell me if the site I'm visiting is a suspected forgery"
-msgstr "&Обавести ме ако је сајт ког посећујем могући фалсификат"
+#: blockWebForgeries.label
+#: blockWebForgeries.accesskey
+msgid "&Block reported web forgeries"
+msgstr ""
 
-#: addonExceptions.label addonExceptions.accesskey
+#: addonExceptions.label
+#: addonExceptions.accesskey
 msgid "&Exceptions…"
 msgstr "&Изузеци…"
 
@@ -41,23 +42,28 @@ msgstr "&Изузеци…"
 msgid "Passwords"
 msgstr "Лозинке"
 
-#: rememberPasswords.label rememberPasswords.accesskey
+#: rememberPasswords.label
+#: rememberPasswords.accesskey
 msgid "&Remember passwords for sites"
 msgstr "&Запамти лозинке за веб сајтове"
 
-#: passwordExceptions.label passwordExceptions.accesskey
+#: passwordExceptions.label
+#: passwordExceptions.accesskey
 msgid "E&xceptions…"
 msgstr "И&зузеци…"
 
-#: useMasterPassword.label useMasterPassword.accesskey
+#: useMasterPassword.label
+#: useMasterPassword.accesskey
 msgid "&Use a master password"
 msgstr "&Користи главну лозинку"
 
-#: changeMasterPassword.label changeMasterPassword.accesskey
+#: changeMasterPassword.label
+#: changeMasterPassword.accesskey
 msgid "Change &Master Password…"
 msgstr "Измена &главне лозинке…"
 
-#: savedPasswords.label savedPasswords.accesskey
+#: savedPasswords.label
+#: savedPasswords.accesskey
 msgid "Saved &Passwords…"
 msgstr "Сачуване &лозинке…"
 
@@ -69,50 +75,7 @@ msgstr "Поруке упозорења"
 msgid "Choose which warning messages you want to see while browsing the web"
 msgstr "Изаберите поруке упозорења које желите да видите при читању страна"
 
-#: warningSettings.label warningSettings.accesskey
+#: warningSettings.label
+#: warningSettings.accesskey
 msgid "&Settings…"
 msgstr "&Подешавања…"
-
-# The methods by which forged (phished) sites will be detected by phishing
-# providers will vary from human review to machine-based heuristics to a
-# combination of both, so it's important that this string and
-# useDownloadedList.label convey the meaning "suspected" (and not something like
-# "known").
-# 
-#
-#~ msgid ""
-#~ "_: \n"
-#~ "&Tell me if the site I'm visiting is a suspected forgery"
-#~ msgstr "У&позори ако је ел. место које посећујем можда лажирано"
-
-#~ msgid "Check using a &downloaded list of suspected sites"
-#~ msgstr "Провери помоћу &списка сумњивих ел. места"
-
-# The entities askThirdParty.label and askThirdPartyAfter.label appear on a
-# single line in preferences as follows:
-# 
-# &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
-# 
-#
-#~ msgid ""
-#~ "_: \n"
-#~ "Check by &asking"
-#~ msgstr "Провери &упитом"
-
-#~ msgid "about each site I visit"
-#~ msgstr "за свако место које посетим"
-
-#~ msgid "&Exceptions..."
-#~ msgstr "&Изузеци..."
-
-#~ msgid "E&xceptions..."
-#~ msgstr "Из&узеци..."
-
-#~ msgid "Change &Master Password..."
-#~ msgstr "&Промена главне лозинке..."
-
-#~ msgid "Show &Passwords..."
-#~ msgstr "Прикажи &лозинке..."
-
-#~ msgid "&Settings..."
-#~ msgstr "&Подешавања..."

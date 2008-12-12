@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-22 23:44+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: aboutWindowTitle
@@ -259,25 +259,32 @@ msgid ""
 "type (%S). Please contact the author of this item about the problem."
 msgstr ""
 
-#: blocklistedInstallTitle
-msgid "This extension is not secure"
+#: blocklistedInstallTitle2
+msgid "This add-on is dangerous to use"
 msgstr ""
 
-#: blocklistedInstallMsg
-msgid "The extension %S is known to be dangerous, and can't be installed."
-msgstr ""
-
-#: blocklistNotifyTitle2
-msgid "Add-ons may be causing problems"
-msgstr ""
-
-#: blocklistNotifyMsg2
+#: blocklistedInstallMsg2
 msgid ""
-"%S has determined that the following add-ons may be unstable or insecure."
+"The add-on %S has a high risk of causing stability or security problems and "
+"can't be installed."
 msgstr ""
 
-#: blocklistRestartMsg2
-msgid "You should restart %S so that these add-ons can be disabled."
+#: softBlockedInstallTitle
+msgid "This add-on may be dangerous to use"
+msgstr ""
+
+#: softBlockedInstallMsg
+msgid ""
+"The add-on %S may cause stability or security problems. It is highly "
+"recommended that you do not install it."
+msgstr ""
+
+#: softBlockedInstallAcceptLabel
+msgid "Install Anyway"
+msgstr ""
+
+#: softBlockedInstallAcceptKey
+msgid "I"
 msgstr ""
 
 #: missingFileTitle

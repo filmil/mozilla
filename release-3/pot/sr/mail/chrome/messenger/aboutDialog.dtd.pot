@@ -1,18 +1,17 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/aboutDialog.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/aboutDialog.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: aboutDialog.title
@@ -34,7 +33,13 @@ msgid "version"
 msgstr ""
 
 #: copyrightText
-msgid "&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and the "
-"Thunderbird logos are trademarks of the Mozilla Foundation.  All rights "
+msgid ""
+"&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and "
+"the \n"
+"Thunderbird logos are trademarks of the Mozilla Foundation.  All rights \n"
 "reserved."
+msgstr ""
+
+#: cmdCloseMac.commandKey
+msgid "w"
 msgstr ""

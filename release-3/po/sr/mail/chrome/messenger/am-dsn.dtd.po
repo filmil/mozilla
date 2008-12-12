@@ -1,33 +1,35 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/mail/chrome/messenger/am-dsn.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-dsn.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-28 22:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: pane.title
 msgid "Delivery Status Notification"
 msgstr "Обавештење о испоруци"
 
-#: useGlobalPrefs.label useGlobalPrefs.accesskey
+#: useGlobalPrefs.label
+#: useGlobalPrefs.accesskey
 msgid ""
 "&Use my global Delivery Status Notification preferences for this account"
 msgstr "&Користи моја глобална подешавања обавештења о испоруци за овај налог"
 
-#: useCustomPrefs.label useCustomPrefs.accesskey
+#: useCustomPrefs.label
+#: useCustomPrefs.accesskey
 msgid "&Customize Delivery Status Notification for this account"
 msgstr "&Прилагоди обавештења о испоруци за овај налог"
 
-#: requestAlways.label requestAlways.accesskey
+#: requestAlways.label
+#: requestAlways.accesskey
 msgid "&When sending messages, always request a Delivery Status Notification"
 msgstr "&При слању порука, увек тражи обавештење о испоруци"
 
@@ -35,18 +37,22 @@ msgstr "&При слању порука, увек тражи обавештењ�
 msgid "Ask notification on :"
 msgstr "Тражи обавештење при:"
 
-#: requestOnSucess.label requestOnSucess.accesskey
+#: requestOnSucess.label
+#: requestOnSucess.accesskey
 msgid "&Success in delivering"
 msgstr "&Успешној испоруци"
 
-#: requestOnFailure.label requestOnFailure.accesskey
+#: requestOnFailure.label
+#: requestOnFailure.accesskey
 msgid "&Failure in delivering"
 msgstr "Неуспе&шној испоруци"
 
-#: requestOnDelay.label requestOnDelay.accesskey
+#: requestOnDelay.label
+#: requestOnDelay.accesskey
 msgid "&Delay in delivering"
 msgstr "&Застоју у испоруци"
 
-#: requestNever.label requestNever.accesskey
+#: requestNever.label
+#: requestNever.accesskey
 msgid "&Never receive Delivery Status Notification"
 msgstr "&Никад не примај обавештење о испоруци"

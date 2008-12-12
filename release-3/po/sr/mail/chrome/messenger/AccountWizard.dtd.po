@@ -1,25 +1,26 @@
-# extracted from source/sr-RS/mail/chrome/messenger/AccountWizard.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/AccountWizard.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-26 21:06+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 # Entities for AccountWizard
+#. Entities for AccountWizard
 #: windowTitle.label
 msgid "Account Wizard"
 msgstr "Чаробњак за налоге"
 
 # (pofilter) unchanged: please translate
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: accountWizard.size
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -28,6 +29,7 @@ msgid ""
 msgstr "width: 40em; height: 38em;"
 
 # Entities for Account Type page
+#. Entities for Account Type page
 #: accountSetupInfo.label
 msgid ""
 "In order to receive messages, you first need to set up a Mail or Newsgroup "
@@ -55,15 +57,18 @@ msgstr ""
 msgid "Select the type of account you would like to set up:"
 msgstr "Изаберите врсту корисничког налога ког желите да поставите:"
 
-#: accountTypeMail.label accountTypeMail.accesskey
+#: accountTypeMail.label
+#: accountTypeMail.accesskey
 msgid "E&mail account"
 msgstr "Налог за &пошту"
 
-#: accountTypeNews.label accountTypeNews.accesskey
+#: accountTypeNews.label
+#: accountTypeNews.accesskey
 msgid "Ne&wsgroup account"
 msgstr "Налог за &групе"
 
 # Entities for Identity page
+#. Entities for Identity page
 #: identityTitle.label
 msgid "Identity"
 msgstr "Идентитет"
@@ -76,6 +81,7 @@ msgstr ""
 "Сваки налог има свој идентитет, што је податак који се приказује лицима која "
 "примају Ваше поруке."
 
+#. do not translate two of "&quot;" in below line
 #: fullnameDesc.label
 msgid ""
 "_: do not translate two of \"&quot;\" in below line\n"
@@ -87,128 +93,119 @@ msgstr ""
 
 # 1, do not translate two of "&quot;"
 # 2, Use localized full name instead of "John Smith"
-# 
 #
+#
+#. use following directions for below line
+#. 1, do not translate two of "&quot;"
+#. 2, Use localized full name instead of "John Smith"
 #: fullnameExample.label
 msgid ""
 "_: use following directions for below line\n"
 "(for example, &quot;John Smith&quot;)."
 msgstr "(на пример, &quot;Петар Петровић&quot;)."
 
-#: fullnameLabel.label fullnameLabel.accesskey
+#: fullnameLabel.label
+#: fullnameLabel.accesskey
 msgid "&Your Name:"
 msgstr "&Ваше име:"
 
-#: emailLabel.label emailLabel.accesskey
+#: emailLabel.label
+#: emailLabel.accesskey
 msgid "&Email Address:"
 msgstr "&Ел. адреса:"
 
-#: emailDesc.label
-msgid ""
-"Enter your email address; this is the address others will use to send email "
-"to you"
-msgstr ""
-"Унесите Вашу електронску адресу; то је адреса коју други користе како би Вам "
-"слали електронску пошту."
-
-#: emailExample.label
-msgid ""
-"_: do not translate \"user@example.net\" in below line\n"
-"(for example: user@example.net)."
-msgstr "(на пример: user@example.net)."
-
 # Entities for Server page
+#. Entities for Server page
 #: serverTitle.label
 msgid "Server Information"
 msgstr "Подаци о серверу"
-
-#: incomingServerTitle.label
-msgid "Incoming Server"
-msgstr "Долазни сервер"
 
 #: incomingServerTypeDesc.label
 msgid "Select the type of incoming server you are using."
 msgstr "Изаберите врсту сервера ког користите."
 
-#: incomingServerTypeLabel.label
-msgid "Server Type:"
-msgstr "Врста сервера:"
-
+#. Do not translate "&quot;pop.example.net&quot;" in below line
 #: incomingServerNameDesc.label
 msgid ""
 "_: Do not translate \"&quot;pop.example.net&quot;\" in below line\n"
-"Enter the name of your incoming server (for example, &quot;mail.example."
-"net&quot;)."
+"Enter the name of your incoming server (for example, "
+"&quot;mail.example.net&quot;)."
 msgstr ""
-"Унесите име Вашег долазног сервера (на пример, &quot;mail.example.net&quot;)."
+"Унесите име Вашег долазног сервера (на пример, "
+"&quot;mail.example.net&quot;)."
 
-#: incomingServerLabel.label incomingServerLabel.accesskey
+#: incomingServerLabel.label
+#: incomingServerLabel.accesskey
 msgid "Incoming &Server:"
 msgstr "Долазни &сервер:"
 
+#. Do not translate "NNTP" or the "&quot;" entities in below line
 #: newsServerNameDesc.label
 msgid ""
 "_: Do not translate \"NNTP\" or the \"&quot;\" entities in below line\n"
-"Enter the name of your news server (NNTP) (for example, &quot;news.example."
-"net&quot;)."
+"Enter the name of your news server (NNTP) (for example, "
+"&quot;news.example.net&quot;)."
 msgstr ""
-"Унесите име Вашег сервера за групе (NNTP) (на пример, &quot;news.example."
-"net&quot;)."
+"Унесите име Вашег сервера за групе (NNTP) (на пример, "
+"&quot;news.example.net&quot;)."
 
-#: smtpServerTitle.label
-msgid ""
-"_: Do not translate \"SMTP\" in below line\n"
-"Outgoing Server (SMTP)"
-msgstr "Одлазни сервер (SMTP)"
-
+#. Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line
 #: smtpServerDesc.label
 msgid ""
 "_: Do not translate \"SMTP\" and \"&quot;smtp.example.net&quot;\" in below line\n"
-"Enter the name of your outgoing server (SMTP) (for example, &quot;smtp."
-"example.net&quot;)."
+"Enter the name of your outgoing server (SMTP) (for example, "
+"&quot;smtp.example.net&quot;)."
 msgstr ""
-"Унесите име одлазног сервера (SMTP) (на пример, &quot;smtp.example."
-"net&quot;)."
+"Унесите име одлазног сервера (SMTP) (на пример, "
+"&quot;smtp.example.net&quot;)."
 
-#: smtpServerLabel.label smtpServerLabel.accesskey
+#: smtpServerLabel.label
+#: smtpServerLabel.accesskey
 msgid "&Outgoing Server:"
 msgstr "&Одлазни сервер:"
 
-#: newsServerLabel.label newsServerLabel.accesskey
-msgid "&Newsgroup Server:"
+#: newsServerLabel.label
+#: newsServerLabel.accesskey
+#, fuzzy
+msgid "Ne&wsgroup Server:"
 msgstr "Сервер за &групе:"
 
-#: imapType.label imapType.accesskey
+#. Do not translate "IMAP" in below line
+#: imapType.label
+#: imapType.accesskey
 msgid ""
 "_: Do not translate \"IMAP\" in below line\n"
 "&IMAP"
 msgstr "&IMAP"
 
-#: popType.label popType.accesskey
+#. Do not translate "POP" in below line
+#: popType.label
+#: popType.accesskey
 msgid ""
 "_: Do not translate \"POP\" in below line\n"
 "&POP"
 msgstr "&POP"
 
-#: nntpType.label
-msgid "News Server"
-msgstr "Сервер за групе"
-
 # for when the user has an SMTP server pre-configured
 # LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
 # this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
 # inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
-# 
+#
 # LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
 # these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
 # text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
-# 
 #
+#
+#. LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+#. these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+#. text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 #: haveSmtp1.prefix
 msgid "Your existing outgoing server (SMTP), &quot;"
 msgstr "Ваш тренутни одлазећи сервер (SMTP), „"
 
-#: haveSmtp1.suffix haveSmtp2.suffix
+#: haveSmtp1.suffix
+#: haveSmtp2.suffix
+msgctxt "haveSmtp1.suffix"
 msgid ""
 "&quot;, will be used. You can modify outgoing server settings by choosing "
 "Account Settings from the Tools menu."
@@ -217,6 +214,7 @@ msgstr ""
 "избором подешавања налога из менија Алати."
 
 # Entities for Login page
+#. Entities for Login page
 #: loginTitle.label
 msgid "User Names"
 msgstr "Корисничка имена"
@@ -225,13 +223,15 @@ msgstr "Корисничка имена"
 msgid "Enter the incoming user name given to you by your email provider "
 msgstr "Унесите корисничко име које Вам је дао добављач електронске поште "
 
+#. do not translate "&quot;jsmith&quot;" in below line
 #: usernameExample.label
 msgid ""
 "_: do not translate \"&quot;jsmith&quot;\" in below line\n"
 "(for example, &quot;jsmith&quot;)."
 msgstr "(на пример, „ppetrovic“)."
 
-#: usernameLabel.label usernameLabel.accesskey
+#: usernameLabel.label
+#: usernameLabel.accesskey
 msgid "&Incoming User Name:"
 msgstr "&Долазно корисничко име:"
 
@@ -243,24 +243,41 @@ msgstr ""
 "Унесит одлазно корисничко име које Вам је дао добављач електронске поште "
 "(обично је исто као долазно корисничко име)."
 
-#: usernameSmtpLabel.label usernameSmtpLabel.accesskey
+#: usernameSmtpLabel.label
+#: usernameSmtpLabel.accesskey
 msgid "&Outgoing User Name:"
 msgstr "&Одлазно корисничко име:"
 
 # LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
 # these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
 # text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
-# 
 #
+#
+#. LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+#. these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+#. text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 #: haveSmtp2.prefix
 msgid "Your existing outgoing (SMTP) username, &quot;"
 msgstr "Ваше тренутно одлазно (SMTP) корисничко име, „"
 
+#: haveSmtp2.suffix
+#: haveSmtp1.suffix
+msgctxt "haveSmtp2.suffix"
+msgid ""
+"&quot;, will be used. You can modify outgoing server settings by choosing "
+"Account Settings from the Tools menu."
+msgstr ""
+"‟ ће бити коришћен.  Можете да промените подешавања одлазећег сервера "
+"избором подешавања налога из менија Алати."
+
 # LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
 # these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
 # text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
-# 
 #
+#
+#. LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+#. these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+#. text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 #: haveSmtp3.prefix
 msgid "Your outgoing (SMTP) server, &quot;"
 msgstr "Ваш одлазни (SMTP) сервер, „"
@@ -276,10 +293,12 @@ msgstr ""
 "налога из менија Алати."
 
 # Entities for Account name page
+#. Entities for Account name page
 #: accnameTitle.label
 msgid "Account Name"
 msgstr "Име налога"
 
+#. do not translate any "&quot;" in below line
 #: accnameDesc.label
 msgid ""
 "_: do not translate any \"&quot;\" in below line\n"
@@ -290,15 +309,13 @@ msgstr ""
 "Унесите име по коме ћете разазнавати овај налог (на пример, &quot;Work "
 "Account&quot;, &quot;Home Account&quot; или &quot;News Account&quot;)."
 
-#: accnameExample.label
-msgid "For example, Work Account, Home Account or News Account"
-msgstr "На пример: Радни налог, Кућни налог или Налог за групе"
-
-#: accnameLabel.label accnameLabel.accesskey
+#: accnameLabel.label
+#: accnameLabel.accesskey
 msgid "&Account Name:"
 msgstr "&Име налога:"
 
 # Entities for Done (Congratulations) page
+#. Entities for Done (Congratulations) page
 #: completionTitle.label
 msgid "Congratulations!"
 msgstr "Честитамо!"
@@ -351,4 +368,6 @@ msgstr ""
 
 #: clickFinish.labelMac
 msgid "Click Done to save these settings and exit the Account Wizard."
-msgstr "Притисните „Готово‟ како бисте сачували ова подешавања и изашли из Чаробњака за налоге."
+msgstr ""
+"Притисните „Готово‟ како бисте сачували ова подешавања и изашли из Чаробњака "
+"за налоге."

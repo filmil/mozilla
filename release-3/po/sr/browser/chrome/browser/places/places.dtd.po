@@ -1,16 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla-cvs/3/template/en-US/browser/chrome/browser/places/places.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/places.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-04 20:03+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-04-04 20:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. use "Library", "Archive" or "Repository"
@@ -42,10 +42,9 @@ msgid "&Organize"
 msgstr "&Среди"
 
 #: file.accesskey
-#: cmd.context_new_folder.accesskey
 msgctxt "file.accesskey"
 msgid "F"
-msgstr "Д"
+msgstr ""
 
 #: file.close.label
 #: file.close.accesskey
@@ -205,6 +204,16 @@ msgstr "&Понови"
 msgid "y"
 msgstr "y"
 
+#: cmd.delete.label
+#: cmd.delete.accesskey
+msgid "&Delete This Page"
+msgstr ""
+
+#: cmd.deleteDomainData.label
+#: cmd.deleteDomainData.accesskey
+msgid "&Forget About This Site"
+msgstr ""
+
 #: cmd.open.label
 #: cmd.open.accesskey
 msgid "&Open"
@@ -318,10 +327,9 @@ msgid "Tags"
 msgstr "Ознаке"
 
 #: col.url.label
-#: advancedSearch.subj_location.label
 msgctxt "col.url.label"
 msgid "Location"
-msgstr "Место"
+msgstr ""
 
 #: col.lastvisit.label
 msgid "Visit Date"
@@ -359,11 +367,9 @@ msgstr "По &тренутној збирци"
 
 #: search.allBookmarks.label
 #: search.allBookmarks.accesskey
-#: search.scopeAll.label
-#: search.scopeAll.accesskey
 msgctxt "search.allBookmarks.label search.allBookmarks.accesskey"
 msgid "&All Bookmarks"
-msgstr "С&ве забелешке"
+msgstr ""
 
 #: search.scopeFolder.label
 #: search.scopeFolder.accesskey
@@ -415,10 +421,9 @@ msgid "&Save"
 msgstr "&Сачувај"
 
 #: moreCriteria.label
-#: advancedSearch.plus.label
 msgctxt "moreCriteria.label"
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #: advancedSearch.onlybookmarked.label
 msgid "Search Bookmarks only"

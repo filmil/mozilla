@@ -1,22 +1,21 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/global/filepicker.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/filepicker.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# LOCALIZATION NOTE FILE
-# --do not localize the extensions, only the titles
+#. # LOCALIZATION NOTE FILE
+#. # --do not localize the extensions, only the titles
 #: allTitle
 msgid "All Files"
 msgstr ""
@@ -70,7 +69,7 @@ msgid "Applications"
 msgstr ""
 
 #: dirTextInputLabel
-#: promptNewDirMessage
+msgctxt "dirTextInputLabel"
 msgid "Directory name:"
 msgstr ""
 
@@ -109,7 +108,7 @@ msgid "Save As:"
 msgstr ""
 
 #: errorOpenFileDoesntExistTitle
-#: errorOpeningFileTitle
+msgctxt "errorOpenFileDoesntExistTitle"
 msgid "Error opening %S"
 msgstr ""
 
@@ -123,6 +122,11 @@ msgstr ""
 
 #: errorDirDoesntExistMessage
 msgid "Directory %S doesn't exist"
+msgstr ""
+
+#: errorOpeningFileTitle
+msgctxt "errorOpeningFileTitle"
+msgid "Error opening %S"
 msgstr ""
 
 #: openWithoutPermissionMessage_file
@@ -150,12 +154,17 @@ msgid "Cannot create file. Directory %S is not writable."
 msgstr ""
 
 #: errorNewDirDoesExistTitle
-#: errorCreateNewDirTitle
+msgctxt "errorNewDirDoesExistTitle"
 msgid "Error creating %S"
 msgstr ""
 
 #: errorNewDirDoesExistMessage
 msgid "A file named %S already exists, directory cannot be created."
+msgstr ""
+
+#: errorCreateNewDirTitle
+msgctxt "errorCreateNewDirTitle"
+msgid "Error creating %S"
 msgstr ""
 
 #: errorCreateNewDirMessage
@@ -172,6 +181,11 @@ msgstr ""
 
 #: promptNewDirTitle
 msgid "Create new directory"
+msgstr ""
+
+#: promptNewDirMessage
+msgctxt "promptNewDirMessage"
+msgid "Directory name:"
 msgstr ""
 
 #: errorPathProblemTitle

@@ -1,53 +1,52 @@
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is mozilla.org code.
-#
-# The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s):
-#   Lorenzo Colitti <lorenzo@colitti.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the GPL or the LGPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
-# extracted from source/sr-RS/mail/chrome/messenger/imapMsgs.properties
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is mozilla.org code.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 1998
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Lorenzo Colitti <lorenzo@colitti.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either the GNU General Public License Version 2 or later (the "GPL"), or
+#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/imapMsgs.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-30 18:07+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #
@@ -58,8 +57,16 @@ msgstr ""
 ## @loc None
 # # @name IMAP_STATUS_SELECTING_MAILBOX
 # # @loc None
+#. #
+#. # The following are used by the imap code to display progress/status/error messages
+#. #
+#. # Status - opening folder
+#. ## @name IMAP_STATUS_SELECTING_MAILBOX
+#. ## @loc None
 #: 5000
-msgid "Opening folder..."
+#, fuzzy
+msgctxt "5000"
+msgid "Opening folder %S…"
 msgstr "Отварање директоријума..."
 
 # Status - create folder
@@ -67,8 +74,12 @@ msgstr "Отварање директоријума..."
 ## @loc None
 # # @name IMAP_STATUS_CREATING_MAILBOX
 # # @loc None
+#. # Status - create folder
+#. ## @name IMAP_STATUS_CREATING_MAILBOX
+#. ## @loc None
 #: 5001
-msgid "Creating folder..."
+#, fuzzy
+msgid "Creating folder…"
 msgstr "Прављење директоријума..."
 
 # Status - deleting a folder
@@ -79,8 +90,15 @@ msgstr "Прављење директоријума..."
 # of the folder being deleted.
 # # @name IMAP_STATUS_DELETING_MAILBOX
 # # @loc None
+#. # Status - deleting a folder
+#. ## @name IMAP_STATUS_DELETING_MAILBOX
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5002): The "%S" below should not be translated.
+#. # Instead, insert "%S" in your translation where you wish to display the name
+#. # of the folder being deleted.
 #: 5002
-msgid "Deleting folder %S..."
+#, fuzzy
+msgid "Deleting folder %S…"
 msgstr "Брисање директоријума %S..."
 
 # Status - renaming mailbox
@@ -91,8 +109,15 @@ msgstr "Брисање директоријума %S..."
 # of the folder being renamed.
 # # @name IMAP_STATUS_RENAMING_MAILBOX
 # # @loc None
+#. # Status - renaming mailbox
+#. ## @name IMAP_STATUS_RENAMING_MAILBOX
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5003): The "%S" below should not be translated.
+#. # Instead, insert "%S" in your translation where you wish to display the name
+#. # of the folder being renamed.
 #: 5003
-msgid "Renaming folder %S..."
+#, fuzzy
+msgid "Renaming folder %S…"
 msgstr "Промена имена директоријума %S..."
 
 # Status - looking for mailboxes
@@ -100,8 +125,12 @@ msgstr "Промена имена директоријума %S..."
 ## @loc None
 # # @name IMAP_STATUS_LOOKING_FOR_MAILBOX
 # # @loc None
+#. # Status - looking for mailboxes
+#. ## @name IMAP_STATUS_LOOKING_FOR_MAILBOX
+#. ## @loc None
 #: 5004
-msgid "Looking for folders..."
+#, fuzzy
+msgid "Looking for folders…"
 msgstr "Тражење директоријума..."
 
 # Status - subscribing to mailbox
@@ -112,8 +141,15 @@ msgstr "Тражење директоријума..."
 # of the folder being subscribed to.
 # # @name IMAP_STATUS_SUBSCRIBE_TO_MAILBOX
 # # @loc None
+#. # Status - subscribing to mailbox
+#. ## @name IMAP_STATUS_SUBSCRIBE_TO_MAILBOX
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5005): The "%S" below should not be translated.
+#. # Instead, insert "%S" in your translation where you wish to display the name
+#. # of the folder being subscribed to.
 #: 5005
-msgid "Subscribing to folder %S..."
+#, fuzzy
+msgid "Subscribing to folder %S…"
 msgstr "Праћење директоријума %S..."
 
 # Status - unsubscribing from mailbox
@@ -124,8 +160,15 @@ msgstr "Праћење директоријума %S..."
 # of the folder being unsubscribed from.
 # # @name IMAP_STATUS_UNSUBSCRIBE_MAILBOX
 # # @loc None
+#. # Status - unsubscribing from mailbox
+#. ## @name IMAP_STATUS_UNSUBSCRIBE_MAILBOX
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5005): The "%S" below should not be translated.
+#. # Instead, insert "%S" in your translation where you wish to display the name
+#. # of the folder being unsubscribed from.
 #: 5006
-msgid "Unsubscribing from folder %S..."
+#, fuzzy
+msgid "Unsubscribing from folder %S…"
 msgstr "Крај праћења директоријума %S..."
 
 # Status - searching imap folder
@@ -133,8 +176,12 @@ msgstr "Крај праћења директоријума %S..."
 ## @loc None
 # # @name IMAP_STATUS_SEARCH_MAILBOX
 # # @loc None
+#. # Status - searching imap folder
+#. ## @name IMAP_STATUS_SEARCH_MAILBOX
+#. ## @loc None
 #: 5007
-msgid "Searching folder..."
+#, fuzzy
+msgid "Searching folder…"
 msgstr "Претрага директоријума..."
 
 # Status - getting message info
@@ -142,8 +189,12 @@ msgstr "Претрага директоријума..."
 ## @loc None
 # # @name IMAP_STATUS_MSG_INFO
 # # @loc None
+#. # Status - getting message info
+#. ## @name IMAP_STATUS_MSG_INFO
+#. ## @loc None
 #: 5008
-msgid "Getting message info..."
+#, fuzzy
+msgid "Getting message info…"
 msgstr "Добављање података о поруци..."
 
 # Status - closing a folder
@@ -151,8 +202,12 @@ msgstr "Добављање података о поруци..."
 ## @loc None
 # # @name IMAP_STATUS_CLOSE_MAILBOX
 # # @loc None
+#. # Status - closing a folder
+#. ## @name IMAP_STATUS_CLOSE_MAILBOX
+#. ## @loc None
 #: 5009
-msgid "Closing folder..."
+#, fuzzy
+msgid "Closing folder…"
 msgstr "Затварање директоријума..."
 
 # Status - compacting a folder
@@ -160,8 +215,12 @@ msgstr "Затварање директоријума..."
 ## @loc None
 # # @name IMAP_STATUS_EXPUNGING_MAILBOX
 # # @loc None
+#. # Status - compacting a folder
+#. ## @name IMAP_STATUS_EXPUNGING_MAILBOX
+#. ## @loc None
 #: 5010
-msgid "Compacting folder..."
+#, fuzzy
+msgid "Compacting folder…"
 msgstr "Сажимање директоријума..."
 
 # Status - logging out
@@ -169,8 +228,12 @@ msgstr "Сажимање директоријума..."
 ## @loc None
 # # @name IMAP_STATUS_LOGGING_OUT
 # # @loc None
+#. # Status - logging out
+#. ## @name IMAP_STATUS_LOGGING_OUT
+#. ## @loc None
 #: 5011
-msgid "Logging out..."
+#, fuzzy
+msgid "Logging out…"
 msgstr "Одјава..."
 
 # Status - checking server capabilities
@@ -178,8 +241,12 @@ msgstr "Одјава..."
 ## @loc None
 # # @name IMAP_STATUS_CHECK_COMPAT
 # # @loc None
+#. # Status - checking server capabilities
+#. ## @name IMAP_STATUS_CHECK_COMPAT
+#. ## @loc None
 #: 5012
-msgid "Checking mail server capabilities..."
+#, fuzzy
+msgid "Checking mail server capabilities…"
 msgstr "Проверавање могућности сервера за пошту..."
 
 # Status - logging on
@@ -187,8 +254,13 @@ msgstr "Проверавање могућности сервера за пошт
 ## @loc None
 # # @name IMAP_STATUS_SENDING_LOGIN
 # # @loc None
+#. # Status - logging on
+#. ## @name IMAP_STATUS_SENDING_LOGIN
+#. ## @loc None
 #: 5013
-msgid "Sending login information..."
+#, fuzzy
+msgctxt "5013"
+msgid "Sending login information…"
 msgstr "Слање података о пријави..."
 
 # Status - auth logon
@@ -196,16 +268,24 @@ msgstr "Слање података о пријави..."
 ## @loc None
 # # @name IMAP_STATUS_SENDING_AUTH_LOGIN
 # # @loc None
+#. # Status - auth logon
+#. ## @name IMAP_STATUS_SENDING_AUTH_LOGIN
+#. ## @loc None
 #: 5014
-msgid "Sending authenticate login information..."
+#, fuzzy
+msgctxt "5014"
+msgid "Sending login information…"
 msgstr "Слање података о кориснику..."
 
 ## @name IMAP_DOWNLOADING_MESSAGE
 ## @loc None
 # # @name IMAP_DOWNLOADING_MESSAGE
 # # @loc None
+#. ## @name IMAP_DOWNLOADING_MESSAGE
+#. ## @loc None
 #: 5015
-msgid "Downloading message..."
+#, fuzzy
+msgid "Downloading message…"
 msgstr "Преузимање поруке..."
 
 ## @name IMAP_STATUS_GETTING_NAMESPACE
@@ -213,38 +293,62 @@ msgstr "Преузимање поруке..."
 # LOCALIZATION NOTE (Error 5020): Do not translate the word "IMAP" below.
 # # @name IMAP_STATUS_GETTING_NAMESPACE
 # # @loc None
+#. ## @name IMAP_STATUS_GETTING_NAMESPACE
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5020): Do not translate the word "IMAP" below.
 #: 5020
-msgid "Checking IMAP Namespace..."
+#, fuzzy
+msgid "Checking IMAP Namespace…"
 msgstr "Провера IMAPовог простора имена..."
 
 ## @name IMAP_UPGRADE_NO_PERSONAL_NAMESPACE
 ## @loc None
 # # @name IMAP_UPGRADE_NO_PERSONAL_NAMESPACE
 # # @loc None
+#. ## @name IMAP_UPGRADE_NO_PERSONAL_NAMESPACE
+#. ## @loc None
 #: 5021
-msgid "\"The mail server indicates that you may not have any personal mail folders. Please verify your subscriptions."
-msgstr "„Сервер за пошту указује да још увек немате директоријуме за личну пошту. Молимо да проверите Ваша праћења."
+msgid ""
+"\"The mail server indicates that you may not have any personal mail folders. "
+"Please verify your subscriptions."
+msgstr ""
+"„Сервер за пошту указује да још увек немате директоријуме за личну пошту. "
+"Молимо да проверите Ваша праћења."
 
 ## @name IMAP_UPGRADE_PROMPT_USER_2
 ## @loc None
 # # @name IMAP_UPGRADE_PROMPT_USER_2
 # # @loc None
+#. ## @name IMAP_UPGRADE_PROMPT_USER_2
+#. ## @loc None
 #: 5024
-msgid "Any folders which are left unsubscribed will not appear in your folder lists, but can be subscribed to later by choosing File / Subscribe."
-msgstr "Сви директоријуми на које је праћење отказано се неће приказивати у списку директоријума, али се на њих касније можете претплатити избором „Датотека→Праћење‟"
+msgid ""
+"Any folders which are left unsubscribed will not appear in your folder "
+"lists, but can be subscribed to later by choosing File / Subscribe."
+msgstr ""
+"Сви директоријуми на које је праћење отказано се неће приказивати у списку "
+"директоријума, али се на њих касније можете претплатити избором "
+"„Датотека→Праћење‟"
 
 ## @name IMAP_UPGRADE_CUSTOM
 ## @loc None
 # # @name IMAP_UPGRADE_CUSTOM
 # # @loc None
+#. ## @name IMAP_UPGRADE_CUSTOM
+#. ## @loc None
 #: 5026
-msgid "Please choose which folders you want subscribed in the Subscribe window..."
-msgstr "Молимо изаберите директоријуме које желите да пратите у прозору Праћење..."
+#, fuzzy
+msgid ""
+"Please choose which folders you want subscribed in the Subscribe window…"
+msgstr ""
+"Молимо изаберите директоријуме које желите да пратите у прозору Праћење..."
 
 ## @name IMAP_UPGRADE_SUCCESSFUL
 ## @loc None
 # # @name IMAP_UPGRADE_SUCCESSFUL
 # # @loc None
+#. ## @name IMAP_UPGRADE_SUCCESSFUL
+#. ## @loc None
 #: 5028
 msgid "The upgrade was successful."
 msgstr "Доградња је успела."
@@ -254,30 +358,42 @@ msgstr "Доградња је успела."
 # LOCALIZATION NOTE (Error 5029): Do not translate the word "ACL" below.
 # # @name IMAP_GETTING_ACL_FOR_FOLDER
 # # @loc None
+#. ## @name IMAP_GETTING_ACL_FOR_FOLDER
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5029): Do not translate the word "ACL" below.
 #: 5029
-msgid "Getting folder ACL..."
+#, fuzzy
+msgid "Getting folder ACL…"
 msgstr "Добављање ACL за директоријум..."
 
 ## @name IMAP_GETTING_SERVER_INFO
 ## @loc None
 # # @name IMAP_GETTING_SERVER_INFO
 # # @loc None
+#. ## @name IMAP_GETTING_SERVER_INFO
+#. ## @loc None
 #: 5030
-msgid "Getting Server Configuration Info..."
+#, fuzzy
+msgid "Getting Server Configuration Info…"
 msgstr "Добављање подешавања сервера..."
 
 ## @name IMAP_GETTING_MAILBOX_INFO
 ## @loc None
 # # @name IMAP_GETTING_MAILBOX_INFO
 # # @loc None
+#. ## @name IMAP_GETTING_MAILBOX_INFO
+#. ## @loc None
 #: 5031
-msgid "Getting Mailbox Configuration Info..."
+#, fuzzy
+msgid "Getting Mailbox Configuration Info…"
 msgstr "Добављање подешавања поштанског сандучета..."
 
 ## @name IMAP_EMPTY_MIME_PART
 ## @loc None
 # # @name IMAP_EMPTY_MIME_PART
 # # @loc None
+#. ## @name IMAP_EMPTY_MIME_PART
+#. ## @loc None
 #: 5032
 msgid "This body part will be downloaded on demand."
 msgstr "Тело поруке ће бити добављено на захтев."
@@ -288,6 +404,9 @@ msgstr "Тело поруке ће бити добављено на захтев
 # # @name IMAP_UNABLE_TO_SAVE_MESSAGE
 # # @loc None
 # (pofilter) unchanged: please translate
+#. ## @name IMAP_UNABLE_TO_SAVE_MESSAGE
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5033): Do not translate the word "IMAP" below.
 #: 5033
 msgid "IMAP Error: The message could not be saved due to an error."
 msgstr "IMAP Error: The message could not be saved due to an error."
@@ -297,6 +416,9 @@ msgstr "IMAP Error: The message could not be saved due to an error."
 # LOCALIZATION NOTE (Error 5034): Do not translate the word "IMAP" below.
 # # @name IMAP_NO_ONLINE_FOLDER
 # # @loc None
+#. ## @name IMAP_NO_ONLINE_FOLDER
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5034): Do not translate the word "IMAP" below.
 #: 5034
 msgid "IMAP Error: The online folder information could not be retrieved."
 msgstr "IMAP грешка: Подаци о директоријуму нису могли бити добављени."
@@ -305,6 +427,8 @@ msgstr "IMAP грешка: Подаци о директоријуму нису �
 ## @loc None
 # # @name IMAP_LOGIN_FAILED
 # # @loc None
+#. ## @name IMAP_LOGIN_FAILED
+#. ## @loc None
 #: 5035
 msgid "Login to server %S failed."
 msgstr "Пријава на сервер %S није успела."
@@ -316,6 +440,11 @@ msgstr "Пријава на сервер %S није успела."
 # Place the word %lu where the number of headers should appear.
 # # @name IMAP_RECEIVING_MESSAGE_HEADERS_OF
 # # @loc None
+#. ## @name IMAP_RECEIVING_MESSAGE_HEADERS_OF
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5036): Do not translate the word "%S" or "%lu" below.
+#. # Place the word %S in your translation where the name of the server should appear.
+#. # Place the word %lu where the number of headers should appear.
 #: 5036
 msgid "%S Downloading message header %lu of %lu"
 msgstr "Програм %S прима заглавље поруке бр. %lu од %lu"
@@ -327,6 +456,11 @@ msgstr "Програм %S прима заглавље поруке бр. %lu о�
 # Place the word %lu where the number of flags should appear.
 # # @name IMAP_RECEIVING_MESSAGE_FLAGS_OF
 # # @loc None
+#. ## @name IMAP_RECEIVING_MESSAGE_FLAGS_OF
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5037): Do not translate the word "%S" or "%lu" below.
+#. # Place the word %S in your translation where the name of the server should appear.
+#. # Place the word %lu where the number of flags should appear.
 #: 5037
 msgid "%S Downloading message flag %lu of %lu"
 msgstr "Програм %S прима означене поруке бр.  %lu од %lu"
@@ -335,16 +469,22 @@ msgstr "Програм %S прима означене поруке бр.  %lu о
 ## @loc None
 # # @name IMAP_DELETING_MESSAGES
 # # @loc None
+#. ## @name IMAP_DELETING_MESSAGES
+#. ## @loc None
 #: 5038
-msgid "Deleting messages..."
+#, fuzzy
+msgid "Deleting messages…"
 msgstr "Брисање порука..."
 
 ## @name IMAP_DELETING_MESSAGE
 ## @loc None
 # # @name IMAP_DELETING_MESSAGE
 # # @loc None
+#. ## @name IMAP_DELETING_MESSAGE
+#. ## @loc None
 #: 5039
-msgid "Deleting message..."
+#, fuzzy
+msgid "Deleting message…"
 msgstr "Брисање поруке..."
 
 ## @name IMAP_MOVING_MESSAGES_TO
@@ -353,8 +493,13 @@ msgstr "Брисање поруке..."
 # Place the word %S in your translation where the name of the folder should appear.
 # # @name IMAP_MOVING_MESSAGES_TO
 # # @loc None
+#. ## @name IMAP_MOVING_MESSAGES_TO
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5040): Do not translate the word "%S" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
 #: 5040
-msgid "Moving messages to %S..."
+#, fuzzy
+msgid "Moving messages to %S…"
 msgstr "Премештање порука у %S..."
 
 ## @name IMAP_MOVING_MESSAGE_TO
@@ -363,8 +508,13 @@ msgstr "Премештање порука у %S..."
 # Place the word %S in your translation where the name of the folder should appear.
 # # @name IMAP_MOVING_MESSAGE_TO
 # # @loc None
+#. ## @name IMAP_MOVING_MESSAGE_TO
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5041): Do not translate the word "%S" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
 #: 5041
-msgid "Moving message to %S..."
+#, fuzzy
+msgid "Moving message to %S…"
 msgstr "Премештање поруке у %S..."
 
 ## @name IMAP_COPYING_MESSAGES_TO
@@ -373,8 +523,13 @@ msgstr "Премештање поруке у %S..."
 # Place the word %S in your translation where the name of the folder should appear.
 # # @name IMAP_COPYING_MESSAGES_TO
 # # @loc None
+#. ## @name IMAP_COPYING_MESSAGES_TO
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5042): Do not translate the word "%S" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
 #: 5042
-msgid "Copying messages to %S..."
+#, fuzzy
+msgid "Copying messages to %S…"
 msgstr "Умножавање порука у %S..."
 
 ## @name IMAP_COPYING_MESSAGE_TO
@@ -383,8 +538,13 @@ msgstr "Умножавање порука у %S..."
 # Place the word %S in your translation where the name of the folder should appear.
 # # @name IMAP_COPYING_MESSAGE_TO
 # # @loc None
+#. ## @name IMAP_COPYING_MESSAGE_TO
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5043): Do not translate the word "%S" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
 #: 5043
-msgid "Copying message to %S..."
+#, fuzzy
+msgid "Copying message to %S…"
 msgstr "Умножавање поруке у %S..."
 
 ## @name IMAP_SELECTING_MAILBOX
@@ -393,8 +553,14 @@ msgstr "Умножавање поруке у %S..."
 # Place the word %S in your translation where the name of the folder should appear.
 # # @name IMAP_SELECTING_MAILBOX
 # # @loc None
+#. ## @name IMAP_SELECTING_MAILBOX
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5044): Do not translate the word "%S" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
 #: 5044
-msgid "Opening folder %S..."
+#, fuzzy
+msgctxt "5044"
+msgid "Opening folder %S…"
 msgstr "Отварање директоријума %S..."
 
 ## @name IMAP_FOLDER_RECEIVING_MESSAGE_OF
@@ -404,16 +570,25 @@ msgstr "Отварање директоријума %S..."
 # Place the word %lu where the number of headers should appear.
 # # @name IMAP_FOLDER_RECEIVING_MESSAGE_OF
 # # @loc None
+#. ## @name IMAP_FOLDER_RECEIVING_MESSAGE_OF
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5045): Do not translate the word "%S" or "%lu" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
+#. # Place the word %lu where the number of headers should appear.
 #: 5045
 msgid "%S - Downloading message %lu of %lu"
 msgstr "%S - Пријем поруке бр.  %lu од %lu"
 
-## @name IMAP_DISCOVERING_MAILBOX 
+## @name IMAP_DISCOVERING_MAILBOX
 ## @loc None
 # LOCALIZATION NOTE (Error 5046): Do not translate the word "%S" below.
 # Place the word %S in your translation where the name of the folder should appear.
 # # @name IMAP_DISCOVERING_MAILBOX
 # # @loc None
+#. ## @name IMAP_DISCOVERING_MAILBOX 
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5046): Do not translate the word "%S" below.
+#. # Place the word %S in your translation where the name of the folder should appear.
 #: 5046
 msgid "Found folder: %S"
 msgstr "Нађен директоријум: %S"
@@ -424,6 +599,11 @@ msgstr "Нађен директоријум: %S"
 # Place the word "%S" in your translation where the email address
 # or the username should appear
 # # @name NS_SMTP_PASSWORD_PROMPT1
+#. ## @name IMAP_ENTER_PASSWORD_PROMPT
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5047): Do not translate the word %S below.
+#. # Place the word "%S" in your translation where the email address
+#. # or the username should appear
 #: 5047
 msgid "Enter your password for %S:"
 msgstr "Унесите лозинку за %S:"
@@ -433,6 +613,9 @@ msgstr "Унесите лозинку за %S:"
 # LOCALIZATION NOTE (Error 5048): Do not translate the word "IMAP4" below.
 # # @name IMAP_SERVER_NOT_IMAP4
 # # @loc None
+#. ## @name IMAP_SERVER_NOT_IMAP4
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5048): Do not translate the word "IMAP4" below.
 #: 5048
 msgid "Mail server %S is not an IMAP4 mail server."
 msgstr "Сервер за пошту %S не подржава IMAP4."
@@ -441,6 +624,8 @@ msgstr "Сервер за пошту %S не подржава IMAP4."
 ## @loc None
 # # @name IMAP_SERVER_SAID
 # # @loc None
+#. ## @name IMAP_SERVER_SAID
+#. ## @loc None
 #: 5049
 msgid "The current command did not succeed.  The mail server responded:"
 msgstr "Тренутна наредба није извршена. Сервер за пошту је одговорио:"
@@ -449,6 +634,8 @@ msgstr "Тренутна наредба није извршена. Сервер 
 ## @loc None
 # # @name IMAP_DONE
 # # @loc None
+#. ## @name IMAP_DONE
+#. ## @loc None
 #: 5050
 msgid ""
 "_: 5050\n"
@@ -459,12 +646,16 @@ msgstr ""
 ## @loc None
 # # @name ENTER_PASSWORD_PROMPT_TITLE
 # # @loc None
+#. ## @name IMAP_ENTER_PASSWORD_PROMPT_TITLE
+#. ## @loc None
 #: 5051
 msgid "Mail Server Password Required"
 msgstr "Потребна је лозинка за сервер за пошту"
 
 ## @name IMAP_UNKNOWN_HOST_ERROR
 ## @loc None
+#. ## @name IMAP_UNKNOWN_HOST_ERROR
+#. ## @loc None
 #: 5052
 msgid "Failed to connect to server %S."
 msgstr "Није могуће повезати се на сервер %S."
@@ -473,30 +664,28 @@ msgstr "Није могуће повезати се на сервер %S."
 ## @loc None
 # # @name IMAP_IMAP_CONNECTION_REFUSED_ERROR
 # # @loc None
+#. ## @name IMAP_IMAP_CONNECTION_REFUSED_ERROR
+#. ## @loc None
 #: 5053
 msgid "Could not connect to mail server %S; the connection was refused."
 msgstr "Повезивање са сервером %S није успело; веза је одбијена."
 
 ## @name IMAP_NET_TIMEOUT_ERROR
 ## @loc None
+#. ## @name IMAP_NET_TIMEOUT_ERROR
+#. ## @loc None
 #: 5054
 msgid "Connection to server %S timed out."
 msgstr "Веза са сервером %S је истекла."
 
-## @name IMAP_MOVE_FOLDER_TO_TRASH
-## @loc None
-# # @name IMAP_MOVE_FOLDER_TO_TRASH
-# # @loc None
-#: 5055
-msgid "Are you sure you want to move the selected folder into the Trash?"
-msgstr "Да ли сигурно желите да преместите изабрани директоријум у смеће?"
-
-# Status - no messages to download 
+# Status - no messages to download
 ## @name IMAP_NO_NEW_MESSAGES
 ## @loc None
-# Status - no messages to download
 # # @name IMAP_NO_NEW_MESSAGES
 # # @loc None
+#. # Status - no messages to download 
+#. ## @name IMAP_NO_NEW_MESSAGES
+#. ## @loc None
 #: 5056
 msgid "There are no new messages on the server."
 msgstr "Нема нових порука на серверу."
@@ -505,30 +694,32 @@ msgstr "Нема нових порука на серверу."
 ## @loc None
 # # @name IMAP_DEFAULT_ACCOUNT_NAME
 # # @loc None
+#. ## @name IMAP_DEFAULT_ACCOUNT_NAME
+#. ## @loc None
 #: 5057
 msgid "Mail for %S"
 msgstr "Пошта за %S"
-
-## @name IMAP_DELETE_NO_TRASH
-## @loc None
-# # @name IMAP_DELETE_NO_TRASH
-# # @loc None
-#: 5058
-msgid "Deleting this folder is not undoable and will delete all of the messages it contains, and its sub-folders. Are you sure you still want to delete this folder?"
-msgstr "Брисање овог директоријума се не може опозвати и избрисаће све поруке које су у њему, као и све поддиректоријуме. Да ли сте сигурни да желите да обришете овај директоријум?"
 
 ## @name IMAP_EMPTY_TRASH_CONFIRM
 ## @loc None
 # # @name IMAP_EMPTY_TRASH_CONFIRM
 # # @loc None
+#. ## @name IMAP_EMPTY_TRASH_CONFIRM
+#. ## @loc None
 #: 5061
-msgid "Emptying trash will delete %S and all of the messages it contains. Do you want to delete this folder?"
-msgstr "Пражњење смећа ће обрисати %S и све поруке које садржи. Да ли желите да обришете овај директоријум?"
+msgid ""
+"Emptying trash will delete %S and all of the messages it contains. Do you "
+"want to delete this folder?"
+msgstr ""
+"Пражњење смећа ће обрисати %S и све поруке које садржи. Да ли желите да "
+"обришете овај директоријум?"
 
 ## @name IMAP_PERSONAL_FILING_CABINET
 ## @loc None
 # # @name IMAP_PERSONAL_FILING_CABINET
 # # @loc None
+#. ## @name IMAP_PERSONAL_FILING_CABINET
+#. ## @loc None
 #: 5062
 msgid "Personal Filing Cabinet"
 msgstr "Лична остава за документе"
@@ -537,6 +728,8 @@ msgstr "Лична остава за документе"
 ## @loc None
 # # @name IMAP_PFC_READ_MAIL
 # # @loc None
+#. ## @name IMAP_PFC_READ_MAIL
+#. ## @loc None
 #: 5063
 msgid "Read Mail"
 msgstr "Читање поште"
@@ -545,6 +738,8 @@ msgstr "Читање поште"
 ## @loc None
 # # @name IMAP_PFC_SENT_MAIL
 # # @loc None
+#. ## @name IMAP_PFC_SENT_MAIL
+#. ## @loc None
 #: 5064
 msgid "Sent Mail"
 msgstr "Послата пошта"
@@ -553,14 +748,21 @@ msgstr "Послата пошта"
 ## @loc None
 # # @name IMAP_SPECIAL_CHAR
 # # @loc None
+#. ## @name IMAP_SPECIAL_CHAR
+#. ## @loc None
 #: 5065
-msgid "The %c character is reserved on this imap server. Please choose another name."
-msgstr "Знак %c је резервисан на овом IMAP серверу. Молимо изаберите неко друго име."
+msgid ""
+"The %c character is reserved on this imap server. Please choose another "
+"name."
+msgstr ""
+"Знак %c је резервисан на овом IMAP серверу. Молимо изаберите неко друго име."
 
 ## @name IMAP_PERSONAL_SHARED_FOLDER_TYPE_NAME
 ## @loc None
 # # @name IMAP_PERSONAL_SHARED_FOLDER_TYPE_NAME
 # # @loc None
+#. ## @name IMAP_PERSONAL_SHARED_FOLDER_TYPE_NAME
+#. ## @loc None
 #: 5066
 msgid "Personal Folder"
 msgstr "Лични директоријум"
@@ -569,6 +771,8 @@ msgstr "Лични директоријум"
 ## @loc None
 # # @name IMAP_PUBLIC_FOLDER_TYPE_NAME
 # # @loc None
+#. ## @name IMAP_PUBLIC_FOLDER_TYPE_NAME
+#. ## @loc None
 #: 5067
 msgid "Public Folder"
 msgstr "Јавни директоријум"
@@ -577,6 +781,8 @@ msgstr "Јавни директоријум"
 ## @loc None
 # # @name IMAP_OTHER_USERS_FOLDER_TYPE_NAME
 # # @loc None
+#. ## @name IMAP_OTHER_USERS_FOLDER_TYPE_NAME
+#. ## @loc None
 #: 5068
 msgid "Other User's Folder"
 msgstr "Директоријуми других корисника"
@@ -585,6 +791,8 @@ msgstr "Директоријуми других корисника"
 ## @loc None
 # # @name IMAP_PERSONAL_FOLDER_TYPE_DESCRIPTION
 # # @loc None
+#. ## @name IMAP_PERSONAL_FOLDER_TYPE_DESCRIPTION
+#. ## @loc None
 #: 5069
 msgid "This is a personal mail folder.  It is not shared."
 msgstr "Ово је лични директоријум за пошту, који није дељен."
@@ -593,6 +801,8 @@ msgstr "Ово је лични директоријум за пошту, кој�
 ## @loc None
 # # @name IMAP_PERSONAL_SHARED_FOLDER_TYPE_DESCRIPTION
 # # @loc None
+#. ## @name IMAP_PERSONAL_SHARED_FOLDER_TYPE_DESCRIPTION
+#. ## @loc None
 #: 5070
 msgid "This is a personal mail folder.  It has been shared."
 msgstr "Ово је лични директоријум за пошту, који је дељен."
@@ -601,6 +811,8 @@ msgstr "Ово је лични директоријум за пошту, кој�
 ## @loc None
 # # @name IMAP_PUBLIC_FOLDER_TYPE_DESCRIPTION
 # # @loc None
+#. ## @name IMAP_PUBLIC_FOLDER_TYPE_DESCRIPTION
+#. ## @loc None
 #: 5071
 msgid "This is a public folder."
 msgstr "Ово је јавни директоријум."
@@ -609,6 +821,8 @@ msgstr "Ово је јавни директоријум."
 ## @loc None
 # # @name IMAP_OTHER_USERS_FOLDER_TYPE_DESCRIPTION
 # # @loc None
+#. ## @name IMAP_OTHER_USERS_FOLDER_TYPE_DESCRIPTION
+#. ## @loc None
 #: 5072
 msgid "This is a mail folder shared by the user '%S'."
 msgstr "Ово је директоријум за пошту ког дели корисник '%S'."
@@ -617,6 +831,8 @@ msgstr "Ово је директоријум за пошту ког дели к�
 ## @loc None
 # # @name IMAP_ACL_FULL_RIGHTS
 # # @loc None
+#. ## @name IMAP_ACL_FULL_RIGHTS
+#. ## @loc None
 #: 5073
 msgid "Full Control"
 msgstr "Пуна контрола"
@@ -625,12 +841,16 @@ msgstr "Пуна контрола"
 ## @loc None
 # # @name IMAP_ACL_LOOKUP_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_LOOKUP_RIGHT
+#. ## @loc None
 #: 5074
 msgid "Lookup"
 msgstr "Потрага"
 
 ## @name IMAP_ACL_READ_RIGHT
 ## @loc None
+#. ## @name IMAP_ACL_READ_RIGHT
+#. ## @loc None
 #: 5075
 msgid "Read"
 msgstr "Прочитано"
@@ -639,12 +859,16 @@ msgstr "Прочитано"
 ## @loc None
 # # @name IMAP_ACL_SEEN_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_SEEN_RIGHT
+#. ## @loc None
 #: 5076
 msgid "Set Read/Unread State"
 msgstr "Подесите статус прочитано/непрочитано"
 
 ## @name IMAP_ACL_WRITE_RIGHT
 ## @loc None
+#. ## @name IMAP_ACL_WRITE_RIGHT
+#. ## @loc None
 #: 5077
 msgid "Write"
 msgstr "Писање"
@@ -653,6 +877,8 @@ msgstr "Писање"
 ## @loc None
 # # @name IMAP_ACL_INSERT_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_INSERT_RIGHT
+#. ## @loc None
 #: 5078
 msgid "Insert (Copy Into)"
 msgstr "Убацивање (умножи у)"
@@ -661,6 +887,8 @@ msgstr "Убацивање (умножи у)"
 ## @loc None
 # # @name IMAP_ACL_POST_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_POST_RIGHT
+#. ## @loc None
 #: 5079
 msgid "Post"
 msgstr "Слање"
@@ -669,6 +897,8 @@ msgstr "Слање"
 ## @loc None
 # # @name IMAP_ACL_CREATE_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_CREATE_RIGHT
+#. ## @loc None
 #: 5080
 msgid "Create Subfolder"
 msgstr "Направи директоријум"
@@ -677,6 +907,8 @@ msgstr "Направи директоријум"
 ## @loc None
 # # @name IMAP_ACL_DELETE_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_DELETE_RIGHT
+#. ## @loc None
 #: 5081
 msgid "Delete Messages"
 msgstr "Обриши поруке"
@@ -685,6 +917,8 @@ msgstr "Обриши поруке"
 ## @loc None
 # # @name IMAP_ACL_ADMINISTER_RIGHT
 # # @loc None
+#. ## @name IMAP_ACL_ADMINISTER_RIGHT
+#. ## @loc None
 #: 5082
 msgid "Administer Folder"
 msgstr "Управљање директоријумом"
@@ -693,6 +927,8 @@ msgstr "Управљање директоријумом"
 ## @loc None
 # # @name IMAP_UNKNOWN_USER
 # # @loc None
+#. ## @name IMAP_UNKNOWN_USER
+#. ## @loc None
 #: 5083
 msgid "Unknown"
 msgstr "Непознато"
@@ -701,27 +937,43 @@ msgstr "Непознато"
 ## @loc None
 # # @name IMAP_SERVER_DOESNT_SUPPORT_ACL
 # # @loc None
+#. ## @name IMAP_SERVER_DOESNT_SUPPORT_ACL
+#. ## @loc None
 #: 5084
 msgid "This server does not support shared folders."
 msgstr "Овај сервер не подржава дељене директоријуме."
+
+#. ## @name IMAP_ACL_EXPUNGE_RIGHT
+#. ## @loc None
+#: 5085
+msgid "Expunge"
+msgstr ""
 
 ## @name IMAP_SERVER_DISCONNECTED
 ## @loc None
 # # @name IMAP_SERVER_DISCONNECTED
 # # @loc None
+#. ## @name IMAP_SERVER_DISCONNECTED
+#. ## @loc None
 #: 5090
-msgid "Server %S has disconnected. The server may have gone down or there may be a network problem."
-msgstr "Сервер %S се искључио. Сервер је можда искључен или постоји грешка у мрежи."
+msgid ""
+"Server %S has disconnected. The server may have gone down or there may be a "
+"network problem."
+msgstr ""
+"Сервер %S се искључио. Сервер је можда искључен или постоји грешка у мрежи."
 
 ## @name IMAP_REDIRECT_LOGIN_FAILED
 ## @loc None
 # # @name IMAP_REDIRECT_LOGIN_FAILED
 # # @loc None
+#. ## @name IMAP_REDIRECT_LOGIN_FAILED
+#. ## @loc None
 #: 5091
 msgid "Login failed."
 msgstr "Пријава није успело."
 
 # LOCALIZATION NOTE (autoSubscribeText): %1$S is the imap folder.
+#. # LOCALIZATION NOTE (autoSubscribeText): %1$S is the imap folder.
 #: 5092
 msgid "Would you like to subscribe to %1$S?"
 msgstr "Да ли желите да пратите %1$S?"
@@ -730,14 +982,24 @@ msgstr "Да ли желите да пратите %1$S?"
 ## @loc None
 # # @name IMAP_SERVER_DROPPED_CONNECTION
 # # @loc None
+#. ## @name IMAP_SERVER_DROPPED_CONNECTION
+#. ## @loc None
 #: 5093
-msgid "Unable to connect to your IMAP server. You may have exceeded the maximum number of connections to this server. If so, use the Advanced IMAP Server Settings dialog to reduce the number of cached connections."
-msgstr "Није могуће повезати се на IMAP сервер.  Можда сте премашили максималан број веза које овај сервер дозвољава.  Ако је тако, користите напредна подешавања за IMAP да смањите број чуваних веза."
+msgid ""
+"Unable to connect to your IMAP server. You may have exceeded the maximum "
+"number of connections to this server. If so, use the Advanced IMAP Server "
+"Settings dialog to reduce the number of cached connections."
+msgstr ""
+"Није могуће повезати се на IMAP сервер.  Можда сте премашили максималан број "
+"веза које овај сервер дозвољава.  Ако је тако, користите напредна "
+"подешавања за IMAP да смањите број чуваних веза."
 
 ## @name IMAP_QUOTA_STATUS_FOLDERNOTOPEN
 ## @loc None
 # # @name IMAP_QUOTA_STATUS_FOLDERNOTOPEN
 # # @loc None
+#. ## @name IMAP_QUOTA_STATUS_FOLDERNOTOPEN
+#. ## @loc None
 #: 5095
 msgid "Quota information is not available because the folder is not open."
 msgstr "Подаци о квоти нису доступни јер је директоријум отворен."
@@ -746,6 +1008,8 @@ msgstr "Подаци о квоти нису доступни јер је дир�
 ## @loc None
 # # @name IMAP_QUOTA_STATUS_NOTSUPPORTED
 # # @loc None
+#. ## @name IMAP_QUOTA_STATUS_NOTSUPPORTED
+#. ## @loc None
 #: 5096
 msgid "This server does not support quotas."
 msgstr "Овај сервер не подржава квоте."
@@ -754,6 +1018,8 @@ msgstr "Овај сервер не подржава квоте."
 ## @loc None
 # # @name IMAP_QUOTA_STATUS_NOQUOTA
 # # @loc None
+#. ## @name IMAP_QUOTA_STATUS_NOQUOTA
+#. ## @loc None
 #: 5097
 msgid "There are no storage quotas on this folder."
 msgstr "Овај директоријум нема задату квоту."
@@ -763,6 +1029,9 @@ msgstr "Овај директоријум нема задату квоту."
 ## @loc None
 # # @name IMAP_OUT_OF_MEMORY
 # # @loc None
+#. # Out of memory
+#. ## @name IMAP_OUT_OF_MEMORY
+#. ## @loc None
 #: 5100
 msgid "Application is out of memory."
 msgstr "Програм нема довољно меморије."
@@ -771,12 +1040,17 @@ msgstr "Програм нема довољно меморије."
 ## @loc None
 # # @name IMAP_AUTH_SECURE_NOTSUPPORTED
 # # @loc None
+#. ## @name IMAP_AUTH_SECURE_NOTSUPPORTED
+#. ## @loc None
 #: 5102
 msgid ""
-"You cannot log in to %S because you have enabled secure authentication and this server does not support it.\n"
+"You cannot log in to %S because you have enabled secure authentication and "
+"this server does not support it.\n"
 "\n"
 "To log in, turn off secure authentication for this account."
-msgstr "Не можете се пријавити на %S јер сте укључили аутентикацију, а овај сервер је не подржава.\n"
+msgstr ""
+"Не можете се пријавити на %S јер сте укључили аутентикацију, а овај сервер "
+"је не подржава.\n"
 "\n"
 "Да бисте се пријавили, искључите аутентикацију за овај налог."
 
@@ -788,6 +1062,12 @@ msgstr "Не можете се пријавити на %S јер сте укљу
 # Place the word %2$S where the total number of messages should appear.
 # # @name IMAP_COPYING_MESSAGE_OF
 # # @loc None
+#. ## @name IMAP_COPYING_MESSAGE_OF
+#. ## @loc None
+#. # LOCALIZATION NOTE (Error 5103): Do not translate the word "%S" below.
+#. # Place the word %3$S in your translation where the name of the destination folder should appear.
+#. # Place the word %1$S where the currently copying message should appear.
+#. # Place the word %2$S where the total number of messages should appear.
 #: 5103
 msgid "Copying Message %1$S of %2$S to %3$S"
 msgstr "Умножавање поруке бр. %1$S од %2$S у %3$S"
@@ -796,6 +1076,45 @@ msgstr "Умножавање поруке бр. %1$S од %2$S у %3$S"
 ## @loc None
 # # @name IMAP_LOGIN_DISABLED
 # # @loc None
+#. ## @name IMAP_LOGIN_DISABLED
+#. ## @loc None
 #: 5104
-msgid "You cannot log in to %S because the server has disabled login. You may need to connect via SSL or TLS. Please check the account settings for your mail server."
-msgstr "Не можете да се пријавите на %S јер је на серверу забрањено пријављивање.  Можда морате да се повежете помоћу SSL или ТЛС.  Молимо да проверите подешавања налога за Ваш сервер за пошту."
+msgid ""
+"You cannot log in to %S because the server has disabled login. You may need "
+"to connect via SSL or TLS. Please check the account settings for your mail "
+"server."
+msgstr ""
+"Не можете да се пријавите на %S јер је на серверу забрањено пријављивање.  "
+"Можда морате да се повежете помоћу SSL или ТЛС.  Молимо да проверите "
+"подешавања налога за Ваш сервер за пошту."
+
+#. ## @name IMAP_MOVE_FOLDER_TO_TRASH
+#. ## @loc None
+#. # LOCALIZATION NOTE (5105): Do not translate the word %S below.
+#. # "%S" is the the name of the folder.
+#: 5105
+msgid "Are you sure you want to delete the folder '%S'?"
+msgstr ""
+
+#. ## @name IMAP_DELETE_NO_TRASH
+#. ## @loc None
+#. # LOCALIZATION NOTE (5106): Do not translate the word %S below.
+#. # "%S" is the the name of the folder.
+#: 5106
+msgid ""
+"Deleting this folder is not undoable and will delete all of the messages it "
+"contains, and its sub-folders. Are you sure you still want to delete the "
+"folder '%S'?"
+msgstr ""
+
+#. ## @name IMAP_DELETE_FOLDER_DIALOG_TITLE
+#. ## @loc None
+#: 5107
+msgid "Delete Folder"
+msgstr ""
+
+#. ## @name IMAP_DELETE_FOLDER_BUTTON_LABEL
+#. ## @loc None
+#: 5108
+msgid "&Delete Folder"
+msgstr ""

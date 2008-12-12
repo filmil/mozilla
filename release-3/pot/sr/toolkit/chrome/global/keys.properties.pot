@@ -1,34 +1,33 @@
-# LOCALIZATION NOTE : FILE This file contains the application's labels for keys on the keyboard.
-#                     If you decide to translate this file, you should translate it based on
-#                     the prevelant kind of keyboard for your target user.
-# LOCALIZATION NOTE : There are two types of keys, those w/ text on their labels
-#                     and those w/ glyphs.
-# LOCALIZATION NOTE : VK_<…> represents a key on the keyboard.
-#
-# For more information please see bugzilla bug 90888.
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/toolkit/chrome/global/keys.properties
+#. # LOCALIZATION NOTE : FILE This file contains the application's labels for keys on the keyboard.
+#. #                     If you decide to translate this file, you should translate it based on
+#. #                     the prevelant kind of keyboard for your target user.
+#. # LOCALIZATION NOTE : There are two types of keys, those w/ text on their labels
+#. #                     and those w/ glyphs.
+#. # LOCALIZATION NOTE : VK_<…> represents a key on the keyboard.
+#. #
+#. # For more information please see bugzilla bug 90888.
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/keys.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-# F1..F10 should probably not be translated unless there are keyboards that actually have other labels
-# F11..F20 might be something else, but are really keyboard specific and not region/language specific
-# there are actually two different F11/F12 keys, I don't know which one these labels represent.
-# eg, F13..F20 on a sparc keyboard are labeled Props, Again .. Find, Cut
-# sparc also has Stop, Again and F11/F12. VK_F11/VK_F12 probably map to Stop/Again
-# LOCALIZATION NOTE : BLOCK Do not translate the next block
+#. # F1..F10 should probably not be translated unless there are keyboards that actually have other labels
+#. # F11..F20 might be something else, but are really keyboard specific and not region/language specific
+#. # there are actually two different F11/F12 keys, I don't know which one these labels represent.
+#. # eg, F13..F20 on a sparc keyboard are labeled Props, Again .. Find, Cut
+#. # sparc also has Stop, Again and F11/F12. VK_F11/VK_F12 probably map to Stop/Again
+#. # LOCALIZATION NOTE : BLOCK Do not translate the next block
 #: VK_F1
 msgid "F1"
 msgstr ""
@@ -109,8 +108,8 @@ msgstr ""
 msgid "F20"
 msgstr ""
 
-# LOCALIZATION NOTE : BLOCK end do not translate block
-# LOCALIZATION NOTE : BLOCK GLYPHS, DO translate this block
+#. # LOCALIZATION NOTE : BLOCK end do not translate block
+#. # LOCALIZATION NOTE : BLOCK GLYPHS, DO translate this block
 #: VK_UP
 msgid "Up Arrow"
 msgstr ""
@@ -135,14 +134,14 @@ msgstr ""
 msgid "Page Down"
 msgstr ""
 
-# LOCALIZATION NOTE : BLOCK end GLYPHS
-# Enter, backspace, and Tab might have both glyphs and text
-# if the keyboards usually have a glyph,
-# if there is a meaningful translation,
-# or if keyboards are localized
-# then translate them or insert the appropriate glyph
-# otherwise you should probably just translate the glyph regions
-# LOCALIZATION NOTE : BLOCK maybe GLYPHS
+#. # LOCALIZATION NOTE : BLOCK end GLYPHS
+#. # Enter, backspace, and Tab might have both glyphs and text
+#. # if the keyboards usually have a glyph,
+#. # if there is a meaningful translation,
+#. # or if keyboards are localized
+#. # then translate them or insert the appropriate glyph
+#. # otherwise you should probably just translate the glyph regions
+#. # LOCALIZATION NOTE : BLOCK maybe GLYPHS
 #: VK_ENTER
 msgid "Enter"
 msgstr ""
@@ -163,8 +162,8 @@ msgstr ""
 msgid "Del"
 msgstr ""
 
-# LOCALIZATION NOTE : BLOCK end maybe GLYPHS
-# LOCALIZATION NOTE : BLOCK typing state keys
+#. # LOCALIZATION NOTE : BLOCK end maybe GLYPHS
+#. # LOCALIZATION NOTE : BLOCK typing state keys
 #: VK_HOME
 msgid "Home"
 msgstr ""

@@ -1,17 +1,16 @@
-# extracted from source/sr-RS/browser/chrome/browser/preferences/phishEULA.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/preferences/phishEULA.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-15 21:10+0100\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-03-26 21:54+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 0.10.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: phishDlg.title
@@ -24,11 +23,18 @@ msgstr "Услови услуге за заштиту од фишинга (phish
 # option as how the browser checks for phishing attempts (if you haven't
 # already agreed with the policy for that provider; once you agree to a
 # provider's policy, you don't see it again).
-# 
+#
 #
 #
 #
 # (pofilter) unchanged: please translate
+#. LOCALIZATION NOTE:
+#. The following entities contain sizing information for the phishing privacy
+#. agreement dialog, which is opened when you select the "Check by asking"
+#. option as how the browser checks for phishing attempts (if you haven't
+#. already agreed with the policy for that provider; once you agree to a
+#. provider's policy, you don't see it again).
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: phishDlg.height
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "
@@ -37,6 +43,7 @@ msgid ""
 msgstr "40em"
 
 # (pofilter) unchanged: please translate
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: phishDlg.width
 msgid ""
 "_: Do not translate this.  Only change the numeric values if you need this "

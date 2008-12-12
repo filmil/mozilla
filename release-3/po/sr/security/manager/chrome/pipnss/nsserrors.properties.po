@@ -1,34 +1,40 @@
-# extracted from /home/filip/personal/l10n/mozilla-cvs/3/l10n/../template/en-US/security/manager/chrome/pipnss/nsserrors.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/security/manager/chrome/pipnss/nsserrors.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-14 02:15+0200\n"
+"POT-Creation-Date: 2008-12-12 04:05-0700\n"
 "PO-Revision-Date: 2008-04-14 22:50+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 1.0.1\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: SSL_ERROR_EXPORT_ONLY_SERVER
 msgid ""
-"Unable to communicate securely.  Peer does not support high-grade encryption."
-msgstr "Није могућа безбедна комуникација.  Удаљени рачунар не подржава шифровање високе категорије."
+"Unable to communicate securely.  Peer does not support high-grade "
+"encryption."
+msgstr ""
+"Није могућа безбедна комуникација.  Удаљени рачунар не подржава шифровање "
+"високе категорије."
 
 #: SSL_ERROR_US_ONLY_SERVER
 msgid ""
 "Unable to communicate securely.  Peer requires high-grade encryption which "
 "is not supported."
-msgstr "Није могућа безбедна комуникација.  Други рачунар захтева шифровање високе категорије које није подржано."
+msgstr ""
+"Није могућа безбедна комуникација.  Други рачунар захтева шифровање високе "
+"категорије које није подржано."
 
 #: SSL_ERROR_NO_CYPHER_OVERLAP
 msgid ""
 "Cannot communicate securely with peer: no common encryption algorithm(s)."
-msgstr "Није могуће безбедна комуникација са удаљеним рачунаром.  Нема заједничких алгоритама за шифровање."
+msgstr ""
+"Није могуће безбедна комуникација са удаљеним рачунаром.  Нема заједничких "
+"алгоритама за шифровање."
 
 #: SSL_ERROR_NO_CERTIFICATE
 msgid "Unable to find the certificate or key necessary for authentication."
@@ -37,7 +43,9 @@ msgstr "Није могуће пронаћи сертификат или кљу�
 #: SSL_ERROR_BAD_CERTIFICATE
 msgid ""
 "Unable to communicate securely with peer: peers's certificate was rejected."
-msgstr "Није могуће безбедно комуницирати са удаљеним рачунаром: рачунаров сертификат је одбијен."
+msgstr ""
+"Није могуће безбедно комуницирати са удаљеним рачунаром: рачунаров "
+"сертификат је одбијен."
 
 #: SSL_ERROR_BAD_CLIENT
 msgid "The server has encountered bad data from the client."
@@ -60,13 +68,17 @@ msgstr "Удаљени рачунар користи неподржано изд
 msgid ""
 "Client authentication failed: private key in key database does not match "
 "public key in certificate database."
-msgstr "Клијентска аутентикација није успела: приватни кључ у бази података са кључевима не одговара јавном кључу у бази сертификата."
+msgstr ""
+"Клијентска аутентикација није успела: приватни кључ у бази података са "
+"кључевима не одговара јавном кључу у бази сертификата."
 
 #: SSL_ERROR_BAD_CERT_DOMAIN
 msgid ""
 "Unable to communicate securely with peer: requested domain name does not "
 "match the server's certificate."
-msgstr "Није могућа безбедна комуникација са удаљеним рачунаром: тражено име домена се не поклапа са серверовим сертификатом."
+msgstr ""
+"Није могућа безбедна комуникација са удаљеним рачунаром: тражено име домена "
+"се не поклапа са серверовим сертификатом."
 
 #: SSL_ERROR_SSL2_DISABLED
 msgid "Peer only supports SSL version 2, which is locally disabled."
@@ -78,7 +90,8 @@ msgstr "ССЛ је примио слог са неисправним кодом
 
 #: SSL_ERROR_BAD_MAC_ALERT
 msgid "SSL peer reports incorrect Message Authentication Code."
-msgstr "Удаљени рачунар са ССЛом пријављује неисправан код за аутентикацију поруке."
+msgstr ""
+"Удаљени рачунар са ССЛом пријављује неисправан код за аутентикацију поруке."
 
 #: SSL_ERROR_BAD_CERT_ALERT
 msgid "SSL peer cannot verify your certificate."
@@ -86,11 +99,13 @@ msgstr "Удаљени рачунар са ССЛом не може да про�
 
 #: SSL_ERROR_REVOKED_CERT_ALERT
 msgid "SSL peer rejected your certificate as revoked."
-msgstr "Удаљени рачунар са ССЛом је одбио Ваш сертификат јер је сертификат опозван."
+msgstr ""
+"Удаљени рачунар са ССЛом је одбио Ваш сертификат јер је сертификат опозван."
 
 #: SSL_ERROR_EXPIRED_CERT_ALERT
 msgid "SSL peer rejected your certificate as expired."
-msgstr "Удаљени рачунар са ССЛом је одбио Ваш сертификат јер је сертификат истекао."
+msgstr ""
+"Удаљени рачунар са ССЛом је одбио Ваш сертификат јер је сертификат истекао."
 
 #: SSL_ERROR_SSL_DISABLED
 msgid "Cannot connect: SSL is disabled."
@@ -98,7 +113,9 @@ msgstr "Није могуће повезати се: ССЛ је искључе�
 
 #: SSL_ERROR_FORTEZZA_PQG
 msgid "Cannot connect: SSL peer is in another FORTEZZA domain."
-msgstr "НИје могуће повезати се:  удаљени рачунар са ССЛом се налази у другом фортеца домену (FORTEZZA)."
+msgstr ""
+"НИје могуће повезати се:  удаљени рачунар са ССЛом се налази у другом "
+"фортеца домену (FORTEZZA)."
 
 #: SSL_ERROR_UNKNOWN_CIPHER_SUITE
 msgid "An unknown SSL cipher suite has been requested."
@@ -156,7 +173,8 @@ msgstr "ССЛ је примио неисправну поздравну пор�
 
 #: SSL_ERROR_RX_MALFORMED_CLIENT_KEY_EXCH
 msgid "SSL received a malformed Client Key Exchange handshake message."
-msgstr "ССЛ је примио неисптавну клијентску поздравну поруку за размену кључева."
+msgstr ""
+"ССЛ је примио неисптавну клијентску поздравну поруку за размену кључева."
 
 #: SSL_ERROR_RX_MALFORMED_FINISHED
 msgid "SSL received a malformed Finished handshake message."
@@ -197,7 +215,8 @@ msgstr "ССЛ је примио неочекивану сертификатск
 
 #: SSL_ERROR_RX_UNEXPECTED_SERVER_KEY_EXCH
 msgid "SSL received an unexpected Server Key Exchange handshake message."
-msgstr "ССЛ је примио неочекивану серверску поздравну поруку за размену кључева."
+msgstr ""
+"ССЛ је примио неочекивану серверску поздравну поруку за размену кључева."
 
 #: SSL_ERROR_RX_UNEXPECTED_CERT_REQUEST
 msgid "SSL received an unexpected Certificate Request handshake message."
@@ -259,24 +278,34 @@ msgstr "Удаљени рачунар са ССЛом није очекивао 
 #: SSL_ERROR_DECOMPRESSION_FAILURE_ALERT
 msgid ""
 "SSL peer was unable to successfully decompress an SSL record it received."
-msgstr "Удаљени рачунар са ССЛом није могао да успешно декомпримује слог ССЛа који је примио."
+msgstr ""
+"Удаљени рачунар са ССЛом није могао да успешно декомпримује слог ССЛа који "
+"је примио."
 
 #: SSL_ERROR_HANDSHAKE_FAILURE_ALERT
 msgid ""
 "SSL peer was unable to negotiate an acceptable set of security parameters."
-msgstr "Удаљени рачунар са ССЛом није успео да уговори прихватљив скуп безбедносних параметара."
+msgstr ""
+"Удаљени рачунар са ССЛом није успео да уговори прихватљив скуп безбедносних "
+"параметара."
 
 #: SSL_ERROR_ILLEGAL_PARAMETER_ALERT
 msgid "SSL peer rejected a handshake message for unacceptable content."
-msgstr "Удаљени рачунар са ССЛом је одбио поздравне поруке услед неприхватљивог садржаја."
+msgstr ""
+"Удаљени рачунар са ССЛом је одбио поздравне поруке услед неприхватљивог "
+"садржаја."
 
 #: SSL_ERROR_UNSUPPORTED_CERT_ALERT
 msgid "SSL peer does not support certificates of the type it received."
-msgstr "Удаљени рачунар са ССЛом не подржава сертификате оне врсте која му је послата."
+msgstr ""
+"Удаљени рачунар са ССЛом не подржава сертификате оне врсте која му је "
+"послата."
 
 #: SSL_ERROR_CERTIFICATE_UNKNOWN_ALERT
 msgid "SSL peer had some unspecified issue with the certificate it received."
-msgstr "Рачунар са ССЛом је наишао на непознат проблем са сертификатом ког је примио."
+msgstr ""
+"Рачунар са ССЛом је наишао на непознат проблем са сертификатом ког је "
+"примио."
 
 #: SSL_ERROR_GENERATE_RANDOM_FAILURE
 msgid "SSL experienced a failure of its random number generator."
@@ -284,7 +313,9 @@ msgstr "Генератор случајних бројева за ССЛ се п
 
 #: SSL_ERROR_SIGN_HASHES_FAILURE
 msgid "Unable to digitally sign data required to verify your certificate."
-msgstr "Није могуће дигитално потипсати податке потребне за проверу Вашег сертификата."
+msgstr ""
+"Није могуће дигитално потипсати податке потребне за проверу Вашег "
+"сертификата."
 
 #: SSL_ERROR_EXTRACT_PUBLIC_KEY_FAILURE
 msgid "SSL was unable to extract the public key from the peer's certificate."
@@ -292,11 +323,15 @@ msgstr "ССЛ није могао да извуче јавни кључ из с
 
 #: SSL_ERROR_SERVER_KEY_EXCHANGE_FAILURE
 msgid "Unspecified failure while processing SSL Server Key Exchange handshake."
-msgstr "Дошло је до непознате грешке при обради серверског ССЛ сертификата за размену кључева."
+msgstr ""
+"Дошло је до непознате грешке при обради серверског ССЛ сертификата за "
+"размену кључева."
 
 #: SSL_ERROR_CLIENT_KEY_EXCHANGE_FAILURE
 msgid "Unspecified failure while processing SSL Client Key Exchange handshake."
-msgstr "Дошло је до непознате грешке при обради клијентског ССЛ сертификата за размену кључева."
+msgstr ""
+"Дошло је до непознате грешке при обради клијентског ССЛ сертификата за "
+"размену кључева."
 
 # FIXME suite = свита
 # FIXME bulk = збирно
@@ -308,10 +343,12 @@ msgstr "Алгоритам за збирно шифровање није усп�
 msgid "Bulk data decryption algorithm failed in selected cipher suite."
 msgstr "Алгоритам за збирно дешифровање није успео са изабраном свитом шифара."
 
-# FIXME socket 
+# FIXME socket
 #: SSL_ERROR_SOCKET_WRITE_FAILURE
 msgid "Attempt to write encrypted data to underlying socket failed."
-msgstr "Покушај писања нешифрованих података у подређени прикључак (socket) није успео."
+msgstr ""
+"Покушај писања нешифрованих података у подређени прикључак (socket) није "
+"успео."
 
 #: SSL_ERROR_MD5_DIGEST_FAILURE
 msgid "MD5 digest function failed."
@@ -331,13 +368,17 @@ msgstr "Није успело креирање контекста за симе�
 
 #: SSL_ERROR_SYM_KEY_UNWRAP_FAILURE
 msgid "Failure to unwrap the Symmetric key in Client Key Exchange message."
-msgstr "Није могуће одмотати симетрични кључ у контексту клијентске поруке за размену кључева."
+msgstr ""
+"Није могуће одмотати симетрични кључ у контексту клијентске поруке за "
+"размену кључева."
 
 #: SSL_ERROR_PUB_KEY_SIZE_LIMIT_EXCEEDED
 msgid ""
 "SSL Server attempted to use domestic-grade public key with export cipher "
 "suite."
-msgstr "Сервер за ССЛ је покушао да користи амерички јавни кључ са извозном свитом шифара."
+msgstr ""
+"Сервер за ССЛ је покушао да користи амерички јавни кључ са извозном свитом "
+"шифара."
 
 #: SSL_ERROR_IV_PARAM_FAILURE
 msgid "PKCS11 code failed to translate an IV into a param."
@@ -366,12 +407,16 @@ msgstr "Није нађен ниједан новчић за ПКЦС#11 за т
 #: SSL_ERROR_NO_COMPRESSION_OVERLAP
 msgid ""
 "Cannot communicate securely with peer: no common compression algorithm(s)."
-msgstr "Није могућа безбедна комуникација са удаљеним рачунаром: нема заједничких алгоритама за представу."
+msgstr ""
+"Није могућа безбедна комуникација са удаљеним рачунаром: нема заједничких "
+"алгоритама за представу."
 
 #: SSL_ERROR_HANDSHAKE_NOT_COMPLETED
 msgid ""
 "Cannot initiate another SSL handshake until current handshake is complete."
-msgstr "Није могуће покренути још један сусрет за ССЛ док се тренутни сусрет не доврши."
+msgstr ""
+"Није могуће покренути још један сусрет за ССЛ док се тренутни сусрет не "
+"доврши."
 
 #: SSL_ERROR_BAD_HANDSHAKE_HASH_VALUE
 msgid "Received incorrect handshakes hash values from peer."
@@ -381,11 +426,14 @@ msgstr "Примљене су неисправне вредности хеша �
 msgid ""
 "The certificate provided cannot be used with the selected key exchange "
 "algorithm."
-msgstr "Дати сертификат се не може употребити за изабрани алгоритам размене кључева."
+msgstr ""
+"Дати сертификат се не може употребити за изабрани алгоритам размене кључева."
 
 #: SSL_ERROR_NO_TRUSTED_SSL_CLIENT_CA
 msgid "No certificate authority is trusted for SSL client authentication."
-msgstr "Ниједан ауторитет за сертификате није од поверења за аутентикацију путем ССЛа са клијентом."
+msgstr ""
+"Ниједан ауторитет за сертификате није од поверења за аутентикацију путем "
+"ССЛа са клијентом."
 
 #: SSL_ERROR_SESSION_NOT_FOUND
 msgid "Client's SSL session ID not found in server's session cache."
@@ -401,7 +449,9 @@ msgstr "Удаљени рачунар је примио слог ССла кој
 
 #: SSL_ERROR_UNKNOWN_CA_ALERT
 msgid "Peer does not recognize and trust the CA that issued your certificate."
-msgstr "Удаљени рачунар не препознаје и не верује ауторитету за сертификате (CA) који је издао Ваш сертификат."
+msgstr ""
+"Удаљени рачунар не препознаје и не верује ауторитету за сертификате (CA) "
+"који је издао Ваш сертификат."
 
 #: SSL_ERROR_ACCESS_DENIED_ALERT
 msgid "Peer received a valid certificate, but access was denied."
@@ -417,7 +467,8 @@ msgstr "Удаљени рачунар јавља грешку при прове�
 
 #: SSL_ERROR_EXPORT_RESTRICTION_ALERT
 msgid "Peer reports negotiation not in compliance with export regulations."
-msgstr "Удаљени рачунар пријављује да договор није сагласан са правилима о извозу."
+msgstr ""
+"Удаљени рачунар пријављује да договор није сагласан са правилима о извозу."
 
 #: SSL_ERROR_PROTOCOL_VERSION_ALERT
 msgid "Peer reports incompatible or unsupported protocol version."
@@ -425,7 +476,8 @@ msgstr "Удаљени рачунар јавља несагласно или н�
 
 #: SSL_ERROR_INSUFFICIENT_SECURITY_ALERT
 msgid "Server requires ciphers more secure than those supported by client."
-msgstr "Server захтева шифре које су сигурније од оних које је доставио клијент."
+msgstr ""
+"Server захтева шифре које су сигурније од оних које је доставио клијент."
 
 #: SSL_ERROR_INTERNAL_ERROR_ALERT
 msgid "Peer reports it experienced an internal error."
@@ -437,19 +489,26 @@ msgstr "Удаљени корисник је отказао сусрет."
 
 #: SSL_ERROR_NO_RENEGOTIATION_ALERT
 msgid "Peer does not permit renegotiation of SSL security parameters."
-msgstr "Удаљени рачунар не дозвољава поновни договор безбедносних параметара ССЛа."
+msgstr ""
+"Удаљени рачунар не дозвољава поновни договор безбедносних параметара ССЛа."
 
 #: SSL_ERROR_SERVER_CACHE_NOT_CONFIGURED
 msgid "SSL server cache not configured and not disabled for this socket."
-msgstr "Серверски кеш за ССЛ није подешен и није искључен за овај прикључак (socket)."
+msgstr ""
+"Серверски кеш за ССЛ није подешен и није искључен за овај прикључак "
+"(socket)."
 
 #: SSL_ERROR_UNSUPPORTED_EXTENSION_ALERT
 msgid "SSL peer does not support requested TLS hello extension."
-msgstr "Удаљени рачунар са ССЛом не подржава тражени продужетак ТЛСа (TLS) за поздрав."
+msgstr ""
+"Удаљени рачунар са ССЛом не подржава тражени продужетак ТЛСа (TLS) за "
+"поздрав."
 
 #: SSL_ERROR_CERTIFICATE_UNOBTAINABLE_ALERT
 msgid "SSL peer could not obtain your certificate from the supplied URL."
-msgstr "Удаљени рачунар са ССЛом не може да добави Ваш сертификат са прослеђеног УРЛа."
+msgstr ""
+"Удаљени рачунар са ССЛом не може да добави Ваш сертификат са прослеђеног "
+"УРЛа."
 
 #: SSL_ERROR_UNRECOGNIZED_NAME_ALERT
 msgid "SSL peer has no certificate for the requested DNS name."
@@ -457,7 +516,9 @@ msgstr "Удаљени рачунар са ССЛом нема сертифик�
 
 #: SSL_ERROR_BAD_CERT_STATUS_RESPONSE_ALERT
 msgid "SSL peer was unable to get an OCSP response for its certificate."
-msgstr "Удаљени рачунар за ССЛ није могао да добије одговор ОЦСП (OCSP) за свој сертификат."
+msgstr ""
+"Удаљени рачунар за ССЛ није могао да добије одговор ОЦСП (OCSP) за свој "
+"сертификат."
 
 #: SSL_ERROR_BAD_CERT_HASH_VALUE_ALERT
 msgid "SSL peer reported bad certificate hash value."
@@ -501,7 +562,8 @@ msgstr "Неисправно је форматирана ниска која о�
 
 #: SEC_ERROR_BAD_DER
 msgid "security library: improperly formatted DER-encoded message."
-msgstr "библиотека за безбедност: неисправно је форматирана ДЕР-кодирана порука."
+msgstr ""
+"библиотека за безбедност: неисправно је форматирана ДЕР-кодирана порука."
 
 #: SEC_ERROR_BAD_SIGNATURE
 msgid "Peer's certificate has an invalid signature."
@@ -546,7 +608,9 @@ msgstr "библиотека за безбедност: грешка при до
 
 #: SEC_ERROR_UNTRUSTED_ISSUER
 msgid "Peer's certificate issuer has been marked as not trusted by the user."
-msgstr "Корисник је означио да издавач сертификата за удаљени рачунар није од поверења."
+msgstr ""
+"Корисник је означио да издавач сертификата за удаљени рачунар није од "
+"поверења."
 
 #: SEC_ERROR_UNTRUSTED_CERT
 msgid "Peer's certificate has been marked as not trusted by the user."
@@ -588,13 +652,17 @@ msgstr "библиотека за сертификате: нема одгово�
 msgid ""
 "The certificate issuer's certificate has expired.  Check your system date "
 "and time."
-msgstr "Сертификат издавача сертификата је истекао.  Проверите системски датум и време."
+msgstr ""
+"Сертификат издавача сертификата је истекао.  Проверите системски датум и "
+"време."
 
 #: SEC_ERROR_CRL_EXPIRED
 msgid ""
 "The CRL for the certificate's issuer has expired.  Update it or check your "
 "system date and time."
-msgstr "ЦРЛ (CRL) за издавача сертификата је истекао.  Освежите га или проверите системски датум и време."
+msgstr ""
+"ЦРЛ (CRL) за издавача сертификата је истекао.  Освежите га или проверите "
+"системски датум и време."
 
 #: SEC_ERROR_CRL_BAD_SIGNATURE
 msgid "The CRL for the certificate's issuer has an invalid signature."
@@ -642,7 +710,9 @@ msgstr "Нови ЦРЛ (CRL) није старији од тренутног."
 
 #: SEC_ERROR_NO_EMAIL_CERT
 msgid "Not encrypted or signed: you do not yet have an email certificate."
-msgstr "Није шифровано нити потписано: још увек немате сертификат за електронску пошту."
+msgstr ""
+"Није шифровано нити потписано: још увек немате сертификат за електронску "
+"пошту."
 
 #: SEC_ERROR_NO_RECIPIENT_CERTS_QUERY
 msgid "Not encrypted: you do not have certificates for each of the recipients."
@@ -652,18 +722,24 @@ msgstr "Није шифровано: немате сертификате за с
 msgid ""
 "Cannot decrypt: you are not a recipient, or matching certificate and private "
 "key not found."
-msgstr "Дешифровање није могуће: нисте прималац, или нису пронађени одговарајући сертификат и приватни кључ."
+msgstr ""
+"Дешифровање није могуће: нисте прималац, или нису пронађени одговарајући "
+"сертификат и приватни кључ."
 
 #: SEC_ERROR_PKCS7_KEYALG_MISMATCH
 msgid ""
 "Cannot decrypt: key encryption algorithm does not match your certificate."
-msgstr "Дешифровање није могуће: алгоритам за шифровање кључева не одговара Вашем сертификату."
+msgstr ""
+"Дешифровање није могуће: алгоритам за шифровање кључева не одговара Вашем "
+"сертификату."
 
 #: SEC_ERROR_PKCS7_BAD_SIGNATURE
 msgid ""
 "Signature verification failed: no signer found, too many signers found, or "
 "improper or corrupted data."
-msgstr "Провера потписа није успела: потписник није пронађен, пронађено је превише потписника, или су подаци неодговарајући или покварени."
+msgstr ""
+"Провера потписа није успела: потписник није пронађен, пронађено је превише "
+"потписника, или су подаци неодговарајући или покварени."
 
 #: SEC_ERROR_UNSUPPORTED_KEYALG
 msgid "Unsupported or unknown key algorithm."
@@ -671,13 +747,17 @@ msgstr "Неподржан или непознат алгоритам за кљ�
 
 #: SEC_ERROR_DECRYPTION_DISALLOWED
 msgid "Cannot decrypt: encrypted using a disallowed algorithm or key size."
-msgstr "Није могуће дешифровање: шифровано помоћу недозвољеног алгоритма или дужине кључа."
+msgstr ""
+"Није могуће дешифровање: шифровано помоћу недозвољеног алгоритма или дужине "
+"кључа."
 
 #: XP_SEC_FORTEZZA_BAD_CARD
 msgid ""
 "Fortezza card has not been properly initialized.  Please remove it and "
 "return it to your issuer."
-msgstr "Фортеца (Fortezza) карта није прописно покренута.  Молимо да је уклоните и вратите издавачу."
+msgstr ""
+"Фортеца (Fortezza) карта није прописно покренута.  Молимо да је уклоните и "
+"вратите издавачу."
 
 #: XP_SEC_FORTEZZA_NO_CARD
 msgid "No Fortezza cards Found"
@@ -735,13 +815,17 @@ msgstr "библиотека за безбедност: потребни су с
 #: SEC_ERROR_NO_MODULE
 msgid ""
 "security library: no security module can perform the requested operation."
-msgstr "библиотека за безбедност: ниједан безбедносни модул не може да изврши тражено дејство."
+msgstr ""
+"библиотека за безбедност: ниједан безбедносни модул не може да изврши "
+"тражено дејство."
 
 #: SEC_ERROR_NO_TOKEN
 msgid ""
 "The security card or token does not exist, needs to be initialized, or has "
 "been removed."
-msgstr "Безбедносна карта или новчић не постоје, потребно је да се поставе, или су уклоњени."
+msgstr ""
+"Безбедносна карта или новчић не постоје, потребно је да се поставе, или су "
+"уклоњени."
 
 #: SEC_ERROR_READ_ONLY
 msgid "security library: read-only database."
@@ -795,11 +879,14 @@ msgstr "Грешка при увозу сертификата."
 
 #: SEC_ERROR_PKCS12_DECODING_PFX
 msgid "Unable to import.  Decoding error.  File not valid."
-msgstr "Увоз није могуч.  Дошло је до грешке при декодовању.  Датотека је неважећа."
+msgstr ""
+"Увоз није могуч.  Дошло је до грешке при декодовању.  Датотека је неважећа."
 
 #: SEC_ERROR_PKCS12_INVALID_MAC
 msgid "Unable to import.  Invalid MAC.  Incorrect password or corrupt file."
-msgstr "Увоз није могућ.  МАЦ (MAC) је неисправан.  Лозинка је неисправна или је датотека оштећена."
+msgstr ""
+"Увоз није могућ.  МАЦ (MAC) је неисправан.  Лозинка је неисправна или је "
+"датотека оштећена."
 
 #: SEC_ERROR_PKCS12_UNSUPPORTED_MAC_ALGORITHM
 msgid "Unable to import.  MAC algorithm not supported."
@@ -807,7 +894,9 @@ msgstr "Увоз није могућ.  Алгоритам за МАЦ (MAC) ни
 
 #: SEC_ERROR_PKCS12_UNSUPPORTED_TRANSPORT_MODE
 msgid "Unable to import.  Only password integrity and privacy modes supported."
-msgstr "Увоз није могућ.  Само су подржани модови са интегритетом лозинке и приватности."
+msgstr ""
+"Увоз није могућ.  Само су подржани модови са интегритетом лозинке и "
+"приватности."
 
 # FIXME corrupt = поремећена
 #: SEC_ERROR_PKCS12_CORRUPT_PFX_STRUCTURE
@@ -929,13 +1018,17 @@ msgstr "Нови КРЛ (KRL) није старији од тренутног."
 
 #: SEC_ERROR_CKL_CONFLICT
 msgid "New CKL has different issuer than current CKL.  Delete current CKL."
-msgstr "Нови ЦКЛ (CKL) има другог издавача од тренутног ЦКЛа.  Уклоните тренутни ЦКЛ."
+msgstr ""
+"Нови ЦКЛ (CKL) има другог издавача од тренутног ЦКЛа.  Уклоните тренутни "
+"ЦКЛ."
 
 #: SEC_ERROR_CERT_NOT_IN_NAME_SPACE
 msgid ""
 "The Certifying Authority for this certificate is not permitted to issue a "
 "certificate with this name."
-msgstr "Ауторитет за сертифицирање за овај сертификат не сме да издаје сертификат са овим именом."
+msgstr ""
+"Ауторитет за сертифицирање за овај сертификат не сме да издаје сертификат са "
+"овим именом."
 
 #: SEC_ERROR_KRL_NOT_YET_VALID
 msgid "The key revocation list for this certificate is not yet valid."
@@ -959,15 +1052,20 @@ msgstr "Место за статусни сервер сертификата и�
 
 #: SEC_ERROR_OCSP_UNKNOWN_RESPONSE_TYPE
 msgid "The OCSP response cannot be fully decoded; it is of an unknown type."
-msgstr "ОЦСП (OCSP) одговор није могуће потпуно декодирати; врста сертификата је непозната."
+msgstr ""
+"ОЦСП (OCSP) одговор није могуће потпуно декодирати; врста сертификата је "
+"непозната."
 
 #: SEC_ERROR_OCSP_BAD_HTTP_RESPONSE
 msgid "The OCSP server returned unexpected/invalid HTTP data."
-msgstr "Сервер за ОЦСП (OCSP) је вратио неочекиване или неважеће податке кроз ХТТП."
+msgstr ""
+"Сервер за ОЦСП (OCSP) је вратио неочекиване или неважеће податке кроз ХТТП."
 
 #: SEC_ERROR_OCSP_MALFORMED_REQUEST
 msgid "The OCSP server found the request to be corrupted or improperly formed."
-msgstr "ОЦСП (OCSP) сервер је установио да је захтев оштећен или неисправно образован."
+msgstr ""
+"ОЦСП (OCSP) сервер је установио да је захтев оштећен или неисправно "
+"образован."
 
 #: SEC_ERROR_OCSP_SERVER_ERROR
 msgid "The OCSP server experienced an internal error."
@@ -1000,7 +1098,8 @@ msgstr "Морате да укључите ОЦСП (OCSP) пре него шт�
 #: SEC_ERROR_OCSP_NO_DEFAULT_RESPONDER
 msgid ""
 "You must set the OCSP default responder before performing this operation."
-msgstr "Морате да поставите изворни респондер пре него што изведете ово дејство."
+msgstr ""
+"Морате да поставите изворни респондер пре него што изведете ово дејство."
 
 #: SEC_ERROR_OCSP_MALFORMED_RESPONSE
 msgid "The response from the OCSP server was corrupted or improperly formed."
@@ -1010,7 +1109,9 @@ msgstr "Одговор сервера за ОЦСП (OCSP) је оштећен �
 msgid ""
 "The signer of the OCSP response is not authorized to give status for this "
 "certificate."
-msgstr "Потписник овог одговора за ОЦСП (OCSP) није овлашћен да да статус овог сертификата."
+msgstr ""
+"Потписник овог одговора за ОЦСП (OCSP) није овлашћен да да статус овог "
+"сертификата."
 
 #: SEC_ERROR_OCSP_FUTURE_RESPONSE
 msgid "The OCSP response is not yet valid (contains a date in the future)."
@@ -1022,7 +1123,8 @@ msgstr "ОЦСП (OCSP) одговор садржи застареле пода�
 
 #: SEC_ERROR_DIGEST_NOT_FOUND
 msgid "The CMS or PKCS #7 Digest was not found in signed message."
-msgstr "Сажеци ЦМС (CMS) или ПКЦС #7 (PKCS #7) нису пронађени у потписаној поруци."
+msgstr ""
+"Сажеци ЦМС (CMS) или ПКЦС #7 (PKCS #7) нису пронађени у потписаној поруци."
 
 #: SEC_ERROR_UNSUPPORTED_MESSAGE_TYPE
 msgid "The CMS or PKCS #7 Message type is unsupported."
@@ -1030,11 +1132,15 @@ msgstr "Врсте порука ЦМС (CMS) или ПКЦС #7 (PKCS #7) нис
 
 #: SEC_ERROR_MODULE_STUCK
 msgid "PKCS #11 module could not be removed because it is still in use."
-msgstr "Модул ПКЦС #11 (PKCS #11) није могао да буде уклоњен јер се још увек користи."
+msgstr ""
+"Модул ПКЦС #11 (PKCS #11) није могао да буде уклоњен јер се још увек "
+"користи."
 
 #: SEC_ERROR_BAD_TEMPLATE
 msgid "Could not decode ASN.1 data. Specified template was invalid."
-msgstr "Није могуће декодовати податке за АСН.1 (ASN.1).  Назначени образац је неважећи."
+msgstr ""
+"Није могуће декодовати податке за АСН.1 (ASN.1).  Назначени образац је "
+"неважећи."
 
 #: SEC_ERROR_CRL_NOT_FOUND
 msgid "No matching CRL was found."
@@ -1044,7 +1150,9 @@ msgstr "Ниједан одговарајући ЦРЛ (CRL) није прона
 msgid ""
 "You are attempting to import a cert with the same issuer/serial as an "
 "existing cert, but that is not the same cert."
-msgstr "Покушавате да увезете сертификат који има истог издавача и серијски број као постојећи сертификат, али та два сертификата нису идентична."
+msgstr ""
+"Покушавате да увезете сертификат који има истог издавача и серијски број као "
+"постојећи сертификат, али та два сертификата нису идентична."
 
 #: SEC_ERROR_BUSY
 msgid "NSS could not shutdown. Objects are still in use."
@@ -1052,7 +1160,8 @@ msgstr "НСС (NSS) није могао да буде искључен.  Обј
 
 #: SEC_ERROR_EXTRA_INPUT
 msgid "DER-encoded message contained extra unused data."
-msgstr "Порука кодирана помоћу ДЕРа (DER) садржала је вишак неискоришћених података."
+msgstr ""
+"Порука кодирана помоћу ДЕРа (DER) садржала је вишак неискоришћених података."
 
 #: SEC_ERROR_UNSUPPORTED_ELLIPTIC_CURVE
 msgid "Unsupported elliptic curve."
@@ -1080,7 +1189,8 @@ msgstr "Издавачев сертификат за ОЦСП (OCSP) је опо
 
 #: SEC_ERROR_CRL_INVALID_VERSION
 msgid "Issuer's Certificate Revocation List has an unknown version number."
-msgstr "Издавачев списак опозваних сертификата (ЦРЛ, CRL) носи непознат број издања."
+msgstr ""
+"Издавачев списак опозваних сертификата (ЦРЛ, CRL) носи непознат број издања."
 
 #: SEC_ERROR_CRL_V1_CRITICAL_EXTENSION
 msgid "Issuer's V1 Certificate Revocation List has a critical extension."
@@ -1089,7 +1199,9 @@ msgstr "Издавачев списак опозваних сертификат�
 #: SEC_ERROR_CRL_UNKNOWN_CRITICAL_EXTENSION
 msgid ""
 "Issuer's V2 Certificate Revocation List has an unknown critical extension."
-msgstr "Издавачев списак опозваних сертификата В2 (V2) има непознато критчно продужење."
+msgstr ""
+"Издавачев списак опозваних сертификата В2 (V2) има непознато критчно "
+"продужење."
 
 #: SEC_ERROR_UNKNOWN_OBJECT_TYPE
 msgid "Unknown object type specified."
@@ -1097,7 +1209,8 @@ msgstr "Назначена је непозната врста објекта."
 
 #: SEC_ERROR_INCOMPATIBLE_PKCS11
 msgid "PKCS #11 driver violates the spec in an incompatible way."
-msgstr "Драјвер за ПКЦС #11 (PKCS #11) нарушава спецификацију на несагласан начин."
+msgstr ""
+"Драјвер за ПКЦС #11 (PKCS #11) нарушава спецификацију на несагласан начин."
 
 #: SEC_ERROR_NO_EVENT
 msgid "No new slot event is available at this time."
