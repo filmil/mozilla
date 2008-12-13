@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 04:28-0700\n"
-"PO-Revision-Date: 2008-04-14 23:20+0200\n"
+"PO-Revision-Date: 2008-12-12 19:30-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -280,11 +280,11 @@ msgstr "&Својства…"
 
 #: folderPropsFolderCmd.label
 msgid "Folder Properties…"
-msgstr "Својства &директоријума…"
+msgstr "Својства директоријума…"
 
 #: folderPropsNewsgroupCmd.label
 msgid "Newsgroup Properties…"
-msgstr "Својства &вести"
+msgstr "Својства вести"
 
 #: accountManagerCmd.label
 #: accountManagerCmd.accesskey
@@ -1611,7 +1611,7 @@ msgstr "Прима или Коп"
 
 #: searchSubjectOrRecipientMenu.label
 msgid "Subject, To or Cc"
-msgstr ""
+msgstr "Тема, прималац или копија"
 
 #: searchMessageBody.label
 msgid "Entire Message"
@@ -1619,7 +1619,7 @@ msgstr "Цела порука"
 
 #: saveAsVirtualFolderMenu.label
 msgid "Save Search as a Folder…"
-msgstr "Сачувај претрагу као &директоријум…"
+msgstr "Сачувај претрагу као директоријум…"
 
 # Thread Pane
 #

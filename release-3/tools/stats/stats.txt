@@ -113,7 +113,7 @@ po/sr/mail/chrome/messenger/am-dsn.properties.po:	1 vertaald bericht.
 po/sr/mail/chrome/messenger/news.properties.po:	26 vertaalde berichten, 1 onvertaald bericht.
 po/sr/mail/chrome/messenger/AccountWizard.dtd.po:	48 vertaalde berichten, 1 vage gelijkenis, 1 onvertaald bericht.
 po/sr/mail/chrome/messenger/am-mdn.dtd.po:	16 vertaalde berichten.
-po/sr/mail/chrome/messenger/messenger.dtd.po:	318 vertaalde berichten, 4 vage gelijkenissen, 81 onvertaalde berichten.
+po/sr/mail/chrome/messenger/messenger.dtd.po:	319 vertaalde berichten, 4 vage gelijkenissen, 80 onvertaalde berichten.
 po/sr/mail/chrome/messenger/start.dtd.po:	22 vertaalde berichten, 1 onvertaald bericht.
 po/sr/mail/chrome/messenger/am-identity-edit.dtd.po:	5 vertaalde berichten.
 po/sr/mail/chrome/messenger/baseMenuOverlay.dtd.po:	0 vertaalde berichten, 10 onvertaalde berichten.
