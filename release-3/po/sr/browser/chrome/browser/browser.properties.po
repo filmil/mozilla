@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: 2008-09-14 00:55+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -479,6 +479,13 @@ msgstr "Забелешка је уклоњена"
 #: editBookmarkPanel.editBookmarkTitle
 msgid "Edit This Bookmark"
 msgstr "Уреди ову забелешку"
+
+#. # LOCALIZATION NOTE (editBookmark.removeBookmarks.label)
+#. # Semi-colon list of plural forms. Replacement for #1 is
+#. # the number of bookmarks to be removed.
+#: editBookmark.removeBookmarks.label
+msgid "Remove Bookmark;Remove Bookmarks (#1)"
+msgstr ""
 
 #. # Geolocation UI
 #. # LOCALIZATION NOTE (exactLocation, neighborhoodLocation): These do not have to be

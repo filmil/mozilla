@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,16 @@ msgstr ""
 msgid ""
 "The sender of this message has asked to be notified when you read this "
 "message.\n"
+"\n"
 "Do you wish to notify the sender?"
+msgstr ""
+
+#: MsgMdnIgnoreRequest
+msgid "Ignore Request"
+msgstr ""
+
+#: MsgMdnSendReceipt
+msgid "Send Receipt"
 msgstr ""
 
 #. # LOCALIZATION NOTE : Do not translate the word "%S" below.

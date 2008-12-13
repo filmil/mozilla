@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: 2008-03-29 03:09+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,11 +73,6 @@ msgstr "&Провера нових порука сваких"
 #: biffEnd.label
 msgid "minutes"
 msgstr "мин"
-
-#: isSecure.label
-#: isSecure.accesskey
-msgid "&Use secure connection (SSL)"
-msgstr "&Употреба шифроване везе (SSL)"
 
 #: socketType.label
 msgid "Use secure connection:"

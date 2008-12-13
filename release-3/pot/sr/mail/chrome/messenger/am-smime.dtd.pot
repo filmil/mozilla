@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,12 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 #: securityTitle.label
+msgctxt "securityTitle.label"
+msgid "Security"
+msgstr ""
+
+#: securityTab.label
+msgctxt "securityTab.label"
 msgid "Security"
 msgstr ""
 
@@ -33,23 +39,53 @@ msgid "Default encryption setting when sending messages:"
 msgstr ""
 
 #: neverEncrypt.label
-msgid "Never (do not use encryption)"
+#: neverEncrypt.accesskey
+msgid "&Never (do not use encryption)"
 msgstr ""
 
 #: alwaysEncryptMessage.label
-msgid "Required (can't send message unless all recipients have certificates)"
+#: alwaysEncryptMessage.accesskey
+msgid "Req&uired (can't send message unless all recipients have certificates)"
 msgstr ""
 
 #: encryptionCert.message
 msgid "Use this certificate to encrypt &amp; decrypt messages sent to you:"
 msgstr ""
 
-#: certificate.button
+#: digitalSign.certificate.button
+msgctxt "digitalSign.certificate.button"
 msgid "Select…"
 msgstr ""
 
-#: certificate_clear.button
+#: digitalSign.certificate.accesskey
+msgid "S"
+msgstr ""
+
+#: digitalSign.certificate_clear.button
+msgctxt "digitalSign.certificate_clear.button"
 msgid "Clear"
+msgstr ""
+
+#: digitalSign.certificate_clear.accesskey
+msgid "C"
+msgstr ""
+
+#: encryption.certificate.button
+msgctxt "encryption.certificate.button"
+msgid "Select…"
+msgstr ""
+
+#: encryption.certificate.accesskey
+msgid "t"
+msgstr ""
+
+#: encryption.certificate_clear.button
+msgctxt "encryption.certificate_clear.button"
+msgid "Clear"
+msgstr ""
+
+#: encryption.certificate_clear.accesskey
+msgid "e"
 msgstr ""
 
 #: signingGroupTitle.label
@@ -57,7 +93,8 @@ msgid "Digital Signing"
 msgstr ""
 
 #: signMessage.label
-msgid "Digitally sign messages (by default)"
+#: signMessage.accesskey
+msgid "&Digitally sign messages (by default)"
 msgstr ""
 
 #: signingCert.message
@@ -68,12 +105,12 @@ msgstr ""
 msgid "Certificates"
 msgstr ""
 
-#: managecerts.label
-#: managecerts.accesskey
+#: manageCerts.label
+#: manageCerts.accesskey
 msgid "&View Certificates"
 msgstr ""
 
-#: managedevices.label
-#: managedevices.accesskey
-msgid "&Security Devices"
+#: manageDevices.label
+#: manageDevices.accesskey
+msgid "Securit&y Devices"
 msgstr ""

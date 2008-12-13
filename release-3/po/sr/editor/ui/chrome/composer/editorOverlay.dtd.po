@@ -335,16 +335,12 @@ msgstr ""
 msgid "&Validate HTML"
 msgstr "Провери HTML"
 
-# Insert menu items
-# Insert SubMenu
 #. Insert menu items
 #: insertMenu.label
 #: insertMenu.accesskey
-#: tableInsertMenu.label
-#, fuzzy
 msgctxt "insertMenu.label insertMenu.accesskey"
 msgid "&Insert"
-msgstr "Убаци"
+msgstr ""
 
 #: insertLinkCmd.label
 #: insertLinkCmd.accesskey
@@ -459,14 +455,11 @@ msgstr "Умножи"
 msgid "&Paste"
 msgstr "Убаци"
 
-# Delete SubMenu
 #: deleteCmd.label
 #: deleteCmd.accesskey
-#: tableDeleteMenu.label
-#, fuzzy
 msgctxt "deleteCmd.label deleteCmd.accesskey"
 msgid "&Delete"
-msgstr "Уклони"
+msgstr ""
 
 #: clearCmd.label
 #: clearCmd.accesskey
@@ -759,11 +752,9 @@ msgstr "к"
 
 #: paragraphMenu.label
 #: paragraphMenu.accesskey
-#: paragraphParagraphCmd.label
-#, fuzzy
 msgctxt "paragraphMenu.label paragraphMenu.accesskey"
 msgid "&Paragraph"
-msgstr "Пасус"
+msgstr ""
 
 #: paragraphParagraphCmd.label
 #: paragraphParagraphCmd.accesskey
@@ -1024,16 +1015,12 @@ msgstr "Убаци табелу"
 msgid "Table &Delete"
 msgstr "Обриши табелу"
 
-# Insert menu items
-# Insert SubMenu
 #. Insert SubMenu
 #: tableInsertMenu.label
 #: tableInsertMenu.accesskey
-#: insertMenu.label
-#, fuzzy
 msgctxt "tableInsertMenu.label tableInsertMenu.accesskey"
 msgid "&Insert"
-msgstr "Убаци"
+msgstr ""
 
 # Table Menu
 #: tableTable.label

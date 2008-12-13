@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -179,104 +179,6 @@ msgstr ""
 msgid "The message contents appear to have been altered during transmission."
 msgstr ""
 
-#: EINoDecryptCert
-msgid "The certificate used to encrypt the message cannot be found."
-msgstr ""
-
-#: EIPasswordError
-msgid "You did not enter your Master Password correctly."
-msgstr ""
-
-#: EIInvalidCipher
-msgid ""
-"The message was encrypted using an encryption strength that this version of "
-"your software does not support."
-msgstr ""
-
 #: EIClueless
 msgid "There are unknown problems with this encrypted message."
-msgstr ""
-
-#. ## Signing Power Information string
-#: SPCanLabel
-msgid "Message Can Be Signed"
-msgstr ""
-
-#: SPCanHeader
-msgid "You have chosen to digitally sign this message before sending it."
-msgstr ""
-
-#: SPCan
-msgid ""
-"When other people receive your signed message, they can verify that the "
-"message comes from you and that it has not been altered since you signed it."
-msgstr ""
-
-#: SPCannotLabel
-msgid "Message Cannot Be Signed"
-msgstr ""
-
-#: SPCannotHeader
-msgid "You cannot digitally sign this message."
-msgstr ""
-
-#: SPNoCert
-msgid ""
-"You have not specified a valid certificate for creating digital signatures."
-msgstr ""
-
-#: SPNoSigCert
-msgid ""
-"The certificate you have specified for signing messages cannot be used for "
-"that purpose."
-msgstr ""
-
-#: SPNoValidCert
-msgid ""
-"The certificate you have specified for signing messages is not yet valid. "
-"Make sure your computer's clock is set correctly."
-msgstr ""
-
-#: SPExpiredCert
-msgid "The certificate you have specified for signing messages has expired."
-msgstr ""
-
-#: SPRevokedCert
-msgid ""
-"The certificate you have specified for signing messages has been revoked."
-msgstr ""
-
-#. ## Encryption Power Information string
-#: EPCanLabel
-msgid "Message Can Be Encrypted"
-msgstr ""
-
-#: EPCanHeader
-msgid "You have chosen to encrypt this message before sending it."
-msgstr ""
-
-#: EPCan
-msgid ""
-"If you have chosen to save copies of your outgoing messages, this message "
-"will be encrypted before being saved."
-msgstr ""
-
-#: EPCannotLabel
-msgid "Message Cannot Be Encrypted"
-msgstr ""
-
-#: EPCannotHeader
-msgid "This message cannot be encrypted."
-msgstr ""
-
-#: EPRecipientUnknown
-msgid "You have not entered any recipients."
-msgstr ""
-
-#: EPNoCerts
-msgid "You do not have valid certificates for the following recipients:"
-msgstr ""
-
-#: EPClueless
-msgid "There are unknown problems with this message."
 msgstr ""

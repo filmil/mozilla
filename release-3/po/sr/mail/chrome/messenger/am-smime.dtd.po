@@ -1,10 +1,9 @@
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-smime.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,8 +14,14 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 #: securityTitle.label
+msgctxt "securityTitle.label"
 msgid "Security"
 msgstr "Безбедност"
+
+#: securityTab.label
+msgctxt "securityTab.label"
+msgid "Security"
+msgstr ""
 
 #: securityHeading.label
 msgid ""
@@ -35,11 +40,15 @@ msgid "Default encryption setting when sending messages:"
 msgstr "Изворно подршавање за шифровање при слању порука:"
 
 #: neverEncrypt.label
-msgid "Never (do not use encryption)"
+#: neverEncrypt.accesskey
+#, fuzzy
+msgid "&Never (do not use encryption)"
 msgstr "Никада (не користи шифровање)"
 
 #: alwaysEncryptMessage.label
-msgid "Required (can't send message unless all recipients have certificates)"
+#: alwaysEncryptMessage.accesskey
+#, fuzzy
+msgid "Req&uired (can't send message unless all recipients have certificates)"
 msgstr ""
 "Неопходно (није могуће послати поруку осим ако сви примаоци имају "
 "сертификате)"
@@ -50,20 +59,52 @@ msgstr ""
 "Употреби овај сертификат за шифровање и дешифровање порука које су ми "
 "послате:"
 
+#: digitalSign.certificate.button
+msgctxt "digitalSign.certificate.button"
+msgid "Select…"
+msgstr ""
+
+#: digitalSign.certificate.accesskey
+msgid "S"
+msgstr ""
+
+#: digitalSign.certificate_clear.button
+msgctxt "digitalSign.certificate_clear.button"
+msgid "Clear"
+msgstr ""
+
+#: digitalSign.certificate_clear.accesskey
+msgid "C"
+msgstr ""
+
+#: encryption.certificate.button
 #: certificate.button
+msgctxt "encryption.certificate.button"
 msgid "Select…"
 msgstr "Избор…"
 
+#: encryption.certificate.accesskey
+msgid "t"
+msgstr ""
+
+#: encryption.certificate_clear.button
 #: certificate_clear.button
+msgctxt "encryption.certificate_clear.button"
 msgid "Clear"
 msgstr "Очисти"
+
+#: encryption.certificate_clear.accesskey
+msgid "e"
+msgstr ""
 
 #: signingGroupTitle.label
 msgid "Digital Signing"
 msgstr "Дигитални потпис"
 
 #: signMessage.label
-msgid "Digitally sign messages (by default)"
+#: signMessage.accesskey
+#, fuzzy
+msgid "&Digitally sign messages (by default)"
 msgstr "Дигитално потпиши поруке (подразумевано)"
 
 #: signingCert.message
@@ -75,12 +116,14 @@ msgstr "Користи овај сертификат за дигитални п�
 msgid "Certificates"
 msgstr "Сертификати"
 
+#: manageCerts.label
+#: manageCerts.accesskey
 #: managecerts.label
 #: managecerts.accesskey
 msgid "&View Certificates"
 msgstr "&Преглед сертификата"
 
-#: managedevices.label
-#: managedevices.accesskey
-msgid "&Security Devices"
-msgstr "&Безбедносни уређаји"
+#: manageDevices.label
+#: manageDevices.accesskey
+msgid "Securit&y Devices"
+msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: 2008-07-27 21:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,7 +125,8 @@ msgstr ""
 # Localization Note: Never change the following entry.
 #. # Localization Note: Never change the following entry.
 #: intl.charsetmenu.browser.unicode
-msgid "UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE"
+#, fuzzy
+msgid "UTF-8, UTF-16LE, UTF-16BE, UTF-32, UTF-32LE, UTF-32BE"
 msgstr "UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE"
 
 #: intl.charset.default

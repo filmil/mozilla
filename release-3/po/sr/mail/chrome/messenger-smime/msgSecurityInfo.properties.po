@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: 2007-06-10 17:29+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -226,116 +226,6 @@ msgstr ""
 msgid "The message contents appear to have been altered during transmission."
 msgstr "Садржај поруке је изгледа промењен током преноса."
 
-#: EINoDecryptCert
-msgid "The certificate used to encrypt the message cannot be found."
-msgstr "Потврда коришћена за шифровање поруке није пронађена."
-
-#: EIPasswordError
-msgid "You did not enter your Master Password correctly."
-msgstr "Нисте исправно унели главну лозинку."
-
-#: EIInvalidCipher
-msgid ""
-"The message was encrypted using an encryption strength that this version of "
-"your software does not support."
-msgstr "Порука је шифрована методом који ово издање програма не подржава."
-
 #: EIClueless
 msgid "There are unknown problems with this encrypted message."
 msgstr "Појавио се непредвиђен проблем са овом шифрованом поруком."
-
-## Signing Power Information string
-# # Signing Power Information string
-#. ## Signing Power Information string
-#: SPCanLabel
-msgid "Message Can Be Signed"
-msgstr "Порука може да се потпише"
-
-#: SPCanHeader
-msgid "You have chosen to digitally sign this message before sending it."
-msgstr "Изабрали сте да дигитално потпишете ову поруку пре слања."
-
-#: SPCan
-msgid ""
-"When other people receive your signed message, they can verify that the "
-"message comes from you and that it has not been altered since you signed it."
-msgstr ""
-"Када друге особе приме вашу потписану поруку, могу да утврде да порука "
-"заиста долази од вас и да није била мењана после тренутка потписа."
-
-#: SPCannotLabel
-msgid "Message Cannot Be Signed"
-msgstr "Порука не може да се потпише"
-
-#: SPCannotHeader
-msgid "You cannot digitally sign this message."
-msgstr "Ова порука не може да се дигитално потпише."
-
-#: SPNoCert
-msgid ""
-"You have not specified a valid certificate for creating digital signatures."
-msgstr "Нисте назначили важећу потврду за прављење дигиталног потписа."
-
-#: SPNoSigCert
-msgid ""
-"The certificate you have specified for signing messages cannot be used for "
-"that purpose."
-msgstr ""
-"Потврда коју сте назначили за прављење дигиталног потписа се не може "
-"користити за ту сврху."
-
-#: SPNoValidCert
-msgid ""
-"The certificate you have specified for signing messages is not yet valid. "
-"Make sure your computer's clock is set correctly."
-msgstr ""
-"Потврда коју сте назначили за потписивање порука још увек није почела да "
-"важи. Проверите да ли је сат на вашем рачунару исправно подешен."
-
-#: SPExpiredCert
-msgid "The certificate you have specified for signing messages has expired."
-msgstr "Потврда коју сте означили за потписивање порука је истекла."
-
-#: SPRevokedCert
-msgid ""
-"The certificate you have specified for signing messages has been revoked."
-msgstr "Потврда коју сте означили за потписивање порука је опозвана."
-
-## Encryption Power Information string
-# # Encryption Power Information string
-#. ## Encryption Power Information string
-#: EPCanLabel
-msgid "Message Can Be Encrypted"
-msgstr "Порука може да се шифрује"
-
-#: EPCanHeader
-msgid "You have chosen to encrypt this message before sending it."
-msgstr "Изабрали сте да шифрујете поруку пре слања."
-
-#: EPCan
-msgid ""
-"If you have chosen to save copies of your outgoing messages, this message "
-"will be encrypted before being saved."
-msgstr ""
-"Ако сте изабрали да снимите копије одлазећих порука, ова порука ће бити "
-"шифрована пре слања."
-
-#: EPCannotLabel
-msgid "Message Cannot Be Encrypted"
-msgstr "Поруку није могуће шифровати"
-
-#: EPCannotHeader
-msgid "This message cannot be encrypted."
-msgstr "Ову поруку није могуће шифровати"
-
-#: EPRecipientUnknown
-msgid "You have not entered any recipients."
-msgstr "Нисте унели ниједно име примаоца."
-
-#: EPNoCerts
-msgid "You do not have valid certificates for the following recipients:"
-msgstr "Не поседујете важеће потврде за следеће примаоце:"
-
-#: EPClueless
-msgid "There are unknown problems with this message."
-msgstr "Јавили су се непознати проблеми са овом поруком."

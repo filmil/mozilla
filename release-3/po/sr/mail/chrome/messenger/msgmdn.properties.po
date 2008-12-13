@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: 2007-01-26 02:01+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,13 +168,23 @@ msgstr ""
 "пријему."
 
 #: MsgMdnWishToSend
+#, fuzzy
 msgid ""
 "The sender of this message has asked to be notified when you read this "
 "message.\n"
+"\n"
 "Do you wish to notify the sender?"
 msgstr ""
 "Пошиљалац је замолио да га обавестите када прочитате ову поруку.\n"
 "Да ли желите да обавестите примаоца?"
+
+#: MsgMdnIgnoreRequest
+msgid "Ignore Request"
+msgstr ""
+
+#: MsgMdnSendReceipt
+msgid "Send Receipt"
+msgstr ""
 
 # LOCALIZATION NOTE : Do not translate the word "%S" below.
 #. # LOCALIZATION NOTE : Do not translate the word "%S" below.

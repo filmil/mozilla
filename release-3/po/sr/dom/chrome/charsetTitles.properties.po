@@ -34,12 +34,11 @@
 #. #
 #. # ***** END LICENSE BLOCK *****
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/dom/chrome/charsetTitles.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -214,19 +213,27 @@ msgid "Unicode (UTF-16)"
 msgstr "уникод (UTF-16)"
 
 #: utf-16le.title
-msgid "Unicode (UTF-16 Little Endian)"
+#, fuzzy
+msgid "Unicode (UTF-16LE)"
 msgstr "уникод (UTF-16 Little Endian)"
 
 #: utf-16be.title
-msgid "Unicode (UTF-16 Big Endian)"
+#, fuzzy
+msgid "Unicode (UTF-16BE)"
 msgstr "уникод (UTF-16 Big Endian)"
 
+#: utf-32.title
+msgid "Unicode (UTF-32)"
+msgstr ""
+
 #: utf-32le.title
-msgid "Unicode (UTF-32 Little Endian)"
+#, fuzzy
+msgid "Unicode (UTF-32LE)"
 msgstr "уникод (UTF-32 Little Endian)"
 
 #: utf-32be.title
-msgid "Unicode (UTF-32 Big Endian)"
+#, fuzzy
+msgid "Unicode (UTF-32BE)"
 msgstr "уникод (UTF-32 Big Endian)"
 
 #: iso-8859-5.title

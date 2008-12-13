@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 04:28-0700\n"
+"POT-Creation-Date: 2008-12-12 19:41-0700\n"
 "PO-Revision-Date: 2008-04-08 22:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,12 +67,6 @@ msgstr ""
 #: connectionSeconds.label
 msgid "seconds"
 msgstr "s"
-
-#: showFolderColumns.label
-#: showFolderColumns.accesskey
-#, fuzzy
-msgid "Show expanded co&lumns in the folder pane"
-msgstr "Приказуј ра&ширене колоне у панелу са директоријумима"
 
 #: openMsgIn.label
 msgid "Open messages in:"
