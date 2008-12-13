@@ -104,8 +104,8 @@ clean_pot:
 
 # Computes file statistics and updates the statistics records.
 stats:
-	. $(SCRIPTS_DIR)/stats.sh &> $(STATS_DIR)/stats.txt
-	. $(SCRIPTS_DIR)/untranslated.sh &> $(STATS_DIR)/untranslated.txt
+	LC_ALL=en_US . $(SCRIPTS_DIR)/stats.sh &> $(STATS_DIR)/stats.txt
+	LC_ALL=en_US . $(SCRIPTS_DIR)/untranslated.sh &> $(STATS_DIR)/untranslated.txt
 
 # Checks the current locale agains the original en-US locale
 compare_locales: copy_to_hg

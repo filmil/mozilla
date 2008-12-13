@@ -1,1 +1,133 @@
 Making a list of untranslated files...
+po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	325 translated messages, 6 untranslated messages.
+po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages, 5 untranslated messages.
+po/sr/security/manager/chrome/pippki/pippki.properties.po:	140 translated messages, 1 fuzzy translation, 2 untranslated messages.
+po/sr/security/manager/chrome/pippki/pippki.dtd.po:	66 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger-mapi/mapi.properties.po:	17 translated messages, 4 untranslated messages.
+po/sr/mail/chrome/communicator/wallet/wallet.properties.po:	41 translated messages, 5 untranslated messages.
+po/sr/mail/chrome/messenger/importMsgs.properties.po:	76 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/msgViewPickerOverlay.dtd.po:	7 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	137 translated messages, 1 fuzzy translation, 15 untranslated messages.
+po/sr/mail/chrome/messenger/messengercompose/composeMsgs.properties.po:	100 translated messages, 1 fuzzy translation, 4 untranslated messages.
+po/sr/mail/chrome/messenger/editContactOverlay.properties.po:	0 translated messages, 6 untranslated messages.
+po/sr/mail/chrome/messenger/subscribe.dtd.po:	8 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/searchTermOverlay.dtd.po:	5 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger/search.properties.po:	9 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/aboutDialog.dtd.po:	4 translated messages, 1 fuzzy translation, 1 untranslated message.
+po/sr/mail/chrome/messenger/am-addressing.dtd.po:	14 translated messages, 2 fuzzy translations, 1 untranslated message.
+po/sr/mail/chrome/messenger/filter.properties.po:	37 translated messages, 4 untranslated messages.
+po/sr/mail/chrome/messenger/msgHdrViewOverlay.dtd.po:	11 translated messages, 27 untranslated messages.
+po/sr/mail/chrome/messenger/migration/migration.dtd.po:	16 translated messages, 1 fuzzy translation, 1 untranslated message.
+po/sr/mail/chrome/messenger/migration/migration.properties.po:	13 translated messages, 20 untranslated messages.
+po/sr/mail/chrome/messenger/folderProps.dtd.po:	30 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/prefs.properties.po:	32 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger/vcard.properties.po:	62 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/am-smime.dtd.po:	11 translated messages, 3 fuzzy translations, 8 untranslated messages.
+po/sr/mail/chrome/messenger/imapMsgs.properties.po:	55 translated messages, 28 fuzzy translations, 6 untranslated messages.
+po/sr/mail/chrome/messenger/localMsgs.properties.po:	34 translated messages, 2 fuzzy translations, 7 untranslated messages.
+po/sr/mail/chrome/messenger/am-offline.dtd.po:	10 translated messages, 6 fuzzy translations, 3 untranslated messages.
+po/sr/mail/chrome/messenger/subscribe.properties.po:	6 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/search/searchIntegrationDialogWin.dtd.po:	0 translated messages, 5 untranslated messages.
+po/sr/mail/chrome/messenger/configEditorOverlay.dtd.po:	0 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/offline.properties.po:	10 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger/mime.properties.po:	46 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/eudoraImportMsgs.properties.po:	24 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger/offlineStartup.properties.po:	3 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/FilterEditor.dtd.po:	25 translated messages, 5 untranslated messages.
+po/sr/mail/chrome/messenger/preferences/preferences.dtd.po:	11 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/preferences/preferences.properties.po:	25 translated messages, 2 fuzzy translations, 4 untranslated messages.
+po/sr/mail/chrome/messenger/preferences/general.dtd.po:	19 translated messages, 1 fuzzy translation, 4 untranslated messages.
+po/sr/mail/chrome/messenger/preferences/advanced.dtd.po:	18 translated messages, 4 fuzzy translations, 24 untranslated messages.
+po/sr/mail/chrome/messenger/preferences/compose.dtd.po:	29 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/preferences/connection.dtd.po:	18 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger/preferences/fonts.dtd.po:	48 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/preferences/display.dtd.po:	28 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/msgmdn.properties.po:	13 translated messages, 1 fuzzy translation, 2 untranslated messages.
+po/sr/mail/chrome/messenger/news.properties.po:	26 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/AccountWizard.dtd.po:	48 translated messages, 1 fuzzy translation, 1 untranslated message.
+po/sr/mail/chrome/messenger/messenger.dtd.po:	319 translated messages, 4 fuzzy translations, 82 untranslated messages.
+po/sr/mail/chrome/messenger/start.dtd.po:	22 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/baseMenuOverlay.dtd.po:	0 translated messages, 10 untranslated messages.
+po/sr/mail/chrome/messenger/appleMailImportMsgs.properties.po:	0 translated messages, 5 untranslated messages.
+po/sr/mail/chrome/messenger/search-attributes.properties.po:	36 translated messages, 4 fuzzy translations, 10 untranslated messages.
+po/sr/mail/chrome/messenger/addressbook/addressBook.properties.po:	82 translated messages, 6 untranslated messages.
+po/sr/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po:	31 translated messages, 13 fuzzy translations, 13 untranslated messages.
+po/sr/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties.po:	16 translated messages, 4 untranslated messages.
+po/sr/mail/chrome/messenger/addressbook/abMainWindow.dtd.po:	90 translated messages, 13 fuzzy translations, 8 untranslated messages.
+po/sr/mail/chrome/messenger/addressbook/abContactsPanel.dtd.po:	9 translated messages, 2 untranslated messages.
+po/sr/mail/chrome/messenger/editContactOverlay.dtd.po:	0 translated messages, 4 untranslated messages.
+po/sr/mail/chrome/messenger/messenger.properties.po:	148 translated messages, 26 fuzzy translations, 50 untranslated messages.
+po/sr/mail/chrome/messenger-newsblog/am-newsblog.dtd.po:	9 translated messages, 1 untranslated message.
+po/sr/mail/installer/custom.properties.po:	36 translated messages, 8 untranslated messages.
+po/sr/editor/ui/chrome/composer/editorOverlay.dtd.po:	113 translated messages, 109 fuzzy translations, 19 untranslated messages.
+po/sr/editor/ui/chrome/composer/editor.properties.po:	152 translated messages, 8 fuzzy translations, 4 untranslated messages.
+po/sr/editor/ui/chrome/composer/editorSmileyOverlay.dtd.po:	33 translated messages, 1 untranslated message.
+po/sr/editor/ui/chrome/dialogs/EditorPublish.dtd.po:	38 translated messages, 2 untranslated messages.
+po/sr/editor/ui/chrome/dialogs/EditorTableProperties.dtd.po:	50 translated messages, 1 untranslated message.
+po/sr/editor/ui/chrome/dialogs/EditorSelectProperties.dtd.po:	21 translated messages, 2 untranslated messages.
+po/sr/browser/chrome/browser-region/region.properties.po:	11 translated messages, 1 fuzzy translation, 5 untranslated messages.
+po/sr/browser/chrome/browser/aboutRights.dtd.po:	0 translated messages, 33 untranslated messages.
+po/sr/browser/chrome/browser/tabbrowser.dtd.po:	10 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/browser.dtd.po:	179 translated messages, 1 fuzzy translation, 35 untranslated messages.
+po/sr/browser/chrome/browser/sanitize.dtd.po:	5 translated messages, 18 untranslated messages.
+po/sr/browser/chrome/browser/migration/migration.properties.po:	30 translated messages, 40 untranslated messages.
+po/sr/browser/chrome/browser/credits.dtd.po:	6 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/metaData.dtd.po:	25 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/pageInfo.dtd.po:	67 translated messages, 4 untranslated messages.
+po/sr/browser/chrome/browser/preferences/preferences.properties.po:	31 translated messages, 2 fuzzy translations, 20 untranslated messages.
+po/sr/browser/chrome/browser/preferences/tabs.dtd.po:	4 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/preferences/applications.dtd.po:	4 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/preferences/security.dtd.po:	11 translated messages, 2 untranslated messages.
+po/sr/browser/chrome/browser/preferences/connection.dtd.po:	22 translated messages, 3 fuzzy translations, 1 untranslated message.
+po/sr/browser/chrome/browser/aboutRights.properties.po:	0 translated messages, 3 untranslated messages.
+po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	25 translated messages, 4 untranslated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	90 translated messages, 21 untranslated messages.
+po/sr/browser/chrome/browser/aboutSessionRestore.dtd.po:	0 translated messages, 13 untranslated messages.
+po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	7 translated messages, 5 fuzzy translations, 2 untranslated messages.
+po/sr/browser/chrome/browser/places/places.dtd.po:	125 translated messages, 6 untranslated messages.
+po/sr/browser/chrome/browser/places/places.properties.po:	83 translated messages, 2 untranslated messages.
+po/sr/browser/chrome/browser/places/editBookmarkOverlay.dtd.po:	15 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/aboutPrivateBrowsing.dtd.po:	7 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser/pageInfo.properties.po:	38 translated messages, 1 untranslated message.
+po/sr/browser/chrome/overrides/netError.dtd.po:	27 translated messages, 16 fuzzy translations, 6 untranslated messages.
+po/sr/extensions/reporter/chrome/reportWizard.dtd.po:	32 translated messages, 1 untranslated message.
+po/sr/extensions/irc/chrome/chatzilla.properties.po:	166 translated messages, 1 fuzzy translation, 1102 untranslated messages.
+po/sr/extensions/irc/chrome/ceip.dtd.po:	0 translated messages, 14 untranslated messages.
+po/sr/extensions/irc/chrome/about.dtd.po:	0 translated messages, 10 untranslated messages.
+po/sr/extensions/wallet/src/resources/wallet.properties.po:	0 translated messages, 45 untranslated messages.
+po/sr/extensions/venkman/chrome/venkman.dtd.po:	46 translated messages, 8 untranslated messages.
+po/sr/extensions/venkman/chrome/venkman.properties.po:	580 translated messages, 80 untranslated messages.
+po/sr/dom/chrome/netError.dtd.po:	38 translated messages, 5 fuzzy translations, 1 untranslated message.
+po/sr/dom/chrome/charsetTitles.properties.po:	95 translated messages, 4 fuzzy translations, 1 untranslated message.
+po/sr/dom/chrome/xslt/xslt.properties.po:	32 translated messages, 1 untranslated message.
+po/sr/dom/chrome/layout/xbl.properties.po:	6 translated messages, 1 untranslated message.
+po/sr/toolkit/crashreporter/crashreporter.ini.po:	37 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global-platform/mac/platformKeys.properties.po:	4 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/wizard.dtd.po:	9 translated messages, 3 untranslated messages.
+po/sr/toolkit/chrome/global/dialog.properties.po:	4 translated messages, 4 untranslated messages.
+po/sr/toolkit/chrome/global/filefield.properties.po:	0 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/commonDialogs.properties.po:	15 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/contentAreaCommands.properties.po:	9 translated messages, 2 untranslated messages.
+po/sr/toolkit/chrome/global/config.dtd.po:	23 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/viewSource.dtd.po:	30 translated messages, 7 untranslated messages.
+po/sr/toolkit/chrome/global/printdialog.dtd.po:	7 translated messages, 12 fuzzy translations, 1 untranslated message.
+po/sr/toolkit/chrome/global/intl.properties.po:	13 translated messages, 1 fuzzy translation, 2 untranslated messages.
+po/sr/toolkit/chrome/global/printPageSetup.dtd.po:	28 translated messages, 7 fuzzy translations, 3 untranslated messages.
+po/sr/toolkit/chrome/global/regionNames.properties.po:	242 translated messages, 4 untranslated messages.
+po/sr/toolkit/chrome/global/filepicker.properties.po:	40 translated messages, 3 untranslated messages.
+po/sr/toolkit/chrome/global/about.dtd.po:	13 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/global/xpinstall/xpinstall.properties.po:	62 translated messages, 2 fuzzy translations, 1 untranslated message.
+po/sr/toolkit/chrome/passwordmgr/passwordmgr.properties.po:	28 translated messages, 3 untranslated messages.
+po/sr/toolkit/chrome/mozapps/downloads/downloads.properties.po:	63 translated messages, 9 untranslated messages.
+po/sr/toolkit/chrome/mozapps/handling/handling.dtd.po:	3 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/mozapps/update/updates.properties.po:	36 translated messages, 2 fuzzy translations, 37 untranslated messages.
+po/sr/toolkit/chrome/mozapps/update/updates.dtd.po:	0 translated messages, 42 untranslated messages.
+po/sr/toolkit/chrome/mozapps/help/help.dtd.po:	26 translated messages, 5 untranslated messages.
+po/sr/toolkit/chrome/mozapps/extensions/extensions.properties.po:	88 translated messages, 10 untranslated messages.
+po/sr/toolkit/chrome/mozapps/extensions/extensions.dtd.po:	116 translated messages, 8 untranslated messages.
+po/sr/toolkit/chrome/mozapps/extensions/errors.dtd.po:	0 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/mozapps/extensions/blocklist.dtd.po:	0 translated messages, 8 untranslated messages.
+po/sr/toolkit/chrome/mozapps/extensions/update.dtd.po:	23 translated messages, 11 fuzzy translations, 1 untranslated message.
+po/sr/toolkit/chrome/mozapps/plugins/plugins.dtd.po:	16 translated messages, 2 untranslated messages.
+po/sr/toolkit/chrome/mozapps/profile/createProfileWizard.dtd.po:	13 translated messages, 1 untranslated message.
+po/sr/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd.po:	4 translated messages, 1 untranslated message.
