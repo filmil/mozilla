@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 04:24-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -44,113 +44,113 @@ msgstr ""
 #. ***** END LICENSE BLOCK *****
 #: toField2.label
 msgid "to "
-msgstr ""
+msgstr "прима "
 
 #: fromField2.label
 msgid "from "
-msgstr ""
+msgstr "шаље "
 
 #: senderField2.label
 msgid "sender "
-msgstr ""
+msgstr "пошиљалац "
 
 #: organizationField2.label
 msgid "organization "
-msgstr ""
+msgstr "организација "
 
 #: replyToField2.label
 msgid "reply-to "
-msgstr ""
+msgstr "одровор-на"
 
 #: subjectField2.label
 msgid "subject "
-msgstr ""
+msgstr "тема "
 
 #: bccField2.label
 msgid "bcc "
-msgstr ""
+msgstr "бкоп "
 
 #: newsgroupsField2.label
 msgid "newsgroups "
-msgstr ""
+msgstr "групе "
 
 #: followupToField2.label
 msgid "followup-to "
-msgstr ""
+msgstr "проследи-на "
 
 #: tagsHdr2.label
 msgid "tags "
-msgstr ""
+msgstr "ознаке "
 
 #: dateField2.label
 msgid "date "
-msgstr ""
+msgstr "датум "
 
 #: userAgentField2.label
 msgid "user-agent "
-msgstr ""
+msgstr "кор-агент "
 
 #: referencesField2.label
 msgid "references "
-msgstr ""
+msgstr "обраћања "
 
 #: messageIdField2.label
 msgid "message-id "
-msgstr ""
+msgstr "ид-поруке "
 
 #: inReplyToField2.label
 msgid "in-reply-to "
-msgstr ""
+msgstr "у-одговор-на "
 
 #: originalWebsite2.label
 msgid "website "
-msgstr ""
+msgstr "веб сајт "
 
 #: editMessageDescription.label
 msgid "This is a draft message"
-msgstr ""
+msgstr "Ово је нацрт поруке"
 
 #: editMessageButton.label
 msgid "Edit…"
-msgstr ""
+msgstr "Уреди…"
 
 #: replyButton.label
 msgid "reply…"
-msgstr ""
+msgstr "одговори…"
 
 #: forwardButton.label
 msgid "forward…"
-msgstr ""
+msgstr "проследи…"
 
 #: junkButton.label
 msgid "mark as junk"
-msgstr ""
+msgstr "означи као непожељно"
 
 #: trashButton.tooltiptext
 msgid "delete"
-msgstr ""
+msgstr "уклони"
 
 #: otherActionsButton.label
 msgid "other actions"
-msgstr ""
+msgstr "друга дејства"
 
 #: saveAsMenuItem.label
 #: saveAsMenuItem.accesskey
 msgid "&save as…"
-msgstr ""
+msgstr "&сачувај као…"
 
 #: viewSourceMenuItem.label
 #: viewSourceMenuItem.accesskey
 msgid "&view source…"
-msgstr ""
+msgstr "&преглед кода…"
 
 #: hideDetailsButton.label
 msgid "hide details"
-msgstr ""
+msgstr "сакриј детаље"
 
 #: showDetailsButton.label
 msgid "show details"
-msgstr ""
+msgstr "покажи детаље"
 
 #: openAttachmentCmd.label
 #: openAttachmentCmd.accesskey

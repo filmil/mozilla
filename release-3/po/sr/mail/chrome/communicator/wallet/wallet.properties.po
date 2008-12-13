@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-29 02:35+0100\n"
+"PO-Revision-Date: 2008-12-13 04:13-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -109,7 +109,7 @@ msgid ""
 "Password Manager can remember this logon and enter it automatically the next "
 "time you return to this website.##Do you want Password Manager to remember "
 "this logon?"
-msgstr ""
+msgstr "Управник лозинкама може да запамти ову пријаву и да је аутоматски унесе када се наредни пут пирјавите.##Да ли желите да Управник лозинкама запамти ову пријаву?"
 
 #: WantToSavePasswordEncrypted?
 #: WantToSavePasswordObscured?
@@ -231,7 +231,7 @@ msgstr "Потврди"
 #: PromptForPassword
 msgctxt "PromptForPassword"
 msgid "Password"
-msgstr ""
+msgstr "Лозинка"
 
 #: PromptForData
 msgid "Prompt"
@@ -240,7 +240,7 @@ msgstr "Упит"
 #: SaveTheseValuesObscured
 msgctxt "SaveTheseValuesObscured"
 msgid "Use Password Manager to remember these values."
-msgstr ""
+msgstr "Користите Управника лозинкама за памћење ових вредности."
 
 #: SaveTheseValuesEncrypted
 #: SaveTheseValuesObscured
@@ -251,7 +251,7 @@ msgstr "Користите управника лозинкама да запам
 #: SaveThisValueObscured
 msgctxt "SaveThisValueObscured"
 msgid "Use Password Manager to remember this value."
-msgstr ""
+msgstr "Користите управника лозинкама за памћење ове вредности."
 
 #: SaveThisValueEncrypted
 #: SaveThisValueObscured
@@ -262,13 +262,13 @@ msgstr "Користите управника лозинкама да запам
 #: SaveThisPasswordObscured
 msgctxt "SaveThisPasswordObscured"
 msgid "Use Password Manager to remember this password."
-msgstr ""
+msgstr "Користите Управника лозинкама да запамтите ову лозинку."
 
 #: SaveThisPasswordEncrypted
 #: SaveThisPasswordObscured
 msgctxt "SaveThisPasswordEncrypted"
 msgid "Use Password Manager to remember this password."
-msgstr "Користите управника лозинкама да запамтите ову лозинку."
+msgstr "Користите Управника лозинкама да запамтите ову лозинку."
 
 #: xSaveTheseValuesObscured
 msgid "Remember these values.  Stored values are not password protected."

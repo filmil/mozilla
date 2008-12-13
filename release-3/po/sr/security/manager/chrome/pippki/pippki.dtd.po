@@ -1,3 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2008-12-12 20:12-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # Strings for the MismatchDomain dialog
 # Strings for the Server cert expired dialog
 
@@ -158,7 +172,7 @@ msgstr "Безбедност"
 #: pref.security.general.rHeader
 msgctxt "pref.security.general.rHeader"
 msgid "Settings for general security"
-msgstr ""
+msgstr "Поставке за општу безбедност"
 
 #: pref.security.general.header
 #: pref.security.general.rHeader
@@ -259,7 +273,7 @@ msgstr "Изаберите сертификат кога ћете приказа
 #: clientAuthAsk.message3
 msgctxt "clientAuthAsk.message3"
 msgid "Details of selected certificate:"
-msgstr ""
+msgstr "Детаљи о изабраном сертификату:"
 
 # Strings for the cert picker dialog
 #. Strings for the cert picker dialog

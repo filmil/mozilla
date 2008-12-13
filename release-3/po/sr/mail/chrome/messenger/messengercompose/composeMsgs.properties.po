@@ -1,3 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2008-12-13 04:14-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # # @name NS_MSG_LOAD_ATTACHMNTS
 # # @name NS_MSG_LOAD_ATTACHMNT
 # # @name NS_MSG_ASSEMB_DONE_MSG
@@ -671,7 +685,7 @@ msgstr ""
 #: saveDlogTitle
 msgctxt "saveDlogTitle"
 msgid "Save Message"
-msgstr ""
+msgstr "Сачувај поруку"
 
 #: saveDlogMessage
 msgid ""
@@ -694,7 +708,6 @@ msgstr "Приложи датотеке"
 # #
 #. ##
 #: windowTitlePrefix
-#, fuzzy
 msgid "Write:"
 msgstr "Писање:"
 
@@ -702,7 +715,7 @@ msgstr "Писање:"
 #: sendMsgTitle
 msgctxt "sendMsgTitle"
 msgid "Send Message"
-msgstr ""
+msgstr "Пошаљи поруку"
 
 #: subjectDlogMessage
 msgid ""
@@ -857,8 +870,8 @@ msgstr "-------- Изворна порука --------"
 #. ## Strings used by the rename attachment dialog
 #: renameAttachmentTitle
 msgid "Rename Attachment"
-msgstr ""
+msgstr "Преименуј прилог"
 
 #: renameAttachmentMessage
 msgid "New attachment name:"
-msgstr ""
+msgstr "Ново име за прилог:"

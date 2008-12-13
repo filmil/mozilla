@@ -1,13 +1,13 @@
 po/sr/security/manager/chrome/pipnss/nsserrors.properties.po:	264 translated messages.
 po/sr/security/manager/chrome/pipnss/security.properties.po:	15 translated messages.
-po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	325 translated messages, 6 untranslated messages.
+po/sr/security/manager/chrome/pipnss/pipnss.properties.po:	331 translated messages.
 po/sr/security/manager/chrome/pippki/deviceManager.dtd.po:	22 translated messages.
-po/sr/security/manager/chrome/pippki/certManager.dtd.po:	78 translated messages, 5 untranslated messages.
+po/sr/security/manager/chrome/pippki/certManager.dtd.po:	83 translated messages.
 po/sr/security/manager/chrome/pippki/validation.dtd.po:	26 translated messages.
-po/sr/security/manager/chrome/pippki/pippki.properties.po:	140 translated messages, 1 fuzzy translation, 2 untranslated messages.
-po/sr/security/manager/chrome/pippki/pippki.dtd.po:	66 translated messages, 2 untranslated messages.
+po/sr/security/manager/chrome/pippki/pippki.properties.po:	143 translated messages.
+po/sr/security/manager/chrome/pippki/pippki.dtd.po:	68 translated messages.
 po/sr/mail/updater/updater.ini.po:	2 translated messages.
-po/sr/mail/chrome/messenger-mapi/mapi.properties.po:	17 translated messages, 4 untranslated messages.
+po/sr/mail/chrome/messenger-mapi/mapi.properties.po:	21 translated messages.
 po/sr/mail/chrome/mozldap/ldap.properties.po:	62 translated messages.
 po/sr/mail/chrome/messenger-smime/msgReadSMIMEOverlay.dtd.po:	1 translated message.
 po/sr/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties.po:	3 translated messages.
@@ -20,18 +20,18 @@ po/sr/mail/chrome/messenger-smime/msgSecurityInfo.properties.po:	29 translated m
 po/sr/mail/chrome/messenger-smime/msgCompSMIMEOverlay.properties.po:	1 translated message.
 po/sr/mail/chrome/communicator/contentAreaCommands.properties.po:	13 translated messages.
 po/sr/mail/chrome/communicator/wallet/SignonViewer.properties.po:	8 translated messages.
-po/sr/mail/chrome/communicator/wallet/wallet.properties.po:	41 translated messages, 5 untranslated messages.
+po/sr/mail/chrome/communicator/wallet/wallet.properties.po:	46 translated messages.
 po/sr/mail/chrome/communicator/wallet/SignonViewer.dtd.po:	15 translated messages.
 po/sr/mail/chrome/communicator/utilityOverlay.dtd.po:	28 translated messages.
-po/sr/mail/chrome/messenger/importMsgs.properties.po:	76 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/importMsgs.properties.po:	77 translated messages.
 po/sr/mail/chrome/messenger/markByDate.dtd.po:	3 translated messages.
 po/sr/mail/chrome/messenger/comm4xMailImportMsgs.properties.po:	5 translated messages.
-po/sr/mail/chrome/messenger/msgViewPickerOverlay.dtd.po:	7 translated messages, 1 untranslated message.
+po/sr/mail/chrome/messenger/msgViewPickerOverlay.dtd.po:	8 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/askSendFormat.properties.po:	4 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/sendProgress.properties.po:	5 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/addressingWidgetOverlay.dtd.po:	6 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/askSendFormat.dtd.po:	7 translated messages.
-po/sr/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	137 translated messages, 1 fuzzy translation, 15 untranslated messages.
+po/sr/mail/chrome/messenger/messengercompose/messengercompose.dtd.po:	153 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/composeMsgs.properties.po:	100 translated messages, 1 fuzzy translation, 4 untranslated messages.
 po/sr/mail/chrome/messenger/messengercompose/mailComposeEditorOverlay.dtd.po:	2 translated messages.
 po/sr/mail/chrome/messenger/messengercompose/sendProgress.dtd.po:	3 translated messages.

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 04:17-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr "Користи &други сервер за LDAP:"
 
 #: directoriesNone.label
 msgid "None"
-msgstr ""
+msgstr "Ниједан"
 
 # am-addressing.xul
 #. am-addressing.xul
@@ -67,7 +67,6 @@ msgstr "Сас&тављај поруке у HTML формату"
 
 #: autoQuote.label
 #: autoQuote.accesskey
-#, fuzzy
 msgid "Auto&matically quote the original message when replying"
 msgstr "Аутоматски &цитирај изворну поруку при одговарању"
 
@@ -93,7 +92,6 @@ msgstr "изабери цитат"
 
 #: place.label
 #: place.accesskey
-#, fuzzy
 msgid "and place my &signature"
 msgstr "и стави &потпис"
 

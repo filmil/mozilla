@@ -1,3 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2008-12-12 20:09-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #
 # 64
 # for the next 3 lines, %1$S will be product name (e.g. Firefox), %2$S will be the www.example.com address we connect to
@@ -59,7 +73,7 @@ msgstr "Програмско формирање заштите"
 #: PrivateTokenDescription
 msgctxt "PrivateTokenDescription"
 msgid "Software Security Device"
-msgstr ""
+msgstr "Софтверски безбедносни уређај"
 
 #
 # 64 bytes long after conversion to UTF8
@@ -132,12 +146,12 @@ msgstr "Сертификат примаоца ел. поште"
 #: VerifyProtectObjSign
 msgctxt "VerifyProtectObjSign"
 msgid "Protected Object Signer"
-msgstr ""
+msgstr "Потписник заштићеног објекта"
 
 #: VerifyObjSign
 msgctxt "VerifyObjSign"
 msgid "Object Signer"
-msgstr ""
+msgstr "Потписник објекта"
 
 #: VerifyUserImport
 msgid "User Import Cert"
@@ -146,7 +160,7 @@ msgstr "Увоз сертификата корисника"
 #: VerifyCAVerifier
 msgctxt "VerifyCAVerifier"
 msgid "CA Verifier"
-msgstr ""
+msgstr "Верификатор ауторитета"
 
 #: VerifyStatusResponder
 msgid "Status Responder Certificate"
@@ -474,7 +488,7 @@ msgstr "ANSI X9.62 ECDSA потпис са SHA1"
 #: CertDumpCertTypeEmail
 msgctxt "CertDumpCertTypeEmail"
 msgid "Email"
-msgstr ""
+msgstr "Ел. адреса"
 
 #: CertDumpEmailCA
 msgid "Email Certificate Authority"
@@ -1257,7 +1271,7 @@ msgstr "Сертификат важи само за <a id=\"cert_domain_link\" t
 
 #: certErrorMismatchSinglePlain
 msgid "The certificate is only valid for %S"
-msgstr ""
+msgstr "Важност сертификата: %S"
 
 #: certErrorMismatchMultiple
 msgid "The certificate is only valid for the following names:"

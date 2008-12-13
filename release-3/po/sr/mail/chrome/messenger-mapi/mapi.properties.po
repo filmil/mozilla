@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2007-01-25 00:30+0100\n"
+"PO-Revision-Date: 2008-12-12 20:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 #: dialogTitle
 msgctxt "dialogTitle"
 msgid "%S"
-msgstr ""
+msgstr "%S"
 
 #: dialogText
 msgid "Do you want to use %S as the default mail application?"
@@ -88,12 +88,12 @@ msgstr "Молим унесите ваше корисничко име и лоз
 #: loginTitle
 msgctxt "loginTitle"
 msgid "%S"
-msgstr ""
+msgstr "%S"
 
 #: PasswordTitle
 msgctxt "PasswordTitle"
 msgid "%S"
-msgstr ""
+msgstr "%S"
 
 # MAPI Error Messages
 #. # MAPI Error Messages
@@ -122,7 +122,7 @@ msgstr ""
 #: errorMessageTitle
 msgctxt "errorMessageTitle"
 msgid "%S"
-msgstr ""
+msgstr "%S"
 
 # MAPI Security Messages
 #. # MAPI Security Messages

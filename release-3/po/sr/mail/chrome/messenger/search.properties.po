@@ -1,3 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2008-12-13 04:16-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # these are the fields that get inserted in the search line
 # for "and" searches, this looks like:
 #
@@ -49,7 +63,7 @@ msgstr "Тражи"
 #: labelForStopButton.accesskey
 msgctxt "labelForStopButton.accesskey"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: labelForSearchButton.accesskey
 #: labelForStopButton.accesskey

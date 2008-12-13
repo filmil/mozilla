@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 04:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,26 +15,26 @@ msgstr ""
 
 #: editTitle
 msgid "Edit Contact"
-msgstr ""
+msgstr "Уреди контакт"
 
 #: viewTitle
 msgid "View Contact"
-msgstr ""
+msgstr "Преглед контакта"
 
 #: editDetailsLabel
 msgid "Edit Details"
-msgstr ""
+msgstr "Уреди детаље"
 
 #: editDetailsAccessKey
 msgctxt "editDetailsAccessKey"
 msgid "t"
-msgstr ""
+msgstr "t"
 
 #: viewDetailsLabel
 msgid "View Details"
-msgstr ""
+msgstr "Преглед детаља"
 
 #: viewDetailsAccessKey
 msgctxt "viewDetailsAccessKey"
 msgid "t"
-msgstr ""
+msgstr "t"

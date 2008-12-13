@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 04:18-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: dontWarnAboutDeleteCheckbox
 msgid "Don't ask me again"
-msgstr ""
+msgstr "Не питај ме поново"
 
 # for junk mail logging / mail filter logging
 # LOCALIZATION NOTE(junkLogDetectStr)
@@ -165,7 +165,7 @@ msgstr "Примењен је филтер „%1$S‟ на поруку од %2$
 
 #: filterMissingCustomAction
 msgid "Missing Custom Action"
-msgstr ""
+msgstr "Недостаје произвољно дејство"
 
 #: filterAction2
 msgid "priority changed"
@@ -194,7 +194,7 @@ msgstr "звезда"
 #: filterAction8
 msgctxt "filterAction8"
 msgid "tagged"
-msgstr ""
+msgstr "означено"
 
 #: filterAction9
 msgid "replied"
@@ -236,4 +236,4 @@ msgstr "означено"
 
 #: filterAction18
 msgid "ignored subthread"
-msgstr ""
+msgstr "занемарена поднит"
