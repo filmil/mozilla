@@ -9,10 +9,28 @@ include Makefile.inc
 
 all: clean normalize_convert_codepage stats 
 
+# Updates the hg repository of the mozilla source code
+update_hg:
+	( cd $(MOZILLA_SOURCE_DIR) ; \
+	  python client.py checkout )
+
+# Use the Mozilla's source dir to make a template directory.
+template-symlinks: update_hg
+	. scripts/make-locale-links.sh \
+		$(MOZILLA_SOURCE_DIR) \
+		$(TEMPLATE_SYMLINKS_DIR)
+
+# From the symlinked template directory, make a final template dir.
+# This dir will be used as the for the templates.
+template: template-symlinks
+	. scripts/copy-locale-followsymlinks.sh \
+		$(TEMPLATE_SYMLINKS_DIR) \
+		$(TEMPLATE_DIR)
+
 # Transfer template.
 # SOURCE_DIR = the source directory from Mozilla
 # POT_DIR = directory to dump the produced POT files to
-pot: 
+pot: template
 	@echo "Making the template directory"
 	$(MOZ2PO) -i $(SOURCE_DIR) --pot -o $(POT_DIR)
 	@echo "Removing non-POT files from the template directory"
@@ -89,8 +107,8 @@ stats:
 	. $(SCRIPTS_DIR)/untranslated.sh &> $(STATS_DIR)/untranslated.txt
 
 # Checks the current locale agains the original en-US locale
-compare-locales:
-	@echo "Checking locales"
+compare_locales:
+	@echo "Comparing locales"
 	( cd $(MOZILLA_CVS)/.. ; \
 	  $(CPLOC) $(MOZILLA_BROWSER_L10N_INI) $(MOZILLA_CVS) $(LOCALE_NAME) )
 
@@ -106,28 +124,14 @@ normalize_convert_codepage: $(OUTPUT_DIR)
 	$(ICONV) -f UTF-8 -t CP1251 \
             $(OUTPUT_DIR)/sr/browser/installer/custom.properties > /dev/null
 
-# From the symlinked template directory, make a final template dir.
-# This dir will be used as the for the templates.
-template: template-symlinks
-	. scripts/copy-locale-followsymlinks.sh \
-		$(TEMPLATE_SYMLINKS_DIR) \
-		$(TEMPLATE_DIR)
-
-# Cleanup of all the generated files and dirs
-clean:
-	$(RM) *~
-	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)* NEWPO.po NEWPOT.pot messages.mo
-	$(RM) -fr $(FAIL_DIR) $(MERGE_DIR)
-
-# Use the Mozilla's source dir to make a template directory.
-template-symlinks:
-	. scripts/make-locale-links.sh \
-		$(MOZILLA_SOURCE_DIR) \
-		$(TEMPLATE_SYMLINKS_DIR)
-
 # Finds all the FIXME strings
 find_fixme:
 	$(FIND) $(PO_TRANSLATIONS) -name \
             '*' -a ! -name '*.svn*' | \
 	    $(XARGS) $(GREP) -n FIXME
 
+# Cleanup of all the generated files and dirs
+clean:
+	$(RM) *~
+	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)* NEWPO.po NEWPOT.pot messages.mo
+	$(RM) -fr $(FAIL_DIR) $(MERGE_DIR)
