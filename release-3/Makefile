@@ -83,8 +83,9 @@ $(OUTPUT_DIR):
 	. scripts/patch.sh
 
 # Pushes the changes out to the HG repository but does not commit
-copy_to_hg:
-	$(CP) -r --delete $(OUTPUT_DIR_FINAL)/ $(MOZILLA_CVS)/$(LOCALE_NAME)/
+copy_to_hg: $(OUTPUT_DIR)
+	$(CP) -r --exclude='*~' --delete  \
+		$(OUTPUT_DIR_FINAL)/ $(MOZILLA_CVS)/$(LOCALE_NAME)/
 
 commit: clean normalize_convert_codepage copy_to_hg
 	( test -f $(COMMIT_MESSAGE_FILE) \
@@ -107,7 +108,7 @@ stats:
 	. $(SCRIPTS_DIR)/untranslated.sh &> $(STATS_DIR)/untranslated.txt
 
 # Checks the current locale agains the original en-US locale
-compare_locales:
+compare_locales: copy_to_hg
 	@echo "Comparing locales"
 	( cd $(MOZILLA_CVS)/.. ; \
 	  $(CPLOC) $(MOZILLA_BROWSER_L10N_INI) $(MOZILLA_CVS) $(LOCALE_NAME) )
