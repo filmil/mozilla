@@ -21,7 +21,7 @@ CPLOC:=compare-locales
 
 # # Directory configuration
 LOCALE_NAME:=sr
-L10N_BASE_DIR:=/home/filip/personal/l10n/mozilla/ff-3.1
+L10N_BASE_DIR:=/home/filip/personal/l10n/mozilla/ff-3.2
 OUTPUT_DIR:=output
 MERGE_DIR:=merge
 SCRIPTS_DIR:=scripts
