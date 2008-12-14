@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2008-12-14 04:56-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,13 @@ msgstr ""
 
 #. This will be appended to the window's title
 #. inside the private browsing mode
-#: mainWindowPrivateBrowsing.titlemodifier
-msgid "&mainWindow.titlemodifier; (Private Browsing)"
+#: mainWindow.titlePrivateBrowsingSuffix
+msgid "(Private Browsing)"
+msgstr ""
+
+#. LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE
+#: mainWindow.titlemodifierPrivateBrowsing
+msgid "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;"
 msgstr ""
 
 #: tabCmd.label
