@@ -40,7 +40,7 @@ STATS_DIR:=tools/stats
 ZIPNAME:=$(LOCALE_NAME).zip
 
 # The file that contains the commit message
-COMMIT_MESSAGE_FILE:=./CVS_MESSAGE
+COMMIT_MESSAGE_FILE:=./COMMIT_MESSAGE
 FAIL_DIR:=fail-po
 
 # The directory where non-po files are stored
