@@ -1,11 +1,12 @@
 
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/addressbook/abMainWindow.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 20:10-0800\n"
+"PO-Revision-Date: 2008-12-14 03:14-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +84,6 @@ msgstr "W"
 
 #: printSetupCmd.label
 #: printSetupCmd.accesskey
-#, fuzzy
 msgid "Page Set&up…"
 msgstr "&Подеси страну..."
 
@@ -99,9 +99,8 @@ msgstr "Преглед &адресара пред штампу"
 
 #: printCardViewCmd.label
 #: printCardViewCmd.accesskey
-#, fuzzy
 msgid "&Print Card…"
-msgstr "&Штампај картицу..."
+msgstr "&Штампај картицу…"
 
 #: printCardViewCmd.key
 msgid "P"
@@ -109,9 +108,8 @@ msgstr "P"
 
 #: printAddressBook.label
 #: printAddressBook.accesskey
-#, fuzzy
 msgid "Print &Address Book…"
-msgstr "Ш&тампај адресар..."
+msgstr "Ш&тампај адресар…"
 
 # Edit Menu
 #. Edit Menu
@@ -215,9 +213,8 @@ msgstr "&Замени име и презиме"
 
 #: propertiesCmd.label
 #: propertiesCmd.accesskey
-#, fuzzy
 msgid "Propert&ies…"
-msgstr "Особине..."
+msgstr "&Особине…"
 
 #: propertiesCmd.key
 msgid "i"
@@ -247,9 +244,8 @@ msgstr "&Статусна трака"
 
 #: customizeToolbar.label
 #: customizeToolbar.accesskey
-#, fuzzy
 msgid "&Customize…"
-msgstr "&Прилагоди..."
+msgstr "&Прилагоди…"
 
 #: showCardPane.label
 #: showCardPane.accesskey
@@ -300,27 +296,23 @@ msgstr "1"
 
 #: searchAddressesCmd.label
 #: searchAddressesCmd.accesskey
-#, fuzzy
 msgid "&Search Addresses…"
-msgstr "&Тражи адресе..."
+msgstr "&Тражи адресе…"
 
 #: importCmd.label
 #: importCmd.accesskey
-#, fuzzy
 msgid "&Import…"
-msgstr "&Увоз..."
+msgstr "&Увоз…"
 
 #: exportCmd.label
 #: exportCmd.accesskey
-#, fuzzy
 msgid "&Export…"
-msgstr "&Извези..."
+msgstr "&Извези…"
 
 #: preferencesCmd.label
 #: preferencesCmd.accesskey
-#, fuzzy
 msgid "&Options…"
-msgstr "&Подешавања..."
+msgstr "&Подешавања…"
 
 #: preferencesCmdUnix.label
 #: preferencesCmdUnix.accesskey

@@ -1,4 +1,5 @@
 
+
 # Insert form menu items
 # Used just in context popup.
 # Debug menu items
@@ -562,9 +563,12 @@ msgstr "Стил &текста"
 
 #: styleBoldCmd.label
 #: styleBoldCmd.accesskey
-#: boldToolbarCmd.tooltip
 msgid "&Bold"
 msgstr "&Подебљано"
+
+#: boldToolbarCmd.tooltip
+msgid "&Bold"
+msgstr "Подебљано"
 
 # Formatting toolbar not used, but may be in future
 # Format Toolbar, imported from editorAppShell.xul
@@ -577,9 +581,12 @@ msgstr "B"
 
 #: styleItalicCmd.label
 #: styleItalicCmd.accesskey
-#: italicToolbarCmd.tooltip
 msgid "&Italic"
 msgstr "&Искошено"
+
+#: italicToolbarCmd.tooltip
+msgid "&Italic"
+msgstr "Искошено"
 
 #: styleItalicCmd.key
 #: insertinputimage.accesskey
@@ -590,9 +597,12 @@ msgstr "I"
 
 #: styleUnderlineCmd.label
 #: styleUnderlineCmd.accesskey
-#: underlineToolbarCmd.tooltip
 msgid "&Underline"
 msgstr "&Подвучено"
+
+#: underlineToolbarCmd.tooltip
+msgid "&Underline"
+msgstr "Подвучено"
 
 #: styleUnderlineCmd.key
 #: formatToolbar.underlineChar
@@ -893,12 +903,9 @@ msgstr "Боје стране и &позадине…"
 
 # Table Menu
 #. Table Menu
-#: tableMenu.label
 #: tableMenu.accesskey
-#: tableTable.label
-#: tableToolbarCmd.label
-msgid "Ta&ble"
-msgstr "&Табела"
+msgid "b"
+msgstr "Т"
 
 # Select Submenu
 #. Select Submenu
@@ -933,8 +940,6 @@ msgstr "У&метни"
 # Table Menu
 #: tableTable.label
 #: tableTable.accesskey
-#: tableMenu.label
-#: tableToolbarCmd.label
 msgid "&Table"
 msgstr "&Табела"
 

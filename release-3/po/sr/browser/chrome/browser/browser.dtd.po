@@ -1,11 +1,12 @@
 
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 00:19-0800\n"
+"PO-Revision-Date: 2008-12-14 03:08-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1056,11 +1057,10 @@ msgstr "Готово"
 msgid "Cancel"
 msgstr "Откажи"
 
-# FIXME Strange
 #: editBookmark.removeBookmark.accessKey
 #: editBookmark.removeBookmark.label
-msgid "R"
-msgstr "R"
+msgid "Remove Bookmark;Remove Bookmarks (#1)"
+msgstr "&Уклони забелешку;Уклони забелешке (#1)"
 
 #: editBookmark.undo.label
 #: editBookmark.undo.accessKey
