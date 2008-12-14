@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 17:14-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid ""
 "Import Preferences, Account Settings, Address Book, Filters, and other data "
 "from:"
-msgstr ""
+msgstr "Увоз поставки, подешавања налога, адресара филтера и осталих података из:"
 
 #: importFromNothing.label
 #: importFromNothing.accesskey
@@ -75,9 +75,8 @@ msgid "&Eudora"
 msgstr "&Еудора"
 
 #: importSource.title
-#, fuzzy
 msgid "Import Settings and Mail Folders"
-msgstr "Увези подешавања и пошту из"
+msgstr "Увоз подешавања и поште из"
 
 #: importItems.title
 msgid "Items to Import"

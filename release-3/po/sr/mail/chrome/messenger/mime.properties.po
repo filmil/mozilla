@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2007-01-26 02:35+0100\n"
+"PO-Revision-Date: 2008-12-13 17:46-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -582,7 +582,7 @@ msgctxt "1039"
 msgid ""
 "\">here</A> to download the rest of the "
 "message.</B></TD></TR></TABLE></CENTER>"
-msgstr ""
+msgstr "\">овде</A> како бисте преузели остатак поруке..</B></TD></TR></TABLE></CENTER>"
 
 # default attachment name
 ## @name MIME_MSG_DEFAULT_ATTACHMENT_NAME

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-29 03:16+0100\n"
+"PO-Revision-Date: 2008-12-13 20:21-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -68,7 +68,7 @@ msgstr "&Презиме:"
 #: PhoneticField1.label
 msgctxt "PhoneticField1.label"
 msgid "Phonetic:"
-msgstr ""
+msgstr "Фонетски:"
 
 #: PhoneticField2.label
 #: PhoneticField1.label
@@ -98,7 +98,6 @@ msgstr "&Додатна ел. адреса:"
 
 #: PreferMailFormat.label
 #: PreferMailFormat.accesskey
-#, fuzzy
 msgid "Prefers to recei&ve messages formatted as:"
 msgstr "&Жели да прима поруке форматиране као:"
 
@@ -123,9 +122,8 @@ msgstr "&Екранско име:"
 
 #: allowRemoteContent.label
 #: allowRemoteContent.accesskey
-#, fuzzy
 msgid "Allow &remote images."
-msgstr "Дозволи да&љинске слике у пошти са ХТМЛом."
+msgstr "Дозволи уда&љене слике"
 
 #: allowRemoteContent.tooltip
 msgid ""
@@ -134,7 +132,7 @@ msgid ""
 "connection to this external source. This may allow tracking of the \n"
 "message being read. Checking this box will allow such external embedded \n"
 "images in HTML messages from this contact."
-msgstr ""
+msgstr "У порукама са ХТМЛ-ом је могућа уградња слика са удаљених рачунара.  Отварање овакве поруке ће отворити везу ка том рачунару.  Помоћу овога је могуће пратити да ли је порука прочитана.  Бирањем ове опције ћете дозволити приказ оваквих слика када Вам овај контакт пошаље поруку."
 
 #: WorkPhone.label
 #: WorkPhone.accesskey
@@ -153,7 +151,6 @@ msgstr "&Факс:"
 
 #: PagerNumber.label
 #: PagerNumber.accesskey
-#, fuzzy
 msgid "Pa&ger:"
 msgstr "&Пејџер:"
 
@@ -164,15 +161,14 @@ msgstr "&Мобилни:"
 
 #: Home.tab
 msgid "Private"
-msgstr ""
+msgstr "Приватни"
 
 #: Home.accesskey
 msgid "P"
-msgstr ""
+msgstr "П"
 
 #: HomeAddress.label
 #: HomeAddress.accesskey
-#, fuzzy
 msgctxt "HomeAddress.label HomeAddress.accesskey"
 msgid "&Address:"
 msgstr "А&дреса:"
@@ -216,27 +212,26 @@ msgstr "Др&жава:"
 
 #: HomeWebPage.label
 #: HomeWebPage.accesskey
-#, fuzzy
 msgctxt "HomeWebPage.label HomeWebPage.accesskey"
 msgid "W&eb Page:"
-msgstr "&Мрежна страна:"
+msgstr "&Веб страна:"
 
 #: Birthday.label
 #: Birthday.accesskey
 msgid "&Birthday:"
-msgstr ""
+msgstr "&Рођендан:"
 
 #: Year.emptytext
 msgid "Year"
-msgstr ""
+msgstr "Година"
 
 #: Or.value
 msgid "or"
-msgstr ""
+msgstr "или"
 
 #: Age.emptytext
 msgid "Age"
-msgstr ""
+msgstr "Број година"
 
 #: Work.tab
 #: Work.box
@@ -245,11 +240,10 @@ msgstr "Посао"
 
 #: Work.accesskey
 msgid "W"
-msgstr ""
+msgstr "о"
 
 #: JobTitle.label
 #: JobTitle.accesskey
-#, fuzzy
 msgid "T&itle:"
 msgstr "&Титула:"
 
@@ -265,7 +259,6 @@ msgstr "&Огранизација:"
 
 #: WorkAddress.label
 #: WorkAddress.accesskey
-#, fuzzy
 msgctxt "WorkAddress.label WorkAddress.accesskey"
 msgid "&Address:"
 msgstr "&Адреса:"
@@ -323,38 +316,33 @@ msgstr ""
 
 #: WorkCity.label
 #: WorkCity.accesskey
-#, fuzzy
 msgctxt "WorkCity.label WorkCity.accesskey"
 msgid "Cit&y:"
 msgstr "Мес&то:"
 
 #: WorkState.label
 #: WorkState.accesskey
-#, fuzzy
 msgctxt "WorkState.label WorkState.accesskey"
 msgid "&State/Province:"
 msgstr "Област/По&крајина:"
 
 #: WorkZipCode.label
 #: WorkZipCode.accesskey
-#, fuzzy
 msgctxt "WorkZipCode.label WorkZipCode.accesskey"
 msgid "&ZIP/Postal Code:"
 msgstr "Поштан&ски број:"
 
 #: WorkCountry.label
 #: WorkCountry.accesskey
-#, fuzzy
 msgctxt "WorkCountry.label WorkCountry.accesskey"
 msgid "Co&untry:"
 msgstr "Држа&ва:"
 
 #: WorkWebPage.label
 #: WorkWebPage.accesskey
-#, fuzzy
 msgctxt "WorkWebPage.label WorkWebPage.accesskey"
 msgid "W&eb Page:"
-msgstr "Мреж&на страна:"
+msgstr "Ве&б страна:"
 
 # Other Tab
 #: Other.tab
@@ -387,6 +375,5 @@ msgstr "Произвољно &4:"
 
 #: Notes.label
 #: Notes.accesskey
-#, fuzzy
 msgid "&Notes:"
-msgstr "Б"
+msgstr "&Белешке:"

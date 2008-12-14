@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/editor/ui/chrome/dialogs/EditorSelectProperties.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2007-08-29 09:45-0500\n"
+"PO-Revision-Date: 2008-12-13 20:49-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -110,7 +111,7 @@ msgstr "Ви&шеструки избор"
 #: SelectDisabled.accesskey
 msgctxt "SelectDisabled.label SelectDisabled.accesskey"
 msgid "&Disabled"
-msgstr ""
+msgstr "&Искључено"
 
 #: SelectTabIndex.label
 #: SelectTabIndex.accesskey
@@ -130,7 +131,7 @@ msgstr "&Ознака:"
 #: OptGroupDisabled.accesskey
 msgctxt "OptGroupDisabled.label OptGroupDisabled.accesskey"
 msgid "&Disabled"
-msgstr ""
+msgstr "&Искључено"
 
 #: Option.label
 msgid "Option"

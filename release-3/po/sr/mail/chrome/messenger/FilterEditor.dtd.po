@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 17:53-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -55,19 +55,19 @@ msgstr "Највиши"
 #: contextDesc.label
 #: contextDesc.accesskey
 msgid "Apply filter &when:"
-msgstr ""
+msgstr "Примени филтер &при:"
 
 #: contextIncoming.label
 msgid "Checking Mail"
-msgstr ""
+msgstr "провери поште"
 
 #: contextManual.label
 msgid "Manually Run"
-msgstr ""
+msgstr "ручном покретању"
 
 #: contextBoth.label
 msgid "Checking Mail or Manually Run"
-msgstr ""
+msgstr "провери поште или ручном покретању"
 
 #: filterActionDesc.label
 #: filterActionDesc.accesskey
@@ -130,7 +130,7 @@ msgstr "Занемари нит"
 
 #: ignoreSubthread.label
 msgid "Ignore Subthread"
-msgstr ""
+msgstr "Занемари поднит"
 
 #: watchThread.label
 msgid "Watch Thread"

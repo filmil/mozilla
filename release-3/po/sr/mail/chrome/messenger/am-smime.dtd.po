@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 17:22-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Безбедност"
 #: securityTab.label
 msgctxt "securityTab.label"
 msgid "Security"
-msgstr ""
+msgstr "Безбедност"
 
 #: securityHeading.label
 msgid ""
@@ -41,17 +41,13 @@ msgstr "Изворно подршавање за шифровање при сл�
 
 #: neverEncrypt.label
 #: neverEncrypt.accesskey
-#, fuzzy
 msgid "&Never (do not use encryption)"
-msgstr "Никада (не користи шифровање)"
+msgstr "&Никада (не користи шифровање)"
 
 #: alwaysEncryptMessage.label
 #: alwaysEncryptMessage.accesskey
-#, fuzzy
 msgid "Req&uired (can't send message unless all recipients have certificates)"
-msgstr ""
-"Неопходно (није могуће послати поруку осим ако сви примаоци имају "
-"сертификате)"
+msgstr "Неоп&ходно (није могуће послати поруку осим ако сви примаоци имају сертификате)"
 
 #: encryptionCert.message
 msgid "Use this certificate to encrypt &amp; decrypt messages sent to you:"
@@ -62,20 +58,20 @@ msgstr ""
 #: digitalSign.certificate.button
 msgctxt "digitalSign.certificate.button"
 msgid "Select…"
-msgstr ""
+msgstr "Избор…"
 
 #: digitalSign.certificate.accesskey
 msgid "S"
-msgstr ""
+msgstr "И"
 
 #: digitalSign.certificate_clear.button
 msgctxt "digitalSign.certificate_clear.button"
 msgid "Clear"
-msgstr ""
+msgstr "Очисти"
 
 #: digitalSign.certificate_clear.accesskey
 msgid "C"
-msgstr ""
+msgstr "О"
 
 #: encryption.certificate.button
 #: certificate.button
@@ -85,7 +81,7 @@ msgstr "Избор…"
 
 #: encryption.certificate.accesskey
 msgid "t"
-msgstr ""
+msgstr "з"
 
 #: encryption.certificate_clear.button
 #: certificate_clear.button
@@ -95,7 +91,7 @@ msgstr "Очисти"
 
 #: encryption.certificate_clear.accesskey
 msgid "e"
-msgstr ""
+msgstr "с"
 
 #: signingGroupTitle.label
 msgid "Digital Signing"
@@ -126,4 +122,4 @@ msgstr "&Преглед сертификата"
 #: manageDevices.label
 #: manageDevices.accesskey
 msgid "Securit&y Devices"
-msgstr ""
+msgstr "Безбедносни уре&ђаји"

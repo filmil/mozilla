@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 17:20-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -199,7 +199,7 @@ msgstr "&Изабери овај директоријум за рад ван м�
 #: offlineFolder.button.accesskey
 msgctxt "offlineFolder.button.label offlineFolder.button.accesskey"
 msgid "&Download Now"
-msgstr ""
+msgstr "&Прими одмах"
 
 #: selectofflineNewsgroup.check.label
 #: selectofflineNewsgroup.check.accesskey
@@ -212,7 +212,7 @@ msgstr "Изабери ову &групу за рад ван мреже"
 #: offlineFolder.button.accesskey
 msgctxt "offlineNewsgroup.button.label offlineNewsgroup.button.accesskey"
 msgid "&Download Now"
-msgstr "&Преузми одмах"
+msgstr "&Прими одмах"
 
 #: folderProps.name.label
 #: folderProps.name.accesskey

@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 20:32-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -164,6 +164,9 @@ msgid ""
 "\n"
 "Please close $BrandShortName to continue."
 msgstr ""
+"Програм $BrandShortName мора да буде искључен како би инсталација била настављена.\n"
+"\n"
+"Молимо да искључите $BrandShortName како бисте наставили."
 
 #: WARN_MANUALLY_CLOSE_APP_UNINSTALL
 msgid ""
@@ -234,33 +237,33 @@ msgstr ""
 
 #: ERROR_CREATE_DIRECTORY_PREFIX
 msgid "Error creating directory:"
-msgstr ""
+msgstr "Грешка при прављењу директоријума"
 
 #: ERROR_CREATE_DIRECTORY_SUFFIX
 msgid ""
 "Click Cancel to stop the installation or\n"
 "Retry to try again."
-msgstr ""
+msgstr "Притисните „Откажи‟ како бисте зауставили иснталацију или „Понови‟ да пробате опет."
 
 #: UN_CONFIRM_PAGE_TITLE
 msgid "Uninstall $BrandFullName"
-msgstr ""
+msgstr "Деинсталација програма $BrandFullName"
 
 #: UN_CONFIRM_PAGE_SUBTITLE
 msgid "Remove $BrandFullName from your computer."
-msgstr ""
+msgstr "Уклањање програма $BrandFullName са рачунара."
 
 #: UN_CONFIRM_UNINSTALLED_FROM
 msgid "$BrandShortName will be uninstalled from the following location:"
-msgstr ""
+msgstr "Програм $BrandShortName ће бити деинсталиран са овог места:"
 
 #: UN_CONFIRM_CLICK
 msgid "Click Uninstall to continue."
-msgstr ""
+msgstr "Притисните „Деинсталирај‟ како бисте наставили"
 
 #: BANNER_CHECK_EXISTING
 msgid "Checking existing installation…"
-msgstr ""
+msgstr "Провера постојеће инсталације…"
 
 #: STATUS_INSTALL_APP
 msgid "Installing ${BrandShortName}…"

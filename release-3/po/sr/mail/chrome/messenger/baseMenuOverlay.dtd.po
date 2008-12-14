@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/baseMenuOverlay.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 18:27-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +19,7 @@ msgstr ""
 #: helpMenu.accesskey
 msgctxt "helpMenu.label helpMenu.accesskey"
 msgid "&Help"
-msgstr ""
+msgstr "&Помоћ"
 
 #. LOCALIZATION NOTE some localizations of Windows use "?"
 #. for the help button in the menubar but Gnome does not.
@@ -26,40 +27,40 @@ msgstr ""
 #: helpMenuWin.accesskey
 msgctxt "helpMenuWin.label helpMenuWin.accesskey"
 msgid "&Help"
-msgstr ""
+msgstr "&Помоћ"
 
 #: releaseCmd.label
 #: releaseCmd.accesskey
 msgid "&Release Notes"
-msgstr ""
+msgstr "&Белешке о издању"
 
 #: openHelp.label
 #: openHelp.accesskey
 msgid "&Help Contents"
-msgstr ""
+msgstr "&Садржај помоћи"
 
 #: openHelp.commandkey
 msgid "VK_F1"
-msgstr ""
+msgstr "VK_F1"
 
 #: openHelpMac.label
 msgid "&brandShortName; Help"
-msgstr ""
+msgstr "Помоћ за &brandShortName;"
 
 #: openHelpMac2.commandkey
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: openHelpMac2.modifiers
 msgid "accel"
-msgstr ""
+msgstr "accel"
 
 #: updateCmd.label
 #: updateCmd.accesskey
 msgid "Check f&or Updates…"
-msgstr ""
+msgstr "Провера &доградњи…"
 
 #: aboutCmd.label
 #: aboutCmd.accesskey
 msgid "&About &brandFullName;"
-msgstr ""
+msgstr "&О програму &brandFullName;"

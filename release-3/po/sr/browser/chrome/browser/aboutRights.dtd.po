@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 20:54-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,21 +16,21 @@ msgstr ""
 #. rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page.
 #: rights.locale-direction
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #: rights.pagetitle
 msgid "about:rights"
-msgstr ""
+msgstr "about:rights"
 
 #: rights.intro-header
 msgid "About Your Rights"
-msgstr ""
+msgstr "О Вашим правима"
 
 #: rights.intro
 msgid ""
 "&brandFullName; is free and open source software, built by a community of "
 "thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Програм &brandFullName; је бесплатан програм отвореног кода кога су направиле хиљаде ентузијаста широм света.   Ево неколико ствари које треба да знате:"
 
 #. Note on pointa / pointb / pointc form:
 #. These points each have an embedded link in the HTML, so each point is
@@ -41,11 +41,11 @@ msgstr ""
 #. deliberate for formatting around the embedded links.
 #: rights.intro-point1a
 msgid "&brandShortName; is made available to you under the terms of the "
-msgstr ""
+msgstr "Програм &brandShortName; вам је уступљен под условима које прописује"
 
 #: rights.intro-point1b
 msgid "Mozilla Public License"
-msgstr ""
+msgstr "Мозилина јавна лиценца"
 
 #: rights.intro-point1c
 msgid ""
@@ -53,43 +53,43 @@ msgid ""
 "You are also welcome to modify the source code of &brandShortName; as you "
 "want to meet your needs. The Mozilla Public License also gives you the right "
 "to distribute your modified versions."
-msgstr ""
+msgstr ". То значи да смете да користите, умножавате и делите програм &brandShortName; трећим лицима.  Слободни сте да мењате изворни код програма &brandShortName; да бисте га прилагодили својим потребама.  Мозилина јавна лиценца Вам даје право да испоручујете Ваше измењено издање."
 
 #: rights.intro-point2a
 msgid ""
 "Mozilla does not grant you any rights to the Mozilla and Firefox trademarks "
 "or logos. Additional information on Trademarks may be found "
-msgstr ""
+msgstr "Мозила (Mozilla) Вам не даје никаква права над робним маркама Мозиле (Mozilla) и фајерфокса (Firefox) или логотиповима.  Додатни подаци о робним маркама доступни су "
 
 #: rights.intro-point2b
 msgctxt "rights.intro-point2b"
 msgid "here"
-msgstr ""
+msgstr "овде"
 
 #: rights.intro-point2c
 msgctxt "rights.intro-point2c"
 msgid "."
-msgstr ""
+msgstr "."
 
 #. point 3 text for official branded builds
 #: rights.intro-point3a
 msgid "Privacy policies for &vendorShortName;'s products may be found "
-msgstr ""
+msgstr "Полисе о приватности за производе које прави &vendorShortName;'s могу се наћи "
 
 #: rights.intro-point3b
 msgctxt "rights.intro-point3b"
 msgid "here"
-msgstr ""
+msgstr "овде"
 
 #: rights.intro-point3c
 msgctxt "rights.intro-point3c"
 msgid "."
-msgstr ""
+msgstr "."
 
 #. point 3 text for unbranded builds
 #: rights.intro-point3-unbranded
 msgid "Any applicable privacy policies for this product should be listed here."
-msgstr ""
+msgstr "Све применљиве полисе о приватности су тамо набројане."
 
 #. point 4 text for official branded builds
 #: rights.intro-point4a

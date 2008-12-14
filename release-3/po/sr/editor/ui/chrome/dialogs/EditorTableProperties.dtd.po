@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/editor/ui/chrome/dialogs/EditorTableProperties.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-16 19:49+0200\n"
+"PO-Revision-Date: 2008-12-13 20:49-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -230,7 +231,7 @@ msgstr "&Претходна"
 
 #: applyBeforeChange.label
 msgid "Current changes will be applied before changing the selection."
-msgstr ""
+msgstr "Тренутне измене биће примењене пре промене избора."
 
 #: cellContentAlignment.label
 msgid "Content Alignment"

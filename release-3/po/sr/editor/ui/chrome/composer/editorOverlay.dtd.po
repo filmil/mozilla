@@ -1,3 +1,4 @@
+
 # Insert form menu items
 # Used just in context popup.
 # Debug menu items
@@ -90,15 +91,13 @@
 #. File menu items
 #: fileMenu.label
 #: fileMenu.accesskey
-#, fuzzy
 msgid "&File"
-msgstr "Датотека"
+msgstr "&Датотека"
 
 #: newBlankPageCmd.label
 #: newBlankPageCmd.accesskey
-#, fuzzy
 msgid "Composer &Page"
-msgstr "Уредник страна"
+msgstr "&Уредник страна"
 
 #: newMenu.label
 msgid "New"
@@ -106,108 +105,95 @@ msgstr "Ново"
 
 #: openFileCmd.label
 #: openFileCmd.accesskey
-#, fuzzy
 msgid "&Open File…"
-msgstr "Отвори датотеку…"
+msgstr "&Отвори датотеку…"
 
 #: openFileCmd.key
 msgid "O"
-msgstr ""
+msgstr "O"
 
 #: openRemoteCmd.label
 #: openRemoteCmd.accesskey
 msgid "Open Web &Location…"
-msgstr ""
+msgstr "Отвори о&дредиште…"
 
 #: openRemoteCmd.key
 msgctxt "openRemoteCmd.key"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #: fileRecentMenu.label
 #: fileRecentMenu.accesskey
-#, fuzzy
 msgid "&Recent Pages"
-msgstr "Скорашње стране"
+msgstr "&Скорашње стране"
 
 #: fileRevert.label
 #: fileRevert.accesskey
-#, fuzzy
 msgid "Re&vert"
-msgstr "Врати"
+msgstr "В&рати"
 
 #: saveCmd.label
 #: saveCmd.accesskey
-#, fuzzy
 msgid "&Save"
-msgstr "Сачувај"
+msgstr "&Сачувај"
 
 #: saveCmd.key
 msgctxt "saveCmd.key"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: saveAsCmd.label
 #: saveAsCmd.accesskey
-#, fuzzy
 msgid "Save &As…"
-msgstr "Сачувај као…"
+msgstr "Сачувај &као…"
 
 #: publishCmd.label
 #: publishCmd.accesskey
-#, fuzzy
 msgid "Pu&blish"
-msgstr "Објави"
+msgstr "О&бјави"
 
 #: publishCmd.key
 #: insertselect.accesskey
 #: stylesubscript.accesskey
 msgctxt "publishCmd.key"
 msgid "S"
-msgstr "з"
+msgstr "S"
 
 #: publishAsCmd.label
 #: publishAsCmd.accesskey
-#, fuzzy
 msgid "Publis&h As…"
-msgstr "Објави као…"
+msgstr "Обја&ви као…"
 
 #: exportToTextCmd.label
 #: exportToTextCmd.accesskey
-#, fuzzy
 msgid "Export to &Text…"
-msgstr "Извоз у облику текста…"
+msgstr "Извоз као &текст…"
 
 #: saveAsChangeEncodingCmd.label
 #: saveAsChangeEncodingCmd.accesskey
-#, fuzzy
 msgid "Save And Change Character &Encoding"
-msgstr "Запиши и промени скуп знакова"
+msgstr "Сачувај и промени с&куп знакова"
 
 #: previewCmd.label
 #: previewCmd.accesskey
-#, fuzzy
 msgid "Bro&wse Page"
-msgstr "Прегледај страну"
+msgstr "Пре&гледај страну"
 
 #: sendPageCmd.label
 #: sendPageCmd.accesskey
-#, fuzzy
 msgid "Sen&d Page…"
-msgstr "Пошаљи страну…"
+msgstr "По&шаљи страну…"
 
 #: printSetupCmd.label
 #: printSetupCmd.accesskey
-#, fuzzy
 msgid "Page Set&up…"
-msgstr "Подешавање стране…"
+msgstr "&Подешавање стране…"
 
 #: printCmd.label
 #: printCmd.accesskey
 #: printButtonCmd.label
-#, fuzzy
 msgid "&Print…"
-msgstr "Штампа…"
+msgstr "&Штампа…"
 
 #: printCmd.key
 #: newBlankPage.accesskey
@@ -215,27 +201,25 @@ msgstr "Штампа…"
 #: paragraphparagraph.accesskey
 #: ParagraphAbbr.label
 msgid "P"
-msgstr "Ш"
+msgstr "P"
 
 # mac
 # LOCALIZATION NOTE : FILE Do not translate all the Cmd.key
 #: closeCmd.label
 #: closeCmd.accesskey
-#, fuzzy
 msgid "&Close"
-msgstr "Затвори"
+msgstr "&Затвори"
 
 #: closeCmd.key
 msgid "W"
-msgstr ""
+msgstr "W"
 
 # Edit menu items
 #. Edit menu items
 #: editMenu.label
 #: editMenu.accesskey
-#, fuzzy
 msgid "&Edit"
-msgstr "Уреди"
+msgstr "&Уређивање"
 
 #: pasteNoFormatting.label
 #: pasteNoFormatting.accesskey
@@ -244,7 +228,7 @@ msgstr "Убаци без &форматирања"
 
 #: pasteNoFormatting.key
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: pasteAs.label
 #: pasteAs.accesskey
@@ -258,21 +242,19 @@ msgstr "Обја&ва подешавања сајта…"
 
 #: pasteAsQuotationCmd.label
 #: pasteAsQuotationCmd.accesskey
-#, fuzzy
 msgid "Paste As &Quotation"
-msgstr "Убаци као цитат"
+msgstr "Убаци као &цитат"
 
 #: findCmd.label
 #: findCmd.accesskey
-#, fuzzy
 msgid "&Find and Replace…"
-msgstr "Нађи и замени…"
+msgstr "&Нађи и замени…"
 
 #: findCmd.key
 #: insertformmenu.accesskey
 #: insertfieldset.accesskey
 msgid "F"
-msgstr "Ф"
+msgstr "F"
 
 #: findCmd.key2
 #: editfind.keybinding2
@@ -281,30 +263,28 @@ msgstr "VK_F19"
 
 #: findAgainCmd.label
 #: findAgainCmd.accesskey
-#, fuzzy
 msgid "Find A&gain"
-msgstr "Нађи поново"
+msgstr "Нађи &поново"
 
 #: findAgainCmd.key
 msgctxt "findAgainCmd.key"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: findAgainCmd.key2
 msgctxt "findAgainCmd.key2"
 msgid "VK_F3"
-msgstr ""
+msgstr "VK_F3"
 
 #: findPrevCmd.label
 #: findPrevCmd.accesskey
-#, fuzzy
 msgid "Find Pre&vious"
-msgstr "Нађи претходно"
+msgstr "Нађи прет&ходно"
 
 #: findPrevCmd.key
 msgctxt "findPrevCmd.key"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: findPrevCmd.key2
 #: editfindnext.keybinding2
@@ -320,63 +300,56 @@ msgstr "&Провера правописа док куцате"
 
 #: checkSpellingCmd.label
 #: checkSpellingCmd.accesskey
-#, fuzzy
 msgid "C&heck Spelling"
-msgstr "Провери правопис"
+msgstr "&Провери правопис"
 
 #: checkSpellingCmd.key
 msgctxt "checkSpellingCmd.key"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #: validateCmd.label
 #: validateCmd.accesskey
-#, fuzzy
 msgid "&Validate HTML"
-msgstr "Провери HTML"
+msgstr "&Провери HTML"
 
 #. Insert menu items
 #: insertMenu.label
 #: insertMenu.accesskey
 msgctxt "insertMenu.label insertMenu.accesskey"
 msgid "&Insert"
-msgstr ""
+msgstr "У&метни"
 
 #: insertLinkCmd.label
 #: insertLinkCmd.accesskey
-#, fuzzy
 msgid "&Link…"
-msgstr "Веза…"
+msgstr "&Веза…"
 
 #: insertLinkCmd.key
 #: insertlabel.accesskey
 msgctxt "insertLinkCmd.key"
 msgid "L"
-msgstr "о"
+msgstr "L"
 
 #: insertAnchorCmd.label
 #: insertAnchorCmd.accesskey
-#, fuzzy
 msgid "Named &Anchor…"
-msgstr "Именовано сидро…"
+msgstr "Именовано &сидро…"
 
 #: insertImageCmd.label
 #: insertImageCmd.accesskey
-#, fuzzy
 msgid "&Image…"
-msgstr "Слика…"
+msgstr "&Слика…"
 
 #: insertHLineCmd.label
 #: insertHLineCmd.accesskey
-#, fuzzy
 msgid "H&orizontal Line"
-msgstr "Водоравна линија"
+msgstr "Во&доравна линија"
 
 #: insertTableCmd.label
 #: insertTableCmd.accesskey
-#, fuzzy
 msgid "&Table…"
-msgstr "Табела…"
+msgstr "&Табела…"
 
 #: insertHTMLCmd.label
 #: insertHTMLCmd.accesskey
@@ -385,15 +358,13 @@ msgstr "&ХТМЛ…"
 
 #: insertCharsCmd.label
 #: insertCharsCmd.accesskey
-#, fuzzy
 msgid "&Characters and Symbols…"
-msgstr "Знаци и симболи…"
+msgstr "&Знаци и симболи…"
 
 #: insertBreakAllCmd.label
 #: insertBreakAllCmd.accesskey
-#, fuzzy
 msgid "Brea&k Below Image(s)"
-msgstr "Прелом испод слика"
+msgstr "&Прелом испод слика"
 
 # Used just in context popup.
 #. Used just in context popup.
@@ -413,65 +384,56 @@ msgstr "&Додај у речник"
 
 #: createLinkCmd.label
 #: createLinkCmd.accesskey
-#, fuzzy
 msgid "Create Lin&k…"
-msgstr "Направи везу…"
+msgstr "Направи ве&зу…"
 
 #: editLinkCmd.label
 #: editLinkCmd.accesskey
-#, fuzzy
 msgid "Ed&it Link in New Composer"
-msgstr "Уреди везу у Уреднику"
+msgstr "Уреди везу у &Уреднику"
 
 # (Toplevel Edit menu uses utilityOverlay)
 #. (Toplevel Edit menu uses utilityOverlay)
 #: undoCmd.label
 #: undoCmd.accesskey
-#, fuzzy
 msgid "&Undo"
-msgstr "Опозови"
+msgstr "&Опозови"
 
 #: redoCmd.label
 #: redoCmd.accesskey
-#, fuzzy
 msgid "&Redo"
-msgstr "Обнови"
+msgstr "&Понови"
 
 #: cutCmd.label
 #: cutCmd.accesskey
-#, fuzzy
 msgid "Cu&t"
-msgstr "Исеци"
+msgstr "И&сеци"
 
 #: copyCmd.label
 #: copyCmd.accesskey
-#, fuzzy
 msgid "&Copy"
-msgstr "Умножи"
+msgstr "&Умножи"
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
-#, fuzzy
 msgid "&Paste"
-msgstr "Убаци"
+msgstr "У&баци"
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
 msgctxt "deleteCmd.label deleteCmd.accesskey"
 msgid "&Delete"
-msgstr ""
+msgstr "У&клони"
 
 #: clearCmd.label
 #: clearCmd.accesskey
-#, fuzzy
 msgid "C&lear"
-msgstr "Очисти"
+msgstr "&Очисти"
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
-#, fuzzy
 msgid "Select &All"
-msgstr "Изабери све"
+msgstr "Изабери с&ве"
 
 # Font Face SubMenu
 #. Font Face SubMenu
@@ -481,45 +443,40 @@ msgstr "Избор писма"
 
 #: fontfaceMenu.label
 #: fontfaceMenu.accesskey
-#, fuzzy
 msgid "&Font"
-msgstr "Писмо"
+msgstr "&Писмо"
 
 #: fontVarWidth.label
 #: fontVarWidth.accesskey
-#, fuzzy
 msgid "&Variable Width"
-msgstr "Променљива ширина"
+msgstr "Про&менљива ширина"
 
 #: fontFixedWidth.label
 #: fontFixedWidth.accesskey
-#, fuzzy
 msgid "Fi&xed Width"
-msgstr "Фиксна ширина"
+msgstr "&Фиксна ширина"
 
 #: fontFixedWidth.key
 #: fileexporttotext.accesskey
 #: inserttextarea.accesskey
 #: bodytext.accesskey
 msgid "T"
-msgstr "з"
+msgstr "T"
 
 #: fontHelvetica.label
 #: fontHelvetica.accesskey
 msgid "He&lvetica, Arial"
-msgstr ""
+msgstr "&Хелветика, аријал"
 
 #: fontTimes.label
 #: fontTimes.accesskey
-#, fuzzy
 msgid "&Times"
-msgstr "Тајмс"
+msgstr "&Тајмс"
 
 #: fontCourier.label
 #: fontCourier.accesskey
-#, fuzzy
 msgid "&Courier"
-msgstr "Куријер"
+msgstr "&Куријер"
 
 # Font Size SubMenu
 #. Font Size SubMenu
@@ -529,9 +486,8 @@ msgstr "Избор величине слова"
 
 #: decreaseFontSize.label
 #: decreaseFontSize.accesskey
-#, fuzzy
 msgid "Smalle&r"
-msgstr "Мања"
+msgstr "Ма&ња"
 
 #: decreaseFontSize.key
 #: decreaseFontSize.keybinding
@@ -541,9 +497,8 @@ msgstr "-"
 
 #: increaseFontSize.label
 #: increaseFontSize.accesskey
-#, fuzzy
 msgid "Lar&ger"
-msgstr "Већа"
+msgstr "&Већа"
 
 #: increaseFontSize.key
 #: increaseFontSize.keybinding
@@ -561,64 +516,55 @@ msgstr "="
 #: fontSizeMenu.label
 #: fontSizeMenu.accesskey
 msgid "Si&ze"
-msgstr ""
+msgstr "&Величина"
 
 #: size-xx-smallCmd.label
 #: size-xx-smallCmd.accesskey
-#, fuzzy
 msgid "xx-sm&all"
-msgstr "малецка"
+msgstr "ма&лецка"
 
 #: size-x-smallCmd.label
 #: size-x-smallCmd.accesskey
-#, fuzzy
 msgid "x-s&mall"
-msgstr "врло мала"
+msgstr "в&рло мала"
 
 #: size-smallCmd.label
 #: size-smallCmd.accesskey
-#, fuzzy
 msgid "&small"
-msgstr "мала"
+msgstr "ма&ла"
 
 #: size-mediumCmd.label
 #: size-mediumCmd.accesskey
-#, fuzzy
 msgid "me&dium"
-msgstr "средња"
+msgstr "&средња"
 
 #: size-largeCmd.label
 #: size-largeCmd.accesskey
-#, fuzzy
 msgid "&large"
-msgstr "велика"
+msgstr "вели&ка"
 
 #: size-x-largeCmd.label
 #: size-x-largeCmd.accesskey
-#, fuzzy
 msgid "&x-large"
-msgstr "овећа"
+msgstr "&овећа"
 
 #: size-xx-largeCmd.label
 #: size-xx-largeCmd.accesskey
-#, fuzzy
 msgid "xx-larg&e"
-msgstr "огромна"
+msgstr "о&громна"
 
 # Font Style SubMenu
 #. Font Style SubMenu
 #: fontStyleMenu.label
 #: fontStyleMenu.accesskey
-#, fuzzy
 msgid "Text &Style"
-msgstr "Стил текста"
+msgstr "Стил &текста"
 
 #: styleBoldCmd.label
 #: styleBoldCmd.accesskey
 #: boldToolbarCmd.tooltip
-#, fuzzy
 msgid "&Bold"
-msgstr "Подебљано"
+msgstr "&Подебљано"
 
 # Formatting toolbar not used, but may be in future
 # Format Toolbar, imported from editorAppShell.xul
@@ -627,28 +573,26 @@ msgstr "Подебљано"
 #: insertbutton.accesskey
 #: formatToolbar.boldChar
 msgid "B"
-msgstr "д"
+msgstr "B"
 
 #: styleItalicCmd.label
 #: styleItalicCmd.accesskey
 #: italicToolbarCmd.tooltip
-#, fuzzy
 msgid "&Italic"
-msgstr "Искошено"
+msgstr "&Искошено"
 
 #: styleItalicCmd.key
 #: insertinputimage.accesskey
 #: styleitalic.accesskey
 #: formatToolbar.italicChar
 msgid "I"
-msgstr "с"
+msgstr "I"
 
 #: styleUnderlineCmd.label
 #: styleUnderlineCmd.accesskey
 #: underlineToolbarCmd.tooltip
-#, fuzzy
 msgid "&Underline"
-msgstr "Подвучено"
+msgstr "&Подвучено"
 
 #: styleUnderlineCmd.key
 #: formatToolbar.underlineChar
@@ -657,27 +601,23 @@ msgstr "U"
 
 #: styleStrikeThruCmd.label
 #: styleStrikeThruCmd.accesskey
-#, fuzzy
 msgid "Stri&kethrough"
-msgstr "Прецртано"
+msgstr "Пре&цртано"
 
 #: styleSuperscriptCmd.label
 #: styleSuperscriptCmd.accesskey
-#, fuzzy
 msgid "Su&perscript"
-msgstr "Горњи индекс"
+msgstr "&Горњи индекс"
 
 #: styleSubscriptCmd.label
 #: styleSubscriptCmd.accesskey
-#, fuzzy
 msgid "&Subscript"
-msgstr "Доњи индекс"
+msgstr "&Доњи индекс"
 
 #: styleNonbreakingCmd.label
 #: styleNonbreakingCmd.accesskey
-#, fuzzy
 msgid "&Nonbreaking"
-msgstr "Без прелома"
+msgstr "&Без прелома"
 
 #: styleEm.label
 #: styleEm.accesskey
@@ -721,9 +661,8 @@ msgstr "П&роменљива"
 
 #: formatFontColor.label
 #: formatFontColor.accesskey
-#, fuzzy
 msgid "Text &Color…"
-msgstr "Боја текста…"
+msgstr "&Боја текста…"
 
 #: tableOrCellColor.label
 #: tableOrCellColor.accesskey
@@ -732,12 +671,12 @@ msgstr "Боја табеле или позадине &ћелије…"
 
 #: formatRemoveStyles.key
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: formatRemoveLinks.key
 msgctxt "formatRemoveLinks.key"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #: formatRemoveNamedAnchors.label
 #: formatRemoveNamedAnchors.accesskey
@@ -754,108 +693,93 @@ msgstr "к"
 #: paragraphMenu.accesskey
 msgctxt "paragraphMenu.label paragraphMenu.accesskey"
 msgid "&Paragraph"
-msgstr ""
+msgstr "&Пасус"
 
 #: paragraphParagraphCmd.label
 #: paragraphParagraphCmd.accesskey
 #: paragraphMenu.label
 #: paragraphMenu.accesskey
-#, fuzzy
 msgctxt "paragraphParagraphCmd.label paragraphParagraphCmd.accesskey"
 msgid "&Paragraph"
-msgstr "Пасус"
+msgstr "Па&сус"
 
 #: heading1Cmd.label
 #: heading1Cmd.accesskey
-#, fuzzy
 msgid "Heading &1"
-msgstr "Наслов 1"
+msgstr "Наслов &1"
 
 #: heading2Cmd.label
 #: heading2Cmd.accesskey
-#, fuzzy
 msgid "Heading &2"
-msgstr "Наслов 2"
+msgstr "Наслов &2"
 
 #: heading3Cmd.label
 #: heading3Cmd.accesskey
-#, fuzzy
 msgid "Heading &3"
-msgstr "Наслов 3"
+msgstr "Наслов &3"
 
 #: heading4Cmd.label
 #: heading4Cmd.accesskey
-#, fuzzy
 msgid "Heading &4"
-msgstr "Наслов 4"
+msgstr "Наслов &4"
 
 #: heading5Cmd.label
 #: heading5Cmd.accesskey
-#, fuzzy
 msgid "Heading &5"
-msgstr "Наслов 5"
+msgstr "Наслов &5"
 
 #: heading6Cmd.label
 #: heading6Cmd.accesskey
-#, fuzzy
 msgid "Heading &6"
-msgstr "Наслов 6"
+msgstr "Наслов &6"
 
 # Address Tab
 #: paragraphAddressCmd.label
 #: paragraphAddressCmd.accesskey
-#, fuzzy
 msgid "&Address"
-msgstr "Адреса"
+msgstr "&Адреса"
 
 #: paragraphPreformatCmd.label
 #: paragraphPreformatCmd.accesskey
-#, fuzzy
 msgid "Pre&format"
-msgstr "Преформат"
+msgstr "Пре&формат"
 
 # List menu items
 #. List menu items
 #: formatlistMenu.label
 #: formatlistMenu.accesskey
-#, fuzzy
 msgid "&List"
-msgstr "Списак"
+msgstr "&Списак"
 
 #: noneCmd.label
 #: noneCmd.accesskey
-#, fuzzy
 msgid "&None"
-msgstr "Ниједна"
+msgstr "&Ниједна"
 
 #: listBulletCmd.label
 #: listBulletCmd.accesskey
-#, fuzzy
 msgid "&Bulleted"
-msgstr "Тачкасти списак"
+msgstr "&Тачкасти списак"
 
 #: listNumberedCmd.label
 #: listNumberedCmd.accesskey
-#, fuzzy
 msgid "Nu&mbered"
-msgstr "Набројани списак"
+msgstr "&Набројани списак"
 
 #: listTermCmd.label
 #: listTermCmd.accesskey
-#, fuzzy
 msgid "&Term"
-msgstr "Термин"
+msgstr "Тер&мин"
 
 #: listDefinitionCmd.label
 #: listDefinitionCmd.accesskey
-#, fuzzy
 msgid "&Definition"
-msgstr "Дефиниција"
+msgstr "&Дефиниција"
 
 #: listPropsCmd.label
 #: listPropsCmd.accesskey
 msgid "&List Properties…"
-msgstr ""
+msgstr "&Списак својстава…"
 
 #: ParagraphSelect.tooltip
 msgid "Choose a paragraph format"
@@ -865,31 +789,27 @@ msgstr "Избор формата пасуса"
 #. Shared in Paragraph, and Toolbar menulist
 #: bodyTextCmd.label
 #: bodyTextCmd.accesskey
-#, fuzzy
 msgid "Body &Text"
-msgstr "Тело текста"
+msgstr "Тело тек&ста"
 
 # isn't used in menu now, but may be added in future
 #. isn't used in menu now, but may be added in future
 #: advancedPropertiesCmd.label
 #: advancedPropertiesCmd.accesskey
-#, fuzzy
 msgid "Ad&vanced Properties"
-msgstr "Напредне поставке"
+msgstr "&Напредне поставке"
 
 # Align menu items
 #. Align menu items
 #: alignMenu.label
 #: alignMenu.accesskey
-#, fuzzy
 msgid "&Align"
-msgstr "Уравнај"
+msgstr "&Уравнај"
 
 #: alignLeft.label
 #: alignLeft.accesskey
-#, fuzzy
 msgid "&Left"
-msgstr "Улево"
+msgstr "&Лево"
 
 #: alignLeft.tooltip
 msgid "Align Left"
@@ -897,9 +817,8 @@ msgstr "Уравнај лево"
 
 #: alignCenter.label
 #: alignCenter.accesskey
-#, fuzzy
 msgid "&Center"
-msgstr "Средина"
+msgstr "&Средина"
 
 #: alignCenter.tooltip
 msgid "Align Center"
@@ -907,9 +826,8 @@ msgstr "Центрирај"
 
 #: alignRight.label
 #: alignRight.accesskey
-#, fuzzy
 msgid "&Right"
-msgstr "Десно"
+msgstr "&Десно"
 
 #: alignRight.tooltip
 msgid "Align Right"
@@ -917,13 +835,12 @@ msgstr "Уравнај десно"
 
 #: alignJustify.label
 #: alignJustify.accesskey
-#, fuzzy
 msgid "&Justify"
-msgstr "Уравнато"
+msgstr "&Обострано"
 
 #: alignJustify.tooltip
 msgid "Align Justified"
-msgstr "Поравнај уједначено"
+msgstr "Поравнај с обе стране"
 
 # Layer toolbar items
 #. Layer toolbar items
@@ -941,9 +858,8 @@ msgstr "Пошаљи напред"
 
 #: increaseIndent.label
 #: increaseIndent.accesskey
-#, fuzzy
 msgid "&Increase Indent"
-msgstr "Повећај табулацију"
+msgstr "&Повећај табулацију"
 
 #: increaseIndent.key
 #: formatindent.keybinding
@@ -952,9 +868,8 @@ msgstr "]"
 
 #: decreaseIndent.label
 #: decreaseIndent.accesskey
-#, fuzzy
 msgid "&Decrease Indent"
-msgstr "Смањи табулацију"
+msgstr "&Смањи табулацију"
 
 #: decreaseIndent.key
 #: formatoutdent.keybinding
@@ -968,15 +883,13 @@ msgstr "&Мрежа за постављање"
 
 #: pageProperties.label
 #: pageProperties.accesskey
-#, fuzzy
 msgid "Pa&ge Title and Properties…"
-msgstr "Наслов и својства стране…"
+msgstr "&Наслов и својства стране…"
 
 #: colorsAndBackground.label
 #: colorsAndBackground.accesskey
-#, fuzzy
 msgid "Page Colors and Backgro&und…"
-msgstr "Боје стране и позадине…"
+msgstr "Боје стране и &позадине…"
 
 # Table Menu
 #. Table Menu
@@ -984,58 +897,51 @@ msgstr "Боје стране и позадине…"
 #: tableMenu.accesskey
 #: tableTable.label
 #: tableToolbarCmd.label
-#, fuzzy
 msgid "Ta&ble"
-msgstr "Табела"
+msgstr "&Табела"
 
 # Select Submenu
 #. Select Submenu
 #: tableSelectMenu.label
 #: tableSelectMenu.accesskey
-#, fuzzy
 msgctxt "tableSelectMenu.label tableSelectMenu.accesskey"
 msgid "&Select"
-msgstr "Избор"
+msgstr "&Избор"
 
 #: tableSelectMenu2.label
 #: tableSelectMenu2.accesskey
-#, fuzzy
 msgid "Table &Select"
-msgstr "Избор табеле"
+msgstr "Изабери &табелу"
 
 #: tableInsertMenu2.label
 #: tableInsertMenu2.accesskey
-#, fuzzy
 msgid "Table &Insert"
-msgstr "Убаци табелу"
+msgstr "У&баци табелу"
 
 #: tableDeleteMenu2.label
 #: tableDeleteMenu2.accesskey
-#, fuzzy
 msgid "Table &Delete"
-msgstr "Обриши табелу"
+msgstr "У&клони табелу"
 
 #. Insert SubMenu
 #: tableInsertMenu.label
 #: tableInsertMenu.accesskey
 msgctxt "tableInsertMenu.label tableInsertMenu.accesskey"
 msgid "&Insert"
-msgstr ""
+msgstr "У&метни"
 
 # Table Menu
 #: tableTable.label
 #: tableTable.accesskey
 #: tableMenu.label
 #: tableToolbarCmd.label
-#, fuzzy
 msgid "&Table"
-msgstr "Табела"
+msgstr "&Табела"
 
 #: tableRow.label
 #: tableRow.accesskey
-#, fuzzy
 msgid "&Row"
-msgstr "Ред"
+msgstr "&Ред"
 
 #: tableRows.label
 msgid "Row(s)"
@@ -1043,22 +949,19 @@ msgstr "Колона(е)"
 
 #: tableRowAbove.label
 #: tableRowAbove.accesskey
-#, fuzzy
 msgid "&Row Above"
-msgstr "Ред изнад"
+msgstr "Ред и&знад"
 
 # uses tablerow.accesskey
 #: tableRowBelow.label
 #: tableRowBelow.accesskey
-#, fuzzy
 msgid "Row &Below"
-msgstr "Ред испод"
+msgstr "Ред и&спод"
 
 #: tableColumn.label
 #: tableColumn.accesskey
-#, fuzzy
 msgid "C&olumn"
-msgstr "Колона"
+msgstr "&Колона"
 
 #: tableColumns.label
 msgid "Column(s)"
@@ -1066,22 +969,19 @@ msgstr "Колона(е)"
 
 #: tableColumnBefore.label
 #: tableColumnBefore.accesskey
-#, fuzzy
 msgid "C&olumn Before"
-msgstr "Колона испред"
+msgstr "Ко&лона испред"
 
 # uses tablecolumn.accesskey
 #: tableColumnAfter.label
 #: tableColumnAfter.accesskey
-#, fuzzy
 msgid "Column &After"
-msgstr "Колона после"
+msgstr "Колона &после"
 
 #: tableCell.label
 #: tableCell.accesskey
-#, fuzzy
 msgid "&Cell"
-msgstr "Ћелија"
+msgstr "&Ћелија"
 
 #: tableCells.label
 msgid "Cell(s)"
@@ -1089,28 +989,24 @@ msgstr "Ћелија(е)"
 
 #: tableCellContents.label
 #: tableCellContents.accesskey
-#, fuzzy
 msgid "Cell Co&ntents"
-msgstr "Садржај ћелије"
+msgstr "Садр&жај ћелије"
 
 #: tableAllCells.label
 #: tableAllCells.accesskey
-#, fuzzy
 msgid "&All Cells"
-msgstr "Све ћелије"
+msgstr "С&ве ћелије"
 
 #: tableCellBefore.label
 #: tableCellBefore.accesskey
-#, fuzzy
 msgid "&Cell Before"
-msgstr "Ћелија испред"
+msgstr "Ћели&ја испред"
 
 # uses tablecell.accesskey
 #: tableCellAfter.label
 #: tableCellAfter.accesskey
-#, fuzzy
 msgid "Cell A&fter"
-msgstr "Ћелија изнад"
+msgstr "Ћелија из&над"
 
 # Delete SubMenu
 #. Delete SubMenu
@@ -1118,10 +1014,9 @@ msgstr "Ћелија изнад"
 #: tableDeleteMenu.accesskey
 #: deleteCmd.label
 #: deleteCmd.accesskey
-#, fuzzy
 msgctxt "tableDeleteMenu.label tableDeleteMenu.accesskey"
 msgid "&Delete"
-msgstr "Уклони"
+msgstr "&Уклони"
 
 # text for "Join Cells" is in editor.properties
 # ("JoinSelectedCells" and "JoinCellToRight")
@@ -1136,21 +1031,18 @@ msgstr "Уклони"
 #: tableJoinCells.accesskey
 #: alignjustify.accesskey
 #: tablejoincells.accesskey
-#, fuzzy
 msgid "&j"
-msgstr "j"
+msgstr "&j"
 
 #: tableSplitCell.label
 #: tableSplitCell.accesskey
-#, fuzzy
 msgid "Split &Cell"
-msgstr "Подели ћелију"
+msgstr "По&дели ћелију"
 
 #: convertToTable.label
 #: convertToTable.accesskey
-#, fuzzy
 msgid "C&reate Table from Selection"
-msgstr "Направи табелу од избора"
+msgstr "Направи табе&лу од избора"
 
 #: tableProperties.label
 #: tableProperties.accesskey

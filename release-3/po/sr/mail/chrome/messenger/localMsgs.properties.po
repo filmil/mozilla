@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-25 23:50+0100\n"
+"PO-Revision-Date: 2008-12-13 17:35-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "Програм нема довољно меморије."
 #: 4000
 #, fuzzy
 msgid "Building summary file for %S…"
-msgstr "Изграђивање сажетка за %S..."
+msgstr "Грађење сажетка за %S..."
 
 # Status - parsing folder
 ## @name LOCAL_STATUS_DOCUMENT_DONE
@@ -196,7 +196,6 @@ msgstr ""
 #. ## @name POP3_CONNECT_HOST_CONTACTED_SENDING_LOGIN_INFORMATION
 #. ## @loc None
 #: 4007
-#, fuzzy
 msgid "Connect: Host contacted, sending login information…"
 msgstr "Повезивање: Рачунар је контактиран, шаљу се подаци о пријави..."
 
@@ -552,7 +551,7 @@ msgid ""
 "``Fetch Headers Only'' options. To download your mail, turn off these "
 "options in the Server Settings for your mail server in the Account Settings "
 "window."
-msgstr ""
+msgstr "Сервер за ПОП3 пошту (%S) не подржава УИДЛ или ИксТНД ИнсЛСТ који су потребни за остварење могућности  „Остави на серверу‟, „Максимална дужина поруке‟ и „Добавка заглавља‟.  Да бисте преузели пошту, искључите ове опције у подешавањима сервера за пошту у прозору за подешавање налога."
 
 #. # Status - the server doesn't support the top command
 #. ## @name POP3_SERVER_DOES_NOT_SUPPORT_THE_TOP_COMMAND
@@ -567,7 +566,7 @@ msgid ""
 "support for this, we cannot implement the ``Maximum Message Size'' or "
 "``Fetch Headers Only'' preference.  This option has been disabled, and "
 "messages will be downloaded regardless of their size."
-msgstr ""
+msgstr "Сервер за ПОП3 пошту (%S) не подржава команду ТОП.  Без подршке на серверу, не можемо да остваримо ограничење највеће дужине поруке или да добавимо само заглавља.  Ова опција је искључена, и поруке ће бити примљене без обзира на величину."
 
 #. # secure authentication failed and unsure why
 #. ## @name CANNOT_PROCESS_APOP_AUTH
@@ -577,7 +576,7 @@ msgid "The mail server does not support secure authentication or you have entere
 "an incorrect password. Please check your password, or turn off secure "
 "authentication in the Server Settings for your mail server in the Account "
 "Settings window.\n"
-msgstr ""
+msgstr "Сервер за пошту или не подржава безбедну аутентикацију или не прихвата лозинку коју сте унели.  Молимо да проверите лозинку, или да искључите безбедну аутентикацију у подешвањима сервера у прозору за подешавање налога.\n"
 
 #. ## @name NS_ERROR_COULD_NOT_CONNECT_VIA_TLS
 #. ## @loc None
@@ -587,7 +586,7 @@ msgid ""
 "may be incorrectly configured. Please verify the correct configuration in "
 "the Server Settings for your mail server in the Account Settings window and "
 "try again."
-msgstr ""
+msgstr "Није могуће успоставити везу кроз ТЛС ка серверу за ПОП3.  Сервер је можда искључен или неисправно подешен.  Молимо да проверите подешавање у подешавањим асервера, међу опцијама за подешавање налога."
 
 #. ## @name POP3_MOVE_FOLDER_TO_TRASH
 #. ## @loc None
@@ -595,16 +594,16 @@ msgstr ""
 #. # "%S" is the the name of the folder.
 #: 4044
 msgid "Are you sure you want to delete the folder '%S'?"
-msgstr ""
+msgstr "Да ли сигурно желите да уклоните директоријум „%S‟?"
 
 #. ## @name POP3_DELETE_FOLDER_DIALOG_TITLE
 #. ## @loc None
 #: 4045
 msgid "Delete Folder"
-msgstr ""
+msgstr "Уклони директоријум"
 
 #. ## @name POP3_DELETE_FOLDER_BUTTON_LABEL
 #. ## @loc None
 #: 4046
 msgid "&Delete Folder"
-msgstr ""
+msgstr "&Уклони директоријум"

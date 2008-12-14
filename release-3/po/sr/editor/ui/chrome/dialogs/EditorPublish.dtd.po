@@ -1,3 +1,4 @@
+
 # Publish Tab Panel
 
 # ***** BEGIN LICENSE BLOCK *****
@@ -85,7 +86,7 @@ msgstr "Поставке за објављивање"
 #: publishTab.label
 msgctxt "publishTab.label"
 msgid "Publish"
-msgstr ""
+msgstr "Објави"
 
 #: settingsTab.label
 msgid "Settings"
@@ -102,11 +103,11 @@ msgstr "Објави"
 #: siteList.accesskey
 msgctxt "siteList.label siteList.accesskey"
 msgid "Sit&e Name:"
-msgstr ""
+msgstr "&Име сајта:"
 
 #: siteList.tooltip
 msgid "Choose the site that you want to publish to"
-msgstr "Изаберите место где желите да објавите"
+msgstr "Изаберите сајт где желите да објавите"
 
 #: newSiteButton.label
 #: newSiteButton.accesskey

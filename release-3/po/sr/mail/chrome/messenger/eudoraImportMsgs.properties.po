@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2008-12-13 17:47-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #. #
@@ -370,7 +385,7 @@ msgstr "није могуће увести глагол „%s‟"
 #. # filtered against cannot be found.
 #: 2027
 msgid "header name not found"
-msgstr ""
+msgstr "име заглавља није пронађено"
 
 # Description
 # # @name EUDORAIMPORT_FILTERS_WARN_NEGATE_VERB
@@ -397,7 +412,7 @@ msgstr "није могуће негирати глагол „%S‟"
 #. # the name of the pseudo-header.
 #: 2028
 msgid "can't import the %S pseudo-header"
-msgstr ""
+msgstr "није могуће увести псеудо-заглавље „%S‟"
 
 # Description
 # # @name EUDORAIMPORT_FILTERS_WARN_MAILBOX_MISSING

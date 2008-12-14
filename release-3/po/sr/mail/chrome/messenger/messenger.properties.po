@@ -41,7 +41,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-08 22:51+0200\n"
+"PO-Revision-Date: 2008-12-13 20:21-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -53,38 +53,32 @@ msgstr ""
 #. # The following are used by the messenger application
 #. #
 #: removeAccount
-#, fuzzy
 msgid "Delete Account…"
-msgstr "Обриши налог..."
+msgstr "Уклони налог…"
 
 #: newFolderMenuItem
-#, fuzzy
 msgid "Folder…"
-msgstr "Директријум..."
+msgstr "Директоријум…"
 
 #: newSubfolderMenuItem
-#, fuzzy
 msgid "Subfolder…"
-msgstr "Поддиректоријум..."
+msgstr "Поддиректоријум…"
 
 #: newFolder
-#, fuzzy
 msgid "New Folder…"
-msgstr "Нови директоријум..."
+msgstr "Нови директоријум…"
 
 #: newSubfolder
-#, fuzzy
 msgid "New Subfolder…"
-msgstr "Нови поддиректоријум..."
+msgstr "Нови поддиректоријум…"
 
 #: folderProperties
 msgid "Folder Properties"
 msgstr "Особине директоријума"
 
 #: newTag
-#, fuzzy
 msgid "New Tag…"
-msgstr "Нова ознака..."
+msgstr "Нова ознака…"
 
 #: getNextNMessages
 msgid "Get Next %S News Messages"
@@ -135,44 +129,36 @@ msgid "Save All Attachments"
 msgstr "Сачувај све прилоге"
 
 #: LoadingMessageToPrint
-#, fuzzy
 msgid "Loading message to print…"
-msgstr "Учитавање поруке за штампање..."
+msgstr "Учитавање поруке за штампање…"
 
 #: MessageLoaded
-#, fuzzy
 msgid "Message loaded…"
-msgstr "Порука је учитана..."
+msgstr "Порука је учитана…"
 
 #: PrintingMessage
-#, fuzzy
 msgid "Printing message…"
-msgstr "Штампање поруке..."
+msgstr "Штампање поруке…"
 
 #: PrintPreviewMessage
-#, fuzzy
 msgid "Print Previewing message…"
-msgstr "Преглед поруке за штампање..."
+msgstr "Преглед поруке за штампање…"
 
 #: PrintingCard
-#, fuzzy
 msgid "Printing card…"
-msgstr "Штампање визиткарте..."
+msgstr "Штампање визиткарте…"
 
 #: PrintPreviewCard
-#, fuzzy
 msgid "Print Previewing card…"
-msgstr "Преглед визиткарте за штампање..."
+msgstr "Преглед визиткарте за штампање…"
 
 #: PrintingAddrBook
-#, fuzzy
 msgid "Printing AddressBook…"
-msgstr "Штампање адресара..."
+msgstr "Штампање адресара…"
 
 #: PrintPreviewAddrBook
-#, fuzzy
 msgid "Print Previewing AddressBook…"
-msgstr "Преглед адресара за штампање..."
+msgstr "Преглед адресара за штампање…"
 
 #: PrintingComplete
 msgid "Done."
@@ -235,9 +221,8 @@ msgstr ""
 "непознате знаке. Молимо унесите неко друго име и пробајте поново."
 
 #: compactingFolder
-#, fuzzy
 msgid "Compacting folder %S…"
-msgstr "Сажимање директоријума %S..."
+msgstr "Сажимање директоријума %S…"
 
 #: doneCompacting
 msgid "Done compacting"
@@ -349,7 +334,6 @@ msgstr ""
 "„Датотека“ изаберите „Испразни смеће“ и пробајте поново."
 
 #: cantMoveMsgWOBodyOffline
-#, fuzzy
 msgid ""
 "While working offline, you cannot move or copy messages that were not "
 "downloaded for offline use. From the Mail window, open the File menu, choose "
@@ -416,29 +400,29 @@ msgstr "(Изворно)"
 #. # Used in message database list view to provide a text value for graphic based cells.
 #: messageUnread
 msgid "Unread"
-msgstr ""
+msgstr "Нрпрочитане"
 
 #: messageHasFlag
 msgctxt "messageHasFlag"
 msgid "Starred"
-msgstr ""
+msgstr "Са звездом"
 
 #: messageHasAttachment
 msgid "Has Attachment"
-msgstr ""
+msgstr "Са прилогом"
 
 #: messageJunk
 msgctxt "messageJunk"
 msgid "Junk"
-msgstr ""
+msgstr "Непожељне"
 
 #: messageExpanded
 msgid "Expanded"
-msgstr ""
+msgstr "Раширене"
 
 #: messageCollapsed
 msgid "Collapsed"
-msgstr ""
+msgstr "Скупљене"
 
 # Used in the SMTP Account Settings panel when a server value has no properties
 #. # Used in the SMTP Account Settings panel when a server value has no properties
@@ -449,28 +433,28 @@ msgstr "<није назначен>"
 #: smtpServer-SecureConnection-Type_0
 msgctxt "smtpServer-SecureConnection-Type_0"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: smtpServer-SecureConnection-Type_1
 msgid "STARTTLS, if available"
-msgstr ""
+msgstr "STARTTLS, ако је доступан"
 
 #: smtpServer-SecureConnection-Type_2
 msgid "STARTTLS"
-msgstr ""
+msgstr "STARTTLS"
 
 #: smtpServer-SecureConnection-Type_3
 msgid "SMTP-over-SSL"
-msgstr ""
+msgstr "SMTP-помоћу-SSL"
 
 #: smtpServer-SecureAuthentication-Type-false
 msgctxt "smtpServer-SecureAuthentication-Type-false"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: smtpServer-SecureAuthentication-Type-true
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: smtpServers-confirmServerDeletionTitle
 msgid "Delete Server"
@@ -533,16 +517,15 @@ msgstr ""
 
 # status feedback stuff
 #: documentLoading
-#, fuzzy
 msgid "Loading Message…"
-msgstr "Учитавање поруке..."
+msgstr "Учитавање поруке…"
 
 #. # LOCALIZATION NOTE (autosyncProgress): Do not translate the word "%1$S" or "%2$S" below.
 #. # Place the word %1$S in your translation where the name of the comma separated folders should appear.
 #. # Place the word %2$S in your translation where the name of the comma separated accounts should appear.
 #: autosyncProgress
 msgid "Synchronizing messages in %1$S from %2$S…"
-msgstr ""
+msgstr "Синхронизација порука у %1$S помоћу %2$S…"
 
 #: unreadMsgStatus
 msgid "Unread: %S"
@@ -550,7 +533,7 @@ msgstr "Непрочитано: %S"
 
 #: selectedMsgStatus
 msgid "Selected: %S"
-msgstr ""
+msgstr "Изабрано: %S"
 
 #: totalMsgStatus
 msgid "Total: %S"
@@ -586,12 +569,12 @@ msgstr "Обрасци"
 
 #: outboxFolderName
 msgid "Outbox"
-msgstr ""
+msgstr "Одлазно"
 
 #: junkFolderName
 msgctxt "junkFolderName"
 msgid "Junk"
-msgstr ""
+msgstr "Непожељно"
 
 # Error message for special folder deletion on imap accounts
 # LOCALIZATION NOTES (specialFolderDeletionErr): Do not translate "IMAP" in the line below
@@ -693,7 +676,7 @@ msgstr "Нема звездицу"
 #: groupFlagged
 msgctxt "groupFlagged"
 msgid "Starred"
-msgstr ""
+msgstr "Са звездом"
 
 # defaults descriptions for tag prefs listed in mailnews.js
 # (we keep the .labels. names for backwards compatibility)
@@ -780,23 +763,23 @@ msgstr "Отпад"
 #. # for junk score origin picker in search and mail views
 #: junkScoreOriginPlugin
 msgid "Plugin"
-msgstr ""
+msgstr "Прикључак"
 
 #: junkScoreOriginFilter
 msgid "Filter"
-msgstr ""
+msgstr "Филтер"
 
 #: junkScoreOriginWhitelist
 msgid "Whitelist"
-msgstr ""
+msgstr "Бела листа"
 
 #: junkScoreOriginUser
 msgid "User"
-msgstr ""
+msgstr "Корисник"
 
 #: junkScoreOriginImapFlag
 msgid "IMAP Flag"
-msgstr ""
+msgstr "Ознака за IMAP"
 
 # for the has attachment picker in search and mail views
 #. # for the has attachment picker in search and mail views
@@ -814,7 +797,7 @@ msgstr "Ознаке"
 #: mailnews.send_default_charset
 msgctxt "mailnews.send_default_charset"
 msgid "ISO-8859-1"
-msgstr ""
+msgstr "UTF-8"
 
 # mailnews.js
 # moved from navigator/locale/navigator.properties
@@ -831,7 +814,7 @@ msgstr "UTF-8"
 #: mail.addr_book.displayName.lastnamefirst
 msgctxt "mail.addr_book.displayName.lastnamefirst"
 msgid "false"
-msgstr ""
+msgstr "нетачно"
 
 # the format for "mail.addr_book.quicksearchquery.format" is:
 # @V == the escaped value typed in the quick search bar in the addressbook
@@ -919,12 +902,11 @@ msgstr ""
 #. # leading zeros for day and month values, not used if mailnews.search_date_format is not zero
 #: mailnews.search_date_leading_zeros
 msgid "true"
-msgstr ""
+msgstr "тачно"
 
 # offline msg
 #. # offline msg
 #: nocachedbodybody
-#, fuzzy
 msgid ""
 "The body of this message has not been downloaded from the server for reading "
 "offline. To read this message, you must reconnect to the network, choose "
@@ -989,18 +971,16 @@ msgid "O"
 msgstr "О"
 
 #: saveLabel
-#, fuzzy
 msgid "Save As…"
-msgstr "Сачувај као..."
+msgstr "Сачувај као…"
 
 #: saveLabelAccesskey
 msgid "A"
 msgstr "к"
 
 #: detachLabel
-#, fuzzy
 msgid "Detach…"
-msgstr "Откачи..."
+msgstr "Откачи…"
 
 #: detachLabelAccesskey
 msgid "D"
@@ -1075,7 +1055,7 @@ msgstr "Тема или Прималац садржи:"
 
 #: fromSearchCriteria
 msgid "Subject or From contains:"
-msgstr ""
+msgstr "Тема или пошиљалац садрже:"
 
 # LOCALIZATION NOTES(biffNotification): %1$S is the number of new messages
 #. # LOCALIZATION NOTE(biffNotification): %1$S is the number of new messages
@@ -1110,17 +1090,17 @@ msgstr "%S%% попуњено"
 #. # for quota in main window (commandglue.js)
 #: percent
 msgid "%S%%"
-msgstr ""
+msgstr "%S%%"
 
 #: quotaTooltip
 msgid "IMAP quota: %S KB used of %S KB total. Click for details."
-msgstr ""
+msgstr "Квота за IMAP: %S KB се користи, од укупно %S KB. Притисните за детаље."
 
 #. # for message views
 #: confirmViewDeleteTitle
 msgctxt "confirmViewDeleteTitle"
 msgid "Confirm"
-msgstr ""
+msgstr "Потврди"
 
 #: confirmViewDeleteMessage
 msgid "Are you sure you want to delete this view?"
@@ -1162,7 +1142,7 @@ msgstr "Потребна је лозинка за сервер за пошту"
 #: openWindowWarningTitle
 msgctxt "openWindowWarningTitle"
 msgid "Confirm"
-msgstr ""
+msgstr "Потврди"
 
 #: openWindowWarningText
 msgid "Opening %S messages may be slow.  Continue?"
@@ -1177,7 +1157,7 @@ msgstr "Ознака са тим именом већ постоји."
 #. # title of the edit tag dialog
 #: editTagTitle
 msgid "Edit Tag"
-msgstr ""
+msgstr "Уреди ознаку"
 
 # for the virtual folder list dialog title
 # %S is the name of the saved search folder
@@ -1213,17 +1193,17 @@ msgstr "%dMB"
 #. # Error message if message for a message id wasn't found
 #: errorOpenMessageForMessageIdTitle
 msgid "Error opening message-id"
-msgstr ""
+msgstr "Грешка при отварању поруке по идентификатору"
 
 #: errorOpenMessageForMessageIdMessage
 msgid "Message for message-id %S not found"
-msgstr ""
+msgstr "Порука за идентификатор %S није нађена"
 
 # Warnings to alert users about phishing urls
 #. # Warnings to alert users about phishing urls
 #: confirmPhishingTitle
 msgid "Email Scam Alert"
-msgstr "Можда је превара"
+msgstr "Ова порука делује сумњиво"
 
 #. #LOCALIZATION NOTE %1$S is the brand name, %2$S is the host name of the url being visited
 #: confirmPhishingUrl
@@ -1231,54 +1211,48 @@ msgid ""
 "%1$S thinks this message is a scam. The links in the message may be trying "
 "to impersonate web pages you want to visit. Are you sure you want to visit "
 "%2$S?"
-msgstr ""
+msgstr "Програм %1$S мисли да је ова порука превара.  Везе дате у поруци можда покушавају да имитирају веб странице које желите да посетите.  Да ли сигурно желите да посетите страну %2$S?"
 
 #. # Check for Updates
 #: updatesItem_default
 msgctxt "updatesItem_default"
 msgid "Check for Updates…"
-msgstr ""
+msgstr "Провера доградњи…"
 
 # Check for Updates
 #. # Check for Updates
 #: updatesItem_defaultFallback
 #: updatesItem_default
-#, fuzzy
 msgctxt "updatesItem_defaultFallback"
 msgid "Check for Updates…"
-msgstr "Провера доградњи..."
+msgstr "Провера доградњи…"
 
 #: updatesItem_downloading
-#, fuzzy
 msgid "Downloading %S…"
-msgstr "Пријем %S..."
+msgstr "Пријем %S…"
 
 #: updatesItem_downloadingFallback
-#, fuzzy
 msgid "Downloading Update…"
-msgstr "Пријем доградњи..."
+msgstr "Пријем доградњи…"
 
 #: updatesItem_resume
-#, fuzzy
 msgid "Resume Downloading %S…"
-msgstr "Наставак пријема: %S..."
+msgstr "Наставак пријема: %S…"
 
 #: updatesItem_resumeFallback
-#, fuzzy
 msgid "Resume Downloading Update…"
-msgstr "Наставак пријема доградње..."
+msgstr "Наставак пријема доградње…"
 
 #: updatesItem_pending
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
-msgstr ""
+msgstr "Примени одмах примљену доградњу…"
 
 #: updatesItem_pendingFallback
 #: updatesItem_pending
-#, fuzzy
 msgctxt "updatesItem_pendingFallback"
 msgid "Apply Downloaded Update Now…"
-msgstr "Примени одмах примљену доградњу..."
+msgstr "Примени одмах примљену доградњу…"
 
 # Folder Pane Header Title Strings
 #. # Folder Pane Header Title Strings
@@ -1316,7 +1290,7 @@ msgstr "Поново помери у „%1$S‟"
 #: moveToFolderAgainAccessKey
 msgctxt "moveToFolderAgainAccessKey"
 msgid "t"
-msgstr ""
+msgstr "t"
 
 #LOCALIZATION NOTE %1$S is the name of the folder we will copy to
 # copyToFolderAgainAccessKey
@@ -1340,29 +1314,29 @@ msgstr "П"
 #. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
 #: alwaysLoadRemoteContentForSender1
 msgid "Always load remote images from %1$S"
-msgstr ""
+msgstr "Увек учитавај удаљене слике ако шаље %1$S"
 
 #. # Strings for growl notifications on Mac OS X
 #: growlNotification
 msgid "New Mail"
-msgstr ""
+msgstr "Нова порука"
 
 #. # mailCommands.js
 #: emptyJunkTitle
 msgctxt "emptyJunkTitle"
 msgid "Confirm"
-msgstr ""
+msgstr "Потврди"
 
 #: emptyJunkMessage
 msgid ""
 "Are you sure you want to permanently delete all messages and subfolders in "
 "the Junk folder?"
-msgstr ""
+msgstr "Да ли сигурно желите да уклоните све поруке и поддиректоријуме из директоријума са непожељним порукама?"
 
 #: emptyJunkDontAsk
 msgctxt "emptyJunkDontAsk"
 msgid "Don't ask me again."
-msgstr ""
+msgstr "Не питај ме поново."
 
 # for message views
 # for checking if the user really wants to open lots of messages
@@ -1373,30 +1347,30 @@ msgstr ""
 #: openWindowWarningTitle
 msgctxt "emptyTrashTitle"
 msgid "Confirm"
-msgstr ""
+msgstr "Потврди"
 
 #: emptyTrashMessage
 msgid ""
 "Are you sure you want to permanently delete all messages and subfolders in "
 "the Trash folder?"
-msgstr ""
+msgstr "Да ли сигурно желите да уклоните све поруке и поддиректоријуме из директоријума канте за смеће?"
 
 #: emptyTrashDontAsk
 msgctxt "emptyTrashDontAsk"
 msgid "Don't ask me again."
-msgstr ""
+msgstr "Не питај ме поново."
 
 #. # junkCommands.js
 #: junkAnalysisPercentComplete
 msgid "Junk analysis %S complete"
-msgstr ""
+msgstr "Анализа непожељне поште: обављено %S"
 
 #: processingJunkMessages
 msgid "Processing Junk Messages"
-msgstr ""
+msgstr "Обрада непожељне поште"
 
 #. # second person direct object pronoun; used in the collapsed header view if
 #. # the user is in the To or Cc field of a message
 #: headerFieldYou
 msgid "You"
-msgstr ""
+msgstr "ви"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 17:43-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,22 +15,22 @@ msgstr ""
 
 #: searchIntegration.engineName
 msgid "Windows Search"
-msgstr ""
+msgstr "Виндовсова претрага"
 
 #: searchIntegration.title
 msgid "&searchIntegration.engineName; Integration"
-msgstr ""
+msgstr "Сарадња са претраживачем &searchIntegration.engineName;"
 
 #: searchIntegration.description
 msgid ""
 "Would you like to enable &searchIntegration.engineName; to index and search "
 "through &brandShortName; mail and news messages?"
-msgstr ""
+msgstr "Да ли желите да користите сарадњу са претраживачем &searchIntegration.engineName; за претрагу кроз пошту и поруке програма &brandShortName;?"
 
 #: searchIntegration.accept
 msgid "Enable &searchIntegration.engineName;"
-msgstr ""
+msgstr "Укључи сарадњу са програмом &searchIntegration.engineName;"
 
 #: searchIntegration.cancel
 msgid "Don't Enable &searchIntegration.engineName;"
-msgstr ""
+msgstr "Интеграција са "

@@ -1,3 +1,4 @@
+
 # Fonts
 # Language settings
 
@@ -17,19 +18,19 @@ msgstr "&Стил:"
 #: regularStyle.label
 msgctxt "regularStyle.label"
 msgid "Regular"
-msgstr ""
+msgstr "Обичан"
 
 #: bold.label
 msgid "Bold"
-msgstr "Подебљано"
+msgstr "Подебљан"
 
 #: italic.label
 msgid "Italic"
-msgstr "Искошено"
+msgstr "Искошен"
 
 #: boldItalic.label
 msgid "Bold Italic"
-msgstr "Подебљано и искошено"
+msgstr "Подебљан и искошен"
 
 #: size.label
 #: size.accesskey
@@ -40,7 +41,7 @@ msgstr "&Величина:"
 #: regularStyle.label
 msgctxt "regularSize.label"
 msgid "Regular"
-msgstr "Обично"
+msgstr "Обична"
 
 #: bigger.label
 msgid "Bigger"

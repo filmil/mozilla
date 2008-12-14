@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 18:02-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,12 +32,12 @@ msgstr "Избор прокси сервера за приступ Интерн�
 #: noProxyTypeRadio.label
 #: noProxyTypeRadio.accesskey
 msgid "No prox&y"
-msgstr ""
+msgstr "Без &посредника"
 
 #: systemTypeRadio.label
 #: systemTypeRadio.accesskey
 msgid "&Use system proxy settings"
-msgstr ""
+msgstr "&Користи системска подешавања посредника"
 
 #: WPADTypeRadio.label
 #: WPADTypeRadio.accesskey

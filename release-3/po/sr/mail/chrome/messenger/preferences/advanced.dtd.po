@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-08 22:51+0200\n"
+"PO-Revision-Date: 2008-12-13 18:00-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr "Опште"
 
 #: itemDisplay.label
 msgid "Reading &amp; Display"
-msgstr ""
+msgstr "Читање и приказ"
 
 #: itemUpdate.label
 msgid "Update"
@@ -27,17 +27,17 @@ msgstr "Освежи"
 
 #: itemNetworking.label
 msgid "Network &amp; Disk Space"
-msgstr ""
+msgstr "Мрежа и простор на диску"
 
 #: itemCertificates.label
 msgid "Certificates"
-msgstr ""
+msgstr "Сертификати"
 
 #. General Settings
 #: enableGloda.label
 #: enableGloda.accesskey
 msgid "Enable Message &Indexer"
-msgstr ""
+msgstr "Укључи &индексирање порука"
 
 # General Settings
 #: showCondensedAddresses.label
@@ -48,12 +48,12 @@ msgstr "Показуј само &наденуто име за особе из а
 #: autoMarkAsRead.label
 #: autoMarkAsRead.accesskey
 msgid "&Automatically mark messages as read"
-msgstr ""
+msgstr "&Аутоматски означи поруке као прочитане"
 
 #: markAsReadNoDelay.label
 #: markAsReadNoDelay.accesskey
 msgid "Imme&diately on display"
-msgstr ""
+msgstr "&Чим се прикажу"
 
 #. This will concatenate to
 #. "After displaying for [___] seconds",
@@ -61,7 +61,7 @@ msgstr ""
 #: markAsReadDelay.label
 #: markAsReadDelay.accesskey
 msgid "Aft&er displaying for"
-msgstr ""
+msgstr "Пошто буду &приказане"
 
 #: secondsLabel.label
 #: connectionSeconds.label
@@ -70,7 +70,7 @@ msgstr "s"
 
 #: openMsgIn.label
 msgid "Open messages in:"
-msgstr ""
+msgstr "Отвори поруке у:"
 
 #: reuseExpRadio0.label
 #: reuseExpRadio0.accesskey
@@ -83,7 +83,7 @@ msgstr "&новом прозору за поруку"
 #: reuseExpRadio1.label
 #: reuseExpRadio1.accesskey
 msgid "An e&xisting message window"
-msgstr "&постојећем прозору за поруку"
+msgstr "посто&јећем прозору за поруку"
 
 #: configEditDesc.label
 msgid "Advanced Configuration"
@@ -91,27 +91,26 @@ msgstr "Напредно подешавање"
 
 #: configEdit.label
 #: configEdit.accesskey
-#, fuzzy
 msgid "Confi&g Editor…"
-msgstr "Уређивач &подешавања..."
+msgstr "Уређивач &подешавања…"
 
 #: returnReceiptsInfo.label
 msgid "Determine how &brandShortName; handles return receipts"
-msgstr ""
+msgstr "Обрада повратница у програму &brandShortName;"
 
 #: showReturnReceipts.label
 #: showReturnReceipts.accesskey
 msgid "&Return Receipts…"
-msgstr ""
+msgstr "&Повратнице…"
 
 #. Display and Reading Settings
 #: reading.caption
 msgid "Reading"
-msgstr ""
+msgstr "Читање"
 
 #: display.caption
 msgid "Display"
-msgstr ""
+msgstr "Приказ"
 
 # Update
 #. Update
@@ -134,9 +133,8 @@ msgid "Ins&talled Add-ons"
 msgstr "Постављени &додаци"
 
 #: checkNow.label
-#, fuzzy
 msgid "Check Now…"
-msgstr "Провери одмах..."
+msgstr "Провери одмах…"
 
 #: whenUpdatesFound.label
 msgid "When updates to &brandShortName; are found,"
@@ -168,15 +166,15 @@ msgstr "Прикажи историјат &унапређења"
 #: showSettings.label
 #: showSettings.accesskey
 msgid "Setti&ngs…"
-msgstr ""
+msgstr "Поде&шавања…"
 
 #: proxiesConfigure.label
 msgid "Configure how &brandShortName; connects to the Internet"
-msgstr ""
+msgstr "Подешавање начина везе са Интернетом за &brandShortName;"
 
 #: connectionsInfo.caption
 msgid "Connection"
-msgstr ""
+msgstr "Веза"
 
 # Offline and Disk Space
 #: offlineInfo.caption
@@ -186,12 +184,12 @@ msgstr "Неповезан рад"
 
 #: offlineInfo.label
 msgid "Configure offline settings"
-msgstr ""
+msgstr "Подешавање неповезаног рада"
 
 #: showOffline.label
 #: showOffline.accesskey
 msgid "&Offline…"
-msgstr ""
+msgstr "&Неповезан рад…"
 
 #: Diskspace
 msgid "Disk Space"
@@ -213,34 +211,34 @@ msgstr "KB"
 #: useCacheBefore.label
 #: useCacheBefore.accesskey
 msgid "&Use up to"
-msgstr ""
+msgstr "&Користи до"
 
 #: useCacheAfter.label
 msgid "MB of space for the cache"
-msgstr ""
+msgstr "MB простора за кеш"
 
 #: clearCacheNow.label
 #: clearCacheNow.accesskey
 msgid "&Clear Now"
-msgstr ""
+msgstr "&Очисти сад"
 
 #. Certificates
 #: viewCertificates.label
 #: viewCertificates.accesskey
 msgid "View Certific&ates"
-msgstr ""
+msgstr "Преглед &сертификата"
 
 #: viewCRLs.label
 #: viewCRLs.accesskey
 msgid "R&evocation Lists"
-msgstr ""
+msgstr "Листа о&позива"
 
 #: validation.label
 #: validation.accesskey
 msgid "Vali&dation"
-msgstr ""
+msgstr "&Валидација"
 
 #: viewSecurityDevices.label
 #: viewSecurityDevices.accesskey
 msgid "Sec&urity Devices"
-msgstr ""
+msgstr "Бе&збедносни уређаји"

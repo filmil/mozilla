@@ -1,3 +1,4 @@
+
 # The format of the alert dialog itself
 #
 # # @name ALERT_FORMAT
@@ -31,7 +32,7 @@ msgstr "Грешка при покретању LDAPа"
 #: 1
 msgctxt "1"
 msgid "LDAP server connection failed"
-msgstr ""
+msgstr "Веза са сервером за ЛДАП није успела"
 
 # # @name ERR_STATE_INITIALIZING
 # # @loc none
@@ -140,7 +141,7 @@ msgid ""
 "Newsgroups, and then choose Addressing. Click Edit Directories, and select "
 "the LDAP server being used. Click Edit, and then click Advanced to display "
 "the Search Filter."
-msgstr ""
+msgstr "Проверите да је филтер за претрагу исправан и пробајте поново, или се обратите администратору система.  Да бисте утврдили да је филтер за претрагу исправан, изаберите „Поставке‟ из менија „Уређивање‟ затим „Пошта и групе‟ и најзад „Адресирање‟.  Притисните „Уреди директоријуме‟ и изаберите сервер за ЛДАП који треба да се користи.  Притисните „Напредно‟ да прикажете филтре за претрагу."
 
 # # @name NO_SUCH_OBJECT_HINT
 # # @loc none
@@ -165,7 +166,7 @@ msgstr ""
 #: 10051
 msgctxt "10051"
 msgid "Please try again later."
-msgstr ""
+msgstr "Молимо да покушате касније."
 
 #. ## @name SERVER_DOWN_HINT
 #. ## @loc none
@@ -178,7 +179,7 @@ msgid ""
 "Mail & Newsgroups, and then choose Addressing. Click Edit Directories, and "
 "select the LDAP server being used. Click Edit to display the Hostname. Click "
 "Advanced to display the Port Number."
-msgstr ""
+msgstr "Проверите да су име рачунара и порт исправно написани а онда пробајте поново или се обратите администратору система.  Да бисте проверили да су име рачунара и порт исправно написани, из менија „Уређивање‟ изабверите „Постасвке‟, затим „Пошта и групе‟ и онда „Адресирање‟.  Притисните „Уреди директоријуме‟ и изаберите сервер за ЛДАП који треба да се користи.  Притисните „Уреди‟ како бисте приказали име рачунара.  Притисните „Напредно‟ да бисте приказали број порта."
 
 # # @name BUSY_HINT
 # # @loc none

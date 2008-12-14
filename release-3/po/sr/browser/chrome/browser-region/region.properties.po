@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser-region/region.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-07-05 13:14+0200\n"
+"PO-Revision-Date: 2008-12-13 20:50-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +91,7 @@ msgstr ""
 #: gecko.handlerService.defaultHandlersVersion
 #, fuzzy
 msgid "2"
-msgstr "1"
+msgstr "3"
 
 # The default set of protocol handlers for webcal
 # (pofilter) unchanged: please translate
@@ -116,8 +117,8 @@ msgstr "http://compose.mail.yahoo.com/?To=%s"
 
 #: gecko.handlerService.schemes.mailto.1.name
 msgid "Gmail"
-msgstr ""
+msgstr "Gmail"
 
 #: gecko.handlerService.schemes.mailto.1.uriTemplate
 msgid "https://mail.google.com/mail/?extsrc=mailto&url=%s"
-msgstr ""
+msgstr "https://mail.google.com/mail/?extsrc=mailto&url=%s"

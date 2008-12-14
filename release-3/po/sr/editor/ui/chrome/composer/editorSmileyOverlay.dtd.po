@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/editor/ui/chrome/composer/editorSmileyOverlay.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2007-08-29 11:07-0500\n"
+"PO-Revision-Date: 2008-12-13 20:47-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +101,7 @@ msgstr "&Осмех"
 #: smiley1Cmd.tooltip
 msgctxt "smiley1Cmd.tooltip"
 msgid "Insert a smiley face"
-msgstr ""
+msgstr "Убаци смајлија"
 
 #: smiley2Cmd.label
 #: smiley2Cmd.accesskey

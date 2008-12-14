@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/search-attributes.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-13 18:33-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +51,6 @@ msgid "Cc"
 msgstr "Коп"
 
 #: 8
-#, fuzzy
 msgid "To or Cc"
 msgstr "Прима или коп"
 
@@ -75,9 +75,8 @@ msgid "Folder Info"
 msgstr "Подаци о директоријуму"
 
 #: 13
-#, fuzzy
 msgid "Size (KB)"
-msgstr "Величина"
+msgstr "Величина (KB)"
 
 #. # 14 not visible
 #: 14
@@ -161,52 +160,52 @@ msgstr "Одељење"
 #: 33
 msgctxt "33"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 34
 msgctxt "34"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 35
 msgctxt "35"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 36
 msgctxt "36"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 37
 msgctxt "37"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 38
 msgctxt "38"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 39
 msgctxt "39"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 40
 msgctxt "40"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 41
 msgctxt "41"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 42
 msgctxt "42"
 msgid "reserved for AB"
-msgstr ""
+msgstr "резервисано за AB"
 
 #: 43
 #: 33
@@ -238,9 +237,8 @@ msgstr "резервисано за AB"
 #: 42
 #: 43
 #: 45
-#, fuzzy
 msgid "Junk Score Origin"
-msgstr "резервисано за AB"
+msgstr "Отпадни скор"
 
 #: 45
 #: 33
@@ -255,9 +253,8 @@ msgstr "резервисано за AB"
 #: 42
 #: 43
 #: 44
-#, fuzzy
 msgid "Junk Percent"
-msgstr "резервисано за AB"
+msgstr "Проценат отпада"
 
 #: 46
 msgid "Attachment Status"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-18 01:24+0100\n"
+"PO-Revision-Date: 2008-12-13 17:53-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -89,12 +89,12 @@ msgstr "(НИЈЕДАН)"
 #: removeButtonSingle
 msgctxt "removeButtonSingle"
 msgid "Remove Action"
-msgstr ""
+msgstr "Уклони дејство"
 
 #: removeButtonMultiple
 msgctxt "removeButtonMultiple"
 msgid "Remove Actions"
-msgstr ""
+msgstr "Уклони дејства"
 
 #: removeTitleSingle
 #: removeButtonSingle
@@ -170,8 +170,8 @@ msgstr "Избор звука"
 #. #### Shell Service
 #: alreadyDefaultClientTitle
 msgid "Default Client"
-msgstr ""
+msgstr "Изворни клијент"
 
 #: alreadyDefault
 msgid "%S is already set as your default mail client."
-msgstr ""
+msgstr "„%S‟ је већ подешен као клијент за пошту."

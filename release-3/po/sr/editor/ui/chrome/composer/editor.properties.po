@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/editor/ui/chrome/composer/editor.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-29 02:38+0100\n"
+"PO-Revision-Date: 2008-12-13 20:47-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -149,7 +150,6 @@ msgid "before closing"
 msgstr "пре затварања"
 
 #: BeforePreview
-#, fuzzy
 msgid "before viewing in the browser"
 msgstr "пре прегледа у Навигатору"
 
@@ -161,7 +161,7 @@ msgstr "пре оверавања документа"
 #: SaveFilePrompt
 msgctxt "SaveFilePrompt"
 msgid "Save changes to \"%title%\" %reason%?"
-msgstr ""
+msgstr "Чување измена за „%title%‟ %reason%?"
 
 # LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
 #. # LOCALIZATION NOTE (SaveFilePrompt, PublishPrompt): Don't translate %title% and %reason% (this is the reason for asking user to close, such as "before closing")
@@ -407,31 +407,26 @@ msgid "Automatic"
 msgstr "Аутоматска"
 
 #: Style_1
-#, fuzzy
 msgid "1, 2, 3…"
-msgstr "1, 2, 3..."
+msgstr "1, 2, 3…"
 
 #: Style_I
-#, fuzzy
 msgid "I, II, III…"
-msgstr "I, II, III..."
+msgstr "I, II, III…"
 
 # (pofilter) unchanged: please translate
 #: Style_i
-#, fuzzy
 msgid "i, ii, iii…"
-msgstr "i, ii, iii..."
+msgstr "i, ii, iii…"
 
 #: Style_A
-#, fuzzy
 msgid "A, B, C…"
-msgstr "A, B, C..."
+msgstr "A, B, C…"
 
 # (pofilter) unchanged: please translate
 #: Style_a
-#, fuzzy
 msgid "a, b, c…"
-msgstr "a, b, c..."
+msgstr "a, b, c…"
 
 #: Pixels
 msgid "pixels"
@@ -625,9 +620,8 @@ msgid "\"%name%\" already exists. Please enter a different site name."
 msgstr "„%name%“ већ постоји. Унесите друго име за веб сајт."
 
 #: AdvancedProperties
-#, fuzzy
 msgid "Advanced Properties…"
-msgstr "Напредна својства..."
+msgstr "Напредна својства…"
 
 #: AdvancedEditForCellMsg
 msgid "Advanced Edit is unavailable when multiple cells are selected"
@@ -636,9 +630,8 @@ msgstr "Напредно уређивање није доступно када �
 # LOCALIZATION NOTE (ObjectProperties):Don't translate "%obj%" it will be replaced with one of above object nouns
 #. # LOCALIZATION NOTE (ObjectProperties):Don't translate "%obj%" it will be replaced with one of above object nouns
 #: ObjectProperties
-#, fuzzy
 msgid "%obj% Properties…"
-msgstr "Својства %obj%..."
+msgstr "Својства %obj%…"
 
 # LOCALIZATION NOTE This character must be in the above string and not confict with other accesskeys in Format menu
 #. # LOCALIZATION NOTE This character must be in the above string and not confict with other accesskeys in Format menu
@@ -669,17 +662,17 @@ msgstr "j"
 #. # LOCALIZATION NOTE (TableSelectKey): Ctrl key on a keyboard
 #: TableSelectKey
 msgid "Ctrl+"
-msgstr ""
+msgstr "Ctrl+"
 
 #. # LOCALIZATION NOTE (XulKeyMac): Command key on a Mac keyboard
 #: XulKeyMac
 msgid "Cmd+"
-msgstr ""
+msgstr "Cmd+"
 
 #. # LOCALIZATION NOTE (Del): Del key on a keyboard
 #: Del
 msgid "Del"
-msgstr ""
+msgstr "Del"
 
 # LOCALIZATION NOTE (TableSelectKey): DONT_TRANSLATE
 # LOCALIZATION NOTE (XulKeyDefault): DONT_TRANSLATE
