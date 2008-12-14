@@ -84,15 +84,15 @@ $(OUTPUT_DIR):
 
 # Pushes the changes out to the HG repository but does not commit
 copy_to_hg: $(OUTPUT_DIR)
-	$(CP) -r --exclude='*~' --delete  \
+	$(CP) -r -f 'Pp .hg' --exclude='*~' --delete  \
 		$(OUTPUT_DIR_FINAL)/ $(MOZILLA_CVS)/$(LOCALE_NAME)/
 
 commit: clean normalize_convert_codepage copy_to_hg
 	( test -f $(COMMIT_MESSAGE_FILE) \
                || ( echo "No $(COMMIT_MESSAGE_FILE)" ; exit 1) ; \
 	MSG=`cat $(COMMIT_MESSAGE_FILE)` ; \
-	$(CD) $(MOZILLA_CVS)/sr ; \
-        $(CVS) commit -m "$$MSG" )
+	( $(CD) $(MOZILLA_CVS)/sr ; \
+        $(CVS) commit -m "$$MSG" ) )
 	$(RM) $(COMMIT_MESSAGE_FILE)
 
 # Clean the directory with the POT templates
