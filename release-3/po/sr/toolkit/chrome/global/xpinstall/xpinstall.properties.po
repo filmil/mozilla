@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-18 01:33+0100\n"
+"PO-Revision-Date: 2008-12-14 02:02-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -200,18 +200,16 @@ msgid "Queued"
 msgstr "На чекању"
 
 #: progress.downloading
-#, fuzzy
 msgid "Downloading…"
-msgstr "Преузимам..."
+msgstr "Преузимам…"
 
 #: progress.downloaded
 msgid "Downloaded"
 msgstr "Преузето"
 
 #: progress.installing
-#, fuzzy
 msgid "Installing…"
-msgstr "Постављам..."
+msgstr "Постављам…"
 
 #: Unsigned
 msgid "Unsigned"
@@ -313,7 +311,7 @@ msgstr "Постављање није завршено"
 
 #: error-244
 msgid "Unsupported package"
-msgstr ""
+msgstr "Пакет није подржан"
 
 #: error-260
 msgid "Signing could not be verified."

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 01:59-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,18 +34,17 @@ msgstr "Оријентација:"
 #: portrait.label
 #: portrait.accesskey
 msgid "&Portrait"
-msgstr ""
+msgstr "&Усправно"
 
 #: landscape.label
 #: landscape.accesskey
 msgid "&Landscape"
-msgstr ""
+msgstr "&Водоравно"
 
 #: scale.label
 #: scale.accesskey
-#, fuzzy
 msgid "&Scale:"
-msgstr "Размера:"
+msgstr "&Размера:"
 
 #: scalePercent
 msgid "&#037;"
@@ -53,9 +52,8 @@ msgstr "&#037;"
 
 #: shrinkToFit.label
 #: shrinkToFit.accesskey
-#, fuzzy
 msgid "Shrink to fit Page &Width"
-msgstr "Уклопи на страну"
+msgstr "&Уклопи на страну"
 
 #: optionsGroup.label
 msgid "Options"
@@ -63,9 +61,8 @@ msgstr "Опције"
 
 #: printBG.label
 #: printBG.accesskey
-#, fuzzy
 msgid "Print &Background (colors &amp; images)"
-msgstr "Штампа позадине (боје и слика)"
+msgstr "Штампа &позадине (боје и слика)"
 
 #: advanced.tab
 msgid "Margins &amp; Header/Footer"
@@ -85,29 +82,25 @@ msgstr "милиметара"
 
 #: marginTop.label
 #: marginTop.accesskey
-#, fuzzy
 msgid "&Top:"
-msgstr "Горња:"
+msgstr "&Горња:"
 
 #: marginBottom.label
 #: marginBottom.accesskey
-#, fuzzy
 msgid "&Bottom:"
-msgstr "Доња:"
+msgstr "&Доња:"
 
 #: marginLeft.label
 #: marginLeft.accesskey
 #: hfLeft.label
-#, fuzzy
 msgid "&Left:"
-msgstr "Лево:"
+msgstr "&Лева:"
 
 #: marginRight.label
 #: marginRight.accesskey
 #: hfRight.label
-#, fuzzy
 msgid "&Right:"
-msgstr "Десно:"
+msgstr "Де&сна:"
 
 #: headerFooter.label
 msgid "Headers &amp; Footers"
@@ -178,7 +171,7 @@ msgstr "--празно--"
 #: hfCustom
 msgctxt "hfCustom"
 msgid "Custom…"
-msgstr ""
+msgstr "Произвољно…"
 
 #: customPrompt.title
 #: hfCustom

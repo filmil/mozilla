@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/profile/createProfileWizard.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 02:37-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +63,7 @@ msgstr ""
 #: profileCreationExplanation_4.text
 msgctxt "profileCreationExplanation_4.text"
 msgid "To begin creating your profile, click Next."
-msgstr ""
+msgstr "Притисните „Даље‟ како бисте направили свој профил."
 
 #: profileCreationExplanation_4Mac.text
 msgid "To begin creating your profile, click Continue."

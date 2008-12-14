@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/plugins/plugins.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 02:36-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -85,8 +86,8 @@ msgstr "Притисните овде да преузмете прикључак
 msgid ""
 "The plugin for this content has been disabled. Click here to manage your "
 "plugins."
-msgstr ""
+msgstr "Прикључак за овај садржај је искључен.  Притисните овде да подесите прикључке."
 
 #: blockedPlugin.label
 msgid "This plugin has been blocked for your protection."
-msgstr ""
+msgstr "Овај прикључак је блокиран ради Ваше безбедности."

@@ -1,3 +1,4 @@
+
 #
 # # ***** BEGIN LICENSE BLOCK *****
 # # Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -138,7 +139,7 @@ msgstr "&Умножи"
 #: selectall.key
 msgctxt "selectall.key"
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: selectall.label
 #: selectall.accesskey
@@ -148,7 +149,7 @@ msgstr "Изабери &све"
 #: closeWindow.key
 msgctxt "closeWindow.key"
 msgid "w"
-msgstr ""
+msgstr "w"
 
 #: generalTab
 msgid "General"
@@ -200,11 +201,11 @@ msgstr "Садржај"
 
 #: generalSecurityDetails
 msgid "Details"
-msgstr ""
+msgstr "Детаљи"
 
 #: generalSecurityDetails.accesskey
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #: mediaTab
 msgid "Media"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 01:57-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 #: printButton.label
 msgctxt "printButton.label"
 msgid "Print"
-msgstr ""
+msgstr "Штампај"
 
 # extracted from printdialog.xul
 #. extracted from printdialog.xul
@@ -33,15 +33,13 @@ msgstr "Сачувај датотеку"
 
 #: fileCheck.label
 #: fileCheck.accesskey
-#, fuzzy
 msgid "Print to &File"
-msgstr "Штампај у датотеку"
+msgstr "Штампај у &датотеку"
 
 #: propertiesButton.label
 #: propertiesButton.accesskey
-#, fuzzy
 msgid "Pr&operties…"
-msgstr "Својства…"
+msgstr "С&војства…"
 
 #: descText.label
 msgid "Printer Description:"
@@ -53,9 +51,8 @@ msgstr "Штампач"
 
 #: printerInput.label
 #: printerInput.accesskey
-#, fuzzy
 msgid "Printer &Name:"
-msgstr "Име штампача:"
+msgstr "&Име штампача:"
 
 #: printrangeGroup.label
 msgid "Print Range"
@@ -63,33 +60,28 @@ msgstr "Опсег штампе"
 
 #: allpagesRadio.label
 #: allpagesRadio.accesskey
-#, fuzzy
 msgid "&All Pages"
-msgstr "Све стране"
+msgstr "&Све стране"
 
 #: rangeRadio.label
 #: rangeRadio.accesskey
-#, fuzzy
 msgid "&Pages"
-msgstr "Стране"
+msgstr "С&тране"
 
 #: frompageInput.label
 #: frompageInput.accesskey
-#, fuzzy
 msgid "f&rom"
-msgstr "од"
+msgstr "&од"
 
 #: topageInput.label
 #: topageInput.accesskey
-#, fuzzy
 msgid "&to"
-msgstr "до"
+msgstr "&до"
 
 #: selectionRadio.label
 #: selectionRadio.accesskey
-#, fuzzy
 msgid "&Selection"
-msgstr "Изабрани део"
+msgstr "&Изабрани део"
 
 #: copies.label
 msgid "Copies"
@@ -97,9 +89,8 @@ msgstr "Копије"
 
 #: numCopies.label
 #: numCopies.accesskey
-#, fuzzy
 msgid "Number of &copies:"
-msgstr "Број копија:"
+msgstr "&Број копија:"
 
 #: printframeGroup.label
 msgid "Print Frames"
@@ -107,18 +98,16 @@ msgstr "Штампање оквира"
 
 #: aslaidoutRadio.label
 #: aslaidoutRadio.accesskey
-#, fuzzy
 msgid "As laid o&ut on the screen"
-msgstr "Као на екрану"
+msgstr "Као на &екрану"
 
 #: selectedframeRadio.label
 #: selectedframeRadio.accesskey
 #, fuzzy
 msgid "The selected fra&me"
-msgstr "Само изабран оквир"
+msgstr "Само изабрани о&квир"
 
 #: eachframesepRadio.label
 #: eachframesepRadio.accesskey
-#, fuzzy
 msgid "&Each frame separately"
-msgstr "Сваки оквир за себе"
+msgstr "Сваки оквир &засебно"

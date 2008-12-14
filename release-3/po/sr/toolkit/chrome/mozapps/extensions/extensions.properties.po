@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/extensions/extensions.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-08-30 13:50+0200\n"
+"PO-Revision-Date: 2008-12-14 02:26-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +17,7 @@ msgstr ""
 #: aboutWindowTitle
 msgctxt "aboutWindowTitle"
 msgid "About %S"
-msgstr ""
+msgstr "О додатку %S"
 
 #: aboutWindowCloseButton
 msgid "Close"
@@ -43,7 +44,7 @@ msgstr "Примењена је доградња за усаглашавање."
 #: updateNoUpdateMsg
 msgctxt "updateNoUpdateMsg"
 msgid "No updates were found."
-msgstr ""
+msgstr "Доградње нису нађене"
 
 #: updateErrorMessage
 msgid "An error occurred while trying to find updates for %S."
@@ -153,12 +154,12 @@ msgstr "Да ли сигурно желите да откажете инстал
 #: cancelInstallButton
 msgctxt "cancelInstallButton"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: cancelCancelInstallButton
 msgctxt "cancelCancelInstallButton"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: cancelUpgradeTitle
 msgid "Cancel Upgrade of %S"
@@ -276,31 +277,31 @@ msgstr ""
 
 #: blocklistedInstallTitle2
 msgid "This add-on is dangerous to use"
-msgstr ""
+msgstr "Овај додатак није безбедно користити"
 
 #: blocklistedInstallMsg2
 msgid ""
 "The add-on %S has a high risk of causing stability or security problems and "
 "can't be installed."
-msgstr ""
+msgstr "Додатак %S има велику шансу да изазове проблеме са безбедношћу и стабилношћу па га није могуће инсталирати."
 
 #: softBlockedInstallTitle
 msgid "This add-on may be dangerous to use"
-msgstr ""
+msgstr "Овај додатак је можда опасно користити"
 
 #: softBlockedInstallMsg
 msgid ""
 "The add-on %S may cause stability or security problems. It is highly "
 "recommended that you do not install it."
-msgstr ""
+msgstr "Додатак %S можда узрокује проблеме са стабилношћу или безбедношћу.  Препоручујемо Вам да га не инсталирате."
 
 #: softBlockedInstallAcceptLabel
 msgid "Install Anyway"
-msgstr ""
+msgstr "Свејдно инсталирај"
 
 #: softBlockedInstallAcceptKey
 msgid "I"
-msgstr ""
+msgstr "С"
 
 #: missingFileTitle
 msgid "Missing File"

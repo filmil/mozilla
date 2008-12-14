@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 02:00-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "Програми"
 #: dirTextInputLabel
 msgctxt "dirTextInputLabel"
 msgid "Directory name:"
-msgstr ""
+msgstr "Име директоријума:"
 
 #: dirTextInputAccesskey
 msgid "n"
@@ -117,7 +117,7 @@ msgstr "Чувај као:"
 #: errorOpenFileDoesntExistTitle
 msgctxt "errorOpenFileDoesntExistTitle"
 msgid "Error opening %S"
-msgstr ""
+msgstr "Грешка при отварању: %S"
 
 #: errorOpenFileDoesntExistMessage
 msgid "File %S doesn't exist"
@@ -164,7 +164,7 @@ msgstr "Не могу да направим датотеку. Директори
 #: errorNewDirDoesExistTitle
 msgctxt "errorNewDirDoesExistTitle"
 msgid "Error creating %S"
-msgstr ""
+msgstr "Грешка при прављењу: %S"
 
 #: errorNewDirDoesExistMessage
 msgid "A file named %S already exists, directory cannot be created."

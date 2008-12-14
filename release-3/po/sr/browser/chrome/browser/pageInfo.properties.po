@@ -1,3 +1,4 @@
+
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #. #
@@ -42,7 +43,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 00:49-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +115,7 @@ msgstr "%S KB"
 #: mediaSize
 msgctxt "mediaSize"
 msgid "%Spx × %Spx"
-msgstr ""
+msgstr "%Sт. × %Sт."
 
 #: mediaSelectFolder
 msgid "Select a Folder to Save the Images"

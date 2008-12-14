@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/preferences/connection.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-16 19:57+0200\n"
+"PO-Revision-Date: 2008-12-14 00:39-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -75,13 +76,11 @@ msgstr "Пос&редник за гофер (Gopher):"
 
 #: http.label
 #: http.accesskey
-#, fuzzy
 msgid "HTTP Pro&xy:"
 msgstr "Посредник за &ХТТП:"
 
 #: ssl.label
 #: ssl.accesskey
-#, fuzzy
 msgid "SS&L Proxy:"
 msgstr "Посредник за &ССЛ:"
 
@@ -139,6 +138,5 @@ msgstr "Пример: .mozilla.org, .net.nz, , 192.168.1.0/24"
 
 #: shareproxy.label
 #: shareproxy.accesskey
-#, fuzzy
 msgid "U&se this proxy server for all protocols"
 msgstr "&Користи истог посредника за све протоколе"

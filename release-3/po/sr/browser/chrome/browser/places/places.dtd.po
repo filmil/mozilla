@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/places.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-04 20:05+0200\n"
+"PO-Revision-Date: 2008-12-14 00:47-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +45,7 @@ msgstr "&Среди"
 #: file.accesskey
 msgctxt "file.accesskey"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: file.close.label
 #: file.close.accesskey
@@ -207,12 +208,12 @@ msgstr "y"
 #: cmd.delete.label
 #: cmd.delete.accesskey
 msgid "&Delete This Page"
-msgstr ""
+msgstr "&Уклони ову страну"
 
 #: cmd.deleteDomainData.label
 #: cmd.deleteDomainData.accesskey
 msgid "&Forget About This Site"
-msgstr ""
+msgstr "&Заборави овај сајт"
 
 #: cmd.open.label
 #: cmd.open.accesskey
@@ -329,7 +330,7 @@ msgstr "Ознаке"
 #: col.url.label
 msgctxt "col.url.label"
 msgid "Location"
-msgstr ""
+msgstr "Место"
 
 #: col.lastvisit.label
 msgid "Visit Date"
@@ -369,7 +370,7 @@ msgstr "По &тренутној збирци"
 #: search.allBookmarks.accesskey
 msgctxt "search.allBookmarks.label search.allBookmarks.accesskey"
 msgid "&All Bookmarks"
-msgstr ""
+msgstr "&Све забелешке"
 
 #: search.scopeFolder.label
 #: search.scopeFolder.accesskey
@@ -423,7 +424,7 @@ msgstr "&Сачувај"
 #: moreCriteria.label
 msgctxt "moreCriteria.label"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: advancedSearch.onlybookmarked.label
 msgid "Search Bookmarks only"

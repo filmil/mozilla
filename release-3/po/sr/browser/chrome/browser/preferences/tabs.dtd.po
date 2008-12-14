@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/preferences/tabs.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-29 02:57+0100\n"
+"PO-Revision-Date: 2008-12-14 00:43-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +17,7 @@ msgstr ""
 #: newWindowsAsTabs.label
 #: newWindowsAsTabs.accesskey
 msgid "Open new windows in a new &tab instead"
-msgstr ""
+msgstr "Отвори нове прозоре у новом &језичку"
 
 #: warnCloseMultipleTabs.label
 #: warnCloseMultipleTabs.accesskey

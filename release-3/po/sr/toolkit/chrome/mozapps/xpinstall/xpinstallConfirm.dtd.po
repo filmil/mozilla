@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/xpinstall/xpinstallConfirm.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 02:37-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +27,7 @@ msgstr "width: 45em"
 
 #: warningPrimary.label
 msgid "Install add-ons only from authors whom you trust."
-msgstr ""
+msgstr "Инсталирајте само додатке од аутора којима верујете."
 
 #: warningSecondary.label
 msgid "Malicious software can damage your computer or violate your privacy."
@@ -36,4 +37,4 @@ msgstr ""
 
 #: from.label
 msgid "from:"
-msgstr "од:"
+msgstr "аутор:"

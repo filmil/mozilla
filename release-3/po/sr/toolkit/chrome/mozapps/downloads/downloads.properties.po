@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-07 22:32+0200\n"
+"PO-Revision-Date: 2008-12-14 02:14-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr ""
 #: quitCancelDownloadsAlertTitle
 msgctxt "quitCancelDownloadsAlertTitle"
 msgid "Cancel All Downloads?"
-msgstr ""
+msgstr "Да ли желите да откажете све пријеме?"
 
 #: quitCancelDownloadsAlertMsg
 msgid ""
@@ -114,7 +114,7 @@ msgstr ""
 #: offlineCancelDownloadsAlertTitle
 msgctxt "offlineCancelDownloadsAlertTitle"
 msgid "Cancel All Downloads?"
-msgstr ""
+msgstr "Отказивање свих пријема?"
 
 #: offlineCancelDownloadsAlertMsg
 msgid ""
@@ -135,19 +135,19 @@ msgstr ""
 #: enterPrivateBrowsingCancelDownloadsAlertTitle
 msgctxt "enterPrivateBrowsingCancelDownloadsAlertTitle"
 msgid "Cancel All Downloads?"
-msgstr ""
+msgstr "Отказивање свих пријема?"
 
 #: enterPrivateBrowsingCancelDownloadsAlertMsg
 msgid ""
 "If you enter the Private Browsing mode now, 1 download will be canceled. Are "
 "you sure you want to enter the Private Browsing mode?"
-msgstr ""
+msgstr "Ако сада уђете у поверљиви начин рада, 1 пријем ће бити отказан.  Да ли сигурно желите да укључите поверљиви начин рада?"
 
 #: enterPrivateBrowsingCancelDownloadsAlertMsgMultiple
 msgid ""
 "If you enter the Private Browsing mode now, %S downloads will be canceled. "
 "Are you sure you want to enter the Private Browsing mode?"
-msgstr ""
+msgstr "Ако сада уђете у поверљиви начин рада, биће отказано више пријема (%S).  Да ли сигурно желите да укључите поверљиви начин рада?"
 
 #: leavePrivateBrowsingCancelDownloadsAlertTitle
 #: quitCancelDownloadsAlertTitle
@@ -160,13 +160,13 @@ msgstr "Прекид свих пријема?"
 msgid ""
 "If you leave the Private Browsing mode now, 1 download will be canceled. Are "
 "you sure you want to leave the Private Browsing mode?"
-msgstr ""
+msgstr "Ако сада напустите поверљиви начин рада, 1 пријем ће бити отказан.  Да ли сигурно желите да искључите поверљиви начин рада?"
 
 #: leavePrivateBrowsingCancelDownloadsAlertMsgMultiple
 msgid ""
 "If you leave the Private Browsing mode now, %S downloads will be canceled. "
 "Are you sure you want to leave the Private Browsing mode?"
-msgstr ""
+msgstr "Ако сада напустите поверљиви начин рада, више пријема ће бити отказано (%S).  Да ли сигурно желите да искључите поверљиви начин рада?"
 
 #: cancelDownloadsOKText
 msgid "Cancel 1 Download"
@@ -190,11 +190,11 @@ msgstr "Остани на вези"
 
 #: dontEnterPrivateBrowsingButton
 msgid "Don't Enter the Private Browsing Mode"
-msgstr ""
+msgstr "Не укључуј поверљиви начин рада"
 
 #: dontLeavePrivateBrowsingButton
 msgid "Stay in Private Browsing Mode"
-msgstr ""
+msgstr "Остани у поверљивом начину рада"
 
 #: downloadsCompleteTitle
 msgid "Downloads Complete"

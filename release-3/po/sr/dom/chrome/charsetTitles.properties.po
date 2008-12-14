@@ -1,3 +1,4 @@
+
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #. #
@@ -39,7 +40,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 01:48-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -213,28 +214,24 @@ msgid "Unicode (UTF-16)"
 msgstr "уникод (UTF-16)"
 
 #: utf-16le.title
-#, fuzzy
 msgid "Unicode (UTF-16LE)"
-msgstr "уникод (UTF-16 Little Endian)"
+msgstr "уникод (UTF-16 мале крајности)"
 
 #: utf-16be.title
-#, fuzzy
 msgid "Unicode (UTF-16BE)"
-msgstr "уникод (UTF-16 Big Endian)"
+msgstr "уникод (UTF-16 велике крајности)"
 
 #: utf-32.title
 msgid "Unicode (UTF-32)"
-msgstr ""
+msgstr "уникод (UTF-32)"
 
 #: utf-32le.title
-#, fuzzy
 msgid "Unicode (UTF-32LE)"
-msgstr "уникод (UTF-32 Little Endian)"
+msgstr "уникод (UTF-32 мале крајности)"
 
 #: utf-32be.title
-#, fuzzy
 msgid "Unicode (UTF-32BE)"
-msgstr "уникод (UTF-32 Big Endian)"
+msgstr "уникод (UTF-32 велике крајности)"
 
 #: iso-8859-5.title
 msgid "Cyrillic (ISO-8859-5)"

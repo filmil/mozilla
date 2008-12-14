@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/update/updates.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 02:23-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,110 +16,116 @@ msgstr ""
 
 #: updateWizard.title
 msgid "Software Update"
-msgstr ""
+msgstr "Доградња програма"
 
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
 msgid "36em"
-msgstr ""
+msgstr "36em"
 
 #: window.macWidth
 msgid "39em"
-msgstr ""
+msgstr "39em"
 
 #: checking.title
 msgid "Checking for Updates"
-msgstr ""
+msgstr "Провера доградњи"
 
 #: updateCheck.label
 msgid "Looking for newer versions of &brandShortName;…"
-msgstr ""
+msgstr "Тражимо ново издање програма &brandShortName;…"
 
 #: noupdatesfound.title
 msgid "No Updates Found"
-msgstr ""
+msgstr "Доградње нису пронађене"
 
 #: noupdatesautoenabled.intro
 msgid ""
 "There are no updates available. &brandShortName; will check \n"
 "periodically for updates."
-msgstr ""
+msgstr "Нема нових доградњи.  &brandShorName; ће периодични проверавати доградње."
 
 #: noupdatesautodisabled.intro
 msgid ""
 "There are no updates available. Please check again later or enable \n"
 "&brandShortName;'s automatic update checking."
 msgstr ""
+"Нема нових доградњи.  Молимо да проверите касније или да укључите \n"
+"аутоматску проверу у програму &brandShortName;."
 
 #: incompatibleCheck.title
 msgid "Checking Add-on Compatibility"
-msgstr ""
+msgstr "Провера сагласности додатака"
 
 #: incompatibleCheck.label
 msgid "Looking for newer versions of your add-ons…"
-msgstr ""
+msgstr "Тражење нових издања додатака…"
 
 #: clickHere.label
 msgid "View more information about this update"
-msgstr ""
+msgstr "Погледајте више података о овој доградњи"
 
 #: evangelism.desc
 msgid ""
 "It is strongly recommended that you apply this \n"
 "update for &brandShortName; as soon as possible."
 msgstr ""
+"Препоручује се да примените ову доградњу за\n"
+"&brandShortName; што је пре могуће."
 
 #: license.instructions
 msgid ""
 "If you agree to the terms of this agreement, click I Agree \n"
 "below to continue installing this update."
 msgstr ""
+"Ако сте сагласни са условима овог споразума, притисните „Саглашавам се‟\n"
+"испод како бисте инсталирали ову доградњу."
 
 #: license.titleText
 msgid "Software License Agreement"
-msgstr ""
+msgstr "Споразум о лиценцирању"
 
 #: license.introText
 msgid "Terms and conditions for using this software."
-msgstr ""
+msgstr "Одредбе и услови за употребу овог програма."
 
 #: license.instructionText
 msgid ""
 "Please read the following license agreement. Use the scroll bar to view the "
 "rest of this agreement."
-msgstr ""
+msgstr "Молимо да прочитате наредни споразум о лиценцирању.  Користите траку за померање како бисте видели остатак споразума."
 
 #: license.accept
 msgid "I accept the terms of the License Agreement"
-msgstr ""
+msgstr "Прихватам услове споразума"
 
 #: license.accept.accesskey
 msgid "c"
-msgstr ""
+msgstr "П"
 
 #: license.decline
 msgid "I do NOT accept the terms of the License Agreement"
-msgstr ""
+msgstr "Не прихватам услове споразума"
 
 #: license.decline.accesskey
 msgid "T"
-msgstr ""
+msgstr "Н"
 
 #: incompatibleList.title
 msgid "Incompatible Add-ons Found"
-msgstr ""
+msgstr "Пронађени су несагласни додаци"
 
 #: downloading.title
 msgid "Downloading Update"
-msgstr ""
+msgstr "Пријем доградње"
 
 #: downloading.intro
 msgid "Downloading the update…"
-msgstr ""
+msgstr "Пријем доградње је у току…"
 
 #: connecting.label
 msgid "Connecting to the update server…"
-msgstr ""
+msgstr "Повезивање са сервером за дограду…"
 
 #: verificationFailedText.label
 msgid ""
@@ -126,58 +133,68 @@ msgid ""
 "incremental update it downloaded, so it is now downloading \n"
 "the complete update package."
 msgstr ""
+"Програм &brandShortName; није могао да утврди интегритет\n"
+"доградње коју је примио, тако да сада прима цео пакет."
 
 #: viewDetails.tooltip
 msgid "View details for this update"
-msgstr ""
+msgstr "Прегледај детаље ове доградње"
 
 #: details.link
 msgctxt "details.link"
 msgid "Details"
-msgstr ""
+msgstr "Детаљи"
 
 #: error.label
 msgid ""
 "There were problems checking for, downloading, or installing this \n"
 "update. &brandShortName; could not be updated because:"
 msgstr ""
+"Дошло је до проблема при тражењи, пријему или иснталацији ове доградње.\n"
+"Програм &brandShortName; није дограђен из наредних разлога:"
 
 #: errorManual.label
 msgid ""
 "You can update &brandShortName; manually by visiting this link \n"
 "and downloading the latest version:"
 msgstr ""
+"Програм &brandShortName; можете да доградите ручно, посећивањем ове\n"
+"везе и пријемом најновијег издања:"
 
 #: errorpatching.title
 msgid "Update Failed"
-msgstr ""
+msgstr "Доградња није успела"
 
 #: errorpatching.intro
 msgid ""
 "The partial Update could not be applied. \n"
 "&brandShortName; will try again by downloading a complete Update."
 msgstr ""
+"Делимична доградња није могла да се доврши.\n"
+"Програм &brandShortName; ће поново да покуша пријем целе доградње."
 
 #: finishedPage.title
 msgid "Update Ready to Install"
-msgstr ""
+msgstr "Доградња је спремна за инсталацију"
 
 #: finishedPage.text
 msgctxt "finishedPage.text"
 msgid ""
 "The update will be installed the next time &brandShortName; starts. You \n"
 "can restart &brandShortName; now, or continue working and restart later."
-msgstr ""
+msgstr "Доградња ће бити инсталирана при наредном покретању програма &brandShortName;. Можете одмах да поново покренете програм &brandShortName; или да наставите рад и то урадите касније."
 
 #: finishedBackgroundPage.text
 msgid ""
 "A security and stability update for &brandShortName; has been \n"
 "downloaded and is ready to be installed."
 msgstr ""
+"Доградња за безбедност и стабилност за  &brandShortName; је примљена\n"
+"и спремна је за инсталацију."
 
 #: finishedBackground.name
 msgid "Update:"
-msgstr ""
+msgstr "Доградња:"
 
 #. This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties.
 #: finishedBackground.more
@@ -186,28 +203,30 @@ msgid ""
 "The update will be installed the next time &brandShortName; starts. You \n"
 "can restart &brandShortName; now, or continue working and restart later."
 msgstr ""
+"Доградња ће бити инсталирана при наредном покретању програма &brandShortName; starts. Можете\n"
+"да одмах поново покренете &brandShortName; или да наставите са радом и то урадите касније."
 
 #: installed.title
 msgid "Update Installed"
-msgstr ""
+msgstr "Доградња је инсталирана"
 
 #: installed.intro
 msgid "The update was successfully installed."
-msgstr ""
+msgstr "Доградња је успешно инсталирана."
 
 #: whatsnew.label
 msgid "Read more about what's new…"
-msgstr ""
+msgstr "Сазнајте више о новостима…"
 
 #: update.details.label
 msgctxt "update.details.label"
 msgid "Details"
-msgstr ""
+msgstr "Детаљи"
 
 #: update.installedOn.label
 msgid "Installed on:"
-msgstr ""
+msgstr "Инсталација:"
 
 #: update.status.label
 msgid "Status:"
-msgstr ""
+msgstr "Статус:"

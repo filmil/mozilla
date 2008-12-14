@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 01:20-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -50,41 +50,41 @@ msgstr ""
 #. - ***** END LICENSE BLOCK *****
 #: window.title
 msgid "About ChatZilla"
-msgstr ""
+msgstr "О четзили"
 
 #: chatzilla.label
 msgid "ChatZilla"
-msgstr ""
+msgstr "Четзила (ChatZilla)"
 
 #: version.unknown.label
 msgid "Version unknown"
-msgstr ""
+msgstr "Непознато издање"
 
 #: version.known.label
 msgid "Version &#37;S"
-msgstr ""
+msgstr "Издање &#37;S"
 
 #: description.label
 msgid ""
 "A clean, easy to use and highly extensible Internet Relay Chat (IRC) client."
-msgstr ""
+msgstr "Чист, једностава, и проширив клијент за ИРЦ (Internet Relay Chat, IRC)"
 
 #: homepage.label
 msgid "Visit Home Page"
-msgstr ""
+msgstr "Посетите почетну страну"
 
 #: copyversion.label
 msgid "Copy Version Details"
-msgstr ""
+msgstr "Умножите детаље о издању"
 
 #: section.core.label
 msgid "Core Development Team:"
-msgstr ""
+msgstr "Језгро развојног тима"
 
 #: section.locale.label
 msgid "Localization:"
-msgstr ""
+msgstr "Локализација:"
 
 #: section.contrib.label
 msgid "Contributors:"
-msgstr ""
+msgstr "Приложници:"

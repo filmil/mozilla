@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/dom/chrome/netError.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-02 03:34+0200\n"
+"PO-Revision-Date: 2008-12-14 01:46-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -118,14 +119,13 @@ msgid "Data Transfer Interrupted"
 msgstr "Веза са сервером је прекинута"
 
 #: netInterrupt.longDesc
-#, fuzzy
 msgid ""
 "<p>The browser connected successfully, but the connection was interrupted "
 "while transferring information.  Please try again.</p><ul><li>Are you unable "
 "to browse other sites? Check the computer's network "
 "connection.</li><li>Still having trouble? Consult your network administrator "
 "or Internet provider for assistance.</li></ul>"
-msgstr "&sharedLongDesc;"
+msgstr "<p>Читач се успешно повезао, али је веза прекинута током размене података.  Молимо да пробате поново.</p><ul><li>Не можете да се повежете ни са другим сајтовима? Проверите да ли је рачунар прикључен на мрежу.</li><li>И даље имате проблема?  Обратите се администратору мреже или добављачу Интернета за помоћ.</li></ul>"
 
 #: netOffline.title
 msgid "Offline Mode"
@@ -159,7 +159,6 @@ msgid "Unsafe File Type"
 msgstr "Небезбедна врста датотеке"
 
 #: unsafeContentType.longDesc
-#, fuzzy
 msgid ""
 "<ul> \n"
 "<li>Please contact the website owners to inform them of this problem.</li> \n"
@@ -274,7 +273,7 @@ msgstr ""
 #: nssFailure2.title
 msgctxt "nssFailure2.title"
 msgid "Secure Connection Failed"
-msgstr ""
+msgstr "Безбедна веза није успела"
 
 #: nssFailure2.longDesc
 msgid ""
@@ -293,7 +292,6 @@ msgid "Secure Connection Failed"
 msgstr "Безбедна веза није успела"
 
 #: nssBadCert.longDesc2
-#, fuzzy
 msgid ""
 "<ul> \n"
 "<li>This could be a problem with the server's configuration, or it could be "
@@ -312,7 +310,6 @@ msgid "Suspected Attack Site!"
 msgstr "Могући злонамеран сајт!"
 
 #: malwareBlocked.longDesc
-#, fuzzy
 msgid ""
 "<p>Attack sites try to install programs that steal private information, use "
 "your computer to attack others, or damage your system.</p> \n"
@@ -331,7 +328,6 @@ msgid "Suspected Web Forgery!"
 msgstr "Могућ мрежни фалсификат!"
 
 #: phishingBlocked.longDesc
-#, fuzzy
 msgid ""
 "<p>Entering any personal information on this page may result in identity "
 "theft or other fraud.</p> \n"

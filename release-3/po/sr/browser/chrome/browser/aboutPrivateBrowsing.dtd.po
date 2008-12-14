@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/aboutPrivateBrowsing.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-11-10 23:01-0800\n"
+"PO-Revision-Date: 2008-12-14 01:14-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -46,7 +47,7 @@ msgstr "За почетак можете уклонити недавни ист�
 #: privatebrowsingpage.clearRecentHistory.label
 #: privatebrowsingpage.clearRecentHistory.accesskey
 msgid "&Clear Recent History…"
-msgstr ""
+msgstr "&Уклони скорашњи историјат…"
 
 #: privatebrowsingpage.howToStopDesc
 msgid "To stop private browsing, uncheck Tools &gt; Private Browsing."

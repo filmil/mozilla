@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/places.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-09-05 00:59+0200\n"
+"PO-Revision-Date: 2008-12-14 00:48-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -118,11 +119,11 @@ msgstr "Није могуће обрадити резервни умножак �
 
 #: bookmarksLivemarkLoading
 msgid "Live Bookmark loading…"
-msgstr ""
+msgstr "Учитава се жива забелешка…"
 
 #: bookmarksLivemarkFailed
 msgid "Live Bookmark feed failed to load."
-msgstr ""
+msgstr "Жива забелешка није учитана."
 
 #: headerTextPrefix1
 msgid "Showing"

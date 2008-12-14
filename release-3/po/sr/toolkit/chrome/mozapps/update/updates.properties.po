@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/update/updates.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-09-14 00:38+0200\n"
+"PO-Revision-Date: 2008-12-14 02:14-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +38,7 @@ msgstr "Пријем детаља: %S %S…"
 
 #: intro_major_app_and_version
 msgid "Do you want to upgrade to %S %S now?"
-msgstr ""
+msgstr "Да ли желите доградњу на %S %S?"
 
 #. # LOCALIZATION NOTE: The 1st %S is brandShortName and 2nd %S is update version
 #. # and the 3rd %S is brandShortName. where update version from the update xml
@@ -45,7 +46,7 @@ msgstr ""
 msgid ""
 "Some of your add-ons won't work with %S %S, and will be disabled. As soon as "
 "they are made compatible, %S will update and re-enable these add-ons:"
-msgstr ""
+msgstr "Неки од додатака неће радити са програмом %S %S, и биће искључени.  Чим се појаве сагласне доградње, %S ће доградити и поново укључити наредне додатке:"
 
 #: updateType_major
 msgid "New Version"
@@ -61,11 +62,11 @@ msgid ""
 "Some of your add-ons won't work with this update, and must be disabled. As "
 "soon as they are made compatible, %S will update and re-enable these add-"
 "ons:"
-msgstr ""
+msgstr "Неке од Ваших додатака неће радити са овом доградњом и морају да буду искључени.  Чим се појаве сагласна издања, %S ће доградити и поново укључити следеће додатке:"
 
 #: intro_minor_app
 msgid "A security and stability update for %S is available:"
-msgstr ""
+msgstr "Доступна је безбедносна и стабилносна доградња за %S:"
 
 #: verificationError
 msgid "%S could not confirm the integrity of the update package."
@@ -100,7 +101,7 @@ msgstr "Доградња програма"
 msgid ""
 "You have paused downloading this update. Do you want to download the update "
 "in the background while you continue to use %S?"
-msgstr ""
+msgstr "Паузирали сте пријем ове доградње.  Да ли желите да доградњу примате у позадини, док и даље радите са програмом %S?"
 
 #: updaterIOErrorTitle
 msgid "Software Update Failed"
@@ -117,75 +118,75 @@ msgstr ""
 
 #: okButton
 msgid "OK"
-msgstr ""
+msgstr "У реду"
 
 #: okButton.accesskey
 msgid "O"
-msgstr ""
+msgstr "У"
 
 #: askLaterButton
 msgid "Ask Later"
-msgstr ""
+msgstr "Питај ме касније"
 
 #: askLaterButton.accesskey
 msgctxt "askLaterButton.accesskey"
 msgid "A"
-msgstr ""
+msgstr "П"
 
 #: noThanksButton
 msgid "No Thanks"
-msgstr ""
+msgstr "Не, хвала"
 
 #: noThanksButton.accesskey
 #: neverButton.accesskey
 msgid "N"
-msgstr "к"
+msgstr "Н"
 
 #: updateButton_minor
 msgid "Update %S"
-msgstr ""
+msgstr "Догради %S"
 
 #: updateButton_minor.accesskey
 msgid "U"
-msgstr ""
+msgstr "Д"
 
 #: updateButton_major
 msgid "Get the New Version"
-msgstr ""
+msgstr "Добави ново издање"
 
 #: updateButton_major.accesskey
 #: downloadButton_major.accesskey
 msgid "G"
-msgstr "Н"
+msgstr "б"
 
 #: backButton
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: backButton.accesskey
 msgid "B"
-msgstr ""
+msgstr "з"
 
 #: acceptTermsButton
 msgid "Accept Terms"
-msgstr ""
+msgstr "Прихвати услове"
 
 #: acceptTermsButton.accesskey
 msgctxt "acceptTermsButton.accesskey"
 msgid "A"
-msgstr ""
+msgstr "П"
 
 #: restartLaterButton
 msgid "Restart Later"
-msgstr ""
+msgstr "Покрени касније"
 
 #: restartLaterButton.accesskey
 msgid "L"
-msgstr ""
+msgstr "С"
 
 #: restartNowButton
 msgid "Restart %S"
-msgstr ""
+msgstr "Поново покрени %S"
 
 #: restartNowButton.accesskey
 #: restartButton.accesskey
@@ -294,74 +295,74 @@ msgstr "засад је примљено: %S"
 
 #: check_error-200
 msgid "Update XML file malformed (200)"
-msgstr ""
+msgstr "ИксМЛ датотека доградње је неисправна (200)"
 
 #: check_error-403
 msgid "Access denied (403)"
-msgstr ""
+msgstr "Приступ је одбијен (403)"
 
 #: check_error-404
 msgid "Update XML file not found (404)"
-msgstr ""
+msgstr "ИксМЛ датоека са доградњом није нађена (404)"
 
 #: check_error-500
 msgid "Internal server error (500)"
-msgstr ""
+msgstr "Интерна грешка на серверу (500)"
 
 #: check_error-2152398849
 msgid "Failed (unknown reason)"
-msgstr ""
+msgstr "Неуспело (разлог је непознат)"
 
 #: check_error-2152398861
 msgid "Connection refused"
-msgstr ""
+msgstr "Веза је одбијена"
 
 #: check_error-2152398862
 msgid "Connection timed out"
-msgstr ""
+msgstr "Веза је застарела"
 
 #. # NS_ERROR_OFFLINE
 #: check_error-2152398864
 msgctxt "check_error-2152398864"
 msgid "Network is offline (go online)"
-msgstr ""
+msgstr "Мрежа није повезана (повежите се)"
 
 #: check_error-2152398867
 msgid "Port not allowed"
-msgstr ""
+msgstr "Порт није дозвољен"
 
 #: check_error-2152398868
 msgid "No data was received (please try again)"
-msgstr ""
+msgstr "Подаци нису примљени (молимо да покушате касније)"
 
 #: check_error-2152398878
 msgid "Update server not found (check your internet connection)"
-msgstr ""
+msgstr "Сервер за доградње није пронађен (проверите везу са Интернетом)"
 
 #: check_error-2152398890
 msgid "Proxy server not found (check your internet connection)"
-msgstr ""
+msgstr "Посредник (proxy) није пронађен (проверите везу са Интернетом)"
 
 #. # NS_ERROR_DOCUMENT_NOT_CACHED
 #: check_error-2152398918
 msgctxt "check_error-2152398918"
 msgid "Network is offline (go online)"
-msgstr ""
+msgstr "Нисте повезани на мрежу (повежите се)"
 
 #: check_error-2152398919
 msgid "Data transfer was interrupted (please try again)"
-msgstr ""
+msgstr "Пренос података је прекинут (молимо да пробате поново)"
 
 #: check_error-2152398920
 msgid "Proxy server connection refused"
-msgstr ""
+msgstr "Посредник (proxy) је одбио везу"
 
 #: check_error-2153390069
 msgid ""
 "Server certificate has expired (please adjust your system clock to the "
 "correct date and time if it is incorrect)"
-msgstr ""
+msgstr "Серверов сертификат је истекао (ако је ово обавештење нетачно, проверите системски датум и време)"
 
 #: check_error-verification_failed
 msgid "The integrity of the update could not be verified"
-msgstr ""
+msgstr "Није могуће проверити интегритет доградње"

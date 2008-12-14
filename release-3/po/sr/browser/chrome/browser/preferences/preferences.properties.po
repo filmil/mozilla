@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-29 02:39+0100\n"
+"PO-Revision-Date: 2008-12-14 00:27-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -141,7 +141,7 @@ msgstr "Радна површина"
 
 #: downloadsFolderName
 msgid "Downloads"
-msgstr ""
+msgstr "Пријеми"
 
 #: chooseDownloadFolderTitle
 msgid "Choose Download Folder:"
@@ -154,20 +154,20 @@ msgstr "%S датотека"
 
 #: saveFile
 msgid "Save File"
-msgstr ""
+msgstr "Сачувај датотеку"
 
 #. # LOCALIZATION NOTE (useApp, useDefault): %S = Application name
 #: useApp
 msgid "Use %S"
-msgstr ""
+msgstr "Користи %S"
 
 #: useDefault
 msgid "Use %S (default)"
-msgstr ""
+msgstr "Користи %S (изворно)"
 
 #: useOtherApp
 msgid "Use other…"
-msgstr ""
+msgstr "Користи друго…"
 
 #: fpTitleChooseApp
 msgid "Select Helper Application"
@@ -175,46 +175,46 @@ msgstr "Изаберите помоћни програм"
 
 #: manageApp
 msgid "Application Details…"
-msgstr ""
+msgstr "Детаљи о програму…"
 
 #: webFeed
 msgid "Web Feed"
-msgstr ""
+msgstr "Веб довод"
 
 #: videoPodcastFeed
 msgid "Video Podcast"
-msgstr ""
+msgstr "Видео подкаст"
 
 #: audioPodcastFeed
 msgid "Podcast"
-msgstr ""
+msgstr "Подкаст"
 
 #: alwaysAsk
 msgid "Always ask"
-msgstr ""
+msgstr "Увек питај"
 
 #. # LOCALIZATION NOTE (usePluginIn):
 #. # %1$S = plugin name (for example "QuickTime Plugin-in 7.2")
 #. # %2$S = brandShortName from brand.properties (for example "Minefield")
 #: usePluginIn
 msgid "Use %S (in %S)"
-msgstr ""
+msgstr "Користи %S (за %S)"
 
 #. # LOCALIZATION NOTE (previewInApp, addLiveBookmarksInApp): %S = brandShortName
 #: previewInApp
 msgid "Preview in %S"
-msgstr ""
+msgstr "За преглед: %S"
 
 #: addLiveBookmarksInApp
 msgid "Add Live Bookmarks in %S"
-msgstr ""
+msgstr "Додај живе забелешке %S"
 
 #. # LOCALIZATION NOTE (typeDescriptionWithType):
 #. # %1$S = type description (for example "Portable Document Format")
 #. # %2$S = type (for example "application/pdf")
 #: typeDescriptionWithType
 msgid "%S (%S)"
-msgstr ""
+msgstr "%S (%S)"
 
 #### Cookie Viewer
 # ### Cookie Viewer
@@ -274,17 +274,17 @@ msgstr "Уклони колачић"
 #. #### Offline apps
 #: offlineAppRemoveTitle
 msgid "Remove offline website data"
-msgstr ""
+msgstr "Уклони сачуване податке о сајтовима"
 
 #: offlineAppRemovePrompt
 msgid ""
 "After removing this data, %S will not be available offline.  Are you sure "
 "you want to remove this offline website?"
-msgstr ""
+msgstr "Пошто уклоните ове податке, %S неће бити доступан ван мреже.  Да ли сигурно желите да уклоните сачуване податке о овом сајту?"
 
 #: offlineAppRemoveConfirm
 msgid "Remove offline data"
-msgstr ""
+msgstr "Уклони податке о сајту"
 
 #. # LOCALIZATION NOTE: The next string is for the disk usage of the
 #. # offline application
@@ -293,12 +293,12 @@ msgstr ""
 #. #   %2$S = unit of measure (bytes, KB, MB, ...)
 #: offlineAppUsage
 msgid "%1$S %2$S"
-msgstr ""
+msgstr "%1$S %2$S"
 
 #: offlinepermissionstext
 msgid "The following websites are not allowed to store data for offline use:"
-msgstr ""
+msgstr "Наведеним сајтовима није дозвољено да чувају податке за неповезан рад:"
 
 #: offlinepermissionstitle
 msgid "Offline Data"
-msgstr ""
+msgstr "Подаци за неповезан рад"

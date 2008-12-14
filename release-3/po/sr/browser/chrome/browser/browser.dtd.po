@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-07-05 11:08+0200\n"
+"PO-Revision-Date: 2008-12-14 00:19-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +18,7 @@ msgstr ""
 #. inside the private browsing mode
 #: mainWindowPrivateBrowsing.titlemodifier
 msgid "&mainWindow.titlemodifier; (Private Browsing)"
-msgstr ""
+msgstr "&mainWindow.titlemodifier; (поверљиво читање)"
 
 #: tabCmd.label
 #: tabCmd.accesskey
@@ -60,7 +61,7 @@ msgstr "&Штампа…"
 #: printCmd.commandkey
 msgctxt "printCmd.commandkey"
 msgid "p"
-msgstr ""
+msgstr "p"
 
 #: import.label
 #: import.accesskey
@@ -108,7 +109,7 @@ msgstr "По&даци о страни"
 #: pageInfoCmd.commandkey
 msgctxt "pageInfoCmd.commandkey"
 msgid "i"
-msgstr ""
+msgstr "i"
 
 #: fullScreenCmd.label
 #: fullScreenCmd.accesskey
@@ -154,7 +155,7 @@ msgstr "Забележи ову страну"
 #: bookmarkThisPageCmd.commandkey
 msgctxt "bookmarkThisPageCmd.commandkey"
 msgid "d"
-msgstr ""
+msgstr "d"
 
 #: subscribeToPageMenupopup.label
 msgid "Subscribe to This Page"
@@ -167,7 +168,7 @@ msgstr "Претплата на ову страну…"
 #: addCurPagesCmd.label
 msgctxt "addCurPagesCmd.label"
 msgid "Bookmark All Tabs…"
-msgstr ""
+msgstr "Забележи све језичке…"
 
 #: organizeBookmarks.label
 msgid "Organize Bookmarks…"
@@ -250,13 +251,13 @@ msgstr "Показатељ активности"
 #: bookmarksItem.title
 msgctxt "bookmarksItem.title"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Забелешке"
 
 #. Toolbar items
 #: homeButton.label
 msgctxt "homeButton.label"
 msgid "Home"
-msgstr ""
+msgstr "Почетна"
 
 #: bookmarksButton.label
 #: bookmarksItem.title
@@ -271,7 +272,7 @@ msgstr "Приказује ваше забелешке"
 #: bookmarksSidebarCmd.accesskey
 msgctxt "bookmarksSidebarCmd.accesskey"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: bookmarksSidebarCmd.commandkey
 msgid "b"
@@ -295,7 +296,7 @@ msgstr "Приказује списак недавно посећених стр
 #: historySidebarCmd.accesskey
 msgctxt "historySidebarCmd.accesskey"
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: historySidebarCmd.commandKey
 msgid "h"
@@ -328,7 +329,7 @@ msgstr "Прикажи напредак пријема"
 #: downloads.commandkey
 msgctxt "downloads.commandkey"
 msgid "j"
-msgstr ""
+msgstr "j"
 
 #: downloadsUnix.commandkey
 msgid "y"
@@ -351,7 +352,7 @@ msgstr "Конзола за &грешке"
 #: errorConsoleCmd.commandkey
 msgctxt "errorConsoleCmd.commandkey"
 msgid "j"
-msgstr ""
+msgstr "j"
 
 #: fileMenu.label
 #: fileMenu.accesskey
@@ -376,7 +377,7 @@ msgstr "&Уређивање"
 #: undoCmd.accesskey
 msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
-msgstr ""
+msgstr "&Откажи"
 
 #: undoCmd.key
 msgid "Z"
@@ -399,7 +400,7 @@ msgstr "&Исеци"
 #: cutCmd.key
 msgctxt "cutCmd.key"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: copyCmd.label
 #: copyCmd.accesskey
@@ -427,7 +428,7 @@ msgstr "&Обриши"
 #: deleteCmd.key
 msgctxt "deleteCmd.key"
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
@@ -451,12 +452,12 @@ msgstr "Поде&шавања"
 #: clearRecentHistoryCmd.label
 #: clearRecentHistoryCmd.accesskey
 msgid "Clear Recent &History"
-msgstr ""
+msgstr "Уклони скорашњи &историјат"
 
 #: privateBrowsingCmd.label
 #: privateBrowsingCmd.accesskey
 msgid "Private &Browsing"
-msgstr ""
+msgstr "&Поверљиво читање"
 
 #: viewMenu.label
 #: viewMenu.accesskey
@@ -562,7 +563,7 @@ msgstr "k"
 #: searchFocus.commandkey2
 msgctxt "searchFocus.commandkey2"
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: searchFocusUnix.commandkey
 #: downloads.commandkey
@@ -644,7 +645,7 @@ msgstr "По&даци о оквиру"
 #: reloadImageCmd.label
 #: reloadImageCmd.accesskey
 msgid "&Reload Image"
-msgstr ""
+msgstr "&Поновно учитавање слике"
 
 #: viewImageCmd.label
 #: viewImageCmd.accesskey
@@ -654,7 +655,7 @@ msgstr "Прикажи с&лику"
 #: viewVideoCmd.label
 #: viewVideoCmd.accesskey
 msgid "V&iew Video"
-msgstr ""
+msgstr "Преглед &видеа"
 
 #: viewBGImageCmd.label
 #: viewBGImageCmd.accesskey
@@ -731,12 +732,12 @@ msgstr "&Сачувај слику као…"
 #: saveVideoCmd.label
 #: saveVideoCmd.accesskey
 msgid "Save &Video As…"
-msgstr ""
+msgstr "Са&чувај видео као…"
 
 #: saveAudioCmd.label
 #: saveAudioCmd.accesskey
 msgid "Sa&ve Audio As…"
-msgstr ""
+msgstr "Сачувај ау&дио као…"
 
 #: sendImageCmd.label
 #: sendImageCmd.accesskey
@@ -746,12 +747,12 @@ msgstr "По&шаљи слику…"
 #: sendVideoCmd.label
 #: sendVideoCmd.accesskey
 msgid "Se&nd Video…"
-msgstr ""
+msgstr "По&шаљи видео…"
 
 #: sendAudioCmd.label
 #: sendAudioCmd.accesskey
 msgid "Se&nd Audio…"
-msgstr ""
+msgstr "Поша&љи аудио…"
 
 #: copyLinkCmd.label
 #: copyLinkCmd.accesskey
@@ -776,12 +777,12 @@ msgstr "Умножи &слику"
 #: copyVideoURLCmd.label
 #: copyVideoURLCmd.accesskey
 msgid "C&opy Video Location"
-msgstr ""
+msgstr "Умножи &одредиште за видео"
 
 #: copyAudioURLCmd.label
 #: copyAudioURLCmd.accesskey
 msgid "C&opy Audio Location"
-msgstr ""
+msgstr "Умно&жи одредиште за аудио"
 
 #: blockImageCmd.accesskey
 #: bookmarksSidebarCmd.accesskey
@@ -808,32 +809,32 @@ msgstr "У о&вом оквиру"
 #: mediaPlay.label
 #: mediaPlay.accesskey
 msgid "&Play"
-msgstr ""
+msgstr "&Пусти"
 
 #: mediaPause.label
 #: mediaPause.accesskey
 msgid "&Pause"
-msgstr ""
+msgstr "Пау&зирај"
 
 #: mediaMute.label
 #: mediaMute.accesskey
 msgid "&Mute"
-msgstr ""
+msgstr "&Утишај"
 
 #: mediaUnmute.label
 #: mediaUnmute.accesskey
 msgid "Un&mute"
-msgstr ""
+msgstr "По&јачај"
 
 #: mediaShowControls.label
 #: mediaShowControls.accesskey
 msgid "Show &Controls"
-msgstr ""
+msgstr "Прикажи &контроле"
 
 #: mediaHideControls.label
 #: mediaHideControls.accesskey
 msgid "Hide &Controls"
-msgstr ""
+msgstr "Сакриј ко&нтроле"
 
 #. LOCALIZATION NOTE :
 #. fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -1055,11 +1056,11 @@ msgstr "Готово"
 msgid "Cancel"
 msgstr "Откажи"
 
+# FIXME Strange
 #: editBookmark.removeBookmark.accessKey
 #: editBookmark.removeBookmark.label
-#, fuzzy
 msgid "R"
-msgstr "&Уклони забелешку"
+msgstr "R"
 
 #: editBookmark.undo.label
 #: editBookmark.undo.accessKey
@@ -1105,4 +1106,4 @@ msgstr "Притисните да бисте отворили прозор са 
 
 #: ctrlTab.search.emptyText
 msgid "Search Tabs"
-msgstr ""
+msgstr "Језичци за претрагу"

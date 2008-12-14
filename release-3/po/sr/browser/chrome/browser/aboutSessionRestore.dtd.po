@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/aboutSessionRestore.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 00:46-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,11 +16,11 @@ msgstr ""
 
 #: restorepage.tabtitle
 msgid "Restore Session"
-msgstr ""
+msgstr "Обнови сесију"
 
 #: restorepage.pagetitle
 msgid "Would You Like to Restore Your Session?"
-msgstr ""
+msgstr "Да ли желите да обновите сесију?"
 
 #. LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
 #. you may translate "crash" instead (even though it's IT-speak)
@@ -28,47 +29,47 @@ msgid ""
 "Your previous &brandShortName; session closed unexpectedly. We sincerely "
 "apologize for the inconvenience. You can restore the tabs and windows from "
 "your previous session, or start a new session if they are no longer needed."
-msgstr ""
+msgstr "Ваша претходна сесија у програму &brandShortName; је изненада завршена.  Извињавамо се због непријатности.  Ако желите можете да вратите језичке и прозоре из претходне сесије, или да покренете нову сесију ако стари подаци више нису потребни."
 
 #: restorepage.remedies
 msgid "If &brandShortName; closes repeatedly:"
-msgstr ""
+msgstr "Ако се програм &brandShortName; учестало затвара сам од себе:"
 
 #: restorepage.dueToChrome
 msgid "Try disabling any recently added extensions in the Add-ons Manager."
-msgstr ""
+msgstr "Пробајте да искључите све недавно укључене додатке у Управнику додацима."
 
 #: restorepage.dueToContent
 msgid ""
 "Try restoring your session without any Web pages you suspect might be "
 "causing the problem:"
-msgstr ""
+msgstr "Пробајте да обновите сесију али без веб страна за које сумњате да могу да буду узрок:"
 
 #: restorepage.restoreButton
 msgid "Restore Previous Session"
-msgstr ""
+msgstr "Обнови претходну сесију"
 
 #: restorepage.restore.access
 msgid "R"
-msgstr ""
+msgstr "О"
 
 #: restorepage.cancelButton
 msgid "Start New Session"
-msgstr ""
+msgstr "Покрени нову сесију"
 
 #: restorepage.cancel.access
 msgid "S"
-msgstr ""
+msgstr "П"
 
 #: restorepage.restoreHeader
 msgid "Restore"
-msgstr ""
+msgstr "Обнови"
 
 #: restorepage.listHeader
 msgid "Windows and Tabs"
-msgstr ""
+msgstr "Прозоре и језичке"
 
 #. LOCALIZATION NOTE: &#37;S will be replaced with a number.
 #: restorepage.windowLabel
 msgid "Window &#37;S"
-msgstr ""
+msgstr "Прозор &#37;S"

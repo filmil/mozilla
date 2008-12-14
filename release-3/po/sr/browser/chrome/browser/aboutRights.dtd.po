@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 20:54-0800\n"
+"PO-Revision-Date: 2008-12-14 00:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -98,35 +98,35 @@ msgid ""
 "the SafeBrowsing service; however, we cannot guarantee they are 100&#37; "
 "accurate or error-free. More details, including information on how to "
 "disable the services, can be found in the "
-msgstr ""
+msgstr "Програм &brandShortName; нуди такође изборне услуге за информисање о веб сајтовима, попут сервиса за безбедно прегледање (SafeBrowsing service); међутим, не можемо да гарантујемо да су 100&#37; прецизни и безгрешни.  Више детаља, укључујући податке о искључивању сервиса, могу да се пронађу у"
 
 #: rights.intro-point4b
 msgid "service terms"
-msgstr ""
+msgstr "условима услуга"
 
 #: rights.intro-point4c
 msgctxt "rights.intro-point4c"
 msgid "."
-msgstr ""
+msgstr "."
 
 #. point 4 text for unbranded builds
 #: rights.intro-point4a-unbranded
 msgid ""
 "If this product incorporates web services, any applicable service terms for "
 "the service(s) should be linked to the "
-msgstr ""
+msgstr "Ако овај производ укључује веб услуге, сви односни услови пружања услуга треба да буду повезани на одељак о "
 
 #: rights.intro-point4b-unbranded
 msgid "Web Site Services"
-msgstr ""
+msgstr "мрежним услугама"
 
 #: rights.intro-point4c-unbranded
 msgid " section."
-msgstr ""
+msgstr "."
 
 #: rights.webservices-header
 msgid "&brandFullName; Web Site Services"
-msgstr ""
+msgstr "Мрежне услуге за програм &brandFullName;"
 
 #. Note that this paragraph references a couple of entities from
 #. preferences/security.dtd, so that we can refer to text the user sees in
@@ -140,30 +140,30 @@ msgid ""
 "binary version of &brandShortName; as described below. If you do not want to "
 "use the Services or the terms below are unacceptable, you may disable the "
 "SafeBrowsing service by opening the application preferences, selecting the "
-msgstr ""
+msgstr "Програм &brandFullName; користи сервисе за информисање о веб сајтовима („услуге‟ у даљем тексту), попут услуге за безбедно читање (SafeBrowsing) који су Вам доступни у овом бинарном издању програма &brandShortName; како је испод описано.  Ако не желите да користите услуге или ако Вам услови дати испод нису прихватљиви, можете да искључите услугу у подешавањима порграма, бирањем одељка о "
 
 #: rights.webservices-b
 msgid "Security"
-msgstr ""
+msgstr "безбедности"
 
 #: rights.webservices-c
 msgid ""
 " section, and unchecking the options for "
 "&quot;&blockAttackSites.label;&quot; and "
 "&quot;&blockWebForgeries.label;&quot;"
-msgstr ""
+msgstr "и искључивањем опција „&blockAttackSites.label;‟ and „&blockWebForgeries.label;‟"
 
 #. intro paragraph for unbranded builds
 #: rights.webservices-unbranded
 msgid ""
 "An overview of the web site services the product incorporates, along with "
 "instructions on how to disable them, if applicable, should be included here."
-msgstr ""
+msgstr "Преглед услуга о веб сајтовима које су уграђене у производ, заједно са подацима како их можете искључити (где је применљиво) је тамо наведен."
 
 #. point 1 text for unbranded builds
 #: rights.webservices-term1-unbranded
 msgid "Any applicable service terms for this product should be listed here."
-msgstr ""
+msgstr "Сви услови услуга за овај производ су тамо набројани."
 
 #. points 1-7 text for branded builds
 #: rights.webservices-term1
@@ -173,12 +173,12 @@ msgid ""
 "However, they cannot guarantee that this information is comprehensive and "
 "error-free: some risky sites may not be identified and some safe sites may "
 "be identified in error."
-msgstr ""
+msgstr "&vendorShortName; и приложници, давачи лиценци и партнери сарађују како би обезбедили најпрецизније и најсвежије податке о фишингу и злонамерним програмима.  Међутим, они не могу да гарантују да је су ти подаци исрцпни и без грешака.  Неки ризични сајтови можда нису у списку а неки безбедни сајтови могу бити означени као ризични."
 
 #: rights.webservices-term2
 msgid ""
 "&vendorShortName; may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "&vendorShortName; задржава право да укине или промени услуге."
 
 #: rights.webservices-term3
 msgid ""
@@ -188,7 +188,7 @@ msgid ""
 "Services.  These terms are not intended to limit any rights granted under "
 "open source licenses applicable to &brandShortName; and to corresponding "
 "source code versions of &brandShortName;."
-msgstr ""
+msgstr "Можете да користите услуге које долазе уз ово издање програма &brandShortName; и располажете свим правима која су за то потребна.  &vendorShortName; и даваоци дозвола задржавају сва остала права на услугу.  Ови услови не ограничавају никоја права која су Вам дата лиценцом отвореног кода примењеном на &brandShortName; и на издања програма &brandShortName; у изворном коду."
 
 #: rights.webservices-term4
 msgid ""
@@ -200,7 +200,7 @@ msgid ""
 "quality and performance of the Services. Some jurisdictions do not allow "
 "the exclusion or limitation of implied warranties, so this disclaimer may "
 "not apply to you."
-msgstr ""
+msgstr "Услуге се пружају без икакве гаранције.  &vendorShortName;, приложници, давачи лиценци и дистрибутери одричу све гаранције, имплицитне или експлицитне, укључујући али се не ограничавајући на гаранције да су услуге комерцијално вредне или да одговарају Вашој намени.  Ви сте у потпуности одговорни за избор услуга које ће одговарати Вашим потребама и за квалитет и ниво пружене услуге.  У неким јурисдикцијама ограничавање или изузимање од одговорности није могуће, па се у том случају овај текст не односи на Вас."
 
 #: rights.webservices-term5
 msgid ""
@@ -211,14 +211,14 @@ msgid ""
 "liability under these terms will not exceed $500 (five hundred dollars). "
 "Some jurisdictions do not allow the exclusion or limitation of certain "
 "damages, so this exclusion and limitation may not apply to you."
-msgstr ""
+msgstr "Изузев у мери коју захтева закон, &vendorShortName;, приложници, давачи лиценци и дистрибутери нису одговорни за било какву индиректну, специјалну, случајну, последичну или другу штету која проистиче из или је на било који начин у вези са употребом програма &brandShortName; и услуга.  Колективна одговорност под овим условима не може да премаши $500 (пет стотина америчких долара). Неке јурисдикције не ограничавање или одрицање обештећења није могуће, па се у том случају овај текст не односи на Вас."
 
 #: rights.webservices-term6
 msgid ""
 "&vendorShortName; may update these terms as necessary from time to time. "
 "These terms may not be modified or cancelled without &vendorShortName;'s "
 "written agreement."
-msgstr ""
+msgstr "&vendorShortName; може да измени ове услове с времена на време и по потреби.  Ови услови се не могу мењати или поништити без писмене сагласности продавца (&vendorShortName;)"
 
 #: rights.webservices-term7
 msgid ""
@@ -228,4 +228,4 @@ msgid ""
 "full force and effect. In the event of a conflict between a translated "
 "version of these terms and the English language version, the English "
 "language version shall control."
-msgstr ""
+msgstr "Ови услови су сагласни са законима државе Калифорније у САД, искључујући законом предвиђене изузетке.  Ако се за било који део овог споразума утврди да није важећи или одржив, остатак наставља пуноважност.  У случају спора између изворног енглеског и преведеног издања овог споразума, преовладава енглески изворни текст."

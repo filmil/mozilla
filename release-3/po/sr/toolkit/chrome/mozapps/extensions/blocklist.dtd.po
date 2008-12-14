@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/extensions/blocklist.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2008-12-14 02:34-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,42 +16,42 @@ msgstr ""
 
 #: blocklist.title
 msgid "Add-ons may be causing problems"
-msgstr ""
+msgstr "Додаци су можда узрок проблема"
 
 #: blocklist.style
 msgid "width: 45em; height: 30em"
-msgstr ""
+msgstr "width: 45em; height: 30em"
 
 #: blocklist.summary
 msgid ""
 "&brandShortName; has determined that the following add-ons are known to "
 "cause stability or security problems:"
-msgstr ""
+msgstr "Програм &brandShortName; је установио да наредни додаци могу да узрокују проблеме са стабилношћу или безбедношћу:"
 
 #: blocklist.softblocked
 msgid ""
 "For your protection, it is highly recommended that you restart with these "
 "add-ons disabled."
-msgstr ""
+msgstr "Ради Ваше заштите, препоручује се да искључите ове додатке и поново покренете програм."
 
 #: blocklist.hardblocked
 msgid ""
 "These add-ons have a high risk of causing stability or security problems and "
 "have been blocked, but a restart is required to disable them completely."
-msgstr ""
+msgstr "Ови додаци су под видоким ризиком да узрокују проблеме са стабилношћу и безбедношћу тако да су блокирани.  Потребно је поново покренути програм да би били потпуно искључени."
 
 #: blocklist.softandhard
 msgid ""
 "The add-ons that have a high risk of causing stability or security problems "
 "have been blocked. The others are lower risk, but it is highly recommended "
 "that you restart with them disabled."
-msgstr ""
+msgstr "Додаци који имају висок ризик да узрокују проблеме са стабилношћу или безбедношћу су блокирани.  Остали су ниског ризика, али се ипак препоручује да их искључите."
 
 #: blocklist.moreinfo
 msgid "More information"
-msgstr ""
+msgstr "Више података"
 
 #: blocklist.accept.label
 #: blocklist.accept.accesskey
 msgid "&Restart &brandShortName;"
-msgstr ""
+msgstr "&Поново покренуи &brandShortName;"

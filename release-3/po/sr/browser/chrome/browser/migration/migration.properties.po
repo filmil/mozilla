@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2007-06-11 02:15+0200\n"
+"PO-Revision-Date: 2008-12-14 00:24-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -120,27 +120,27 @@ msgstr "Подешавање интернета"
 #: 1_opera
 msgctxt "1_opera"
 msgid "Preferences"
-msgstr ""
+msgstr "Подешавања"
 
 #: 1_dogbert
 msgctxt "1_dogbert"
 msgid "Preferences"
-msgstr ""
+msgstr "Подешавања"
 
 #: 1_seamonkey
 msgctxt "1_seamonkey"
 msgid "Preferences"
-msgstr ""
+msgstr "Подешавања"
 
 #: 1_phoenix
 msgctxt "1_phoenix"
 msgid "Preferences"
-msgstr ""
+msgstr "Подешавања"
 
 #: 1_safari
 msgctxt "1_safari"
 msgid "Preferences"
-msgstr ""
+msgstr "Подешавања"
 
 #: 1_macie
 #: 1_opera
@@ -155,32 +155,32 @@ msgstr "Подешавања"
 #: 2_ie
 msgctxt "2_ie"
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: 2_opera
 msgctxt "2_opera"
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: 2_dogbert
 msgctxt "2_dogbert"
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: 2_seamonkey
 msgctxt "2_seamonkey"
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: 2_phoenix
 msgctxt "2_phoenix"
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: 2_safari
 msgctxt "2_safari"
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: 2_macie
 #: 2_ie
@@ -196,32 +196,32 @@ msgstr "Колачићи"
 #: 4_ie
 msgctxt "4_ie"
 msgid "Browsing History"
-msgstr ""
+msgstr "Историјат"
 
 #: 4_opera
 msgctxt "4_opera"
 msgid "Browsing History"
-msgstr ""
+msgstr "Историјат"
 
 #: 4_dogbert
 msgctxt "4_dogbert"
 msgid "Browsing History"
-msgstr ""
+msgstr "Историјат"
 
 #: 4_seamonkey
 msgctxt "4_seamonkey"
 msgid "Browsing History"
-msgstr ""
+msgstr "Историјат"
 
 #: 4_phoenix
 msgctxt "4_phoenix"
 msgid "Browsing History"
-msgstr ""
+msgstr "Историјат"
 
 #: 4_safari
 msgctxt "4_safari"
 msgid "Browsing History"
-msgstr ""
+msgstr "Историјат"
 
 #: 4_macie
 #: 4_ie
@@ -237,32 +237,32 @@ msgstr "Историјат"
 #: 8_ie
 msgctxt "8_ie"
 msgid "Saved Form History"
-msgstr ""
+msgstr "Формулари"
 
 #: 8_opera
 msgctxt "8_opera"
 msgid "Saved Form History"
-msgstr ""
+msgstr "Формулари"
 
 #: 8_dogbert
 msgctxt "8_dogbert"
 msgid "Saved Form History"
-msgstr ""
+msgstr "Формулари"
 
 #: 8_seamonkey
 msgctxt "8_seamonkey"
 msgid "Saved Form History"
-msgstr ""
+msgstr "Формулари"
 
 #: 8_phoenix
 msgctxt "8_phoenix"
 msgid "Saved Form History"
-msgstr ""
+msgstr "Формулари"
 
 #: 8_safari
 msgctxt "8_safari"
 msgid "Saved Form History"
-msgstr ""
+msgstr "Формулари"
 
 #: 8_macie
 #: 8_ie
@@ -278,32 +278,32 @@ msgstr "Сачувани формулари"
 #: 16_ie
 msgctxt "16_ie"
 msgid "Saved Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: 16_opera
 msgctxt "16_opera"
 msgid "Saved Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: 16_dogbert
 msgctxt "16_dogbert"
 msgid "Saved Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: 16_seamonkey
 msgctxt "16_seamonkey"
 msgid "Saved Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: 16_phoenix
 msgctxt "16_phoenix"
 msgid "Saved Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: 16_safari
 msgctxt "16_safari"
 msgid "Saved Passwords"
-msgstr ""
+msgstr "Лозинке"
 
 #: 16_macie
 #: 16_ie
@@ -319,27 +319,27 @@ msgstr "Сачуване лозинке"
 #: 32_ie
 msgctxt "32_ie"
 msgid "Favorites"
-msgstr ""
+msgstr "Омиљено"
 
 #: 32_opera
 msgctxt "32_opera"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Забелешке"
 
 #: 32_dogbert
 msgctxt "32_dogbert"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Забелешке"
 
 #: 32_seamonkey
 msgctxt "32_seamonkey"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Забелешке"
 
 #: 32_phoenix
 msgctxt "32_phoenix"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Забелешке"
 
 #: 32_safari
 #: 32_opera
@@ -359,32 +359,32 @@ msgstr "Омиљено"
 #: 64_ie
 msgctxt "64_ie"
 msgid "Other Data"
-msgstr ""
+msgstr "Остали подаци"
 
 #: 64_opera
 msgctxt "64_opera"
 msgid "Other Data"
-msgstr ""
+msgstr "Остали подаци"
 
 #: 64_dogbert
 msgctxt "64_dogbert"
 msgid "Other Data"
-msgstr ""
+msgstr "Остали подаци"
 
 #: 64_seamonkey
 msgctxt "64_seamonkey"
 msgid "Other Data"
-msgstr ""
+msgstr "Остали подаци"
 
 #: 64_phoenix
 msgctxt "64_phoenix"
 msgid "Other Data"
-msgstr ""
+msgstr "Остали подаци"
 
 #: 64_safari
 msgctxt "64_safari"
 msgid "Other Data"
-msgstr ""
+msgstr "Остали подаци"
 
 #: 64_macie
 #: 64_ie

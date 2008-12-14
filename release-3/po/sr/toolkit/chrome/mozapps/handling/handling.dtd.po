@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-15 00:16+0100\n"
+"PO-Revision-Date: 2008-12-14 02:06-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: window.emWidth
 msgctxt "window.emWidth"
 msgid "26em"
-msgstr ""
+msgstr "26em"
 
 # (pofilter) unchanged: please translate
 #: window.emHeight

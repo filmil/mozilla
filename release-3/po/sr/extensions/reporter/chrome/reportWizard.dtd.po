@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-04 20:14+0200\n"
+"PO-Revision-Date: 2008-12-14 01:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "Пријави неисправан веб сајт"
 #: privacyNotice.label
 msgctxt "privacyNotice.label"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Полиса о приватности"
 
 #: reportWizardPrivacy.description
 msgid ""

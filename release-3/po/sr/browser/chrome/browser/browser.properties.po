@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-09-14 00:55+0200\n"
+"PO-Revision-Date: 2008-12-14 00:43-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +105,7 @@ msgstr ""
 #: xpinstallPromptAllowButton
 msgctxt "xpinstallPromptAllowButton"
 msgid "Allow"
-msgstr ""
+msgstr "Дозволи"
 
 #. # Accessibility Note:
 #. # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
@@ -112,7 +113,7 @@ msgstr ""
 #: xpinstallPromptAllowButton.accesskey
 msgctxt "xpinstallPromptAllowButton.accesskey"
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: xpinstallDisabledMessageLocked
 msgid "Software installation has been disabled by your system administrator."
@@ -198,7 +199,7 @@ msgstr "Опозови"
 #: undo.accessKey
 msgctxt "undo.accessKey"
 msgid "U"
-msgstr ""
+msgstr "О"
 
 # missing plugin installer
 #. # missing plugin installer
@@ -241,11 +242,11 @@ msgstr "U"
 #. # Sanitize
 #: sanitizeWithPromptLabel2
 msgid "Clear Recent History…"
-msgstr ""
+msgstr "Уклони скорашњи историјат…"
 
 #: sanitizeButton2
 msgid "Clear Private Data"
-msgstr ""
+msgstr "Уклони приватне податке"
 
 #. # Check for Updates
 #: updatesItem_default
@@ -328,12 +329,12 @@ msgstr "Иди напред до ове стране"
 #: refreshBlocked.goButton
 msgctxt "refreshBlocked.goButton"
 msgid "Allow"
-msgstr ""
+msgstr "Дозволи"
 
 #: refreshBlocked.goButton.accesskey
 msgctxt "refreshBlocked.goButton.accesskey"
 msgid "A"
-msgstr ""
+msgstr "Д"
 
 #: refreshBlocked.refreshLabel
 msgid "%S prevented this page from automatically reloading."
@@ -375,7 +376,7 @@ msgstr "Дозволи"
 #: offlineApps.allowAccessKey
 msgctxt "offlineApps.allowAccessKey"
 msgid "A"
-msgstr ""
+msgstr "Д"
 
 #: offlineApps.never
 msgid "Never for This Site"
@@ -485,7 +486,7 @@ msgstr "Уреди ову забелешку"
 #. # the number of bookmarks to be removed.
 #: editBookmark.removeBookmarks.label
 msgid "Remove Bookmark;Remove Bookmarks (#1)"
-msgstr ""
+msgstr "Уклони забелешку;Уклони забелешке (#1)"
 
 #. # Geolocation UI
 #. # LOCALIZATION NOTE (exactLocation, neighborhoodLocation): These do not have to be
@@ -520,31 +521,31 @@ msgstr "%S жели да зна где се налазите.  Ваш одгов
 #. # it's okay for them to have the same access key
 #: safebrowsing.getMeOutOfHereButton.label
 msgid "Get me out of here!"
-msgstr ""
+msgstr "Води ме одавде!"
 
 #: safebrowsing.getMeOutOfHereButton.accessKey
 msgid "G"
-msgstr ""
+msgstr "В"
 
 #: safebrowsing.reportedWebForgery
 msgid "Reported Web Forgery!"
-msgstr ""
+msgstr "Познати мрежни фалсификат!"
 
 #: safebrowsing.notAForgeryButton.label
 msgid "This isn't a web forgery…"
-msgstr ""
+msgstr "Ово није мрежни фалсификат…"
 
 #: safebrowsing.notAForgeryButton.accessKey
 msgid "F"
-msgstr ""
+msgstr "ф"
 
 #: safebrowsing.reportedAttackSite
 msgid "Reported Attack Site!"
-msgstr ""
+msgstr "Познати злонамеран сајт!"
 
 #: safebrowsing.notAnAttackButton.label
 msgid "This isn't an attack site…"
-msgstr ""
+msgstr "Ово није злонамеран сајт…"
 
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
@@ -567,22 +568,22 @@ msgstr "Д"
 #. # Access keys are specified by prefixing the desired letter with an ampersand.
 #: privateBrowsingDialogTitle
 msgid "Start Private Browsing"
-msgstr ""
+msgstr "Покрени поверљиво читање"
 
 #: privateBrowsingMessage
 msgid ""
 "%S will save your current tabs for when you are done with your Private "
 "Browsing session."
-msgstr ""
+msgstr "Програм %S ће сачувати тренутне језичке до тренутка када завршите са поверљивим читањем."
 
 #: privateBrowsingYesTitle
 msgid "&Start Private Browsing"
-msgstr ""
+msgstr "&Покрени поверљиво читање"
 
 #: privateBrowsingNoTitle
 msgid "&Cancel"
-msgstr ""
+msgstr "&Откажи"
 
 #: privateBrowsingNeverAsk
 msgid "&Do not show this message again"
-msgstr ""
+msgstr "&Не приказуј поново ову поруку"

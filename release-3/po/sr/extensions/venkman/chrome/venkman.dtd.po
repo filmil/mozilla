@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-31 01:03+0200\n"
+"PO-Revision-Date: 2008-12-14 01:21-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -135,7 +135,7 @@ msgstr "преломне тачке (breakpoints)"
 #: BreakCol0.label
 msgctxt "BreakCol0.label"
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: BreakCol1.label
 msgid "Line/PC"
@@ -150,22 +150,22 @@ msgstr "Локалне променљиве"
 #: LocalsCol0.header
 msgctxt "LocalsCol0.header"
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: LocalsCol1.header
 msgctxt "LocalsCol1.header"
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: LocalsCol2.header
 msgctxt "LocalsCol2.header"
 msgid "Value"
-msgstr ""
+msgstr "Вредност"
 
 #: LocalsCol3.header
 msgctxt "LocalsCol3.header"
 msgid "Flags"
-msgstr ""
+msgstr "Заставице"
 
 # session view
 #. session view
@@ -190,12 +190,12 @@ msgstr "Притисните овде да очистите поље за пре
 #: ScriptsCol0.header
 msgctxt "ScriptsCol0.header"
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: ScriptsCol1.header
 msgctxt "ScriptsCol1.header"
 msgid "Line"
-msgstr ""
+msgstr "Линија"
 
 #: ScriptsCol2.header
 msgid "Length"
@@ -228,7 +228,7 @@ msgstr "Стек позива"
 #: StackCol0.header
 msgctxt "StackCol0.header"
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #: StackCol1.header
 msgid "Location"

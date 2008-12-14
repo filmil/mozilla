@@ -1,3 +1,4 @@
+
 # Context Menu
 
 # ***** BEGIN LICENSE BLOCK *****
@@ -114,7 +115,7 @@ msgstr "&Филтер:"
 
 #: focusFilter.key
 msgid "f"
-msgstr ""
+msgstr "f"
 
 # Columns
 #. Columns

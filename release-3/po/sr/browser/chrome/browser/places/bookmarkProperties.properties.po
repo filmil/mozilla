@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/bookmarkProperties.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-26 23:02+0100\n"
+"PO-Revision-Date: 2008-12-14 00:47-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -20,43 +21,38 @@ msgstr "Додај"
 #: dialogAcceptLabelSaveItem
 msgctxt "dialogAcceptLabelSaveItem"
 msgid "Save"
-msgstr ""
+msgstr "Сачувај"
 
 #: dialogAcceptLabelAddLivemark
 msgid "Subscribe"
-msgstr ""
+msgstr "Праћење"
 
 #: dialogAcceptLabelAddMulti
 msgid "Add Bookmarks"
 msgstr "Додај забелешке"
 
 #: dialogAcceptLabelEdit
-#, fuzzy
 msgctxt "dialogAcceptLabelEdit"
 msgid "Save"
-msgstr "Сачувај измене"
+msgstr "Сачувај"
 
 #: dialogTitleAddBookmark
-#, fuzzy
 msgctxt "dialogTitleAddBookmark"
 msgid "New Bookmark"
-msgstr "Додај забелешку"
+msgstr "Нова забелешка"
 
 #: dialogTitleAddLivemark
-#, fuzzy
 msgid "Subscribe with Live Bookmark"
 msgstr "Додај живу забелешку"
 
 #: dialogTitleAddFolder
-#, fuzzy
 msgctxt "dialogTitleAddFolder"
 msgid "New Folder"
-msgstr "Додај директоријум"
+msgstr "Нови директоријум"
 
 #: dialogTitleAddMulti
-#, fuzzy
 msgid "New Bookmarks"
-msgstr "Забележи све језичке"
+msgstr "Нове забелешке"
 
 #: dialogTitleEdit
 msgid "Properties for \"%S\""
