@@ -1,12 +1,11 @@
 
-
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 03:08-0800\n"
+"POT-Creation-Date: 2008-12-16 22:12-0700\n"
+"PO-Revision-Date: 2008-12-16 22:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -258,7 +257,7 @@ msgstr "Забелешке"
 #: homeButton.label
 msgctxt "homeButton.label"
 msgid "Home"
-msgstr "Почетна"
+msgstr "Почетак"
 
 #: bookmarksButton.label
 #: bookmarksItem.title
@@ -378,7 +377,7 @@ msgstr "&Уређивање"
 #: undoCmd.accesskey
 msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
-msgstr "&Откажи"
+msgstr "&Опозови"
 
 #: undoCmd.key
 msgid "Z"
@@ -1059,7 +1058,7 @@ msgstr "Откажи"
 
 #: editBookmark.removeBookmark.accessKey
 #: editBookmark.removeBookmark.label
-msgid "Remove Bookmark;Remove Bookmarks (#1)"
+msgid "R"
 msgstr "&Уклони забелешку;Уклони забелешке (#1)"
 
 #: editBookmark.undo.label
