@@ -1,10 +1,10 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browser/chrome/browser/browser.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-14 04:56-0700\n"
+"POT-Creation-Date: 2008-12-16 23:50-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -182,6 +182,10 @@ msgstr ""
 #: bookmarkAllCmd.label
 msgctxt "bookmarkAllCmd.label"
 msgid "Bookmark All Tabs…"
+msgstr ""
+
+#: bookmarksToolbarChevron.tooltip
+msgid "Show more bookmarks"
 msgstr ""
 
 #: backCmd.label
