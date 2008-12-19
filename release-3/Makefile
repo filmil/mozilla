@@ -92,7 +92,7 @@ commit: clean normalize_convert_codepage copy_to_hg
                || ( echo "No $(COMMIT_MESSAGE_FILE)" ; exit 1) ; \
 	MSG=`cat $(COMMIT_MESSAGE_FILE)` ; \
 	( $(CD) $(MOZILLA_CVS)/sr ; \
-        $(CVS) commit -m "$$MSG" ) )
+        $(CVS) commit -A -m "$$MSG" ) )
 	$(RM) $(COMMIT_MESSAGE_FILE)
 
 # Clean the directory with the POT templates
