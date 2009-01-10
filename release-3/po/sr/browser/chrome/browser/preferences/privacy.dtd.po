@@ -1,3 +1,28 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/preferences/privacy.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-10 01:47-0700\n"
+"PO-Revision-Date: 2009-01-10 01:49-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Accelerator-Marker: &\n"
+
+#: history.label
+msgctxt "history.label"
+msgid "History"
+msgstr "Историјат"
+
+#: locbar.pre.label
+#: locbar.pre.accessKey
+msgid "When using the &location bar, suggest:"
+msgstr "При употреби &адресне линије, предложи:"
+
 # LOCALIZATION NOTE:
 # The entities rememberBefore.label and rememberAfter.label appear on a single
 # line in preferences as follows:
@@ -5,10 +30,28 @@
 # &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
 #
 #
+#: locbar.post.label
+msgid ""
+"_: locbar.post.label\n"
+""
+msgstr ""
 
-#: history.label
+#: locbar.both.label
+msgid "History and Bookmarks"
+msgstr "Историјат и забелешке"
+
+#: locbar.history.label
+msgctxt "locbar.history.label"
 msgid "History"
 msgstr "Историјат"
+
+#: locbar.bookmarks.label
+msgid "Bookmarks"
+msgstr "Забелешке"
+
+#: locbar.nothing.label
+msgid "Nothing"
+msgstr "Ништа"
 
 # LOCALIZATION NOTE:
 # The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
@@ -91,11 +134,6 @@ msgstr "Приватни подаци"
 msgid "Al&ways clear my private data when I close &brandShortName;"
 msgstr "&Увек уклањај моје приватне податке када затворим &brandShortName;"
 
-#: askBeforeClear.label
-#: askBeforeClear.accesskey
-msgid "&Ask me before clearing private data"
-msgstr "&Питај пре уклањања приватних података"
-
 #: clearDataSettings.label
 #: clearDataSettings.accesskey
 msgid "Se&ttings…"
@@ -105,7 +143,3 @@ msgstr "По&дешавања…"
 #: clearDataNow.accesskey
 msgid "Clear &Now…"
 msgstr "О&чисти сад…"
-
-#: clearDataNow.label2
-msgid "Clear Now"
-msgstr "Очисти сад"

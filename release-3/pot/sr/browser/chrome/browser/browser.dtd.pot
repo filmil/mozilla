@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-16 22:12-0700\n"
+"POT-Creation-Date: 2009-01-10 01:20-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,13 @@ msgstr ""
 
 #. This will be appended to the window's title
 #. inside the private browsing mode
-#: mainWindowPrivateBrowsing.titlemodifier
-msgid "&mainWindow.titlemodifier; (Private Browsing)"
+#: mainWindow.titlePrivateBrowsingSuffix
+msgid "(Private Browsing)"
+msgstr ""
+
+#. LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE
+#: mainWindow.titlemodifierPrivateBrowsing
+msgid "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;"
 msgstr ""
 
 #: tabCmd.label
@@ -177,6 +182,10 @@ msgstr ""
 #: bookmarkAllCmd.label
 msgctxt "bookmarkAllCmd.label"
 msgid "Bookmark All Tabs…"
+msgstr ""
+
+#: bookmarksToolbarChevron.tooltip
+msgid "Show more bookmarks"
 msgstr ""
 
 #: backCmd.label
@@ -450,9 +459,20 @@ msgstr ""
 msgid "Clear Recent &History"
 msgstr ""
 
-#: privateBrowsingCmd.label
-#: privateBrowsingCmd.accesskey
-msgid "Private &Browsing"
+#. LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu
+#: privateBrowsingCmd.start.label
+#: privateBrowsingCmd.start.accesskey
+msgid "Start Private &Browsing"
+msgstr ""
+
+#: privateBrowsingCmd.stop.label
+#: privateBrowsingCmd.stop.accesskey
+msgid "Stop Private &Browsing"
+msgstr ""
+
+#: privateBrowsingCmd.commandkey
+msgctxt "privateBrowsingCmd.commandkey"
+msgid "P"
 msgstr ""
 
 #: viewMenu.label
@@ -659,6 +679,7 @@ msgstr ""
 
 #. alternate for content area context menu
 #: savePageCmd.accesskey2
+msgctxt "savePageCmd.accesskey2"
 msgid "P"
 msgstr ""
 

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 00:43-0800\n"
+"POT-Creation-Date: 2009-01-10 01:25-0700\n"
+"PO-Revision-Date: 2009-01-10 01:26-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -113,7 +113,7 @@ msgstr "Дозволи"
 #: xpinstallPromptAllowButton.accesskey
 msgctxt "xpinstallPromptAllowButton.accesskey"
 msgid "A"
-msgstr "A"
+msgstr "Д"
 
 #: xpinstallDisabledMessageLocked
 msgid "Software installation has been disabled by your system administrator."
@@ -570,11 +570,17 @@ msgstr "Д"
 msgid "Start Private Browsing"
 msgstr "Покрени поверљиво читање"
 
+#: privateBrowsingMessageHeader
+msgid "Would you like to start Private Browsing?"
+msgstr "Да ли желите да покренете поверљиво читање?"
+
 #: privateBrowsingMessage
 msgid ""
 "%S will save your current tabs for when you are done with your Private "
 "Browsing session."
-msgstr "Програм %S ће сачувати тренутне језичке до тренутка када завршите са поверљивим читањем."
+msgstr ""
+"Програм %S ће сачувати тренутне језичке до тренутка када завршите са "
+"поверљивим читањем."
 
 #: privateBrowsingYesTitle
 msgid "&Start Private Browsing"

@@ -1,10 +1,10 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/branding/brand.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/globalKeys.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-10 01:13-0700\n"
+"POT-Creation-Date: 2009-01-10 01:54-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,21 +14,10 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.2.0\n"
 "X-Accelerator-Marker: &\n"
 
-#: brandShortName
-msgctxt "brandShortName"
-msgid "Minefield"
+#: openHelp.commandkey
+msgid "VK_F1"
 msgstr ""
 
-#: brandFullName
-msgctxt "brandFullName"
-msgid "Minefield"
-msgstr ""
-
-#: vendorShortName
-msgid "Mozilla"
-msgstr ""
-
-#: logoCopyright
-msgid ""
-"_: logoCopyright\n"
+#: openHelpMac.commandkey
+msgid "?"
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-10 01:56-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,6 +49,22 @@ msgstr ""
 msgid ""
 "There are no updates available. Please check again later or enable \n"
 "&brandShortName;'s automatic update checking."
+msgstr ""
+
+#: manualUpdate.title
+msgid "Unable to Update"
+msgstr ""
+
+#: manualUpdate.desc
+msgid ""
+"A recommended security and stability update is available, but you do \n"
+"not have the system permissions required to install it. Please contact your \n"
+"system administrator, or try again from an account that has permission to \n"
+"install software on this computer."
+msgstr ""
+
+#: manualUpdateGetMsg.label
+msgid "You can always get the latest version of &brandShortName; at:"
 msgstr ""
 
 #: incompatibleCheck.title

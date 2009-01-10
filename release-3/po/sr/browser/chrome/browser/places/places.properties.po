@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 00:48-0800\n"
+"POT-Creation-Date: 2009-01-10 01:45-0700\n"
+"PO-Revision-Date: 2009-01-10 01:46-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -221,6 +221,7 @@ msgid "Sort by Location"
 msgstr "Поређај по месту"
 
 #: view.sortBy.url.accesskey
+msgctxt "view.sortBy.url.accesskey"
 msgid "L"
 msgstr "м"
 
@@ -403,3 +404,25 @@ msgstr "Ознака"
 #: bookmarkResultLabel
 msgid "Bookmark"
 msgstr "Забелешка"
+
+#. # LOCALIZATION NOTE (lockPrompt.text)
+#. # %S will be replaced with the application name.
+#: lockPrompt.title
+msgid "Browser Startup Error"
+msgstr "Грешка при покретању читача"
+
+#: lockPrompt.text
+msgid ""
+"The bookmarks and history system will not be functional because one of %S's "
+"files is in use by another application. Some security software can cause "
+"this problem."
+msgstr "Историјат и забелешке неће радити јер неку од датотека програма %S већ користи други програм.  Ово се може десити са неким програмима за безбедност."
+
+#: lockPromptInfoButton.label
+msgid "Learn More"
+msgstr "Сазнајте више"
+
+#: lockPromptInfoButton.accessKey
+msgctxt "lockPromptInfoButton.accessKey"
+msgid "L"
+msgstr "С"

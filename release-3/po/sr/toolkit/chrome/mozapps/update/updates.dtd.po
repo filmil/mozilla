@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 02:23-0800\n"
+"POT-Creation-Date: 2009-01-10 01:56-0700\n"
+"PO-Revision-Date: 2009-01-10 01:57-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,8 @@ msgstr "Доградње нису пронађене"
 msgid ""
 "There are no updates available. &brandShortName; will check \n"
 "periodically for updates."
-msgstr "Нема нових доградњи.  &brandShorName; ће периодични проверавати доградње."
+msgstr ""
+"Нема нових доградњи.  &brandShorName; ће периодични проверавати доградње."
 
 #: noupdatesautodisabled.intro
 msgid ""
@@ -52,6 +53,27 @@ msgid ""
 msgstr ""
 "Нема нових доградњи.  Молимо да проверите касније или да укључите \n"
 "аутоматску проверу у програму &brandShortName;."
+
+#: manualUpdate.title
+msgid "Unable to Update"
+msgstr "Доградња није могућа"
+
+#: manualUpdate.desc
+msgid ""
+"A recommended security and stability update is available, but you do \n"
+"not have the system permissions required to install it. Please contact your \n"
+"system administrator, or try again from an account that has permission to \n"
+"install software on this computer."
+msgstr ""
+"Доступна је препоручена доградња за безбедност и стабилност, али\n"
+"не поседујете права приступа потребна да је инсталирате.  Молимо да\n"
+"се обратите администратору система, или да инсталацију пробате поново\n"
+"уз употребу корисничког налога који има дозволу да инсталира програме\n"
+"на овај рачунар."
+
+#: manualUpdateGetMsg.label
+msgid "You can always get the latest version of &brandShortName; at:"
+msgstr "Најсвежије издање програма &brandShortName; можете набавити на адреси:"
 
 #: incompatibleCheck.title
 msgid "Checking Add-on Compatibility"
@@ -93,7 +115,9 @@ msgstr "Одредбе и услови за употребу овог прогр
 msgid ""
 "Please read the following license agreement. Use the scroll bar to view the "
 "rest of this agreement."
-msgstr "Молимо да прочитате наредни споразум о лиценцирању.  Користите траку за померање како бисте видели остатак споразума."
+msgstr ""
+"Молимо да прочитате наредни споразум о лиценцирању.  Користите траку за "
+"померање како бисте видели остатак споразума."
 
 #: license.accept
 msgid "I accept the terms of the License Agreement"
@@ -182,7 +206,10 @@ msgctxt "finishedPage.text"
 msgid ""
 "The update will be installed the next time &brandShortName; starts. You \n"
 "can restart &brandShortName; now, or continue working and restart later."
-msgstr "Доградња ће бити инсталирана при наредном покретању програма &brandShortName;. Можете одмах да поново покренете програм &brandShortName; или да наставите рад и то урадите касније."
+msgstr ""
+"Доградња ће бити инсталирана при наредном покретању програма "
+"&brandShortName;. Можете одмах да поново покренете програм &brandShortName; "
+"или да наставите рад и то урадите касније."
 
 #: finishedBackgroundPage.text
 msgid ""
@@ -203,8 +230,10 @@ msgid ""
 "The update will be installed the next time &brandShortName; starts. You \n"
 "can restart &brandShortName; now, or continue working and restart later."
 msgstr ""
-"Доградња ће бити инсталирана при наредном покретању програма &brandShortName; starts. Можете\n"
-"да одмах поново покренете &brandShortName; или да наставите са радом и то урадите касније."
+"Доградња ће бити инсталирана при наредном покретању програма "
+"&brandShortName; starts. Можете\n"
+"да одмах поново покренете &brandShortName; или да наставите са радом и то "
+"урадите касније."
 
 #: installed.title
 msgid "Update Installed"
