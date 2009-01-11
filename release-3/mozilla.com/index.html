@@ -1,0 +1,63 @@
+<?php
+    $body_id    = 'landing-page';
+    $body_class = 'locale-'.$lang;
+    // translate the $page_title and $extra_headers  and meta variables below
+    $page_title = 'Веб читач фајерфокс (Firefox) на српском | Бржи, безбеднији и прилагодљивији него икад';
+    $extra_headers = <<<EXTRA_HEADERS
+    <meta name="description" content="Добродошли у фајерфокс на српском!  Веб читач фајерфокс је бржи, безбеднији и потпуно прилагодљив начин за читање страна на Интернету." />
+EXTRA_HEADERS;
+
+    @include_once "{$config['file_root']}/{$lang}/includes/header-landing-page-l10n.inc.php";
+
+?>
+
+<div id="main-feature">
+    <div id="feature-contents">
+        <h2 id="firefox-headline">
+            Набавите фајерфокс 3 на српском
+        </h2>
+    <p id="firefox-intro">
+        Сада је доступан и на српском — фајерфокс 3 је бржи, безбеднији и паметнији него икад.  Садржи више од 15000 побољшања и говори Вашим језиком.
+    </p>
+    </div>
+
+
+<script type="text/javascript" src="/js/download.js"></script>
+<?php
+    // php call to display the download box, nothing to translate in the line below
+    echo $firefoxDetails->getDownloadBlockForLocale($lang,  array('ancillary_links' => false, 'download_product' => 'Free Download') );
+?>
+
+</div>
+<div id="main-content">
+    <div id="learn_more" class="sub-feature">
+        <h3>Треба Вам помоћ?</h3>
+        <p>
+        Наша страна са подршком садржи мноштво одговора, као и могућност за разговор уживо који ће Вам помоћи око тешкоћа у раду. <a href="http://support.mozilla.com/<?=$lang?>/kb/">Посетите подршку</a>
+        </p>
+    </div>
+
+    <div id="questions" class="sub-feature">
+        <h3>Више података</h3>
+        <p>
+        Проверите Ваш локални веб сајт на српском за више података о фајерфоксу.<a href="">Посетите локални веб сајт</a>
+        </p>
+    </div>
+    <div id="community" class="sub-feature">
+        <h3>Други језици</h3>
+        <p>
+	Ако ово није језик ког тражите, прегледајте наш списак локализованих читача. <a href="/<?=$lang?>/firefox/all.html">Преглед свих језика</a>
+        </p>
+    </div>
+
+
+    <p class="thunderbird">
+    Уживајте у безбедном, брзом и лагодном слању поште на Мозилин начин, употребом тандерберда (Thunderbird), нашег клијента за електронску пошту
+    <a href="/<?=$lang?>/thunderbird/">Сазнајте више</a>
+    </p>
+</div>
+
+
+<?php
+    @include_once "{$config['file_root']}/{$lang}/includes/footer-portal-pages.inc.php";
+?>
