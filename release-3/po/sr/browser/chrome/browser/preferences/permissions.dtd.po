@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/preferences/permissions.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2009-01-14 02:01-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +29,7 @@ msgstr "36em"
 
 #: treehead.sitename.label
 msgid "Site"
-msgstr "Веб место"
+msgstr "Сајт"
 
 #: treehead.status.label
 msgid "Status"
@@ -37,7 +38,7 @@ msgstr "Статус"
 #: removepermission.label
 #: removepermission.accesskey
 msgid "&Remove Site"
-msgstr "&Уклони веб место"
+msgstr "&Уклони веб сајт"
 
 #: removeallpermissions.label
 #: removeallpermissions.accesskey
@@ -46,9 +47,8 @@ msgstr "Уклони &све веб сајтове"
 
 #: address.label
 #: address.accesskey
-#, fuzzy
 msgid "A&ddress of web site:"
-msgstr "Адреса веб сајта:"
+msgstr "А&дреса веб сајта:"
 
 #: block.label
 #: block.accesskey
