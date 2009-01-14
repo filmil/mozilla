@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-16 22:17+0200\n"
+"PO-Revision-Date: 2009-01-14 01:51-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -23,15 +23,15 @@ msgstr "Главна трака"
 
 #: multiline-expand.tooltip
 msgid "Switch to multi-line input (Ctrl+Up)"
-msgstr "Пређи на више-линијски улаз (ктрл+стр.горе)"
+msgstr "Пређи на више-линијски улаз (Ctrl+стр.горе)"
 
 #: multiline-contract.tooltip
 msgid "Switch to single-line input (Ctrl+Down)"
-msgstr "Пређи на једно-линијски улаз (ктрл+стр.доле)"
+msgstr "Пређи на једно-линијски улаз (Ctrl+стр.доле)"
 
 #: multiline-send.tooltip
 msgid "Send this text (Ctrl+Enter)"
-msgstr "Пошаљи овај текст (ктрл+ентер)"
+msgstr "Пошаљи овај текст (Ctrl+Enter)"
 
 #: server-nick.tooltip
 msgid ""
