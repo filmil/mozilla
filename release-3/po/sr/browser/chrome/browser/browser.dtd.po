@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-01-10 01:20-0700\n"
-"PO-Revision-Date: 2009-01-10 01:25-0800\n"
+"PO-Revision-Date: 2009-01-14 01:48-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -305,7 +305,7 @@ msgstr "h"
 #: toolsMenu.label
 #: toolsMenu.accesskey
 msgid "&Tools"
-msgstr "А&лати"
+msgstr "А&латке"
 
 #: keywordfield.label
 #: keywordfield.accesskey

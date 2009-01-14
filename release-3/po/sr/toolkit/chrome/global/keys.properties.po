@@ -1,3 +1,4 @@
+
 #. # LOCALIZATION NOTE : FILE This file contains the application's labels for keys on the keyboard.
 #. #                     If you decide to translate this file, you should translate it based on
 #. #                     the prevelant kind of keyboard for your target user.
@@ -12,7 +13,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-04-07 22:14+0200\n"
+"PO-Revision-Date: 2009-01-14 01:52-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -160,15 +161,15 @@ msgstr "стр. доле"
 #. # LOCALIZATION NOTE : BLOCK maybe GLYPHS
 #: VK_ENTER
 msgid "Enter"
-msgstr "нови ред"
+msgstr "Enter"
 
 #: VK_RETURN
 msgid "Return"
-msgstr "нови ред"
+msgstr "Return"
 
 #: VK_TAB
 msgid "Tab"
-msgstr "таб"
+msgstr "Tab"
 
 #: VK_BACK
 msgid "Backspace"
@@ -176,7 +177,7 @@ msgstr "брисање"
 
 #: VK_DELETE
 msgid "Del"
-msgstr "дел"
+msgstr "Del"
 
 # LOCALIZATION NOTE : BLOCK end maybe GLYPHS
 # LOCALIZATION NOTE : BLOCK typing state keys
@@ -184,18 +185,18 @@ msgstr "дел"
 #. # LOCALIZATION NOTE : BLOCK typing state keys
 #: VK_HOME
 msgid "Home"
-msgstr "поч"
+msgstr "Home"
 
 #: VK_END
 msgid "End"
-msgstr "крај"
+msgstr "End"
 
 # FIXME Escape in Serbian
 #: VK_ESCAPE
 msgid "Esc"
-msgstr "есц"
+msgstr "Esc"
 
 # FIXME Ins in Serbian
 #: VK_INSERT
 msgid "Ins"
-msgstr "инс"
+msgstr "Ins"
