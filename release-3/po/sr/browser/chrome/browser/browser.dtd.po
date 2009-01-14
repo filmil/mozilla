@@ -1,10 +1,11 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browser/chrome/browser/browser.dtd
+
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browse# r/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-16 23:50-0700\n"
-"PO-Revision-Date: 2008-12-16 23:51-0800\n"
+"PO-Revision-Date: 2009-01-14 02:16-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
