@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2009-01-14 02:01-0800\n"
+"PO-Revision-Date: 2009-01-14 02:03-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,6 @@ msgstr ""
 msgid "Exceptions"
 msgstr "Изузеци"
 
-# (pofilter) unchanged: please translate
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
 msgid ""
