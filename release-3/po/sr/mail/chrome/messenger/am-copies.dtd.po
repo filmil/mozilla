@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-copies.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-01-18 15:10-0700\n"
-"PO-Revision-Date: 2009-01-18 15:11-0800\n"
+"PO-Revision-Date: 2009-01-18 15:21-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -78,7 +79,7 @@ msgstr "Дру&ги:"
 #: archivesFolderOn.label
 #: archivesFolderOn.accesskey
 msgid "&quot;Archives&quot; Fol&der on:"
-msgstr "Место чувања архиве:"
+msgstr "Место &чувања архиве:"
 
 #: archiveInOtherFolder.label
 #: archiveInOtherFolder.accesskey
