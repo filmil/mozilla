@@ -1,10 +1,9 @@
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browser/chrome/browser/browser.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-16 23:50-0700\n"
+"POT-Creation-Date: 2009-01-10 01:20-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -459,9 +458,20 @@ msgstr ""
 msgid "Clear Recent &History"
 msgstr ""
 
-#: privateBrowsingCmd.label
-#: privateBrowsingCmd.accesskey
-msgid "Private &Browsing"
+#. LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu
+#: privateBrowsingCmd.start.label
+#: privateBrowsingCmd.start.accesskey
+msgid "Start Private &Browsing"
+msgstr ""
+
+#: privateBrowsingCmd.stop.label
+#: privateBrowsingCmd.stop.accesskey
+msgid "Stop Private &Browsing"
+msgstr ""
+
+#: privateBrowsingCmd.commandkey
+msgctxt "privateBrowsingCmd.commandkey"
+msgid "P"
 msgstr ""
 
 #: viewMenu.label
@@ -668,6 +678,7 @@ msgstr ""
 
 #. alternate for content area context menu
 #: savePageCmd.accesskey2
+msgctxt "savePageCmd.accesskey2"
 msgid "P"
 msgstr ""
 

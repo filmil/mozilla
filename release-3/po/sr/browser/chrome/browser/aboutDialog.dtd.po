@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-09-14 00:06+0200\n"
+"POT-Creation-Date: 2009-01-10 01:14-0700\n"
+"PO-Revision-Date: 2009-01-10 01:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -46,12 +46,18 @@ msgstr "издање"
 msgid "&Close"
 msgstr "&Затвори"
 
-#: copyrightInfo
-msgid ""
-"&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the \n"
-"Firefox logos are trademarks of the Mozilla Foundation.  All rights \n"
-"reserved."
-msgstr ""
-"&#169;1998-2008 Приложници. Сва права су задржана.  Фајерфокс (Firefox) и "
-"фајерфоксови логотипови су робне марке Мозилине задужбине.  Сва права су "
-"задржана."
+#: copyrightInfo1
+msgid "&#169;1998-2009 Contributors. All rights reserved. ("
+msgstr "&#169;1998-2009 приложници. Сва права су задржана. ("
+
+#: licenseLink
+msgid "about:license"
+msgstr "about:license"
+
+#: licenseLinkText
+msgid "Licensing information"
+msgstr "Подаци о лиценцирању"
+
+#: copyrightInfo2
+msgid ")."
+msgstr ")."

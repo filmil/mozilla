@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/sanitize.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 00:21-0800\n"
+"POT-Creation-Date: 2009-01-10 01:51-0700\n"
+"PO-Revision-Date: 2009-01-10 01:51-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +33,9 @@ msgstr "При крају рада са програмом &brandShortName;, а�
 
 #. XXX rearrange entities to match physical layout when l10n isn't an issue
 #: clearDuration.label
-msgid "Remove "
-msgstr "Уклони"
+#: clearDuration.accesskey
+msgid "&Remove "
+msgstr "&Уклони"
 
 #: clearDuration.lastHour
 msgid "the last hour"

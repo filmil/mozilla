@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/other-licenses/branding/firefox/brand.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-26 23:46+0100\n"
+"POT-Creation-Date: 2009-01-10 01:53-0700\n"
+"PO-Revision-Date: 2009-01-10 01:53-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,3 +25,9 @@ msgstr "Мозилин фајерфокс (Mozilla Firefox)"
 #: vendorShortName
 msgid "Mozilla"
 msgstr "Мозила (Mozilla)"
+
+#: logoCopyright
+msgid ""
+"Firefox and the Firefox logos are trademarks of the Mozilla Foundation. All "
+"rights reserved."
+msgstr "Фајерфокс и фајерфоксов логотип су робне марке Мозилине задужбине.  Сва права су задржана."

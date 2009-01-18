@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-10 01:47-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,35 @@ msgstr ""
 "X-Accelerator-Marker: &\n"
 
 #: history.label
+msgctxt "history.label"
 msgid "History"
+msgstr ""
+
+#: locbar.pre.label
+#: locbar.pre.accessKey
+msgid "When using the &location bar, suggest:"
+msgstr ""
+
+#: locbar.post.label
+msgid ""
+"_: locbar.post.label\n"
+msgstr ""
+
+#: locbar.both.label
+msgid "History and Bookmarks"
+msgstr ""
+
+#: locbar.history.label
+msgctxt "locbar.history.label"
+msgid "History"
+msgstr ""
+
+#: locbar.bookmarks.label
+msgid "Bookmarks"
+msgstr ""
+
+#: locbar.nothing.label
+msgid "Nothing"
 msgstr ""
 
 #. LOCALIZATION NOTE:
@@ -91,11 +119,6 @@ msgstr ""
 msgid "Al&ways clear my private data when I close &brandShortName;"
 msgstr ""
 
-#: askBeforeClear.label
-#: askBeforeClear.accesskey
-msgid "&Ask me before clearing private data"
-msgstr ""
-
 #: clearDataSettings.label
 #: clearDataSettings.accesskey
 msgid "Se&ttings…"
@@ -104,8 +127,4 @@ msgstr ""
 #: clearDataNow.label
 #: clearDataNow.accesskey
 msgid "Clear &Now…"
-msgstr ""
-
-#: clearDataNow.label2
-msgid "Clear Now"
 msgstr ""

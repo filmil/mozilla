@@ -1,5 +1,5 @@
 
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browse# r/chrome/browser/browser.dtd
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -18,7 +18,7 @@ msgstr ""
 #. inside the private browsing mode
 #: mainWindow.titlePrivateBrowsingSuffix
 msgid "(Private Browsing)"
-msgstr "(поверљив преглед)"
+msgstr "(поверљиво читање)"
 
 #. LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE
 #: mainWindow.titlemodifierPrivateBrowsing
@@ -170,18 +170,13 @@ msgstr "Претплата на ову страну"
 msgid "Subscribe to This Page…"
 msgstr "Претплата на ову страну…"
 
-#: addCurPagesCmd.label
-msgctxt "addCurPagesCmd.label"
-msgid "Bookmark All Tabs…"
-msgstr "Забележи све језичке…"
-
 #: organizeBookmarks.label
 msgid "Organize Bookmarks…"
 msgstr "Уреди забелешке…"
 
 #: bookmarkAllCmd.label
 #: addCurPagesCmd.label
-msgctxt "bookmarkAllCmd.label"
+msgctxt "bookmarkAllCmd.label addCurPagesCmd.label"
 msgid "Bookmark All Tabs…"
 msgstr "Забележи све језичке…"
 
@@ -257,20 +252,15 @@ msgstr "Претрага"
 msgid "Activity Indicator"
 msgstr "Показатељ активности"
 
-#: bookmarksItem.title
-msgctxt "bookmarksItem.title"
-msgid "Bookmarks"
-msgstr "Забелешке"
-
 #. Toolbar items
 #: homeButton.label
 msgctxt "homeButton.label"
 msgid "Home"
-msgstr "Почетак"
+msgstr "Почетна"
 
 #: bookmarksButton.label
 #: bookmarksItem.title
-msgctxt "bookmarksButton.label"
+msgctxt "bookmarksButton.label bookmarksItem.title"
 msgid "Bookmarks"
 msgstr "Забелешке"
 
@@ -305,7 +295,7 @@ msgstr "Приказује списак недавно посећених стр
 #: historySidebarCmd.accesskey
 msgctxt "historySidebarCmd.accesskey"
 msgid "s"
-msgstr "s"
+msgstr "с"
 
 #: historySidebarCmd.commandKey
 msgid "h"
@@ -463,10 +453,21 @@ msgstr "Поде&шавања"
 msgid "Clear Recent &History"
 msgstr "Уклони скорашњи &историјат"
 
-#: privateBrowsingCmd.label
-#: privateBrowsingCmd.accesskey
-msgid "Private &Browsing"
-msgstr "&Поверљиво читање"
+#. LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu
+#: privateBrowsingCmd.start.label
+#: privateBrowsingCmd.start.accesskey
+msgid "Start Private &Browsing"
+msgstr "Укључи &поверљиво читање"
+
+#: privateBrowsingCmd.stop.label
+#: privateBrowsingCmd.stop.accesskey
+msgid "Stop Private &Browsing"
+msgstr "Искључи &поверљиво читање"
+
+#: privateBrowsingCmd.commandkey
+msgctxt "privateBrowsingCmd.commandkey"
+msgid "P"
+msgstr "P"
 
 #: viewMenu.label
 #: viewMenu.accesskey
@@ -704,6 +705,7 @@ msgstr "Сачувај страну &као…"
 # alternate for content area context menu
 #. alternate for content area context menu
 #: savePageCmd.accesskey2
+msgctxt "savePageCmd.accesskey2"
 msgid "P"
 msgstr "P"
 
