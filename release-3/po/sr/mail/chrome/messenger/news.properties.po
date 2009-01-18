@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-30 18:09+0200\n"
+"POT-Creation-Date: 2009-01-18 14:39-0700\n"
+"PO-Revision-Date: 2009-01-18 14:40-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -149,6 +149,14 @@ msgstr "Порука је отказана."
 msgid "Please enter a username for news server access:"
 msgstr "Молимо унесите корисничко име за приступ групама:"
 
+#: enterUsernameTitle
+msgid "News Server Username Required"
+msgstr "Унесите корисничко име за приступ серверу за групе"
+
+#: saveUsername
+msgid "Use Password Manager to remember this value."
+msgstr "Користи управника лозинкама за памћење ове вредности."
+
 #: enterPassword
 msgid "Please enter a password for news server access:"
 msgstr "Молимо унесите лозинку за приступ групама:"
@@ -174,7 +182,7 @@ msgstr "Број примљених чланака: %S од укупно: %S"
 
 #: downloadingFilterHeaders
 msgid "Getting headers for filters: %S (%S/%S)"
-msgstr ""
+msgstr "Добављање заглавља за филтере: %S (%S/%S)"
 
 #: downloadingArticles
 msgid "Downloading articles %S-%S"

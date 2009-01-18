@@ -1,3 +1,4 @@
+
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #. #
@@ -40,8 +41,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 20:21-0800\n"
+"POT-Creation-Date: 2009-01-18 14:45-0700\n"
+"PO-Revision-Date: 2009-01-18 14:47-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -239,9 +240,13 @@ msgstr ""
 "Да ли желите да сажмете све локалне директоријуме како бисте уштедели "
 "простор на диску?"
 
-#: autoCompactAllFoldersCheckbox
-msgid "Do this automatically from now on."
-msgstr "Убудуће ради ово аутоматски."
+#: autoCompactAlwaysAskCheckbox
+msgid "Always ask me before compacting folders automatically"
+msgstr "Увек ме питај пре аутоматског сажимања директоријума"
+
+#: compactNowButton
+msgid "Compact &Now"
+msgstr "Сажми &сада"
 
 #: confirmFolderDeletionForFilter
 msgid ""
@@ -576,6 +581,10 @@ msgctxt "junkFolderName"
 msgid "Junk"
 msgstr "Непожељно"
 
+#: archivesFolderName
+msgid "Archives"
+msgstr "Архиве"
+
 # Error message for special folder deletion on imap accounts
 # LOCALIZATION NOTES (specialFolderDeletionErr): Do not translate "IMAP" in the line below
 #. # Error message for special folder deletion on imap accounts
@@ -671,7 +680,7 @@ msgstr "Прилози"
 #. #Grouped by starred
 #: notFlagged
 msgid "Not Starred"
-msgstr "Нема звездицу"
+msgstr "Без звезде"
 
 #: groupFlagged
 msgctxt "groupFlagged"
@@ -1211,7 +1220,10 @@ msgid ""
 "%1$S thinks this message is a scam. The links in the message may be trying "
 "to impersonate web pages you want to visit. Are you sure you want to visit "
 "%2$S?"
-msgstr "Програм %1$S мисли да је ова порука превара.  Везе дате у поруци можда покушавају да имитирају веб странице које желите да посетите.  Да ли сигурно желите да посетите страну %2$S?"
+msgstr ""
+"Програм %1$S мисли да је ова порука превара.  Везе дате у поруци можда "
+"покушавају да имитирају веб странице које желите да посетите.  Да ли сигурно "
+"желите да посетите страну %2$S?"
 
 #. # Check for Updates
 #: updatesItem_default
@@ -1246,7 +1258,7 @@ msgstr "Наставак пријема доградње…"
 #: updatesItem_pending
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
-msgstr "Примени одмах примљену доградњу…"
+msgstr "Примењују се примљене доградње…"
 
 #: updatesItem_pendingFallback
 #: updatesItem_pending
@@ -1331,7 +1343,9 @@ msgstr "Потврди"
 msgid ""
 "Are you sure you want to permanently delete all messages and subfolders in "
 "the Junk folder?"
-msgstr "Да ли сигурно желите да уклоните све поруке и поддиректоријуме из директоријума са непожељним порукама?"
+msgstr ""
+"Да ли сигурно желите да уклоните све поруке и поддиректоријуме из "
+"директоријума са непожељним порукама?"
 
 #: emptyJunkDontAsk
 msgctxt "emptyJunkDontAsk"
@@ -1353,7 +1367,9 @@ msgstr "Потврди"
 msgid ""
 "Are you sure you want to permanently delete all messages and subfolders in "
 "the Trash folder?"
-msgstr "Да ли сигурно желите да уклоните све поруке и поддиректоријуме из директоријума канте за смеће?"
+msgstr ""
+"Да ли сигурно желите да уклоните све поруке и поддиректоријуме из "
+"директоријума канте за смеће?"
 
 #: emptyTrashDontAsk
 msgctxt "emptyTrashDontAsk"
@@ -1374,3 +1390,8 @@ msgstr "Обрада непожељне поште"
 #: headerFieldYou
 msgid "You"
 msgstr "ви"
+
+#. # The what's new tab title, shown on version update
+#: whatsNew
+msgid "What's New"
+msgstr "Шта има ново"

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-01-18 15:10-0700\n"
+"PO-Revision-Date: 2009-01-18 15:11-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,6 @@ msgstr "&Смести умножак у:"
 
 #: fccReplyFollowsParent.label
 #: fccReplyFollowsParent.accesskey
-#, fuzzy
 msgid "Pla&ce replies in the folder of the message being replied to"
 msgstr "&Смести одговоре у директоријум поруке на коју се одговара"
 
@@ -45,14 +44,12 @@ msgstr "&сКоп ове адресе:"
 
 #: saveMessageDlg.label
 #: saveMessageDlg.accesskey
-#, fuzzy
 msgid "Sho&w confirmation dialog when messages are saved"
 msgstr "&Прикажи прозорче са потврдом када се поруке чувају"
 
 #. OK to translate this, bug #57440
 #: sentFolderOn.label
 #: sentFolderOn.accesskey
-#, fuzzy
 msgid ""
 "_: OK to translate this, bug #57440\n"
 "&quot;&Sent&quot; Folder on:"
@@ -73,8 +70,21 @@ msgstr "Директоријум за &нацрте на:"
 
 #: draftInOtherFolder.label
 #: draftInOtherFolder.accesskey
+msgctxt "draftInOtherFolder.label draftInOtherFolder.accesskey"
 msgid "O&ther:"
 msgstr "Дру&ги:"
+
+#. OK to translate this, bug #57440
+#: archivesFolderOn.label
+#: archivesFolderOn.accesskey
+msgid "&quot;Archives&quot; Fol&der on:"
+msgstr "Место чувања архиве:"
+
+#: archiveInOtherFolder.label
+#: archiveInOtherFolder.accesskey
+msgctxt "archiveInOtherFolder.label archiveInOtherFolder.accesskey"
+msgid "O&ther:"
+msgstr "О&стало:"
 
 #. OK to translate this, bug #57440
 #: templatesFolderOn.label
@@ -86,18 +96,21 @@ msgstr "Директоријум за &скице на:"
 
 #: templateInOtherFolder.label
 #: templateInOtherFolder.accesskey
-#, fuzzy
 msgid "Oth&er:"
 msgstr "Друг&и:"
 
 #: specialFoldersTitle.label
-msgid "Drafts and Templates"
-msgstr "Скице и обрасци"
+msgid "Drafts, Archives, and Templates"
+msgstr "Скице, архиве и обрасци"
 
 #: keepDrafts.label
 #: draftMailFolder.label
 msgid "Keep message drafts in:"
 msgstr "Чувај нацрте у:"
+
+#: keepArchives.label
+msgid "Keep message archives in:"
+msgstr "Чувај архиве у:"
 
 #: keepTempltes.label
 #: templateMailFolder.label

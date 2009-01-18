@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 17:37-0800\n"
+"POT-Creation-Date: 2009-01-18 15:08-0700\n"
+"PO-Revision-Date: 2009-01-18 15:09-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -76,6 +76,11 @@ msgstr "Уклони све осим пос&ледњих"
 #: retentionKeepUnread.accesskey
 msgid "Al&ways delete read messages"
 msgstr "Увек уклони про&читане поруке"
+
+#: retentionApplyToFlagged.label
+#: retentionApplyToFlagged.accesskey
+msgid "Always k&eep starred messages"
+msgstr "Увек чувај поруке са &звездом"
 
 #: nntpRemoveBody.label
 #: nntpRemoveBody.accesskey

@@ -1,3 +1,4 @@
+
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
 # Junk Mail Controls
@@ -92,40 +93,29 @@ msgstr "&Користи преузет списак познатих прева�
 # Passwords
 #. Passwords
 #: savedPasswords.intro
-msgid ""
-"&brandShortName; can remember password information for all of your accounts "
-"so you do not need to re-enter your login details."
-msgstr ""
-"&brandShortName; може памтити податке везане за пријаву на веб страну, тако "
-"да их касније не морате поново уносити."
+msgid "&brandShortName; can remember passwords for all of your accounts."
+msgstr "&brandShortName; може да запамти лозинке за све Ваше налоге."
 
-#: encryptEnabled.label
-#: encryptEnabled.accesskey
-msgid "U&se a master password to encrypt stored passwords"
-msgstr "Користи &главну лозинку за шифровање сачуваних лозинки"
+#: useMasterPassword.label
+#: useMasterPassword.accesskey
+msgid "Use a &master password"
+msgstr "Користи &главну лозинку"
 
 #: masterPassword.intro
 msgid ""
-"When set, the Master Password protects all your passwords - but you must "
-"enter it once per session."
-msgstr ""
-"Када је постављена главна лозинка чува веше лозинке, али морате је уносити "
-"једном по сесији."
+"A Master Password protects all your passwords, but you must enter it once "
+"per session."
+msgstr "Главна лозинка штити све Ваше лозинке, али је морате унети бар једном по сесији."
 
-#: setMasterPassword.label
-#: setMasterPassword.accesskey
-msgid "&Master Password"
-msgstr "&Главна лозинка"
+#: changeMasterPassword.label
+#: changeMasterPassword.accesskey
+msgid "&Change Master Password…"
+msgstr "&Промени главну лозинку…"
 
-#: removeMasterPassword.label
-#: removeMasterPassword.accesskey
-msgid "&Remove Master Password…"
-msgstr "&Уклони главну лозинку…"
-
-#: editPasswords.label
-#: editPasswords.accesskey
-msgid "Ed&it Saved Passwords"
-msgstr "&Уреди сачуване лозинке"
+#: savedPasswords.label
+#: savedPasswords.accesskey
+msgid "&Saved Passwords…"
+msgstr "&Сачуване лозинке…"
 
 # Anti Virus
 #. Anti Virus

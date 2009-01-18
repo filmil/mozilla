@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messengercompose/messengercompose.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 04:12-0800\n"
+"POT-Creation-Date: 2009-01-18 14:42-0700\n"
+"PO-Revision-Date: 2009-01-18 14:44-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -45,10 +46,10 @@ msgstr "M"
 msgid "N"
 msgstr "N"
 
-#: newCard.label
-#: newCard.accesskey
-msgid "Address Book &Card…"
-msgstr "&Картица из адресара…"
+#: newContact.label
+#: newContact.accesskey
+msgid "Address Book &Contact…"
+msgstr "Контакт из &адресара…"
 
 #: attachMenu.label
 #: attachMenu.accesskey
@@ -159,7 +160,7 @@ msgstr "&Уреди"
 #: undoCmd.accesskey
 msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
-msgstr "&Опозови"
+msgstr "&Откажи"
 
 #: undoCmd.key
 msgid "Z"
@@ -178,7 +179,7 @@ msgstr "Y"
 #: cutCmd.accesskey
 msgctxt "cutCmd.label cutCmd.accesskey"
 msgid "Cu&t"
-msgstr "&Исеци"
+msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
@@ -198,7 +199,7 @@ msgstr "C"
 #: pasteCmd.accesskey
 msgctxt "pasteCmd.label pasteCmd.accesskey"
 msgid "&Paste"
-msgstr "&Налепи"
+msgstr "&Убаци"
 
 #: pasteCmd.key
 msgctxt "pasteCmd.key"
@@ -289,8 +290,9 @@ msgid "&Toolbars"
 msgstr "&Алатне траке"
 
 #: showCompositionToolbarCmd.label
-msgid "Composition Toolbar"
-msgstr "Алатна трака за писање"
+#: showCompositionToolbarCmd.accesskey
+msgid "C&omposition Toolbar"
+msgstr "Трака за &писање"
 
 #: showFormattingBarCmd.label
 #: showFormattingBarCmd.accesskey
@@ -326,15 +328,18 @@ msgstr "&Формат"
 msgid "O&ptions"
 msgstr "&Опције"
 
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
 #: checkSpellingCmd.label
 #: checkSpellingCmd.accesskey
 msgid "C&heck Spelling…"
 msgstr "&Провера правописа…"
 
-#: checkSpellingCmd.key
-msgid "K"
-msgstr "K"
+#: checkSpellingCmd2.key
+msgid "p"
+msgstr "p"
 
+#: checkSpellingCmd2.key2
 #: checkSpellingCmd.key2
 msgid "VK_F7"
 msgstr "VK_F7"
@@ -528,10 +533,6 @@ msgstr "Правопис"
 #: saveButton.label
 msgid "Save"
 msgstr "Сачувај"
-
-#: throbberItem.title
-msgid "Activity Indicator"
-msgstr "Показивач активности"
 
 # Mail Toolbar Tooltips
 #. Mail Toolbar Tooltips

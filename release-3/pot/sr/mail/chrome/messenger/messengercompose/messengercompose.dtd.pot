@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-18 14:42-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,9 +43,9 @@ msgstr ""
 msgid "N"
 msgstr ""
 
-#: newCard.label
-#: newCard.accesskey
-msgid "Address Book &Card…"
+#: newContact.label
+#: newContact.accesskey
+msgid "Address Book &Contact…"
 msgstr ""
 
 #: attachMenu.label
@@ -279,7 +279,8 @@ msgid "&Toolbars"
 msgstr ""
 
 #: showCompositionToolbarCmd.label
-msgid "Composition Toolbar"
+#: showCompositionToolbarCmd.accesskey
+msgid "C&omposition Toolbar"
 msgstr ""
 
 #: showFormattingBarCmd.label
@@ -314,16 +315,16 @@ msgstr ""
 msgid "O&ptions"
 msgstr ""
 
-#: checkSpellingCmd.label
-#: checkSpellingCmd.accesskey
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
 msgid "C&heck Spelling…"
 msgstr ""
 
-#: checkSpellingCmd.key
-msgid "K"
+#: checkSpellingCmd2.key
+msgid "p"
 msgstr ""
 
-#: checkSpellingCmd.key2
+#: checkSpellingCmd2.key2
 msgid "VK_F7"
 msgstr ""
 
@@ -510,10 +511,6 @@ msgstr ""
 
 #: saveButton.label
 msgid "Save"
-msgstr ""
-
-#: throbberItem.title
-msgid "Activity Indicator"
 msgstr ""
 
 #. Mail Toolbar Tooltips

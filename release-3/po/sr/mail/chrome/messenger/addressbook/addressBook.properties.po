@@ -41,8 +41,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 18:34-0800\n"
+"POT-Creation-Date: 2009-01-18 15:11-0700\n"
+"PO-Revision-Date: 2009-01-18 15:13-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -73,25 +73,23 @@ msgstr "%S, %S"
 msgid "%S %S"
 msgstr "%S %S"
 
-#: newCardTitle
-msgid "New Card"
-msgstr "Нова картица"
+#: newContactTitle
+msgid "New Contact"
+msgstr "Нови контакт"
 
-# %S will be the card's display name
-#. # %S will be the card's display name
-#: newCardTitleWithDisplayName
-msgid "New Card for %S"
-msgstr "Нова картица за %S"
+#. # %S will be the contact's display name
+#: newContactTitleWithDisplayName
+msgid "New Contact for %S"
+msgstr "Нови контакт за %S"
 
-#: editCardTitle
-msgid "Edit Card"
-msgstr "Уреди картицу"
+#: editContactTitle
+msgid "Edit Contact"
+msgstr "Уреди контакт"
 
-# %S will be the card's display name
-#. # %S will be the card's display name
-#: editCardTitleWithDisplayName
-msgid "Edit Card for %S"
-msgstr "Уреди картицу за %S"
+#. # %S will be the contact's display name
+#: editContactTitleWithDisplayName
+msgid "Edit Contact for %S"
+msgstr "Уреди контакт за %S"
 
 # don't translate vCard
 #. # don't translate vCard
@@ -127,10 +125,6 @@ msgstr "Основна ел. адреса мора бити облика кор�
 #: incorrectEmailAddressFormatTitle
 msgid "Incorrect Email Address Format"
 msgstr "Формат ел. адресе је неисправан"
-
-#: viewCardTitle
-msgid "Card for %S"
-msgstr "Картица за %S"
 
 #: viewListTitle
 msgid "Mailing List: %S"
@@ -171,9 +165,10 @@ msgstr ""
 msgid "Are you sure you want to delete the selected mailing list?"
 msgstr "Да ли сигурно желите да обришете изабрано дописно друштво?"
 
-#: confirmDeleteListsAndCards
-msgid "Are you sure you want to delete the selected cards and mailing lists?"
-msgstr "Да ли сигурно желите да обришете изабране картице и дописна друштва?"
+#: confirmDeleteListsAndContacts
+msgid ""
+"Are you sure you want to delete the selected contacts and mailing lists?"
+msgstr "Да ли сигурно желите да уклоните изабране контакте и листе слања?"
 
 #: confirmDeleteMailingLists
 msgid "Are you sure you want to delete the selected mailing lists?"
@@ -327,17 +322,12 @@ msgstr "Сакупљене адресе"
 msgid "Mac OS X Address Book"
 msgstr "Мекинтошев адресар"
 
-# status bar stuff
-## LOCALIZATION NOTE (totalCardStatus):
-## %1$S is address book name, %2$S is card count
-# # LOCALIZATION NOTE (totalCardStatus):
-# # %1$S is address book name, %2$S is card count
 #. # status bar stuff
-#. ## LOCALIZATION NOTE (totalCardStatus): 
-#. ## %1$S is address book name, %2$S is card count
-#: totalCardStatus
-msgid "Total Cards in %1$S: %2$S"
-msgstr "Укупно картица у %1$S: %2$S"
+#. ## LOCALIZATION NOTE (totalContactStatus):
+#. ## %1$S is address book name, %2$S is contact count
+#: totalContactStatus
+msgid "Total contacts in %1$S: %2$S"
+msgstr "Укупно контаката за %1$S: %2$S"
 
 ## LOCALIZATION NOTE (matchesFound):  do not localize %S
 #. ## LOCALIZATION NOTE (matchesFound):  do not localize %S

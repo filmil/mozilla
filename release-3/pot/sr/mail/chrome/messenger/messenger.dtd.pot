@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-18 14:48-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -254,6 +254,7 @@ msgid "&Thread"
 msgstr ""
 
 #: selectThreadCmd.key
+msgctxt "selectThreadCmd.key"
 msgid "a"
 msgstr ""
 
@@ -841,6 +842,16 @@ msgstr ""
 #: newNewMsgCmd.accesskey
 msgctxt "newNewMsgCmd.label newNewMsgCmd.accesskey"
 msgid "&Message"
+msgstr ""
+
+#: archiveMsgCmd.label
+#: archiveMsgCmd.accesskey
+msgid "&Archive"
+msgstr ""
+
+#: archiveMsgCmd.key
+msgctxt "archiveMsgCmd.key"
+msgid "a"
 msgstr ""
 
 #: replyMsgCmd.label

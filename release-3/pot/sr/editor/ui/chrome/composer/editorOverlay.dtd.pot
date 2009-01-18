@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-18 15:15-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -251,14 +251,13 @@ msgstr ""
 msgid "&Spellcheck As You Type"
 msgstr ""
 
-#: checkSpellingCmd.label
-#: checkSpellingCmd.accesskey
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
 msgid "C&heck Spelling"
 msgstr ""
 
-#: checkSpellingCmd.key
-msgctxt "checkSpellingCmd.key"
-msgid "K"
+#: checkSpellingCmd2.key
+msgid "p"
 msgstr ""
 
 #: validateCmd.label
@@ -600,7 +599,6 @@ msgid "Y"
 msgstr ""
 
 #: formatRemoveLinks.key
-msgctxt "formatRemoveLinks.key"
 msgid "K"
 msgstr ""
 
