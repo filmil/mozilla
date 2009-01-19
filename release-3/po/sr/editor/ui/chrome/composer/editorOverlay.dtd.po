@@ -591,7 +591,6 @@ msgstr "I"
 
 #: styleUnderlineCmd.label
 #: styleUnderlineCmd.accesskey
-#: underlineToolbarCmd.tooltip
 msgid "&Underline"
 msgstr "Под&вучено"
 
