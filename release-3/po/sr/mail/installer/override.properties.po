@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2009-01-18 15:57-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,8 +52,8 @@ msgstr ""
 # This file must be saved as UTF8
 # Accesskeys are defined by prefixing the letter that is to be used for the
 # accesskey with an ampersand (e.g. &).
-# Do not replace $(^NameDA) or $(^Name) with a custom string.
-# Do not change $(^NameDA) to $(^Name) or $(^Name) to $(^NameDA). NameDA allows
+# Do not replace $BrandFullNameDA or $BrandFullName with a custom string.
+# Do not change $BrandFullNameDA to $BrandFullName or $BrandFullName to $BrandFullNameDA. NameDA allows
 # Name to contain an ampersand (e.g. DA stands for double ampersand) and
 # prevents the letter following the ampersand being used as an accesskey.
 # You can use \n to create a newline in the string but only when the string
@@ -66,8 +66,8 @@ msgstr ""
 #. # This file must be saved as UTF8
 #. # Accesskeys are defined by prefixing the letter that is to be used for the
 #. # accesskey with an ampersand (e.g. &).
-#. # Do not replace $(^NameDA) or $(^Name) with a custom string.
-#. # Do not change $(^NameDA) to $(^Name) or $(^Name) to $(^NameDA). NameDA allows
+#. # Do not replace $BrandFullNameDA or $BrandFullName with a custom string.
+#. # Do not change $BrandFullNameDA to $BrandFullName or $BrandFullName to $BrandFullNameDA. NameDA allows
 #. # Name to contain an ampersand (e.g. DA stands for double ampersand) and
 #. # prevents the letter following the ampersand being used as an accesskey.
 #. # You can use \n to create a newline in the string but only when the string
@@ -77,12 +77,12 @@ msgstr ""
 #. # and end of a string enclose the strin with an additional double quote
 #. # (e.g. ""This will include quotes"").
 #: SetupCaption
-msgid "$(^Name) Setup"
-msgstr "Подешавање програма $(^Name)"
+msgid "$BrandFullName Setup"
+msgstr "Подешавање програма $BrandFullName"
 
 #: UninstallCaption
-msgid "$(^Name) Uninstall"
-msgstr "Деинсталација програма $(^Name)"
+msgid "$BrandFullName Uninstall"
+msgstr "Деинсталација програма $BrandFullName"
 
 #: BackBtn
 msgid "< &Back"
@@ -144,11 +144,11 @@ msgstr "Готово"
 
 #: LicenseTextRB
 msgid ""
-"Please review the license agreement before installing $(^NameDA). If you "
+"Please review the license agreement before installing $BrandFullNameDA. If you "
 "accept all terms of the agreement, select the first option below. $_CLICK"
 msgstr ""
 "Молимо да прегледате споразум о лиценци пре него што инсталирате програм "
-"$(^NameDA). Ако прихватате све услове лиценце, изаберите прву опцију испод. "
+"$BrandFullNameDA. Ако прихватате све услове лиценце, изаберите прву опцију испод. "
 "$_CLICK"
 
 #: ComponentsText
@@ -165,10 +165,10 @@ msgstr "Изаберите делове за инсталацију:"
 
 #: DirText
 msgid ""
-"Setup will install $(^NameDA) in the following folder. To install in a "
+"Setup will install $BrandFullNameDA in the following folder. To install in a "
 "different folder, click Browse and select another folder. $_CLICK"
 msgstr ""
-"Инсталатер ће поставити програм $(^NameDA) у наведени директоријум.  Да "
+"Инсталатер ће поставити програм $BrandFullNameDA у наведени директоријум.  Да "
 "бисте инсталирали у неки други директоријум, притисните \"Преглед\" и "
 "изаберите неки други директоријум. $_CLICK"
 
@@ -177,8 +177,8 @@ msgid "Destination Folder"
 msgstr "Одредишни директоријум"
 
 #: DirBrowseText
-msgid "Select the folder to install $(^NameDA) in:"
-msgstr "Изаберите директоријум у који ћете инсталирати програм $(^NameDA):"
+msgid "Select the folder to install $BrandFullNameDA in:"
+msgstr "Изаберите директоријум у који ћете инсталирати програм $BrandFullNameDA:"
 
 #: SpaceAvailable
 msgid "\"Space available: \""
@@ -189,8 +189,8 @@ msgid "\"Space required: \""
 msgstr "\"Потребан простор: \""
 
 #: UninstallingText
-msgid "$(^NameDA) will be uninstalled from the following folder. $_CLICK"
-msgstr "Програм $(^NameDA) ће бити уклоњен из наведеног директоријума. $_CLICK"
+msgid "$BrandFullNameDA will be uninstalled from the following folder. $_CLICK"
+msgstr "Програм $BrandFullNameDA ће бити уклоњен из наведеног директоријума. $_CLICK"
 
 #: UninstallingSubText
 msgid "Uninstalling from:"
