@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2009-01-18 15:54-0800\n"
+"PO-Revision-Date: 2009-01-18 16:20-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,14 +52,14 @@ msgstr ""
 # This file must be saved as UTF8
 # Accesskeys are defined by prefixing the letter that is to be used for the
 # accesskey with an ampersand (e.g. &).
-# Don't replace $BrandShortName, $(^Name), or $(^NameDA) with a custom string.
+# Don't replace $BrandShortName, $BrandFullName, or $(^NameDA) with a custom string.
 # You can use \n to create a newline in the string but only when the string
 # from en-US contains a \n.
 #. # LOCALIZATION NOTE:
 #. # This file must be saved as UTF8
 #. # Accesskeys are defined by prefixing the letter that is to be used for the
 #. # accesskey with an ampersand (e.g. &).
-#. # Don't replace $BrandShortName, $(^Name), or $(^NameDA) with a custom string.
+#. # Don't replace $BrandShortName, $BrandFullName, or $(^NameDA) with a custom string.
 #. # You can use \n to create a newline in the string but only when the string
 #. # from en-US contains a \n.
 #: REG_APP_DESC
@@ -139,8 +139,8 @@ msgid "&Tell us what you thought of $BrandShortName"
 msgstr "&Јавите нам утиске о програму $BrandShortName"
 
 #: LAUNCH_TEXT
-msgid "&Launch $(^Name) now"
-msgstr "&Покрени одмах програм $(^Name)"
+msgid "&Launch $BrandFullName now"
+msgstr "&Покрени одмах програм $BrandFullName"
 
 #: CREATE_ICONS_DESC
 msgid "Create icons for $BrandShortName:"
@@ -170,24 +170,24 @@ msgstr ""
 
 #: WARN_MANUALLY_CLOSE_APP_UNINSTALL
 msgid ""
-"${BrandFullName} must be closed to proceed with the uninstall.\n"
+"$BrandFullName must be closed to proceed with the uninstall.\n"
 "\n"
-"Please close ${BrandFullName} to continue."
+"Please close $BrandFullName to continue."
 msgstr ""
-"${BrandFullName} мора да буде искључен да би се деинсталација наставила.\n"
+"$BrandFullName мора да буде искључен да би се деинсталација наставила.\n"
 "\n"
-"Молимо да искључите ${BrandFullName} како бисте наставили."
+"Молимо да искључите $BrandFullName како бисте наставили."
 
 #: WARN_MANUALLY_CLOSE_APP_LAUNCH
 msgid ""
-"${BrandFullName} is already running.\n"
+"$BrandFullName is already running.\n"
 "\n"
-"Please close ${BrandFullName} prior to launching the version you have just "
+"Please close $BrandFullName prior to launching the version you have just "
 "installed."
 msgstr ""
-"${BrandFullName} је већ покренут.\n"
+"$BrandFullName је већ покренут.\n"
 "\n"
-"Молимо да искључите ${BrandFullName} пре него што покренете издање које сте "
+"Молимо да искључите $BrandFullName пре него што покренете издање које сте "
 "тек инсталирали."
 
 #: WARN_WRITE_ACCESS
