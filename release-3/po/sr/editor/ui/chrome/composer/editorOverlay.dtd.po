@@ -1,5 +1,6 @@
 
 
+
 # Insert form menu items
 # Used just in context popup.
 # Debug menu items
@@ -564,7 +565,6 @@ msgstr "Стил &текста"
 
 #: styleBoldCmd.label
 #: styleBoldCmd.accesskey
-#: boldToolbarCmd.tooltip
 msgid "&Bold"
 msgstr "&Подебљано"
 
@@ -579,7 +579,6 @@ msgstr "B"
 
 #: styleItalicCmd.label
 #: styleItalicCmd.accesskey
-#: italicToolbarCmd.tooltip
 msgid "&Italic"
 msgstr "&Искошено"
 
