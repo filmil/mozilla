@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 15:06-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -264,7 +264,8 @@ msgid "News Server Name (NNTP):"
 msgstr ""
 
 #: downloadOnLogin.label
-msgid "Download messages now"
+#: downloadOnLogin.accesskey
+msgid "&Download messages now"
 msgstr ""
 
 #: deferStorageDesc.label
@@ -275,7 +276,8 @@ msgid ""
 msgstr ""
 
 #: deferStorage.label
-msgid "Use Global Inbox (store mail in Local Folders)"
+#: deferStorage.accesskey
+msgid "Use &Global Inbox (store mail in Local Folders)"
 msgstr ""
 
 #: clickFinish.label

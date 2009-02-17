@@ -1,4 +1,3 @@
-
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #. #
@@ -41,8 +40,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-18 14:45-0700\n"
-"PO-Revision-Date: 2009-01-18 14:47-0800\n"
+"POT-Creation-Date: 2009-02-16 23:31-0700\n"
+"PO-Revision-Date: 2009-02-16 23:34-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -435,25 +434,26 @@ msgstr "Скупљене"
 msgid "<not specified>"
 msgstr "<није назначен>"
 
-#: smtpServer-SecureConnection-Type_0
-msgctxt "smtpServer-SecureConnection-Type_0"
-msgid "No"
-msgstr "Не"
+#: smtpServer-ConnectionSecurityType-0
+msgid "None"
+msgstr "Ниједан"
 
+#: smtpServer-ConnectionSecurityType-1
 #: smtpServer-SecureConnection-Type_1
 msgid "STARTTLS, if available"
 msgstr "STARTTLS, ако је доступан"
 
+#: smtpServer-ConnectionSecurityType-2
 #: smtpServer-SecureConnection-Type_2
 msgid "STARTTLS"
 msgstr "STARTTLS"
 
-#: smtpServer-SecureConnection-Type_3
-msgid "SMTP-over-SSL"
-msgstr "SMTP-помоћу-SSL"
+#: smtpServer-ConnectionSecurityType-3
+msgid "SSL/TLS"
+msgstr "ССЛ/ТЛС"
 
 #: smtpServer-SecureAuthentication-Type-false
-msgctxt "smtpServer-SecureAuthentication-Type-false"
+#: smtpServer-SecureConnection-Type_0
 msgid "No"
 msgstr "Не"
 
@@ -579,7 +579,7 @@ msgstr "Одлазно"
 #: junkFolderName
 msgctxt "junkFolderName"
 msgid "Junk"
-msgstr "Непожељно"
+msgstr "Нежељено"
 
 #: archivesFolderName
 msgid "Archives"
@@ -823,7 +823,7 @@ msgstr "UTF-8"
 #: mail.addr_book.displayName.lastnamefirst
 msgctxt "mail.addr_book.displayName.lastnamefirst"
 msgid "false"
-msgstr "нетачно"
+msgstr "false"
 
 # the format for "mail.addr_book.quicksearchquery.format" is:
 # @V == the escaped value typed in the quick search bar in the addressbook
@@ -1086,6 +1086,27 @@ msgstr "Корисник %1$S има нове поруке (укупно %2$S)"
 msgid "%1$S has %2$S new messages"
 msgstr "Корисник %1$S има нове поруке (укупно %2$S)"
 
+#. # LOCALIZATION NOTE(macBiffNotification is Mac only):
+#. #  %1$S is the number of new messages
+#. #  %2$S is a list of names and/or email addresses separated by biffNotification_separator
+#. #  %3$S is the number of new messages not displayed in the biff alert
+#: macBiffNotification_message
+msgid "%1$S new message from %2$S."
+msgstr "Нових порука од: %2$S - %1$S."
+
+#: macBiffNotification_messages
+msgid "%1$S new messages from %2$S."
+msgstr "Нових порука од: %2$S - %1$S."
+
+#: macBiffNotification_messages_extra
+msgid "%1$S new messages from %2$S and %3$S more."
+msgstr "Нових порука од: %2$S - %1$S и још %3$S."
+
+#. # Used to separate names/email addresses in a list.  Note the trailing space ', '
+#: macBiffNotification_separator
+msgid ","
+msgstr ", "
+
 # For the Quota tab in the mail folder properties dialog
 #. # For the Quota tab in the mail folder properties dialog
 #: quotaUsedFree
@@ -1114,6 +1135,11 @@ msgstr "Потврди"
 #: confirmViewDeleteMessage
 msgid "Are you sure you want to delete this view?"
 msgstr "Да ли сигурно желите да обришете овај поглед?"
+
+#. # for virtual folders
+#: confirmSavedSearchTitle
+msgid "Confirm Delete"
+msgstr "Потврди уклањање"
 
 # for virtual folders
 #. # for virtual folders
@@ -1258,7 +1284,7 @@ msgstr "Наставак пријема доградње…"
 #: updatesItem_pending
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
-msgstr "Примењују се примљене доградње…"
+msgstr "Примени одмах примљене доградње…"
 
 #: updatesItem_pendingFallback
 #: updatesItem_pending
@@ -1302,7 +1328,7 @@ msgstr "Поново помери у „%1$S‟"
 #: moveToFolderAgainAccessKey
 msgctxt "moveToFolderAgainAccessKey"
 msgid "t"
-msgstr "t"
+msgstr "н"
 
 #LOCALIZATION NOTE %1$S is the name of the folder we will copy to
 # copyToFolderAgainAccessKey
@@ -1395,3 +1421,26 @@ msgstr "ви"
 #: whatsNew
 msgid "What's New"
 msgstr "Шта има ново"
+
+#. #LOCALIZATION NOTE (glodaSearch_results_why_*):  These strings populate the
+#. # glodaWhyColumn when performing a gloda-backed search, explaining why a
+#. # specific result is present in the search.  Because of how the message grouping
+#. # mechanism works, this value is both the value in the "Why" column as well as
+#. # the header for the group (when sorting/grouping on the why column.)  Short
+#. # strings are preferable so the why column can be understood without taking up
+#. # too much space.
+#: glodaSearch_results_why_contact
+msgid "Contact"
+msgstr "Контакт"
+
+#: glodaSearch_results_why_subject
+msgid "Subject"
+msgstr "Тема"
+
+#: glodaSearch_results_why_body
+msgid "Body"
+msgstr "Порука"
+
+#: glodaSearch_results_why_attachment
+msgid "Attachment"
+msgstr "Прилог"

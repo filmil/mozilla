@@ -41,7 +41,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-18 14:45-0700\n"
+"POT-Creation-Date: 2009-02-16 23:31-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -383,25 +383,23 @@ msgstr ""
 msgid "<not specified>"
 msgstr ""
 
-#: smtpServer-SecureConnection-Type_0
-msgctxt "smtpServer-SecureConnection-Type_0"
-msgid "No"
+#: smtpServer-ConnectionSecurityType-0
+msgid "None"
 msgstr ""
 
-#: smtpServer-SecureConnection-Type_1
+#: smtpServer-ConnectionSecurityType-1
 msgid "STARTTLS, if available"
 msgstr ""
 
-#: smtpServer-SecureConnection-Type_2
+#: smtpServer-ConnectionSecurityType-2
 msgid "STARTTLS"
 msgstr ""
 
-#: smtpServer-SecureConnection-Type_3
-msgid "SMTP-over-SSL"
+#: smtpServer-ConnectionSecurityType-3
+msgid "SSL/TLS"
 msgstr ""
 
 #: smtpServer-SecureAuthentication-Type-false
-msgctxt "smtpServer-SecureAuthentication-Type-false"
 msgid "No"
 msgstr ""
 
@@ -917,6 +915,27 @@ msgstr ""
 msgid "%1$S has %2$S new messages"
 msgstr ""
 
+#. # LOCALIZATION NOTE(macBiffNotification is Mac only):
+#. #  %1$S is the number of new messages
+#. #  %2$S is a list of names and/or email addresses separated by biffNotification_separator
+#. #  %3$S is the number of new messages not displayed in the biff alert
+#: macBiffNotification_message
+msgid "%1$S new message from %2$S."
+msgstr ""
+
+#: macBiffNotification_messages
+msgid "%1$S new messages from %2$S."
+msgstr ""
+
+#: macBiffNotification_messages_extra
+msgid "%1$S new messages from %2$S and %3$S more."
+msgstr ""
+
+#. # Used to separate names/email addresses in a list.  Note the trailing space ', '
+#: macBiffNotification_separator
+msgid ","
+msgstr ""
+
 #. # For the Quota tab in the mail folder properties dialog
 #: quotaUsedFree
 msgid "%S of %S KB used"
@@ -946,6 +965,10 @@ msgid "Are you sure you want to delete this view?"
 msgstr ""
 
 #. # for virtual folders
+#: confirmSavedSearchTitle
+msgid "Confirm Delete"
+msgstr ""
+
 #: confirmSavedSearchDeleteMessage
 msgid "Are you sure you want to delete this saved search?"
 msgstr ""
@@ -1170,4 +1193,27 @@ msgstr ""
 #. # The what's new tab title, shown on version update
 #: whatsNew
 msgid "What's New"
+msgstr ""
+
+#. #LOCALIZATION NOTE (glodaSearch_results_why_*):  These strings populate the
+#. # glodaWhyColumn when performing a gloda-backed search, explaining why a
+#. # specific result is present in the search.  Because of how the message grouping
+#. # mechanism works, this value is both the value in the "Why" column as well as
+#. # the header for the group (when sorting/grouping on the why column.)  Short
+#. # strings are preferable so the why column can be understood without taking up
+#. # too much space.
+#: glodaSearch_results_why_contact
+msgid "Contact"
+msgstr ""
+
+#: glodaSearch_results_why_subject
+msgid "Subject"
+msgstr ""
+
+#: glodaSearch_results_why_body
+msgid "Body"
+msgstr ""
+
+#: glodaSearch_results_why_attachment
+msgid "Attachment"
 msgstr ""

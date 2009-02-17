@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 18:15-0800\n"
+"POT-Creation-Date: 2009-02-16 15:06-0700\n"
+"PO-Revision-Date: 2009-02-16 15:08-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -207,7 +207,7 @@ msgctxt "haveSmtp1.suffix"
 msgid ""
 "&quot;, will be used. You can modify outgoing server settings by choosing "
 "Account Settings from the Tools menu."
-msgstr "‟, ће бити коришћен.  Можете да измените подешавања одлазног сервера из подешавања налога у менију „Алатке‟."
+msgstr "&quot;, ће бити коришћен. Можете да промените подеашвања одлазног сервера помоћу опције „Подешавања налога‟ из менија „Алатке‟,"
 
 # Entities for Login page
 #. Entities for Login page
@@ -337,8 +337,9 @@ msgid "News Server Name (NNTP):"
 msgstr "Име сервера за групе (NNTP):"
 
 #: downloadOnLogin.label
-msgid "Download messages now"
-msgstr "Преузми поруке одмах"
+#: downloadOnLogin.accesskey
+msgid "&Download messages now"
+msgstr "&Преузми поруке одмах"
 
 #: deferStorageDesc.label
 msgid ""
@@ -351,10 +352,9 @@ msgstr ""
 "биће део Локалних директоријума за Глобалну долазну пошту."
 
 #: deferStorage.label
-msgid "Use Global Inbox (store mail in Local Folders)"
-msgstr ""
-"Користи глобални долазни директоријум (пошта се смешта у локални "
-"директоријум „Долазно“)"
+#: deferStorage.accesskey
+msgid "Use &Global Inbox (store mail in Local Folders)"
+msgstr "Користи &глобални долазни директоријум (пошта се смешта у локални директоријум „Долазно“)"
 
 #: clickFinish.label
 msgid "Click Finish to save these settings and exit the Account Wizard."

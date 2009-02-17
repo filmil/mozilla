@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-18 14:48-0700\n"
+"POT-Creation-Date: 2009-02-16 23:28-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1008,12 +1008,10 @@ msgid "0"
 msgstr ""
 
 #: tagCmd1.key
-msgctxt "tagCmd1.key"
 msgid "1"
 msgstr ""
 
 #: tagCmd2.key
-msgctxt "tagCmd2.key"
 msgid "2"
 msgstr ""
 
@@ -1149,24 +1147,19 @@ msgstr ""
 msgid "A&dd-ons"
 msgstr ""
 
+#: activitymanager.label
+#: activitymanager.accesskey
+msgid "&Activity Manager"
+msgstr ""
+
 #: messengerCmd.label
 #: messengerCmd.accesskey
 msgid "&Mail &amp; Newsgroups"
 msgstr ""
 
-#: messengerCmd.commandkey
-msgctxt "messengerCmd.commandkey"
-msgid "1"
-msgstr ""
-
 #: addressBookCmd.label
 #: addressBookCmd.accesskey
 msgid "&Address Book"
-msgstr ""
-
-#: addressBookCmd.commandkey
-msgctxt "addressBookCmd.commandkey"
-msgid "2"
 msgstr ""
 
 #: runJunkControls.label
@@ -1282,6 +1275,10 @@ msgstr ""
 
 #: addressBookButton.label
 msgid "Address Book"
+msgstr ""
+
+#: glodaSearch.title
+msgid "Global Search"
 msgstr ""
 
 #: searchItem.title
@@ -1517,6 +1514,66 @@ msgstr ""
 msgid "&Name or Email contains:"
 msgstr ""
 
+#. Gloda Search Bar
+#: glodaSearchBar.emptyText
+msgid "Search messages…"
+msgstr ""
+
+#: glodaSearchBar.facet.label
+msgid "Search:"
+msgstr ""
+
+#. LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
+#. "everything" searches over subject, involves, body, and attachments.
+#. "subject" searches only messages subjects.
+#. "involves" searches only message to/from/cc/bcc.
+#. "to" searches only message to/cc.
+#. "from" searches only message using "from" (the message author).
+#. "body" searches only message bodies, which does not include message
+#. attachment names or the content of the attachments.  Message body
+#. basically means a message part with a content-type of text/*.
+#: glodaSearchFacet.everything.label
+msgid "Everything"
+msgstr ""
+
+#: glodaSearchFacet.subject.label
+msgctxt "glodaSearchFacet.subject.label"
+msgid "Subject"
+msgstr ""
+
+#: glodaSearchFacet.involves.label
+msgid "Involves (from,to,cc,bcc)"
+msgstr ""
+
+#: glodaSearchFacet.to.label
+msgid "To, CC"
+msgstr ""
+
+#: glodaSearchFacet.from.label
+msgctxt "glodaSearchFacet.from.label"
+msgid "From"
+msgstr ""
+
+#: glodaSearchFacet.body.label
+msgid "Message Text"
+msgstr ""
+
+#: glodaSearchFacet.attachmentNames.label
+msgid "Attachment Names"
+msgstr ""
+
+#: glodaSearchBar.location.label
+msgid "Location:"
+msgstr ""
+
+#: glodaSearchFacet.everywhere.label
+msgid "All Folders"
+msgstr ""
+
+#: glodaSearchFacet.folder.label
+msgid "In a specific folder…"
+msgstr ""
+
 #. Quick Search Menu Bar
 #: searchSubjectMenu.label
 msgctxt "searchSubjectMenu.label"
@@ -1629,6 +1686,13 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
+#. explains why a message is
+#. present in the gloda search results.  The values can be found in
+#. messenger.properties with a prefix of "glodaSearch_results_why_".
+#: glodaWhyColumn.label
+msgid "Why"
+msgstr ""
+
 #. Thread Pane Tooltips
 #: columnChooser.tooltip
 msgid "Click to select columns to display"
@@ -1708,6 +1772,10 @@ msgstr ""
 
 #: attachmentColumn.tooltip
 msgid "Click to sort by attachments"
+msgstr ""
+
+#: glodaWhyColumn.tooltip
+msgid "Click to sort by why the message is in your search results"
 msgstr ""
 
 #. Thread Pane Context Menu

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-02-16 23:24-0700\n"
+"PO-Revision-Date: 2009-02-16 23:25-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -111,25 +111,30 @@ msgstr ""
 msgid "Import"
 msgstr "Увоз"
 
-#: importDialog.allTitle
-msgid "Import everything"
-msgstr "Увпоз свега"
+#: importAll.label
+#: importAll.accesskey
+msgid "Import &Everything"
+msgstr "Увези &све"
 
-#: importDialog.mailTitle
-msgid "Mail"
-msgstr "Пошта"
+#: importMail.label
+#: importMail.accesskey
+msgid "&Mail"
+msgstr "&Пошту"
 
-#: importDialog.addressbookTitle
-msgid "Address Books"
-msgstr "Адресара"
+#: importAddressbook.label
+#: importAddressbook.accesskey
+msgid "&Address Books"
+msgstr "&Адресаре"
 
-#: importDialog.settingsTitle
-msgid "Settings"
-msgstr "Подешавања"
+#: importSettings.label
+#: importSettings.accesskey
+msgid "&Settings"
+msgstr "По&дешавања"
 
-#: importDialog.filtersTitle
-msgid "Filters"
-msgstr "Филтери"
+#: importFilters.label
+#: importFilters.accesskey
+msgid "&Filters"
+msgstr "&Филтере"
 
 # (pofilter) unchanged: please translate
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
@@ -174,7 +179,9 @@ msgstr ""
 "&brandShortName;."
 
 #: selectDescription.label
-msgid "Please select the type of file that you would like to import:"
+#: selectDescription.accesskey
+#, fuzzy
+msgid "&Please select the type of file that you would like to import:"
 msgstr "Молимо да изаберете врсту датотека које желите да увезете:"
 
 #: back.label
@@ -226,10 +233,12 @@ msgid ""
 ""
 msgstr "Ова категорија ће бити коришћена за све уносе у изабраном адресару:"
 
-#: importDialog.homeTitle
-msgid "Home"
-msgstr "Кућа"
+#: importHome.label
+#: importHome.accesskey
+msgid "&Home"
+msgstr "&Кућа"
 
-#: importDialog.workTitle
-msgid "Work"
-msgstr "Посао"
+#: importWork.label
+#: importWork.accesskey
+msgid "&Work"
+msgstr "&Посао"

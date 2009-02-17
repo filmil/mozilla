@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-offline.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-18 15:08-0700\n"
-"PO-Revision-Date: 2009-01-18 15:09-0800\n"
+"POT-Creation-Date: 2009-02-16 23:16-0700\n"
+"PO-Revision-Date: 2009-02-16 23:18-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,8 +55,20 @@ msgid "M&essages more than"
 msgstr "&Поруке више од"
 
 #: retentionCleanup.label
-msgid "To recover disk space, old messages can be permanently deleted"
-msgstr "Да бисте вратили простор на диску, старе поруке могу се трајно уклонити"
+msgid "To recover disk space, old messages can be permanently deleted."
+msgstr "Да бисте вратили простор на диску, старе поруке могу се трајно уклонити."
+
+#: retentionCleanupImap.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, both local "
+"copies and originals on the remote server."
+msgstr "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, укључујући и оригинале на удаљеном рачунару."
+
+#: retentionCleanupPop.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, including "
+"originals on the remote server."
+msgstr "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, укључујући оригинале на удаљеном серверу."
 
 #: retentionKeepMsg.label
 #: retentionKeepMsg.accesskey

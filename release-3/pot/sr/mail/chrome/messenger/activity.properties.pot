@@ -1,0 +1,159 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/activity.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-16 15:36-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Accelerator-Marker: &\n"
+
+#. # Status Text
+#: paused2
+msgid "Paused"
+msgstr ""
+
+#: processing
+msgid "Processing"
+msgstr ""
+
+#: notStarted
+msgid "Not Started"
+msgstr ""
+
+#: failed
+msgid "Failed"
+msgstr ""
+
+#: waitingForInput
+msgid "Waiting for input"
+msgstr ""
+
+#: waitingForRetry
+msgid "Waiting for retry"
+msgstr ""
+
+#: completed
+msgid "Completed"
+msgstr ""
+
+#: canceled
+msgid "Canceled"
+msgstr ""
+
+#. # LOCALIZATION NOTE (yesterday): Displayed time for files finished yesterday
+#: yesterday
+msgid "Yesterday"
+msgstr ""
+
+#. # LOCALIZATION NOTE (monthDate): #1 month name; #2 date number; e.g., January 22
+#: monthDate
+msgid "#1 #2"
+msgstr ""
+
+#. # Send Message
+#: sendingMessage
+msgid "Sending Message"
+msgstr ""
+
+#. # LOCALIZATION NOTE (sendingMessageTo): %S will be replaced by the first name or newsgroup that the message is being sent to.
+#: sendingMessageTo
+msgid "Sending Message to %S"
+msgstr ""
+
+#: sentMessage
+msgid "Sent Message"
+msgstr ""
+
+#. # LOCALIZATION NOTE (sentMessageTo): %S will be replaced by the first name or newsgroup that the message was sent to.
+#: sentMessageTo
+msgid "Sent Message to %S"
+msgstr ""
+
+#: failedToSendMessage
+msgid "Failed to send message"
+msgstr ""
+
+#. # LOCALIZATION NOTE (failedToSendMessageTo): %S will be replaced by the first name or newsgroup that the message was being sent to.
+#: failedToSendMessageTo
+msgid "Failed to send message to %S"
+msgstr ""
+
+#. # LOCALIZATION NOTE (autosyncProcessProgress): Do not translate the word "%1$S", "%2$S" and "%3$S" below.
+#. # Place the word %1$S in your translation where the number of the message being downloaded should appear.
+#. # Place the word %2$S in your translation where the total number of pending messages should appear.
+#. # Place the word %3$S in your translation where the name of the folder being processed should appear.
+#: autosyncProcessProgress
+msgid "Downloading %1$S of %2$S in %3$S"
+msgstr ""
+
+#. # LOCALIZATION NOTE (autosyncProcessDisplayText): %S will be replaced by the folder name
+#: autosyncProcessDisplayText
+msgid "Bringing folder %S up to date"
+msgstr ""
+
+#. # LOCALIZATION NOTE (autosyncEventDisplayText): %S will be replaced by the account name
+#: autosyncEventDisplayText
+msgid "%S is up to date"
+msgstr ""
+
+#. # LOCALIZATION NOTE (autosyncEventStatusText): %S will be replaced by total number of downloaded messages
+#: autosyncEventStatusText
+msgid "Total number of messages downloaded: %S"
+msgstr ""
+
+#: autosyncEventStatusTextNoMsgs
+msgid "No messages downloaded"
+msgstr ""
+
+#. # LOCALIZATION NOTE (autosyncContextDisplayText): %S will be replaced by the account name
+#: autosyncContextDisplayText
+msgid "Synchronizing: %S"
+msgstr ""
+
+#. # Message actions that show up in activity manager
+#. # LOCALIZATION NOTE (deletedMessages): #1 number of messages
+#: deletedMessages
+msgid "Deleted #1 message;Deleted #1 messages"
+msgstr ""
+
+#. # LOCALIZATION NOTE (movedMessages): #1 number of messages, #2 and #3: folder names
+#: movedMessages
+msgid "Moved #1 message from #2 to #3;Moved #1 messages from #2 to #3"
+msgstr ""
+
+#. # LOCALIZATION NOTE (copiedMessages): #1 number of messages, #2 and #3: folder names
+#: copiedMessages
+msgid "Copied #1 message from #2 to #3;Copied #1 messages from #2 to #3"
+msgstr ""
+
+#. # LOCALIZATION NOTE (fromServerToServer): #1 source server, #2 destination server
+#: fromServerToServer
+msgid "from #1 to #2"
+msgstr ""
+
+#. # LOCALIZATION NOTE (deletedFolder): #1 folder name
+#: deletedFolder
+msgid "Deleted folder #1"
+msgstr ""
+
+#. # LOCALIZATION NOTE (movedFolder): #1 and #2 are folder names
+#: movedFolder
+msgid "Moved folder #1 into folder #2"
+msgstr ""
+
+#. # LOCALIZATION NOTE (copiedFolder): #1 and #2 are folder names
+#: copiedFolder
+msgid "Copied folder #1 into folder #2"
+msgstr ""
+
+#. # LOCALIZATION NOTE (renamedFolder): #1 and #2 are folder names
+#: renamedFolder
+msgid "Renamed folder #1 to #2"
+msgstr ""
