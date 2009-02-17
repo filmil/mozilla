@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:45-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,19 +55,20 @@ msgstr ""
 #. # This file must be saved as UTF8
 #. # Accesskeys are defined by prefixing the letter that is to be used for the
 #. # accesskey with an ampersand (e.g. &).
-#. # Do not replace $(^NameDA) or $(^Name) with a custom string.
-#. # Do not change $(^NameDA) to $(^Name) or $(^Name) to $(^NameDA). NameDA allows
-#. # Name to contain an ampersand (e.g. DA stands for double ampersand) and
-#. # prevents the letter following the ampersand being used as an accesskey.
+#. # Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+#. # custom string and always use the same one as used by the en-US files.
+#. # $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+#. # for double ampersand) and prevents the letter following the ampersand from
+#. # being used as an accesskey.
 #. # You can use \n to create a newline in the string but only when the string
 #. # from en-US contains a \n.
 #: MUI_TEXT_WELCOME_INFO_TITLE
-msgid "Welcome to the $(^NameDA) Setup Wizard"
+msgid "Welcome to the $BrandFullNameDA Setup Wizard"
 msgstr ""
 
 #: MUI_TEXT_WELCOME_INFO_TEXT
 msgid ""
-"This wizard will guide you through the installation of $(^NameDA).\n"
+"This wizard will guide you through the installation of $BrandFullNameDA.\n"
 "\n"
 "It is recommended that you close all other applications before starting "
 "Setup. This will make it possible to update relevant system files without "
@@ -76,36 +77,12 @@ msgid ""
 "$_CLICK"
 msgstr ""
 
-#: MUI_TEXT_LICENSE_TITLE
-msgid "License Agreement"
-msgstr ""
-
-#: MUI_TEXT_LICENSE_SUBTITLE
-msgid "Please review the license terms before installing $(^NameDA)."
-msgstr ""
-
-#: MUI_INNERTEXT_LICENSE_TOP
-msgid "Press Page Down to see the rest of the agreement."
-msgstr ""
-
-#: MUI_INNERTEXT_LICENSE_BOTTOM_CHECKBOX
-msgid ""
-"If you accept the terms of the agreement, click the check box below. You "
-"must accept the agreement to install $(^NameDA). $_CLICK"
-msgstr ""
-
-#: MUI_INNERTEXT_LICENSE_BOTTOM_RADIOBUTTONS
-msgid ""
-"If you accept the terms of the agreement, select the first option below. You "
-"must accept the agreement to install $(^NameDA). $_CLICK"
-msgstr ""
-
 #: MUI_TEXT_COMPONENTS_TITLE
 msgid "Choose Components"
 msgstr ""
 
 #: MUI_TEXT_COMPONENTS_SUBTITLE
-msgid "Choose which features of $(^NameDA) you want to install."
+msgid "Choose which features of $BrandFullNameDA you want to install."
 msgstr ""
 
 #: MUI_INNERTEXT_COMPONENTS_DESCRIPTION_TITLE
@@ -121,7 +98,7 @@ msgid "Choose Install Location"
 msgstr ""
 
 #: MUI_TEXT_DIRECTORY_SUBTITLE
-msgid "Choose the folder in which to install $(^NameDA)."
+msgid "Choose the folder in which to install $BrandFullNameDA."
 msgstr ""
 
 #: MUI_TEXT_INSTALLING_TITLE
@@ -129,7 +106,7 @@ msgid "Installing"
 msgstr ""
 
 #: MUI_TEXT_INSTALLING_SUBTITLE
-msgid "Please wait while $(^NameDA) is being installed."
+msgid "Please wait while $BrandFullNameDA is being installed."
 msgstr ""
 
 #: MUI_TEXT_FINISH_TITLE
@@ -153,12 +130,12 @@ msgid "&Finish"
 msgstr ""
 
 #: MUI_TEXT_FINISH_INFO_TITLE
-msgid "Completing the $(^NameDA) Setup Wizard"
+msgid "Completing the $BrandFullNameDA Setup Wizard"
 msgstr ""
 
 #: MUI_TEXT_FINISH_INFO_TEXT
 msgid ""
-"$(^NameDA) has been installed on your computer.\n"
+"$BrandFullNameDA has been installed on your computer.\n"
 "\n"
 "Click Finish to close this wizard."
 msgstr ""
@@ -166,7 +143,7 @@ msgstr ""
 #: MUI_TEXT_FINISH_INFO_REBOOT
 msgid ""
 "Your computer must be restarted in order to complete the installation of "
-"$(^NameDA). Do you want to reboot now?"
+"$BrandFullNameDA. Do you want to reboot now?"
 msgstr ""
 
 #: MUI_TEXT_FINISH_REBOOTNOW
@@ -182,7 +159,7 @@ msgid "Choose Start Menu Folder"
 msgstr ""
 
 #: MUI_TEXT_STARTMENU_SUBTITLE
-msgid "Choose a Start Menu folder for the $(^NameDA) shortcuts."
+msgid "Choose a Start Menu folder for the $BrandFullNameDA shortcuts."
 msgstr ""
 
 #: MUI_INNERTEXT_STARTMENU_TOP
@@ -192,28 +169,29 @@ msgid ""
 msgstr ""
 
 #: MUI_TEXT_ABORTWARNING
-msgid "Are you sure you want to quit $(^Name) Setup?"
+msgid "Are you sure you want to quit $BrandFullName Setup?"
 msgstr ""
 
 #: MUI_UNTEXT_WELCOME_INFO_TITLE
-msgid "Welcome to the $(^NameDA) Uninstall Wizard"
+msgid "Welcome to the $BrandFullNameDA Uninstall Wizard"
 msgstr ""
 
 #: MUI_UNTEXT_WELCOME_INFO_TEXT
 msgid ""
-"This wizard will guide you through the uninstallation of $(^NameDA).\n"
+"This wizard will guide you through the uninstallation of $BrandFullNameDA.\n"
 "\n"
-"Before starting the uninstallation, make sure $(^NameDA) is not running.\n"
+"Before starting the uninstallation, make sure $BrandFullNameDA is not "
+"running.\n"
 "\n"
 "$_CLICK"
 msgstr ""
 
 #: MUI_UNTEXT_CONFIRM_TITLE
-msgid "Uninstall $(^NameDA)"
+msgid "Uninstall $BrandFullNameDA"
 msgstr ""
 
 #: MUI_UNTEXT_CONFIRM_SUBTITLE
-msgid "Remove $(^NameDA) from your computer."
+msgid "Remove $BrandFullNameDA from your computer."
 msgstr ""
 
 #: MUI_UNTEXT_UNINSTALLING_TITLE
@@ -221,7 +199,7 @@ msgid "Uninstalling"
 msgstr ""
 
 #: MUI_UNTEXT_UNINSTALLING_SUBTITLE
-msgid "Please wait while $(^NameDA) is being uninstalled."
+msgid "Please wait while $BrandFullNameDA is being uninstalled."
 msgstr ""
 
 #: MUI_UNTEXT_FINISH_TITLE
@@ -241,12 +219,12 @@ msgid "Uninstall was not completed successfully."
 msgstr ""
 
 #: MUI_UNTEXT_FINISH_INFO_TITLE
-msgid "Completing the $(^NameDA) Uninstall Wizard"
+msgid "Completing the $BrandFullNameDA Uninstall Wizard"
 msgstr ""
 
 #: MUI_UNTEXT_FINISH_INFO_TEXT
 msgid ""
-"$(^NameDA) has been uninstalled from your computer.\n"
+"$BrandFullNameDA has been uninstalled from your computer.\n"
 "\n"
 "Click Finish to close this wizard."
 msgstr ""
@@ -254,9 +232,9 @@ msgstr ""
 #: MUI_UNTEXT_FINISH_INFO_REBOOT
 msgid ""
 "Your computer must be restarted in order to complete the uninstallation of "
-"$(^NameDA). Do you want to reboot now?"
+"$BrandFullNameDA. Do you want to reboot now?"
 msgstr ""
 
 #: MUI_UNTEXT_ABORTWARNING
-msgid "Are you sure you want to quit $(^Name) Uninstall?"
+msgid "Are you sure you want to quit $BrandFullName Uninstall?"
 msgstr ""

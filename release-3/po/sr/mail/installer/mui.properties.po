@@ -1,4 +1,3 @@
-
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #. #
@@ -39,7 +38,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
+"POT-Creation-Date: 2009-02-16 23:45-0700\n"
 "PO-Revision-Date: 2009-01-18 15:56-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,12 +66,17 @@ msgstr ""
 #. # This file must be saved as UTF8
 #. # Accesskeys are defined by prefixing the letter that is to be used for the
 #. # accesskey with an ampersand (e.g. &).
+#. # Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+#. # custom string and always use the same one as used by the en-US files.
+#. # $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+#. # for double ampersand) and prevents the letter following the ampersand from
+#. # being used as an accesskey.
+#. # You can use \n to create a newline in the string but only when the string
+#. # from en-US contains a \n.
 #. # Do not replace $BrandFullNameDA or $BrandFullName with a custom string.
 #. # Do not change $BrandFullNameDA to $BrandFullName or $BrandFullName to $BrandFullNameDA. NameDA allows
 #. # Name to contain an ampersand (e.g. DA stands for double ampersand) and
 #. # prevents the letter following the ampersand being used as an accesskey.
-#. # You can use \n to create a newline in the string but only when the string
-#. # from en-US contains a \n.
 #: MUI_TEXT_WELCOME_INFO_TITLE
 msgid "Welcome to the $BrandFullNameDA Setup Wizard"
 msgstr "Добродошчли код чаробњака за подешавање програма $BrandFullNameDA."
@@ -94,36 +98,6 @@ msgstr ""
 "без потребе за поновним покретањем.\n"
 "\n"
 "$_CLICK"
-
-#: MUI_TEXT_LICENSE_TITLE
-msgid "License Agreement"
-msgstr "Споразум о лиценци"
-
-#: MUI_TEXT_LICENSE_SUBTITLE
-msgid "Please review the license terms before installing $BrandFullNameDA."
-msgstr ""
-"Молимо да прегледате услове о лиценци пре него што инсталирате програм "
-"$BrandFullNameDA."
-
-#: MUI_INNERTEXT_LICENSE_TOP
-msgid "Press Page Down to see the rest of the agreement."
-msgstr "Притисните Page Down да бисте видели остатак споразума"
-
-#: MUI_INNERTEXT_LICENSE_BOTTOM_CHECKBOX
-msgid ""
-"If you accept the terms of the agreement, click the check box below. You "
-"must accept the agreement to install $BrandFullNameDA. $_CLICK"
-msgstr ""
-"Ако прихватате услове споразума, штиклирајте кућицу испод.  Морате да "
-"прихватите споразум да бисте инсталирали програм $BrandFullNameDA. $_CLICK"
-
-#: MUI_INNERTEXT_LICENSE_BOTTOM_RADIOBUTTONS
-msgid ""
-"If you accept the terms of the agreement, select the first option below. You "
-"must accept the agreement to install $BrandFullNameDA. $_CLICK"
-msgstr ""
-"Ако прихватате услове споразума, притисните прву опцију испод.  Морате да "
-"прихватите споразум да бисте инсталирали $BrandFullNameDA. $_CLICK"
 
 #: MUI_TEXT_COMPONENTS_TITLE
 msgid "Choose Components"
@@ -150,7 +124,8 @@ msgstr "Избор места за инсталацију"
 
 #: MUI_TEXT_DIRECTORY_SUBTITLE
 msgid "Choose the folder in which to install $BrandFullNameDA."
-msgstr "Изаберите директоријум у који ће програм $BrandFullNameDA бити инсталиран."
+msgstr ""
+"Изаберите директоријум у који ће програм $BrandFullNameDA бити инсталиран."
 
 #: MUI_TEXT_INSTALLING_TITLE
 msgid "Installing"
@@ -231,7 +206,9 @@ msgstr ""
 
 #: MUI_TEXT_ABORTWARNING
 msgid "Are you sure you want to quit $BrandFullName Setup?"
-msgstr "Да ли сигурно желите да завршите рад са инсталатером програма $BrandFullName?"
+msgstr ""
+"Да ли сигурно желите да завршите рад са инсталатером програма "
+"$BrandFullName?"
 
 #: MUI_UNTEXT_WELCOME_INFO_TITLE
 msgid "Welcome to the $BrandFullNameDA Uninstall Wizard"
@@ -241,14 +218,15 @@ msgstr "Добродошли у деинсталатер програма $Brand
 msgid ""
 "This wizard will guide you through the uninstallation of $BrandFullNameDA.\n"
 "\n"
-"Before starting the uninstallation, make sure $BrandFullNameDA is not running.\n"
+"Before starting the uninstallation, make sure $BrandFullNameDA is not "
+"running.\n"
 "\n"
 "$_CLICK"
 msgstr ""
 "Овај чаробњак ће вас провести кроз деинсталацију програма $BrandFullNameDA.\n"
 "\n"
-"Пре него што покренете деинсталацију, обезбедите да програм $BrandFullNameDA није "
-"покренут.\n"
+"Пре него што покренете деинсталацију, обезбедите да програм $BrandFullNameDA "
+"није покренут.\n"
 "\n"
 "$_CLICK"
 
@@ -303,8 +281,8 @@ msgid ""
 "Your computer must be restarted in order to complete the uninstallation of "
 "$BrandFullNameDA. Do you want to reboot now?"
 msgstr ""
-"Рачунар мора да се поново покрене како би деинсталација програма $BrandFullNameDA "
-"била довршена. Да ли желите да то урадите одмах?"
+"Рачунар мора да се поново покрене како би деинсталација програма "
+"$BrandFullNameDA била довршена. Да ли желите да то урадите одмах?"
 
 #: MUI_UNTEXT_ABORTWARNING
 msgid "Are you sure you want to quit $BrandFullName Uninstall?"
