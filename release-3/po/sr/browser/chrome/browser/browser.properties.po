@@ -1,11 +1,12 @@
 
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/browser.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-01-10 01:25-0700\n"
-"PO-Revision-Date: 2009-01-10 01:26-0800\n"
+"PO-Revision-Date: 2009-02-27 23:51-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -457,11 +458,11 @@ msgstr "(непознат)"
 #. # examples: One active download (2 minutes remaining); 11 paused downloads
 #: activeDownloads
 msgid "One active download (#2);#1 active downloads (#2)"
-msgstr "Један активан пријем (#2);Више активних пријема: #1 (#2)"
+msgstr "Један активан пријем (#2);#1 активна пријема (#2);#1 активних пријема (#2)"
 
 #: pausedDownloads
 msgid "One paused download;#1 paused downloads"
-msgstr "Један паузиран пријем;Више паузираних пријема: #1"
+msgstr "Један паузиран пријем;#1 паузирана пријема;#1 паузираних пријема"
 
 # Edit Bookmark UI
 #. # Edit Bookmark UI
@@ -486,7 +487,7 @@ msgstr "Уреди ову забелешку"
 #. # the number of bookmarks to be removed.
 #: editBookmark.removeBookmarks.label
 msgid "Remove Bookmark;Remove Bookmarks (#1)"
-msgstr "Уклони забелешку;Уклони забелешке (#1)"
+msgstr "Уклони забелешку;Уклони #1 забелешке;Уклони #1 забелешки"
 
 #. # Geolocation UI
 #. # LOCALIZATION NOTE (exactLocation, neighborhoodLocation): These do not have to be
