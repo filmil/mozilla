@@ -1,11 +1,12 @@
 
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/mozapps/extensions/extensions.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 02:26-0800\n"
+"PO-Revision-Date: 2009-02-27 23:49-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -424,7 +425,7 @@ msgstr ""
 #. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
 #: newAddonsNotificationMsg2
 msgid "%S new add-on has been installed.;%S new add-ons have been installed."
-msgstr "постављен је %S додатак.;постављено је оволико додатака: %S"
+msgstr "постављен је %S додатак.;постављена су %S додатка.;постављено је %S додатака."
 
 #: safeModeMsg
 msgid "All add-ons have been disabled by safe mode."
