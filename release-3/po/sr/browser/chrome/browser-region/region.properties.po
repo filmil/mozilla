@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-29 14:57-0700\n"
-"PO-Revision-Date: 2009-03-29 14:58-0700\n"
+"PO-Revision-Date: 2009-04-02 23:28-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 #: browser.search.defaultenginename
 msgctxt "browser.search.defaultenginename"
 msgid "Google"
-msgstr "Гугл (Google)"
+msgstr "Google"
 
 #. # Search engine order (order displayed in the search bar dropdown)s
 #: browser.search.order.1
 msgctxt "browser.search.order.1"
 msgid "Google"
-msgstr "Гугл (Google)"
+msgstr "Google"
 
 #: browser.search.order.2
 msgid "Yahoo"
-msgstr "Јаху (Yahoo)"
+msgstr "Yahoo"
 
 # These are the default web service based feed readers
 # (pofilter) unchanged: please translate
@@ -44,7 +44,7 @@ msgstr "http://www.bloglines.com/login?r=/sub/%s"
 
 #: browser.contentHandlers.types.1.title
 msgid "My Yahoo"
-msgstr "Мој Јаху (My Yahoo)"
+msgstr "My Yahoo"
 
 # (pofilter) unchanged: please translate
 #: browser.contentHandlers.types.1.uri
@@ -97,7 +97,7 @@ msgstr "http://www.google.com/search?hl=sr&q=site%3A{moz:domain}+{searchTerms}"
 #. # don't make any spelling errors here.
 #: gecko.handlerService.defaultHandlersVersion
 msgid "3"
-msgstr "3"
+msgstr "4"
 
 # The default set of protocol handlers for webcal
 # (pofilter) unchanged: please translate
@@ -114,7 +114,7 @@ msgstr "http://30boxes.com/external/widget?refer=ff&url=%s"
 #. # The default set of protocol handlers for mailto:
 #: gecko.handlerService.schemes.mailto.0.name
 msgid "Yahoo! Mail"
-msgstr "Пошта: Yahoo!"
+msgstr "Yahoo! Mail"
 
 # (pofilter) unchanged: please translate
 #: gecko.handlerService.schemes.mailto.0.uriTemplate
@@ -133,7 +133,7 @@ msgstr "https://mail.google.com/mail/?extsrc=mailto&url=%s"
 #: gecko.handlerService.schemes.irc.0.name
 msgctxt "gecko.handlerService.schemes.irc.0.name"
 msgid "Mibbit"
-msgstr "Мибит (Mibbit)"
+msgstr "Mibbit"
 
 #: gecko.handlerService.schemes.irc.0.uriTemplate
 msgctxt "gecko.handlerService.schemes.irc.0.uriTemplate"
@@ -144,7 +144,7 @@ msgstr "https://www.mibbit.com/?url=%s"
 #: gecko.handlerService.schemes.ircs.0.name
 msgctxt "gecko.handlerService.schemes.ircs.0.name"
 msgid "Mibbit"
-msgstr "Мибит (Mibbit)"
+msgstr "Mibbit"
 
 #: gecko.handlerService.schemes.ircs.0.uriTemplate
 msgctxt "gecko.handlerService.schemes.ircs.0.uriTemplate"

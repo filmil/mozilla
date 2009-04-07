@@ -19,6 +19,7 @@ po/sr/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd.po:	11 translated mess
 po/sr/mail/chrome/messenger-smime/msgSecurityInfo.properties.po:	29 translated messages.
 po/sr/mail/chrome/messenger-smime/msgCompSMIMEOverlay.properties.po:	1 translated message.
 po/sr/mail/chrome/communicator/utilityOverlay.dtd.po:	28 translated messages.
+po/sr/mail/chrome/overrides/settingsChange.dtd.po:	2 translated messages.
 po/sr/mail/chrome/messenger/importMsgs.properties.po:	78 translated messages.
 po/sr/mail/chrome/messenger/markByDate.dtd.po:	3 translated messages.
 po/sr/mail/chrome/messenger/comm4xMailImportMsgs.properties.po:	5 translated messages.
