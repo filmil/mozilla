@@ -39,7 +39,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-16 23:45-0700\n"
-"PO-Revision-Date: 2009-01-18 15:56-0800\n"
+"PO-Revision-Date: 2009-04-21 00:22-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr ""
 #. # prevents the letter following the ampersand being used as an accesskey.
 #: MUI_TEXT_WELCOME_INFO_TITLE
 msgid "Welcome to the $BrandFullNameDA Setup Wizard"
-msgstr "Добродошчли код чаробњака за подешавање програма $BrandFullNameDA."
+msgstr "Добродошли код чаробњака за подешавање програма $BrandFullNameDA."
 
 #: MUI_TEXT_WELCOME_INFO_TEXT
 msgid ""
