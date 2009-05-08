@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 02:35-0800\n"
+"PO-Revision-Date: 2009-05-08 01:25-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -194,8 +194,7 @@ msgstr ""
 #. general strings used by several of the finish pages
 #: clickFinish.label
 msgid "Click Finish to continue starting &brandShortName;."
-msgstr ""
-"Кликните на „Крај“ како бисте наставили покретање програма &brandShortName;."
+msgstr "Кликните на „Доврши“ како бисте наставили покретање програма &brandShortName;."
 
 #: clickFinish.labelMac
 msgid "Click Done to continue starting &brandShortName;."
