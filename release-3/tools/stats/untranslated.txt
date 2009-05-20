@@ -6,6 +6,7 @@ po/sr/mail/chrome/messenger/addressbook/abCardOverlay.dtd.po:	53 translated mess
 po/sr/mail/chrome/messenger/addressbook/abMainWindow.dtd.po:	110 translated messages, 1 untranslated message.
 po/sr/mail/chrome/messenger/messenger.properties.po:	234 translated messages, 2 untranslated messages.
 po/sr/browser/chrome/branding/brand.dtd.po:	3 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser-region/region.properties.po:	21 translated messages, 1 untranslated message.
 po/sr/browser/chrome/browser/browser.dtd.po:	220 translated messages, 6 untranslated messages.
 po/sr/browser/chrome/browser/sanitize.dtd.po:	28 translated messages, 1 untranslated message.
 po/sr/browser/chrome/browser/credits.dtd.po:	6 translated messages, 1 untranslated message.

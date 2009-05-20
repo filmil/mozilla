@@ -220,7 +220,7 @@ po/sr/browser/updater/updater.ini.po:	2 translated messages.
 po/sr/browser/crashreporter/crashreporter-override.ini.po:	2 translated messages.
 po/sr/browser/chrome/branding/brand.dtd.po:	3 translated messages, 1 untranslated message.
 po/sr/browser/chrome/branding/brand.properties.po:	3 translated messages.
-po/sr/browser/chrome/browser-region/region.properties.po:	22 translated messages.
+po/sr/browser/chrome/browser-region/region.properties.po:	21 translated messages, 1 untranslated message.
 po/sr/browser/chrome/browser/engineManager.dtd.po:	12 translated messages.
 po/sr/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.
@@ -242,7 +242,7 @@ po/sr/browser/chrome/browser/metaData.dtd.po:	26 translated messages.
 po/sr/browser/chrome/browser/sidebar/sidebar.properties.po:	2 translated messages.
 po/sr/browser/chrome/browser/feeds/subscribe.dtd.po:	3 translated messages.
 po/sr/browser/chrome/browser/feeds/subscribe.properties.po:	31 translated messages.
-po/sr/browser/chrome/browser/pageInfo.dtd.po:	71 translated messages.
+po/sr/browser/chrome/browser/pageInfo.dtd.po:	73 translated messages.
 po/sr/browser/chrome/browser/preferences/content.dtd.po:	15 translated messages.
 po/sr/browser/chrome/browser/preferences/preferences.dtd.po:	12 translated messages.
 po/sr/browser/chrome/browser/preferences/preferences.properties.po:	51 translated messages, 2 fuzzy translations.
@@ -267,7 +267,7 @@ po/sr/browser/chrome/browser/preferences/privacy.dtd.po:	46 translated messages,
 po/sr/browser/chrome/browser/preferences/main.dtd.po:	21 translated messages.
 po/sr/browser/chrome/browser/aboutRights.properties.po:	3 translated messages.
 po/sr/browser/chrome/browser/baseMenuOverlay.dtd.po:	29 translated messages.
-po/sr/browser/chrome/browser/browser.properties.po:	120 translated messages.
+po/sr/browser/chrome/browser/browser.properties.po:	122 translated messages.
 po/sr/browser/chrome/browser/engineManager.properties.po:	5 translated messages.
 po/sr/browser/chrome/browser/aboutSessionRestore.dtd.po:	13 translated messages.
 po/sr/browser/chrome/browser/places/bookmarkProperties.properties.po:	14 translated messages.
@@ -281,7 +281,6 @@ po/sr/browser/chrome/browser/aboutPrivateBrowsing.dtd.po:	13 translated messages
 po/sr/browser/chrome/browser/pageInfo.properties.po:	38 translated messages.
 po/sr/browser/chrome/browser/safeMode.dtd.po:	11 translated messages.
 po/sr/browser/chrome/browser/safebrowsing/phishing-afterload-warning-message.dtd.po:	19 translated messages.
-po/sr/browser/chrome/browser/safebrowsing/blockedSite.properties.po:	6 translated messages.
 po/sr/browser/chrome/browser/safebrowsing/report-phishing.dtd.po:	2 translated messages.
 po/sr/browser/chrome/browser/quitDialog.properties.po:	10 translated messages.
 po/sr/browser/chrome/browser/pageReportFirstTime.dtd.po:	4 translated messages.
@@ -393,6 +392,7 @@ po/sr/toolkit/chrome/global/config.dtd.po:	24 translated messages.
 po/sr/toolkit/chrome/global/editMenuOverlay.dtd.po:	20 translated messages.
 po/sr/toolkit/chrome/global/viewSource.dtd.po:	34 translated messages, 3 untranslated messages.
 po/sr/toolkit/chrome/global/console.properties.po:	6 translated messages.
+po/sr/toolkit/chrome/global/videocontrols.dtd.po:	5 translated messages.
 po/sr/toolkit/chrome/global/config.properties.po:	9 translated messages.
 po/sr/toolkit/chrome/global/charsetOverlay.dtd.po:	10 translated messages.
 po/sr/toolkit/chrome/global/printjoboptions.dtd.po:	4 translated messages, 13 fuzzy translations.
