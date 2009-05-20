@@ -220,7 +220,7 @@ po/sr/browser/updater/updater.ini.po:	2 translated messages.
 po/sr/browser/crashreporter/crashreporter-override.ini.po:	2 translated messages.
 po/sr/browser/chrome/branding/brand.dtd.po:	3 translated messages, 1 untranslated message.
 po/sr/browser/chrome/branding/brand.properties.po:	3 translated messages.
-po/sr/browser/chrome/browser-region/region.properties.po:	21 translated messages, 1 untranslated message.
+po/sr/browser/chrome/browser-region/region.properties.po:	22 translated messages.
 po/sr/browser/chrome/browser/engineManager.dtd.po:	12 translated messages.
 po/sr/browser/chrome/browser/searchbar.dtd.po:	2 translated messages.
 po/sr/browser/chrome/browser/setDesktopBackground.dtd.po:	9 translated messages.

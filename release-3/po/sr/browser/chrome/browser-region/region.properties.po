@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-05-19 23:00-0700\n"
-"PO-Revision-Date: 2009-05-19 23:01-0700\n"
+"PO-Revision-Date: 2009-05-19 23:15-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr ""
 msgid ""
 "http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&q=site%"
 "3A{moz:domain}+{searchTerms}"
-msgstr "http://www.google.com/search?hl=sr&q=site%3A{moz:domain}+{searchTerms}"
+msgstr "http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&q=site%3A{moz:domain}+{searchTerms}"
 
 # increment this number when anything gets changed in the list below.  This will
 # cause Firefox to re-read these prefs and inject any new handlers into the
