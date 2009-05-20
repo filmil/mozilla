@@ -7,11 +7,11 @@ NONPODIR=$WORKING_DIR/non-po/sr
 
 echo Removing:
 
-echo - $PODIR/$1
-rm -f $PODIR/$1
+echo - $PODIR/$1.po
+rm -f $PODIR/$1.po
 
-echo - $POTDIR/$1
-rm -f $POTDIR/$1
+echo - $POTDIR/$1.pot
+rm -f $POTDIR/$1.pot
 
 echo - $NONPODIR/$1
 rm -f $NONPODIR/$1
