@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-29 12:50-0700\n"
-"PO-Revision-Date: 2009-03-29 12:59-0700\n"
+"POT-Creation-Date: 2009-05-19 21:40-0700\n"
+"PO-Revision-Date: 2009-05-19 21:42-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -268,7 +268,11 @@ msgid ""
 "All history will be cleared.  Your history includes one page visit since %"
 "S.;All history will be cleared.  Your history includes #1 page visits since "
 "%S."
-msgstr "Цео историјат ће бити очишћен.  Ваш историјат садржи једну посету страни почев од %S.;Цео историјат ће бити очишћен.  Ваш историјат садржи #1 посете странама почев од %S.;Цео историјат ће бити очишћен.  Ваш историјат садржи #1 посета странама почев од %S. "
+msgstr ""
+"Цео историјат ће бити очишћен.  Ваш историјат садржи једну посету страни "
+"почев од %S.;Цео историјат ће бити очишћен.  Ваш историјат садржи #1 посете "
+"странама почев од %S.;Цео историјат ће бити очишћен.  Ваш историјат садржи "
+"#1 посета странама почев од %S. "
 
 #. # LOCALIZATION NOTE (sanitizeEverythingNoVisitsWarning): Used in same context
 #. # as sanitizeEverythingWarning except this is shown instead when there are no
@@ -355,7 +359,8 @@ msgstr "б"
 #. # #1 Window Title, #2 Number of tabs
 #: menuUndoCloseWindowLabel
 msgid "#1 (and #2 other tab);#1 (and #2 other tabs)"
-msgstr "#1 (и #2 други језичак);#1 (и #2 друга језичка); #1 (и #2 других језичака)"
+msgstr ""
+"#1 (и #2 други језичак);#1 (и #2 друга језичка); #1 (и #2 других језичака)"
 
 #: menuUndoCloseWindowSingleTabLabel
 msgid "#1"
@@ -433,9 +438,9 @@ msgid "Never for This Site"
 msgstr "Никада за овај сајт"
 
 #: offlineApps.neverAccessKey
-msgctxt "offlineApps.neverAccessKey"
+#: geolocation.tellThemKey
 msgid "e"
-msgstr "к"
+msgstr "в"
 
 #: offlineApps.notNow
 msgid "Not Now"
@@ -541,28 +546,40 @@ msgid "Remove Bookmark;Remove Bookmarks (#1)"
 msgstr "Уклони забелешку;Уклони #1 забелешке;Уклони #1 забелешки"
 
 #. # Geolocation UI
-#: geolocation.tellThem
-msgid "Tell them"
-msgstr "Обавести их"
+#. # LOCALIZATION NOTE (geolocation.shareLocation geolocation.dontShareLocation): 
+#. #If you're having trouble with the word Share, please use Allow and Block in your language.
+#: geolocation.shareLocation
+msgid "Share Location"
+msgstr "Објави локацију"
 
-#: geolocation.tellThemKey
-msgctxt "geolocation.tellThemKey"
-msgid "e"
-msgstr "в"
+#: geolocation.shareLocation.accesskey
+msgid "a"
+msgstr "л"
 
-#: geolocation.dontTellThem
-msgid "Don't tell them"
-msgstr "Не обавештавај их"
+#: geolocation.dontShareLocation
+msgid "Don't Share"
+msgstr "Не објављуј"
 
+#: geolocation.dontShareLocation.accesskey
 #: geolocation.dontTellThemKey
 #: geolocation.nothingLocationKey
-msgctxt "geolocation.dontTellThemKey"
+msgctxt "geolocation.dontShareLocation.accesskey"
 msgid "o"
 msgstr "Н"
 
 #: geolocation.siteWantsToKnow
 msgid "%S wants to know your location."
 msgstr "%S жели да зна Вашу локацију."
+
+#. # LOCALIZATION NOTE (geolocation.learnMore): Use the unicode ellipsis char, \u2026,
+#. # or use "..." if \u2026 doesn't suit traditions in your locale.
+#: geolocation.learnMore
+msgid "Learn More…"
+msgstr "Сазнајте више…"
+
+#: geolocation.remember
+msgid "Remember for this site"
+msgstr "Запамти овај сајт"
 
 #. # Phishing/Malware Notification Bar.
 #. # LOCALIZATION NOTE (notAForgery, notAnAttack)

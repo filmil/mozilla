@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-29 12:50-0700\n"
+"POT-Creation-Date: 2009-05-19 21:40-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -388,7 +388,6 @@ msgid "Never for This Site"
 msgstr ""
 
 #: offlineApps.neverAccessKey
-msgctxt "offlineApps.neverAccessKey"
 msgid "e"
 msgstr ""
 
@@ -485,26 +484,37 @@ msgid "Remove Bookmark;Remove Bookmarks (#1)"
 msgstr ""
 
 #. # Geolocation UI
-#: geolocation.tellThem
-msgid "Tell them"
+#. # LOCALIZATION NOTE (geolocation.shareLocation geolocation.dontShareLocation): 
+#. #If you're having trouble with the word Share, please use Allow and Block in your language.
+#: geolocation.shareLocation
+msgid "Share Location"
 msgstr ""
 
-#: geolocation.tellThemKey
-msgctxt "geolocation.tellThemKey"
-msgid "e"
+#: geolocation.shareLocation.accesskey
+msgid "a"
 msgstr ""
 
-#: geolocation.dontTellThem
-msgid "Don't tell them"
+#: geolocation.dontShareLocation
+msgid "Don't Share"
 msgstr ""
 
-#: geolocation.dontTellThemKey
-msgctxt "geolocation.dontTellThemKey"
+#: geolocation.dontShareLocation.accesskey
+msgctxt "geolocation.dontShareLocation.accesskey"
 msgid "o"
 msgstr ""
 
 #: geolocation.siteWantsToKnow
 msgid "%S wants to know your location."
+msgstr ""
+
+#. # LOCALIZATION NOTE (geolocation.learnMore): Use the unicode ellipsis char, \u2026,
+#. # or use "..." if \u2026 doesn't suit traditions in your locale.
+#: geolocation.learnMore
+msgid "Learn More…"
+msgstr ""
+
+#: geolocation.remember
+msgid "Remember for this site"
 msgstr ""
 
 #. # Phishing/Malware Notification Bar.

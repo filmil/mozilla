@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-29 14:57-0700\n"
+"POT-Creation-Date: 2009-05-19 21:28-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,7 +68,9 @@ msgstr ""
 #. # to be searched and the user's search query. Place them in the appropriate location
 #. # for your locale's URL but do not translate them.
 #: browser.search.siteSearchURL
-msgid "http://www.google.com/search?hl=en&q=site%3A{moz:domain}+{searchTerms}"
+msgid ""
+"http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&q=site%"
+"3A{moz:domain}+{searchTerms}"
 msgstr ""
 
 #. # increment this number when anything gets changed in the list below.  This will
