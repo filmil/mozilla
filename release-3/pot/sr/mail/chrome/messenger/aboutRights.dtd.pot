@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 15:09-0700\n"
+"POT-Creation-Date: 2009-09-01 00:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page.
@@ -19,11 +19,13 @@ msgstr ""
 msgid "ltr"
 msgstr ""
 
-#: rights.pagetitle
-msgid "about:rights"
+#: rights.title
+msgctxt "rights.title"
+msgid "About Your Rights"
 msgstr ""
 
 #: rights.intro-header
+msgctxt "rights.intro-header"
 msgid "About Your Rights"
 msgstr ""
 
@@ -215,7 +217,7 @@ msgstr ""
 #: rights.webservices-term5
 msgid ""
 "&vendorShortName; may update these terms as necessary from time to time. "
-"These terms may not be modified or cancelled without &vendorShortName;'s "
+"These terms may not be modified or canceled without &vendorShortName;'s "
 "written agreement."
 msgstr ""
 

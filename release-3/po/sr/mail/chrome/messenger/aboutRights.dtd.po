@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 15:09-0700\n"
-"PO-Revision-Date: 2009-02-16 15:33-0800\n"
+"POT-Creation-Date: 2009-09-01 00:05-0700\n"
+"PO-Revision-Date: 2009-09-01 00:06-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page.
@@ -18,11 +18,13 @@ msgstr ""
 msgid "ltr"
 msgstr "ltr"
 
-#: rights.pagetitle
-msgid "about:rights"
-msgstr "about:rights"
+#: rights.title
+msgctxt "rights.title"
+msgid "About Your Rights"
+msgstr "О Вашим правима"
 
 #: rights.intro-header
+msgctxt "rights.intro-header"
 msgid "About Your Rights"
 msgstr "О Вашим правима"
 
@@ -30,7 +32,9 @@ msgstr "О Вашим правима"
 msgid ""
 "&brandFullName; is free and open source software, built by a community of "
 "thousands from all over the world. There are a few things you should know:"
-msgstr "&brandFullName; је бесплатан и отворен софтвер, кога је изградила заједница хиљада људи широм света.  Ево неколико ствари које треба да знате:"
+msgstr ""
+"&brandFullName; је бесплатан и отворен софтвер, кога је изградила заједница "
+"хиљада људи широм света.  Ево неколико ствари које треба да знате:"
 
 #. Note on pointa / pointb / pointc form:
 #. These points each have an embedded link in the HTML, so each point is
@@ -53,13 +57,19 @@ msgid ""
 "You are also welcome to modify the source code of &brandShortName; as you "
 "want to meet your needs. The Mozilla Public License also gives you the right "
 "to distribute your modified versions."
-msgstr ".  То значи да можете да користите, умножавате и даље делите програм &brandShortName; другима.  Такође можете слободно да мењате изворни код програма &brandShortName; онако како одговара Вашим потребама.  Мозилина јавна лиценца Вам такође даје право да делите Ваше измењено издање."
+msgstr ""
+".  То значи да можете да користите, умножавате и даље делите програм "
+"&brandShortName; другима.  Такође можете слободно да мењате изворни код "
+"програма &brandShortName; онако како одговара Вашим потребама.  Мозилина "
+"јавна лиценца Вам такође даје право да делите Ваше измењено издање."
 
 #: rights.intro-point2a
 msgid ""
 "Mozilla does not grant you any rights to the Mozilla and Thunderbird "
 "trademarks or logos. Additional information on Trademarks may be found "
-msgstr "Мозила Вам не даје права на Мозилине и Тандербердове робне марке и логотипове.  Додатни подаци о робним маркама могу се наћи "
+msgstr ""
+"Мозила Вам не даје права на Мозилине и Тандербердове робне марке и "
+"логотипове.  Додатни подаци о робним маркама могу се наћи "
 
 #: rights.intro-point2b
 msgctxt "rights.intro-point2b"
@@ -74,7 +84,8 @@ msgstr "."
 #. point 3 text for official branded builds
 #: rights.intro-point3a
 msgid "Privacy policies for &vendorShortName;'s products may be found "
-msgstr "Полиса о приватности за производе које прави &vendorShortName; могу се наћи "
+msgstr ""
+"Полиса о приватности за производе које прави &vendorShortName; могу се наћи "
 
 #: rights.intro-point3b
 msgctxt "rights.intro-point3b"
@@ -89,7 +100,9 @@ msgstr "."
 #. point 3 text for unbranded builds
 #: rights.intro-point3-unbranded
 msgid "Any applicable privacy policies for this product should be listed here."
-msgstr "Све полисе о приватности које се односе на производ треба да су ту побројане."
+msgstr ""
+"Све полисе о приватности које се односе на производ треба да су ту "
+"побројане."
 
 #. point 4 text for official branded builds
 #: rights.intro-point4a
@@ -98,7 +111,11 @@ msgid ""
 "service; however we cannot guarantee they are 100&#37; accurate or error-"
 "free. More details, including information on how to disable the services, "
 "can be found in the "
-msgstr "Програм &brandShortName; такође нуди изборне услуге попут услуге за доградњу додатака; ми међутим не можемо да гарантујемо да су 100&#37; тачни и без грешака.  Више детаља, укључујући податке како се услуге искључују можете да пронађете у "
+msgstr ""
+"Програм &brandShortName; такође нуди изборне услуге попут услуге за доградњу "
+"додатака; ми међутим не можемо да гарантујемо да су 100&#37; тачни и без "
+"грешака.  Више детаља, укључујући податке како се услуге искључују можете да "
+"пронађете у "
 
 #: rights.intro-point4b
 msgid "service terms"
@@ -114,7 +131,9 @@ msgstr "."
 msgid ""
 "If this product incorporates web services, any applicable service terms for "
 "the service(s) should be linked to the "
-msgstr "Ако овај производ укључује мрежне услуге, све односне услове услога можете пронаћи на "
+msgstr ""
+"Ако овај производ укључује мрежне услуге, све односне услове услога можете "
+"пронаћи на "
 
 #: rights.intro-point4b-unbranded
 msgid "Web Site Services"
@@ -140,7 +159,12 @@ msgid ""
 "version of &brandShortName; as described below. If you do not want to use "
 "the Services or the terms below are unacceptable, you may disable the add-on "
 "update service by opening the application preferences, selecting the "
-msgstr "Програм &brandFullName; нуди изборне услуге (у даљем тексту: „услуге‟), попут услуге за доградњу додатака, које Вам се уступају на употребу у овом издању програма &brandShortName; под доле описаним условима.  Ако не желите да користите услуге или ако услови услуга за вас нису прихватљиви, можете искључити услугу доградње у подешавањима програма, бирањем "
+msgstr ""
+"Програм &brandFullName; нуди изборне услуге (у даљем тексту: „услуге‟), "
+"попут услуге за доградњу додатака, које Вам се уступају на употребу у овом "
+"издању програма &brandShortName; под доле описаним условима.  Ако не желите "
+"да користите услуге или ако услови услуга за вас нису прихватљиви, можете "
+"искључити услугу доградње у подешавањима програма, бирањем "
 
 #: rights.webservices-b
 msgid "Advanced"
@@ -165,7 +189,9 @@ msgstr " и одбележавањем опција за аутоматску п
 msgid ""
 "An overview of the web site services the product incorporates, along with "
 "instructions on how to disable them, if applicable, should be included here."
-msgstr "Преглед мрежних услуга које су уграђене у производ, као и упутства за њихово искључивање, ако је тако нешто предвиђено, треба да се могу наћи овде."
+msgstr ""
+"Преглед мрежних услуга које су уграђене у производ, као и упутства за њихово "
+"искључивање, ако је тако нешто предвиђено, треба да се могу наћи овде."
 
 #. point 1 text for unbranded builds
 #: rights.webservices-term1-unbranded
@@ -176,7 +202,9 @@ msgstr "Сви услови услуга за овај производ треб
 #: rights.webservices-term1
 msgid ""
 "&vendorShortName; may discontinue or change the Services at its discretion."
-msgstr "&vendorShortName; задржава право да укине или измени услуге по свом нахођењу."
+msgstr ""
+"&vendorShortName; задржава право да укине или измени услуге по свом "
+"нахођењу."
 
 #: rights.webservices-term2
 msgid ""
@@ -186,7 +214,13 @@ msgid ""
 "Services.  These terms are not intended to limit any rights granted under "
 "open source licenses applicable to &brandShortName; and to corresponding "
 "source code versions of &brandShortName;."
-msgstr "Слободни сте да користите услуге које прате ово издање програма &brandShortName;, и имате сва права која су потребна да то и урадите.  &vendorShortName; и даваоци лиценци задржавају сва друга права на услуге.  Ови услови не могу да ограниче Ваша права која вам гарантује лиценца отвореног кода коју примењујемо на програм &brandShortName; и на одговарајући изворни код програма &brandShortName;."
+msgstr ""
+"Слободни сте да користите услуге које прате ово издање програма "
+"&brandShortName;, и имате сва права која су потребна да то и урадите.  "
+"&vendorShortName; и даваоци лиценци задржавају сва друга права на услуге.  "
+"Ови услови не могу да ограниче Ваша права која вам гарантује лиценца "
+"отвореног кода коју примењујемо на програм &brandShortName; и на "
+"одговарајући изворни код програма &brandShortName;."
 
 #: rights.webservices-term3
 msgid ""
@@ -198,7 +232,14 @@ msgid ""
 "quality and performance of the Services. Some jurisdictions do not allow "
 "the exclusion or limitation of implied warranties, so this disclaimer may "
 "not apply to you."
-msgstr "Услуге се пружају по виђењу.  &vendorShortName;, приложници, даваоци лиценци и дистрибутери одричи све гаранције, било имплицитне или експлицитне, укључујући али се не ограничавајући на гаранције да услуге служе сврси за коју су намењене.  Ви сами сносите целокупан ризик избора услуга које одговарају Вашим потребама и захтевима о квалитету.  У неким јурисдикцијама изузеће или ограничавање имплицитних гаранција није дозвољено, у ком случају ово ограничење одговорности се можда не примењује на Вас."
+msgstr ""
+"Услуге се пружају по виђењу.  &vendorShortName;, приложници, даваоци лиценци "
+"и дистрибутери одричи све гаранције, било имплицитне или експлицитне, "
+"укључујући али се не ограничавајући на гаранције да услуге служе сврси за "
+"коју су намењене.  Ви сами сносите целокупан ризик избора услуга које "
+"одговарају Вашим потребама и захтевима о квалитету.  У неким јурисдикцијама "
+"изузеће или ограничавање имплицитних гаранција није дозвољено, у ком случају "
+"ово ограничење одговорности се можда не примењује на Вас."
 
 #: rights.webservices-term4
 msgid ""
@@ -209,14 +250,25 @@ msgid ""
 "liability under these terms will not exceed $500 (five hundred dollars). "
 "Some jurisdictions do not allow the exclusion or limitation of certain "
 "damages, so this exclusion and limitation may not apply to you."
-msgstr "Осим у законом прописаним случајевима, &vendorShortName;, приложници, даваоци лиценци и дистрибутери неће бити одговорни ни за какву индиректну, посебну, последичну, случајну, или примерну штету која настане као последица или у било каквој другој вези са употребом програма &brandShortName; и услуга.  Укупна одговорност под овим условима неће премашити $500 (пет стотина америчких долара).  У неким јурисдикцијама изузеће или ограничење вредности обештећења није дозвољено, у ком случају ово ограничење одговорности се можда не примењује на Вас."
+msgstr ""
+"Осим у законом прописаним случајевима, &vendorShortName;, приложници, "
+"даваоци лиценци и дистрибутери неће бити одговорни ни за какву индиректну, "
+"посебну, последичну, случајну, или примерну штету која настане као последица "
+"или у било каквој другој вези са употребом програма &brandShortName; и "
+"услуга.  Укупна одговорност под овим условима неће премашити $500 (пет "
+"стотина америчких долара).  У неким јурисдикцијама изузеће или ограничење "
+"вредности обештећења није дозвољено, у ком случају ово ограничење "
+"одговорности се можда не примењује на Вас."
 
 #: rights.webservices-term5
 msgid ""
 "&vendorShortName; may update these terms as necessary from time to time. "
-"These terms may not be modified or cancelled without &vendorShortName;'s "
+"These terms may not be modified or canceled without &vendorShortName;'s "
 "written agreement."
-msgstr "&vendorShortName; може да допуни ове услове по потреби, с времена на време.  Услови се не могу мењати или отказати без писменог одобрења које даје &vendorShortName;."
+msgstr ""
+"&vendorShortName; може да допуни ове услове по потреби, с времена на време. "
+" Услови се не могу мењати или отказати без писменог одобрења које даје "
+"&vendorShortName;."
 
 #: rights.webservices-term6
 msgid ""
@@ -226,4 +278,8 @@ msgid ""
 "full force and effect. In the event of a conflict between a translated "
 "version of these terms and the English language version, the English "
 "language version shall control."
-msgstr "Ови услови су начињени према државним законима америчке државе Калифорније, осим у случајевима сукоба прописа.  Ако је иједан део ових услова неважећи, остатак остаје пуноважан.  У случају неслагања преведеног издања ових услова са енглеским оригиналом, енглески оригинал ће бити пуноважан."
+msgstr ""
+"Ови услови су начињени према државним законима америчке државе Калифорније, "
+"осим у случајевима сукоба прописа.  Ако је иједан део ових услова неважећи, "
+"остатак остаје пуноважан.  У случају неслагања преведеног издања ових услова "
+"са енглеским оригиналом, енглески оригинал ће бити пуноважан."
