@@ -1,0 +1,197 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/accountCreation.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-01 00:09-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+"X-Accelerator-Marker: &\n"
+
+#: welcome.description
+msgid "Quick Account Setup"
+msgstr ""
+
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
+#: autoconfigWizard.style
+msgid "width: 640px; height: 480px;"
+msgstr ""
+
+#: name.description
+msgid "Your name"
+msgstr ""
+
+#: email.description
+msgid "Email"
+msgstr ""
+
+#: password.description
+msgid "Password"
+msgstr ""
+
+#: next.label
+#: next.accesskey
+msgid "&Next &#187;"
+msgstr ""
+
+#: back.label
+#: back.accesskey
+msgid "&#171; &Back"
+msgstr ""
+
+#: accountInformation.label
+msgid "Account Information"
+msgstr ""
+
+#: username.label
+msgid "username"
+msgstr ""
+
+#: receivingServer.label
+msgid "receiving"
+msgstr ""
+
+#: sendingServer.label
+msgid "sending"
+msgstr ""
+
+#: noEncryption.label
+msgid "None"
+msgstr ""
+
+#: starttls.label
+msgid "STARTTLS"
+msgstr ""
+
+#: sslTls.label
+msgid "SSL/TLS"
+msgstr ""
+
+#: imap.label
+msgid "IMAP"
+msgstr ""
+
+#: pop.label
+msgid "POP"
+msgstr ""
+
+#: smtp.label
+msgid "SMTP"
+msgstr ""
+
+#. This label is a link
+#. which will create the account and take the user to the account
+#. configuration screen.
+#: createAndEditSettings.label
+msgid "Create and Edit Account Settings"
+msgstr ""
+
+#: cancel.label
+msgid "Cancel"
+msgstr ""
+
+#: stop.label
+#: stop.accesskey
+msgid "&Stop"
+msgstr ""
+
+#. This is the text that is
+#. displayed on the button which will re-guess the account configuration,
+#. taking into account the settings the user has changed.
+#: retest.label
+#: retest.accesskey
+msgid "&Re-test Configuration"
+msgstr ""
+
+#: edit.label
+#: edit.accesskey
+msgid "&Edit"
+msgstr ""
+
+#: rememberPassword.label
+#: rememberPassword.accesskey
+msgid "Re&member password"
+msgstr ""
+
+#: warning.label
+msgid "Warning!"
+msgstr ""
+
+#: incomingSettings.label
+msgid "Incoming settings:"
+msgstr ""
+
+#: outgoingSettings.label
+msgid "Outgoing settings:"
+msgstr ""
+
+#: technicaldetails.label
+msgid "Technical Details"
+msgstr ""
+
+#. If there is a security
+#. warning on the outgoing server, then the user will need to check a
+#. checkbox beside this text before continuing.
+#: confirmWarning.label
+#: confirmWarning.accesskey
+msgid "I &understand the risks."
+msgstr ""
+
+#. If there is a security warning
+#. on the incoming or outgoing servers, then the page that pops up will
+#. have this text in a button to continue by creating the account.
+#: createAccount.label
+#: createAccount.accesskey
+msgid "&Create Account"
+msgstr ""
+
+#. If there is a security warning on
+#. the incoming or outgoing servers, then the page that pops up will have
+#. this text in a button to take you back to the previous page to change
+#. the settings and try again.
+#: changeSettings.label
+#: changeSettings.accesskey
+msgid "Change &Settings"
+msgstr ""
+
+#: contactYourProvider.description
+msgid ""
+"&brandShortName; can allow you to get to your mail using the provided "
+"configurations. However, you should contact your administrator or email "
+"provider regarding these improper connections. See the Thunderbird FAQ for "
+"more information."
+msgstr ""
+
+#: insecureServer.tooltip.title
+msgid "Warning! This is an insecure server."
+msgstr ""
+
+#: insecureServer.tooltip.details
+msgid "Click circle for more details."
+msgstr ""
+
+#: insecureClearText.description
+msgid ""
+"Email is sent in clear-text, so your email could be read by attackers, etc. "
+"&brandShortName; will let you get to your mail, but you should really get "
+"your email provider to configure the server with a secure connection."
+msgstr ""
+
+#: insecureSelfSigned.description
+msgid ""
+"The server uses a certificate that we can't trust, so we can't be sure that "
+"someone isn't intercepting the traffic between &brandShortName; and your "
+"server. &brandShortName; will let you get to your mail, but you should "
+"really get your email provider to configure the server with a trusted "
+"certificate."
+msgstr ""
+
+#: secureServer.description
+msgid "Congratulations! This is a secure server."
+msgstr ""
