@@ -1,11 +1,10 @@
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/accountCreation.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 00:09-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-09-01 00:30-0700\n"
+"PO-Revision-Date: 2009-09-01 02:24-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,90 +15,90 @@ msgstr ""
 
 #: welcome.description
 msgid "Quick Account Setup"
-msgstr ""
+msgstr "Брзо подешавање налога"
 
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: autoconfigWizard.style
 msgid "width: 640px; height: 480px;"
-msgstr ""
+msgstr "width: 640px; height: 480px;"
 
 #: name.description
 msgid "Your name"
-msgstr ""
+msgstr "Ваше име"
 
 #: email.description
 msgid "Email"
-msgstr ""
+msgstr "Ел. адреса"
 
 #: password.description
 msgid "Password"
-msgstr ""
+msgstr "Лозинка"
 
 #: next.label
 #: next.accesskey
 msgid "&Next &#187;"
-msgstr ""
+msgstr "&Даље &#187;"
 
 #: back.label
 #: back.accesskey
 msgid "&#171; &Back"
-msgstr ""
+msgstr "&#171; &Назад"
 
 #: accountInformation.label
 msgid "Account Information"
-msgstr ""
+msgstr "Подаци о налогу"
 
 #: username.label
 msgid "username"
-msgstr ""
+msgstr "кор. име"
 
 #: receivingServer.label
 msgid "receiving"
-msgstr ""
+msgstr "долазни"
 
 #: sendingServer.label
 msgid "sending"
-msgstr ""
+msgstr "одлазни"
 
 #: noEncryption.label
 msgid "None"
-msgstr ""
+msgstr "без шифре"
 
 #: starttls.label
 msgid "STARTTLS"
-msgstr ""
+msgstr "STARTTLS"
 
 #: sslTls.label
 msgid "SSL/TLS"
-msgstr ""
+msgstr "SSL/TLS"
 
 #: imap.label
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
 #: pop.label
 msgid "POP"
-msgstr ""
+msgstr "POP"
 
 #: smtp.label
 msgid "SMTP"
-msgstr ""
+msgstr "SMTP"
 
 #. This label is a link
 #. which will create the account and take the user to the account
 #. configuration screen.
 #: createAndEditSettings.label
 msgid "Create and Edit Account Settings"
-msgstr ""
+msgstr "Креирање и уређивање налога"
 
 #: cancel.label
 msgid "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 #: stop.label
 #: stop.accesskey
 msgid "&Stop"
-msgstr ""
+msgstr "&Крај"
 
 #. This is the text that is
 #. displayed on the button which will re-guess the account configuration,
@@ -107,33 +106,33 @@ msgstr ""
 #: retest.label
 #: retest.accesskey
 msgid "&Re-test Configuration"
-msgstr ""
+msgstr "&Поновна провера подешавања"
 
 #: edit.label
 #: edit.accesskey
 msgid "&Edit"
-msgstr ""
+msgstr "&Уређивање"
 
 #: rememberPassword.label
 #: rememberPassword.accesskey
 msgid "Re&member password"
-msgstr ""
+msgstr "&Запамти лозинку"
 
 #: warning.label
 msgid "Warning!"
-msgstr ""
+msgstr "Упозорење!"
 
 #: incomingSettings.label
 msgid "Incoming settings:"
-msgstr ""
+msgstr "Долазна подешавања:"
 
 #: outgoingSettings.label
 msgid "Outgoing settings:"
-msgstr ""
+msgstr "Одлазна подешавања:"
 
 #: technicaldetails.label
 msgid "Technical Details"
-msgstr ""
+msgstr "Технички детаљи"
 
 #. If there is a security
 #. warning on the outgoing server, then the user will need to check a
@@ -141,7 +140,7 @@ msgstr ""
 #: confirmWarning.label
 #: confirmWarning.accesskey
 msgid "I &understand the risks."
-msgstr ""
+msgstr "&Разумем ризике."
 
 #. If there is a security warning
 #. on the incoming or outgoing servers, then the page that pops up will
@@ -149,7 +148,7 @@ msgstr ""
 #: createAccount.label
 #: createAccount.accesskey
 msgid "&Create Account"
-msgstr ""
+msgstr "&Направи налог"
 
 #. If there is a security warning on
 #. the incoming or outgoing servers, then the page that pops up will have
@@ -158,7 +157,7 @@ msgstr ""
 #: changeSettings.label
 #: changeSettings.accesskey
 msgid "Change &Settings"
-msgstr ""
+msgstr "Промена по&дешавања"
 
 #: contactYourProvider.description
 msgid ""
@@ -166,22 +165,22 @@ msgid ""
 "configurations. However, you should contact your administrator or email "
 "provider regarding these improper connections. See the Thunderbird FAQ for "
 "more information."
-msgstr ""
+msgstr "Програм &brandShortName; може да допусти приступ пошти помоћу подешавања које сет унели.  Молимо да се обратите администратору мреже, одн. добављачу електронске поште у вези са овим неодговарајућим везама.  Погледајте често постављана питања за више података."
 
 #: insecureServer.tooltip.title
 msgid "Warning! This is an insecure server."
-msgstr ""
+msgstr "Упозорење!  Ово је небезбедан сервер."
 
 #: insecureServer.tooltip.details
 msgid "Click circle for more details."
-msgstr ""
+msgstr "Притисните на кружић за више детаља."
 
 #: insecureClearText.description
 msgid ""
 "Email is sent in clear-text, so your email could be read by attackers, etc. "
 "&brandShortName; will let you get to your mail, but you should really get "
 "your email provider to configure the server with a secure connection."
-msgstr ""
+msgstr "Ел. пошта се не шифрује приликом слања, тако да нападачи могу да је прочитају.  Програм &brandShortName; ће Вам допустити приступ пошти, али би требало да се обратите добављачу ел. поште како би Вам обезбедио обезбеђени приступ пошти."
 
 #: insecureSelfSigned.description
 msgid ""
@@ -190,8 +189,8 @@ msgid ""
 "server. &brandShortName; will let you get to your mail, but you should "
 "really get your email provider to configure the server with a trusted "
 "certificate."
-msgstr ""
+msgstr "Сервер користи сертификат који није од поверења, па зато не можемо да будемо сигурни да нико не прислушкује саобраћај између програма &brandShortName; и Вашег сервера.  Програм &brandShortName; ће Вам допустити да приступите својој пошти, али би требало да се обратите добављачу ел. поште како би Вам обезбедио обезбеђени приступ пошти."
 
 #: secureServer.description
 msgid "Congratulations! This is a secure server."
-msgstr ""
+msgstr "Честитамо!  Ово је безбедан сервер."
