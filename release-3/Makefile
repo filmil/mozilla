@@ -136,3 +136,5 @@ clean:
 	$(RM) *~
 	$(RM) -fr $(OUTPUT_DIR) $(ZIPNAME)* NEWPO.po NEWPOT.pot messages.mo
 	$(RM) -fr $(FAIL_DIR) $(MERGE_DIR)
+	$(RM) -fr semantic.cache
+
