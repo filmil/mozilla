@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 15:06-0700\n"
-"PO-Revision-Date: 2009-02-16 15:08-0800\n"
+"POT-Creation-Date: 2009-08-31 23:42-0700\n"
+"PO-Revision-Date: 2009-08-31 23:44-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 # Entities for AccountWizard
@@ -195,19 +195,22 @@ msgstr "&POP"
 # text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 #
 #
+#. LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+#. these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+#. text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 #. LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
 #. these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
 #. text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 #: haveSmtp1.prefix
 msgid "Your existing outgoing server (SMTP), &quot;"
-msgstr "Ваш тренутни одлазећи сервер (SMTP), „"
+msgstr "Ваш тренутни одлазни сервер (SMTP), „"
 
-#: haveSmtp1.suffix
-msgctxt "haveSmtp1.suffix"
+#: haveSmtp1.suffix2
+msgctxt "haveSmtp1.suffix2"
 msgid ""
-"&quot;, will be used. You can modify outgoing server settings by choosing "
-"Account Settings from the Tools menu."
-msgstr "&quot;, ће бити коришћен. Можете да промените подеашвања одлазног сервера помоћу опције „Подешавања налога‟ из менија „Алатке‟,"
+"&quot;, will be used. You can change outgoing servers in the account "
+"settings."
+msgstr "‟ ће бити коришћен.  Можете да промените одлазни сервер у подешавањима налога."
 
 # Entities for Login page
 #. Entities for Login page
@@ -249,6 +252,9 @@ msgstr "&Одлазно корисничко име:"
 # text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 #
 #
+#. LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+#. these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+#. text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 #. LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
 #. these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
 #. text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
@@ -256,21 +262,21 @@ msgstr "&Одлазно корисничко име:"
 msgid "Your existing outgoing (SMTP) username, &quot;"
 msgstr "Ваше тренутно одлазно (SMTP) корисничко име, „"
 
-#: haveSmtp2.suffix
-#: haveSmtp1.suffix
-msgctxt "haveSmtp2.suffix"
+#: haveSmtp2.suffix2
+msgctxt "haveSmtp2.suffix2"
 msgid ""
-"&quot;, will be used. You can modify outgoing server settings by choosing "
-"Account Settings from the Tools menu."
-msgstr ""
-"‟ ће бити коришћен.  Можете да промените подешавања одлазећег сервера "
-"избором подешавања налога из менија Алати."
+"&quot;, will be used. You can change outgoing servers in the account "
+"settings."
+msgstr "‟ ће бити употребљено.  Можете да промените одлазне сервере у подешавањима налога."
 
 # LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
 # these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
 # text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 #
 #
+#. LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+#. these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+#. text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 #. LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
 #. these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
 #. text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
@@ -278,15 +284,12 @@ msgstr ""
 msgid "Your outgoing (SMTP) server, &quot;"
 msgstr "Ваш одлазни (SMTP) сервер, „"
 
-#: haveSmtp3.suffix
+#: haveSmtp3.suffix2
 msgid ""
 "&quot;, is identical to your incoming server, your incoming user name will "
-"be used to access it. You can modify outgoing server settings by choosing "
-"Account Settings from the Tools menu."
-msgstr ""
-"“, је исти као долазни сервер, ваше долазно корисничко име биће коришћено за "
-"приступ. Можете променити подешавања одлазног сервера бирајући Подешавања "
-"налога из менија Алати."
+"be used to access it. You can change outgoing servers in the account "
+"settings."
+msgstr "‟ је идентичан као долазни сервер, ваше долазно корисничко име ће бити употребљено за приступ.  Можете променити одлазни сервер у подешавањима налога."
 
 # Entities for Account name page
 #. Entities for Account name page
@@ -354,7 +357,9 @@ msgstr ""
 #: deferStorage.label
 #: deferStorage.accesskey
 msgid "Use &Global Inbox (store mail in Local Folders)"
-msgstr "Користи &глобални долазни директоријум (пошта се смешта у локални директоријум „Долазно“)"
+msgstr ""
+"Користи &глобални долазни директоријум (пошта се смешта у локални "
+"директоријум „Долазно“)"
 
 #: clickFinish.label
 msgid "Click Finish to save these settings and exit the Account Wizard."
