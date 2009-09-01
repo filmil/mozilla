@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-09-01 00:02-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: aboutDialog.title
@@ -23,9 +23,9 @@ msgstr ""
 msgid "&Credits"
 msgstr ""
 
-#: aboutLink.label
-#: aboutLink.accesskey
-msgid "&lt; &About &brandFullName;"
+#: aboutButton.label
+#: aboutButton.accesskey
+msgid "&lt; &Back"
 msgstr ""
 
 #: aboutVersion
@@ -34,10 +34,25 @@ msgstr ""
 
 #: copyrightText
 msgid ""
-"&#169;1998-2008 Contributors. All Rights Reserved. Mozilla Thunderbird and "
+"&#169;1998-2009 Contributors. All Rights Reserved. Mozilla Thunderbird and "
 "the \n"
 "Thunderbird logos are trademarks of the Mozilla Foundation.  All rights \n"
 "reserved."
+msgstr ""
+
+#: aboutMenu.label
+#: aboutMenu.accesskey
+msgid "&About"
+msgstr ""
+
+#: aboutRights.label
+#: aboutRights.accesskey
+msgid "Your &Rights"
+msgstr ""
+
+#: aboutContributors.label
+#: aboutContributors.accesskey
+msgid "C&ontributors"
 msgstr ""
 
 #: cmdCloseMac.commandKey
