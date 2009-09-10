@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-06 18:33-0700\n"
+"POT-Creation-Date: 2009-09-10 00:27-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,11 +15,12 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
-#. # LOCALIZATION NOTE: %1$S will be the hostname of the server the user was trying to connect to.
+#. # LOCALIZATION NOTE(cleartext_warning): %1$S will be the hostname of the server the user was trying to connect to.
 #: cleartext_warning
 msgid "%1$S does not use encryption."
 msgstr ""
 
+#. # LOCALIZATION NOTE(selfsigned_warning): %1$S will be the hostname of the server the user was trying to connect to.
 #: selfsigned_warning
 msgid "%1$S does not use a trusted certificate."
 msgstr ""
@@ -45,20 +46,23 @@ msgid "(default)"
 msgstr ""
 
 #. # config titles
-#: searching_for_configs
-msgid "Searching…"
+#. # LOCALIZATION NOTE(looking_up_settings): %1$S will be the brandShortName.
+#: looking_up_settings
+msgid "%1$S is looking up the settings for your email account."
 msgstr ""
 
 #: manually_edit_config
 msgid "Editing Config"
 msgstr ""
 
-#: finished_with_success
-msgid "Finished"
+#. # LOCALIZATION NOTE(found_settings): %1$S will be the brandShortName.
+#: found_settings
+msgid "%1$S has found the settings for your email account."
 msgstr ""
 
-#: finished_with_error
-msgid "Error"
+#. # LOCALIZATION NOTE(failed_to_find_settings): %1$S will be the brandShortName.
+#: failed_to_find_settings
+msgid "%1$S failed to find the settings for your email account."
 msgstr ""
 
 #. # config subtitles
@@ -175,14 +179,10 @@ msgstr ""
 msgid "STARTTLS"
 msgstr ""
 
-#: name.error
-msgid "Please enter your name, as it should be shown to your correspondents."
+#: please_enter_name
+msgid "Please enter your name."
 msgstr ""
 
-#: email.error
+#: double_check_email
 msgid "Double check this email address!"
-msgstr ""
-
-#: password.error
-msgid "Login did not succeed. Please double-check username and password."
 msgstr ""

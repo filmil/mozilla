@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 00:30-0700\n"
-"PO-Revision-Date: 2009-09-01 02:24-0700\n"
+"POT-Creation-Date: 2009-09-10 00:22-0700\n"
+"PO-Revision-Date: 2009-09-10 00:25-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -13,52 +13,61 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
-#: welcome.description
-msgid "Quick Account Setup"
-msgstr "Брзо подешавање налога"
+#: autoconfigWizard.title
+msgid "Mail Account Setup"
+msgstr "Подешавање налога за пошту"
 
-#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
-#: autoconfigWizard.style
-msgid "width: 640px; height: 480px;"
-msgstr "width: 640px; height: 480px;"
+#: name.label
+#: name.accesskey
+msgid "Your &name:"
+msgstr "Ваше &име:"
 
-#: name.description
-msgid "Your name"
-msgstr "Ваше име"
+#: name.emptytext
+msgid "First Last"
+msgstr "Име презиме"
 
-#: email.description
-msgid "Email"
-msgstr "Ел. адреса"
+#: name.text
+msgid "Your name, as shown to others"
+msgstr "Име, како ће бити приказано другима"
 
+#: email.label
+#: email.accesskey
+msgid "Emai&l address:"
+msgstr "Ел. а&дреса:"
+
+#: email.emptytext
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: password.label
+#: password.accesskey
+msgid "&Password:"
+msgstr "&Лозинка:"
+
+#: password.emptytext
 #: password.description
 msgid "Password"
 msgstr "Лозинка"
 
-#: next.label
-#: next.accesskey
-msgid "&Next &#187;"
-msgstr "&Даље &#187;"
-
-#: back.label
-#: back.accesskey
-msgid "&#171; &Back"
-msgstr "&#171; &Назад"
+#: password.text
+msgid "Optional, will only be used to validate the username"
+msgstr "Изборно, биће коришћена само за проверу налога"
 
 #: accountInformation.label
 msgid "Account Information"
 msgstr "Подаци о налогу"
 
-#: username.label
-msgid "username"
-msgstr "кор. име"
+#: username2.label
+msgid "Username:"
+msgstr "Корисничко име:"
 
-#: receivingServer.label
-msgid "receiving"
-msgstr "долазни"
+#: incoming.label
+msgid "Incoming:"
+msgstr "Долазно:"
 
-#: sendingServer.label
-msgid "sending"
-msgstr "одлазни"
+#: outgoing.label
+msgid "Outgoing:"
+msgstr "Одлазно:"
 
 #: noEncryption.label
 msgid "None"
@@ -84,16 +93,25 @@ msgstr "POP"
 msgid "SMTP"
 msgstr "SMTP"
 
-#. This label is a link
-#. which will create the account and take the user to the account
-#. configuration screen.
-#: createAndEditSettings.label
-msgid "Create and Edit Account Settings"
-msgstr "Креирање и уређивање налога"
+#: manualSetup.label
+#: manualSetup.accesskey
+msgid "Manual &Setup…"
+msgstr "Ру&чно подешавање…"
 
 #: cancel.label
-msgid "Cancel"
-msgstr "Откажи"
+#: cancel.accesskey
+msgid "C&ancel"
+msgstr "&Откажи"
+
+#: continue.label
+#: continue.accesskey
+msgid "&Continue"
+msgstr "&Настави"
+
+#: startOver.label
+#: startOver.accesskey
+msgid "Start &over"
+msgstr "Испоче&тка"
 
 #: stop.label
 #: stop.accesskey
@@ -165,7 +183,11 @@ msgid ""
 "configurations. However, you should contact your administrator or email "
 "provider regarding these improper connections. See the Thunderbird FAQ for "
 "more information."
-msgstr "Програм &brandShortName; може да допусти приступ пошти помоћу подешавања које сет унели.  Молимо да се обратите администратору мреже, одн. добављачу електронске поште у вези са овим неодговарајућим везама.  Погледајте често постављана питања за више података."
+msgstr ""
+"Програм &brandShortName; може да допусти приступ пошти помоћу подешавања "
+"које сет унели.  Молимо да се обратите администратору мреже, одн. добављачу "
+"електронске поште у вези са овим неодговарајућим везама.  Погледајте често "
+"постављана питања за више података."
 
 #: insecureServer.tooltip.title
 msgid "Warning! This is an insecure server."
@@ -175,12 +197,13 @@ msgstr "Упозорење!  Ово је небезбедан сервер."
 msgid "Click circle for more details."
 msgstr "Притисните на кружић за више детаља."
 
-#: insecureClearText.description
+#: insecureCleartext.description
 msgid ""
-"Email is sent in clear-text, so your email could be read by attackers, etc. "
-"&brandShortName; will let you get to your mail, but you should really get "
-"your email provider to configure the server with a secure connection."
-msgstr "Ел. пошта се не шифрује приликом слања, тако да нападачи могу да је прочитају.  Програм &brandShortName; ће Вам допустити приступ пошти, али би требало да се обратите добављачу ел. поште како би Вам обезбедио обезбеђени приступ пошти."
+"Email is sent in clear-text, so your email could be read by other people on "
+"the internet. &brandShortName; will let you get to your mail, but you should "
+"really get your email provider to configure the server with a secure "
+"connection."
+msgstr "Електронска пошта се шаље нешифрована, тако да је могуће да га прочитају и трећа лица на Интернету.  &brandShortName; ће Вам дозволити да прочитате пошту, али бисте се требали обратити провајдеру поште да подеси приступ помоћу шифроване везе."
 
 #: insecureSelfSigned.description
 msgid ""
@@ -189,7 +212,12 @@ msgid ""
 "server. &brandShortName; will let you get to your mail, but you should "
 "really get your email provider to configure the server with a trusted "
 "certificate."
-msgstr "Сервер користи сертификат који није од поверења, па зато не можемо да будемо сигурни да нико не прислушкује саобраћај између програма &brandShortName; и Вашег сервера.  Програм &brandShortName; ће Вам допустити да приступите својој пошти, али би требало да се обратите добављачу ел. поште како би Вам обезбедио обезбеђени приступ пошти."
+msgstr ""
+"Сервер користи сертификат који није од поверења, па зато не можемо да будемо "
+"сигурни да нико не прислушкује саобраћај између програма &brandShortName; и "
+"Вашег сервера.  Програм &brandShortName; ће Вам допустити да приступите "
+"својој пошти, али би требало да се обратите добављачу ел. поште како би Вам "
+"обезбедио обезбеђени приступ пошти."
 
 #: secureServer.description
 msgid "Congratulations! This is a secure server."

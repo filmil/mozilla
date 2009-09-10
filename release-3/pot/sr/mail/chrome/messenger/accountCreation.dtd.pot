@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 00:30-0700\n"
+"POT-Creation-Date: 2009-09-10 00:22-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,51 +14,59 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
-#: welcome.description
-msgid "Quick Account Setup"
+#: autoconfigWizard.title
+msgid "Mail Account Setup"
 msgstr ""
 
-#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
-#: autoconfigWizard.style
-msgid "width: 640px; height: 480px;"
+#: name.label
+#: name.accesskey
+msgid "Your &name:"
 msgstr ""
 
-#: name.description
-msgid "Your name"
+#: name.emptytext
+msgid "First Last"
 msgstr ""
 
-#: email.description
-msgid "Email"
+#: name.text
+msgid "Your name, as shown to others"
 msgstr ""
 
-#: password.description
+#: email.label
+#: email.accesskey
+msgid "Emai&l address:"
+msgstr ""
+
+#: email.emptytext
+msgid "email@example.com"
+msgstr ""
+
+#: password.label
+#: password.accesskey
+msgid "&Password:"
+msgstr ""
+
+#: password.emptytext
 msgid "Password"
 msgstr ""
 
-#: next.label
-#: next.accesskey
-msgid "&Next &#187;"
-msgstr ""
-
-#: back.label
-#: back.accesskey
-msgid "&#171; &Back"
+#: password.text
+msgid "Optional, will only be used to validate the username"
 msgstr ""
 
 #: accountInformation.label
 msgid "Account Information"
 msgstr ""
 
-#: username.label
-msgid "username"
+#: username2.label
+msgid "Username:"
 msgstr ""
 
-#: receivingServer.label
-msgid "receiving"
+#: incoming.label
+msgid "Incoming:"
 msgstr ""
 
-#: sendingServer.label
-msgid "sending"
+#: outgoing.label
+msgid "Outgoing:"
 msgstr ""
 
 #: noEncryption.label
@@ -85,15 +93,24 @@ msgstr ""
 msgid "SMTP"
 msgstr ""
 
-#. This label is a link
-#. which will create the account and take the user to the account
-#. configuration screen.
-#: createAndEditSettings.label
-msgid "Create and Edit Account Settings"
+#: manualSetup.label
+#: manualSetup.accesskey
+msgid "Manual &Setup…"
 msgstr ""
 
 #: cancel.label
-msgid "Cancel"
+#: cancel.accesskey
+msgid "C&ancel"
+msgstr ""
+
+#: continue.label
+#: continue.accesskey
+msgid "&Continue"
+msgstr ""
+
+#: startOver.label
+#: startOver.accesskey
+msgid "Start &over"
 msgstr ""
 
 #: stop.label
@@ -176,11 +193,12 @@ msgstr ""
 msgid "Click circle for more details."
 msgstr ""
 
-#: insecureClearText.description
+#: insecureCleartext.description
 msgid ""
-"Email is sent in clear-text, so your email could be read by attackers, etc. "
-"&brandShortName; will let you get to your mail, but you should really get "
-"your email provider to configure the server with a secure connection."
+"Email is sent in clear-text, so your email could be read by other people on "
+"the internet. &brandShortName; will let you get to your mail, but you should "
+"really get your email provider to configure the server with a secure "
+"connection."
 msgstr ""
 
 #: insecureSelfSigned.description
