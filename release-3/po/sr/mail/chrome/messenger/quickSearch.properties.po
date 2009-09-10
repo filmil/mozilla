@@ -1,0 +1,46 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/quickSearch.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-10 01:50-0700\n"
+"PO-Revision-Date: 2009-09-10 01:51-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+"X-Accelerator-Marker: &\n"
+
+#: searchEverywhere.label
+msgid "Search everywhere"
+msgstr "Тражи свуда"
+
+#: searchSubject.label
+msgid "Subject filter"
+msgstr "Филтер за тему"
+
+#: searchFrom.label
+msgid "From filter"
+msgstr "Филтер за примаоца"
+
+#: searchFromOrSubject.label
+msgid "Subject or From filter"
+msgstr "Филтер за тему или примаоца"
+
+#: searchRecipient.label
+msgid "To or Cc filter"
+msgstr "Филтер за примаоца или копију"
+
+#: searchRecipientOrSubject.label
+msgid "Subject, To, or Cc filter"
+msgstr "Филтер за тему, примаоца или копију"
+
+#: searchBody.label
+msgid "Entire message filter"
+msgstr "Филтер за целу поруку"
+
+#: saveAsVirtualFolder.label
+msgid "Save search as virtual folder"
+msgstr "Сачувај претрагу као виртуелни директоријум"
