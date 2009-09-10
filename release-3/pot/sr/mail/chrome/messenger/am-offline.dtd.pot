@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 23:16-0700\n"
+"POT-Creation-Date: 2009-09-10 00:41-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: doNotDownloadPop3Movemail.label
@@ -80,24 +80,24 @@ msgstr ""
 msgid "Do&n't delete any messages"
 msgstr ""
 
-#: retentionKeepNew.label
-#: retentionKeepNew.accesskey
-msgid "Delete all &but the last"
+#: retentionKeepRecent.label
+#: retentionKeepRecent.accesskey
+msgid "Delete all &but the most recent"
 msgstr ""
 
-#: retentionKeepUnread.label
-#: retentionKeepUnread.accesskey
-msgid "Al&ways delete read messages"
+#. LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; }
+#: retentionKeepUnreadHidden.label
+msgid "Always delete read messages (overrides age settings)"
 msgstr ""
 
 #: retentionApplyToFlagged.label
 #: retentionApplyToFlagged.accesskey
-msgid "Always k&eep starred messages"
+msgid "Always &keep starred messages"
 msgstr ""
 
-#: nntpRemoveBody.label
-#: nntpRemoveBody.accesskey
-msgid "&Only message bodies less than"
+#: nntpRemoveMsgBody.label
+#: nntpRemoveMsgBody.accesskey
+msgid "Rem&ove bodies from messages more than"
 msgstr ""
 
 #: offlineSelectNntp.label
@@ -107,7 +107,7 @@ msgstr ""
 
 #: offlineImapAdvancedOffline.label
 #: offlineImapAdvancedOffline.accesskey
-msgid "&Advanced…"
+msgid "Ad&vanced…"
 msgstr ""
 
 #: syncGroupTitle.label
@@ -116,4 +116,43 @@ msgstr ""
 
 #: diskspaceGroupTitle.label
 msgid "Disk Space"
+msgstr ""
+
+#. LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+#. The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+#. useAutosyncAfter.label appear on a single line in preferences as follows:
+#. &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+#: useAutosyncBefore.label
+msgctxt "useAutosyncBefore.label"
+"useAutosyncBefore.label"
+msgid ""
+msgstr ""
+
+#: useAutosyncMiddle.label
+msgctxt "useAutosyncMiddle.label"
+msgid ""
+msgstr ""
+
+#: allInterval.label
+msgid "All"
+msgstr ""
+
+#: dayInterval.label
+msgid "Days of"
+msgstr ""
+
+#: weekInterval.label
+msgid "Weeks of"
+msgstr ""
+
+#: monthInterval.label
+msgid "Months of"
+msgstr ""
+
+#: yearInterval.label
+msgid "Years of"
+msgstr ""
+
+#: useAutosyncAfter.label
+msgid "email will be stored on disk"
 msgstr ""
