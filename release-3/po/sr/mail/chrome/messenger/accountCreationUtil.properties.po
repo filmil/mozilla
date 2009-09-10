@@ -1,0 +1,69 @@
+#. # This file has the strings, mostly error strings, for the logic / JS backend / model# files: sanitizeDatatypes.js, fetchhttp.js, util.js
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/accountCreationUtil.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-10 00:32-0700\n"
+"PO-Revision-Date: 2009-09-10 00:36-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+"X-Accelerator-Marker: &\n"
+
+#. # sanitizeDatatypes.js
+#: hostname_syntax.error
+msgid ""
+"Hostname is empty or contains forbidden characters. Only letters, numbers, - "
+"and . are allowed."
+msgstr "Име рачунара је празно или садржи недозвољене знаке.  Само слова, бројеви, - и . су дозвољени."
+
+#: alphanumdash.error
+msgid ""
+"String contains unsupported characters. Only letters, numbers, - and _ are "
+"allowed."
+msgstr "Ниска знакова садржи неподржане знаке.  Само слова, бројеви, - и . _ су дозвољени."
+
+#: allowed_value.error
+msgid "Supplied value not in allowed list"
+msgstr "Наведена вредност није у списку дозвољених"
+
+#: url_scheme.error
+msgid "URL scheme not allowed"
+msgstr "Схема УРЛ-а није дозвољена"
+
+#: url_parsing.error
+msgid "URL not recognized"
+msgstr "УРЛ није препознат"
+
+#: string_empty.error
+msgid "You must supply a value for this string"
+msgstr "Морате да наведете вредност за ову ниску"
+
+#: boolean.error
+msgid "Not a boolean"
+msgstr "Није булова вредност"
+
+#: no_number.error
+msgid "Not a number"
+msgstr "Није број"
+
+#: number_too_large.error
+msgid "Number too large"
+msgstr "Број је превелик"
+
+#: number_too_small.error
+msgid "Number too small"
+msgstr "Број је премали"
+
+#. # fetchhttp.js
+#: cannot_contact_server.error
+msgid "Cannot contact server"
+msgstr "Није могуће наћи сервер"
+
+#: bad_response_content.error
+msgid "Bad response content"
+msgstr "Садржај одговора је неисправан"
