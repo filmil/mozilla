@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 00:22-0700\n"
-"PO-Revision-Date: 2009-09-01 00:27-0700\n"
+"POT-Creation-Date: 2009-09-06 18:33-0700\n"
+"PO-Revision-Date: 2009-09-09 00:30-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,19 +29,19 @@ msgid ""
 "that it is really the server it claims to be. The connection to the mail "
 "server will be encrypted but cannot be validated as being the correct "
 "server."
-msgstr ""
+msgstr "Безбедни сервер за пошту обично нуди сертификат од поверења како би доказао да је заиста онај сервер који тврди да јесте.  Ова веза са сервером за пошту ће бити шифрована, али није утврђено да је сервер управо онај за који се издаје.\n"
 
 #: cleartext_details
 msgid ""
 "Insecure mail servers do not use encrypted connections to protect your "
 "passwords and private information. By connecting to this server you could "
 "expose your password and private information."
-msgstr ""
+msgstr "Необезбеђени сервери за пошту не користе шифроване везе за заштиту лозинки и личних података.  Повезивањем на ове сервере можда дајете лозинке и личне податке на увид трећим лицима."
 
 #. # LOCALIZATION NOTE(default_server_tag): Used to indicate the default smtp server in the server dropdown list.
 #: default_server_tag
 msgid "(default)"
-msgstr "(изворни)"
+msgstr "(изворно)"
 
 #. # config titles
 #: searching_for_configs
@@ -67,7 +67,7 @@ msgstr "провера претподешавања…"
 
 #: found_preconfig
 msgid "found pre-configuration"
-msgstr "претподешавање је нађено"
+msgstr "претподешавања су нађена"
 
 #: checking_config
 msgid "checking configuration…"
@@ -75,19 +75,19 @@ msgstr "провера подешавања…"
 
 #: found_config
 msgid "Found configuration of your account"
-msgstr "Пронађена су подешавања за Ваш налог"
+msgstr "Пронађена подешавања за Ваш налог"
 
 #: checking_mozilla_config
 msgid "checking Mozilla Community configurations…"
-msgstr "провера подешавања Мозилине заједнице…"
+msgstr "провера подешавања Мозилине заједнице (Mozilla Community)…"
 
 #: found_isp_config
 msgid "found a configuration"
-msgstr "подешавање је пронађено"
+msgstr "пронађено је подешавање"
 
 #: probing_config
 msgid "probing configuration…"
-msgstr "испитивање подешавања…"
+msgstr "провера подешавања…"
 
 #: guessing_from_email
 msgid "guessing configuration…"
@@ -95,93 +95,93 @@ msgstr "погађање подешавања…"
 
 #: config_details_found
 msgid "Your configuration details have been found!"
-msgstr "Пронађена су ваша детаљна подешавања!"
+msgstr "Нашли смо детаље о Вашим подешавањима!"
 
 #: config_unverifiable
 msgid ""
 "Configuration could not be verified — is the username or password wrong?"
-msgstr "Подешавања нису могла да буду проверена, да нису можда лозинка или корисничко име погрешно унесени?"
+msgstr "Подешавања нису могла да буду проверена - да нису можда корисничко име или лозинка погрешно унети?"
 
 #: incoming_found_specify_outgoing
 msgid ""
 "Your incoming server configuration details have been found, please specify "
 "the sending hostname."
-msgstr "Детаљи о Вашем долазном серверу су пронађени, молимо да задате име одлазног рачунара."
+msgstr "Нађени су детаљи о вашим подешавањима, молимо да унесете име рачунара који шаље."
 
 #: outgoing_found_specify_incoming
 msgid ""
 "Your outgoing server configuration details have been found, please specify "
 "the receiving hostname."
-msgstr ""
+msgstr "Пронађени су подаци о Вашем одлазном серверу, молимо да унесете податке о пријемном рачунару."
 
 #: please_enter_missing_hostnames
 msgid "Could not guess settings — please enter missing hostnames."
-msgstr ""
+msgstr "Нисмо могли да погодимо подешавања - молимо да ручно унесете имена рачунара која недостају."
 
 #: incoming_failed_trying_outgoing
 msgid ""
 "Could not automatically configure incoming server, still trying for outgoing "
 "server."
-msgstr ""
+msgstr "Није могуће аутоматски подесити долазни сервер, још увек покушавамо да подесимо одлазни сервер."
 
 #: outgoing_failed_trying_incoming
 msgid ""
 "Could not automatically configure outgoing server, still trying for incoming "
 "server."
-msgstr ""
+msgstr "Нисмо могли аутоматски да подесимо одлазни сервер, још увек покушавамо да подесимо долазни сервер."
 
 #: checking_password
 msgid "Checking password…"
-msgstr ""
+msgstr "Провера лозинке…"
 
 #: password_ok
 msgid "Password ok!"
-msgstr ""
+msgstr "Лозинка је исправна!"
 
 #: user_pass_invalid
 msgid "Username or password invalid"
-msgstr ""
+msgstr "Корисничко име или лозинка су неисправни"
 
 #: check_server_details
 msgid "Checking server details"
-msgstr ""
+msgstr "Провера детаља о серверу"
 
 #: check_in_server_details
 msgid "Checking incoming server details"
-msgstr ""
+msgstr "Провера детаља о долазном рачунару"
 
 #: check_out_server_details
 msgid "Checking outgoing server details"
-msgstr ""
+msgstr "Провера детаља о одлазном рачунару"
 
 #: error_creating_account
 msgid "Error Creating Account"
-msgstr ""
+msgstr "Грешка при прављењу налога"
 
 #: incoming_server_exists
 msgid "Incoming server already exists."
-msgstr ""
+msgstr "Долазни рачунар већ постоји."
 
 #: no_encryption
 msgid "No encryption"
-msgstr ""
+msgstr "Није шифровано"
 
 #: ssl_tls
 msgid "SSL/TLS"
-msgstr ""
+msgstr "SSL/TLS"
 
 #: starttls
 msgid "STARTTLS"
-msgstr ""
+msgstr "STARTTLS"
 
 #: name.error
 msgid "Please enter your name, as it should be shown to your correspondents."
-msgstr ""
+msgstr "Молимо да унесете име које ће бити приказано дописницима."
 
 #: email.error
 msgid "Double check this email address!"
-msgstr ""
+msgstr "Проверите добро ову ел. адресу!"
 
 #: password.error
 msgid "Login did not succeed. Please double-check username and password."
-msgstr ""
+msgstr "Пријава није успела.  Молимо да проверите корисничко име и лозинку."
