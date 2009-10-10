@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 00:02-0700\n"
-"PO-Revision-Date: 2009-09-01 00:04-0700\n"
+"POT-Creation-Date: 2009-10-10 14:00-0700\n"
+"PO-Revision-Date: 2009-10-10 14:00-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +16,6 @@ msgstr ""
 #: aboutDialog.title
 msgid "About &brandFullName;"
 msgstr "О програму &brandFullName;"
-
-#: credits.label
-#: credits.accesskey
-msgid "&Credits"
-msgstr "&Заслуге"
 
 #: aboutButton.label
 #: aboutButton.accesskey
@@ -37,12 +32,22 @@ msgid ""
 "the \n"
 "Thunderbird logos are trademarks of the Mozilla Foundation.  All rights \n"
 "reserved."
-msgstr "&#169;1998-2009 Приложници. Сва права су задржана. Мозилин тандерберд (Mozilla Thunderbird) и тандербердови заштитни знаци су робне марке Мозилине задужбине (Mozilla Foundation).  Сва права су задржана."
+msgstr ""
+"&#169;1998-2009 Приложници. Сва права су задржана. Мозилин тандерберд "
+"(Mozilla Thunderbird) и тандербердови заштитни знаци су робне марке Мозилине "
+"задужбине (Mozilla Foundation).  Сва права су задржана."
 
 #: aboutMenu.label
 #: aboutMenu.accesskey
 msgid "&About"
 msgstr "&О програму"
+
+#: aboutCredits.label
+#: aboutCredits.accesskey
+#: credits.label
+#: credits.accesskey
+msgid "&Credits"
+msgstr "&Заслуге"
 
 #: aboutRights.label
 #: aboutRights.accesskey
@@ -53,6 +58,11 @@ msgstr "Ваша &права"
 #: aboutContributors.accesskey
 msgid "C&ontributors"
 msgstr "П&риложници"
+
+#: aboutLicense.label
+#: aboutLicense.accesskey
+msgid "&License"
+msgstr "&Лиценца"
 
 #: cmdCloseMac.commandKey
 msgid "w"

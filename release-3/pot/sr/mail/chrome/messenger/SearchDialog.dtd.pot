@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 00:20-0700\n"
+"POT-Creation-Date: 2009-10-10 13:55-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,9 +67,9 @@ msgstr ""
 msgid "W"
 msgstr ""
 
-#: goToFolderButton.label
-#: goToFolderButton.accesskey
-msgid "Open Message Folde&r"
+#: openInFolder.label
+#: openInFolder.accesskey
+msgid "Open in Folde&r"
 msgstr ""
 
 #: saveAsVFButton.label

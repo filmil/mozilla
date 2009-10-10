@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 00:02-0700\n"
+"POT-Creation-Date: 2009-10-10 14:00-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,6 @@ msgstr ""
 
 #: aboutDialog.title
 msgid "About &brandFullName;"
-msgstr ""
-
-#: credits.label
-#: credits.accesskey
-msgid "&Credits"
 msgstr ""
 
 #: aboutButton.label
@@ -45,6 +40,11 @@ msgstr ""
 msgid "&About"
 msgstr ""
 
+#: aboutCredits.label
+#: aboutCredits.accesskey
+msgid "&Credits"
+msgstr ""
+
 #: aboutRights.label
 #: aboutRights.accesskey
 msgid "Your &Rights"
@@ -53,6 +53,11 @@ msgstr ""
 #: aboutContributors.label
 #: aboutContributors.accesskey
 msgid "C&ontributors"
+msgstr ""
+
+#: aboutLicense.label
+#: aboutLicense.accesskey
+msgid "&License"
 msgstr ""
 
 #: cmdCloseMac.commandKey

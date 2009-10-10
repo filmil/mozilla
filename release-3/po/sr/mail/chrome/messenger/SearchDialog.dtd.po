@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 00:20-0700\n"
-"PO-Revision-Date: 2009-09-10 00:21-0700\n"
+"POT-Creation-Date: 2009-10-10 13:55-0700\n"
+"PO-Revision-Date: 2009-10-10 13:56-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -67,10 +67,10 @@ msgstr "&Датотека"
 msgid "W"
 msgstr "З"
 
-#: goToFolderButton.label
-#: goToFolderButton.accesskey
-msgid "Open Message Folde&r"
-msgstr "Отвори дире&кторијум са порукама"
+#: openInFolder.label
+#: openInFolder.accesskey
+msgid "Open in Folde&r"
+msgstr "Отвори у &директоријуму"
 
 #: saveAsVFButton.label
 #: saveAsVFButton.accesskey
