@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 00:58-0700\n"
-"PO-Revision-Date: 2009-09-10 00:58-0700\n"
+"POT-Creation-Date: 2009-10-10 14:53-0700\n"
+"PO-Revision-Date: 2009-10-10 14:54-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +17,23 @@ msgstr ""
 #. faceting sidebar.  Serves as a header both for the checkboxes under it as
 #. well for labeled facets with multiple options.
 #: glodaFacetView.filters.label
-msgid "Filter by:"
-msgstr "Филтер по:"
+msgid "Filters"
+msgstr "Филтери"
+
+#. Label that appears when
+#. the search results take a long time to appear.
+#: glodaFacetView.loading.label
+msgid "Searching&#8230;"
+msgstr "Претрага&#8230;"
+
+#. Label that appears when
+#. there are no results that match the search query.
+#: glodaFacetView.empty.label
+msgid "No messages match your search"
+msgstr "Ниједна порука не одговара претрази"
 
 #. Label at the bottom
 #. of the results list to show more hits.
-#: glodaFacetView.showMore.label
-msgid "Show more hits"
-msgstr "Још погодака"
+#: glodaFacetView.pageMore.label
+msgid "More &#187;"
+msgstr "Још &#187;"

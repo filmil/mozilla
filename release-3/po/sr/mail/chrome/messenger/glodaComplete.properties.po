@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 00:55-0700\n"
-"PO-Revision-Date: 2009-09-10 00:56-0700\n"
+"POT-Creation-Date: 2009-10-10 14:52-0700\n"
+"PO-Revision-Date: 2009-10-10 14:53-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,19 +25,15 @@ msgstr "Означеник порука: #1"
 #. #  in the autocomplete widget to refer to a search for all messages mentioning
 #. #  a particular word (replacing #1).
 #: glodaComplete.messagesMentioning.label
+msgctxt "glodaComplete.messagesMentioning.label"
 msgid "Messages mentioning: #1"
 msgstr "Порука које помињу: #1"
 
-#. # LOCALIZATION NOTE (glodaComplete.messagesWithAny.label): The label used
+#. # LOCALIZATION NOTE (glodaComplete.messagesWithMany.label): The label used
 #. #  in the autocomplete widget to refer to a search for all messages mentioning
-#. #  any one of a set of words
-#: glodaComplete.messagesWithAny.label
-msgid "messages with ANY of:"
-msgstr "које садрже ма шта од:"
-
-#. # LOCALIZATION NOTE (glodaComplete.messagesWithAll.label): The label used
-#. #  in the autocomplete widget to refer to a search for all messages mentioning
-#. #  all of a set of words
-#: glodaComplete.messagesWithAll.label
-msgid "messages with ALL of:"
-msgstr "које садрже све од:"
+#. #  a set of words, or a phrase containing multiple words (e.g. "red pepper")
+#. #  We use the same words in en-US, but maybe that's not always true.
+#: glodaComplete.messagesMentioningMany.label
+msgctxt "glodaComplete.messagesMentioningMany.label"
+msgid "Messages mentioning: #1"
+msgstr "Поруке које помињу: #1"
