@@ -1,10 +1,10 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/quickSearch.properties
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger-smime/msgCompSMIMEOverlay.dtd
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 01:50-0700\n"
+"POT-Creation-Date: 2009-10-10 20:46-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,34 +14,31 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
-#: searchEverywhere.label
-msgid "Search everywhere"
+#. LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition
+#: menu_securityEncryptRequire.label
+#: menu_securityEncryptRequire.accesskey
+msgid "&Encrypt This Message"
 msgstr ""
 
-#: searchSubject.label
-msgid "Subject filter"
+#: menu_securitySign.label
+#: menu_securitySign.accesskey
+msgid "Digitally Sign This &Message"
 msgstr ""
 
-#: searchFrom.label
-msgid "From filter"
+#: menu_securityStatus.label
+#: menu_securityStatus.accesskey
+msgid "View Security &Info"
 msgstr ""
 
-#: searchFromOrSubject.label
-msgid "Subject or From filter"
+#: securityButton.label
+msgid "Security"
 msgstr ""
 
-#: searchRecipient.label
-msgid "To or Cc filter"
+#: securityButton.tooltip
+msgid "View or change security settings"
 msgstr ""
 
-#: searchRecipientOrSubject.label
-msgid "Subject, To, or Cc filter"
-msgstr ""
-
-#: searchBody.label
-msgid "Entire message filter"
-msgstr ""
-
-#: saveAsVirtualFolder.label
-msgid "Save search as virtual folder"
+#: menu_viewSecurityStatus.label
+#: menu_viewSecurityStatus.accesskey
+msgid "Message Security &Info"
 msgstr ""

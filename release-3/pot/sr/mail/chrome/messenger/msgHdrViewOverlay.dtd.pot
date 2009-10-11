@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 23:35-0700\n"
+"POT-Creation-Date: 2009-10-10 19:12-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. ***** BEGIN LICENSE BLOCK *****
@@ -115,32 +115,109 @@ msgstr ""
 msgid "Edit…"
 msgstr ""
 
-#: archiveButton.label
+#: hdrArchiveButton.label
 msgid "archive"
+msgstr ""
+
+#: hdrArchiveButton.tooltip
+msgid "archive this message"
 msgstr ""
 
 #: hdrReplyButton.label
 msgid "reply"
 msgstr ""
 
+#: hdrReplyButton.tooltip
+msgid "reply to this message"
+msgstr ""
+
 #: hdrReplyAllButton.label
 msgid "reply all"
+msgstr ""
+
+#: hdrReplyAllButton.tooltip
+msgid "reply to sender and all recipients"
+msgstr ""
+
+#: hdrReplyListButton.label
+msgid "reply list"
+msgstr ""
+
+#: hdrReplyListButton.tooltip
+msgid "reply to mailing list"
 msgstr ""
 
 #: hdrForwardButton.label
 msgid "forward"
 msgstr ""
 
+#: hdrForwardButton.tooltip
+msgid "forward this message"
+msgstr ""
+
 #: hdrJunkButton.label
 msgid "junk"
 msgstr ""
 
-#: trashButton.tooltiptext
+#: hdrJunkButton.tooltip
+msgid "mark this message as junk"
+msgstr ""
+
+#: hdrTrashButton.label
 msgid "delete"
+msgstr ""
+
+#: hdrTrashButton.tooltip
+msgid "delete this message"
+msgstr ""
+
+#: hdrViewToolbarShowFull.label
+#: hdrViewToolbarShowFull.accesskey
+msgid "Show Icons &and Text"
+msgstr ""
+
+#: hdrViewToolbarShowIcons.label
+#: hdrViewToolbarShowIcons.accesskey
+msgid "Show &Icons Only"
+msgstr ""
+
+#: hdrViewToolbarShowText.label
+#: hdrViewToolbarShowText.accesskey
+msgid "Show &Text Only"
+msgstr ""
+
+#: hdrViewToolbarAlwaysReplySender.label
+#: hdrViewToolbarAlwaysReplySender.accesskey
+msgid "Always Show &Reply to Sender"
 msgstr ""
 
 #: otherActionsButton.label
 msgid "other actions"
+msgstr ""
+
+#: otherActionsShowConversation.label
+#: otherActionsShowConversation.accesskey
+msgid "show in &conversation"
+msgstr ""
+
+#: otherActionsOpenInNewWindow.label
+#: otherActionsOpenInNewWindow.accesskey
+msgid "open in ne&w window"
+msgstr ""
+
+#: otherActionsOpenInNewTab.label
+#: otherActionsOpenInNewTab.accesskey
+msgid "open in new &tab"
+msgstr ""
+
+#: markAsReadMenuItem.label
+#: markAsReadMenuItem.accesskey
+msgid "ma&rk as read"
+msgstr ""
+
+#: markAsUnreadMenuItem.label
+#: markAsUnreadMenuItem.accesskey
+msgid "ma&rk as unread"
 msgstr ""
 
 #: saveAsMenuItem.label
@@ -150,15 +227,12 @@ msgstr ""
 
 #: viewSourceMenuItem.label
 #: viewSourceMenuItem.accesskey
-msgid "&view source…"
+msgid "&view source"
 msgstr ""
 
-#: hideDetailsButton.label
-msgid "hide details"
-msgstr ""
-
-#: showDetailsButton.label
-msgid "show details"
+#: otherActionsPrint.label
+#: otherActionsPrint.accesskey
+msgid "&print…"
 msgstr ""
 
 #: openAttachmentCmd.label

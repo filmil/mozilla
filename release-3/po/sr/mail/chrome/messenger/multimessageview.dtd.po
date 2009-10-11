@@ -1,11 +1,10 @@
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/multimessageview.dtd
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 01:20-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-10-10 19:15-0700\n"
+"PO-Revision-Date: 2009-10-10 19:15-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,12 +15,16 @@ msgstr ""
 
 #: window.title
 msgid "Message Summary"
-msgstr ""
+msgstr "Сажетак поруке"
 
 #: selectedmessages.label
 msgid "Selected Messages"
-msgstr ""
+msgstr "Изабране поруке"
 
 #: archive.label
 msgid "archive"
-msgstr ""
+msgstr "архивирај"
+
+#: delete.label
+msgid "delete"
+msgstr "уклони"
