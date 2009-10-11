@@ -1,53 +1,17 @@
-#. # ***** BEGIN LICENSE BLOCK *****
-#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#. #
-#. # The contents of this file are subject to the Mozilla Public License Version
-#. # 1.1 (the "License"); you may not use this file except in compliance with
-#. # the License. You may obtain a copy of the License at
-#. # http://www.mozilla.org/MPL/
-#. #
-#. # Software distributed under the License is distributed on an "AS IS" basis,
-#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-#. # for the specific language governing rights and limitations under the
-#. # License.
-#. #
-#. # The Original Code is mozilla.org code.
-#. #
-#. # The Initial Developer of the Original Code is
-#. # Netscape Communications Corporation.
-#. # Portions created by the Initial Developer are Copyright (C) 1998
-#. # the Initial Developer. All Rights Reserved.
-#. #
-#. # Contributor(s):
-#. #   Seth Spitzer <sspitzer@netscape.com>
-#. #   Lorenzo Colitti <lorenzo@colitti.com>
-#. #
-#. # Alternatively, the contents of this file may be used under the terms of
-#. # either of the GNU General Public License Version 2 or later (the "GPL"),
-#. # or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-#. # in which case the provisions of the GPL or the LGPL are applicable instead
-#. # of those above. If you wish to allow use of your version of this file only
-#. # under the terms of either the GPL or the LGPL, and not to allow others to
-#. # use your version of this file under the terms of the MPL, indicate your
-#. # decision by deleting the provisions above and replace them with the notice
-#. # and other provisions required by the GPL or the LGPL. If you do not delete
-#. # the provisions above, a recipient may use your version of this file under
-#. # the terms of any one of the MPL, the GPL or the LGPL.
-#. #
-#. # ***** END LICENSE BLOCK *****
+#. # ***** BEGIN LICENSE BLOCK *****# Version: MPL 1.1/GPL 2.0/LGPL 2.1## The contents of this file are subject to the Mozilla Public License Version# 1.1 (the "License"); you may not use this file except in compliance with# the License. You may obtain a copy of the License at# http://www.mozilla.org/MPL/## Software distributed under the License is distributed on an "AS IS" basis,# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License# for the specific language governing rights and limitations under the# License.## The Original Code is mozilla.org code.## The Initial Developer of the Original Code is# Netscape Communications Corporation.# Portions created by the Initial Developer are Copyright (C) 1998# the Initial Developer. All Rights Reserved.## Contributor(s):#   Seth Spitzer <sspitzer@netscape.com>#   Lorenzo Colitti <lorenzo@colitti.com>## Alternatively, the contents of this file may be used under the terms of# either of the GNU General Public License Version 2 or later (the "GPL"),# or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),# in which case the provisions of the GPL or the LGPL are applicable instead# of those above. If you wish to allow use of your version of this file only# under the terms of either the GPL or the LGPL, and not to allow others to# use your version of this file under the terms of the MPL, indicate your# decision by deleting the provisions above and replace them with the notice# and other provisions required by the GPL or the LGPL. If you do not delete# the provisions above, a recipient may use your version of this file under# the terms of any one of the MPL, the GPL or the LGPL.## ***** END LICENSE BLOCK *****
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messenger.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 23:31-0700\n"
-"PO-Revision-Date: 2009-02-16 23:34-0800\n"
+"POT-Creation-Date: 2009-10-10 15:04-0700\n"
+"PO-Revision-Date: 2009-10-10 19:08-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. # The following are used by the messenger application
@@ -71,6 +35,14 @@ msgstr "Нови директоријум…"
 #: newSubfolder
 msgid "New Subfolder…"
 msgstr "Нови поддиректоријум…"
+
+#: markFolderRead
+msgid "Mark Folder Read;Mark Folders Read"
+msgstr ""
+
+#: markNewsgroupRead
+msgid "Mark Newsgroup Read;Mark Newsgroups Read"
+msgstr ""
 
 #: folderProperties
 msgid "Folder Properties"
@@ -144,13 +116,13 @@ msgstr "Штампање поруке…"
 msgid "Print Previewing message…"
 msgstr "Преглед поруке за штампање…"
 
-#: PrintingCard
-msgid "Printing card…"
-msgstr "Штампање визиткарте…"
+#: PrintingContact
+msgid "Printing contact…"
+msgstr ""
 
-#: PrintPreviewCard
-msgid "Print Previewing card…"
-msgstr "Преглед визиткарте за штампање…"
+#: PrintPreviewContact
+msgid "Print Previewing contact…"
+msgstr ""
 
 #: PrintingAddrBook
 msgid "Printing AddressBook…"
@@ -280,7 +252,7 @@ msgstr ""
 #: parsingFolderFailed
 msgid ""
 "Unable to open the folder %S because it is in use by some other operation. "
-"Please wait for that operation to finish and then select the folder again."
+"Please wait for that operation to finish and then select the folder again. "
 msgstr ""
 "Није могуће отворити директоријум %S јер га користи неко друго дејство.  "
 "Молимо да сачекате да се ово дејство заврши и онда поново изаберите "
@@ -407,6 +379,8 @@ msgid "Unread"
 msgstr "Нрпрочитане"
 
 #: messageHasFlag
+#: groupFlagged
+#: flagged
 msgctxt "messageHasFlag"
 msgid "Starred"
 msgstr "Са звездом"
@@ -415,10 +389,14 @@ msgstr "Са звездом"
 msgid "Has Attachment"
 msgstr "Са прилогом"
 
+# for junk status picker in search and mail views
+#. # for junk status picker in search and mail views
 #: messageJunk
+#: junkFolderName
+#: junk
 msgctxt "messageJunk"
 msgid "Junk"
-msgstr "Непожељне"
+msgstr "Отпад"
 
 #: messageExpanded
 msgid "Expanded"
@@ -515,6 +493,8 @@ msgstr "Линија"
 # status feedback stuff
 #. # status feedback stuff
 #: documentDone
+msgctxt "documentDone"
+"documentDone"
 msgid ""
 "_: documentDone\n"
 ""
@@ -579,7 +559,7 @@ msgstr "Одлазно"
 #: junkFolderName
 msgctxt "junkFolderName"
 msgid "Junk"
-msgstr "Нежељено"
+msgstr "Непожељно"
 
 #: archivesFolderName
 msgid "Archives"
@@ -802,8 +782,12 @@ msgstr "Има прилоге"
 msgid "Tags"
 msgstr "Ознаке"
 
+# mailnews.js
+# moved from navigator/locale/navigator.properties
+# valid collation options are: <empty string> or useCodePointOrder
 #. # mailnews.js
 #: mailnews.send_default_charset
+#: mailnews.view_default_charset
 msgctxt "mailnews.send_default_charset"
 msgid "ISO-8859-1"
 msgstr "UTF-8"
@@ -818,9 +802,14 @@ msgctxt "mailnews.view_default_charset"
 msgid "ISO-8859-1"
 msgstr "UTF-8"
 
+# generate display names in last first order
+# valid mail.addr_book.displayName.lastnamefirst are: true or false
+# valid mail.addr_book.show_phonetic_fields are: true or false
 #. # generate display names in last first order
 #. # valid mail.addr_book.displayName.lastnamefirst are: true or false
+#. # valid mail.addr_book.show_phonetic_fields are: true or false
 #: mail.addr_book.displayName.lastnamefirst
+#: mail.addr_book.show_phonetic_fields
 msgctxt "mail.addr_book.displayName.lastnamefirst"
 msgid "false"
 msgstr "false"
@@ -969,6 +958,10 @@ msgstr "Потврдите одјаву"
 msgid "Are you sure you want to unsubscribe from %S?"
 msgstr "Да ли сигурно желите да се одјавите са %S?"
 
+#: confirmUnsubscribeManyText
+msgid "Are you sure you want to unsubscribe from these newsgroups?"
+msgstr "Да ли сигурно желите да престанете да пратите ове групе?"
+
 # msgHdrViewOverlay.js
 #. # msgHdrViewOverlay.js
 #: openLabel
@@ -992,6 +985,7 @@ msgid "Detach…"
 msgstr "Откачи…"
 
 #: detachLabelAccesskey
+msgctxt "detachLabelAccesskey"
 msgid "D"
 msgstr "т"
 
@@ -1028,6 +1022,16 @@ msgstr ""
 msgid "Failed to delete the selected attachments."
 msgstr "Избор жељених прилога није успео."
 
+#: emptyAttachment
+msgid ""
+"This attachment appears to be empty.\n"
+"Please check with the person who sent this.\n"
+"Often company firewalls or antivirus programs will destroy attachments."
+msgstr ""
+"Прилог је изгледа празан.\n"
+"Молимо да то проверите са пошиљаовем.\n"
+"Понекад се дешава да ватробрани (firewall) или антивирусни програми уклоне прилоге."
+
 # This is the format for prepending accesskeys to the
 # each of the attachments in the file|attachments menu:
 #   ie: 1 file.txt
@@ -1043,7 +1047,7 @@ msgstr "%S %S"
 # Connection Error Messages
 #. # Connection Error Messages
 #: 101
-msgid "Unknown Error"
+msgid "Unknown Error "
 msgstr "Непозната грешка"
 
 #: 102
@@ -1104,7 +1108,7 @@ msgstr "Нових порука од: %2$S - %1$S и још %3$S."
 
 #. # Used to separate names/email addresses in a list.  Note the trailing space ', '
 #: macBiffNotification_separator
-msgid ","
+msgid ", "
 msgstr ", "
 
 # For the Quota tab in the mail folder properties dialog
@@ -1126,8 +1130,13 @@ msgstr "%S%%"
 msgid "IMAP quota: %S KB used of %S KB total. Click for details."
 msgstr "Квота за IMAP: %S KB се користи, од укупно %S KB. Притисните за детаље."
 
+# for message views
+# for checking if the user really wants to open lots of messages
 #. # for message views
+#. # for checking if the user really wants to open lots of messages
 #: confirmViewDeleteTitle
+#: openWindowWarningTitle
+#: emptyTrashTitle
 msgctxt "confirmViewDeleteTitle"
 msgid "Confirm"
 msgstr "Потврди"
@@ -1244,15 +1253,19 @@ msgstr "Ова порука делује сумњиво"
 #: confirmPhishingUrl
 msgid ""
 "%1$S thinks this message is a scam. The links in the message may be trying "
-"to impersonate web pages you want to visit. Are you sure you want to visit "
-"%2$S?"
+"to impersonate web pages you want to visit. Are you sure you want to visit %"
+"2$S?"
 msgstr ""
 "Програм %1$S мисли да је ова порука превара.  Везе дате у поруци можда "
 "покушавају да имитирају веб странице које желите да посетите.  Да ли сигурно "
 "желите да посетите страну %2$S?"
 
+# Check for Updates
 #. # Check for Updates
+#. # LOCALIZATION NOTE (updatesItem_*): these are alternative labels for Check for Update item in Help menu.
+#. # Which one is used depends on Update process state.
 #: updatesItem_default
+#: updatesItem_defaultFallback
 msgctxt "updatesItem_default"
 msgid "Check for Updates…"
 msgstr "Провера доградњи…"
@@ -1265,6 +1278,10 @@ msgctxt "updatesItem_defaultFallback"
 msgid "Check for Updates…"
 msgstr "Провера доградњи…"
 
+#: updatesItem_default.accesskey
+msgid "C"
+msgstr "д"
+
 #: updatesItem_downloading
 msgid "Downloading %S…"
 msgstr "Пријем %S…"
@@ -1272,6 +1289,11 @@ msgstr "Пријем %S…"
 #: updatesItem_downloadingFallback
 msgid "Downloading Update…"
 msgstr "Пријем доградњи…"
+
+#: updatesItem_downloading.accesskey
+msgctxt "updatesItem_downloading.accesskey"
+msgid "D"
+msgstr "р"
 
 #: updatesItem_resume
 msgid "Resume Downloading %S…"
@@ -1281,16 +1303,27 @@ msgstr "Наставак пријема: %S…"
 msgid "Resume Downloading Update…"
 msgstr "Наставак пријема доградње…"
 
+#: updatesItem_resume.accesskey
+msgctxt "updatesItem_resume.accesskey"
+msgid "D"
+msgstr "Н"
+
 #: updatesItem_pending
+#: updatesItem_pendingFallback
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
-msgstr "Примени одмах примљене доградње…"
+msgstr "Примени одмах примљену доградњу…"
 
 #: updatesItem_pendingFallback
 #: updatesItem_pending
 msgctxt "updatesItem_pendingFallback"
 msgid "Apply Downloaded Update Now…"
 msgstr "Примени одмах примљену доградњу…"
+
+#: updatesItem_pending.accesskey
+msgctxt "updatesItem_pending.accesskey"
+msgid "D"
+msgstr "м"
 
 # Folder Pane Header Title Strings
 #. # Folder Pane Header Title Strings
@@ -1312,6 +1345,16 @@ msgstr "Омиљени директоријуми"
 msgid "Recent Folders"
 msgstr "Скорашњи директоријуми"
 
+#: folderPaneHeader_smart
+msgctxt "folderPaneHeader_smart"
+msgid "Smart Folders"
+msgstr "Паметни директоријуми"
+
+#: smartAccountName
+msgctxt "smartAccountName"
+msgid "Smart Folders"
+msgstr "Паметни директоријуми"
+
 # Copy / Move to Folder Again
 #LOCALIZATION NOTE %1$S is the name of the folder we will move to. moveToFolderAgainAccessKey
 # should have the same value as copyToFolderAgainAccessKey as they are the same menu item in the UI
@@ -1326,9 +1369,10 @@ msgid "Move to \"%1$S\" Again"
 msgstr "Поново помери у „%1$S‟"
 
 #: moveToFolderAgainAccessKey
+#: copyToFolderAgainAccessKey
 msgctxt "moveToFolderAgainAccessKey"
 msgid "t"
-msgstr "н"
+msgstr "П"
 
 #LOCALIZATION NOTE %1$S is the name of the folder we will copy to
 # copyToFolderAgainAccessKey
@@ -1349,10 +1393,10 @@ msgctxt "copyToFolderAgainAccessKey"
 msgid "t"
 msgstr "П"
 
-#. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
-#: alwaysLoadRemoteContentForSender1
-msgid "Always load remote images from %1$S"
-msgstr "Увек учитавај удаљене слике ако шаље %1$S"
+#. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote content for
+#: alwaysLoadRemoteContentForSender2
+msgid "Always load remote content from %1$S "
+msgstr "Увек учитај удаљени садржај са %1$S "
 
 #. # Strings for growl notifications on Mac OS X
 #: growlNotification
@@ -1411,36 +1455,109 @@ msgstr "Анализа непожељне поште: обављено %S"
 msgid "Processing Junk Messages"
 msgstr "Обрада непожељне поште"
 
+#. # Messenger bootstrapping messages
+#: fileNotFoundTitle
+msgid "File Not Found"
+msgstr "Датотека није нађена"
+
+#. #LOCALIZATION NOTE(fileNotFoundMsg): %S is the filename
+#: fileNotFoundMsg
+msgid "The file %S does not exist."
+msgstr "Датотека %S не постоји."
+
+#: fileEmptyTitle
+msgid "File Empty"
+msgstr "Датотека је празна"
+
+#. #LOCALIZATION NOTE(fileEmptyMsg): %S is the filename
+#: fileEmptyMsg
+msgid "The file %S is empty."
+msgstr "Датотека %S је празна."
+
+#. # LOCALIZATION NOTE (headertoFieldYou): second person prepositional object
+#. # pronoun used in the "to" header of the message header pane.  This is also
+#. # used for the fallback case if a header-specific localization is not
+#. # available.
 #. # second person direct object pronoun; used in the collapsed header view if
 #. # the user is in the To or Cc field of a message
+#: headertoFieldYou
 #: headerFieldYou
+msgctxt "headertoFieldYou"
 msgid "You"
-msgstr "ви"
+msgstr "Ви"
 
-#. # The what's new tab title, shown on version update
-#: whatsNew
-msgid "What's New"
-msgstr "Шта има ново"
+#. # LOCALIZATION NOTE (headerfromFieldYou): second person prepositional object
+#. # pronoun used in the "from" header of the message header pane.
+#: headerfromFieldYou
+msgctxt "headerfromFieldYou"
+msgid "You"
+msgstr "Ви"
 
-#. #LOCALIZATION NOTE (glodaSearch_results_why_*):  These strings populate the
-#. # glodaWhyColumn when performing a gloda-backed search, explaining why a
-#. # specific result is present in the search.  Because of how the message grouping
-#. # mechanism works, this value is both the value in the "Why" column as well as
-#. # the header for the group (when sorting/grouping on the why column.)  Short
-#. # strings are preferable so the why column can be understood without taking up
-#. # too much space.
-#: glodaSearch_results_why_contact
-msgid "Contact"
-msgstr "Контакт"
+#. # LOCALIZATION NOTE (headerreply-toFieldYou): second person prepositional
+#. # object pronoun used in the "reply-to" header of the message header pane.
+#: headerreply-toFieldYou
+msgctxt "headerreply-toFieldYou"
+msgid "You"
+msgstr "За Вас"
 
-#: glodaSearch_results_why_subject
-msgid "Subject"
-msgstr "Тема"
+#. # LOCALIZATION NOTE (headerccFieldYou): second person prepositional object
+#. # pronoun used in the "cc" header of the message header pane.
+#: headerccFieldYou
+msgctxt "headerccFieldYou"
+msgid "You"
+msgstr "За Вас"
 
-#: glodaSearch_results_why_body
-msgid "Body"
-msgstr "Порука"
+#. # LOCALIZATION NOTE (headerbccFieldYou): second person prepositional object
+#. # pronoun used in the "bcc" header of the message header pane.
+#: headerbccFieldYou
+msgctxt "headerbccFieldYou"
+msgid "You"
+msgstr "За вас"
 
-#: glodaSearch_results_why_attachment
-msgid "Attachment"
-msgstr "Прилог"
+#. # Shown when content tabs are being loaded.
+#: loadingTab
+msgid "Loading…"
+msgstr "Учитавање…"
+
+#: applyToCollapsedMsgsTitle
+msgid "Confirm Delete of Messages in Collapsed Thread(s)"
+msgstr "Потврдите уклањање порука у сажетим нитима"
+
+#: applyToCollapsedMsgs
+msgid "Warning - this will delete messages in collapsed thread(s)"
+msgstr "Упозорење: поруке у сажетим нитима ће бити уклоњене"
+
+#: applyToCollapsedAlwaysAskCheckbox
+msgid "Always ask me before deleting messages in collapsed threads"
+msgstr "Увек ме питај пре уклањања порука у сажетим нитима"
+
+#: applyNowButton
+msgid "Apply"
+msgstr "Примени"
+
+#: mailServerLoginFailedTitle
+msgid "Login Failed"
+msgstr "Пријава није успела"
+
+#. # LOCALIZATION NOTE (mailServerLoginFailedTitle): Insert "%S" in your
+#. # translation where you wish to display the hostname of the server to which
+#. # login failed.
+#: mailServerLoginFailed
+msgid "Login to server %S failed."
+msgstr "Пријава на сервер %S није успела."
+
+#: mailServerLoginFailedRetryButton
+msgid "&Retry"
+msgstr "&Понови"
+
+#: mailServerLoginFailedEnterNewPasswordButton
+msgid "&Enter New Password"
+msgstr "&Унос нове лозинке"
+
+#: extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.name
+msgid "Default"
+msgstr "Изворно"
+
+#: extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.description
+msgid "The default theme."
+msgstr "Изворна тема."

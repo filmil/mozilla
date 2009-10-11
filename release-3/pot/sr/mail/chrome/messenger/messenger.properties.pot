@@ -1,54 +1,18 @@
-#. # ***** BEGIN LICENSE BLOCK *****
-#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#. #
-#. # The contents of this file are subject to the Mozilla Public License Version
-#. # 1.1 (the "License"); you may not use this file except in compliance with
-#. # the License. You may obtain a copy of the License at
-#. # http://www.mozilla.org/MPL/
-#. #
-#. # Software distributed under the License is distributed on an "AS IS" basis,
-#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-#. # for the specific language governing rights and limitations under the
-#. # License.
-#. #
-#. # The Original Code is mozilla.org code.
-#. #
-#. # The Initial Developer of the Original Code is
-#. # Netscape Communications Corporation.
-#. # Portions created by the Initial Developer are Copyright (C) 1998
-#. # the Initial Developer. All Rights Reserved.
-#. #
-#. # Contributor(s):
-#. #   Seth Spitzer <sspitzer@netscape.com>
-#. #   Lorenzo Colitti <lorenzo@colitti.com>
-#. #
-#. # Alternatively, the contents of this file may be used under the terms of
-#. # either of the GNU General Public License Version 2 or later (the "GPL"),
-#. # or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-#. # in which case the provisions of the GPL or the LGPL are applicable instead
-#. # of those above. If you wish to allow use of your version of this file only
-#. # under the terms of either the GPL or the LGPL, and not to allow others to
-#. # use your version of this file under the terms of the MPL, indicate your
-#. # decision by deleting the provisions above and replace them with the notice
-#. # and other provisions required by the GPL or the LGPL. If you do not delete
-#. # the provisions above, a recipient may use your version of this file under
-#. # the terms of any one of the MPL, the GPL or the LGPL.
-#. #
-#. # ***** END LICENSE BLOCK *****
+#. # ***** BEGIN LICENSE BLOCK *****# Version: MPL 1.1/GPL 2.0/LGPL 2.1## The contents of this file are subject to the Mozilla Public License Version# 1.1 (the "License"); you may not use this file except in compliance with# the License. You may obtain a copy of the License at# http://www.mozilla.org/MPL/## Software distributed under the License is distributed on an "AS IS" basis,# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License# for the specific language governing rights and limitations under the# License.## The Original Code is mozilla.org code.## The Initial Developer of the Original Code is# Netscape Communications Corporation.# Portions created by the Initial Developer are Copyright (C) 1998# the Initial Developer. All Rights Reserved.## Contributor(s):#   Seth Spitzer <sspitzer@netscape.com>#   Lorenzo Colitti <lorenzo@colitti.com>## Alternatively, the contents of this file may be used under the terms of# either of the GNU General Public License Version 2 or later (the "GPL"),# or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),# in which case the provisions of the GPL or the LGPL are applicable instead# of those above. If you wish to allow use of your version of this file only# under the terms of either the GPL or the LGPL, and not to allow others to# use your version of this file under the terms of the MPL, indicate your# decision by deleting the provisions above and replace them with the notice# and other provisions required by the GPL or the LGPL. If you do not delete# the provisions above, a recipient may use your version of this file under# the terms of any one of the MPL, the GPL or the LGPL.## ***** END LICENSE BLOCK *****
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messenger.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 23:31-0700\n"
+"POT-Creation-Date: 2009-10-10 15:04-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. # The following are used by the messenger application
@@ -71,6 +35,14 @@ msgstr ""
 
 #: newSubfolder
 msgid "New Subfolder…"
+msgstr ""
+
+#: markFolderRead
+msgid "Mark Folder Read;Mark Folders Read"
+msgstr ""
+
+#: markNewsgroupRead
+msgid "Mark Newsgroup Read;Mark Newsgroups Read"
 msgstr ""
 
 #: folderProperties
@@ -143,12 +115,12 @@ msgstr ""
 msgid "Print Previewing message…"
 msgstr ""
 
-#: PrintingCard
-msgid "Printing card…"
+#: PrintingContact
+msgid "Printing contact…"
 msgstr ""
 
-#: PrintPreviewCard
-msgid "Print Previewing card…"
+#: PrintPreviewContact
+msgid "Print Previewing contact…"
 msgstr ""
 
 #: PrintingAddrBook
@@ -264,7 +236,7 @@ msgstr ""
 #: parsingFolderFailed
 msgid ""
 "Unable to open the folder %S because it is in use by some other operation. "
-"Please wait for that operation to finish and then select the folder again."
+"Please wait for that operation to finish and then select the folder again. "
 msgstr ""
 
 #: deletingMsgsFailed
@@ -454,8 +426,9 @@ msgstr ""
 
 #. # status feedback stuff
 #: documentDone
+msgctxt "documentDone"
+"documentDone"
 msgid ""
-"_: documentDone\n"
 msgstr ""
 
 #: documentLoading
@@ -812,6 +785,10 @@ msgstr ""
 msgid "Are you sure you want to unsubscribe from %S?"
 msgstr ""
 
+#: confirmUnsubscribeManyText
+msgid "Are you sure you want to unsubscribe from these newsgroups?"
+msgstr ""
+
 #. # msgHdrViewOverlay.js
 #: openLabel
 msgid "Open"
@@ -834,6 +811,7 @@ msgid "Detach…"
 msgstr ""
 
 #: detachLabelAccesskey
+msgctxt "detachLabelAccesskey"
 msgid "D"
 msgstr ""
 
@@ -864,6 +842,13 @@ msgstr ""
 msgid "Failed to delete the selected attachments."
 msgstr ""
 
+#: emptyAttachment
+msgid ""
+"This attachment appears to be empty.\n"
+"Please check with the person who sent this.\n"
+"Often company firewalls or antivirus programs will destroy attachments."
+msgstr ""
+
 #. # This is the format for prepending accesskeys to the
 #. # each of the attachments in the file|attachments menu:
 #. #   ie: 1 file.txt
@@ -874,7 +859,7 @@ msgstr ""
 
 #. # Connection Error Messages
 #: 101
-msgid "Unknown Error"
+msgid "Unknown Error "
 msgstr ""
 
 #: 102
@@ -933,7 +918,7 @@ msgstr ""
 
 #. # Used to separate names/email addresses in a list.  Note the trailing space ', '
 #: macBiffNotification_separator
-msgid ","
+msgid ", "
 msgstr ""
 
 #. # For the Quota tab in the mail folder properties dialog
@@ -1048,11 +1033,13 @@ msgstr ""
 #: confirmPhishingUrl
 msgid ""
 "%1$S thinks this message is a scam. The links in the message may be trying "
-"to impersonate web pages you want to visit. Are you sure you want to visit "
-"%2$S?"
+"to impersonate web pages you want to visit. Are you sure you want to visit %"
+"2$S?"
 msgstr ""
 
 #. # Check for Updates
+#. # LOCALIZATION NOTE (updatesItem_*): these are alternative labels for Check for Update item in Help menu.
+#. # Which one is used depends on Update process state.
 #: updatesItem_default
 msgctxt "updatesItem_default"
 msgid "Check for Updates…"
@@ -1063,12 +1050,21 @@ msgctxt "updatesItem_defaultFallback"
 msgid "Check for Updates…"
 msgstr ""
 
+#: updatesItem_default.accesskey
+msgid "C"
+msgstr ""
+
 #: updatesItem_downloading
 msgid "Downloading %S…"
 msgstr ""
 
 #: updatesItem_downloadingFallback
 msgid "Downloading Update…"
+msgstr ""
+
+#: updatesItem_downloading.accesskey
+msgctxt "updatesItem_downloading.accesskey"
+msgid "D"
 msgstr ""
 
 #: updatesItem_resume
@@ -1079,6 +1075,11 @@ msgstr ""
 msgid "Resume Downloading Update…"
 msgstr ""
 
+#: updatesItem_resume.accesskey
+msgctxt "updatesItem_resume.accesskey"
+msgid "D"
+msgstr ""
+
 #: updatesItem_pending
 msgctxt "updatesItem_pending"
 msgid "Apply Downloaded Update Now…"
@@ -1087,6 +1088,11 @@ msgstr ""
 #: updatesItem_pendingFallback
 msgctxt "updatesItem_pendingFallback"
 msgid "Apply Downloaded Update Now…"
+msgstr ""
+
+#: updatesItem_pending.accesskey
+msgctxt "updatesItem_pending.accesskey"
+msgid "D"
 msgstr ""
 
 #. # Folder Pane Header Title Strings
@@ -1104,6 +1110,16 @@ msgstr ""
 
 #: folderPaneHeader_recent
 msgid "Recent Folders"
+msgstr ""
+
+#: folderPaneHeader_smart
+msgctxt "folderPaneHeader_smart"
+msgid "Smart Folders"
+msgstr ""
+
+#: smartAccountName
+msgctxt "smartAccountName"
+msgid "Smart Folders"
 msgstr ""
 
 #. # Copy / Move to Folder Again
@@ -1132,9 +1148,9 @@ msgctxt "copyToFolderAgainAccessKey"
 msgid "t"
 msgstr ""
 
-#. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote images for
-#: alwaysLoadRemoteContentForSender1
-msgid "Always load remote images from %1$S"
+#. #LOCALIZATION NOTE %1$S is the e-mail address of the person we will allow remote content for
+#: alwaysLoadRemoteContentForSender2
+msgid "Always load remote content from %1$S "
 msgstr ""
 
 #. # Strings for growl notifications on Mac OS X
@@ -1184,36 +1200,106 @@ msgstr ""
 msgid "Processing Junk Messages"
 msgstr ""
 
-#. # second person direct object pronoun; used in the collapsed header view if
-#. # the user is in the To or Cc field of a message
-#: headerFieldYou
+#. # Messenger bootstrapping messages
+#: fileNotFoundTitle
+msgid "File Not Found"
+msgstr ""
+
+#. #LOCALIZATION NOTE(fileNotFoundMsg): %S is the filename
+#: fileNotFoundMsg
+msgid "The file %S does not exist."
+msgstr ""
+
+#: fileEmptyTitle
+msgid "File Empty"
+msgstr ""
+
+#. #LOCALIZATION NOTE(fileEmptyMsg): %S is the filename
+#: fileEmptyMsg
+msgid "The file %S is empty."
+msgstr ""
+
+#. # LOCALIZATION NOTE (headertoFieldYou): second person prepositional object
+#. # pronoun used in the "to" header of the message header pane.  This is also
+#. # used for the fallback case if a header-specific localization is not
+#. # available.
+#: headertoFieldYou
+msgctxt "headertoFieldYou"
 msgid "You"
 msgstr ""
 
-#. # The what's new tab title, shown on version update
-#: whatsNew
-msgid "What's New"
+#. # LOCALIZATION NOTE (headerfromFieldYou): second person prepositional object
+#. # pronoun used in the "from" header of the message header pane.
+#: headerfromFieldYou
+msgctxt "headerfromFieldYou"
+msgid "You"
 msgstr ""
 
-#. #LOCALIZATION NOTE (glodaSearch_results_why_*):  These strings populate the
-#. # glodaWhyColumn when performing a gloda-backed search, explaining why a
-#. # specific result is present in the search.  Because of how the message grouping
-#. # mechanism works, this value is both the value in the "Why" column as well as
-#. # the header for the group (when sorting/grouping on the why column.)  Short
-#. # strings are preferable so the why column can be understood without taking up
-#. # too much space.
-#: glodaSearch_results_why_contact
-msgid "Contact"
+#. # LOCALIZATION NOTE (headerreply-toFieldYou): second person prepositional
+#. # object pronoun used in the "reply-to" header of the message header pane.
+#: headerreply-toFieldYou
+msgctxt "headerreply-toFieldYou"
+msgid "You"
 msgstr ""
 
-#: glodaSearch_results_why_subject
-msgid "Subject"
+#. # LOCALIZATION NOTE (headerccFieldYou): second person prepositional object
+#. # pronoun used in the "cc" header of the message header pane.
+#: headerccFieldYou
+msgctxt "headerccFieldYou"
+msgid "You"
 msgstr ""
 
-#: glodaSearch_results_why_body
-msgid "Body"
+#. # LOCALIZATION NOTE (headerbccFieldYou): second person prepositional object
+#. # pronoun used in the "bcc" header of the message header pane.
+#: headerbccFieldYou
+msgctxt "headerbccFieldYou"
+msgid "You"
 msgstr ""
 
-#: glodaSearch_results_why_attachment
-msgid "Attachment"
+#. # Shown when content tabs are being loaded.
+#: loadingTab
+msgid "Loading…"
+msgstr ""
+
+#: applyToCollapsedMsgsTitle
+msgid "Confirm Delete of Messages in Collapsed Thread(s)"
+msgstr ""
+
+#: applyToCollapsedMsgs
+msgid "Warning - this will delete messages in collapsed thread(s)"
+msgstr ""
+
+#: applyToCollapsedAlwaysAskCheckbox
+msgid "Always ask me before deleting messages in collapsed threads"
+msgstr ""
+
+#: applyNowButton
+msgid "Apply"
+msgstr ""
+
+#: mailServerLoginFailedTitle
+msgid "Login Failed"
+msgstr ""
+
+#. # LOCALIZATION NOTE (mailServerLoginFailedTitle): Insert "%S" in your
+#. # translation where you wish to display the hostname of the server to which
+#. # login failed.
+#: mailServerLoginFailed
+msgid "Login to server %S failed."
+msgstr ""
+
+#: mailServerLoginFailedRetryButton
+msgid "&Retry"
+msgstr ""
+
+#: mailServerLoginFailedEnterNewPasswordButton
+msgid "&Enter New Password"
+msgstr ""
+
+#: extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.name
+msgid "Default"
+msgstr ""
+
+#: extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.description
+msgid "The default theme."
 msgstr ""

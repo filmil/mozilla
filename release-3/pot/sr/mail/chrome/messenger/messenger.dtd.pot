@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-10 01:04-0700\n"
+"POT-Creation-Date: 2009-10-10 14:58-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,6 +35,11 @@ msgstr ""
 #: closeTabCmd.label
 #: closeTabCmd.accesskey
 msgid "Clos&e Tab"
+msgstr ""
+
+#: closeOtherTabsCmd.label
+#: closeOtherTabsCmd.accesskey
+msgid "C&lose Other Tabs"
 msgstr ""
 
 #: newVirtualFolderCmd.label
@@ -1296,6 +1301,10 @@ msgstr ""
 msgid "File"
 msgstr ""
 
+#: archiveButton.label
+msgid "Archive"
+msgstr ""
+
 #: nextButton.label
 msgid "Next"
 msgstr ""
@@ -1416,6 +1425,10 @@ msgstr ""
 
 #: fileButton.tooltip
 msgid "File selected message"
+msgstr ""
+
+#: archiveButton.tooltip
+msgid "Archive selected messages"
 msgstr ""
 
 #: nextButton.tooltip
@@ -1804,6 +1817,11 @@ msgstr ""
 msgid "&Edit As New…"
 msgstr ""
 
+#: contextArchive.label
+#: contextArchive.accesskey
+msgid "Arc&hive"
+msgstr ""
+
 #: contextReplySender.label
 #: contextReplySender.accesskey
 msgctxt "contextReplySender.label contextReplySender.accesskey"
@@ -1943,8 +1961,8 @@ msgctxt "quickSearchCmd.key"
 msgid "k"
 msgstr ""
 
-#: searchEverywhere.label
-msgid "Search everywhere"
+#: searchAllMessages.label
+msgid "Search all messages"
 msgstr ""
 
 #. Message Header Context Menu
@@ -1968,14 +1986,29 @@ msgstr ""
 msgid "&View Contact"
 msgstr ""
 
-#: SendMailTo.label
-#: SendMailTo.accesskey
-msgid "Compo&se Mail To"
+#: SubscribeToNewsgroup.label
+#: SubscribeToNewsgroup.accesskey
+msgid "Subscribe to &Newsgroup"
+msgstr ""
+
+#: SendMessageTo.label
+#: SendMessageTo.accesskey
+msgid "Compo&se Message To"
 msgstr ""
 
 #: CopyEmailAddress.label
 #: CopyEmailAddress.accesskey
 msgid "&Copy Email Address"
+msgstr ""
+
+#: CopyNewsgroupName.label
+#: CopyNewsgroupName.accesskey
+msgid "&Copy Newsgroup Name"
+msgstr ""
+
+#: CopyNewsgroupURL.label
+#: CopyNewsgroupURL.accesskey
+msgid "Copy Newsgroup &URL"
 msgstr ""
 
 #: CreateFilterFrom.label
@@ -1999,9 +2032,19 @@ msgstr ""
 msgid "Sa&ve Image As…"
 msgstr ""
 
+#: cutCmd.label
+#: cutCmd.accesskey
+msgid "C&ut"
+msgstr ""
+
 #: copyCmd.label
 #: copyCmd.accesskey
 msgid "&Copy"
+msgstr ""
+
+#: pasteCmd.label
+#: pasteCmd.accesskey
+msgid "&Paste"
 msgstr ""
 
 #: selectAllCmd.label
@@ -2016,12 +2059,32 @@ msgstr ""
 
 #: copyImageCmd.label
 #: copyImageCmd.accesskey
-msgid "C&opy Image Location"
+msgid "Copy &Image Location"
 msgstr ""
 
 #: copyEmailCmd.label
 #: copyEmailCmd.accesskey
 msgid "Copy &Email Address"
+msgstr ""
+
+#: stopCmd.label
+#: stopCmd.accesskey
+msgid "&Stop"
+msgstr ""
+
+#: reloadCmd.label
+#: reloadCmd.accesskey
+msgid "&Reload"
+msgstr ""
+
+#: openInBrowser.label
+#: openInBrowser.accesskey
+msgid "&Open In Browser"
+msgstr ""
+
+#: openLinkInBrowser.label
+#: openLinkInBrowser.accesskey
+msgid "&Open Link In Browser"
 msgstr ""
 
 #. Statusbar
