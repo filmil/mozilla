@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-advanced.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-02-16 23:13-0700\n"
+"PO-Revision-Date: 2009-02-16 23:15-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -70,9 +71,9 @@ msgstr "Порт: "
 msgid "User Name: "
 msgstr "Кор. име: "
 
-#: useSecureConnection.label
-msgid "Secure Connection: "
-msgstr "Безбедна веза: "
+#: connectionSecurity.label
+msgid "Connection Security: "
+msgstr "Безбедност везе:"
 
 #: useSecureAuthentication.label
 msgid "Secure Authentication: "

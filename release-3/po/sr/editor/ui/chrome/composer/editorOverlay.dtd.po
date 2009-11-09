@@ -1,9 +1,22 @@
 
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/editor/ui/chrome/composer/editorOverlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-10 13:49-0700\n"
+"PO-Revision-Date: 2009-10-10 13:50-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+"X-Accelerator-Marker: &\n"
 
 # Insert form menu items
 # Used just in context popup.
 # Debug menu items
-
 # ***** BEGIN LICENSE BLOCK *****
 # - Version: MPL 1.1/GPL 2.0/LGPL 2.1
 # -
@@ -119,6 +132,9 @@ msgid "Open Web &Location…"
 msgstr "Отвори о&дредиште…"
 
 #: openRemoteCmd.key
+#: insertLinkCmd.key
+#: insertlabel.accesskey
+#, fuzzy
 msgctxt "openRemoteCmd.key"
 msgid "L"
 msgstr "L"
@@ -139,6 +155,10 @@ msgid "&Save"
 msgstr "&Сачувај"
 
 #: saveCmd.key
+#: publishCmd.key
+#: insertselect.accesskey
+#: stylesubscript.accesskey
+#, fuzzy
 msgctxt "saveCmd.key"
 msgid "S"
 msgstr "S"
@@ -246,6 +266,10 @@ msgstr "Обја&ва подешавања сајта…"
 msgid "Paste As &Quotation"
 msgstr "Убаци као &цитат"
 
+#: pasteAsQuotationCmd.key
+msgid "o"
+msgstr "o"
+
 #: findCmd.label
 #: findCmd.accesskey
 msgid "&Find and Replace…"
@@ -273,6 +297,10 @@ msgid "G"
 msgstr "G"
 
 #: findAgainCmd.key2
+#: findPrevCmd.key2
+#: editfindnext.keybinding2
+#: editfindprev.keybinding2
+#, fuzzy
 msgctxt "findAgainCmd.key2"
 msgid "VK_F3"
 msgstr "VK_F3"
@@ -299,15 +327,16 @@ msgstr "VK_F3"
 msgid "&Spellcheck As You Type"
 msgstr "&Провера правописа док куцате"
 
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
 #: checkSpellingCmd.label
 #: checkSpellingCmd.accesskey
 msgid "C&heck Spelling"
 msgstr "&Провери правопис"
 
-#: checkSpellingCmd.key
-msgctxt "checkSpellingCmd.key"
-msgid "K"
-msgstr "K"
+#: checkSpellingCmd2.key
+msgid "p"
+msgstr "p"
 
 #: validateCmd.label
 #: validateCmd.accesskey
@@ -319,7 +348,7 @@ msgstr "&Провери HTML"
 #: insertMenu.accesskey
 msgctxt "insertMenu.label insertMenu.accesskey"
 msgid "&Insert"
-msgstr "У&метни"
+msgstr "&Убаци"
 
 #: insertLinkCmd.label
 #: insertLinkCmd.accesskey
@@ -424,7 +453,7 @@ msgstr "У&баци"
 #: deleteCmd.accesskey
 msgctxt "deleteCmd.label deleteCmd.accesskey"
 msgid "&Delete"
-msgstr "У&клони"
+msgstr "&Уклони"
 
 #: clearCmd.label
 #: clearCmd.accesskey
@@ -566,10 +595,6 @@ msgstr "Стил &текста"
 msgid "&Bold"
 msgstr "&Подебљано"
 
-#: boldToolbarCmd.tooltip
-msgid "&Bold"
-msgstr "Подебљано"
-
 # Formatting toolbar not used, but may be in future
 # Format Toolbar, imported from editorAppShell.xul
 # LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
@@ -584,10 +609,6 @@ msgstr "B"
 msgid "&Italic"
 msgstr "&Искошено"
 
-#: italicToolbarCmd.tooltip
-msgid "&Italic"
-msgstr "Искошено"
-
 #: styleItalicCmd.key
 #: insertinputimage.accesskey
 #: styleitalic.accesskey
@@ -598,11 +619,7 @@ msgstr "I"
 #: styleUnderlineCmd.label
 #: styleUnderlineCmd.accesskey
 msgid "&Underline"
-msgstr "&Подвучено"
-
-#: underlineToolbarCmd.tooltip
-msgid "&Underline"
-msgstr "Подвучено"
+msgstr "Под&вучено"
 
 #: styleUnderlineCmd.key
 #: formatToolbar.underlineChar
@@ -684,7 +701,7 @@ msgid "Y"
 msgstr "Y"
 
 #: formatRemoveLinks.key
-msgctxt "formatRemoveLinks.key"
+#: checkSpellingCmd.key
 msgid "K"
 msgstr "K"
 
@@ -703,12 +720,10 @@ msgstr "к"
 #: paragraphMenu.accesskey
 msgctxt "paragraphMenu.label paragraphMenu.accesskey"
 msgid "&Paragraph"
-msgstr "&Пасус"
+msgstr "Па&сус"
 
 #: paragraphParagraphCmd.label
 #: paragraphParagraphCmd.accesskey
-#: paragraphMenu.label
-#: paragraphMenu.accesskey
 msgctxt "paragraphParagraphCmd.label paragraphParagraphCmd.accesskey"
 msgid "&Paragraph"
 msgstr "Па&сус"
@@ -903,9 +918,10 @@ msgstr "Боје стране и &позадине…"
 
 # Table Menu
 #. Table Menu
+#: tableMenu.label
 #: tableMenu.accesskey
-msgid "b"
-msgstr "Т"
+msgid "Ta&ble"
+msgstr "Та&бела"
 
 # Select Submenu
 #. Select Submenu
@@ -935,7 +951,7 @@ msgstr "У&клони табелу"
 #: tableInsertMenu.accesskey
 msgctxt "tableInsertMenu.label tableInsertMenu.accesskey"
 msgid "&Insert"
-msgstr "У&метни"
+msgstr "&Убаци"
 
 # Table Menu
 #: tableTable.label
@@ -1017,8 +1033,6 @@ msgstr "Ћелија из&над"
 #. Delete SubMenu
 #: tableDeleteMenu.label
 #: tableDeleteMenu.accesskey
-#: deleteCmd.label
-#: deleteCmd.accesskey
 msgctxt "tableDeleteMenu.label tableDeleteMenu.accesskey"
 msgid "&Delete"
 msgstr "&Уклони"
@@ -1340,10 +1354,6 @@ msgstr "&Промени ознаку"
 #. Insert SubMenu
 #: insertTOC.label
 #: insertTOC.accesskey
-#: insertMenu.label
-#: insertMenu.accesskey
-#: tableInsertMenu.label
-#: tableInsertMenu.accesskey
 msgctxt "insertTOC.label insertTOC.accesskey"
 msgid "&Insert"
 msgstr "&Убаци"

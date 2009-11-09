@@ -42,7 +42,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-14 02:02-0800\n"
+"PO-Revision-Date: 2009-08-31 23:51-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgstr "Бришем датотеку: %s"
 
 #: DeleteComponent
 msgid "Deleting component: %s"
-msgstr "Избришавам део: %s"
+msgstr "Бришем део: %s"
 
 #: Execute
 msgid "Executing: %s"

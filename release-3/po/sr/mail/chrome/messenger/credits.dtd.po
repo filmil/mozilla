@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
+"POT-Creation-Date: 2009-10-10 14:36-0700\n"
 "PO-Revision-Date: 2008-04-02 23:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: credit.title
@@ -20,10 +20,6 @@ msgstr "Заслуге за &brandFullName;"
 #: brandMotto
 msgid "Thunderbirds Are Go!"
 msgstr "Соколови су спремни!"
-
-#: credit.leads
-msgid "Engineering Leads"
-msgstr "Вође пројекта"
 
 #: credit.thanks
 msgid "Special Thanks To"
@@ -39,6 +35,8 @@ msgstr "Посебна захвалност"
 #. <!ENTITY credit.translation
 #. "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 #: credit.translation
+#, fuzzy
+msgctxt "credit.translation"
 msgid ""
 "_: credit.translation\n"
 ""
@@ -46,18 +44,6 @@ msgstr "<h3>Преводиоци</h3><ul><li>Филип Милетић</li><li>�
 "Радовановић</li><li>проф. др Владан Јанковић</li><li>Владана "
 "Михаиловић</li><li>Драган Митровић</li><li>дипл. инж. Душан "
 "Вучковић</li><li>проф. др Милорад Тошић</li></ul>\n"
-
-#: credit.theme
-msgid "Theme Design"
-msgstr "Дизајн теме"
-
-#: credit.qa
-msgid "Quality Assurance"
-msgstr "Провера квалитета"
-
-#: credit.build
-msgid "Build and Release"
-msgstr "Изградња и издавање"
 
 #: credit.memory
 msgid "In Fond Memory Of"

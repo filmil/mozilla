@@ -1,0 +1,43 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger-smime/msgCompSMIMEOverlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-10 20:46-0700\n"
+"PO-Revision-Date: 2009-10-10 20:47-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+"X-Accelerator-Marker: &\n"
+
+#. LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition
+#: menu_securityEncryptRequire.label
+#: menu_securityEncryptRequire.accesskey
+msgid "&Encrypt This Message"
+msgstr "&Шифруј ову поруку"
+
+#: menu_securitySign.label
+#: menu_securitySign.accesskey
+msgid "Digitally Sign This &Message"
+msgstr "&Дигитално потпиши ову поруку"
+
+#: menu_securityStatus.label
+#: menu_securityStatus.accesskey
+msgid "View Security &Info"
+msgstr "Преглед безбедносних &података"
+
+#: securityButton.label
+msgid "Security"
+msgstr "Безбедност"
+
+#: securityButton.tooltip
+msgid "View or change security settings"
+msgstr "Преглед и промена безбедносних подешавања"
+
+#: menu_viewSecurityStatus.label
+#: menu_viewSecurityStatus.accesskey
+msgid "Message Security &Info"
+msgstr "Подаци о бе&збедности поруке"

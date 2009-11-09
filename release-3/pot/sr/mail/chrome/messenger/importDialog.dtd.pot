@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:24-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,24 +53,29 @@ msgstr ""
 msgid "Import"
 msgstr ""
 
-#: importDialog.allTitle
-msgid "Import everything"
+#: importAll.label
+#: importAll.accesskey
+msgid "Import &Everything"
 msgstr ""
 
-#: importDialog.mailTitle
-msgid "Mail"
+#: importMail.label
+#: importMail.accesskey
+msgid "&Mail"
 msgstr ""
 
-#: importDialog.addressbookTitle
-msgid "Address Books"
+#: importAddressbook.label
+#: importAddressbook.accesskey
+msgid "&Address Books"
 msgstr ""
 
-#: importDialog.settingsTitle
-msgid "Settings"
+#: importSettings.label
+#: importSettings.accesskey
+msgid "&Settings"
 msgstr ""
 
-#: importDialog.filtersTitle
-msgid "Filters"
+#: importFilters.label
+#: importFilters.accesskey
+msgid "&Filters"
 msgstr ""
 
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
@@ -104,7 +109,8 @@ msgid ""
 msgstr ""
 
 #: selectDescription.label
-msgid "Please select the type of file that you would like to import:"
+#: selectDescription.accesskey
+msgid "&Please select the type of file that you would like to import:"
 msgstr ""
 
 #: back.label
@@ -153,10 +159,12 @@ msgid ""
 ""
 msgstr ""
 
-#: importDialog.homeTitle
-msgid "Home"
+#: importHome.label
+#: importHome.accesskey
+msgid "&Home"
 msgstr ""
 
-#: importDialog.workTitle
-msgid "Work"
+#: importWork.label
+#: importWork.accesskey
+msgid "&Work"
 msgstr ""

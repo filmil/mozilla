@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-02-16 23:40-0700\n"
+"PO-Revision-Date: 2009-02-16 23:41-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,33 +51,30 @@ msgstr "Ко&рисничко име:"
 msgid "Use secure authent&ication"
 msgstr "Користи &безбедну аутентикацију"
 
-#: isSecure.label
-msgid "Use secure connection:"
-msgstr "Користи безбедну везу:"
+#: connectionSecurity.label
+#: connectionSecurity.accesskey
+msgid "Co&nnection security:"
+msgstr "&Безбедност везе:"
 
-#: neverSecure.label
-#: neverSecure.accesskey
-msgid "&No"
-msgstr "&Не"
+#: connectionSecurityType-0.label
+msgid "None"
+msgstr "Ниједна"
 
-#: sometimesSTARTTLS.label
-#: sometimesSTARTTLS.accesskey
-msgid "ST&ARTTLS, if available"
-msgstr "ST&ARTTLS, ако је доступан"
+#: connectionSecurityType-1.label
+msgid "STARTTLS, if available"
+msgstr "STARTTLS, ако је доступан"
 
-#: alwaysSTARTTLS.label
-#: alwaysSTARTTLS.accesskey
-msgid "S&TARTTLS"
-msgstr "S&TARTTLS"
+#: connectionSecurityType-2.label
+msgid "STARTTLS"
+msgstr "STARTTLS"
 
-#: alwaysSMTPOverSSL.label
-#: alwaysSMTPOverSSL.accesskey
-msgid "SMTP-over-SS&L"
-msgstr "СМТП-преко-СС&Ла"
+#: connectionSecurityType-3.label
+msgid "SSL/TLS"
+msgstr "ССЛ/ТЛС"
 
 #: smtpEditTitle.label
 msgid "SMTP Server"
-msgstr "SMTP сервер"
+msgstr "СМТП (SMTP) сервер"
 
 #: serverPortDefault.label
 msgid "Default:"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:40-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,28 +52,25 @@ msgstr ""
 msgid "Use secure authent&ication"
 msgstr ""
 
-#: isSecure.label
-msgid "Use secure connection:"
+#: connectionSecurity.label
+#: connectionSecurity.accesskey
+msgid "Co&nnection security:"
 msgstr ""
 
-#: neverSecure.label
-#: neverSecure.accesskey
-msgid "&No"
+#: connectionSecurityType-0.label
+msgid "None"
 msgstr ""
 
-#: sometimesSTARTTLS.label
-#: sometimesSTARTTLS.accesskey
-msgid "ST&ARTTLS, if available"
+#: connectionSecurityType-1.label
+msgid "STARTTLS, if available"
 msgstr ""
 
-#: alwaysSTARTTLS.label
-#: alwaysSTARTTLS.accesskey
-msgid "S&TARTTLS"
+#: connectionSecurityType-2.label
+msgid "STARTTLS"
 msgstr ""
 
-#: alwaysSMTPOverSSL.label
-#: alwaysSMTPOverSSL.accesskey
-msgid "SMTP-over-SS&L"
+#: connectionSecurityType-3.label
+msgid "SSL/TLS"
 msgstr ""
 
 #: smtpEditTitle.label

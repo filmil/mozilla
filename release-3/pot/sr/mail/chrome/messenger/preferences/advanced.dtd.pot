@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:37-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,9 +35,52 @@ msgid "Certificates"
 msgstr ""
 
 #. General Settings
-#: enableGloda.label
-#: enableGloda.accesskey
-msgid "Enable Message &Indexer"
+#: enableGlodaSearch.label
+#: enableGlodaSearch.accesskey
+msgid "Enable Global Search and &Indexer"
+msgstr ""
+
+#: systemDefaults.label
+msgid "System Defaults"
+msgstr ""
+
+#: alwaysCheckDefault.label
+#: alwaysCheckDefault.accesskey
+msgid ""
+"A&lways check to see if &brandShortName; is the default mail client on "
+"startup"
+msgstr ""
+
+#: checkNow.label
+#: checkNow.accesskey
+msgid "Check &Now"
+msgstr ""
+
+#: configEditDesc.label
+msgid "Advanced Configuration"
+msgstr ""
+
+#: configEdit.label
+#: configEdit.accesskey
+msgid "Confi&g Editor…"
+msgstr ""
+
+#: returnReceiptsInfo.label
+msgid "Determine how &brandShortName; handles return receipts"
+msgstr ""
+
+#: showReturnReceipts.label
+#: showReturnReceipts.accesskey
+msgid "&Return Receipts…"
+msgstr ""
+
+#. Display and Reading Settings
+#: reading.caption
+msgid "Reading"
+msgstr ""
+
+#: display.caption
+msgid "Display"
 msgstr ""
 
 #: showCondensedAddresses.label
@@ -81,33 +124,6 @@ msgstr ""
 msgid "An e&xisting message window"
 msgstr ""
 
-#: configEditDesc.label
-msgid "Advanced Configuration"
-msgstr ""
-
-#: configEdit.label
-#: configEdit.accesskey
-msgid "Confi&g Editor…"
-msgstr ""
-
-#: returnReceiptsInfo.label
-msgid "Determine how &brandShortName; handles return receipts"
-msgstr ""
-
-#: showReturnReceipts.label
-#: showReturnReceipts.accesskey
-msgid "&Return Receipts…"
-msgstr ""
-
-#. Display and Reading Settings
-#: reading.caption
-msgid "Reading"
-msgstr ""
-
-#: display.caption
-msgid "Display"
-msgstr ""
-
 #. Update
 #: autoCheck.label
 msgid "Automatically check for updates to:"
@@ -124,10 +140,6 @@ msgstr ""
 #: enableAddonsUpdate.label
 #: enableAddonsUpdate.accesskey
 msgid "Ins&talled Add-ons"
-msgstr ""
-
-#: checkNow.label
-msgid "Check Now…"
 msgstr ""
 
 #: whenUpdatesFound.label

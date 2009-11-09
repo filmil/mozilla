@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 17:53-0800\n"
+"POT-Creation-Date: 2009-09-01 00:00-0700\n"
+"PO-Revision-Date: 2009-09-01 00:01-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: window.title
@@ -68,6 +68,14 @@ msgstr "ручном покретању"
 #: contextBoth.label
 msgid "Checking Mail or Manually Run"
 msgstr "провери поште или ручном покретању"
+
+#: contextPostPlugin.label
+msgid "Checking Mail (after classification)"
+msgstr "Провера поште (после класификације)"
+
+#: contextPostPluginBoth.label
+msgid "Checking Mail (after classification) or Manually Run"
+msgstr "Провера поште (после класификације), или ручно покренуто"
 
 #: filterActionDesc.label
 #: filterActionDesc.accesskey

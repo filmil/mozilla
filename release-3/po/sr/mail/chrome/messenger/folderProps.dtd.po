@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 17:20-0800\n"
+"POT-Creation-Date: 2009-02-16 23:21-0700\n"
+"PO-Revision-Date: 2009-02-16 23:23-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -156,8 +156,20 @@ msgid "messages"
 msgstr "поруке"
 
 #: retentionCleanup.label
-msgid "To recover disk space, old messages can be permanently deleted"
-msgstr "Простор на диску се може ослободити брисањем старих порука"
+msgid "To recover disk space, old messages can be permanently deleted."
+msgstr "Како бисте уштедели простор на диску, старе поруке се могу трајно уклонити."
+
+#: retentionCleanupImap.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, both local "
+"copies and originals on the remote server."
+msgstr "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, што обухвата и локалне умношке и оригинале на удаљеном рачунару."
+
+#: retentionCleanupPop.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, including "
+"originals on the remote server."
+msgstr "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, укључујући оригинале на удаљеном рачунару."
 
 #: retentionDeleteMsg.label
 #: retentionDeleteMsg.accesskey
@@ -180,6 +192,11 @@ msgstr "Уклони све осим последњих о&волико пору
 #: retentionKeepUnread.accesskey
 msgid "Always delete &read messages"
 msgstr "Увек уклони про&читане поруке"
+
+#: retentionApplyToFlagged.label
+#: retentionApplyToFlagged.accesskey
+msgid "Always k&eep starred messages"
+msgstr "Увек &чувај поруке са звездом"
 
 #: folderOfflineTab.label
 msgid "Offline"
@@ -208,8 +225,6 @@ msgstr "Изабери ову &групу за рад ван мреже"
 
 #: offlineNewsgroup.button.label
 #: offlineNewsgroup.button.accesskey
-#: offlineFolder.button.label
-#: offlineFolder.button.accesskey
 msgctxt "offlineNewsgroup.button.label offlineNewsgroup.button.accesskey"
 msgid "&Download Now"
 msgstr "&Прими одмах"

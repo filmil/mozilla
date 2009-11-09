@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/preferences/advanced.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 18:00-0800\n"
+"POT-Creation-Date: 2009-02-16 23:37-0700\n"
+"PO-Revision-Date: 2009-02-16 23:49-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -34,10 +35,53 @@ msgid "Certificates"
 msgstr "Сертификати"
 
 #. General Settings
-#: enableGloda.label
-#: enableGloda.accesskey
-msgid "Enable Message &Indexer"
-msgstr "Укључи &индексирање порука"
+#: enableGlodaSearch.label
+#: enableGlodaSearch.accesskey
+msgid "Enable Global Search and &Indexer"
+msgstr "Укључи глобалну претрагу и &индексирање"
+
+#: systemDefaults.label
+msgid "System Defaults"
+msgstr "Изворна системска подешавања"
+
+#: alwaysCheckDefault.label
+#: alwaysCheckDefault.accesskey
+msgid ""
+"A&lways check to see if &brandShortName; is the default mail client on "
+"startup"
+msgstr "&Увек провери да ли је &brandShortName; изворни читач поште при покретању"
+
+#: checkNow.label
+#: checkNow.accesskey
+msgid "Check &Now"
+msgstr "Провери &сад"
+
+#: configEditDesc.label
+msgid "Advanced Configuration"
+msgstr "Напредно подешавање"
+
+#: configEdit.label
+#: configEdit.accesskey
+msgid "Confi&g Editor…"
+msgstr "Уређивач &подешавања…"
+
+#: returnReceiptsInfo.label
+msgid "Determine how &brandShortName; handles return receipts"
+msgstr "Обрада повратница у програму &brandShortName;"
+
+#: showReturnReceipts.label
+#: showReturnReceipts.accesskey
+msgid "&Return Receipts…"
+msgstr "&Повратнице…"
+
+#. Display and Reading Settings
+#: reading.caption
+msgid "Reading"
+msgstr "Читање"
+
+#: display.caption
+msgid "Display"
+msgstr "Приказ"
 
 # General Settings
 #: showCondensedAddresses.label
@@ -85,33 +129,6 @@ msgstr "&новом прозору за поруку"
 msgid "An e&xisting message window"
 msgstr "посто&јећем прозору за поруку"
 
-#: configEditDesc.label
-msgid "Advanced Configuration"
-msgstr "Напредно подешавање"
-
-#: configEdit.label
-#: configEdit.accesskey
-msgid "Confi&g Editor…"
-msgstr "Уређивач &подешавања…"
-
-#: returnReceiptsInfo.label
-msgid "Determine how &brandShortName; handles return receipts"
-msgstr "Обрада повратница у програму &brandShortName;"
-
-#: showReturnReceipts.label
-#: showReturnReceipts.accesskey
-msgid "&Return Receipts…"
-msgstr "&Повратнице…"
-
-#. Display and Reading Settings
-#: reading.caption
-msgid "Reading"
-msgstr "Читање"
-
-#: display.caption
-msgid "Display"
-msgstr "Приказ"
-
 # Update
 #. Update
 #: autoCheck.label
@@ -132,10 +149,6 @@ msgstr "F"
 msgid "Ins&talled Add-ons"
 msgstr "Постављени &додаци"
 
-#: checkNow.label
-msgid "Check Now…"
-msgstr "Провери одмах…"
-
 #: whenUpdatesFound.label
 msgid "When updates to &brandShortName; are found,"
 msgstr "Када је пронађено унапређење за &brandShortName;,"
@@ -152,13 +165,11 @@ msgstr "Самостално &прими и постави унапређење"
 
 #: modeAutoAddonWarn.label
 #: modeAutoAddonWarn.accesskey
-#, fuzzy
 msgid "Warn me if this will disable any of my add&-ons"
 msgstr "Упо&зори ме ако ће ово да искључи ма који додатак"
 
 #: showUpdates.label
 #: showUpdates.accesskey
-#, fuzzy
 msgid "Show Update Histor&y"
 msgstr "Прикажи историјат &унапређења"
 

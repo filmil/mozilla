@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-18 15:10-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,6 +63,19 @@ msgstr ""
 
 #: draftInOtherFolder.label
 #: draftInOtherFolder.accesskey
+msgctxt "draftInOtherFolder.label draftInOtherFolder.accesskey"
+msgid "O&ther:"
+msgstr ""
+
+#. OK to translate this, bug #57440
+#: archivesFolderOn.label
+#: archivesFolderOn.accesskey
+msgid "&quot;Archives&quot; Fol&der on:"
+msgstr ""
+
+#: archiveInOtherFolder.label
+#: archiveInOtherFolder.accesskey
+msgctxt "archiveInOtherFolder.label archiveInOtherFolder.accesskey"
 msgid "O&ther:"
 msgstr ""
 
@@ -78,11 +91,15 @@ msgid "Oth&er:"
 msgstr ""
 
 #: specialFoldersTitle.label
-msgid "Drafts and Templates"
+msgid "Drafts, Archives, and Templates"
 msgstr ""
 
 #: keepDrafts.label
 msgid "Keep message drafts in:"
+msgstr ""
+
+#: keepArchives.label
+msgid "Keep message archives in:"
 msgstr ""
 
 #: keepTempltes.label

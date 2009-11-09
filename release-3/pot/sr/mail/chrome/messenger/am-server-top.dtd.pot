@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:18-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,10 +46,6 @@ msgstr ""
 msgid "Default:"
 msgstr ""
 
-#: savePassword.label
-msgid "Save password"
-msgstr ""
-
 #. translate below 2 line with grammer dependency
 #. For example, in Japanese cases:
 #. biffStart.label "every"
@@ -63,28 +59,25 @@ msgstr ""
 msgid "minutes"
 msgstr ""
 
-#: socketType.label
-msgid "Use secure connection:"
+#: connectionSecurity.label
+#: connectionSecurity.accesskey
+msgid "Connection sec&urity:"
 msgstr ""
 
-#: neverSecure.label
-#: neverSecure.accesskey
-msgid "&Never"
+#: connectionSecurityType-0.label
+msgid "None"
 msgstr ""
 
-#: sometimesSecure.label
-#: sometimesSecure.accesskey
-msgid "TLS, if &available"
+#: connectionSecurityType-1.label
+msgid "STARTTLS, if available"
 msgstr ""
 
-#: alwaysSecure.label
-#: alwaysSecure.accesskey
-msgid "&TLS"
+#: connectionSecurityType-2.label
+msgid "STARTTLS"
 msgstr ""
 
-#: alwaysSSL.label
-#: alwaysSSL.accesskey
-msgid "SS&L"
+#: connectionSecurityType-3.label
+msgid "SSL/TLS"
 msgstr ""
 
 #: useSecAuth.label

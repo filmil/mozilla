@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-10-10 14:58-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: messengerWindow.title
@@ -37,14 +37,24 @@ msgstr ""
 msgid "Clos&e Tab"
 msgstr ""
 
+#: closeOtherTabsCmd.label
+#: closeOtherTabsCmd.accesskey
+msgid "C&lose Other Tabs"
+msgstr ""
+
 #: newVirtualFolderCmd.label
 #: newVirtualFolderCmd.accesskey
 msgid "&Saved Search…"
 msgstr ""
 
-#: newAccountCmd.label
-#: newAccountCmd.accesskey
-msgid "&Account…"
+#: newOtherAccountsCmd.label
+#: newOtherAccountsCmd.accesskey
+msgid "&Other Accounts…"
+msgstr ""
+
+#: newEmailAccountCmd.label
+#: newEmailAccountCmd.accesskey
+msgid "Mail &Account…"
 msgstr ""
 
 #: openMessageFileCmd.label
@@ -137,11 +147,6 @@ msgstr ""
 #: emptyTrashCmd.accesskey
 msgctxt "emptyTrashCmd.label emptyTrashCmd.accesskey"
 msgid "Empt&y Trash"
-msgstr ""
-
-#: importCmd.label
-#: importCmd.accesskey
-msgid "&Import…"
 msgstr ""
 
 #: offlineMenu.label
@@ -254,6 +259,7 @@ msgid "&Thread"
 msgstr ""
 
 #: selectThreadCmd.key
+msgctxt "selectThreadCmd.key"
 msgid "a"
 msgstr ""
 
@@ -264,8 +270,7 @@ msgstr ""
 
 #: menuFavoriteFolder.label
 #: menuFavoriteFolder.accesskey
-msgctxt "menuFavoriteFolder.label menuFavoriteFolder.accesskey"
-msgid "F&avorite Folder"
+msgid "Fa&vorite Folder"
 msgstr ""
 
 #: folderPropsCmd.label
@@ -279,15 +284,6 @@ msgstr ""
 
 #: folderPropsNewsgroupCmd.label
 msgid "Newsgroup Properties…"
-msgstr ""
-
-#: accountManagerCmd.label
-#: accountManagerCmd.accesskey
-msgid "A&ccount Settings…"
-msgstr ""
-
-#: accountManagerCmdUnix.accesskey
-msgid "A"
 msgstr ""
 
 #: undoDeleteMsgCmd.label
@@ -371,6 +367,11 @@ msgstr ""
 #: folderView.label
 #: folderView.accesskey
 msgid "&Folders"
+msgstr ""
+
+#: smartFolders.label
+#: smartFolders.accesskey
+msgid "&Smart"
 msgstr ""
 
 #: allFolders.label
@@ -589,6 +590,26 @@ msgstr ""
 msgid "&Plain Text"
 msgstr ""
 
+#: bodyMenuFeed.label
+#: bodyMenuFeed.accesskey
+msgid "Feed Message &Body As"
+msgstr ""
+
+#: viewFeedWebPage.label
+#: viewFeedWebPage.accesskey
+msgid "&Web Page"
+msgstr ""
+
+#: viewFeedSummary.label
+#: viewFeedSummary.accesskey
+msgid "Su&mmary"
+msgstr ""
+
+#: viewFeedSummaryFeedPropsPref.label
+#: viewFeedSummaryFeedPropsPref.accesskey
+msgid "&Default Format"
+msgstr ""
+
 #: viewAttachmentsInlineCmd.label
 #: viewAttachmentsInlineCmd.accesskey
 msgid "Display &Attachments Inline"
@@ -614,8 +635,9 @@ msgid "="
 msgstr ""
 
 #: fullZoomEnlargeCmd.commandkey3
+msgctxt "fullZoomEnlargeCmd.commandkey3"
+"fullZoomEnlargeCmd.commandkey3"
 msgid ""
-"_: fullZoomEnlargeCmd.commandkey3\n"
 msgstr ""
 
 #: fullZoomReduceCmd.label
@@ -826,6 +848,7 @@ msgstr ""
 msgid "Mail &Start Page"
 msgstr ""
 
+#. Message Menu
 #: msgMenu.label
 #: msgMenu.accesskey
 msgctxt "msgMenu.label msgMenu.accesskey"
@@ -841,6 +864,16 @@ msgstr ""
 #: newNewMsgCmd.accesskey
 msgctxt "newNewMsgCmd.label newNewMsgCmd.accesskey"
 msgid "&Message"
+msgstr ""
+
+#: archiveMsgCmd.label
+#: archiveMsgCmd.accesskey
+msgid "&Archive"
+msgstr ""
+
+#: archiveMsgCmd.key
+msgctxt "archiveMsgCmd.key"
+msgid "a"
 msgstr ""
 
 #: replyMsgCmd.label
@@ -875,6 +908,17 @@ msgctxt "replyToAllMsgCmd.key"
 msgid "r"
 msgstr ""
 
+#: replyToListMsgCmd.label
+#: replyToListMsgCmd.accesskey
+msgctxt "replyToListMsgCmd.label replyToListMsgCmd.accesskey"
+msgid "Reply to &List"
+msgstr ""
+
+#: replyToListMsgCmd.key
+msgctxt "replyToListMsgCmd.key"
+msgid "l"
+msgstr ""
+
 #: forwardMsgCmd.label
 #: forwardMsgCmd.accesskey
 msgctxt "forwardMsgCmd.label forwardMsgCmd.accesskey"
@@ -882,6 +926,7 @@ msgid "&Forward"
 msgstr ""
 
 #: forwardMsgCmd.key
+msgctxt "forwardMsgCmd.key"
 msgid "l"
 msgstr ""
 
@@ -997,12 +1042,10 @@ msgid "0"
 msgstr ""
 
 #: tagCmd1.key
-msgctxt "tagCmd1.key"
 msgid "1"
 msgstr ""
 
 #: tagCmd2.key
-msgctxt "tagCmd2.key"
 msgid "2"
 msgstr ""
 
@@ -1122,6 +1165,26 @@ msgstr ""
 msgid "o"
 msgstr ""
 
+#: openFeedMessage.label
+#: openFeedMessage.accesskey
+msgid "&Open Feed Message"
+msgstr ""
+
+#: openFeedWebPageInWindow.label
+#: openFeedWebPageInWindow.accesskey
+msgid "&Web Page in New Window"
+msgstr ""
+
+#: openFeedSummaryInWindow.label
+#: openFeedSummaryInWindow.accesskey
+msgid "&Summary in New Window"
+msgstr ""
+
+#: openFeedWebPageInMP.label
+#: openFeedWebPageInMP.accesskey
+msgid "&Toggle Web Page and Summary in Message Pane"
+msgstr ""
+
 #. Windows Menu
 #: windowMenu.label
 msgid "Window"
@@ -1133,44 +1196,28 @@ msgstr ""
 msgid "&Tools"
 msgstr ""
 
-#: addons.label
-#: addons.accesskey
-msgid "A&dd-ons"
-msgstr ""
-
 #: messengerCmd.label
 #: messengerCmd.accesskey
-msgid "&Mail &amp; Newsgroups"
-msgstr ""
-
-#: messengerCmd.commandkey
-msgctxt "messengerCmd.commandkey"
-msgid "1"
+msgid "Mail &amp; &Newsgroups"
 msgstr ""
 
 #: addressBookCmd.label
 #: addressBookCmd.accesskey
-msgid "&Address Book"
+msgid "Address &Book"
 msgstr ""
 
-#: addressBookCmd.commandkey
-msgctxt "addressBookCmd.commandkey"
-msgid "2"
+#: addressBookCmd.key
+msgid "B"
 msgstr ""
 
-#: runJunkControls.label
-#: runJunkControls.accesskey
-msgid "R&un Junk Mail Controls on Folder"
+#: addons.label
+#: addons.accesskey
+msgid "&Add-ons"
 msgstr ""
 
-#: deleteJunk.label
-#: deleteJunk.accesskey
-msgid "De&lete Mail Marked as Junk in Folder"
-msgstr ""
-
-#: errorConsoleCmd.label
-#: errorConsoleCmd.accesskey
-msgid "Error Co&nsole"
+#: activitymanager.label
+#: activitymanager.accesskey
+msgid "Acti&vity Manager"
 msgstr ""
 
 #: filtersCmd.label
@@ -1185,12 +1232,43 @@ msgstr ""
 
 #: filtersApplyToSelection.label
 #: filtersApplyToSelection.accesskey
-msgid "Run Filters on &Selected Messages"
+msgid "R&un Filters on Selected Messages"
 msgstr ""
 
 #: filtersApplyToMessage.label
 #: filtersApplyToMessage.accesskey
-msgid "Run Filter&s on Message"
+msgid "R&un Filters on Message"
+msgstr ""
+
+#: runJunkControls.label
+#: runJunkControls.accesskey
+msgid "Run Junk Mail &Controls on Folder"
+msgstr ""
+
+#: deleteJunk.label
+#: deleteJunk.accesskey
+msgid "&Delete Mail Marked as Junk in Folder"
+msgstr ""
+
+#: importCmd.label
+#: importCmd.accesskey
+msgid "I&mport…"
+msgstr ""
+
+#: errorConsoleCmd.label
+#: errorConsoleCmd.accesskey
+msgid "&Error Console"
+msgstr ""
+
+#: accountManagerCmd.label
+#: accountManagerCmd.accesskey
+msgid "Account &Settings…"
+msgstr ""
+
+#. belongs to accountManagerCmd.label,
+#. which is placed under the Edit menu on Unix systems
+#: accountManagerCmdUnix.accesskey
+msgid "A"
 msgstr ""
 
 #. Mail Toolbar
@@ -1210,6 +1288,10 @@ msgstr ""
 msgid "Reply All"
 msgstr ""
 
+#: replyListButton.label
+msgid "Reply to List"
+msgstr ""
+
 #: forwardButton.label
 msgctxt "forwardButton.label"
 msgid "Forward"
@@ -1217,6 +1299,10 @@ msgstr ""
 
 #: fileButton.label
 msgid "File"
+msgstr ""
+
+#: archiveButton.label
+msgid "Archive"
 msgstr ""
 
 #: nextButton.label
@@ -1273,6 +1359,10 @@ msgstr ""
 msgid "Address Book"
 msgstr ""
 
+#: glodaSearch.title
+msgid "Global Search"
+msgstr ""
+
 #: searchItem.title
 msgid "Quick Search"
 msgstr ""
@@ -1325,12 +1415,20 @@ msgstr ""
 msgid "Reply to sender and all recipients"
 msgstr ""
 
+#: replyListButton.tooltip
+msgid "Reply to mailing list"
+msgstr ""
+
 #: forwardButton.tooltip
 msgid "Forward selected message"
 msgstr ""
 
 #: fileButton.tooltip
 msgid "File selected message"
+msgstr ""
+
+#: archiveButton.tooltip
+msgid "Archive selected messages"
 msgstr ""
 
 #: nextButton.tooltip
@@ -1491,7 +1589,6 @@ msgstr ""
 
 #: folderContextFavoriteFolder.label
 #: folderContextFavoriteFolder.accesskey
-msgctxt "folderContextFavoriteFolder.label folderContextFavoriteFolder.accesskey"
 msgid "F&avorite Folder"
 msgstr ""
 
@@ -1504,6 +1601,11 @@ msgstr ""
 #: SearchNameOrEmail.label
 #: SearchNameOrEmail.accesskey
 msgid "&Name or Email contains:"
+msgstr ""
+
+#. Gloda Search Bar
+#: glodaSearchBar.emptyText
+msgid "Search messages…"
 msgstr ""
 
 #. Quick Search Menu Bar
@@ -1715,6 +1817,11 @@ msgstr ""
 msgid "&Edit As New…"
 msgstr ""
 
+#: contextArchive.label
+#: contextArchive.accesskey
+msgid "Arc&hive"
+msgstr ""
+
 #: contextReplySender.label
 #: contextReplySender.accesskey
 msgctxt "contextReplySender.label contextReplySender.accesskey"
@@ -1730,6 +1837,12 @@ msgstr ""
 #: contextReplyAll.label
 #: contextReplyAll.accesskey
 msgid "Reply to &All"
+msgstr ""
+
+#: contextReplyList.label
+#: contextReplyList.accesskey
+msgctxt "contextReplyList.label contextReplyList.accesskey"
+msgid "Reply to &List"
 msgstr ""
 
 #: contextForward.label
@@ -1778,6 +1891,27 @@ msgctxt "contextPrintPreview.label contextPrintPreview.accesskey"
 msgid "Print Pre&view"
 msgstr ""
 
+#. Media (video/audio) controls
+#: contextPlay.label
+#: contextPlay.accesskey
+msgid "&Play"
+msgstr ""
+
+#: contextPause.label
+#: contextPause.accesskey
+msgid "&Pause"
+msgstr ""
+
+#: contextMute.label
+#: contextMute.accesskey
+msgid "&Mute"
+msgstr ""
+
+#: contextUnmute.label
+#: contextUnmute.accesskey
+msgid "Un&mute"
+msgstr ""
+
 #. Junk Bar
 #: junkBarMessage1.label
 msgid "Junk Mail"
@@ -1793,12 +1927,14 @@ msgid "?"
 msgstr ""
 
 #. Remote Content Bar
-#: remoteContentMessage1.label
-msgid "To protect your privacy, remote images have been blocked."
+#: remoteContentMessage2.label
+msgid ""
+"To protect your privacy, &brandShortName; has blocked remote content in this "
+"message."
 msgstr ""
 
-#: loadRemoteContentButton2.label
-msgid "Display Images Now"
+#: loadRemoteContentButton3.label
+msgid "Show Remote Content"
 msgstr ""
 
 #. Phishing Bar
@@ -1825,6 +1961,10 @@ msgctxt "quickSearchCmd.key"
 msgid "k"
 msgstr ""
 
+#: searchAllMessages.label
+msgid "Search all messages"
+msgstr ""
+
 #. Message Header Context Menu
 #: AddToAddressBook.label
 #: AddToAddressBook.accesskey
@@ -1846,14 +1986,29 @@ msgstr ""
 msgid "&View Contact"
 msgstr ""
 
-#: SendMailTo.label
-#: SendMailTo.accesskey
-msgid "Compo&se Mail To"
+#: SubscribeToNewsgroup.label
+#: SubscribeToNewsgroup.accesskey
+msgid "Subscribe to &Newsgroup"
+msgstr ""
+
+#: SendMessageTo.label
+#: SendMessageTo.accesskey
+msgid "Compo&se Message To"
 msgstr ""
 
 #: CopyEmailAddress.label
 #: CopyEmailAddress.accesskey
 msgid "&Copy Email Address"
+msgstr ""
+
+#: CopyNewsgroupName.label
+#: CopyNewsgroupName.accesskey
+msgid "&Copy Newsgroup Name"
+msgstr ""
+
+#: CopyNewsgroupURL.label
+#: CopyNewsgroupURL.accesskey
+msgid "Copy Newsgroup &URL"
 msgstr ""
 
 #: CreateFilterFrom.label
@@ -1877,9 +2032,19 @@ msgstr ""
 msgid "Sa&ve Image As…"
 msgstr ""
 
+#: cutCmd.label
+#: cutCmd.accesskey
+msgid "C&ut"
+msgstr ""
+
 #: copyCmd.label
 #: copyCmd.accesskey
 msgid "&Copy"
+msgstr ""
+
+#: pasteCmd.label
+#: pasteCmd.accesskey
+msgid "&Paste"
 msgstr ""
 
 #: selectAllCmd.label
@@ -1894,12 +2059,32 @@ msgstr ""
 
 #: copyImageCmd.label
 #: copyImageCmd.accesskey
-msgid "C&opy Image Location"
+msgid "Copy &Image Location"
 msgstr ""
 
 #: copyEmailCmd.label
 #: copyEmailCmd.accesskey
 msgid "Copy &Email Address"
+msgstr ""
+
+#: stopCmd.label
+#: stopCmd.accesskey
+msgid "&Stop"
+msgstr ""
+
+#: reloadCmd.label
+#: reloadCmd.accesskey
+msgid "&Reload"
+msgstr ""
+
+#: openInBrowser.label
+#: openInBrowser.accesskey
+msgid "&Open In Browser"
+msgstr ""
+
+#: openLinkInBrowser.label
+#: openLinkInBrowser.accesskey
+msgid "&Open Link In Browser"
 msgstr ""
 
 #. Statusbar

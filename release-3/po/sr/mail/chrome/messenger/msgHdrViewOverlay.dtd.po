@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 04:24-0800\n"
+"POT-Creation-Date: 2009-10-10 19:12-0700\n"
+"PO-Revision-Date: 2009-10-10 19:14-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. ***** BEGIN LICENSE BLOCK *****
@@ -114,25 +114,114 @@ msgstr "Ово је нацрт поруке"
 msgid "Edit…"
 msgstr "Уреди…"
 
+#: hdrArchiveButton.label
+#: archiveButton.label
+msgid "archive"
+msgstr "архивирај"
+
+#: hdrArchiveButton.tooltip
+msgid "archive this message"
+msgstr "архивирај ову поруку"
+
+#: hdrReplyButton.label
 #: replyButton.label
-msgid "reply…"
-msgstr "одговори…"
+msgid "reply"
+msgstr "одговор"
 
+#: hdrReplyButton.tooltip
+msgid "reply to this message"
+msgstr "одговор на ову поруку"
+
+#: hdrReplyAllButton.label
+msgid "reply all"
+msgstr "одговор свима"
+
+#: hdrReplyAllButton.tooltip
+msgid "reply to sender and all recipients"
+msgstr "одговор пошиљаоцу и свим примаоцима"
+
+#: hdrReplyListButton.label
+msgid "reply list"
+msgstr "одговор на листу"
+
+#: hdrReplyListButton.tooltip
+msgid "reply to mailing list"
+msgstr "одговор на дописну листу"
+
+#: hdrForwardButton.label
 #: forwardButton.label
-msgid "forward…"
-msgstr "проследи…"
+msgid "forward"
+msgstr "проследи"
 
-#: junkButton.label
-msgid "mark as junk"
-msgstr "означи као непожељно"
+#: hdrForwardButton.tooltip
+msgid "forward this message"
+msgstr "прослеђивање ове поруке"
 
+#: hdrJunkButton.label
+msgid "junk"
+msgstr "нежељено"
+
+#: hdrJunkButton.tooltip
+msgid "mark this message as junk"
+msgstr "означава поруку као непожељну"
+
+#: hdrTrashButton.label
 #: trashButton.tooltiptext
 msgid "delete"
 msgstr "уклони"
 
+#: hdrTrashButton.tooltip
+msgid "delete this message"
+msgstr "уклања ову поруку"
+
+#: hdrViewToolbarShowFull.label
+#: hdrViewToolbarShowFull.accesskey
+msgid "Show Icons &and Text"
+msgstr "Покажи &слике и текст"
+
+#: hdrViewToolbarShowIcons.label
+#: hdrViewToolbarShowIcons.accesskey
+msgid "Show &Icons Only"
+msgstr "Покажи само с&лике"
+
+#: hdrViewToolbarShowText.label
+#: hdrViewToolbarShowText.accesskey
+msgid "Show &Text Only"
+msgstr "Покажи само &текст"
+
+#: hdrViewToolbarAlwaysReplySender.label
+#: hdrViewToolbarAlwaysReplySender.accesskey
+msgid "Always Show &Reply to Sender"
+msgstr "Увек приказуј дугме за &одговор пошиљаоцу"
+
 #: otherActionsButton.label
 msgid "other actions"
 msgstr "друга дејства"
+
+#: otherActionsShowConversation.label
+#: otherActionsShowConversation.accesskey
+msgid "show in &conversation"
+msgstr "прикажи у &разговорима"
+
+#: otherActionsOpenInNewWindow.label
+#: otherActionsOpenInNewWindow.accesskey
+msgid "open in ne&w window"
+msgstr "отвори у &новом прозору"
+
+#: otherActionsOpenInNewTab.label
+#: otherActionsOpenInNewTab.accesskey
+msgid "open in new &tab"
+msgstr "отвори у новом &језичку"
+
+#: markAsReadMenuItem.label
+#: markAsReadMenuItem.accesskey
+msgid "ma&rk as read"
+msgstr "означи као &прочитано"
+
+#: markAsUnreadMenuItem.label
+#: markAsUnreadMenuItem.accesskey
+msgid "ma&rk as unread"
+msgstr "означи као &непрочитано"
 
 #: saveAsMenuItem.label
 #: saveAsMenuItem.accesskey
@@ -141,16 +230,13 @@ msgstr "&сачувај као…"
 
 #: viewSourceMenuItem.label
 #: viewSourceMenuItem.accesskey
-msgid "&view source…"
-msgstr "&преглед кода…"
+msgid "&view source"
+msgstr "&преглед кода"
 
-#: hideDetailsButton.label
-msgid "hide details"
-msgstr "сакриј детаље"
-
-#: showDetailsButton.label
-msgid "show details"
-msgstr "покажи детаље"
+#: otherActionsPrint.label
+#: otherActionsPrint.accesskey
+msgid "&print…"
+msgstr "&штампа…"
 
 #: openAttachmentCmd.label
 #: openAttachmentCmd.accesskey

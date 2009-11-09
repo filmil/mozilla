@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:45-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,12 @@ msgstr ""
 #. # converted from pseudo-properties .it file
 #. # This file is in the UTF-8 encoding
 #. # section: [Strings]
-#: Title
-msgid "Software Update"
+#: TitleText
+msgid "%MOZ_APP_DISPLAYNAME% Update"
 msgstr ""
 
-#: Info
-msgid "Thunderbird is installing your updates and will start in a few moments…"
+#: InfoText
+msgid ""
+"%MOZ_APP_DISPLAYNAME% is installing your updates and will start in a few "
+"moments…"
 msgstr ""

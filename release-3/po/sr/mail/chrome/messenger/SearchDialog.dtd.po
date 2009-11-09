@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2009-10-10 13:55-0700\n"
+"PO-Revision-Date: 2009-10-10 13:56-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 # for SearchDialog.xul
@@ -24,6 +24,11 @@ msgstr "Т&ражи поруке у:"
 #: searchSubfolders.accesskey
 msgid "S&earch subfolders"
 msgstr "Тражи &поддиректоријуме"
+
+#: searchOnServer.label
+#: searchOnServer.accesskey
+msgid "R&un search on server"
+msgstr "&Претрага на серверу"
 
 #: resetButton.label
 #: resetButton.accesskey
@@ -62,10 +67,10 @@ msgstr "&Датотека"
 msgid "W"
 msgstr "З"
 
-#: goToFolderButton.label
-#: goToFolderButton.accesskey
-msgid "Open Message Folde&r"
-msgstr "Отвори дире&кторијум са порукама"
+#: openInFolder.label
+#: openInFolder.accesskey
+msgid "Open in Folde&r"
+msgstr "Отвори у &директоријуму"
 
 #: saveAsVFButton.label
 #: saveAsVFButton.accesskey

@@ -42,7 +42,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-01-18 15:11-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,22 +67,22 @@ msgstr ""
 msgid "%S %S"
 msgstr ""
 
-#: newCardTitle
-msgid "New Card"
+#: newContactTitle
+msgid "New Contact"
 msgstr ""
 
-#. # %S will be the card's display name
-#: newCardTitleWithDisplayName
-msgid "New Card for %S"
+#. # %S will be the contact's display name
+#: newContactTitleWithDisplayName
+msgid "New Contact for %S"
 msgstr ""
 
-#: editCardTitle
-msgid "Edit Card"
+#: editContactTitle
+msgid "Edit Contact"
 msgstr ""
 
-#. # %S will be the card's display name
-#: editCardTitleWithDisplayName
-msgid "Edit Card for %S"
+#. # %S will be the contact's display name
+#: editContactTitleWithDisplayName
+msgid "Edit Contact for %S"
 msgstr ""
 
 #. # don't translate vCard
@@ -112,10 +112,6 @@ msgstr ""
 
 #: incorrectEmailAddressFormatTitle
 msgid "Incorrect Email Address Format"
-msgstr ""
-
-#: viewCardTitle
-msgid "Card for %S"
 msgstr ""
 
 #: viewListTitle
@@ -155,8 +151,9 @@ msgstr ""
 msgid "Are you sure you want to delete the selected mailing list?"
 msgstr ""
 
-#: confirmDeleteListsAndCards
-msgid "Are you sure you want to delete the selected cards and mailing lists?"
+#: confirmDeleteListsAndContacts
+msgid ""
+"Are you sure you want to delete the selected contacts and mailing lists?"
 msgstr ""
 
 #: confirmDeleteMailingLists
@@ -292,10 +289,10 @@ msgid "Mac OS X Address Book"
 msgstr ""
 
 #. # status bar stuff
-#. ## LOCALIZATION NOTE (totalCardStatus): 
-#. ## %1$S is address book name, %2$S is card count
-#: totalCardStatus
-msgid "Total Cards in %1$S: %2$S"
+#. ## LOCALIZATION NOTE (totalContactStatus):
+#. ## %1$S is address book name, %2$S is contact count
+#: totalContactStatus
+msgid "Total contacts in %1$S: %2$S"
 msgstr ""
 
 #. ## LOCALIZATION NOTE (matchesFound):  do not localize %S

@@ -3,23 +3,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 17:37-0800\n"
+"POT-Creation-Date: 2009-10-10 14:27-0700\n"
+"PO-Revision-Date: 2009-10-10 14:33-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #: doNotDownloadPop3Movemail.label
 msgid "To save disk space, do not download:"
 msgstr "Ради уштеде простора на диску, не примај:"
 
+#: doNotDownloadNntp.label
 #: doNotDownload.label
 msgid "To save disk space, do not download for offline use:"
 msgstr "Ради уштеде простора на диску, не примај датотеке за неповезан рад:"
+
+#: doNotDownloadImap.label
+msgid ""
+"To save disk space, downloading messages from the server and keeping local "
+"copies for offline use can be restricted by age or size."
+msgstr "Ради уштеде простора на диску, пријем порука са сервера и чување локалних умножака може се ограничити према старости порука или величини."
 
 #: allFoldersOffline.label
 #: allFoldersOffline.accesskey
@@ -30,6 +37,11 @@ msgstr "Чувај п&оруке за овај налог на овом рачу
 #: offlineNotDownload.accesskey
 msgid "&Messages larger than"
 msgstr "&Поруке веће од"
+
+#: autosyncNotDownload.label
+#: autosyncNotDownload.accesskey
+msgid "Don't download &messages larger than"
+msgstr "Не примај поруке ве&ће од"
 
 #: kb.label
 msgid "KB"
@@ -54,8 +66,25 @@ msgid "M&essages more than"
 msgstr "&Поруке више од"
 
 #: retentionCleanup.label
-msgid "To recover disk space, old messages can be permanently deleted"
-msgstr "Да бисте вратили простор на диску, старе поруке могу се трајно уклонити"
+msgid "To recover disk space, old messages can be permanently deleted."
+msgstr ""
+"Да бисте вратили простор на диску, старе поруке могу се трајно уклонити."
+
+#: retentionCleanupImap.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, both local "
+"copies and originals on the remote server."
+msgstr ""
+"Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, "
+"укључујући и оригинале на удаљеном рачунару."
+
+#: retentionCleanupPop.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, including "
+"originals on the remote server."
+msgstr ""
+"Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, "
+"укључујући оригинале на удаљеном серверу."
 
 #: retentionKeepMsg.label
 #: retentionKeepMsg.accesskey
@@ -67,20 +96,25 @@ msgstr "Уклони поруке &старије од"
 msgid "Do&n't delete any messages"
 msgstr "&Не уклањај поруке"
 
-#: retentionKeepNew.label
-#: retentionKeepNew.accesskey
-msgid "Delete all &but the last"
-msgstr "Уклони све осим пос&ледњих"
+#: retentionKeepRecent.label
+#: retentionKeepRecent.accesskey
+msgid "Delete all &but the most recent"
+msgstr "Уклоните све осим &најновијих"
 
-#: retentionKeepUnread.label
-#: retentionKeepUnread.accesskey
-msgid "Al&ways delete read messages"
-msgstr "Увек уклони про&читане поруке"
+#. LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; }
+#: retentionKeepUnreadHidden.label
+msgid "Always delete read messages (overrides age settings)"
+msgstr "Увек уклони прочитане поруке (преиначује подешавања старости порука)"
 
-#: nntpRemoveBody.label
-#: nntpRemoveBody.accesskey
-msgid "&Only message bodies less than"
-msgstr "Само &тела порука мања од"
+#: retentionApplyToFlagged.label
+#: retentionApplyToFlagged.accesskey
+msgid "Always &keep starred messages"
+msgstr "Увек чувај поруке са &звездом"
+
+#: nntpRemoveMsgBody.label
+#: nntpRemoveMsgBody.accesskey
+msgid "Rem&ove bodies from messages more than"
+msgstr "Уклони &тела порука старијих од"
 
 #: offlineSelectNntp.label
 #: offlineSelectNntp.accesskey
@@ -89,7 +123,7 @@ msgstr "И&заберите групе за неповезан рад..."
 
 #: offlineImapAdvancedOffline.label
 #: offlineImapAdvancedOffline.accesskey
-msgid "&Advanced…"
+msgid "Ad&vanced…"
 msgstr "&Напредно…"
 
 #: syncGroupTitle.label
@@ -99,3 +133,47 @@ msgstr "Синхронизација"
 #: diskspaceGroupTitle.label
 msgid "Disk Space"
 msgstr "Простор на диску"
+
+#. LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+#. The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+#. on a single line within the scope of useAutosync.ByAge as follows:
+#. &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+#: allAutosync.label
+#: allAutosync.accesskey
+msgid "Syn&chronize all messages locally regardless of age"
+msgstr "&Синхронизуј све поруке у локалу, без обзира на старост"
+
+#: ageAutosyncBefore.label
+msgid "Synchronize the most recent"
+msgstr "Синхронизуј само недавне поруке"
+
+#: ageAutosync.accesskey
+msgid "z"
+msgstr "з"
+
+#: ageAutosyncMiddle.label
+msgctxt "ageAutosyncMiddle.label"
+"ageAutosyncMiddle.label"
+msgid ""
+msgstr ""
+
+#: dayAgeInterval.label
+msgid "Days"
+msgstr "дан(а)"
+
+#: weekAgeInterval.label
+msgid "Weeks"
+msgstr "недеља"
+
+#: monthAgeInterval.label
+msgid "Months"
+msgstr "месеци"
+
+#: yearAgeInterval.label
+msgid "Years"
+msgstr "година"
+
+#: ageAutosyncAfter.label
+msgctxt "ageAutosyncAfter.label"
+msgid ""
+msgstr ""

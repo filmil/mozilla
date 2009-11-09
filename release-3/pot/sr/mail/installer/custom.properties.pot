@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:42-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,24 +53,28 @@ msgstr ""
 #. # This file must be saved as UTF8
 #. # Accesskeys are defined by prefixing the letter that is to be used for the
 #. # accesskey with an ampersand (e.g. &).
-#. # Don't replace ${BrandShortName}, $(^Name), or $(^NameDA) with a custom string.
+#. # Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+#. # custom string and always use the same one as used by the en-US files.
+#. # $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+#. # for double ampersand) and prevents the letter following the ampersand from
+#. # being used as an accesskey.
 #. # You can use \n to create a newline in the string but only when the string
 #. # from en-US contains a \n.
 #: REG_APP_DESC
 msgid ""
-"${BrandShortName} is a full-featured email application. ${BrandShortName} "
+"$BrandShortName is a full-featured email application. $BrandShortName "
 "supports IMAP and POP mail protocols, as well as HTML mail formatting. "
 "Built-in junk mail controls, RSS capabilities, powerful quick search, spell "
 "check as you type, global inbox, and advanced message filtering round out "
-"${BrandShortName}'s modern feature set."
+"$BrandShortName's modern feature set."
 msgstr ""
 
 #: CONTEXT_OPTIONS
-msgid "${BrandShortName} &Options"
+msgid "$BrandShortName &Options"
 msgstr ""
 
 #: CONTEXT_SAFE_MODE
-msgid "${BrandShortName} &Safe Mode"
+msgid "$BrandShortName &Safe Mode"
 msgstr ""
 
 #: SAFE_MODE
@@ -83,6 +87,10 @@ msgstr ""
 
 #: OPTIONS_PAGE_SUBTITLE
 msgid "Choose setup options"
+msgstr ""
+
+#: OPTIONS_MAKE_DEFAULT
+msgid "&Use $BrandShortName as my default mail application"
 msgstr ""
 
 #: SHORTCUTS_PAGE_TITLE
@@ -98,11 +106,11 @@ msgid "Summary"
 msgstr ""
 
 #: SUMMARY_PAGE_SUBTITLE
-msgid "Ready to start installing ${BrandShortName}"
+msgid "Ready to start installing $BrandShortName"
 msgstr ""
 
 #: SUMMARY_INSTALLED_TO
-msgid "${BrandShortName} will be installed to the following location:"
+msgid "$BrandShortName will be installed to the following location:"
 msgstr ""
 
 #: SUMMARY_REBOOT_REQUIRED_INSTALL
@@ -114,20 +122,24 @@ msgstr ""
 msgid "A restart of your computer may be required to complete the uninstall."
 msgstr ""
 
+#: SUMMARY_MAKE_DEFAULT
+msgid "$BrandShortName will be set as your default mail application."
+msgstr ""
+
 #: SUMMARY_CLICK
 msgid "Click Install to continue."
 msgstr ""
 
 #: SURVEY_TEXT
-msgid "&Tell us what you thought of ${BrandShortName}"
+msgid "&Tell us what you thought of $BrandShortName"
 msgstr ""
 
 #: LAUNCH_TEXT
-msgid "&Launch $(^Name) now"
+msgid "&Launch $BrandFullName now"
 msgstr ""
 
 #: CREATE_ICONS_DESC
-msgid "Create icons for ${BrandShortName}:"
+msgid "Create icons for $BrandShortName:"
 msgstr ""
 
 #: ICONS_DESKTOP
@@ -151,16 +163,16 @@ msgstr ""
 
 #: WARN_MANUALLY_CLOSE_APP_UNINSTALL
 msgid ""
-"${BrandFullName} must be closed to proceed with the uninstall.\n"
+"$BrandShortName must be closed to proceed with the uninstall.\n"
 "\n"
-"Please close ${BrandFullName} to continue."
+"Please close $BrandShortName to continue."
 msgstr ""
 
 #: WARN_MANUALLY_CLOSE_APP_LAUNCH
 msgid ""
-"${BrandFullName} is already running.\n"
+"$BrandShortName is already running.\n"
 "\n"
-"Please close ${BrandFullName} prior to launching the version you have just "
+"Please close $BrandShortName prior to launching the version you have just "
 "installed."
 msgstr ""
 
@@ -178,22 +190,22 @@ msgid ""
 "Click OK to select a different location."
 msgstr ""
 
-#: WARN_UNSUPPORTED_MSG
+#: WARN_MIN_SUPPORTED_OS_MSG
 msgid ""
-"Sorry, ${BrandShortName} can't be installed. This version of "
-"${BrandShortName} requires ${MinUnsupportedVer} or newer."
+"Sorry, $BrandShortName can't be installed. This version of $BrandShortName "
+"requires ${MinSupportedVer} or newer."
 msgstr ""
 
 #: WARN_RESTART_REQUIRED_UNINSTALL
 msgid ""
 "Your computer must be restarted to complete a previous uninstall of "
-"${BrandShortName}. Do you want to reboot now?"
+"$BrandShortName. Do you want to reboot now?"
 msgstr ""
 
 #: WARN_RESTART_REQUIRED_UPGRADE
 msgid ""
 "Your computer must be restarted to complete a previous upgrade of "
-"${BrandShortName}. Do you want to reboot now?"
+"$BrandShortName. Do you want to reboot now?"
 msgstr ""
 
 #: ERROR_CREATE_DIRECTORY_PREFIX
@@ -227,7 +239,7 @@ msgid "Checking existing installation…"
 msgstr ""
 
 #: STATUS_INSTALL_APP
-msgid "Installing ${BrandShortName}…"
+msgid "Installing $BrandShortName…"
 msgstr ""
 
 #: STATUS_INSTALL_LANG
@@ -235,7 +247,7 @@ msgid "Installing Language Files (${AB_CD})…"
 msgstr ""
 
 #: STATUS_UNINSTALL_MAIN
-msgid "Uninstalling ${BrandShortName}…"
+msgid "Uninstalling $BrandShortName…"
 msgstr ""
 
 #: STATUS_CLEANUP
@@ -250,7 +262,7 @@ msgstr ""
 
 #. # One line
 #: OPTION_STANDARD_DESC
-msgid "${BrandShortName} will be installed with the most common options."
+msgid "$BrandShortName will be installed with the most common options."
 msgstr ""
 
 #: OPTION_STANDARD_RADIO

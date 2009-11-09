@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-10-10 19:10-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 #. LOCALIZATION NOTE messengercompose.dtd Main UI for message composition
@@ -43,9 +43,9 @@ msgstr ""
 msgid "N"
 msgstr ""
 
-#: newCard.label
-#: newCard.accesskey
-msgid "Address Book &Card…"
+#: newContact.label
+#: newContact.accesskey
+msgid "Address Book &Contact…"
 msgstr ""
 
 #: attachMenu.label
@@ -203,6 +203,10 @@ msgctxt "pasteNoFormattingCmd.key"
 msgid "V"
 msgstr ""
 
+#: pasteAsQuotationCmd.key
+msgid "o"
+msgstr ""
+
 #: editRewrapCmd.label
 #: editRewrapCmd.accesskey
 msgid "Re&wrap"
@@ -279,7 +283,8 @@ msgid "&Toolbars"
 msgstr ""
 
 #: showCompositionToolbarCmd.label
-msgid "Composition Toolbar"
+#: showCompositionToolbarCmd.accesskey
+msgid "C&omposition Toolbar"
 msgstr ""
 
 #: showFormattingBarCmd.label
@@ -314,16 +319,16 @@ msgstr ""
 msgid "O&ptions"
 msgstr ""
 
-#: checkSpellingCmd.label
-#: checkSpellingCmd.accesskey
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
 msgid "C&heck Spelling…"
 msgstr ""
 
-#: checkSpellingCmd.key
-msgid "K"
+#: checkSpellingCmd2.key
+msgid "p"
 msgstr ""
 
-#: checkSpellingCmd.key2
+#: checkSpellingCmd2.key2
 msgid "VK_F7"
 msgstr ""
 
@@ -441,8 +446,8 @@ msgstr ""
 msgid "&Address Book"
 msgstr ""
 
-#: addressBookCmd.commandkey
-msgid "2"
+#: addressBookCmd.key
+msgid "B"
 msgstr ""
 
 #: accountManagerCmd.label
@@ -510,10 +515,6 @@ msgstr ""
 
 #: saveButton.label
 msgid "Save"
-msgstr ""
-
-#: throbberItem.title
-msgid "Activity Indicator"
 msgstr ""
 
 #. Mail Toolbar Tooltips
@@ -715,6 +716,11 @@ msgstr ""
 #: delete.accesskey
 msgctxt "delete.label delete.accesskey"
 msgid "&Delete"
+msgstr ""
+
+#: removeAttachment.label
+#: removeAttachment.accesskey
+msgid "Re&move Attachment"
 msgstr ""
 
 #: renameAttachment.label

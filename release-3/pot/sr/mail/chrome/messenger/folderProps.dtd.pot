@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2009-02-16 23:21-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,7 +100,19 @@ msgid "messages"
 msgstr ""
 
 #: retentionCleanup.label
-msgid "To recover disk space, old messages can be permanently deleted"
+msgid "To recover disk space, old messages can be permanently deleted."
+msgstr ""
+
+#: retentionCleanupImap.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, both local "
+"copies and originals on the remote server."
+msgstr ""
+
+#: retentionCleanupPop.label
+msgid ""
+"To recover disk space, old messages can be permanently deleted, including "
+"originals on the remote server."
 msgstr ""
 
 #: retentionDeleteMsg.label
@@ -121,6 +133,11 @@ msgstr ""
 #: retentionKeepUnread.label
 #: retentionKeepUnread.accesskey
 msgid "Always delete &read messages"
+msgstr ""
+
+#: retentionApplyToFlagged.label
+#: retentionApplyToFlagged.accesskey
+msgid "Always k&eep starred messages"
 msgstr ""
 
 #: folderOfflineTab.label

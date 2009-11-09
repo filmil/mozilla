@@ -1,10 +1,11 @@
+
 #. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-server-top.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-03-29 03:09+0100\n"
+"POT-Creation-Date: 2009-02-16 23:18-0700\n"
+"PO-Revision-Date: 2009-02-16 23:21-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -47,10 +48,6 @@ msgstr "&Порт:"
 msgid "Default:"
 msgstr "Изворно:"
 
-#: savePassword.label
-msgid "Save password"
-msgstr "Сачувај лозинку"
-
 # For example, in Japanese cases:
 # biffStart.label "every"
 # biffEnd.label   "minutes for new messages Check"
@@ -64,7 +61,6 @@ msgstr "Сачувај лозинку"
 #. biffEnd.label   "minutes for new messages Check"
 #: biffStart.label
 #: biffStart.accesskey
-#, fuzzy
 msgid ""
 "_: translate below 2 line with grammer dependency\n"
 "Check for new messages ever&y "
@@ -74,29 +70,26 @@ msgstr "&Провера нових порука сваких"
 msgid "minutes"
 msgstr "мин"
 
-#: socketType.label
-msgid "Use secure connection:"
-msgstr "Користи безбедну везу:"
+#: connectionSecurity.label
+#: connectionSecurity.accesskey
+msgid "Connection sec&urity:"
+msgstr "&Безбедност везе:"
 
-#: neverSecure.label
-#: neverSecure.accesskey
-msgid "&Never"
-msgstr "&Никада"
+#: connectionSecurityType-0.label
+msgid "None"
+msgstr "Искључена"
 
-#: sometimesSecure.label
-#: sometimesSecure.accesskey
-msgid "TLS, if &available"
-msgstr "ТЛС ако је &доступан"
+#: connectionSecurityType-1.label
+msgid "STARTTLS, if available"
+msgstr "STARTTLS, ако је доступна"
 
-#: alwaysSecure.label
-#: alwaysSecure.accesskey
-msgid "&TLS"
-msgstr "&ТЛС"
+#: connectionSecurityType-2.label
+msgid "STARTTLS"
+msgstr "STARTTLS"
 
-#: alwaysSSL.label
-#: alwaysSSL.accesskey
-msgid "SS&L"
-msgstr "СС&Л"
+#: connectionSecurityType-3.label
+msgid "SSL/TLS"
+msgstr "ССЛ/ТЛС"
 
 #: useSecAuth.label
 #: useSecAuth.accesskey
@@ -138,27 +131,23 @@ msgstr "Корисничко име"
 
 #: deleteMessagePrefix.label
 #: deleteMessagePrefix.accesskey
-#, fuzzy
 msgid "When I delete a message:"
-msgstr "&Када обришем поруку:"
+msgstr "Када обришем поруку:"
 
 #: modelMoveToTrash.label
 #: modelMoveToTrash.accesskey
-#, fuzzy
 msgid "M&ove it to this folder:"
-msgstr "Премести је у Смеће"
+msgstr "&Премести је у смеће"
 
 #: modelMarkDeleted.label
 #: modelMarkDeleted.accesskey
-#, fuzzy
 msgid "Just mar&k it as deleted"
-msgstr "Означи да је обрисана"
+msgstr "Озна&чи да је обрисана"
 
 #: modelDeleteImmediately.label
 #: modelDeleteImmediately.accesskey
-#, fuzzy
 msgid "Remove it imme&diately"
-msgstr "Одмах је уклони"
+msgstr "О&дмах је уклони"
 
 #. do not translate two of "&quot;" in below line
 #: expungeOnExit.label
@@ -208,15 +197,13 @@ msgstr "&Увек тражи аутентикацију при повезива�
 
 #: newsrcFilePath.label
 #: newsrcFilePath.accesskey
-#, fuzzy
 msgid "newsrc file:"
-msgstr "newsrc &датотека:"
+msgstr "newsrc датотека:"
 
 #: localPath.label
 #: localPath.accesskey
-#, fuzzy
 msgid "Local directory:"
-msgstr "&Локални директоријум:"
+msgstr "Локални директоријум:"
 
 #: abbreviate.label
 msgid "Show newsgroup names in the Mail Folder pane as:"
@@ -232,9 +219,8 @@ msgstr "Скраћена имена (на пример: „n.p.m.mail-news“)"
 
 #: advancedButton.label
 #: advancedButton.accesskey
-#, fuzzy
 msgid "Ad&vanced…"
-msgstr "&Напредно..."
+msgstr "&Напредно…"
 
 #: serverDefaultCharset.label
 msgid "Default Character Encoding:"
@@ -246,9 +232,8 @@ msgstr "Избор локалног директоријума"
 
 #: browseFolder.label
 #: browseFolder.accesskey
-#, fuzzy
 msgid "&Browse…"
-msgstr "&Преглед..."
+msgstr "&Преглед…"
 
 #: newsrcPicker.label
 msgid "Select newsrc File"
@@ -258,4 +243,4 @@ msgstr "Избор newsrc датотеке"
 #: browseNewsrc.accesskey
 #, fuzzy
 msgid "Brows&e…"
-msgstr "Пре&глед..."
+msgstr "Пре&глед…"

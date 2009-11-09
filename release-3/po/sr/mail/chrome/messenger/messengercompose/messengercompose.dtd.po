@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-13 04:12-0800\n"
+"POT-Creation-Date: 2009-10-10 19:10-0700\n"
+"PO-Revision-Date: 2009-10-10 19:11-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
 "X-Accelerator-Marker: &\n"
 
 # LOCALIZATION NOTE messengercompose.dtd Main UI for message composition
@@ -45,10 +45,10 @@ msgstr "M"
 msgid "N"
 msgstr "N"
 
-#: newCard.label
-#: newCard.accesskey
-msgid "Address Book &Card…"
-msgstr "&Картица из адресара…"
+#: newContact.label
+#: newContact.accesskey
+msgid "Address Book &Contact…"
+msgstr "Контакт из &адресара…"
 
 #: attachMenu.label
 #: attachMenu.accesskey
@@ -89,6 +89,7 @@ msgid "&Save"
 msgstr "&Сачувај"
 
 #: saveCmd.key
+#: accountManagerCmdUnix.accesskey
 msgctxt "saveCmd.key"
 msgid "S"
 msgstr "S"
@@ -119,6 +120,7 @@ msgid "Sen&d Now"
 msgstr "&Шаљи одмах"
 
 #: sendCmd.keycode
+#: sendLaterCmd.keycode
 msgctxt "sendCmd.keycode"
 msgid "VK_RETURN"
 msgstr "VK_RETURN"
@@ -157,6 +159,8 @@ msgstr "&Уреди"
 
 #: undoCmd.label
 #: undoCmd.accesskey
+#: undo.label
+#: undo.accesskey
 msgctxt "undoCmd.label undoCmd.accesskey"
 msgid "&Undo"
 msgstr "&Опозови"
@@ -176,9 +180,11 @@ msgstr "Y"
 
 #: cutCmd.label
 #: cutCmd.accesskey
+#: cut.label
+#: cut.accesskey
 msgctxt "cutCmd.label cutCmd.accesskey"
 msgid "Cu&t"
-msgstr "&Исеци"
+msgstr "И&сеци"
 
 #: cutCmd.key
 msgid "X"
@@ -186,9 +192,11 @@ msgstr "X"
 
 #: copyCmd.label
 #: copyCmd.accesskey
+#: copy.label
+#: copy.accesskey
 msgctxt "copyCmd.label copyCmd.accesskey"
 msgid "&Copy"
-msgstr "&Умножи"
+msgstr "Умн&ожи"
 
 #: copyCmd.key
 msgid "C"
@@ -196,9 +204,11 @@ msgstr "C"
 
 #: pasteCmd.label
 #: pasteCmd.accesskey
+#: paste.label
+#: paste.accesskey
 msgctxt "pasteCmd.label pasteCmd.accesskey"
 msgid "&Paste"
-msgstr "&Налепи"
+msgstr "У&баци"
 
 #: pasteCmd.key
 msgctxt "pasteCmd.key"
@@ -209,6 +219,10 @@ msgstr "V"
 msgctxt "pasteNoFormattingCmd.key"
 msgid "V"
 msgstr "V"
+
+#: pasteAsQuotationCmd.key
+msgid "o"
+msgstr "o"
 
 #: editRewrapCmd.label
 #: editRewrapCmd.accesskey
@@ -221,12 +235,16 @@ msgstr "R"
 
 #: deleteCmd.label
 #: deleteCmd.accesskey
+#: delete.label
+#: delete.accesskey
 msgctxt "deleteCmd.label deleteCmd.accesskey"
 msgid "&Delete"
-msgstr "У&клони"
+msgstr "&Уклони"
 
 #: selectAllCmd.label
 #: selectAllCmd.accesskey
+#: selectAll.label
+#: selectAll.accesskey
 msgctxt "selectAllCmd.label selectAllCmd.accesskey"
 msgid "Select &All"
 msgstr "Изабери &све"
@@ -250,11 +268,13 @@ msgid "Find A&gain"
 msgstr "На&ђи поново"
 
 #: findAgainCmd.key
+#: findPrevCmd.key
 msgctxt "findAgainCmd.key"
 msgid "G"
 msgstr "G"
 
 #: findAgainCmd.key2
+#: findPrevCmd.key2
 msgctxt "findAgainCmd.key2"
 msgid "VK_F3"
 msgstr "VK_F3"
@@ -289,8 +309,9 @@ msgid "&Toolbars"
 msgstr "&Алатне траке"
 
 #: showCompositionToolbarCmd.label
-msgid "Composition Toolbar"
-msgstr "Алатна трака за писање"
+#: showCompositionToolbarCmd.accesskey
+msgid "C&omposition Toolbar"
+msgstr "Трака за &писање"
 
 #: showFormattingBarCmd.label
 #: showFormattingBarCmd.accesskey
@@ -326,15 +347,18 @@ msgstr "&Формат"
 msgid "O&ptions"
 msgstr "&Опције"
 
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
 #: checkSpellingCmd.label
 #: checkSpellingCmd.accesskey
 msgid "C&heck Spelling…"
 msgstr "&Провера правописа…"
 
-#: checkSpellingCmd.key
-msgid "K"
-msgstr "K"
+#: checkSpellingCmd2.key
+msgid "p"
+msgstr "p"
 
+#: checkSpellingCmd2.key2
 #: checkSpellingCmd.key2
 msgid "VK_F7"
 msgstr "VK_F7"
@@ -455,9 +479,9 @@ msgstr "1"
 msgid "&Address Book"
 msgstr "&Адресар"
 
-#: addressBookCmd.commandkey
-msgid "2"
-msgstr "2"
+#: addressBookCmd.key
+msgid "B"
+msgstr "B"
 
 #: accountManagerCmd.label
 #: accountManagerCmd.accesskey
@@ -512,7 +536,10 @@ msgstr "Шаљи"
 msgid "Quote"
 msgstr "Цитирај"
 
+# Title for the address picker panel
+#. Title for the address picker panel
 #: addressButton.label
+#: addressesSidebarTitle.label
 msgctxt "addressButton.label"
 msgid "Contacts"
 msgstr "Контакти"
@@ -528,10 +555,6 @@ msgstr "Правопис"
 #: saveButton.label
 msgid "Save"
 msgstr "Сачувај"
-
-#: throbberItem.title
-msgid "Activity Indicator"
-msgstr "Показивач активности"
 
 # Mail Toolbar Tooltips
 #. Mail Toolbar Tooltips
@@ -748,6 +771,11 @@ msgstr "&Отвори"
 msgctxt "delete.label delete.accesskey"
 msgid "&Delete"
 msgstr "&Уклони"
+
+#: removeAttachment.label
+#: removeAttachment.accesskey
+msgid "Re&move Attachment"
+msgstr "&Уклони прилог"
 
 #: renameAttachment.label
 #: renameAttachment.accesskey

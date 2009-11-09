@@ -39,8 +39,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:41-0700\n"
-"PO-Revision-Date: 2008-12-12 20:18-0800\n"
+"POT-Creation-Date: 2009-02-16 23:26-0700\n"
+"PO-Revision-Date: 2009-02-16 23:27-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -534,11 +534,19 @@ msgstr "Произвољно 4"
 # # @name IMPORT_FIELD_DESC_END
 # # @loc None
 #. # Description: Address book field name
-#. ## @name IMPORT_FIELD_DESC_END
+#. ## @name IMPORT_FIELD_DESC
 #. ## @loc None
+#. ## @name IMPORT_FIELD_DESC_END
 #: 2135
 msgid "Notes"
 msgstr "Белешке"
+
+#. # Description: Address book field name
+#. ## @name IMPORT_FIELD_DESC_END
+#. ## @loc None
+#: 2136
+msgid "Screen Name"
+msgstr "Екранско име"
 
 # Error strings
 #. #Error strings
