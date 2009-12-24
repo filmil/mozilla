@@ -19,12 +19,21 @@ XARGS:=xargs
 POFILTER:=pofilter -t unchanged
 CPLOC:=compare-locales
 
-# # Directory configuration
+###
+### Directory configurations
+###
+
+### The locale name to use
 LOCALE_NAME:=sr
+
+### The directory in which we keep all the Mozilla repositories for this
+### branch
 L10N_BASE_DIR:=/home/filip/personal/l10n/mozilla/ff-3.2
+
 OUTPUT_DIR:=output
 MERGE_DIR:=merge
 SCRIPTS_DIR:=scripts
+
 PO_TRANSLATIONS:=po/$(LOCALE_NAME)
 MOZILLA_SOURCE_DIR:=$(L10N_BASE_DIR)/comm-central
 MOZILLA_BROWSER_L10N_INI:=$(MOZILLA_SOURCE_DIR)/mozilla/browser/locales/l10n.ini
@@ -34,7 +43,11 @@ MOZILLA_CVS:=$(L10N_BASE_DIR)/l10n
 OUTPUT_DIR_FINAL:=$(OUTPUT_DIR)/$(LOCALE_NAME)
 MERGED_PO_OUTPUT_DIR:=$(MERGE_DIR)/$(LOCALE_NAME)
 SOURCE_DIR:=$(TEMPLATE_DIR)/en-US
+
+# This is the same as PO_TRANSLATIONS above
 PO_SOURCE_DIR:=po/$(LOCALE_NAME)
+
+# The directory storing 
 POT_DIR:=pot/$(LOCALE_NAME)
 STATS_DIR:=tools/stats
 ZIPNAME:=$(LOCALE_NAME).zip
