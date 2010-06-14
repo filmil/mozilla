@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:45-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#. # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
+#. # your locale code, and link to your translated pages as soon as they're 
+#. # live.
+#. # LOCALIZATION NOTE: Some of these URLs are currently 404s, but should be coming
+#. # online shortly.
+#. # LOCALIZATION NOTE (bookmarks_title):
+#. # title for the folder that will contains the default bookmarks
+#: bookmarks_title
+msgid "Mobile"
+msgstr ""
+
+#. # LOCALIZATION NOTE (bookmarks_welcome):
+#. # link title for about:firstrun
+#: bookmarks_welcome
+msgid "Firefox: Welcome"
+msgstr ""
+
+#. # LOCALIZATION NOTE (bookmarks_aboutBrowser):
+#. # link title for about:fennec
+#: bookmarks_aboutBrowser
+msgid "Firefox: About your browser"
+msgstr ""
+
+#. # LOCALIZATION NOTE (bookmarks_weave):
+#. # link title for https://www.mozilla.com/en-US/mobile/weave
+#: bookmarks_weave
+msgid "Firefox: Synchronize using Weave"
+msgstr ""
+
+#. # LOCALIZATION NOTE (bookmarks_addons):
+#. # link title for https://addons.mozilla.org/en-US/mobile
+#: bookmarks_addons
+msgid "Firefox: Customize with add-ons"
+msgstr ""
+
+#. # LOCALIZATION NOTE (bookmarks_support):
+#. # link title for https://mobile.support.mozilla.com
+#: bookmarks_support
+msgid "Firefox: Support"
+msgstr ""

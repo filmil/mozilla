@@ -1,0 +1,76 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:45-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#. # converted from pseudo-properties .it file
+#. # This file is in the UTF-8 encoding
+#. # section: [Strings]
+#: AppShortName
+msgid "Fennec"
+msgstr ""
+
+#: AppLongName
+msgid "Mozilla Fennec"
+msgstr ""
+
+#: WindowCaption
+msgid "Mozilla Fennec Setup"
+msgstr ""
+
+#: InstallTo
+msgid "Install Fennec to"
+msgstr ""
+
+#: Install
+msgid "Install"
+msgstr ""
+
+#: Cancel
+msgid "Cancel"
+msgstr ""
+
+#: InstalledSuccessfully
+msgid "Mozilla Fennec has been installed successfully."
+msgstr ""
+
+#: ExtractionError
+msgid "Archive extraction error:"
+msgstr ""
+
+#: ThereWereErrors
+msgid "There were errors during installation:"
+msgstr ""
+
+#: CreatingUserProfile
+msgid "Creating user profile. Please wait..."
+msgstr ""
+
+#: UninstallCaption
+msgid "Mozilla Fennec Uninstall"
+msgstr ""
+
+#: FilesWillBeRemoved
+msgid "All files will be removed from"
+msgstr ""
+
+#: AreYouSure
+msgid "Are you sure?"
+msgstr ""
+
+#: InstallationNotFound
+msgid "Mozilla Fennec installation not found."
+msgstr ""
+
+#: UninstalledSuccessfully
+msgid "Mozilla Fennec has been uninstalled successfully."
+msgstr ""
