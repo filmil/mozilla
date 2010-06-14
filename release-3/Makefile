@@ -15,7 +15,7 @@ update_hg:
 	  python client.py checkout )
 
 # Use the Mozilla's source dir to make a template directory.
-template-symlinks: update_hg
+template-symlinks:
 	. scripts/make-locale-links.sh \
 		$(MOZILLA_SOURCE_DIR) \
 		$(TEMPLATE_SYMLINKS_DIR)
