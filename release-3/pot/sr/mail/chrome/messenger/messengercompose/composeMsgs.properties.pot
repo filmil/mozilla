@@ -1,53 +1,16 @@
-#. # ***** BEGIN LICENSE BLOCK *****
-#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#. #
-#. # The contents of this file are subject to the Mozilla Public License Version
-#. # 1.1 (the "License"); you may not use this file except in compliance with
-#. # the License. You may obtain a copy of the License at
-#. # http://www.mozilla.org/MPL/
-#. #
-#. # Software distributed under the License is distributed on an "AS IS" basis,
-#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-#. # for the specific language governing rights and limitations under the
-#. # License.
-#. #
-#. # The Original Code is mozilla.org code.
-#. #
-#. # The Initial Developer of the Original Code is
-#. # Netscape Communications Corporation.
-#. # Portions created by the Initial Developer are Copyright (C) 1998
-#. # the Initial Developer. All Rights Reserved.
-#. #
-#. # Contributor(s):
-#. #
-#. # Alternatively, the contents of this file may be used under the terms of
-#. # either the GNU General Public License Version 2 or later (the "GPL"), or
-#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-#. # in which case the provisions of the GPL or the LGPL are applicable instead
-#. # of those above. If you wish to allow use of your version of this file only
-#. # under the terms of either the GPL or the LGPL, and not to allow others to
-#. # use your version of this file under the terms of the MPL, indicate your
-#. # decision by deleting the provisions above and replace them with the notice
-#. # and other provisions required by the GPL or the LGPL. If you do not delete
-#. # the provisions above, a recipient may use your version of this file under
-#. # the terms of any one of the MPL, the GPL or the LGPL.
-#. #
-#. # ***** END LICENSE BLOCK *****
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messengercompose/composeMsgs.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #. #
 #. # The following are used by the compose back end
@@ -279,21 +242,6 @@ msgid ""
 "to do this?"
 msgstr ""
 
-#. ## @name NS_SMTP_PASSWORD_PROMPT1
-#: 12543
-msgid "Enter your password for %S:"
-msgstr ""
-
-#. ## @name NS_SMTP_PASSWORD_PROMPT2
-#: 12544
-msgid "Enter your password for %S on %S:"
-msgstr ""
-
-#. ## @name NS_SMTP_CONNECTING_TO_SERVER
-#: 12545
-msgid "Connecting to server…"
-msgstr ""
-
 #. ## @name NS_MSG_SENDING_MESSAGE
 #: 12550
 msgid "Sending message…"
@@ -449,11 +397,6 @@ msgid ""
 "was not sent."
 msgstr ""
 
-#. ## @name NS_SMTP_PASSWORD_PROMPT_TITLE
-#: 12585
-msgid "SMTP Server Password Required"
-msgstr ""
-
 #. ## @name NS_ERROR_SMTP_TEMP_SIZE_EXCEEDED
 #: 12586
 msgid ""
@@ -544,26 +487,39 @@ msgstr ""
 msgid "Write:"
 msgstr ""
 
-#. ## String used by the dialog that ask the user to enter a subject
-#: sendMsgTitle
-msgctxt "sendMsgTitle"
-msgid "Send Message"
+#. ## Strings used by the empty subject dialog
+#: subjectEmptyTitle
+msgid "Subject Reminder"
 msgstr ""
 
-#: subjectDlogMessage
-msgid ""
-"You did not specify a subject for this message. If you would like to provide "
-"one, please type it now."
+#: subjectEmptyMessage
+msgid "Your message doesn't have a subject."
 msgstr ""
 
-#. ## String used by the dialog that informs the user about the newsgroup recipient
+#: sendWithEmptySubjectButton
+msgid "&Send Without Subject"
+msgstr ""
+
+#: cancelSendingButton
+msgid "&Cancel Sending"
+msgstr ""
+
+#. ## Strings used by the dialog that informs about lack of newsgroup support.
+#: noNewsgroupSupportTitle
+msgid "Newsgroups Not Supported"
+msgstr ""
+
 #: recipientDlogMessage
 msgid ""
 "This account only supports email recipients. Continuing will ignore "
 "newsgroups."
 msgstr ""
 
-#. #String used by the alert that tells the user an e-mail address is invalid
+#. ## Strings used by the alert that tells the user an e-mail address is invalid.
+#: addressInvalidTitle
+msgid "Invalid Recipient Address"
+msgstr ""
+
 #: addressInvalid
 msgid ""
 "%1$S is not a valid e-mail address because it is not of the form user@host. "
@@ -639,7 +595,6 @@ msgstr ""
 
 #. ## Strings used by prompt for Ctrl-Enter check before sending message
 #: sendMessageCheckWindowTitle
-msgctxt "sendMessageCheckWindowTitle"
 msgid "Send Message"
 msgstr ""
 
@@ -674,4 +629,71 @@ msgstr ""
 
 #: renameAttachmentMessage
 msgid "New attachment name:"
+msgstr ""
+
+#. ## Attachment Reminder
+#. ## LOCALIZATION NOTE (mail.compose.attachment_reminder_keywords): comma separated
+#. ##   words that that should trigger an attachment reminder.
+#: mail.compose.attachment_reminder_keywords
+msgid ".doc,.pdf,attachment,attach,attached,attaching,enclosed,CV,cover letter"
+msgstr ""
+
+#: addAttachmentButton
+msgid "Add Attachment…"
+msgstr ""
+
+#: addAttachmentButton.accessskey
+msgid "A"
+msgstr ""
+
+#: remindLaterButton
+msgid "Remind Me Later"
+msgstr ""
+
+#: remindLaterButton.accessskey
+msgid "R"
+msgstr ""
+
+#: attachmentReminderTitle
+msgid "Attachment Reminder"
+msgstr ""
+
+#: attachmentReminderMsg
+msgid "Did you forget to add an attachment?"
+msgstr ""
+
+#. # LOCALIZATION NOTE (attachmentReminderKeywordsMsgs): Semi-colon list of plural forms.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of keywords
+#: attachmentReminderKeywordsMsgs
+msgid "Found an attachment keyword:;Found #1 attachment keywords:"
+msgstr ""
+
+#: attachmentReminderOptionsMsg
+msgid "Attachment reminder words can be configured in your preferences"
+msgstr ""
+
+#: attachmentReminderYesIForgot
+msgid "Oh, I did!"
+msgstr ""
+
+#: attachmentReminderFalseAlarm
+msgid "No, Send Now"
+msgstr ""
+
+#. ## LOCALIZATION NOTE(smtpEnterPasswordPrompt): Do not translate the
+#. ## word $S. Place the word $S where the host name should appear.
+#: smtpEnterPasswordPrompt
+msgid "Enter your password for %S:"
+msgstr ""
+
+#. ## LOCALIZATION NOTE(smtpEnterPasswordPromptWithUsername): Do not translate the
+#. ## words %1$S and %2$S. Place the word %1$S where the host name should appear,
+#. ## and %2$S where the user name should appear.
+#: smtpEnterPasswordPromptWithUsername
+msgid "Enter your password for %2$S on %1$S:"
+msgstr ""
+
+#: smtpEnterPasswordPromptTitle
+msgid "SMTP Server Password Required"
 msgstr ""

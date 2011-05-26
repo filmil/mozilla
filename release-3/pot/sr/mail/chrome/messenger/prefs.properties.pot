@@ -1,18 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/prefs.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #. # The following are used by the Account Wizard
 #. #
@@ -133,14 +131,14 @@ msgstr ""
 #: defaultEmailText
 msgid ""
 "Enter your email address. This is the address others will use to send email "
-"to you (for example, \"%1$S@%2$S\")."
+"to you (for example, \"%1$S@%2$S\"). "
 msgstr ""
 
 #. #LOCALIZATION NOTE: customizedEmailText: %1$S is provider, %2$S is email username, %3$S is sample email, %4$S is sample username
 #: customizedEmailText
 msgid ""
 "Enter your %1$S %2$S (for example, if your %1$S email address is \"%3$S\", "
-"your %2$S is \"%4$S\")."
+"your %2$S is \"%4$S\"). "
 msgstr ""
 
 #. # account manager stuff
@@ -152,8 +150,8 @@ msgstr ""
 msgid "Copies & Folders"
 msgstr ""
 
-#: prefPanel-syncing-and-diskspace
-msgid "Syncing & Disk Space"
+#: prefPanel-synchronization
+msgid "Synchronization & Storage"
 msgstr ""
 
 #: prefPanel-diskspace

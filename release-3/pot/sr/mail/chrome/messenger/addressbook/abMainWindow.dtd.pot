@@ -1,17 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/addressbook/abMainWindow.dtd
-#, fuzzy
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/addressbook/abMainWindow.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 "X-Accelerator-Marker: &\n"
 
 #: addressbookWindow.title
@@ -29,12 +28,12 @@ msgstr ""
 msgid "&New"
 msgstr ""
 
-#: newCard.label
-#: newCard.accesskey
-msgid "Address Book &Card…"
+#: newContact.label
+#: newContact.accesskey
+msgid "Address Book &Contact…"
 msgstr ""
 
-#: newCard.key
+#: newContact.key
 msgid "N"
 msgstr ""
 
@@ -82,9 +81,9 @@ msgstr ""
 msgid "Page Set&up…"
 msgstr ""
 
-#: printPreviewCardViewCmd.label
-#: printPreviewCardViewCmd.accesskey
-msgid "Print Pre&view Card"
+#: printPreviewContactCmd.label
+#: printPreviewContactCmd.accesskey
+msgid "Print Pre&view Contact"
 msgstr ""
 
 #: printPreviewAddressBook.label
@@ -92,12 +91,12 @@ msgstr ""
 msgid "Print Preview Address &Book"
 msgstr ""
 
-#: printCardViewCmd.label
-#: printCardViewCmd.accesskey
-msgid "&Print Card…"
+#: printContactCmd.label
+#: printContactCmd.accesskey
+msgid "&Print Contact…"
 msgstr ""
 
-#: printCardViewCmd.key
+#: printContactCmd.key
 msgid "P"
 msgstr ""
 
@@ -167,12 +166,12 @@ msgstr ""
 msgid "Delete Address Book"
 msgstr ""
 
-#: deleteCardCmd.label
-msgid "Delete Card"
+#: deleteContactCmd.label
+msgid "Delete Contact"
 msgstr ""
 
-#: deleteCardsCmd2.label
-msgid "Delete Cards"
+#: deleteContactsCmd.label
+msgid "Delete Contacts"
 msgstr ""
 
 #: deleteListCmd.label
@@ -240,9 +239,9 @@ msgstr ""
 msgid "&Customize…"
 msgstr ""
 
-#: showCardPane.label
-#: showCardPane.accesskey
-msgid "&Card Summary Pane"
+#: showContactPane.label
+#: showContactPane.accesskey
+msgid "&Contact Summary Pane"
 msgstr ""
 
 #: menu_ShowNameAs.label
@@ -311,9 +310,9 @@ msgid "Prefere&nces"
 msgstr ""
 
 #. Address Book Toolbar and Context Menus
-#: newcardButton.label
-#: newcardButton.accesskey
-msgid "New &Card"
+#: newContactButton.label
+#: newContactButton.accesskey
+msgid "New &Contact"
 msgstr ""
 
 #: newlistButton.label
@@ -321,8 +320,8 @@ msgstr ""
 msgid "New &List"
 msgstr ""
 
-#: editButton.label
-#: editButton.accesskey
+#: editButton2.label
+#: editButton2.accesskey
 msgid "&Properties"
 msgstr ""
 
@@ -336,27 +335,23 @@ msgstr ""
 msgid "&Instant Message"
 msgstr ""
 
-#: deleteButton.label
-#: deleteButton.accesskey
-msgctxt "deleteButton.label deleteButton.accesskey"
+#: deleteButton2.label
+#: deleteButton2.accesskey
+msgctxt "deleteButton2.label deleteButton2.accesskey"
 msgid "&Delete"
 msgstr ""
 
-#: throbberItem.title
-msgid "Activity Indicator"
-msgstr ""
-
 #. Address Book Toolbar Tooltips
-#: newcardButton.tooltip
-msgid "Create a new address book card"
+#: newContactButton.tooltip
+msgid "Create a new address book contact"
 msgstr ""
 
 #: newlistButton.tooltip
 msgid "Create a new list"
 msgstr ""
 
-#: editButton.tooltip
-msgid "Edit the selected card"
+#: editButton2.tooltip
+msgid "Edit the selected item"
 msgstr ""
 
 #: newmsgButton.tooltip
@@ -367,8 +362,8 @@ msgstr ""
 msgid "Send an instant message or chat"
 msgstr ""
 
-#: deleteButton.tooltip
-msgid "Delete selected card or address book"
+#: deleteButton2.tooltip
+msgid "Delete selected item"
 msgstr ""
 
 #. Dir Tree header
@@ -517,8 +512,8 @@ msgstr ""
 
 #. Status Bar
 #: statusText.label
+msgctxt "statusText.label"
 msgid ""
-"_: statusText.label\n"
 msgstr ""
 
 #. Mac OS X Window Menu

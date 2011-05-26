@@ -1,17 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/addressbook/abCardOverlay.dtd
-#, fuzzy
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/addressbook/abCardOverlay.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 "X-Accelerator-Marker: &\n"
 
 #. ***** BEGIN LICENSE BLOCK *****
@@ -117,18 +116,18 @@ msgstr ""
 msgid "&Screen Name:"
 msgstr ""
 
-#: allowRemoteContent.label
-#: allowRemoteContent.accesskey
-msgid "Allow &remote images."
+#: allowRemoteContent1.label
+#: allowRemoteContent1.accesskey
+msgid "Allow &remote content."
 msgstr ""
 
-#: allowRemoteContent.tooltip
+#: allowRemoteContent1.tooltip
 msgid ""
 "In HTML messages it is possible to \n"
-"embed images from remote sources. Opening such a message will open a \n"
+"embed content from remote sources. Opening such a message will open a \n"
 "connection to this external source. This may allow tracking of the \n"
 "message being read. Checking this box will allow such external embedded \n"
-"images in HTML messages from this contact."
+"content in HTML messages from this contact."
 msgstr ""
 
 #: WorkPhone.label
@@ -138,7 +137,7 @@ msgstr ""
 
 #: HomePhone.label
 #: HomePhone.accesskey
-msgid "H&ome:"
+msgid "Ho&me:"
 msgstr ""
 
 #: FaxNumber.label
@@ -153,7 +152,7 @@ msgstr ""
 
 #: CellularNumber.label
 #: CellularNumber.accesskey
-msgid "&Mobile:"
+msgid "Mo&bile:"
 msgstr ""
 
 #: Home.tab
@@ -171,8 +170,9 @@ msgid "&Address:"
 msgstr ""
 
 #: HomeAddress2.label
+msgctxt "HomeAddress2.label"
+"HomeAddress2.label"
 msgid ""
-"_: HomeAddress2.label\n"
 msgstr ""
 
 #: HomeAddress2.accesskey
@@ -215,6 +215,11 @@ msgstr ""
 msgid "&Birthday:"
 msgstr ""
 
+#: In.label
+msgctxt "In.label"
+msgid ""
+msgstr ""
+
 #: Year.emptytext
 msgid "Year"
 msgstr ""
@@ -225,6 +230,11 @@ msgstr ""
 
 #: Age.emptytext
 msgid "Age"
+msgstr ""
+
+#: YearsOld.label
+msgctxt "YearsOld.label"
+msgid ""
 msgstr ""
 
 #: Work.tab
@@ -247,7 +257,7 @@ msgstr ""
 
 #: Company.label
 #: Company.accesskey
-msgid "&Organization:"
+msgid "Orga&nization:"
 msgstr ""
 
 #: WorkAddress.label
@@ -327,4 +337,49 @@ msgstr ""
 #: Notes.label
 #: Notes.accesskey
 msgid "&Notes:"
+msgstr ""
+
+#: Photo.tab
+msgid "Photo"
+msgstr ""
+
+#: Photo.accesskey
+msgid "o"
+msgstr ""
+
+#: PhotoDesc.label
+msgid "Pick one of the following:"
+msgstr ""
+
+#: GenericPhoto.label
+#: GenericPhoto.accesskey
+msgid "&Generic Photo"
+msgstr ""
+
+#: DefaultPhoto.label
+msgid "Default"
+msgstr ""
+
+#: PhotoFile.label
+#: PhotoFile.accesskey
+msgid "O&n this Computer"
+msgstr ""
+
+#: BrowsePhoto.label
+#: BrowsePhoto.accesskey
+msgid "B&rowse"
+msgstr ""
+
+#: PhotoURL.label
+#: PhotoURL.accesskey
+msgid "On the We&b"
+msgstr ""
+
+#: PhotoURL.emptytext
+msgid "Paste or type the web address of a photo"
+msgstr ""
+
+#: UpdatePhoto.label
+#: UpdatePhoto.accesskey
+msgid "&Update"
 msgstr ""

@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#: encrypted
+msgid "%S (encrypted)"
+msgstr ""
+
+#: close
+msgid "Close"
+msgstr ""
+
+#: hidePasswords
+msgid "Hide Passwords"
+msgstr ""
+
+#: showPasswords
+msgid "Show Passwords"
+msgstr ""
+
+#: noMasterPasswordPrompt
+msgid "Are you sure you wish to show your passwords?"
+msgstr ""
+
+#: removeAllPasswordsPrompt
+msgid "Are you sure you wish to remove all passwords?"
+msgstr ""
+
+#: removeAllPasswordsTitle
+msgid "Remove all passwords"
+msgstr ""
+
+#. # Default user name in the view passwords dialog
+#: noUserNameForPassword
+msgid "<not specified>"
+msgstr ""

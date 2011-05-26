@@ -1,17 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/am-copies.dtd
-#, fuzzy
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/am-copies.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-18 15:10-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 "X-Accelerator-Marker: &\n"
 
 #. extracted from am-copies.xul
@@ -63,20 +62,18 @@ msgstr ""
 
 #: draftInOtherFolder.label
 #: draftInOtherFolder.accesskey
-msgctxt "draftInOtherFolder.label draftInOtherFolder.accesskey"
 msgid "O&ther:"
 msgstr ""
 
 #. OK to translate this, bug #57440
 #: archivesFolderOn.label
 #: archivesFolderOn.accesskey
-msgid "&quot;Archives&quot; Fol&der on:"
+msgid "&quot;Archives&quot; Folder o&n:"
 msgstr ""
 
 #: archiveInOtherFolder.label
 #: archiveInOtherFolder.accesskey
-msgctxt "archiveInOtherFolder.label archiveInOtherFolder.accesskey"
-msgid "O&ther:"
+msgid "Ot&her:"
 msgstr ""
 
 #. OK to translate this, bug #57440

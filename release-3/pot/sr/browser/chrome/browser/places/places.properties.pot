@@ -1,18 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/places/places.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-10 01:45-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #: deleteHost
 msgid "Delete all from %S"
@@ -114,11 +112,11 @@ msgid "Live Bookmark feed failed to load."
 msgstr ""
 
 #: headerTextPrefix1
-msgid "Showing"
+msgid "Showing "
 msgstr ""
 
 #: headerTextPrefix2
-msgid "Search Results for"
+msgid "Search Results for "
 msgstr ""
 
 #: headerTextPrefix3
@@ -209,7 +207,6 @@ msgid "Sort by Location"
 msgstr ""
 
 #: view.sortBy.url.accesskey
-msgctxt "view.sortBy.url.accesskey"
 msgid "L"
 msgstr ""
 
@@ -381,26 +378,4 @@ msgstr ""
 #. # See createResultLabel() in urlbarBindings.xml
 #: bookmarkResultLabel
 msgid "Bookmark"
-msgstr ""
-
-#. # LOCALIZATION NOTE (lockPrompt.text)
-#. # %S will be replaced with the application name.
-#: lockPrompt.title
-msgid "Browser Startup Error"
-msgstr ""
-
-#: lockPrompt.text
-msgid ""
-"The bookmarks and history system will not be functional because one of %S's "
-"files is in use by another application. Some security software can cause "
-"this problem."
-msgstr ""
-
-#: lockPromptInfoButton.label
-msgid "Learn More"
-msgstr ""
-
-#: lockPromptInfoButton.accessKey
-msgctxt "lockPromptInfoButton.accessKey"
-msgid "L"
 msgstr ""

@@ -1,17 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/messenger.dtd
-#, fuzzy
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/messenger.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-10-10 14:58-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.4.0\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 "X-Accelerator-Marker: &\n"
 
 #: messengerWindow.title
@@ -1220,6 +1219,16 @@ msgstr ""
 msgid "Acti&vity Manager"
 msgstr ""
 
+#: savedFiles.label
+#: savedFiles.accesskey
+msgid "Saved Fi&les"
+msgstr ""
+
+#: savedFiles.key
+msgctxt "savedFiles.key"
+msgid "j"
+msgstr ""
+
 #: filtersCmd.label
 #: filtersCmd.accesskey
 msgid "Message &Filters…"
@@ -2057,9 +2066,9 @@ msgstr ""
 msgid "&Copy Link Location"
 msgstr ""
 
-#: copyImageCmd.label
-#: copyImageCmd.accesskey
-msgid "Copy &Image Location"
+#: copyImageAllCmd.label
+#: copyImageAllCmd.accesskey
+msgid "Copy &Image"
 msgstr ""
 
 #: copyEmailCmd.label

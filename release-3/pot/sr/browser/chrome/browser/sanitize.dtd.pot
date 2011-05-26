@@ -1,21 +1,20 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/browser/chrome/browser/sanitize.dtd
-#, fuzzy
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/browser/chrome/browser/sanitize.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-29 14:51-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.3.0\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 "X-Accelerator-Marker: &\n"
 
-#: sanitizePrefs2.title
-msgid "Settings for Clearing History"
+#: sanitizePrefs.title
+msgid "Clear Private Data"
 msgstr ""
 
 #: sanitizeDialog2.title
@@ -32,58 +31,34 @@ msgstr ""
 
 #. XXX rearrange entities to match physical layout when l10n isn't an issue
 #: clearDuration.label
-#: clearDuration.accesskey
-msgid "&Remove "
+msgid "Remove "
 msgstr ""
 
-#. LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
-#. See UI mockup at bug 480169
-#: clearTimeDuration.label
-#: clearTimeDuration.accesskey
-msgid "&Time range to clear: "
+#: clearDuration.lastHour
+msgid "the last hour"
 msgstr ""
 
-#: clearTimeDuration.lastHour
-msgid "Last Hour"
+#: clearDuration.last2Hours
+msgid "the last 2 hours"
 msgstr ""
 
-#: clearTimeDuration.last2Hours
-msgid "Last Two Hours"
+#: clearDuration.last4Hours
+msgid "the last 4 hours"
 msgstr ""
 
-#: clearTimeDuration.last4Hours
-msgid "Last Four Hours"
+#: clearDuration.today
+msgid "my history for today"
 msgstr ""
 
-#: clearTimeDuration.today
-msgid "Today"
+#: clearDuration.everything
+msgid "my entire history"
 msgstr ""
 
-#: clearTimeDuration.everything
-msgid "Everything"
-msgstr ""
-
-#. Localization note (clearTimeDuration.suffix) - trailing entity for languages
+#. Localization note (clearDuration.suffix) - trailing entity for languages
 #. that require it.
-#: clearTimeDuration.suffix
+#: clearDuration.suffix
+msgctxt "clearDuration.suffix"
 msgid ""
-"_: clearTimeDuration.suffix\n"
-msgstr ""
-
-#: clearTimeDuration.dateColumn
-msgid "Visit Date"
-msgstr ""
-
-#: clearTimeDuration.nameColumn
-msgid "Name"
-msgstr ""
-
-#. LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
-#. of the "Details" progressive disclosure button.  See UI mockup at bug
-#. 480169
-#: detailsProgressiveDisclosure.label
-#: detailsProgressiveDisclosure.accesskey
-msgid "D&etails"
 msgstr ""
 
 #: historySection.label
@@ -94,22 +69,14 @@ msgstr ""
 msgid "Data"
 msgstr ""
 
-#. LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-#. itemBrowsingHistory.* will never be used at the same time, so they can
-#. have the same accesskey.
-#: itemHistoryAndDownloads.label
-#: itemHistoryAndDownloads.accesskey
-msgid "&Browsing and Download History"
+#: itemVisitedPages.label
+#: itemVisitedPages.accesskey
+msgid "&Visited Pages"
 msgstr ""
 
-#: itemBrowsingHistory.label
-#: itemBrowsingHistory.accesskey
-msgid "&Browsing History"
-msgstr ""
-
-#: itemFormSearchHistory.label
-#: itemFormSearchHistory.accesskey
-msgid "&Form &amp; Search History"
+#: itemFormSearchEntries.label
+#: itemFormSearchEntries.accesskey
+msgid "&Form &amp; Search Entries"
 msgstr ""
 
 #: itemPasswords.label
@@ -122,9 +89,9 @@ msgstr ""
 msgid "&Cookies"
 msgstr ""
 
-#: itemCache.label
-#: itemCache.accesskey
-msgid "C&ache"
+#: itemWebCache.label
+#: itemWebCache.accesskey
+msgid "&Web Cache"
 msgstr ""
 
 #: itemOfflineApps.label
@@ -132,9 +99,9 @@ msgstr ""
 msgid "&Offline Website Data"
 msgstr ""
 
-#: itemDownloadHistory.label
-#: itemDownloadHistory.accesskey
-msgid "&Download History"
+#: itemDownloadList.label
+#: itemDownloadList.accesskey
+msgid "&Download List"
 msgstr ""
 
 #: itemActiveLogins.label
@@ -142,21 +109,9 @@ msgstr ""
 msgid "Active &Logins"
 msgstr ""
 
-#: itemSitePreferences.label
-#: itemSitePreferences.accesskey
-msgid "&Site Preferences"
-msgstr ""
-
-#. Second warning paragraph
-#. that appears when "Time range to clear" is set to "Everything".  See UI
-#. mockup at bug 480169
-#: sanitizeEverythingUndoWarning
-msgid "This action cannot be undone."
-msgstr ""
-
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
-#: dialog.width
-msgid "32em"
+#: window.width
+msgid "30em"
 msgstr ""
 
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger

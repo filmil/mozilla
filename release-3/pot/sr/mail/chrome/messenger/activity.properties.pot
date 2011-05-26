@@ -1,18 +1,16 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/activity.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-16 15:36-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #. # Status Text
 #: paused2
@@ -57,32 +55,49 @@ msgstr ""
 msgid "#1 #2"
 msgstr ""
 
-#. # Send Message
+#. # LOCALIZATION NOTE (sendingMessages): this is used as a title for grouping processes in the activity manager when sending email.
+#: sendingMessages
+msgid "Sending Messages"
+msgstr ""
+
+#. # LOCALIZATION NOTE (sendingMessageWithSubject): %S will be replaced by the subject of the message being sent.
 #: sendingMessage
 msgid "Sending Message"
 msgstr ""
 
-#. # LOCALIZATION NOTE (sendingMessageTo): %S will be replaced by the first name or newsgroup that the message is being sent to.
-#: sendingMessageTo
-msgid "Sending Message to %S"
+#: sendingMessageWithSubject
+msgid "Sending Message: %S"
+msgstr ""
+
+#: copyMessage
+msgid "Copying message to sent folder"
 msgstr ""
 
 #: sentMessage
 msgid "Sent Message"
 msgstr ""
 
-#. # LOCALIZATION NOTE (sentMessageTo): %S will be replaced by the first name or newsgroup that the message was sent to.
-#: sentMessageTo
-msgid "Sent Message to %S"
+#. # LOCALIZATION NOTE (sentMessageWithSubject): %S will be replaced by the subject of the message being sent.
+#: sentMessageWithSubject
+msgid "Sent Message: %S"
 msgstr ""
 
 #: failedToSendMessage
 msgid "Failed to send message"
 msgstr ""
 
-#. # LOCALIZATION NOTE (failedToSendMessageTo): %S will be replaced by the first name or newsgroup that the message was being sent to.
-#: failedToSendMessageTo
-msgid "Failed to send message to %S"
+#: failedToCopyMessage
+msgid "Failed to copy message"
+msgstr ""
+
+#. # LOCALIZATION NOTE (failedToSendMessageWithSubject): %S will be replaced by the subject of the message being sent.
+#: failedToSendMessageWithSubject
+msgid "Failed to send message: %S"
+msgstr ""
+
+#. # LOCALIZATION NOTE (failedToCopyMessageWithSubject): %S will be replaced by the subject of the message being sent.
+#: failedToCopyMessageWithSubject
+msgid "Failed to copy message: %S"
 msgstr ""
 
 #. # LOCALIZATION NOTE (autosyncProcessProgress): Do not translate the word "%1$S", "%2$S" and "%3$S" below.
@@ -118,9 +133,9 @@ msgid "Synchronizing: %S"
 msgstr ""
 
 #. # Message actions that show up in activity manager
-#. # LOCALIZATION NOTE (deletedMessages): #1 number of messages
-#: deletedMessages
-msgid "Deleted #1 message;Deleted #1 messages"
+#. # LOCALIZATION NOTE (deletedMessages2): #1 number of messages, #2 folder name
+#: deletedMessages2
+msgid "Deleted #1 message from #2;Deleted #1 messages from #2"
 msgstr ""
 
 #. # LOCALIZATION NOTE (movedMessages): #1 number of messages, #2 and #3: folder names
@@ -156,4 +171,51 @@ msgstr ""
 #. # LOCALIZATION NOTE (renamedFolder): #1 and #2 are folder names
 #: renamedFolder
 msgid "Renamed folder #1 to #2"
+msgstr ""
+
+#: indexing
+msgid "Indexing messages"
+msgstr ""
+
+#. # LOCALIZATION NOTE (indexingFolder): #1 is a folder name
+#: indexingFolder
+msgid "Indexing messages in #1"
+msgstr ""
+
+#: indexingStatusVague
+msgid "Determining which messages to index"
+msgstr ""
+
+#. # LOCALIZATION NOTE (indexingFolderStatusVague): #1 is a folder name
+#: indexingFolderStatusVague
+msgid "Determining which messages to index in #1"
+msgstr ""
+
+#. # LOCALIZATION NOTE (indexingStatusExact):
+#. #   #1 is the number of the message currently being indexed
+#. #   #2 is the total number of messages being indexed
+#. #   #3 is the percentage of indexing that is complete
+#: indexingStatusExact
+msgid "Indexing #1 of #2 message;Indexing #1 of #2 messages (#3% complete)"
+msgstr ""
+
+#. # LOCALIZATION NOTE (indexingFolderStatusExact):
+#. #   #1 is the number of the message currently being indexed
+#. #   #2 is the total number of messages being indexed
+#. #   #3 is the percentage of indexing that is complete
+#. #   #4 is a folder name
+#: indexingFolderStatusExact
+msgid ""
+"Indexing #1 of #2 message in #4;Indexing #1 of #2 messages in #4 (#3% "
+"complete)"
+msgstr ""
+
+#. # LOCALIZATION NOTE (indexedFolder): #1 number of messages; #2 folder name
+#: indexedFolder
+msgid "Indexed #1 message in #2;Indexed #1 messages in #2"
+msgstr ""
+
+#. # LOCALIZATION NOTE (indexedFolderStatus): #1 number of seconds spent indexing
+#: indexedFolderStatus
+msgid "#1 second elapsed;#1 seconds elapsed"
 msgstr ""

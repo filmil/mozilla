@@ -1,26 +1,16 @@
-#. # LOCALIZATION NOTE : FILE This file contains the application's labels for keys on the keyboard.
-#. #                     If you decide to translate this file, you should translate it based on
-#. #                     the prevelant kind of keyboard for your target user.
-#. # LOCALIZATION NOTE : There are two types of keys, those w/ text on their labels
-#. #                     and those w/ glyphs.
-#. # LOCALIZATION NOTE : VK_<…> represents a key on the keyboard.
-#. #
-#. # For more information please see bugzilla bug 90888.
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/toolkit/chrome/global/keys.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #. # F1..F10 should probably not be translated unless there are keyboards that actually have other labels
 #. # F11..F20 might be something else, but are really keyboard specific and not region/language specific

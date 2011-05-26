@@ -1,55 +1,16 @@
-#. #
-#. # ***** BEGIN LICENSE BLOCK *****
-#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#. #
-#. # The contents of this file are subject to the Mozilla Public License Version
-#. # 1.1 (the "License"); you may not use this file except in compliance with
-#. # the License. You may obtain a copy of the License at
-#. # http://www.mozilla.org/MPL/
-#. #
-#. # Software distributed under the License is distributed on an "AS IS" basis,
-#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-#. # for the specific language governing rights and limitations under the
-#. # License.
-#. #
-#. # The Original Code is The JavaScript Debugger.
-#. #
-#. # The Initial Developer of the Original Code is
-#. # Netscape Communications Corporation.
-#. # Portions created by the Initial Developer are Copyright (C) 1998
-#. # the Initial Developer. All Rights Reserved.
-#. #
-#. # Contributor(s):
-#. #   Robert Ginda, <rginda@netscape.com>, original author
-#. #
-#. # Alternatively, the contents of this file may be used under the terms of
-#. # either the GNU General Public License Version 2 or later (the "GPL"), or
-#. # the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-#. # in which case the provisions of the GPL or the LGPL are applicable instead
-#. # of those above. If you wish to allow use of your version of this file only
-#. # under the terms of either the GPL or the LGPL, and not to allow others to
-#. # use your version of this file under the terms of the MPL, indicate your
-#. # decision by deleting the provisions above and replace them with the notice
-#. # and other provisions required by the GPL or the LGPL. If you do not delete
-#. # the provisions above, a recipient may use your version of this file under
-#. # the terms of any one of the MPL, the GPL or the LGPL.
-#. #
-#. # ***** END LICENSE BLOCK *****
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/extensions/venkman/chrome/venkman.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #. # NOTE ON LEADING/TRAILING SPACES AND QUOTES…
 #. # Strings in this file are stripped of leading and trailing quotes, if they are
@@ -259,8 +220,8 @@ msgstr ""
 
 #: msn.jsdurl.errpage
 msgid ""
-"<html><head><title>Error</title></head><body>Error loading "
-"&lt;<b>%1$S</b>&gt;<br>%2$S</body></html>"
+"<html><head><title>Error</title></head><body>Error loading &lt;<b>%"
+"1$S</b>&gt;<br>%2$S</body></html>"
 msgstr ""
 
 #: msg.err.jsdurl.parse
@@ -918,8 +879,8 @@ msgstr ""
 #. # 6: total, 7: min, 8: max, 9: avg
 #: msn.fmt.profile.str
 msgid ""
-"%1$S: %2$S-%3$S, %4$S call(s)%5$S, %6$Sms total, %7$Sms min, %8$Sms max, "
-"%9$Sms avg, excluding calls: %10$S"
+"%1$S: %2$S-%3$S, %4$S call(s)%5$S, %6$Sms total, %7$Sms min, %8$Sms max, %"
+"9$Sms avg, excluding calls: %10$S"
 msgstr ""
 
 #: msn.fmt.profile.str2
@@ -1602,8 +1563,9 @@ msgid "<cmd-name>"
 msgstr ""
 
 #: cmd.cmd-docommand.help
+msgctxt "cmd.cmd-docommand.help"
+"cmd.cmd-docommand.help"
 msgid ""
-"_: cmd.cmd-docommand.help\n"
 msgstr ""
 
 #: cmd.cmd-undo.label
@@ -2442,7 +2404,7 @@ msgid ""
 "Enables or disables the collection of profile data.  The value of <toggle> "
 "can be |true|, |on|, |yes|, or |1| to turn the flag on; |false|, |off|, "
 "|no|, or |0| to turn it off; or |toggle| to invert the current state.  If "
-"<toggle> is not provided, the current state will be displayed."
+"<toggle> is not provided, the current state will be displayed.  "
 msgstr ""
 
 #: cmd.profile-script.label
@@ -3083,7 +3045,7 @@ msgid "accel T"
 msgstr ""
 
 #: cmd.tm-ignore.label
-msgid "I&gnore Exceptions"
+msgid "I&gnore Exceptions "
 msgstr ""
 
 #: cmd.tm-trace.label

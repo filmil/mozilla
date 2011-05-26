@@ -1,232 +1,165 @@
-#. extracted from /home/filip/personal/l10n/mozilla/ff-3.1/template/en-US/mail/chrome/messenger/search-attributes.properties
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-12 19:59-0700\n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
-"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
 
 #. #these need to match nsMsgSearchAttrib interface in nsMsgSearchCore.idl
-#: 0
+#. #and nsMsgSearchAttribMap in nsMsgSearchAdapter.cpp
+#: Subject
 msgid "Subject"
 msgstr ""
 
-#: 1
+#: From
 msgid "From"
 msgstr ""
 
-#: 2
+#: Body
 msgid "Body"
 msgstr ""
 
-#: 3
+#: Date
 msgid "Date"
 msgstr ""
 
-#: 4
+#: Priority
 msgid "Priority"
 msgstr ""
 
-#: 5
+#: Status
 msgid "Status"
 msgstr ""
 
-#: 6
+#: To
 msgid "To"
 msgstr ""
 
-#: 7
+#: Cc
 msgid "Cc"
 msgstr ""
 
-#: 8
+#: ToOrCc
 msgid "To or Cc"
 msgstr ""
 
-#. # 9 not visible
-#: 9
-msgid "Location"
-msgstr ""
-
-#. # 10 not visible
-#: 10
-msgid "Message Key"
-msgstr ""
-
-#: 11
+#: AgeInDays
 msgid "Age In Days"
 msgstr ""
 
-#. # 12 not visible
-#: 12
-msgid "Folder Info"
-msgstr ""
-
-#: 13
+#: SizeKB
 msgid "Size (KB)"
 msgstr ""
 
-#. # 14 not visible
-#: 14
-msgid "AnyText"
-msgstr ""
-
-#: 15
+#: Tags
 msgid "Tags"
 msgstr ""
 
 #. # for AB and LDAP
-#: 16
+#: AnyName
 msgid "Any Name"
 msgstr ""
 
-#: 17
+#: DisplayName
 msgid "Display Name"
 msgstr ""
 
-#: 18
+#: Nickname
 msgid "Nickname"
 msgstr ""
 
-#: 19
+#: ScreenName
 msgid "Screen Name"
 msgstr ""
 
-#: 20
+#: Email
 msgid "Email"
 msgstr ""
 
-#: 21
+#: AdditionalEmail
 msgid "Additional Email"
 msgstr ""
 
-#: 22
+#: AnyNumber
 msgid "Any Number"
 msgstr ""
 
-#: 23
+#: WorkPhone
 msgid "Work Phone"
 msgstr ""
 
-#: 24
+#: HomePhone
 msgid "Home Phone"
 msgstr ""
 
-#: 25
+#: Fax
 msgid "Fax"
 msgstr ""
 
-#: 26
+#: Pager
 msgid "Pager"
 msgstr ""
 
-#: 27
+#: Mobile
 msgid "Mobile"
 msgstr ""
 
-#: 28
+#: City
 msgid "City"
 msgstr ""
 
-#: 29
+#: Street
 msgid "Street"
 msgstr ""
 
-#: 30
+#: Title
 msgid "Title"
 msgstr ""
 
-#: 31
+#: Organization
 msgid "Organization"
 msgstr ""
 
-#: 32
+#: Department
 msgid "Department"
 msgstr ""
 
-#: 33
-msgctxt "33"
-msgid "reserved for AB"
+#. # more mailnews
+#: FromToCcOrBcc
+msgid "From, To, Cc or Bcc"
 msgstr ""
 
-#: 34
-msgctxt "34"
-msgid "reserved for AB"
-msgstr ""
-
-#: 35
-msgctxt "35"
-msgid "reserved for AB"
-msgstr ""
-
-#: 36
-msgctxt "36"
-msgid "reserved for AB"
-msgstr ""
-
-#: 37
-msgctxt "37"
-msgid "reserved for AB"
-msgstr ""
-
-#: 38
-msgctxt "38"
-msgid "reserved for AB"
-msgstr ""
-
-#: 39
-msgctxt "39"
-msgid "reserved for AB"
-msgstr ""
-
-#: 40
-msgctxt "40"
-msgid "reserved for AB"
-msgstr ""
-
-#: 41
-msgctxt "41"
-msgid "reserved for AB"
-msgstr ""
-
-#: 42
-msgctxt "42"
-msgid "reserved for AB"
-msgstr ""
-
-#: 43
-msgctxt "43"
-msgid "reserved for AB"
-msgstr ""
-
-#: 44
+#: JunkScoreOrigin
 msgid "Junk Score Origin"
 msgstr ""
 
-#: 45
+#: JunkPercent
 msgid "Junk Percent"
 msgstr ""
 
-#: 46
+#: AttachmentStatus
 msgid "Attachment Status"
 msgstr ""
 
-#: 47
+#: JunkStatus
 msgid "Junk Status"
 msgstr ""
 
-#: 48
+#: Label
 msgid "Label"
 msgstr ""
 
-#: 49
+#: Customize
 msgid "Customize…"
+msgstr ""
+
+#: MissingCustomTerm
+msgid "Missing Custom Term"
 msgstr ""
