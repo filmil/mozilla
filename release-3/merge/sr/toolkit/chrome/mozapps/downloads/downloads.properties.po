@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2008-12-14 02:14-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#. # LOCALIZATION NOTE (seconds, minutes, hours, days): Semi-colon list of plural
+#. # forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#: seconds
+msgid "second;seconds"
+msgstr "секунд;секунде;секунди"
+
+#: minutes
+msgid "minute;minutes"
+msgstr "минут;минута;минута"
+
+#: hours
+msgid "hour;hours"
+msgstr "сат;сата;сати"
+
+#: days
+msgid "day;days"
+msgstr "дан;дана;дана"
+
+#. # LOCALIZATION NOTE (paused): — is the "em dash" (long dash)
+#: paused
+msgid "Paused —  #1"
+msgstr "Паузирано -  #1"
+
+#: downloading
+msgid "Downloading"
+msgstr "Пријем"
+
+#: notStarted
+msgid "Not Started"
+msgstr "Није покренуто"
+
+#: failed
+msgctxt "failed"
+msgid "Failed"
+msgstr "Грешка"
+
+#: finished
+msgid "Finished"
+msgstr "Завршено"
+
+#: canceled
+msgctxt "canceled"
+msgid "Canceled"
+msgstr "Отказано"
+
+#: cannotPause
+msgid "This download cannot be paused"
+msgstr "Овај пријем није могуће паузирати"
+
+#: downloadErrorAlertTitle
+msgid "Download Error"
+msgstr "Грешка при пријему"
+
+#: downloadErrorGeneric
+msgid ""
+"The download cannot be saved because an unknown error occurred.\n"
+"\n"
+"Please try again."
+msgstr ""
+"Пријем није могао да буде сачуван услед непознате грешке.\n"
+"\n"
+"Молимо да пробате поново."
+
+#: quitCancelDownloadsAlertTitle
+#: offlineCancelDownloadsAlertTitle
+#: leavePrivateBrowsingCancelDownloadsAlertTitle
+#, fuzzy
+msgctxt "quitCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
+msgstr "Прекид свих пријема?"
+
+#: quitCancelDownloadsAlertMsg
+msgid ""
+"If you exit now, 1 download will be canceled. Are you sure you want to exit?"
+msgstr ""
+"Ако сад изађете, пријем ће бити прекинут. Да ли сте сигурни да желите да "
+"изађете?"
+
+#: quitCancelDownloadsAlertMsgMultiple
+msgid ""
+"If you exit now, %S downloads will be canceled. Are you sure you want to "
+"exit?"
+msgstr ""
+"Ако сад изађете, пријем %S ће бити прекинут. Да ли сте сигурни да желите да "
+"изађете?"
+
+#: quitCancelDownloadsAlertMsgMac
+msgid ""
+"If you quit now, 1 download will be canceled. Are you sure you want to quit?"
+msgstr ""
+"Ако сад одустанете, један пријем ће бити отказан. Да ли сте сигурни да "
+"желите да одустанете?"
+
+#: quitCancelDownloadsAlertMsgMacMultiple
+msgid ""
+"If you quit now, %S downloads will be canceled. Are you sure you want to "
+"quit?"
+msgstr ""
+"Ако сад изађете, пријем %S ће се прекинути. Да ли сте сигурни да желите да "
+"изађете?"
+
+#: offlineCancelDownloadsAlertTitle
+msgctxt "offlineCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
+msgstr ""
+
+#: offlineCancelDownloadsAlertMsg
+msgid ""
+"If you go offline now, 1 download will be canceled. Are you sure you want to "
+"go offline?"
+msgstr ""
+"Ако сад раскинете везу са мрежом, прекинућете један пријем. Да ли заиста то "
+"желите?"
+
+#: offlineCancelDownloadsAlertMsgMultiple
+msgid ""
+"If you go offline now, %S downloads will be canceled. Are you sure you want "
+"to go offline?"
+msgstr ""
+"Ако сада раскинете везу са мрежом, прекинућете пријем: %S. Да ли заиста то "
+"желите?"
+
+#: enterPrivateBrowsingCancelDownloadsAlertTitle
+msgctxt "enterPrivateBrowsingCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
+msgstr "Отказивање свих пријема?"
+
+#: enterPrivateBrowsingCancelDownloadsAlertMsg
+msgid ""
+"If you enter the Private Browsing mode now, 1 download will be canceled. Are "
+"you sure you want to enter the Private Browsing mode?"
+msgstr ""
+"Ако сада уђете у поверљиви начин рада, 1 пријем ће бити отказан.  Да ли "
+"сигурно желите да укључите поверљиви начин рада?"
+
+#: enterPrivateBrowsingCancelDownloadsAlertMsgMultiple
+msgid ""
+"If you enter the Private Browsing mode now, %S downloads will be canceled. "
+"Are you sure you want to enter the Private Browsing mode?"
+msgstr ""
+"Ако сада уђете у поверљиви начин рада, биће отказано више пријема (%S).  Да "
+"ли сигурно желите да укључите поверљиви начин рада?"
+
+#: leavePrivateBrowsingCancelDownloadsAlertTitle
+#: quitCancelDownloadsAlertTitle
+#: offlineCancelDownloadsAlertTitle
+msgctxt "leavePrivateBrowsingCancelDownloadsAlertTitle"
+msgid "Cancel All Downloads?"
+msgstr "Прекид свих пријема?"
+
+#: leavePrivateBrowsingCancelDownloadsAlertMsg
+msgid ""
+"If you leave the Private Browsing mode now, 1 download will be canceled. Are "
+"you sure you want to leave the Private Browsing mode?"
+msgstr ""
+"Ако сада напустите поверљиви начин рада, 1 пријем ће бити отказан.  Да ли "
+"сигурно желите да искључите поверљиви начин рада?"
+
+#: leavePrivateBrowsingCancelDownloadsAlertMsgMultiple
+msgid ""
+"If you leave the Private Browsing mode now, %S downloads will be canceled. "
+"Are you sure you want to leave the Private Browsing mode?"
+msgstr ""
+"Ако сада напустите поверљиви начин рада, више пријема ће бити отказано (%S). "
+" Да ли сигурно желите да искључите поверљиви начин рада?"
+
+#: cancelDownloadsOKText
+msgid "Cancel 1 Download"
+msgstr "Прекини један пријем"
+
+#: cancelDownloadsOKTextMultiple
+msgid "Cancel %S Downloads"
+msgstr "Прекид оволико пријема: %S"
+
+#: dontQuitButtonWin
+msgid "Don't Exit"
+msgstr "Не излази"
+
+#: dontQuitButtonMac
+msgid "Don't Quit"
+msgstr "Не одустај"
+
+#: dontGoOfflineButton
+msgid "Stay Online"
+msgstr "Остани на вези"
+
+#: dontEnterPrivateBrowsingButton
+msgid "Don't Enter the Private Browsing Mode"
+msgstr "Не укључуј поверљиви начин рада"
+
+#: dontLeavePrivateBrowsingButton
+msgid "Stay in Private Browsing Mode"
+msgstr "Остани у поверљивом начину рада"
+
+#: downloadsCompleteTitle
+msgid "Downloads Complete"
+msgstr "Пријем је готов"
+
+#: downloadsCompleteMsg
+#, fuzzy
+msgid "All files have finished downloading. "
+msgstr "Све датотеке су примљене."
+
+#. # LOCALIZATION NOTE (statusFormat2): — is the "em dash" (long dash)
+#. # #1 transfer progress; #2 rate number; #3 rate unit; #4 time left
+#. # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
+#: statusFormat2
+msgid "#4 — #1 (#2 #3/sec)"
+msgstr "#4 — #1 (#2 #3/s)"
+
+#: bytes
+msgid "bytes"
+msgstr "B"
+
+#: kilobyte
+msgid "KB"
+msgstr "KB"
+
+#: megabyte
+msgid "MB"
+msgstr "MB"
+
+#: gigabyte
+msgid "GB"
+msgstr "GB"
+
+#. # LOCALIZATION NOTE (transferSameUnits, transferDiffUnits, transferNoTotal):
+#. # #1 progress number; #2 progress unit; #3 total number; #4 total unit
+#. # examples: 1.1 of 333 MB; 11.1 MB of 3.3 GB; 111 KB
+#: transferSameUnits
+msgid "#1 of #3 #4"
+msgstr "#1 од #3 #4"
+
+#: transferDiffUnits
+msgid "#1 #2 of #3 #4"
+msgstr "#1 #2 од #3 #4"
+
+#: transferNoTotal
+msgctxt "transferNoTotal"
+msgid "#1 #2"
+msgstr "#1 #2"
+
+#. # LOCALIZATION NOTE (timePair): #1 time number; #2 time unit
+#. # example: 1 minute; 11 hours
+#: timePair
+msgctxt "timePair"
+msgid "#1 #2"
+msgstr "#1 #2"
+
+#. # LOCALIZATION NOTE (timeLeftSingle): #1 time left
+#. # example: 1 minute remaining; 11 hours remaining
+#: timeLeftSingle
+msgid "#1 remaining"
+msgstr "преостаје: #1"
+
+#. # LOCALIZATION NOTE (timeLeftDouble): #1 time left; #2 time left sub units
+#. # example: 11 hours, 2 minutes remaining; 1 day, 22 hours remaining
+#: timeLeftDouble
+msgid "#1, #2 remaining"
+msgstr "#1, преостаје: #2"
+
+#: timeFewSeconds
+msgid "A few seconds remaining"
+msgstr "Преостаје неколико секунди"
+
+#: timeUnknown
+msgid "Unknown time remaining"
+msgstr "Непознато преостало време"
+
+#. # LOCALIZATION NOTE (doneStatus): — is the "em dash" (long dash)
+#. # #1 download size for FINISHED or download state; #2 host (e.g., eTLD + 1, IP)
+#. # #2 can also be doneScheme or doneFileScheme for special URIs like file:
+#. # examples: 1.1 MB — website2.com; Canceled — 222.net
+#: doneStatus
+msgid "#1 — #2"
+msgstr "#1 — #2"
+
+#. # LOCALIZATION NOTE (doneSize): #1 size number; #2 size unit
+#: doneSize
+msgctxt "doneSize"
+msgid "#1 #2"
+msgstr "#1 #2"
+
+#: doneSizeUnknown
+msgid "Unknown size"
+msgstr "Непозната величина"
+
+#. # LOCALIZATION NOTE (doneScheme): #1 URI scheme like data: jar: about:
+#: doneScheme
+msgid "#1 resource"
+msgstr "ресурса: #1"
+
+#. # LOCALIZATION NOTE (doneFileScheme): Special case of doneScheme for file:
+#. # This is used as an eTLD replacement for local files, so make it lower case
+#: doneFileScheme
+msgid "local file"
+msgstr "локална датотека"
+
+#: stateFailed
+msgctxt "stateFailed"
+msgid "Failed"
+msgstr "Неуспело"
+
+#: stateCanceled
+msgctxt "stateCanceled"
+msgid "Canceled"
+msgstr "Отказано"
+
+# FIXME
+#. # LOCALIZATION NOTE (stateBlocked): 'Parental Controls' should be capitalized
+#: stateBlocked
+msgid "Blocked by Parental Controls"
+msgstr "Заустављено родитељским управљањем"
+
+# FIXME spyware
+#: stateDirty
+msgid "Blocked: Download may contain a virus or spyware"
+msgstr "Блокирано: пријем можда садржи вирусе или спајвер (spyware)"
+
+# FIXME Security Zone Policy
+#. # LOCALIZATION NOTE (stateBlockedPolicy): 'Security Zone Policy' should be capitalized
+#: stateBlockedPolicy
+msgid "This download has been blocked by your Security Zone Policy"
+msgstr "Овај пријем је блокирала Ваша полиса о безбедносној зони"
+
+#. # LOCALIZATION NOTE (yesterday): Displayed time for files finished yesterday
+#: yesterday
+msgid "Yesterday"
+msgstr "Јуче"
+
+#. # LOCALIZATION NOTE (monthDate): #1 month name; #2 date number; e.g., January 22
+#: monthDate
+msgctxt "monthDate"
+msgid "#1 #2"
+msgstr "#1 #2"
+
+#: fileDoesNotExistOpenTitle
+msgid "Cannot Open %S"
+msgstr "Не може да се отвори %S"
+
+#: fileDoesNotExistShowTitle
+msgid "Cannot Show %S"
+msgstr "Не може да се прикаже %S"
+
+#: fileDoesNotExistError
+msgid ""
+"%S does not exist. It may have been renamed, moved, or deleted since it was "
+"downloaded."
+msgstr ""
+"Датотека %S не постоји. Можда је преименована, премештена или избрисана "
+"откад је примљена."
+
+#: chooseAppFilePickerTitle
+msgid "Open With…"
+msgstr "Отвори помоћу..."
+
+#. # LOCALIZATION NOTE (downloadsTitleFiles, downloadsTitlePercent): Semi-colon list of
+#. # plural forms. See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of files; #2 overall download percent (only for downloadsTitlePercent)
+#. # examples: 2% of 1 file - Downloads; 22% of 11 files - Downloads
+#: downloadsTitleFiles
+msgid "#1 file - Downloads;#1 files - Downloads"
+msgstr "#1 датотека - пријеми;#1 датотеке - пријеми;#1 датотека - пријеми"
+
+#: downloadsTitlePercent
+msgid "#2% of #1 file - Downloads;#2% of #1 files - Downloads"
+msgstr ""
+"#2% од #1 датотеке - пријеми;#2% од #1 датотеке  - пријеми;#2% од #1 "
+"датотека - пријеми"
+
+#: fileExecutableSecurityWarning
+msgid ""
+"\"%S\" is an executable file. Executable files may contain viruses or other "
+"malicious code that could harm your computer. Use caution when opening this "
+"file. Are you sure you want to launch \"%S\"?"
+msgstr ""
+"„%S‟ је извршива датотека. Извршиве датотеке могу садржати вирусе или други "
+"злонамеран код, који може да оштети Ваш рачунар. Будите пажљиви при отварању "
+"ове датотеке. Да ли заиста желите да покренете датотеку „%S‟?"
+
+#: fileExecutableSecurityWarningTitle
+msgid "Open Executable File?"
+msgstr "Да ли желите да отворите извршиву датотеку?"
+
+#: fileExecutableSecurityWarningDontAsk
+msgid "Don't ask me this again"
+msgstr "Не питај опет"
+
+#: displayNameDesktop
+msgid "Desktop"
+msgstr "Радна површина"
+
+#. # Desktop folder name for downloaded files
+#: downloadsFolder
+msgid "Downloads"
+msgstr "Пријеми"

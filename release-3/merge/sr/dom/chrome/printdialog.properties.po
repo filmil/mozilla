@@ -1,0 +1,40 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+# -----------------------------------------------------------
+# Note: IMPORTANT!
+#
+# Set "extend" to false to get the native platform dialog
+#
+# Set "extend" to true to have the native dialog extended with
+#   the "Print Frames" Frame group box
+#: PrintFrames
+msgid "Print Frames"
+msgstr "Штампа оквира"
+
+#: Aslaid
+msgid "As &laid out on the screen"
+msgstr "&Као на екрану"
+
+#: selectedframe
+msgid "The selected &frame"
+msgstr "Изабрани &оквир"
+
+#: Eachframe
+msgid "&Each frame separately"
+msgstr "Посебно &сваки оквир"
+
+#: options
+msgid "Options"
+msgstr "Опције"

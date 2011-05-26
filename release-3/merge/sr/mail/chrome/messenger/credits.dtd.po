@@ -1,0 +1,54 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/credits.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2008-04-02 23:33+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+#: credit.title
+msgid "&brandFullName; Credits"
+msgstr "Заслуге за &brandFullName;"
+
+#: brandMotto
+msgid "Thunderbirds Are Go!"
+msgstr "Соколови су спремни!"
+
+#: credit.thanks
+msgid "Special Thanks To"
+msgstr "Посебна захвалност"
+
+# localization credits look like this:
+#
+# <!ENTITY credit.translation
+# "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+#
+#
+#. localization credits look like this:
+#. <!ENTITY credit.translation
+#. "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+#: credit.translation
+#, fuzzy
+msgctxt "credit.translation"
+msgid ""
+"_: credit.translation\n"
+""
+msgstr "<h3>Преводиоци</h3><ul><li>Филип Милетић</li><li>Љубиша "
+"Радовановић</li><li>проф. др Владан Јанковић</li><li>Владана "
+"Михаиловић</li><li>Драган Митровић</li><li>дипл. инж. Душан "
+"Вучковић</li><li>проф. др Милорад Тошић</li></ul>\n"
+
+#: credit.memory
+msgid "In Fond Memory Of"
+msgstr "У сећање на"
+
+#: credit.poweredByGecko
+msgid "Powered by Gecko&trade;"
+msgstr "Покреће геко (Gecko&trade;)"

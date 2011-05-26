@@ -1,0 +1,59 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mobile/chrome/firstrun.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+#: welcome.title
+msgid "Welcome to &brandShortName;"
+msgstr "Добродошли на &brandShortName;"
+
+#: intro.description
+msgid ""
+"Synchronize your PC and mobile with Weave Sync. Customize with add-ons. Surf "
+"with the Awesome Bar and much, much, much more."
+msgstr ""
+"Синхронизујте свој рачунар и мобилни телефон уз Weave додатак. Пробајте "
+"додатkе. Сурфујте уз фантастични  Awesome Bar и још много, много тога."
+
+#: weave.title
+msgid "Get Up and Go"
+msgstr "Покрените се"
+
+#: weave.description
+msgid ""
+"Get Weave Sync to help break in your Firefox. Share your browsing history, "
+"bookmarks, saved passwords and tabs between your PC and mobile."
+msgstr ""
+"Преузмите Weave додатак да би сте унапредили свој &brandShortName;. "
+"Користите подешавања, забелешке, историјат сурфовања свог рачунара и на "
+"мобилном телефону."
+
+#: weave.linkLabel
+msgid "Get the Weave Sync add-on"
+msgstr "Преузмите Weave додатак"
+
+#: getPersonal.title
+msgid "Get Personal"
+msgstr "Прилагодите га себи"
+
+#: getPersonal.description
+msgid ""
+"Make &brandShortName; your own. Customize the first ever browser to offer "
+"add-ons for mobile."
+msgstr ""
+"Направите &brandShortName; својим. Прилагодите први прегледач икада који "
+"нуди додатке за мобилне телефоне."
+
+#: getPersonal.linkLabel
+msgid "Get add-ons for your mobile"
+msgstr "Набавите додатке за Ваш мобилни."

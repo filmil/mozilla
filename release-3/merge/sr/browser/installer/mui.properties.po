@@ -1,0 +1,254 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+# To make the l10n tinderboxen see changes to this file you can change a value
+# name by adding - to the end of the name followed by chars (e.g. Branding-2).
+# LOCALIZATION NOTE:
+# This file must be saved as UTF8
+# Accesskeys are defined by prefixing the letter that is to be used for the
+# accesskey with an ampersand (e.g. &).
+# Do not replace $(^NameDA) or $(^Name) with a custom string.
+# Do not change $(^NameDA) to $(^Name) or $(^Name) to $(^NameDA). NameDA allows
+# Name to contain an ampersand (e.g. DA stands for double ampersand) and
+# prevents the letter following the ampersand being used as an accesskey.
+# You can use \n to create a newline in the string but only when the string
+# from en-US contains a \n.
+# Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+# custom string and always use the same one as used by the en-US files.
+# $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+# for double ampersand) and prevents the letter following the ampersand from
+# being used as an accesskey.
+#. # To make the l10n tinderboxen see changes to this file you can change a value
+#. # name by adding - to the end of the name followed by chars (e.g. Branding-2).
+#. # LOCALIZATION NOTE:
+#. # This file must be saved as UTF8
+#. # Accesskeys are defined by prefixing the letter that is to be used for the
+#. # accesskey with an ampersand (e.g. &).
+#. # Do not replace $BrandShortName, $BrandFullName, or $BrandFullNameDA with a
+#. # custom string and always use the same one as used by the en-US files.
+#. # $BrandFullNameDA allows the string to contain an ampersand (e.g. DA stands
+#. # for double ampersand) and prevents the letter following the ampersand from
+#. # being used as an accesskey.
+#. # You can use \n to create a newline in the string but only when the string
+#. # from en-US contains a \n.
+#: MUI_TEXT_WELCOME_INFO_TITLE
+msgid "Welcome to the $BrandFullNameDA Setup Wizard"
+msgstr "Добродошли код чаробњака за подешавање програма $BrandFullNameDA"
+
+#: MUI_TEXT_WELCOME_INFO_TEXT
+msgid ""
+"This wizard will guide you through the installation of $BrandFullNameDA.\n"
+"\n"
+"It is recommended that you close all other applications before starting "
+"Setup. This will make it possible to update relevant system files without "
+"having to reboot your computer.\n"
+"\n"
+"$_CLICK"
+msgstr ""
+"Овај чаробњак ће Вас провести кроз инсталацију програма $BrandFullNameDA.\n"
+"\n"
+"Препоручљиво је да затворите све остале програме пре него што покренете "
+"инсталацију.  Ово ће омогућити освежавање битних системских датотека без "
+"поновног покретања система.\n"
+"\n"
+"$_CLICK"
+
+#: MUI_TEXT_COMPONENTS_TITLE
+msgid "Choose Components"
+msgstr "Избор компоненти"
+
+#: MUI_TEXT_COMPONENTS_SUBTITLE
+msgid "Choose which features of $BrandFullNameDA you want to install."
+msgstr ""
+"Изаберите које могућности програма $BrandFullNameDA желите да инсталирате."
+
+# Description
+# # @name MIME_MHTML_DESCRIPTION
+# # @loc
+#: MUI_INNERTEXT_COMPONENTS_DESCRIPTION_TITLE
+msgid "Description"
+msgstr "Опис"
+
+#: MUI_INNERTEXT_COMPONENTS_DESCRIPTION_INFO
+msgid "Position your mouse over a component to see its description."
+msgstr ""
+"Поставите стрелицу миша изнад имена компоненте како бисте видели њен опис."
+
+#: MUI_TEXT_DIRECTORY_TITLE
+msgid "Choose Install Location"
+msgstr "Изаберите одредиште за инсталацију"
+
+#: MUI_TEXT_DIRECTORY_SUBTITLE
+msgid "Choose the folder in which to install $BrandFullNameDA."
+msgstr "Изаберте директоријум у који ће $BrandFullNameDA бити инсталиран."
+
+#: MUI_TEXT_INSTALLING_TITLE
+msgid "Installing"
+msgstr "Инсталација"
+
+#: MUI_TEXT_INSTALLING_SUBTITLE
+msgid "Please wait while $BrandFullNameDA is being installed."
+msgstr "Молимо да сачекате док се $BrandFullNameDA инсталира."
+
+#: MUI_TEXT_FINISH_TITLE
+msgid "Installation Complete"
+msgstr "Завршена инсталација"
+
+#: MUI_TEXT_FINISH_SUBTITLE
+msgid "Setup was completed successfully."
+msgstr "Инсталатер је успешно обавио посао."
+
+#: MUI_TEXT_ABORT_TITLE
+msgid "Installation Aborted"
+msgstr "Инсталација је прекинута"
+
+#: MUI_TEXT_ABORT_SUBTITLE
+msgid "Setup was not completed successfully."
+msgstr "Инсталација је неуспешно завршена."
+
+#: MUI_BUTTONTEXT_FINISH
+msgid "&Finish"
+msgstr "&Крај"
+
+#: MUI_TEXT_FINISH_INFO_TITLE
+msgid "Completing the $BrandFullNameDA Setup Wizard"
+msgstr "Довршавање рада чаробњака за програм $BrandFullNameDA"
+
+#: MUI_TEXT_FINISH_INFO_TEXT
+msgid ""
+"$BrandFullNameDA has been installed on your computer.\n"
+"\n"
+"Click Finish to close this wizard."
+msgstr ""
+"$BrandFullNameDA је инсталиран на Ваш рачунар.\n"
+"\n"
+"Притисните \"Заврши\" како бисте затворили чаробњака."
+
+#: MUI_TEXT_FINISH_INFO_REBOOT
+msgid ""
+"Your computer must be restarted in order to complete the installation of "
+"$BrandFullNameDA. Do you want to reboot now?"
+msgstr ""
+"Ваш рачунар мора да буде поново покренут како би инсталација програма "
+"$BrandFullNameDA била довршена. Да ли желите да поново покренете сада?"
+
+#: MUI_TEXT_FINISH_REBOOTNOW
+msgid "Reboot now"
+msgstr "Поново покрени"
+
+#: MUI_TEXT_FINISH_REBOOTLATER
+msgid "I want to manually reboot later"
+msgstr "Покренућу касније ручно"
+
+#: MUI_TEXT_STARTMENU_TITLE
+msgid "Choose Start Menu Folder"
+msgstr "Избор директоријума у стартном менију"
+
+#: MUI_TEXT_STARTMENU_SUBTITLE
+msgid "Choose a Start Menu folder for the $BrandFullNameDA shortcuts."
+msgstr ""
+"Изаберите директоријум за почетни мени за скраћенице програма "
+"$BrandFullNameDA."
+
+#: MUI_INNERTEXT_STARTMENU_TOP
+msgid ""
+"Select the Start Menu folder in which you would like to create the program's "
+"shortcuts. You can also enter a name to create a new folder."
+msgstr ""
+"Изаберите директоријум у стартном менију у коме желите да направите "
+"програмске скраћенице.  Можете такође да унесете име како бисте направили "
+"нови директоријум."
+
+#: MUI_TEXT_ABORTWARNING
+msgid "Are you sure you want to quit $BrandFullName Setup?"
+msgstr "ДА ли сигурно желите да окончате подешавања програма $BrandFullName?"
+
+#: MUI_UNTEXT_WELCOME_INFO_TITLE
+msgid "Welcome to the $BrandFullNameDA Uninstall Wizard"
+msgstr "Добродошли код чаробњака за деинсталацију програма $BrandFullNameDA"
+
+#: MUI_UNTEXT_WELCOME_INFO_TEXT
+msgid ""
+"This wizard will guide you through the uninstallation of $BrandFullNameDA.\n"
+"\n"
+"Before starting the uninstallation, make sure $BrandFullNameDA is not "
+"running.\n"
+"\n"
+"$_CLICK"
+msgstr ""
+"Овај чаробњак ће Вас провести кроз деинсталацију програма $BrandFullNameDA.\n"
+"\n"
+"Пре него што кренете са деинсталацијом, обезбедите да се програм "
+"$BrandFullNameDA не извршава.\n"
+"\n"
+"$_CLICK"
+
+#: MUI_UNTEXT_CONFIRM_TITLE
+msgid "Uninstall $BrandFullNameDA"
+msgstr "Деинсталирај $BrandFullNameDA"
+
+#: MUI_UNTEXT_CONFIRM_SUBTITLE
+msgid "Remove $BrandFullNameDA from your computer."
+msgstr "Уклања програм $BrandFullNameDA са Вашег рачунара."
+
+#: MUI_UNTEXT_UNINSTALLING_TITLE
+msgid "Uninstalling"
+msgstr "Деинсталација"
+
+#: MUI_UNTEXT_UNINSTALLING_SUBTITLE
+msgid "Please wait while $BrandFullNameDA is being uninstalled."
+msgstr "Молимо да сачекате док се програм $BrandFullNameDA деинсталира."
+
+#: MUI_UNTEXT_FINISH_TITLE
+msgid "Uninstallation Complete"
+msgstr "Деинсталација је готова"
+
+#: MUI_UNTEXT_FINISH_SUBTITLE
+msgid "Uninstall was completed successfully."
+msgstr "Деинсталација је успешно завршена."
+
+#: MUI_UNTEXT_ABORT_TITLE
+msgid "Uninstallation Aborted"
+msgstr "Деинсталација је прекинута"
+
+#: MUI_UNTEXT_ABORT_SUBTITLE
+msgid "Uninstall was not completed successfully."
+msgstr "Деинсталација је неуспешно завршена"
+
+#: MUI_UNTEXT_FINISH_INFO_TITLE
+msgid "Completing the $BrandFullNameDA Uninstall Wizard"
+msgstr "Деинсталација програма $BrandFullNameDA се окончава"
+
+#: MUI_UNTEXT_FINISH_INFO_TEXT
+msgid ""
+"$BrandFullNameDA has been uninstalled from your computer.\n"
+"\n"
+"Click Finish to close this wizard."
+msgstr ""
+"Програм $BrandFullNameDA је деинсталиран са Вашег рачунара.\n"
+"\n"
+"Притисните \"Заврши\" како бисте затворили чаробњака."
+
+#: MUI_UNTEXT_FINISH_INFO_REBOOT
+msgid ""
+"Your computer must be restarted in order to complete the uninstallation of "
+"$BrandFullNameDA. Do you want to reboot now?"
+msgstr ""
+"Ваш рачунар мора да буде поново покренут како би деинсталација програма "
+"$BrandFullNameDA била довршена. Да ли желите да рачунар одмах поново "
+"покренете?"
+
+#: MUI_UNTEXT_ABORTWARNING
+msgid "Are you sure you want to quit $BrandFullName Uninstall?"
+msgstr "Да ли сигурно желите да окончате деинсталацију програма $BrandFullName?"

@@ -1,0 +1,1368 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/editor/ui/chrome/composer/editorOverlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2009-10-10 13:50-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# Insert form menu items
+# Used just in context popup.
+# Debug menu items
+# ***** BEGIN LICENSE BLOCK *****
+# - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# -
+# - The contents of this file are subject to the Mozilla Public License Version
+# - 1.1 (the "License"); you may not use this file except in compliance with
+# - the License. You may obtain a copy of the License at
+# - http://www.mozilla.org/MPL/
+# -
+# - Software distributed under the License is distributed on an "AS IS" basis,
+# - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# - for the specific language governing rights and limitations under the
+# - License.
+# -
+# - The Original Code is Mozilla Communicator client code, released
+# - March 31, 1998.
+# -
+# - The Initial Developer of the Original Code is
+# - Netscape Communications Corporation.
+# - Portions created by the Initial Developer are Copyright (C) 1999-2000
+# - the Initial Developer. All Rights Reserved.
+# -
+# - Contributor(s):
+# -   Sammy Ford
+# -   Blake Ross
+# -   Ryan Cassin (rcassin@supernova.org)
+# -   Daniel Glazman (glazman@netscape.com)
+# -   Stephen Donner (technutz@netscape.net)
+# -
+# - Alternatively, the contents of this file may be used under the terms of
+# - either of the GNU General Public License Version 2 or later (the "GPL"),
+# - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# - in which case the provisions of the GPL or the LGPL are applicable instead
+# - of those above. If you wish to allow use of your version of this file only
+# - under the terms of either the GPL or the LGPL, and not to allow others to
+# - use your version of this file under the terms of the MPL, indicate your
+# - decision by deleting the provisions above and replace them with the notice
+# - and other provisions required by the GPL or the LGPL. If you do not delete
+# - the provisions above, a recipient may use your version of this file under
+# - the terms of any one of the MPL, the GPL or the LGPL.
+# -
+# - ***** END LICENSE BLOCK *****
+# Attn: Localization - some of the menus in this dialog directly affect mail also.
+# File menu items
+#. ***** BEGIN LICENSE BLOCK *****
+#. - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. -
+#. - The contents of this file are subject to the Mozilla Public License Version
+#. - 1.1 (the "License"); you may not use this file except in compliance with
+#. - the License. You may obtain a copy of the License at
+#. - http://www.mozilla.org/MPL/
+#. -
+#. - Software distributed under the License is distributed on an "AS IS" basis,
+#. - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. - for the specific language governing rights and limitations under the
+#. - License.
+#. -
+#. - The Original Code is Mozilla Communicator client code, released
+#. - March 31, 1998.
+#. -
+#. - The Initial Developer of the Original Code is
+#. - Netscape Communications Corporation.
+#. - Portions created by the Initial Developer are Copyright (C) 1999-2000
+#. - the Initial Developer. All Rights Reserved.
+#. -
+#. - Contributor(s):
+#. -   Sammy Ford
+#. -   Blake Ross
+#. -   Ryan Cassin (rcassin@supernova.org)
+#. -   Daniel Glazman (glazman@netscape.com)
+#. -   Stephen Donner (technutz@netscape.net)
+#. -
+#. - Alternatively, the contents of this file may be used under the terms of
+#. - either of the GNU General Public License Version 2 or later (the "GPL"),
+#. - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. - in which case the provisions of the GPL or the LGPL are applicable instead
+#. - of those above. If you wish to allow use of your version of this file only
+#. - under the terms of either the GPL or the LGPL, and not to allow others to
+#. - use your version of this file under the terms of the MPL, indicate your
+#. - decision by deleting the provisions above and replace them with the notice
+#. - and other provisions required by the GPL or the LGPL. If you do not delete
+#. - the provisions above, a recipient may use your version of this file under
+#. - the terms of any one of the MPL, the GPL or the LGPL.
+#. -
+#. - ***** END LICENSE BLOCK *****
+#. Attn: Localization - some of the menus in this dialog directly affect mail also.
+#. File menu items
+#: fileMenu.label
+#: fileMenu.accesskey
+msgid "&File"
+msgstr "&Датотека"
+
+#: newBlankPageCmd.label
+#: newBlankPageCmd.accesskey
+msgid "Composer &Page"
+msgstr "&Уредник страна"
+
+#: newMenu.label
+msgid "New"
+msgstr "Ново"
+
+#: openFileCmd.label
+#: openFileCmd.accesskey
+msgid "&Open File…"
+msgstr "&Отвори датотеку…"
+
+#: openFileCmd.key
+msgid "O"
+msgstr "O"
+
+#: openRemoteCmd.label
+#: openRemoteCmd.accesskey
+msgid "Open Web &Location…"
+msgstr "Отвори о&дредиште…"
+
+#: openRemoteCmd.key
+#: insertLinkCmd.key
+#: insertlabel.accesskey
+#, fuzzy
+msgctxt "openRemoteCmd.key"
+msgid "L"
+msgstr "L"
+
+#: fileRecentMenu.label
+#: fileRecentMenu.accesskey
+msgid "&Recent Pages"
+msgstr "&Скорашње стране"
+
+#: fileRevert.label
+#: fileRevert.accesskey
+msgid "Re&vert"
+msgstr "В&рати"
+
+#: saveCmd.label
+#: saveCmd.accesskey
+msgid "&Save"
+msgstr "&Сачувај"
+
+#: saveCmd.key
+#: publishCmd.key
+#: insertselect.accesskey
+#: stylesubscript.accesskey
+#, fuzzy
+msgctxt "saveCmd.key"
+msgid "S"
+msgstr "S"
+
+#: saveAsCmd.label
+#: saveAsCmd.accesskey
+msgid "Save &As…"
+msgstr "Сачувај &као…"
+
+#: publishCmd.label
+#: publishCmd.accesskey
+msgid "Pu&blish"
+msgstr "О&бјави"
+
+#: publishCmd.key
+msgctxt "publishCmd.key"
+msgid "S"
+msgstr ""
+
+#: publishAsCmd.label
+#: publishAsCmd.accesskey
+msgid "Publis&h As…"
+msgstr "Обја&ви као…"
+
+#: exportToTextCmd.label
+#: exportToTextCmd.accesskey
+msgid "Export to &Text…"
+msgstr "Извоз као &текст…"
+
+#: saveAsChangeEncodingCmd.label
+#: saveAsChangeEncodingCmd.accesskey
+msgid "Save And Change Character &Encoding"
+msgstr "Сачувај и промени с&куп знакова"
+
+#: previewCmd.label
+#: previewCmd.accesskey
+msgid "Bro&wse Page"
+msgstr "Пре&гледај страну"
+
+#: sendPageCmd.label
+#: sendPageCmd.accesskey
+msgid "Sen&d Page…"
+msgstr "По&шаљи страну…"
+
+#: printSetupCmd.label
+#: printSetupCmd.accesskey
+msgid "Page Set&up…"
+msgstr "&Подешавање стране…"
+
+#: printCmd.label
+#: printCmd.accesskey
+#: printButtonCmd.label
+msgid "&Print…"
+msgstr "&Штампа…"
+
+#: printCmd.key
+#: newBlankPage.accesskey
+#: formatparagraphmenu.accesskey
+#: paragraphparagraph.accesskey
+#: ParagraphAbbr.label
+msgid "P"
+msgstr "P"
+
+# mac
+# LOCALIZATION NOTE : FILE Do not translate all the Cmd.key
+#: closeCmd.label
+#: closeCmd.accesskey
+msgid "&Close"
+msgstr "&Затвори"
+
+#: closeCmd.key
+msgid "W"
+msgstr "W"
+
+# Edit menu items
+#. Edit menu items
+#: editMenu.label
+#: editMenu.accesskey
+msgid "&Edit"
+msgstr "&Уређивање"
+
+#: pasteNoFormatting.label
+#: pasteNoFormatting.accesskey
+msgid "Paste With&out Formatting"
+msgstr "Убаци без &форматирања"
+
+#: pasteNoFormatting.key
+msgid "V"
+msgstr "V"
+
+#: pasteAs.label
+#: pasteAs.accesskey
+msgid "Paste &As"
+msgstr "Убаци &као"
+
+#: publishSettings.label
+#: publishSettings.accesskey
+msgid "Pu&blishing Site Settings…"
+msgstr "Обја&ва подешавања сајта…"
+
+#: pasteAsQuotationCmd.label
+#: pasteAsQuotationCmd.accesskey
+msgid "Paste As &Quotation"
+msgstr "Убаци као &цитат"
+
+#: pasteAsQuotationCmd.key
+msgid "o"
+msgstr "o"
+
+#: findCmd.label
+#: findCmd.accesskey
+msgid "&Find and Replace…"
+msgstr "&Нађи и замени…"
+
+#: findCmd.key
+#: insertformmenu.accesskey
+#: insertfieldset.accesskey
+msgid "F"
+msgstr "F"
+
+#: findCmd.key2
+#: editfind.keybinding2
+msgid "VK_F19"
+msgstr "VK_F19"
+
+#: findAgainCmd.label
+#: findAgainCmd.accesskey
+msgid "Find A&gain"
+msgstr "Нађи &поново"
+
+#: findAgainCmd.key
+msgctxt "findAgainCmd.key"
+msgid "G"
+msgstr "G"
+
+#: findAgainCmd.key2
+#: findPrevCmd.key2
+#: editfindnext.keybinding2
+#: editfindprev.keybinding2
+#, fuzzy
+msgctxt "findAgainCmd.key2"
+msgid "VK_F3"
+msgstr "VK_F3"
+
+#: findPrevCmd.label
+#: findPrevCmd.accesskey
+msgid "Find Pre&vious"
+msgstr "Нађи прет&ходно"
+
+#: findPrevCmd.key
+msgctxt "findPrevCmd.key"
+msgid "G"
+msgstr "G"
+
+#: findPrevCmd.key2
+msgctxt "findPrevCmd.key2"
+msgid "VK_F3"
+msgstr ""
+
+#: enableInlineSpellChecker.label
+#: enableInlineSpellChecker.accesskey
+msgid "&Spellcheck As You Type"
+msgstr "&Провера правописа док куцате"
+
+#: checkSpellingCmd2.label
+#: checkSpellingCmd2.accesskey
+#: checkSpellingCmd.label
+#: checkSpellingCmd.accesskey
+msgid "C&heck Spelling"
+msgstr "&Провери правопис"
+
+#: checkSpellingCmd2.key
+msgid "p"
+msgstr "p"
+
+#: validateCmd.label
+#: validateCmd.accesskey
+msgid "&Validate HTML"
+msgstr "&Провери HTML"
+
+#. Insert menu items
+#: insertMenu.label
+#: insertMenu.accesskey
+msgctxt "insertMenu.label insertMenu.accesskey"
+msgid "&Insert"
+msgstr "&Убаци"
+
+#: insertLinkCmd.label
+#: insertLinkCmd.accesskey
+msgid "&Link…"
+msgstr "&Веза…"
+
+#: insertLinkCmd.key
+msgctxt "insertLinkCmd.key"
+msgid "L"
+msgstr ""
+
+#: insertAnchorCmd.label
+#: insertAnchorCmd.accesskey
+msgid "Named &Anchor…"
+msgstr "Именовано &сидро…"
+
+#: insertImageCmd.label
+#: insertImageCmd.accesskey
+msgid "&Image…"
+msgstr "&Слика…"
+
+#: insertHLineCmd.label
+#: insertHLineCmd.accesskey
+msgid "H&orizontal Line"
+msgstr "Во&доравна линија"
+
+#: insertTableCmd.label
+#: insertTableCmd.accesskey
+msgid "&Table…"
+msgstr "&Табела…"
+
+#: insertHTMLCmd.label
+#: insertHTMLCmd.accesskey
+msgid "&HTML…"
+msgstr "&ХТМЛ…"
+
+#: insertCharsCmd.label
+#: insertCharsCmd.accesskey
+msgid "&Characters and Symbols…"
+msgstr "&Знаци и симболи…"
+
+#: insertBreakAllCmd.label
+#: insertBreakAllCmd.accesskey
+msgid "Brea&k Below Image(s)"
+msgstr "&Прелом испод слика"
+
+# Used just in context popup.
+#. Used just in context popup.
+#: spellCheckNoSuggestions.label
+msgid "(No Suggestions Found)"
+msgstr "(нема предлога)"
+
+#: spellCheckIgnoreWord.label
+#: spellCheckIgnoreWord.accesskey
+msgid "&Ignore Word"
+msgstr "&Занемари реч"
+
+#: spellCheckAddToDictionary.label
+#: spellCheckAddToDictionary.accesskey
+msgid "Add to Dictio&nary"
+msgstr "&Додај у речник"
+
+#: createLinkCmd.label
+#: createLinkCmd.accesskey
+msgid "Create Lin&k…"
+msgstr "Направи ве&зу…"
+
+#: editLinkCmd.label
+#: editLinkCmd.accesskey
+msgid "Ed&it Link in New Composer"
+msgstr "Уреди везу у &Уреднику"
+
+# (Toplevel Edit menu uses utilityOverlay)
+#. (Toplevel Edit menu uses utilityOverlay)
+#: undoCmd.label
+#: undoCmd.accesskey
+msgid "&Undo"
+msgstr "&Опозови"
+
+#: redoCmd.label
+#: redoCmd.accesskey
+msgid "&Redo"
+msgstr "&Понови"
+
+#: cutCmd.label
+#: cutCmd.accesskey
+msgid "Cu&t"
+msgstr "И&сеци"
+
+#: copyCmd.label
+#: copyCmd.accesskey
+msgid "&Copy"
+msgstr "&Умножи"
+
+#: pasteCmd.label
+#: pasteCmd.accesskey
+msgid "&Paste"
+msgstr "У&баци"
+
+#: deleteCmd.label
+#: deleteCmd.accesskey
+msgctxt "deleteCmd.label deleteCmd.accesskey"
+msgid "&Delete"
+msgstr "&Уклони"
+
+#: clearCmd.label
+#: clearCmd.accesskey
+msgid "C&lear"
+msgstr "&Очисти"
+
+#: selectAllCmd.label
+#: selectAllCmd.accesskey
+msgid "Select &All"
+msgstr "Изабери с&ве"
+
+# Font Face SubMenu
+#. Font Face SubMenu
+#: FontFaceSelect.tooltip
+msgid "Choose a font"
+msgstr "Избор писма"
+
+#: fontfaceMenu.label
+#: fontfaceMenu.accesskey
+msgid "&Font"
+msgstr "&Писмо"
+
+#: fontVarWidth.label
+#: fontVarWidth.accesskey
+msgid "&Variable Width"
+msgstr "Про&менљива ширина"
+
+#: fontFixedWidth.label
+#: fontFixedWidth.accesskey
+msgid "Fi&xed Width"
+msgstr "&Фиксна ширина"
+
+#: fontFixedWidth.key
+#: fileexporttotext.accesskey
+#: inserttextarea.accesskey
+#: bodytext.accesskey
+msgid "T"
+msgstr "T"
+
+#: fontHelvetica.label
+#: fontHelvetica.accesskey
+msgid "He&lvetica, Arial"
+msgstr "&Хелветика, аријал"
+
+#: fontTimes.label
+#: fontTimes.accesskey
+msgid "&Times"
+msgstr "&Тајмс"
+
+#: fontCourier.label
+#: fontCourier.accesskey
+msgid "&Courier"
+msgstr "&Куријер"
+
+# Font Size SubMenu
+#. Font Size SubMenu
+#: FontSizeSelect.tooltip
+msgid "Choose a font size"
+msgstr "Избор величине слова"
+
+#: decreaseFontSize.label
+#: decreaseFontSize.accesskey
+msgid "Smalle&r"
+msgstr "Ма&ња"
+
+#: decreaseFontSize.key
+#: decreaseFontSize.keybinding
+#: decreaseindentkb
+msgid "-"
+msgstr "-"
+
+#: increaseFontSize.label
+#: increaseFontSize.accesskey
+msgid "Lar&ger"
+msgstr "&Већа"
+
+#: increaseFontSize.key
+#: increaseFontSize.keybinding
+msgid "+"
+msgstr "+"
+
+# + is above this key on many keyboards
+#. + is above this key on many keyboards
+#: increaseFontSize.key2
+#: increaseFontSize.keybinding2
+#: increaseindentkb
+msgid "="
+msgstr "="
+
+#: fontSizeMenu.label
+#: fontSizeMenu.accesskey
+msgid "Si&ze"
+msgstr "&Величина"
+
+#: size-xx-smallCmd.label
+#: size-xx-smallCmd.accesskey
+msgid "xx-sm&all"
+msgstr "ма&лецка"
+
+#: size-x-smallCmd.label
+#: size-x-smallCmd.accesskey
+msgid "x-s&mall"
+msgstr "в&рло мала"
+
+#: size-smallCmd.label
+#: size-smallCmd.accesskey
+msgid "&small"
+msgstr "ма&ла"
+
+#: size-mediumCmd.label
+#: size-mediumCmd.accesskey
+msgid "me&dium"
+msgstr "&средња"
+
+#: size-largeCmd.label
+#: size-largeCmd.accesskey
+msgid "&large"
+msgstr "вели&ка"
+
+#: size-x-largeCmd.label
+#: size-x-largeCmd.accesskey
+msgid "&x-large"
+msgstr "&овећа"
+
+#: size-xx-largeCmd.label
+#: size-xx-largeCmd.accesskey
+msgid "xx-larg&e"
+msgstr "о&громна"
+
+# Font Style SubMenu
+#. Font Style SubMenu
+#: fontStyleMenu.label
+#: fontStyleMenu.accesskey
+msgid "Text &Style"
+msgstr "Стил &текста"
+
+#: styleBoldCmd.label
+#: styleBoldCmd.accesskey
+msgid "&Bold"
+msgstr "&Подебљано"
+
+# Formatting toolbar not used, but may be in future
+# Format Toolbar, imported from editorAppShell.xul
+# LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters
+#: styleBoldCmd.key
+#: insertbutton.accesskey
+#: formatToolbar.boldChar
+msgid "B"
+msgstr "B"
+
+#: styleItalicCmd.label
+#: styleItalicCmd.accesskey
+msgid "&Italic"
+msgstr "&Искошено"
+
+#: styleItalicCmd.key
+#: insertinputimage.accesskey
+#: styleitalic.accesskey
+#: formatToolbar.italicChar
+msgid "I"
+msgstr "I"
+
+#: styleUnderlineCmd.label
+#: styleUnderlineCmd.accesskey
+msgid "&Underline"
+msgstr "Под&вучено"
+
+#: styleUnderlineCmd.key
+#: formatToolbar.underlineChar
+msgid "U"
+msgstr "U"
+
+#: styleStrikeThruCmd.label
+#: styleStrikeThruCmd.accesskey
+msgid "Stri&kethrough"
+msgstr "Пре&цртано"
+
+#: styleSuperscriptCmd.label
+#: styleSuperscriptCmd.accesskey
+msgid "Su&perscript"
+msgstr "&Горњи индекс"
+
+#: styleSubscriptCmd.label
+#: styleSubscriptCmd.accesskey
+msgid "&Subscript"
+msgstr "&Доњи индекс"
+
+#: styleNonbreakingCmd.label
+#: styleNonbreakingCmd.accesskey
+msgid "&Nonbreaking"
+msgstr "&Без прелома"
+
+#: styleEm.label
+#: styleEm.accesskey
+msgid "&Emphasis"
+msgstr "&Наглашено"
+
+#: styleStrong.label
+#: styleStrong.accesskey
+msgid "S&tronger Emphasis"
+msgstr "&Јаче наглашено"
+
+#: styleCite.label
+#: styleCite.accesskey
+msgid "&Citation"
+msgstr "&Цитат"
+
+#: styleAbbr.label
+#: styleAbbr.accesskey
+msgid "&Abbreviation"
+msgstr "&Скраћеница"
+
+#: styleAcronym.label
+#: styleAcronym.accesskey
+msgid "Ac&ronym"
+msgstr "&Акроним"
+
+#: styleCode.label
+#: styleCode.accesskey
+msgid "C&ode"
+msgstr "&Кôд"
+
+#: styleSamp.label
+#: styleSamp.accesskey
+msgid "Sa&mple Output"
+msgstr "&Пример излаза"
+
+#: styleVar.label
+#: styleVar.accesskey
+msgid "&Variable"
+msgstr "П&роменљива"
+
+#: formatFontColor.label
+#: formatFontColor.accesskey
+msgid "Text &Color…"
+msgstr "&Боја текста…"
+
+#: tableOrCellColor.label
+#: tableOrCellColor.accesskey
+msgid "Table or Cell &Background Color…"
+msgstr "Боја табеле или позадине &ћелије…"
+
+#: formatRemoveStyles.key
+msgid "Y"
+msgstr "Y"
+
+#: formatRemoveLinks.key
+#: checkSpellingCmd.key
+msgid "K"
+msgstr "K"
+
+#: formatRemoveNamedAnchors.label
+#: formatRemoveNamedAnchors.accesskey
+msgid "&Remove Named Anchors"
+msgstr "&Уклони именована сидра"
+
+#: formatRemoveNamedAnchors.key
+#: filesaveas.accesskey
+#: insertanchor.accesskey
+msgid "A"
+msgstr "к"
+
+#: paragraphMenu.label
+#: paragraphMenu.accesskey
+msgctxt "paragraphMenu.label paragraphMenu.accesskey"
+msgid "&Paragraph"
+msgstr "Па&сус"
+
+#: paragraphParagraphCmd.label
+#: paragraphParagraphCmd.accesskey
+msgctxt "paragraphParagraphCmd.label paragraphParagraphCmd.accesskey"
+msgid "&Paragraph"
+msgstr "Па&сус"
+
+#: heading1Cmd.label
+#: heading1Cmd.accesskey
+msgid "Heading &1"
+msgstr "Наслов &1"
+
+#: heading2Cmd.label
+#: heading2Cmd.accesskey
+msgid "Heading &2"
+msgstr "Наслов &2"
+
+#: heading3Cmd.label
+#: heading3Cmd.accesskey
+msgid "Heading &3"
+msgstr "Наслов &3"
+
+#: heading4Cmd.label
+#: heading4Cmd.accesskey
+msgid "Heading &4"
+msgstr "Наслов &4"
+
+#: heading5Cmd.label
+#: heading5Cmd.accesskey
+msgid "Heading &5"
+msgstr "Наслов &5"
+
+#: heading6Cmd.label
+#: heading6Cmd.accesskey
+msgid "Heading &6"
+msgstr "Наслов &6"
+
+# Address Tab
+#: paragraphAddressCmd.label
+#: paragraphAddressCmd.accesskey
+msgid "&Address"
+msgstr "&Адреса"
+
+#: paragraphPreformatCmd.label
+#: paragraphPreformatCmd.accesskey
+msgid "Pre&format"
+msgstr "Пре&формат"
+
+# List menu items
+#. List menu items
+#: formatlistMenu.label
+#: formatlistMenu.accesskey
+msgid "&List"
+msgstr "&Списак"
+
+#: noneCmd.label
+#: noneCmd.accesskey
+msgid "&None"
+msgstr "&Ниједна"
+
+#: listBulletCmd.label
+#: listBulletCmd.accesskey
+msgid "&Bulleted"
+msgstr "&Тачкасти списак"
+
+#: listNumberedCmd.label
+#: listNumberedCmd.accesskey
+msgid "Nu&mbered"
+msgstr "&Набројани списак"
+
+#: listTermCmd.label
+#: listTermCmd.accesskey
+msgid "&Term"
+msgstr "Тер&мин"
+
+#: listDefinitionCmd.label
+#: listDefinitionCmd.accesskey
+msgid "&Definition"
+msgstr "&Дефиниција"
+
+#: listPropsCmd.label
+#: listPropsCmd.accesskey
+msgid "&List Properties…"
+msgstr "&Списак својстава…"
+
+#: ParagraphSelect.tooltip
+msgid "Choose a paragraph format"
+msgstr "Избор формата пасуса"
+
+# Shared in Paragraph, and Toolbar menulist
+#. Shared in Paragraph, and Toolbar menulist
+#: bodyTextCmd.label
+#: bodyTextCmd.accesskey
+msgid "Body &Text"
+msgstr "Тело тек&ста"
+
+# isn't used in menu now, but may be added in future
+#. isn't used in menu now, but may be added in future
+#: advancedPropertiesCmd.label
+#: advancedPropertiesCmd.accesskey
+msgid "Ad&vanced Properties"
+msgstr "&Напредне поставке"
+
+# Align menu items
+#. Align menu items
+#: alignMenu.label
+#: alignMenu.accesskey
+msgid "&Align"
+msgstr "&Уравнај"
+
+#: alignLeft.label
+#: alignLeft.accesskey
+msgid "&Left"
+msgstr "&Лево"
+
+#: alignLeft.tooltip
+msgid "Align Left"
+msgstr "Уравнај лево"
+
+#: alignCenter.label
+#: alignCenter.accesskey
+msgid "&Center"
+msgstr "&Средина"
+
+#: alignCenter.tooltip
+msgid "Align Center"
+msgstr "Центрирај"
+
+#: alignRight.label
+#: alignRight.accesskey
+msgid "&Right"
+msgstr "&Десно"
+
+#: alignRight.tooltip
+msgid "Align Right"
+msgstr "Уравнај десно"
+
+#: alignJustify.label
+#: alignJustify.accesskey
+msgid "&Justify"
+msgstr "&Обострано"
+
+#: alignJustify.tooltip
+msgid "Align Justified"
+msgstr "Поравнај с обе стране"
+
+# Layer toolbar items
+#. Layer toolbar items
+#: layer.tooltip
+msgid "Layer"
+msgstr "Слој"
+
+#: layerSendToBack.tooltip
+msgid "Send to Back"
+msgstr "Пошаљи у позадину"
+
+#: layerBringToFront.tooltip
+msgid "Bring to Front"
+msgstr "Пошаљи напред"
+
+#: increaseIndent.label
+#: increaseIndent.accesskey
+msgid "&Increase Indent"
+msgstr "&Повећај табулацију"
+
+#: increaseIndent.key
+#: formatindent.keybinding
+msgid "]"
+msgstr "]"
+
+#: decreaseIndent.label
+#: decreaseIndent.accesskey
+msgid "&Decrease Indent"
+msgstr "&Смањи табулацију"
+
+#: decreaseIndent.key
+#: formatoutdent.keybinding
+msgid "["
+msgstr "["
+
+#: grid.label
+#: grid.accesskey
+msgid "Posi&tioning grid"
+msgstr "&Мрежа за постављање"
+
+#: pageProperties.label
+#: pageProperties.accesskey
+msgid "Pa&ge Title and Properties…"
+msgstr "&Наслов и својства стране…"
+
+#: colorsAndBackground.label
+#: colorsAndBackground.accesskey
+msgid "Page Colors and Backgro&und…"
+msgstr "Боје стране и &позадине…"
+
+# Table Menu
+#. Table Menu
+#: tableMenu.label
+#: tableMenu.accesskey
+msgid "Ta&ble"
+msgstr "Та&бела"
+
+# Select Submenu
+#. Select Submenu
+#: tableSelectMenu.label
+#: tableSelectMenu.accesskey
+msgctxt "tableSelectMenu.label tableSelectMenu.accesskey"
+msgid "&Select"
+msgstr "&Избор"
+
+#: tableSelectMenu2.label
+#: tableSelectMenu2.accesskey
+msgid "Table &Select"
+msgstr "Изабери &табелу"
+
+#: tableInsertMenu2.label
+#: tableInsertMenu2.accesskey
+msgid "Table &Insert"
+msgstr "У&баци табелу"
+
+#: tableDeleteMenu2.label
+#: tableDeleteMenu2.accesskey
+msgid "Table &Delete"
+msgstr "У&клони табелу"
+
+#. Insert SubMenu
+#: tableInsertMenu.label
+#: tableInsertMenu.accesskey
+msgctxt "tableInsertMenu.label tableInsertMenu.accesskey"
+msgid "&Insert"
+msgstr "&Убаци"
+
+# Table Menu
+#: tableTable.label
+#: tableTable.accesskey
+msgid "&Table"
+msgstr "&Табела"
+
+#: tableRow.label
+#: tableRow.accesskey
+msgid "&Row"
+msgstr "&Ред"
+
+#: tableRows.label
+msgid "Row(s)"
+msgstr "Колона(е)"
+
+#: tableRowAbove.label
+#: tableRowAbove.accesskey
+msgid "&Row Above"
+msgstr "Ред и&знад"
+
+# uses tablerow.accesskey
+#: tableRowBelow.label
+#: tableRowBelow.accesskey
+msgid "Row &Below"
+msgstr "Ред и&спод"
+
+#: tableColumn.label
+#: tableColumn.accesskey
+msgid "C&olumn"
+msgstr "&Колона"
+
+#: tableColumns.label
+msgid "Column(s)"
+msgstr "Колона(е)"
+
+#: tableColumnBefore.label
+#: tableColumnBefore.accesskey
+msgid "C&olumn Before"
+msgstr "Ко&лона испред"
+
+# uses tablecolumn.accesskey
+#: tableColumnAfter.label
+#: tableColumnAfter.accesskey
+msgid "Column &After"
+msgstr "Колона &после"
+
+#: tableCell.label
+#: tableCell.accesskey
+msgid "&Cell"
+msgstr "&Ћелија"
+
+#: tableCells.label
+msgid "Cell(s)"
+msgstr "Ћелија(е)"
+
+#: tableCellContents.label
+#: tableCellContents.accesskey
+msgid "Cell Co&ntents"
+msgstr "Садр&жај ћелије"
+
+#: tableAllCells.label
+#: tableAllCells.accesskey
+msgid "&All Cells"
+msgstr "С&ве ћелије"
+
+#: tableCellBefore.label
+#: tableCellBefore.accesskey
+msgid "&Cell Before"
+msgstr "Ћели&ја испред"
+
+# uses tablecell.accesskey
+#: tableCellAfter.label
+#: tableCellAfter.accesskey
+msgid "Cell A&fter"
+msgstr "Ћелија из&над"
+
+# Delete SubMenu
+#. Delete SubMenu
+#: tableDeleteMenu.label
+#: tableDeleteMenu.accesskey
+msgctxt "tableDeleteMenu.label tableDeleteMenu.accesskey"
+msgid "&Delete"
+msgstr "&Уклони"
+
+# text for "Join Cells" is in editor.properties
+# ("JoinSelectedCells" and "JoinCellToRight")
+# the access key must exist in both of those strings
+# But value must be set here for accesskey to draw properly
+#
+#. text for "Join Cells" is in editor.properties
+#. ("JoinSelectedCells" and "JoinCellToRight")
+#. the access key must exist in both of those strings
+#. But value must be set here for accesskey to draw properly
+#: tableJoinCells.label
+#: tableJoinCells.accesskey
+#: alignjustify.accesskey
+#: tablejoincells.accesskey
+msgid "&j"
+msgstr "&j"
+
+#: tableSplitCell.label
+#: tableSplitCell.accesskey
+msgid "Split &Cell"
+msgstr "По&дели ћелију"
+
+#: convertToTable.label
+#: convertToTable.accesskey
+msgid "C&reate Table from Selection"
+msgstr "Направи табе&лу од избора"
+
+#: tableProperties.label
+#: tableProperties.accesskey
+msgid "Table Pr&operties…"
+msgstr "Својства &табеле…"
+
+# Toolbar-only items
+#. Toolbar-only items
+#: menuBar.tooltip
+msgid "Menu Bar"
+msgstr "Трака са менијем"
+
+#: compositionToolbar.tooltip
+msgid "Composition Toolbar"
+msgstr "Трака састављача"
+
+#: formatToolbar.tooltip
+msgid "Formatting Toolbar"
+msgstr "Трака за форматирање"
+
+#: newToolbarCmd.tooltip
+msgid "Create a new Composer page"
+msgstr "Направи нову страну у Уреднику"
+
+# msgHdrViewOverlay.js
+#: openToolbarCmd.label
+msgid "Open"
+msgstr "Отвори"
+
+#: openToolbarCmd.tooltip
+msgid "Open a local file"
+msgstr "Отвори датотеку"
+
+#: saveToolbarCmd.tooltip
+msgid "Save file to a local location"
+msgstr "Сачувај датотеку на локални диск"
+
+#: publishToolbarCmd.tooltip
+msgid "Upload file to a remote location"
+msgstr "Постави датотеку на удаљено место"
+
+#: previewToolbarCmd.label
+msgid "Browse"
+msgstr "Прегледај"
+
+#: previewToolbarCmd.tooltip
+msgid "Load this page in the browser"
+msgstr "Учитај ову страну у читач"
+
+#: printToolbarCmd.label
+msgid "Print"
+msgstr "Штампај"
+
+#: printToolbarCmd.tooltip
+msgid "Print this page"
+msgstr "Штампај ову страну"
+
+#: findToolbarCmd.label
+msgid "Find"
+msgstr "Нађи"
+
+#: findToolbarCmd.tooltip
+msgid "Find text in page"
+msgstr "Нађи текст у страни"
+
+#: spellToolbarCmd.label
+msgid "Spell"
+msgstr "Провери текст"
+
+#: spellToolbarCmd.tooltip
+msgid "Check spelling of selection or entire page"
+msgstr "Провери текст избора или целу страну"
+
+#: imageToolbarCmd.label
+#: pasteImageCmd.label
+msgid "Image"
+msgstr "Слика"
+
+#: imageToolbarCmd.tooltip
+msgid "Insert new image or edit selected image's properties"
+msgstr "Убаци нову слику или уреди поставке изабране слике"
+
+#: hruleToolbarCmd.label
+msgid "H.Line"
+msgstr "Х.линија"
+
+#: hruleToolbarCmd.tooltip
+msgid "Insert horizontal line or edit selected line's properties"
+msgstr "Убаци хоризонталну линију или уреди поставке изабране линије"
+
+# Table Menu
+#: tableToolbarCmd.label
+#: tableMenu.label
+#: tableTable.label
+msgid "Table"
+msgstr "Табела"
+
+#: tableToolbarCmd.tooltip
+msgid "Insert new table or edit selected table's properties"
+msgstr "Убаци нову табелу или уреди поставке изабране табеле"
+
+#: linkToolbarCmd.label
+#: pasteLinkCmd.label
+msgid "Link"
+msgstr "Веза"
+
+#: linkToolbarCmd.tooltip
+msgid "Insert new link or edit selected link's properties"
+msgstr "Убаци нову везу или уреди поставке изабране везе"
+
+#: anchorToolbarCmd.label
+msgid "Anchor"
+msgstr "Сидро"
+
+#: anchorToolbarCmd.tooltip
+msgid "Insert new named anchor or edit selected anchor's properties"
+msgstr "Унеси ново именовано сидро или уреди поставке изабраног сидра"
+
+#: TextColorButton.tooltip
+msgid "Choose color for text"
+msgstr "Изаберите боју за текст"
+
+#: BackgroundColorButton.tooltip
+msgid "Choose color for background"
+msgstr "Изаберите боју позадине"
+
+#: throbber.tooltip
+msgid "Go to the &vendorShortName; home page"
+msgstr "Иди на мрежну страну за &vendorShortName;"
+
+#: HighlightColorButton.tooltip
+msgid "Choose highlight color for text"
+msgstr "Избор боје за наглашавање текста"
+
+# Editor toolbar
+#. Editor toolbar
+#: decreaseFontSizeToolbarCmd.tooltip
+msgid "Smaller font size"
+msgstr "Величина мањих слова"
+
+#: increaseFontSizeToolbarCmd.tooltip
+msgid "Larger font size"
+msgstr "Величина већих слова"
+
+#: boldToolbarCmd.tooltip
+#: styleBoldCmd.label
+msgid "Bold"
+msgstr "Подебљано"
+
+#: italicToolbarCmd.tooltip
+#: styleItalicCmd.label
+msgid "Italic"
+msgstr "Искошено"
+
+#: underlineToolbarCmd.tooltip
+#: styleUnderlineCmd.label
+msgid "Underline"
+msgstr "Подвучено"
+
+#: bulletListToolbarCmd.tooltip
+msgid "Apply or remove bulleted list"
+msgstr "Постави или уклони тачкасти списак"
+
+#: numberListToolbarCmd.tooltip
+msgid "Apply or remove numbered list"
+msgstr "Постави или уклони набројани списак"
+
+#: outdentToolbarCmd.tooltip
+msgid "Outdent text (move left)"
+msgstr "Текст улево"
+
+#: indentToolbarCmd.tooltip
+msgid "Indent text (move right)"
+msgstr "Текст удесно"
+
+#: AlignPopupButton.tooltip
+msgid "Choose text alignment"
+msgstr "Избор уравнања"
+
+#: InsertPopupButton.tooltip
+msgid "Insert a Link, Anchor, Image, Horizontal Line, or Table"
+msgstr "Убаци везу, сидро, слику, линију или табелу"
+
+#: alignLeftButton.tooltip
+msgid "Align text along left margin"
+msgstr "Уравнај текст по левој маргини"
+
+#: alignCenterButton.tooltip
+msgid "Align text centered"
+msgstr "Центрирај текст"
+
+#: alignRightButton.tooltip
+msgid "Align text along right margin"
+msgstr "Уравнај текст по десној маргини"
+
+#: alignjustifyButton.tooltip
+msgid "Align text along left and right margins"
+msgstr "Уравнај текст по обе маргине"
+
+# Display Mode toolbar and View menu items
+#. Display Mode toolbar and View menu items
+#: NormalModeTab.label
+msgid "Normal"
+msgstr "Нормалан"
+
+#: NormalMode.label
+#: NormalMode.accesskey
+msgid "&Normal Edit Mode"
+msgstr "&Нормалан начин рада"
+
+#: NormalMode.tooltip
+msgid "Show table borders and named anchors"
+msgstr "Приказуј ивице табела и именована сидра"
+
+#: AllTagsMode.label
+#: AllTagsMode.accesskey
+msgid "HTML T&ags"
+msgstr "HTML О&знаке"
+
+#: AllTagsMode.tooltip
+msgid "Display icons for all HTML tags"
+msgstr "Приказуј сличице за све HTML ознаке"
+
+#: HTMLSourceMode.label
+#: HTMLSourceMode.accesskey
+msgid "&HTML Source"
+msgstr "&HTML изворни кôд"
+
+# Toolbar has an image with "HTML" text, so don't include it in the string
+#. Toolbar has an image with "HTML" text, so don't include it in the string
+#: SourceMode.label
+msgid "Source"
+msgstr "Извор"
+
+#: HTMLSourceMode.tooltip
+msgid "Edit HTML source"
+msgstr "Уреди HTML изворни кôд"
+
+#: PreviewMode.label
+#: PreviewMode.accesskey
+msgid "&Preview"
+msgstr "&Преглед"
+
+#: PreviewMode.tooltip
+msgid "Display as WYSIWYG (as in the browser)"
+msgstr "Прикажи као у читачу"
+
+# LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+# Use latin "ltr" if you want the <html> image to left of the
+# 'SourceMode.label' text defined above,
+# or use latin "rtl" if you want this image to the right of text
+# This is the value of the HTML 'dir' attribute
+#
+#
+# (pofilter) unchanged: please translate
+#
+#
+#. LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+#. Use latin "ltr" if you want the <html> image to left of the
+#. 'SourceMode.label' text defined above,
+#. or use latin "rtl" if you want this image to the right of text
+#. This is the value of the HTML 'dir' attribute
+#: SourceTabDirection
+msgid "ltr"
+msgstr "ltr"
+
+# Structure Toolbar Context Menu items
+#. Structure Toolbar Context Menu items
+#: structSelect.label
+#: structSelect.accesskey
+msgctxt "structSelect.label structSelect.accesskey"
+msgid "&Select"
+msgstr "&Избор"
+
+#: structRemoveTag.label
+#: structRemoveTag.accesskey
+msgid "&Remove tag"
+msgstr "&Уклони ознаку"
+
+#: structChangeTag.label
+#: structChangeTag.accesskey
+msgid "&Change tag"
+msgstr "&Промени ознаку"
+
+# Insert menu items
+# Insert SubMenu
+# TOC manipulation
+#. TOC manipulation
+#. Insert menu items
+#. Insert SubMenu
+#: insertTOC.label
+#: insertTOC.accesskey
+msgctxt "insertTOC.label insertTOC.accesskey"
+msgid "&Insert"
+msgstr "&Убаци"
+
+#: updateTOC.label
+#: updateTOC.accesskey
+msgid "&Update"
+msgstr "На&доградње"
+
+#: removeTOC.label
+#: removeTOC.accesskey
+msgid "&Remove"
+msgstr "&Уклони"
+
+#: tocMenu.label
+#: tocMenu.accesskey
+msgid "Ta&ble of Contents…"
+msgstr "&Садржај…"

@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2009-01-18 14:40-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is mozilla.org code.
+#
+# The Initial Developer of the Original Code is
+# Netscape Communications Corporation.
+# Portions created by the Initial Developer are Copyright (C) 1998
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s):
+#   Seth Spitzer <sspitzer@netscape.com>
+#   David Bienvenu <bienvenu@netscape.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either of the GNU General Public License Version 2 or later (the "GPL"),
+# or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+# The contents of this file are subject to the Netscape Public
+# License Version 1.1 (the "License"); you may not use this file
+# except in compliance with the License. You may obtain a copy of
+# the License at http://www.mozilla.org/NPL/
+# Software distributed under the License is distributed on an "AS
+# IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+# implied. See the License for the specific language governing
+# rights and limitations under the License.
+# The Initial Developer of the Original Code is Netscape
+# Communications Corporation. Portions created by Netscape are
+# Copyright (C) 1998 Netscape Communications Corporation. All
+# Rights Reserved.
+# \tSeth Spitzer <sspitzer@netscape.com>
+# \tDavid Bienvenu <bienvenu@netscape.com>
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. #
+#. # The contents of this file are subject to the Mozilla Public License Version
+#. # 1.1 (the "License"); you may not use this file except in compliance with
+#. # the License. You may obtain a copy of the License at
+#. # http://www.mozilla.org/MPL/
+#. #
+#. # Software distributed under the License is distributed on an "AS IS" basis,
+#. # WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. # for the specific language governing rights and limitations under the
+#. # License.
+#. #
+#. # The Original Code is mozilla.org code.
+#. #
+#. # The Initial Developer of the Original Code is
+#. # Netscape Communications Corporation.
+#. # Portions created by the Initial Developer are Copyright (C) 1998
+#. # the Initial Developer. All Rights Reserved.
+#. #
+#. # Contributor(s):
+#. #   Seth Spitzer <sspitzer@netscape.com>
+#. #   David Bienvenu <bienvenu@netscape.com>
+#. #
+#. # Alternatively, the contents of this file may be used under the terms of
+#. # either of the GNU General Public License Version 2 or later (the "GPL"),
+#. # or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. # in which case the provisions of the GPL or the LGPL are applicable instead
+#. # of those above. If you wish to allow use of your version of this file only
+#. # under the terms of either the GPL or the LGPL, and not to allow others to
+#. # use your version of this file under the terms of the MPL, indicate your
+#. # decision by deleting the provisions above and replace them with the notice
+#. # and other provisions required by the GPL or the LGPL. If you do not delete
+#. # the provisions above, a recipient may use your version of this file under
+#. # the terms of any one of the MPL, the GPL or the LGPL.
+#. #
+#. # ***** END LICENSE BLOCK *****
+#: downloadHeadersTitlePrefix
+msgid "Download Headers"
+msgstr "Преузми заглавља"
+
+#: downloadHeadersInfoText
+msgid "There are %S new message headers to download for this newsgroup."
+msgstr "Оволико порука треба примити за ову групу: %S."
+
+#: htmlNewsErrorTitle
+msgid "Error!"
+msgstr "Грешка!"
+
+# LOCALIZATION NOTE ( htmlNewsError ): In the following item, translate only "Error!" and "newsgroup server responded:"
+#. # LOCALIZATION NOTE ( htmlNewsError ): In the following item, translate only "Error!" and "newsgroup server responded:"
+#: htmlNewsError
+#, fuzzy
+msgid "<H1>Error!</H1>newsgroup server responded: "
+msgstr "<H1>Грешка!</H1>сервер за групе је одговорио:"
+
+# LOCALIZATION NOTE ( articleExpired ): In the following item, translate only "Perhaps the article has expired"
+#. # LOCALIZATION NOTE ( articleExpired ): In the following item, translate only "Perhaps the article has expired"
+#: articleExpired
+msgid "<B><P>Perhaps the article has expired</P></B>"
+msgstr "<B><P>Чланку је можда истекао рок</P></B>"
+
+#: removeExpiredArtLinkText
+msgid "Click here to remove all expired articles"
+msgstr "Притисните овде да уклоните све чланке којима је истекао рок"
+
+#: cancelDisallowed
+msgid ""
+"This message does not appear to be from you.  You may only cancel your own "
+"posts, not those made by others."
+msgstr ""
+"Ова порука није ваша. Можете отказати само сопствене поруке, а не оне које "
+"су послали други."
+
+#: cancelConfirm
+msgid "Are you sure you want to cancel this message?"
+msgstr "Да ли сигурно желите да откажете ову поруку?"
+
+#: messageCancelled
+msgid "Message cancelled."
+msgstr "Порука је отказана."
+
+#: enterUsername
+msgid "Please enter a username for news server access:"
+msgstr "Молимо унесите корисничко име за приступ групама:"
+
+#: enterUsernameTitle
+msgid "News Server Username Required"
+msgstr "Унесите корисничко име за приступ серверу за групе"
+
+#: saveUsername
+msgid "Use Password Manager to remember this value."
+msgstr "Користи управника лозинкама за памћење ове вредности."
+
+#: enterPassword
+msgid "Please enter a password for news server access:"
+msgstr "Молимо унесите лозинку за приступ групама:"
+
+#: enterPasswordTitle
+msgid "News Server Password Required"
+msgstr "Потребно је унети лозинку за сервер за групе"
+
+#: okButtonText
+msgid "Download"
+msgstr "Прими"
+
+# Status - no messages to download
+# # @name IMAP_NO_NEW_MESSAGES
+# # @loc None
+#: noNewMessages
+msgid "There are no new messages on the server."
+msgstr "Нема нових порука на серверу."
+
+#. # LOCALIZATION NOTE (newNewsgroupHeaders): %1$S is the number of the current
+#. # header being downloaded, %2$S is the number of headers to be downloaded, and
+#. #  %3$S is the newsgroup whose headers are being downloaded.
+#: newNewsgroupHeaders
+msgid "Downloading %1$S of %2$S headers for %3$S"
+msgstr ""
+
+#. # LOCALIZATION NOTE (newNewsgroupFilteringHeaders): %1$S is the name of the MIME
+#. # header being filtered on, %2$S is the number of the current header being
+#. # downloaded, %3$S is the number of headers to be downloaded, and %4$S is the
+#. # newsgroup whose headers are being downloaded.
+#: newNewsgroupFilteringHeaders
+msgid "Getting headers for filters: %1$S (%2$S/%3$S) on %4$S"
+msgstr ""
+
+#: downloadingArticles
+msgid "Downloading articles %S-%S"
+msgstr "Пријем чланака %S-%S"
+
+#: bytesReceived
+msgid "Downloading newsgroups: %S received (%SKB read at %SKB/sec)"
+msgstr "Пријем група: %S примљено (%SKB прочитано при %SKB/s)"
+
+#: downloadingArticlesForOffline
+msgid "Downloading articles %S-%S in %S"
+msgstr "Пријем чланака %S-%S у %S"
+
+#: onlyCancelOneMessage
+msgid "You can only cancel one article at a time."
+msgstr "Можете отказати само један по један чланак."
+
+# LOCALIZATION NOTE (autoUnsubscribeText): %1$S is the newsgroup and %2$S is the newsgroup-server it is being removed from.
+#. # LOCALIZATION NOTE (autoUnsubscribeText): %1$S is the newsgroup and %2$S is the newsgroup-server it is being removed from.
+#: autoUnsubscribeText
+msgid ""
+"The newsgroup %1$S does not appear to exist on the host %2$S.  Would you "
+"like to unsubscribe from it?"
+msgstr ""
+"Група %1$S изгледа не постоји на серверу %2$S. Да ли желите да је више не "
+"пратите?"
+
+# LOCALIZATION NOTE (autoSubscribeText): %1$S is the newsgroup.
+# LOCALIZATION NOTE (autoSubscribeText): %1$S is the imap folder.
+#. # LOCALIZATION NOTE (autoSubscribeText): %1$S is the newsgroup.
+#: autoSubscribeText
+msgid "Would you like to subscribe to %1$S?"
+msgstr "Да ли желите да пратите %1$S?"
+
+# LOCALIZATION NOTE (Error -304): In the following item, don't translate "NNTP"
+# Error - server error
+## @name NNTP_ERROR_MESSAGE
+## @loc None
+# # @name NNTP_ERROR_MESSAGE
+# # @loc None
+#. # LOCALIZATION NOTE (Error -304): In the following item, don't translate "NNTP"
+#. # Error - server error
+#. ## @name NNTP_ERROR_MESSAGE
+#. ## @loc None
+#: -304
+#, fuzzy
+msgid "A News (NNTP) error occurred:  "
+msgstr "Дошло је до (NNTP) грешке:"
+
+# Error - newsgroup scan error
+## @name NNTP_NEWSGROUP_SCAN_ERROR
+## @loc None
+# # @name NNTP_NEWSGROUP_SCAN_ERROR
+# # @loc None
+#. # Error - newsgroup scan error
+#. ## @name NNTP_NEWSGROUP_SCAN_ERROR
+#. ## @loc None
+#: -305
+msgid ""
+"A News error occurred.  The scan of all newsgroups is incomplete.  Try to "
+"View All Newsgroups again"
+msgstr ""
+"Десила се грешка са групама. Све групе нису прегледане. Пробајте да их "
+"поново прегледајте"
+
+# Error - NNTP authinfo failure
+## @name NNTP_AUTH_FAILED
+## @loc None
+# # @name NNTP_AUTH_FAILED
+# # @loc None
+#. # Error - NNTP authinfo failure
+#. ## @name NNTP_AUTH_FAILED
+#. ## @loc None
+#: -260
+msgid ""
+"An authorization error occurred.  Please try entering your name and/or "
+"password again."
+msgstr ""
+"Десила се грешка при пријави. Молимо покушајте да поново унесете корисничко "
+"име и лозинку."
+
+# Error - TCP error
+## @name TCP_ERROR
+## @loc None
+# # @name TCP_ERROR
+# # @loc None
+#. # Error - TCP error
+#. ## @name TCP_ERROR
+#. ## @loc None
+#: -206
+msgid "A communications error occurred.  Try connecting again.  TCP Error:"
+msgstr ""
+"Десила се грешка у комуникацији. Покушајте да се поново повежете. TCP "
+"грешка:"

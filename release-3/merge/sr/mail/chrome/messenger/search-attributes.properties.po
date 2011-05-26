@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2008-12-13 18:33-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+# these need to match nsMsgSearchAttrib interface in nsMsgSearchCore.idl
+#. #these need to match nsMsgSearchAttrib interface in nsMsgSearchCore.idl
+#. #and nsMsgSearchAttribMap in nsMsgSearchAdapter.cpp
+#: Subject
+#: 0
+msgid "Subject"
+msgstr "Тема"
+
+#: From
+#: 1
+msgid "From"
+msgstr "Шаље"
+
+#: Body
+#: 2
+msgid "Body"
+msgstr "Тело"
+
+#: Date
+#: 3
+msgid "Date"
+msgstr "Датум"
+
+#: Priority
+#: 4
+msgid "Priority"
+msgstr "Приоритет"
+
+#: Status
+#: 5
+msgid "Status"
+msgstr "Статус"
+
+#
+# The following are used by libmime for header display in XML & HTML
+#: To
+#: 6
+msgid "To"
+msgstr "Прима"
+
+#: Cc
+#: 7
+msgid "Cc"
+msgstr "Коп"
+
+#: ToOrCc
+#: 8
+msgid "To or Cc"
+msgstr "Прима или коп"
+
+#: AgeInDays
+#: 11
+msgid "Age In Days"
+msgstr "Старост у данима"
+
+#: SizeKB
+#: 13
+msgid "Size (KB)"
+msgstr "Величина (KB)"
+
+#: Tags
+#: 15
+msgid "Tags"
+msgstr "Ознаке"
+
+# for AB and LDAP
+#. # for AB and LDAP
+#: AnyName
+#: 16
+msgid "Any Name"
+msgstr "Било које име"
+
+#: DisplayName
+#: 17
+msgid "Display Name"
+msgstr "Приказано име"
+
+#: Nickname
+#: 18
+msgid "Nickname"
+msgstr "Надимак"
+
+#: ScreenName
+#: 19
+msgid "Screen Name"
+msgstr "Наденуто име"
+
+#: Email
+#: 20
+msgid "Email"
+msgstr "Ел. пошта"
+
+#: AdditionalEmail
+#: 21
+msgid "Additional Email"
+msgstr "Додатна ел. адреса"
+
+#: AnyNumber
+#: 22
+msgid "Any Number"
+msgstr "Ма који број"
+
+#: WorkPhone
+#: 23
+msgid "Work Phone"
+msgstr "Тел. на послу"
+
+#: HomePhone
+#: 24
+msgid "Home Phone"
+msgstr "Тел. кућни"
+
+#: Fax
+#: 25
+msgid "Fax"
+msgstr "Факс"
+
+#: Pager
+#: 26
+msgid "Pager"
+msgstr "Пејџер"
+
+#: Mobile
+#: 27
+msgid "Mobile"
+msgstr "Мобилни"
+
+#: City
+#: 28
+msgid "City"
+msgstr "Град"
+
+#: Street
+#: 29
+msgid "Street"
+msgstr "Улица"
+
+#: Title
+#: 30
+msgid "Title"
+msgstr "Наслов"
+
+#: Organization
+#: 31
+msgid "Organization"
+msgstr "Организација"
+
+#: Department
+#: 32
+msgid "Department"
+msgstr "Одељење"
+
+#. # more mailnews
+#: FromToCcOrBcc
+msgid "From, To, Cc or Bcc"
+msgstr ""
+
+#: JunkScoreOrigin
+#: 44
+#: 33
+#: 34
+#: 35
+#: 36
+#: 37
+#: 38
+#: 39
+#: 40
+#: 41
+#: 42
+#: 43
+#: 45
+msgid "Junk Score Origin"
+msgstr "Отпадни скор"
+
+#: JunkPercent
+#: 45
+#: 33
+#: 34
+#: 35
+#: 36
+#: 37
+#: 38
+#: 39
+#: 40
+#: 41
+#: 42
+#: 43
+#: 44
+msgid "Junk Percent"
+msgstr "Проценат отпада"
+
+#: AttachmentStatus
+#: 46
+msgid "Attachment Status"
+msgstr "Статус прилога"
+
+#: JunkStatus
+#: 47
+msgid "Junk Status"
+msgstr "Смеће"
+
+#: Label
+#: 48
+msgid "Label"
+msgstr "Ознака"
+
+#: Customize
+#: 49
+msgid "Customize…"
+msgstr "Прилагоди…"
+
+#: MissingCustomTerm
+msgid "Missing Custom Term"
+msgstr ""

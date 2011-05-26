@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2007-01-26 00:53+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#
+# The following are used by the smime content type handler
+#
+## @name NS_MSG_UNABLE_TO_OPEN_FILE
+## LOCALIZATION NOTE: the text can contain HTML tags.
+# # @name NS_MSG_UNABLE_TO_OPEN_FILE
+# # LOCALIZATION NOTE: the text can contain HTML tags.
+#. #
+#. # The following are used by the smime content type handler
+#. #
+#. ## @name NS_MSG_UNABLE_TO_OPEN_FILE
+#. ## LOCALIZATION NOTE: the text can contain HTML tags.
+#: 1000
+msgid ""
+"This is an <B>ENCRYPTED</B> or <B>SIGNED</B> message.<br> This Mail "
+"application does not support encrypted or signed mail."
+msgstr ""
+"Ово је <B>ШИФРОВАНА</B> или <B>ПОТПИСАНА</B> порука.<br> Овај програм за "
+"пошту не подржава шифроване или потписане поруке."

@@ -1,0 +1,81 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/extensions/irc/chrome/ceip.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2008-12-14 01:46-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+#: window.title
+msgid "ChatZilla Customer Experience Improvement Program"
+msgstr "Четзилин (ChatZilla) програм за побољшање корисниковог доживљаја"
+
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
+#: window.size
+msgid "width: 42em;"
+msgstr "width: 42em;"
+
+#: intro.label
+msgid ""
+"The ChatZilla Customer Experience Improvement Program collects information "
+"about how you use ChatZilla, without interrupting you. This helps the "
+"developers identify which ChatZilla features to improve. No information is "
+"used to identify or contact you."
+msgstr ""
+"Четзилин програм за побољшање корисниковог доживљаја сакупња податке о "
+"начину на који користите четзилу, а не омета Вас у раду.  Ово помаже "
+"развијачима да утврде које могућности четзиле је најважније побољшати.  "
+"Подаци се не користе како би Вас ико идентификовао или контактирао."
+
+#: groupSend.label
+msgid "Send the following data:"
+msgstr "Шаљи следеће податке:"
+
+#: sendClient.label
+#: sendClient.accesskey
+msgid "When ChatZilla is &opened and closed"
+msgstr "Када се четзила &покрене и затвори"
+
+#: sendCommand.label
+#: sendCommand.accesskey
+msgid "&Commands, menus and dialogs that are used"
+msgstr "&Команде, меније и прозоре који се користе"
+
+#: sendID.label
+msgid "Your unique ID:"
+msgstr "Ваш идентификатор:"
+
+#: sendIDSrc.label
+msgid "(randomly generated)"
+msgstr "(генерисан случајним поступком)"
+
+#: groupNotSent.label
+msgid "Data which is never sent:"
+msgstr "Подаци који се никада не шаљу:"
+
+#: notsentNickname.label
+msgid "Your nickname"
+msgstr "Ваше корисничко име"
+
+#: notsentMessages.label
+msgid "Message content, including actions and notices"
+msgstr "Садржаји порука, дејстава и обавештења"
+
+#: notsentArguments.label
+msgid "Arguments and data given to all commands, menus and dialogs"
+msgstr "Аргументи прослеђени командама, менијима и дијалозима"
+
+#: notsentURLs.label
+msgid "Names and URLs of networks, servers, channels and users"
+msgstr "Имена и УРЛ-ови мрежа, сервера, канала и корисника"
+
+#: notsentFiles.label
+msgid "Names and contents of sent and received files"
+msgstr "Имена и садржај послатих и примљених датотека"

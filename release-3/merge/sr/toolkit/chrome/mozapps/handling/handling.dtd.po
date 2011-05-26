@@ -1,0 +1,38 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/toolkit/chrome/mozapps/handling/handling.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: l 10n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2008-12-14 02:06-0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# (pofilter) unchanged: please translate
+#: window.emWidth
+#: window.emHeight
+#, fuzzy
+msgctxt "window.emWidth"
+msgid "26em"
+msgstr "26em"
+
+# (pofilter) unchanged: please translate
+#: window.emHeight
+#: window.emWidth
+msgctxt "window.emHeight"
+msgid "26em"
+msgstr "26em"
+
+#: ChooseApp.description
+msgid "Choose an Application"
+msgstr "Избор програма"
+
+#: ChooseApp.label
+#: ChooseApp.accessKey
+msgid "&Choose…"
+msgstr "&Избор…"

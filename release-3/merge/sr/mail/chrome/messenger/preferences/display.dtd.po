@@ -1,0 +1,151 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/preferences/display.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# Fonts
+# Language settings
+#: itemFormatting.label
+msgid "Formatting"
+msgstr "Обликовање"
+
+#: itemTags.label
+msgid "Tags"
+msgstr "Ознаке"
+
+#: style.label
+#: style.accesskey
+msgid "St&yle:"
+msgstr "&Стил:"
+
+#: regularStyle.label
+#: regularSize.label
+#, fuzzy
+msgctxt "regularStyle.label"
+msgid "Regular"
+msgstr "Обична"
+
+#: bold.label
+msgid "Bold"
+msgstr "Подебљан"
+
+#: italic.label
+msgid "Italic"
+msgstr "Искошен"
+
+#: boldItalic.label
+msgid "Bold Italic"
+msgstr "Подебљан и искошен"
+
+#: size.label
+#: size.accesskey
+#, fuzzy
+msgctxt "size.label size.accesskey"
+msgid "&Size:"
+msgstr "&Величина:"
+
+#: regularSize.label
+#: regularStyle.label
+msgctxt "regularSize.label"
+msgid "Regular"
+msgstr "Обична"
+
+#: bigger.label
+msgid "Bigger"
+msgstr "Већа"
+
+#: smaller.label
+msgid "Smaller"
+msgstr "Мања"
+
+#: color.label
+#: color.accesskey
+msgid "&Color:"
+msgstr "&Боја:"
+
+#: displayWidth.label
+msgid "Plain Text Messages"
+msgstr "Обичне текстуалне поруке"
+
+#: displayText.label
+msgid "When displaying quoted plain text messages:"
+msgstr "При приказивању цитираних обичних текстуалних порука:"
+
+#: colors.label
+msgid "Colors"
+msgstr "Боје"
+
+#: overrideColors.label
+msgid "When displaying messages, use the following colors:"
+msgstr "При приказивању порука, користи следеће боје:"
+
+#: textColor.label
+#: textColor.accesskey
+msgid "&Text Color:"
+msgstr "&Боја текста:"
+
+#: backgroundColor.label
+#: backgroundColor.accesskey
+msgid "&Background Color:"
+msgstr "Бо&ја позадине:"
+
+# LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)
+#. LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)
+#: convertEmoticons.label
+#: convertEmoticons.accesskey
+msgid "&Display emoticons as graphics"
+msgstr "&Прикажи смешке као сличице"
+
+# labels
+#. labels
+#: displayTagsText.label
+msgid "Tags can be used to categorize and prioritize your messages."
+msgstr "Ознаке се могу користити за разврставање и давање приоритета порукама."
+
+#: addTagButton.label
+#: addTagButton.accesskey
+msgid "&Add"
+msgstr "&Додај"
+
+#: editTagButton.label
+#: editTagButton.accesskey
+msgid "&Edit"
+msgstr "&Уреди"
+
+#: removeTagButton.label
+#: removeTagButton.accesskey
+#, fuzzy
+msgid "&Delete"
+msgstr "&Уклони"
+
+#. Fonts
+#: fontsAndColors.label
+msgid "Fonts"
+msgstr ""
+
+#: defaultFont.label
+#: defaultFont.accesskey
+msgid "&Default font:"
+msgstr ""
+
+#: defaultSize.label
+#: defaultSize.accesskey
+msgctxt "defaultSize.label defaultSize.accesskey"
+msgid "&Size:"
+msgstr ""
+
+#: fontOptions.label
+#: fontOptions.accesskey
+#, fuzzy
+msgid "&Advanced…"
+msgstr "&Писма…"

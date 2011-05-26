@@ -1,0 +1,32 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger-smime/certFetchingStatus.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2007-06-10 17:29+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# LOCALIZATION NOTE shown while obtaining certificates from a directory
+#. LOCALIZATION NOTE shown while obtaining certificates from a directory
+#: title.label
+msgid "Downloading Certificates"
+msgstr "Преузимање сертификата"
+
+#: info.message
+msgid ""
+"Searching the directory for recipients' certificates. This may take a few "
+"minutes."
+msgstr ""
+"Претражујем каталог у потрази за сертификатима прималаца. Ово може да "
+"потраје неколико тренутака."
+
+#: stop.label
+msgid "Stop Searching"
+msgstr "Обустави претрагу"

@@ -1,0 +1,215 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/editor/ui/chrome/dialogs/EditorInputProperties.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# ***** BEGIN LICENSE BLOCK *****
+# - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# -
+# - The contents of this file are subject to the Mozilla Public License Version
+# - 1.1 (the "License"); you may not use this file except in compliance with
+# - the License. You may obtain a copy of the License at
+# - http://www.mozilla.org/MPL/
+# -
+# - Software distributed under the License is distributed on an "AS IS" basis,
+# - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# - for the specific language governing rights and limitations under the
+# - License.
+# -
+# - The Original Code is Input Tag Properties Dialog.
+# -
+# - The Initial Developer of the Original Code is
+# - Neil Rashbrook.
+# - Portions created by the Initial Developer are Copyright (C) 2001
+# - the Initial Developer. All Rights Reserved.
+# -
+# - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+# -
+# - Alternatively, the contents of this file may be used under the terms of
+# - either the GNU General Public License Version 2 or later (the "GPL"), or
+# - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# - in which case the provisions of the GPL or the LGPL are applicable instead
+# - of those above. If you wish to allow use of your version of this file only
+# - under the terms of either the GPL or the LGPL, and not to allow others to
+# - use your version of this file under the terms of the MPL, indicate your
+# - decision by deleting the provisions above and replace them with the notice
+# - and other provisions required by the LGPL or the GPL. If you do not delete
+# - the provisions above, a recipient may use your version of this file under
+# - the terms of any one of the MPL, the GPL or the LGPL.
+# -
+# - ***** END LICENSE BLOCK *****
+#. ***** BEGIN LICENSE BLOCK *****
+#. - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#. -
+#. - The contents of this file are subject to the Mozilla Public License Version
+#. - 1.1 (the "License"); you may not use this file except in compliance with
+#. - the License. You may obtain a copy of the License at
+#. - http://www.mozilla.org/MPL/
+#. -
+#. - Software distributed under the License is distributed on an "AS IS" basis,
+#. - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+#. - for the specific language governing rights and limitations under the
+#. - License.
+#. -
+#. - The Original Code is Input Tag Properties Dialog.
+#. -
+#. - The Initial Developer of the Original Code is
+#. - Neil Rashbrook.
+#. - Portions created by the Initial Developer are Copyright (C) 2001
+#. - the Initial Developer. All Rights Reserved.
+#. -
+#. - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+#. -
+#. - Alternatively, the contents of this file may be used under the terms of
+#. - either the GNU General Public License Version 2 or later (the "GPL"), or
+#. - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+#. - in which case the provisions of the GPL or the LGPL are applicable instead
+#. - of those above. If you wish to allow use of your version of this file only
+#. - under the terms of either the GPL or the LGPL, and not to allow others to
+#. - use your version of this file under the terms of the MPL, indicate your
+#. - decision by deleting the provisions above and replace them with the notice
+#. - and other provisions required by the LGPL or the GPL. If you do not delete
+#. - the provisions above, a recipient may use your version of this file under
+#. - the terms of any one of the MPL, the GPL or the LGPL.
+#. -
+#. - ***** END LICENSE BLOCK *****
+#: windowTitle.label
+msgid "Form Field Properties"
+msgstr "Својства поља формулара"
+
+#: windowTitleImage.label
+msgid "Form Image Properties"
+msgstr "Својства слике формулара"
+
+#: InputType.label
+#: InputType.accesskey
+msgid "Field &Type"
+msgstr "&Врста поља:"
+
+#: text.value
+msgid "Text"
+msgstr "Текст"
+
+#: password.value
+msgid "Password"
+msgstr "Лозинка"
+
+#: checkbox.value
+msgid "Check Box"
+msgstr "Штиклирање"
+
+#: radio.value
+msgid "Radio Button"
+msgstr "Радио дугме"
+
+#: submit.value
+msgid "Submit Button"
+msgstr "Дугме за слање"
+
+#: reset.value
+msgid "Reset Button"
+msgstr "Дугме за брисање"
+
+#: file.value
+msgid "File"
+msgstr "Датотека"
+
+#: hidden.value
+msgid "Hidden"
+msgstr "Сакривено"
+
+#: image.value
+msgid "Image"
+msgstr "Слика"
+
+#: button.value
+msgid "Button"
+msgstr "Дугме"
+
+#: InputSettings.label
+msgid "Field Settings"
+msgstr "Поставке поља"
+
+#: InputName.label
+#: InputName.accesskey
+#, fuzzy
+msgid "Field &Name:"
+msgstr "Име поља:"
+
+#: GroupName.label
+#: GroupName.accesskey
+#, fuzzy
+msgid "Group &Name:"
+msgstr "Име групе:"
+
+#: InputValue.label
+#: InputValue.accesskey
+#, fuzzy
+msgid "Field &Value:"
+msgstr "Вредност поља:"
+
+#: InitialValue.label
+#: InitialValue.accesskey
+#, fuzzy
+msgid "Initial &Value:"
+msgstr "Почетна вредност:"
+
+#: InputChecked.label
+#: InputChecked.accesskey
+msgid "Initially &Checked"
+msgstr "Изабрано на &почетку"
+
+#: InputSelected.label
+#: InputSelected.accesskey
+msgid "Initially &Selected"
+msgstr "Изабрано на по&четку"
+
+#: InputReadOnly.label
+#: InputReadOnly.accesskey
+msgid "&Read Only"
+msgstr "Са&мо читање"
+
+#: InputDisabled.label
+#: InputDisabled.accesskey
+msgid "&Disabled"
+msgstr "&Искључено"
+
+#: tabIndex.label
+#: tabIndex.accesskey
+msgid "Tab &Index:"
+msgstr "Инде&кс језичка"
+
+#: TextSize.label
+#: TextSize.accesskey
+msgid "&Field Size:"
+msgstr "Величина по&ља:"
+
+#: TextLength.label
+#: TextLength.accesskey
+msgid "Maximum &Length:"
+msgstr "Највећа ду&жина"
+
+#: AccessKey.label
+#: AccessKey.accesskey
+msgid "Access &Key:"
+msgstr "Тастер за прист&уп:"
+
+#: Accept.label
+#: Accept.accesskey
+msgid "&Accept Types:"
+msgstr "&Дозвољене врсте:"
+
+#: ImageProperties.label
+#: ImageProperties.accesskey
+msgid "Imag&e Properties…"
+msgstr "&Својства слике…"

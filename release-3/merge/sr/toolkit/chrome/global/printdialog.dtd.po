@@ -1,0 +1,116 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/toolkit/chrome/global/printdialog.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2008-12-14 01:57-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# extracted from printdialog.xul
+#. extracted from printdialog.xul
+#: printButton.label
+#: printDialog.title
+#, fuzzy
+msgctxt "printButton.label"
+msgid "Print"
+msgstr "Штампање"
+
+# extracted from printdialog.xul
+#. extracted from printdialog.xul
+#: printDialog.title
+#: printButton.label
+msgctxt "printDialog.title"
+msgid "Print"
+msgstr "Штампање"
+
+#: fpDialog.title
+msgid "Save File"
+msgstr "Сачувај датотеку"
+
+#: fileCheck.label
+#: fileCheck.accesskey
+msgid "Print to &File"
+msgstr "Штампај у &датотеку"
+
+#: propertiesButton.label
+#: propertiesButton.accesskey
+msgid "Pr&operties…"
+msgstr "С&војства…"
+
+#: descText.label
+msgid "Printer Description:"
+msgstr "Опис штампача:"
+
+#: printer.label
+msgid "Printer"
+msgstr "Штампач"
+
+#: printerInput.label
+#: printerInput.accesskey
+msgid "Printer &Name:"
+msgstr "&Име штампача:"
+
+#: printrangeGroup.label
+msgid "Print Range"
+msgstr "Опсег штампе"
+
+#: allpagesRadio.label
+#: allpagesRadio.accesskey
+msgid "&All Pages"
+msgstr "&Све стране"
+
+#: rangeRadio.label
+#: rangeRadio.accesskey
+msgid "&Pages"
+msgstr "С&тране"
+
+#: frompageInput.label
+#: frompageInput.accesskey
+msgid "f&rom"
+msgstr "&од"
+
+#: topageInput.label
+#: topageInput.accesskey
+msgid "&to"
+msgstr "&до"
+
+#: selectionRadio.label
+#: selectionRadio.accesskey
+msgid "&Selection"
+msgstr "&Изабрани део"
+
+#: copies.label
+msgid "Copies"
+msgstr "Копије"
+
+#: numCopies.label
+#: numCopies.accesskey
+msgid "Number of &copies:"
+msgstr "&Број копија:"
+
+#: printframeGroup.label
+msgid "Print Frames"
+msgstr "Штампање оквира"
+
+#: aslaidoutRadio.label
+#: aslaidoutRadio.accesskey
+msgid "As laid o&ut on the screen"
+msgstr "Као на &екрану"
+
+#: selectedframeRadio.label
+#: selectedframeRadio.accesskey
+#, fuzzy
+msgid "The selected fra&me"
+msgstr "Само изабрани о&квир"
+
+#: eachframesepRadio.label
+#: eachframesepRadio.accesskey
+msgid "&Each frame separately"
+msgstr "Сваки оквир &засебно"

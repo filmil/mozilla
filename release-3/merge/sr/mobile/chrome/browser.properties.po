@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#. # Add-on Manager
+#: addonsLocalNone.label
+msgid "No add-ons installed"
+msgstr "Нема инсталираних додатака"
+
+#: addonsSearchStart.label
+msgid "Searching for add-ons…"
+msgstr "Тражим додатке…"
+
+#: addonsSearchStart.button
+msgid "Cancel"
+msgstr "Откажи"
+
+#: addonsSearchNone.search
+msgid "No matches found"
+msgstr "Нема резултата"
+
+#: addonsSearchNone.recommended
+msgid "No recommended add-ons"
+msgstr "Нема препоручљивих додатака"
+
+#: addonsSearchNone.button
+msgid "Try Again"
+msgstr "Покушајте поново"
+
+#: addonsSearchFail.label
+msgid "%S couldn't retrieve add-ons"
+msgstr "%S није могао да нађе додатке"
+
+#: addonsSearchFail.button
+msgid "OK"
+msgstr "OK"
+
+#: addonsSearchSuccess2.button
+msgid "Clear Search"
+msgstr "Очисти претрагу"
+
+#: addonsSearchEngine.description
+msgid "Integrated Search"
+msgstr "Интегрисана претрага"
+
+#: addonsConfirmInstall.title
+msgid "Installing Add-on"
+msgstr "Инсталирање додатка"
+
+#: addonsConfirmInstall.install
+msgid "Install"
+msgstr "Инсталирај"
+
+#: addonType.2
+msgid "Extension"
+msgstr "Проширење"
+
+#: addonType.4
+msgid "Theme"
+msgstr "Тема"
+
+#: addonType.8
+msgid "Locale"
+msgstr "Језик"
+
+#: addonType.1024
+msgid "Search"
+msgstr "Претрага"
+
+#: addonUpdate.checking
+msgid "Checking for updates…"
+msgstr "Провера доградњи…"
+
+#: addonUpdate.updating
+msgid "Updating to %S"
+msgstr "Доградња на %S"
+
+#: addonUpdate.updated
+msgid "Updated to %S"
+msgstr "Доградња на %S завршена"
+
+#: addonUpdate.compatibility
+msgid "A compatibility update has been applied"
+msgstr "Примењен је пакет надоградње за компатибилност"
+
+#: addonUpdate.noupdate
+msgid "No updates were found"
+msgstr "Доградње нису пронађене"
+
+#: addonUpdate.notsupported
+msgid "Updates not supported"
+msgstr "Доградње нису подржане"
+
+#: addonUpdate.disabled
+msgid "Updates are disabled"
+msgstr "Ажурирања су онемогућена"
+
+#: addonUpdate.error
+msgid "An error occurred"
+msgstr "Дошло је до грешке"
+
+#. # Download Manager
+#. # LOCALIZATION NOTE (Status): — is the "em dash" (long dash)
+#. # #1 download size for FINISHED or download state; #2 host (e.g., eTLD + 1, IP)
+#: downloadsStatus
+msgid "#1 — #2"
+msgstr "#1 — #2"
+
+#: downloadsUnknownSize
+msgid "Unknown size"
+msgstr "Непозната величина"
+
+#. # LOCALIZATION NOTE (KnownSize): #1 size number; #2 size unit
+#: downloadsKnownSize
+msgctxt "downloadsKnownSize"
+msgid "#1 #2"
+msgstr "#1 #2"
+
+#: donwloadsYesterday
+msgid "Yesterday"
+msgstr "Јуче"
+
+#. # LOCALIZATION NOTE (MonthDate): #1 month name; #2 date number; e.g., January 22
+#: downloadsMonthDate
+msgctxt "downloadsMonthDate"
+msgid "#1 #2"
+msgstr "#1 #2"
+
+#: downloadsEmpty
+msgid "No downloads"
+msgstr "Нема пријема"
+
+#. # Alerts
+#: alertAddons
+msgid "Add-ons"
+msgstr "Додаци"
+
+#: alertAddonsInstalling
+msgid "Installing add-on"
+msgstr "Инсталирање додатака"
+
+#: alertAddonsInstalled
+msgid "Installation complete. Restart required."
+msgstr "Инсталација завршена. Поновно покретање фајерфокса је неопходно."
+
+#: alertAddonsFail
+msgid "Installation failed"
+msgstr "Инсталација неуспешна"
+
+#. # LOCALIZATION NOTE (alertAddonsDisabled): Semi-colon list of plural forms.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of add-ons
+#: alertAddonsDisabled
+msgid ""
+"#1 incompatible add-on was disabled;#1 incompatible add-ons were disabled"
+msgstr ""
+"#1 incompatible add-on was disabled;#1 incompatible add-ons were disabled"
+
+#: alertDownloads
+msgid "Downloads"
+msgstr "Пријеми"
+
+#: alertDownloadsStart
+msgid "Downloading: %S"
+msgstr "Пријем: %S"
+
+#: alertDownloadsDone
+msgid "%S has finished downloading"
+msgstr "%S је завршио преузимање"
+
+#. # Notifications
+#: notificationRestart.label
+msgid "Restart to complete changes"
+msgstr "Искључите и поново покрените програм да примените промене"
+
+#: notificationRestart.button
+msgid "Restart"
+msgstr "Поново покрени"
+
+#. # Popup Blocker
+#: popupWarning
+msgid "%S prevented this site from opening a pop-up window."
+msgstr "Програм %S је спречио сајт да отвори искачући прозор."
+
+#: popupWarningMultiple
+msgid "%S prevented this site from opening %S pop-up windows."
+msgstr ""
+"Програм %S је спречио овај сајт да отвори неколико (укупно: %S) искачућих "
+"прозора."
+
+#: popupButtonAllowOnce
+msgid "Show"
+msgstr "Прикажи"
+
+#: popupButtonAlwaysAllow2
+msgid "Always Show"
+msgstr "Увек приказуј"
+
+#: popupButtonNeverWarn2
+msgid "Never Show"
+msgstr "Никада не приказуј"
+
+#. # XPInstall
+#: xpinstallPromptWarning
+msgid ""
+"%S prevented this site (%S) from asking you to install software on your "
+"computer."
+msgstr ""
+"Програм %S је спречио овај сајт (%S) да вас пита за инсталацију програма на "
+"Ваш рачунар."
+
+#: xpinstallPromptAllowButton
+msgctxt "xpinstallPromptAllowButton"
+msgid "Allow"
+msgstr "Дозволи"
+
+#: xpinstallDisabledMessageLocked
+msgid "Software installation has been disabled by your system administrator."
+msgstr "Администратор је забранио инсталацију програма."
+
+#: xpinstallDisabledMessage
+msgid ""
+"Software installation is currently disabled. Click Enable and try again."
+msgstr ""
+"Инсталација програма је тренутно забрањена.  Притисните Дозволи и пробајте "
+"поново."
+
+#: xpinstallDisabledButton
+msgid "Enable"
+msgstr "Укључи"
+
+#. # Site Identity
+#: identity.identified.verifier
+msgid "Verified by: %S"
+msgstr "Проверено: %S"
+
+#: identity.identified.verified_by_you
+msgid "You have added a security exception for this site"
+msgstr "Додали сте безбедносни изузетак за овај сајт"
+
+#: identity.identified.state_and_country
+msgid "%S, %S"
+msgstr "%S, %S"
+
+#: identity.identified.title_with_country
+msgid "%S (%S)"
+msgstr "%S (%S)"
+
+#: identity.encrypted2
+msgid "Encrypted"
+msgstr "Шифровано"
+
+#: identity.unencrypted2
+msgid "Not encrypted"
+msgstr "Није шифровано"
+
+#: identity.unknown.tooltip
+msgid "This web site does not supply identity information."
+msgstr "Овај веб сајт не даје податке о идентитету."
+
+#: identity.ownerUnknown2
+msgid "(unknown)"
+msgstr "(непознато)"
+
+#. # Geolocation UI
+#: geolocation.share
+msgid "Share"
+msgstr "Објави локацију"
+
+#: geolocation.dontShare
+msgid "Don't share"
+msgstr "Не објављуј"
+
+#: geolocation.siteWantsToKnow
+msgid "%S wants your location."
+msgstr "%S жели да зна Вашу локацију"
+
+#. # New Tab Popup
+#. # LOCALIZATION NOTE (newtabpopup): Semi-colon list of plural forms.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#. # #1 number of tabs
+#: newtabpopup.opened
+msgid "New tab opened;#1 new tabs opened"
+msgstr ""
+"Нови језичак отворен;#1 нова језичка отворена;#1 нових језичака отворено"
+
+#. # Error Console
+#: typeError
+msgid "Error:"
+msgstr "Грешка:"
+
+#: typeWarning
+msgid "Warning:"
+msgstr "Упозорење:"
+
+#. # Offline web applications
+#: offlineApps.available
+msgid "%S wants to store data on your computer for offline use."
+msgstr ""
+"Овај веб сајт (%S) тражи да сачува податке на Вашем рачунару за неповезан "
+"рад."
+
+#: offlineApps.allow
+msgctxt "offlineApps.allow"
+msgid "Allow"
+msgstr "Дозволи"
+
+#: offlineApps.never
+msgid "Don't Allow"
+msgstr "Никада за овај сајт"
+
+#: offlineApps.notNow
+msgid "Not Now"
+msgstr "Не сада"
+
+#. # Bookmark List
+#: bookmarkList.desktop
+msgid "Desktop Bookmarks"
+msgstr "Десктоп забелешке"

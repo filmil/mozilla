@@ -1,0 +1,112 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/am-main.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+# extracted from am-main.xul
+# extracted from AccountManager.xul
+#. extracted from am-main.xul
+#: accountTitle.label
+msgid "Account Settings"
+msgstr "Подешавања налога"
+
+#: accountName.label
+#: accountName.accesskey
+msgid "Account &Name:"
+msgstr "&Корисничко име:"
+
+#: identityTitle.label
+msgid "Default Identity"
+msgstr "Подразумевани идентитет"
+
+#: identityDesc.label
+msgid ""
+"Each account has an identity, which is the information that other people see "
+"when they read your messages."
+msgstr ""
+"Сваки налог има идентитет, податке које друге особе виде када читају Ваше "
+"поруке."
+
+#: name.label
+#: name.accesskey
+msgid "&Your Name:"
+msgstr "&Ваше име:"
+
+#: email.label
+#: email.accesskey
+msgid "&Email Address:"
+msgstr "&Ел. адреса:"
+
+#: replyTo.label
+#: replyTo.accesskey
+msgid "Reply-to Addre&ss:"
+msgstr "Адреса за &одговор (Reply-to):"
+
+#: organization.label
+#: organization.accesskey
+msgid "&Organization:"
+msgstr "&Установа:"
+
+#: signatureText.label
+#: signatureText.accesskey
+msgid "Signature te&xt:"
+msgstr ""
+
+#: signatureHtml.label
+#: signatureHtml.accesskey
+msgid "Use HTM&L (e.g., &lt;b&gt;bold&lt;/b&gt;)"
+msgstr ""
+
+#: signatureFile.label
+#: signatureFile.accesskey
+msgid "Attach the signature from a file instead (text, H&TML, or image):"
+msgstr ""
+
+#: edit.label
+msgid "Edit…"
+msgstr "Уреди…"
+
+#: choose.label
+#: choose.accesskey
+msgid "&Choose…"
+msgstr "&Избор…"
+
+#: editVCard.label
+#: editVCard.accesskey
+msgid "E&dit Card…"
+msgstr "У&реди картицу…"
+
+#. do not translate "vCard" in below line
+#: attachVCard.label
+#: attachVCard.accesskey
+msgid ""
+"_: do not translate \"vCard\" in below line\n"
+"Attach my &vCard to messages"
+msgstr "Приложи моју &визиткарту уз поруку"
+
+#: manageIdentities.label
+#: manageIdentities.accesskey
+msgid "&Manage Identities…"
+msgstr "Управљање &идентитетима…"
+
+#. do not translate "SMTP" in below line
+#: smtpName.label
+#: smtpName.accesskey
+msgid ""
+"_: do not translate \"SMTP\" in below line\n"
+"O&utgoing Server (SMTP):"
+msgstr "Од&лазни сервер (SMTP):"
+
+#: smtpDefaultServer.label
+msgid "Use Default Server"
+msgstr "Користи изворни сервер"

@@ -1,0 +1,228 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/accountCreation.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2009-10-10 14:06-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+#: autoconfigWizard.title
+msgid "Mail Account Setup"
+msgstr "Подешавање налога за пошту"
+
+#: name.label
+#: name.accesskey
+msgid "Your &name:"
+msgstr "Ваше &име:"
+
+#: name.emptytext
+msgid "First Last"
+msgstr "Име презиме"
+
+#: name.text
+msgid "Your name, as shown to others"
+msgstr "Име, како ће бити приказано другима"
+
+#: email.label
+#: email.accesskey
+msgid "Emai&l address:"
+msgstr "Ел. а&дреса:"
+
+#: email.emptytext
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: password.label
+#: password.accesskey
+msgid "&Password:"
+msgstr "&Лозинка:"
+
+#: password.emptytext
+#: password.description
+msgid "Password"
+msgstr "Лозинка"
+
+#: password.text
+msgid "Optional, will only be used to validate the username"
+msgstr "Изборно, биће коришћена само за проверу налога"
+
+#: accountInformation.label
+msgid "Account Information"
+msgstr "Подаци о налогу"
+
+#: username2.label
+msgid "Username:"
+msgstr "Корисничко име:"
+
+#: incoming.label
+msgid "Incoming:"
+msgstr "Долазно:"
+
+#: outgoing.label
+msgid "Outgoing:"
+msgstr "Одлазно:"
+
+#: noEncryption.label
+msgid "None"
+msgstr "без шифре"
+
+#: starttls.label
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: sslTls.label
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#: imap.label
+msgid "IMAP"
+msgstr "IMAP"
+
+#: pop.label
+msgid "POP"
+msgstr "POP"
+
+#: smtp.label
+msgid "SMTP"
+msgstr "SMTP"
+
+#: manualSetup.label
+#: manualSetup.accesskey
+msgid "Manual &Setup…"
+msgstr "Ру&чно подешавање…"
+
+#: cancel.label
+#: cancel.accesskey
+msgid "C&ancel"
+msgstr "&Откажи"
+
+#: continue.label
+#: continue.accesskey
+msgid "&Continue"
+msgstr "&Настави"
+
+#: startOver.label
+#: startOver.accesskey
+msgid "Start &over"
+msgstr "Испоче&тка"
+
+#: stop.label
+#: stop.accesskey
+msgid "&Stop"
+msgstr "&Крај"
+
+#. This is the text that is
+#. displayed on the button which will re-guess the account configuration,
+#. taking into account the settings the user has changed.
+#: retest.label
+#: retest.accesskey
+msgid "&Re-test Configuration"
+msgstr "&Поновна провера подешавања"
+
+#: edit.label
+#: edit.accesskey
+msgid "&Edit"
+msgstr "&Уређивање"
+
+#: rememberPassword.label
+#: rememberPassword.accesskey
+msgid "Re&member password"
+msgstr "&Запамти лозинку"
+
+#: warning.label
+msgid "Warning!"
+msgstr "Упозорење!"
+
+#: incomingSettings.label
+msgid "Incoming settings:"
+msgstr "Долазна подешавања:"
+
+#: outgoingSettings.label
+msgid "Outgoing settings:"
+msgstr "Одлазна подешавања:"
+
+#: technicaldetails.label
+msgid "Technical Details"
+msgstr "Технички детаљи"
+
+#. If there is a security
+#. warning on the outgoing server, then the user will need to check a
+#. checkbox beside this text before continuing.
+#: confirmWarning.label
+#: confirmWarning.accesskey
+msgid "I &understand the risks."
+msgstr "&Разумем ризике."
+
+#. If there is a security warning
+#. on the incoming or outgoing servers, then the page that pops up will
+#. have this text in a button to continue by creating the account.
+#: createAccount.label
+#: createAccount.accesskey
+msgid "&Create Account"
+msgstr "&Направи налог"
+
+#. If there is a security warning on
+#. the incoming or outgoing servers, then the page that pops up will have
+#. this text in a button to take you back to the previous page to change
+#. the settings and try again.
+#: changeSettings.label
+#: changeSettings.accesskey
+msgid "Change &Settings"
+msgstr "Промена по&дешавања"
+
+#: contactYourProvider.description
+msgid ""
+"&brandShortName; can allow you to get to your mail using the provided "
+"configurations. However, you should contact your administrator or email "
+"provider regarding these improper connections. See the Thunderbird FAQ for "
+"more information."
+msgstr ""
+"Програм &brandShortName; може да допусти приступ пошти помоћу подешавања "
+"које сет унели.  Молимо да се обратите администратору мреже, одн. добављачу "
+"електронске поште у вези са овим неодговарајућим везама.  Погледајте често "
+"постављана питања за више података."
+
+#: insecureServer.tooltip.title
+msgid "Warning! This is an insecure server."
+msgstr "Упозорење!  Ово је небезбедан сервер."
+
+#: insecureServer.tooltip.details
+msgid "Click circle for more details."
+msgstr "Притисните на кружић за више детаља."
+
+#: insecureUnencrypted.description
+msgid ""
+"Your email and authentication are sent unencrypted, so your password (and "
+"your message) could easily be read by other people. &brandShortName; will "
+"let you get to your mail, but you should contact your email provider about "
+"configuring the server with a secure connection."
+msgstr ""
+"Ваша ел. пошта и аутентикација се шаљу нешифровани, тако да су и лозинка и "
+"порука лако читљиви трећим лицима.  &brandShortName; ће вам дозволити да "
+"пошаљете поруку, али не заборавите да се обратите добављачу ел. поште како "
+"би подесио сервер са шифрованом везом."
+
+#: insecureSelfSigned.description
+msgid ""
+"The server uses a certificate that we can't trust, so we can't be sure that "
+"someone isn't intercepting the traffic between &brandShortName; and your "
+"server. &brandShortName; will let you get to your mail, but you should "
+"really get your email provider to configure the server with a trusted "
+"certificate."
+msgstr ""
+"Сервер користи сертификат који није од поверења, па зато не можемо да будемо "
+"сигурни да нико не прислушкује саобраћај између програма &brandShortName; и "
+"Вашег сервера.  Програм &brandShortName; ће Вам допустити да приступите "
+"својој пошти, али би требало да се обратите добављачу ел. поште како би Вам "
+"обезбедио обезбеђени приступ пошти."
+
+#: secureServer.description
+msgid "Congratulations! This is a secure server."
+msgstr "Честитамо!  Ово је безбедан сервер."

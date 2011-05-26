@@ -1,0 +1,113 @@
+#. extracted from /home/filip/personal/l10n/mozilla/ff-3.2/template/en-US/mail/chrome/messenger/FilterListDialog.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+"X-Accelerator-Marker: &\n"
+
+#: window.title
+msgid "Message Filters"
+msgstr "Филтери за пошту"
+
+#: nameColumn.label
+msgid "Filter Name"
+msgstr "Име филтера"
+
+#: activeColumn.label
+msgid "Enabled"
+msgstr "Укључен"
+
+#: newButton.label
+#: newButton.accesskey
+msgid "&New…"
+msgstr "&Ново…"
+
+#: editButton.label
+#: editButton.accesskey
+msgid "&Edit…"
+msgstr "&Уреди…"
+
+#: deleteButton.label
+#: deleteButton.accesskey
+msgid "Dele&te"
+msgstr "У&клони"
+
+#: reorderUpButton.label
+#: reorderUpButton.accesskey
+msgid "Move &Up"
+msgstr "Помери &горе"
+
+#: reorderDownButton.label
+#: reorderDownButton.accesskey
+msgid "Move &Down"
+msgstr "Помери &доле"
+
+#: filterHeader.label
+msgid "Enabled filters are run automatically in the order shown below."
+msgstr "Укључени филтери се аутоматски покрећу у доле назначеном редоследу."
+
+#: filtersForPrefix.label
+#: filtersForPrefix.accesskey
+msgid "&Filters for:"
+msgstr "&Филтери за:"
+
+#: viewLogButton.label
+#: viewLogButton.accesskey
+msgid "Filter &Log"
+msgstr "&Дневник филтера"
+
+#: runFilters.label
+#: runFilters.accesskey
+msgid "&Run Now"
+msgstr "&Покрени сад"
+
+#: stopFilters.label
+#: stopFilters.accesskey
+msgid "&Stop"
+msgstr "&Стоп"
+
+#: folderPickerPrefix.label
+#: folderPickerPrefix.accesskey
+msgid "Run sele&cted filter(s) on:"
+msgstr "Покрени &изабране филтере на:"
+
+#: choosethis.label
+msgid "choose this folder"
+msgstr "изабери овај директоријум"
+
+#
+# The contents of this file are subject to the Netscape Public
+# License Version 1.1 (the "License"); you may not use this file
+# except in compliance with the License. You may obtain a copy of
+# the License at http://www.mozilla.org/NPL/
+# Software distributed under the License is distributed on an "AS
+# IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+# implied. See the License for the specific language governing
+# rights and limitations under the License.
+# The Original Code is Mozilla Communicator client code, released
+# March 31, 1998.
+# The Initial Developer of the Original Code is Netscape
+# Communications Corporation. Portions created by Netscape are
+# Copyright (C) 1998-1999 Netscape Communications Corporation. All
+# Rights Reserved.
+# Labels
+#: choosethisnewsserver.label
+msgid "choose this news server"
+msgstr "изабери овај сервер за групе"
+
+#: helpButton.label
+#: helpButton.accesskey
+msgid "&Help"
+msgstr "&Помоћ"
+
+#: closeCmd.key
+msgid "W"
+msgstr "W"

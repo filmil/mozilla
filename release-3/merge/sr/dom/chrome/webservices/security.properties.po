@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 20:53-0700\n"
+"PO-Revision-Date: 2007-06-10 20:31+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.1-pre\n"
+
+#: UnsupportedNamespace
+msgid ""
+"The namespace \"%S\" is not supported. Please use "
+"\"http://www.mozilla.org/2002/soap/security\"."
+msgstr ""
+"\"%S\" није подржано. Молим користите "
+"\"http://www.mozilla.org/2002/soap/security\"."
+
+#: UnknownRootElement
+msgid ""
+"The root element \"%S\" is not recognized. Please use \"webScriptAccess\" "
+"element."
+msgstr ""
+"Корени елеменат \"%S\" није препознат. Молим користите елеменат "
+"\"webScriptAccess\"."
+
+#: UnknownElement
+msgid "The element \"%S\" is not recognized."
+msgstr "Елеменат \"%S\" није препознат."
+
+#: UnknownAttribute
+msgid "The attribute \"%S\" is not recognized."
+msgstr "Атрибут \"%S\" није препознат."
+
+#: TooManyElements
+msgid "There can be no more than one \"%S\" element."
+msgstr "Не може постојати више од \"%S\" елемената."
+
+#: ElementHasSibling
+msgid "\"%S\" element cannot have \"%S\" sibiling."
+msgstr "Елемент „%S“ не може имати елемент „%S“ у суседству."
+
+#: ElementNotEmpty
+msgid "The \"%S\" element should be empty."
+msgstr "Елеменат \"%S\" треба да је празан."
+
+#: SOAPFault
+msgid "SOAP { %S } %S call resulted in fault: { %S } %S : %S."
+msgstr "SOAP { %S } %S позив је произвео грешку: { %S } %S : %S."
