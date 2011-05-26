@@ -1,0 +1,8 @@
+Tools for bulk processing Mozilla translations
+==============================================
+
+Prerequisites
+-------------
+
+- Python >= 2.6.0
+- Translate Toolkit >= 1.9.0 (translate-toolkit)

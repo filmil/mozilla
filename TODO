@@ -1,0 +1,11 @@
+-*- auto-fill -*-
+
+- Convert Mozilla source hg repo to locale only text. [src2loc]
+
+- Convert Mozilla locale only text to POT templates plus non-template
+  files. [loc2pot]
+
+- Convert Serbian locale files to PO files. [l10n2po]
+
+- Merge existing POT files and PO files into a new set of PO
+  files. [pot2po2po]
